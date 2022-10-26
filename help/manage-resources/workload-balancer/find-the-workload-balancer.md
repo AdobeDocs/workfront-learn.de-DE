@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: c6c0e4405cd3151b5ad9a490dbeab237855dde29
+source-git-commit: 4f5ef62945a0e28b80bbb9855b67817e2297a712
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,9 @@ Ihr Zweck besteht darin, Ihnen bessere Einblicke in die tägliche und wöchentli
 ![Menüoption &quot;Ressourcen&quot;](assets/Find_01.png)
 
 * Klicken [!UICONTROL Ressourcen] im [!UICONTROL Hauptmenü].
-* Navigieren Sie zu [!UICONTROL Planung] im Bereich &quot;Ressourcenverwaltung&quot;.
-* Klicken Sie auf [!UICONTROL &quot;Wechsel zum Lastenausgleich&quot;] Link.
+* Navigieren Sie zu [!UICONTROL Lastenausgleich] im Bereich &quot;Ressourcenverwaltung&quot;.
 
-![Wechsel zum Lastenausgleich](assets/Find_02.png)
-
-Die [!DNL Workload Balancer] ist die Standardoption, wenn Sie zum Bereich Ressourcenverwaltung des Workfront-Tools wechseln.
+![Abschnitt zum Arbeitslastausgleich](assets/Find_02.png)
 
 ## Bereiche im Arbeitslastausgleich
 
@@ -41,10 +38,10 @@ Zwei Abschnitte werden im [!DNL Workload Balancer]: Zugewiesene Arbeit und nicht
 
 Der Bereich &quot;Zugewiesene Arbeit&quot;zeigt eine Liste der Benutzer und der Arbeit an, die ihnen in Workfront bereits zugewiesen wurden. Standardmäßig wird dieser Bereich nach Benutzern gefiltert, die Teil der Workfront-Teams sind, denen Sie angehören. Auf diese Weise können Sie sehen, welchen Teammitgliedern die Arbeit zugewiesen wurde.
 
-![zugewiesene Bereichsbenutzer](assets/Find_03b.png)
+![zugewiesene Bereichsbenutzer](assets/Find_04.png)
 
 Im Arbeitsbereich &quot;Nicht zugewiesen&quot;werden Arbeiten angezeigt, die noch zugewiesen werden müssen, unabhängig davon, ob es sich um eine Person, eine Rolle oder ein Team handelt. Zunächst wird dieser Bereich jedoch nichts anzeigen.
 
-![nicht zugewiesener Arbeitsbereich](assets/Find_03c.png)
+![nicht zugewiesener Arbeitsbereich](assets/Find_05.png)
 
 Wenn Sie mit dem leeren Arbeitsbereich &quot;Nicht zugewiesen&quot;beginnen, können Sie sich zunächst auf die aktuellen Arbeitslasten Ihrer Benutzer im Bereich &quot;Zugewiesene Arbeit&quot;konzentrieren, bevor Sie Zuweisungen vornehmen.
