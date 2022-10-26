@@ -2,7 +2,7 @@
 title: Workfront Tutorials
 description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen dabei helfen, die Funktionen und Einstellungen von Workfront besser zu verstehen.  Dazu gehört eine Sammlung von Best Practices, kuratierten Übungen und anderen Ressourcen, die Ihnen und Ihrer Organisation dabei helfen, Workfront erfolgreich zu nutzen.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: e2fc2111ddb8ec5d92e643bf1ead87a669b571b4
+source-git-commit: e7d493b3686007feba1b3f6714e02f285807267e
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,6 +22,8 @@ See other user landing pages to get ideas.
 
 -->
 
+<div id="whats-new-section">
+
 ## Neuigkeiten
 
 Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede Workfront-Produktversion. Hier finden Sie Informationen zur neuesten Version:
@@ -30,6 +32,16 @@ Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede
 
 * Konfigurieren Sie ein benutzerdefiniertes Formular für die Verwendung mit mehreren Objekttypen. Siehe wie in <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">Erstellen und Freigeben eines benutzerdefinierten Formulars</a> Tutorial.
 
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Mitarbeiterauswahl
 
@@ -76,3 +88,5 @@ Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede
     </td>
   </tr>
 </table>
+
+</div>
