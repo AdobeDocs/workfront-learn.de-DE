@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2206'
+source-wordcount: '2212'
 ht-degree: 2%
 
 ---
@@ -216,7 +216,7 @@ ht-degree: 2%
       + [Erweiterte Berichterstellung Teil 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Erweiterte Berichterstellung Teil 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Erweiterte Berichterstellung Teil 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
-   + Verbesserte Analytics {#enhanced-analytics}
+   + Erweiterte Analyse {#enhanced-analytics}
       + [Erste Schritte mit [!UICONTROL Verbesserte Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Hinzufügen [!UICONTROL analytics] zu Layoutvorlagen](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Grundlegende Navigation](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -573,6 +573,7 @@ ht-degree: 2%
       + [Hinzufügen und Verwalten von Teammitgliedern für eine Pinnwand](boards/add-and-manage-team-members-for-a-board.md)
       + [Hinzufügen von Karten zu einer Pinnwand](boards/add-cards-to-a-board.md)
       + [Grundlegende Pinnwand suchen und erstellen](boards/find-and-create-a-basic-board.md)
+      + [Suchen und Suchen in einer Pinnwand](boards/find-and-search-in-a-board.md)
       + [Pinnwandspalten verwalten](boards/manage-board-columns.md)
       + [Karten auf einer Pinnwand verwalten](boards/manage-cards-on-a-board.md)
 
