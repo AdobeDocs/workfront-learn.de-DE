@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
+source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
 workflow-type: tm+mt
-source-wordcount: '2212'
+source-wordcount: '2218'
 ht-degree: 2%
 
 ---
@@ -92,39 +92,39 @@ ht-degree: 2%
 
 + Verwalten von Arbeiten {#manage-work}
    + Projekte {#projects}
-      + [Grundlegendes zur Projekterstellung](manage-work/projects/understand-basic-project-creation.md)
-      + [Andere Möglichkeiten zum Erstellen von Projekten](manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [Projekte suchen](manage-work/projects/find-projects.md)
-      + [Projekt freigeben](manage-work/projects/share-a-project.md)
-      + [Navigieren zur Projektseite](manage-work/projects/navigate-the-project-page.md)
-      + [Erste Schritte bei der Projektplanung](manage-work/projects/getting-started-plan-a-project.md)
+      + [Ändern des Projektstatus](manage-work/projects/change-the-project-status.md)
       + [Füllen Sie die Projektdetails aus.](manage-work/projects/fill-in-the-project-details.md)
-      + [Projekt live stellen](manage-work/projects/take-a-project-live.md)
+      + [Projekte suchen](manage-work/projects/find-projects.md)
       + [Erste Schritte bei der Projektverwaltung](manage-work/projects/getting-started-manage-a-project.md)
+      + [Erste Schritte bei der Projektplanung](manage-work/projects/getting-started-plan-a-project.md)
+      + [Navigieren zur Projektseite](manage-work/projects/navigate-the-project-page.md)
+      + [Projekt freigeben](manage-work/projects/share-a-project.md)
+      + [Projekt live stellen](manage-work/projects/take-a-project-live.md)
       + [Gesamten Projektfortschritt verfolgen](manage-work/projects/track-overall-project-progress.md)
       + [Verfolgen des Arbeitsfortschritts mit Projektmetriken](manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [Grundlegendes zur Projekterstellung](manage-work/projects/understand-basic-project-creation.md)
+      + [Andere Möglichkeiten zum Erstellen von Projekten](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Projektkommunikation verstehen](manage-work/projects/understand-project-communication.md)
       + [Die [!UICONTROL Gantt] Ansicht](manage-work/projects/understand-the-gantt-view.md)
       + [Projektinformationen anzeigen](manage-work/projects/view-project-information.md)
-      + [Ändern des Projektstatus](manage-work/projects/change-the-project-status.md)
    + Aufgaben {#tasks}
+      + [Zuweisen von Aufgaben aus dem Projektplan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Erstellen von Aufgaben](manage-work/tasks/how-to-create-tasks.md)
       + [Informationen zum Sequenzieren von Aufgaben](manage-work/tasks/learn-to-sequence-tasks.md)
       + [Grundlegendes [!UICONTROL Arbeitsaufwand]](manage-work/tasks/understand-work-effort.md)
       + [Grundlegendes zu über- und untergeordneten Aufgaben](manage-work/tasks/understand-parent-child-tasks.md)
       + [Grundlegendes zu geplanten Stunden](manage-work/tasks/understand-planned-hours.md)
       + [Aufgabendauer verstehen](manage-work/tasks/understand-task-durations.md)
-      + [Zuweisen von Aufgaben aus dem Projektplan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Arbeiten mit Aufgaben](manage-work/tasks/work-with-tasks.md)
    + Probleme/Anforderungen {#issues-requests}
+      + [Konvertieren von Problemen in andere Arbeitselemente](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Erstellen eines Projekts aus einer Anforderung](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Suchen nach Anforderungen](manage-work/issues-requests/find-requests.md)
       + [Ungeplante Arbeit handhaben](manage-work/issues-requests/handle-unplanned-work.md)
       + [Anfrage stellen](manage-work/issues-requests/make-a-request.md)
-      + [Suchen nach Anforderungen](manage-work/issues-requests/find-requests.md)
       + [Anforderungen verwalten](manage-work/issues-requests/manage-incoming-requests.md)
-      + [Anforderung aktualisieren](manage-work/issues-requests/update-a-request.md)
-      + [Erstellen eines Projekts aus einer Anforderung](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Konvertieren von Problemen in andere Arbeitselemente](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Digitale Arbeit überprüfen](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [Anforderung aktualisieren](manage-work/issues-requests/update-a-request.md)
       + [Problemzuweisungen verwalten](manage-work/issues-requests/manage-issue-assignments.md)
       + [Problembericht](manage-work/issues-requests/report-on-issues.md)
    + Portfolios {#portfolios}
@@ -153,22 +153,22 @@ ht-degree: 2%
       + [Typen von Datumsangaben und Status des Fortschritts](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [Zeitpläne von Projekten](manage-work/project-timelines/understand-project-timelines.md)
    + Projekt schließen {#close-a-project}
+      + [Projekt schließen](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Schließen von Aufgaben und Problemen](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Vollständige Genehmigungen](manage-work/close-a-project/complete-approvals.md)
       + [Lehren aus den bisherigen Erfahrungen](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Protokoll- und Überprüfungszeiten](manage-work/close-a-project/log-and-review-hours.md)
       + [Hochladen von Assets](manage-work/close-a-project/upload-assets.md)
-      + [Projekt schließen](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Schließen einer Projektaktivität](manage-work/close-a-project/close-a-project-activity.md)
    + Projektfinanzierung {#project-finances}
-      + [Leistungsmetriken verstehen](manage-work/project-finances/understand-performance-metrics.md)
-      + [Einrichten der standardmäßigen Einnahmen- und Kosteneinstellungen für Aufgaben](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [Finden Sie Finanzinformationen](manage-work/project-finances/find-financial-information.md)
       + [Wechselkurse einrichten](manage-work/project-finances/set-up-exchange-rates.md)
       + [Einrichten von Ausgabentypen](manage-work/project-finances/set-up-expense-types.md)
+      + [Einrichten der standardmäßigen Einnahmen- und Kosteneinstellungen für Aufgaben](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Finanziellen Zugang verstehen](manage-work/project-finances/understand-financial-access.md)
-      + [Aktualisierung und Überprüfung der Finanzen](manage-work/project-finances/update-and-review-finances.md)
-      + [Finden Sie Finanzinformationen](manage-work/project-finances/find-financial-information.md)
       + [Verstehen mehrerer Abrechnungsraten](manage-work/project-finances/multiple-billing-rates.md)
+      + [Leistungsmetriken verstehen](manage-work/project-finances/understand-performance-metrics.md)
+      + [Aktualisierung und Überprüfung der Finanzen](manage-work/project-finances/update-and-review-finances.md)
 
 
 
@@ -210,6 +210,8 @@ ht-degree: 2%
       + [Grundlegendes zu integrierten Aufgabenfiltern](reporting/intermediate-reporting/open-built-in-task-filters.md)
       + [Grundlegendes zu integrierten Problemfiltern](reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [Grundlegendes zum Textmodus für Filter](reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [Grundlegendes zum Textmodus für Ansichten](reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Grundlegendes zum Textmodus für Gruppierungen](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [Benutzerdefinierte Eingabeaufforderungen erstellen](reporting/intermediate-reporting/custom-prompts.md)
    + Erweiterte Berichterstellung {#advanced-reporting}
       + [Willkommen bei der erweiterten Berichterstellung](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -573,7 +575,6 @@ ht-degree: 2%
       + [Hinzufügen und Verwalten von Teammitgliedern für eine Pinnwand](boards/add-and-manage-team-members-for-a-board.md)
       + [Hinzufügen von Karten zu einer Pinnwand](boards/add-cards-to-a-board.md)
       + [Grundlegende Pinnwand suchen und erstellen](boards/find-and-create-a-basic-board.md)
-      + [Suchen und Suchen in einer Pinnwand](boards/find-and-search-in-a-board.md)
       + [Pinnwandspalten verwalten](boards/manage-board-columns.md)
       + [Karten auf einer Pinnwand verwalten](boards/manage-cards-on-a-board.md)
 
@@ -584,7 +585,7 @@ ht-degree: 2%
    + [API-Explorer](best-practices/api-explorer-bp.md)
    + [Geschäftsfall und Portfolio-Optimierung](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Kommunikation](best-practices/communication-bp.md)
-   + [Benutzerdefinierte Formulare in meiner Gruppe](best-practices/custom-forms-bp.md)
+   + [Benutzerdefinierte Formulare](best-practices/custom-forms-bp.md)
    + [Benutzerspezifische Berichte](best-practices/custom-reports-bp.md)
    + [Dashboards](best-practices/dashboards-bp.md)
    + [Dokumente](best-practices/documents-bp.md)
