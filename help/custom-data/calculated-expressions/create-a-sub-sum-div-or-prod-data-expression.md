@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335177.png
 kt: 8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 527af78f92f2b85a30de69f31fce7b4b06491bdd
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,11 @@ Meistens wird der ROUND-Datenausdruck in Verbindung mit einem anderen Datenausdr
 
 Erstellen wir ein berechnetes Feld, um den Unterschied zwischen der geplanten und der tatsächlich angemeldeten Anzahl von Stunden für eine Aufgabe zu ermitteln, für die der SUB-Ausdruck erforderlich ist und wie folgt aussieht:
 
-**Unterabschnitt (geplante Stunden,tatsächliche Stunden)**
+**SUB({workRequired},{ISTWorkRequired})**
 
 Da die Zeit in Minuten verfolgt wird und das bevorzugte Format darin besteht, die Informationen in Stunden anzuzeigen, muss der Ausdruck auch durch 60 geteilt werden und wie folgt aussehen:
 
-**DIV(SUB(Geplante Stunden,tatsächliche Stunden),60)**
+**DIV(SUB({workRequired},{ISTWorkRequired}),60)**
 
 Wenn das Format beim Erstellen des berechneten Felds im benutzerdefinierten Formular in Zahl geändert wird, können Sie das Zahlenformat ändern, wenn Sie das Feld in einer Ansicht hinzufügen.
 
@@ -50,12 +50,14 @@ Wenn das Feldformat jedoch beim Erstellen eines benutzerdefinierten Felds als Te
 
 ![Lastenausgleich mit Nutzungsbericht](assets/round02.png)
 
-Verwenden des ROUND-Datenausdrucks in einem berechneten Feld Der ROUND-Ausdruck enthält den Namen des Ausdrucks (RUND) und normalerweise zwei Datenpunkte. Diese Datenpunkte können ein Ausdruck oder ein Feld in [!DNL Workfront], gefolgt von einer Zahl, die angibt, wie viele Dezimalstellen Sie verwenden möchten.
+<b>Verwenden des ROUND-Datenausdrucks in einem berechneten Feld</b>
+
+Der ROUND-Ausdruck enthält den Namen des Ausdrucks (ROUND) und normalerweise zwei Datenpunkte. Bei diesen Datenpunkten kann es sich um einen Ausdruck oder ein Feld in Workfront handeln, gefolgt von einer Zahl, die angibt, wie viele Dezimalstellen Sie verwenden möchten.
 
 Ein Ausdruck würde wie folgt strukturiert sein: ROUND(data point, #)
 
-Verwenden Sie in dem Ausdruck, der die Differenz zwischen geplanten und tatsächlichen Stunden berechnet, diesen Ausdruck —DIV(SUB(Planed Hours, Actual Hours),60)—als ersten Datenpunkt. Stellen Sie dann sicher, dass die Zahl, die von diesem Ausdruck stammt, nicht mehr als 2 Stellen rechts von der Dezimalstelle umfasst.
+Verwenden Sie in dem Ausdruck, der die Differenz zwischen geplanten und tatsächlichen Stunden berechnet, diesen Ausdruck —DIV(SUB({workRequired},{tatsächlichWorkRequired}),60)—als ersten Datenpunkt. Stellen Sie dann sicher, dass die Zahl, die von diesem Ausdruck stammt, nicht mehr als 2 Stellen rechts von der Dezimalstelle umfasst.
 
 ![Lastenausgleich mit Nutzungsbericht](assets/round03.png)
 
-Der Ausdruck könnte wie folgt geschrieben werden: ROUND(DIV(SUB(Geplante Stunden, tatsächliche Stunden),60),2).
+Der Ausdruck könnte wie folgt geschrieben werden: ROUND(DIV(SUB({workRequired},{ISTWorkRequired}),60),2).
