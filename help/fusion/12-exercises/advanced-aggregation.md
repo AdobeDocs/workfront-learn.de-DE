@@ -1,14 +1,14 @@
 ---
 title: Erweiterte Aggregation
-description: Erfahren Sie, wie Sie beim Aggregieren Gruppierungen verwenden. (Sollte zwischen 60 und 160 Zeichen, jedoch 49 Zeichen lang sein)
+description: Rufen Sie einen Webdienst auf, um Details zu mehreren Ländern zurückzugeben und die Population nach Unterregion zu identifizieren.
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Rufen Sie einen Webdienst auf, um Details zu mehreren Ländern zurückzugeben un
 
 1. Erstellen Sie ein neues Szenario und nennen Sie es &quot;Erweiterte Aggregation&quot;.
 1. Setzen Sie das Trigger-Modul auf ein HTTP - Erstellen Sie ein Anfragemodul.
-1. Verwenden Sie diese URL https://restcountries.eu/rest/v2/ lang/es, die Ihnen eine Liste aller Länder anzeigt, in denen Spanisch gesprochen wird.
+1. Verwenden Sie diese URL, https://restcountries.com/v2/lang/es , die Ihnen eine Liste aller Länder anzeigt, in denen Spanisch gesprochen wird.
 1. Belassen Sie die Methode auf &quot;Get&quot;.
 1. Aktivieren Sie das Kontrollkästchen Antwort analysieren .
 1. Benennen Sie dieses Modul &quot;Get Countries&quot;um.
@@ -44,12 +44,12 @@ Rufen Sie einen Webdienst auf, um Details zu mehreren Ländern zurückzugeben un
 
    **Sie müssen für jedes Land Subregion-Informationen erfassen, sodass Sie eine zusätzliche HTTP-Anfrage stellen müssen.**
 
-1. Fügen Sie eine weitere Anfrage hinzu, um Informationen zur Subregion zu erhalten. Es wird nur das erste Land zurückgeben, aber das ist vorerst in Ordnung. Fügen Sie ein weiteres HTTP-Anforderungsmodul hinzu und verwenden Sie die URL https://restcountries.eu/rest/v2/name/.
+1. Fügen Sie eine weitere Anfrage hinzu, um Informationen zur Subregion zu erhalten. Es wird nur das erste Land zurückgeben, aber das ist vorerst in Ordnung. Fügen Sie ein weiteres HTTP-Anforderungsmodul hinzu und verwenden Sie die URL https://restcountries.com/v2/name/.
 1. Um den Namen des ersten Landes abzurufen, wechseln Sie zum Zuordnungsbereich und klicken Sie auf Daten und dann im Array auf Name . Die [1] im Datenfeld bedeutet, dass es das erste Element im Array zurückgibt.
 
    + Klicken Sie auf die Zahl und ändern Sie den Index bei Bedarf, in diesem Fall aber nur das erste Element.
 
-   ![Erweiterte Aggregationsbild 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![Erweiterte Aggregationsbild 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. Aktivieren Sie im Zuordnungsbereich die Option Antwort analysieren und klicken Sie dann auf OK.
 1. Benennen Sie &quot;Länderdetails abrufen&quot;um.
