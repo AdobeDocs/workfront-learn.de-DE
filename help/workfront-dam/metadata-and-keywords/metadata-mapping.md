@@ -7,7 +7,7 @@ role: Admin
 level: Intermediate
 kt: 10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 2e0555a45d753a56628cf748537a6007ed548206
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Mit dieser Verbindung können Sie jetzt mit der Zuordnung von Metadaten zwischen
 1. Geben Sie im Feld Workfront die Feldquelle der [!DNL Workfront] -Feld, das zugeordnet werden soll.
 1. Wählen Sie dann die entsprechende Zielgruppe aus **[!UICONTROL Workfront DAM]** Metadatenfeld.
 1. Klicken Sie auf **[!UICONTROL Zuordnung hinzufügen]** Schaltfläche.
-1. Sie sehen die [!UICONTROL Workfront-Feldquelle] und [!UICONTROL Workfront DAM Target-Feld] in der Grafik unten im Fenster.
+1. Du wirst die [!UICONTROL Workfront-Feldquelle] und [!UICONTROL Workfront DAM Target-Feld] in der Grafik unten im Fenster.
 1. Wiederholen Sie diese Schritte für alle gewünschten Metadatenfelder.
 
 ![Ein Screenshot der [!UICONTROL Metadatenzuordnung] Bildschirm in [!DNL Workfront]](assets/01-metadata-mapping.png)
