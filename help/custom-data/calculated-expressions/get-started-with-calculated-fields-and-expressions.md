@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: f81d156b4058bec70bc3256efda6f85746f0f625
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
 
-[!DNL Workfront] bietet eine Vielzahl von Feldern, die in verschiedenen Geschäftsbereichen vorkommen und regelmäßig für das Arbeitsmanagement verwendet werden. Felder wie geplanter Abschlussdatum, Projekt-Budget, Name des Aufgabenverantwortlichen usw.
+Workfront bietet eine Vielzahl von Bereichen, die in mehreren Geschäftsbereichen zum Einsatz kommen und regelmäßig für das Arbeitsmanagement eingesetzt werden. Felder wie geplanter Abschlussdatum, Projekt-Budget, Name des Aufgabenverantwortlichen usw.
 
 Jede Organisation verfügt jedoch über branchen- und unternehmensspezifische Daten, die gesammelt werden müssen, um zu verstehen, ob die Unternehmensziele erreicht werden. Ihre Organisation möchte beispielsweise Folgendes verfolgen:
 
@@ -33,10 +33,6 @@ Obwohl diese Felder nicht von Natur aus in [!DNL Workfront]können Sie benutzerd
 Dieser Lernpfad konzentriert sich auf das berechnete Feld. Sie erfahren, was ein berechnetes Feld ist, welche verschiedenen Arten von Informationen Sie über Datenausdrücke in das berechnete Feld ziehen können und wie Sie diese berechneten Felder erstellen, um Ihre Datenerfassung und Berichterstellung zu verbessern.
 
 ![Ressourcen-Management richtet einen Pager ein](assets/GS01.png)
-
-**Erinnerung an benutzerdefinierte Formulare**
-
-Felder sind objektspezifisch. Wenn Sie beispielsweise ein berechnetes Feld für ein benutzerdefiniertes Aufgabenformular erstellen, können Sie dieses Feld in einem beliebigen Aufgabenbericht verwenden.
 
 ## Was ist ein berechnetes Feld?
 
@@ -55,7 +51,7 @@ Mithilfe von Ausdrücken in einem berechneten Feld können Sie alle Informatione
 
 ![Lastenausgleich mit Nutzungsbericht](assets/GS03.png)
 
-Je nach den benötigten spezifischen Daten können berechnete Felder einfach sein, mit ein oder zwei Ausdrücken oder komplizierter sein, wenn mehrere eingebettete Ausdrücke verwendet werden. Beachten Sie bitte Folgendes: [!DNL Workfront] kann nur für berechnete Felder bereits gespeicherte oder in das System abgerufene Daten verwenden.
+Je nach den benötigten spezifischen Daten können berechnete Felder einfach sein, mit ein oder zwei Ausdrücken oder komplizierter sein, wenn mehrere eingebettete Ausdrücke verwendet werden. Beachten Sie, dass Workfront nur für berechnete Felder bereits gespeicherte oder in das System abgerufene Daten verwenden kann.
 
 ## Textausdrücke
 
@@ -69,8 +65,9 @@ Textausdrücke können beispielsweise für Folgendes verwendet werden:
 
 * Erstellen Sie einen Bericht, der alle Projekte auflistet, die keinem Portfolio und/oder Programm zugewiesen sind, damit Sie diesen Bericht in Ihren Manager-Sitzungen verwenden können.
 
-Textausdrücke können in einem benutzerdefinierten Feld verwendet werden, um diese Arten von Suchen und Kombinationen in [!DNL Workfront].
-TE Wenn Sie sich die möglichen Textausdrücke ansehen, finden Sie mehrere Optionen.
+Textausdrücke können in einem benutzerdefinierten Feld verwendet werden, um diese Arten von Suchen und Kombinationen in Workfront durchzuführen.
+
+Wenn Sie sich die möglichen Textausdrücke ansehen, finden Sie mehrere Optionen.
 
 ![Ressourcen-Management richtet einen Pager ein](assets/TE01.png)
 
