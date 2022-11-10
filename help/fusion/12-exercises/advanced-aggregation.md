@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # Erweiterte Aggregation
 
@@ -32,7 +32,7 @@ Rufen Sie einen Webdienst auf, um Details zu mehreren Ländern zurückzugeben un
 
 1. Erstellen Sie ein neues Szenario und nennen Sie es &quot;Erweiterte Aggregation&quot;.
 1. Setzen Sie das Trigger-Modul auf ein HTTP - Erstellen Sie ein Anfragemodul.
-1. Verwenden Sie diese URL, https://restcountries.com/v2/lang/es , die Ihnen eine Liste aller Länder anzeigt, in denen Spanisch gesprochen wird.
+1. Verwenden Sie diese URL, `https://restcountries.com/v2/lang/es`, die Ihnen eine Liste aller Länder anzeigt, in denen Spanisch gesprochen wird.
 1. Belassen Sie die Methode auf &quot;Get&quot;.
 1. Aktivieren Sie das Kontrollkästchen Antwort analysieren .
 1. Benennen Sie dieses Modul &quot;Get Countries&quot;um.
@@ -44,7 +44,7 @@ Rufen Sie einen Webdienst auf, um Details zu mehreren Ländern zurückzugeben un
 
    **Sie müssen für jedes Land Subregion-Informationen erfassen, sodass Sie eine zusätzliche HTTP-Anfrage stellen müssen.**
 
-1. Fügen Sie eine weitere Anfrage hinzu, um Informationen zur Subregion zu erhalten. Es wird nur das erste Land zurückgeben, aber das ist vorerst in Ordnung. Fügen Sie ein weiteres HTTP-Anforderungsmodul hinzu und verwenden Sie die URL https://restcountries.com/v2/name/.
+1. Fügen Sie eine weitere Anfrage hinzu, um Informationen zur Subregion zu erhalten. Es wird nur das erste Land zurückgeben, aber das ist vorerst in Ordnung. Hinzufügen eines weiteren HTTP Anforderungsmoduls und Verwenden der URL `https://restcountries.com/v2/name/{country name}`.
 1. Um den Namen des ersten Landes abzurufen, wechseln Sie zum Zuordnungsbereich und klicken Sie auf Daten und dann im Array auf Name . Die [1] im Datenfeld bedeutet, dass es das erste Element im Array zurückgibt.
 
    + Klicken Sie auf die Zahl und ändern Sie den Index bei Bedarf, in diesem Fall aber nur das erste Element.
