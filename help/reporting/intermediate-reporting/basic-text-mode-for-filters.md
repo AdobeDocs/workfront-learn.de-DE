@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Auf diese Weise werden alle Aufgaben angezeigt, denen der angemeldete Benutzer mindestens einen der aktuellen Verantwortlichen zugewiesen hat. Wenn die Zuweisung von mehreren Benutzern erfolgt ist, wird nur der Name der ersten Person, der die Person zugewiesen hat, auf der Aufgabenlandeseite als &quot;Anfordert von&quot;angezeigt.
 
-## Aktivität: Textmodusfragen
+### Aufgabe - Zeigt mir alle Aufgaben an, die abgeschlossen sind - Ausstehende Genehmigung
 
-1. Wie würden Sie die Binnenmajuskel-Schreibweise für das Feld &quot;Eingegeben von ID&quot;schreiben?
-1. Erstellen Sie in einem Problembericht einen Filter, um Probleme anzuzeigen, die als geschlossen gekennzeichnet wurden, aber noch nicht genehmigt wurden.
+```
+status=CPL:A
+status_Mod=in
+```
 
-### Antworten
 
-1. Die Binnenmajuskeln-Schreibweise für das Feld &quot;Eingegeben von ID&quot; sollte wie folgt geschrieben werden: signedByID
-1. Der Textmodus sollte im Filter für Problemberichte wie folgt aussehen:
+### Problem - Zeigt mir alle Probleme an, die abgeschlossen sind - Ausstehende Genehmigung
 
-   ![Ein Bild des Bildschirms zum Erstellen eines neuen Filters im Textmodus](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Projekt - Alle Projekte anzeigen, die abgeschlossen sind - Ausstehende Genehmigung ausstehend
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Hinweis - Zeigen Sie mir alle Kommentare, die ich mit Tags versehen habe
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### Bericht &quot;Parameter/Benutzerdefiniertes Feld&quot;- Zeigen Sie mir benutzerdefinierte Felder, die nicht an ein benutzerdefiniertes Formular angehängt sind (sehr nützlich bei Bereinigungsbemühungen)
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```

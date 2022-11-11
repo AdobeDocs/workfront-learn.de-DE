@@ -9,13 +9,13 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '193'
+ht-degree: 1%
 
 ---
-
 
 # Grundlegendes zum Textmodus für Gruppierungen
 
@@ -36,7 +36,7 @@ In diesem Video erfahren Sie:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4 Elterngruppen
+## Aufgabe - Gruppierung von vier übergeordneten Elementen
 
 Im folgenden Textmodus werden Aufgaben basierend auf bis zu vier Ebenen von Eltern gruppiert und nicht vorhandene Eltern leer gelassen.
 
@@ -53,7 +53,7 @@ group.0.valueformat=string
 ![Ein Bildschirmbild mit vier übergeordneten Elementen gruppierten Projektaufgaben](assets/4-parents-grouping.png)
 
 
-## Prozentuale vollständige Gruppierung
+## Aufgabe - Prozentuale vollständige Gruppierung
 
 Im folgenden Textmodus werden Aufgaben basierend auf ihrem prozentualen Abschluss gruppiert. Aufgaben werden in eine der folgenden Kategorien eingeteilt, wenn sie gruppiert sind:
 
@@ -74,7 +74,7 @@ textmode=true
 
 ![Ein Screenshot mit Projektanforderungen gruppiert nach Prozentsatz der Abschlüsse](assets/percent-complete-grouping.png)
 
-## statusEquatesWith, dann status
+## Task - statusEquatesWith, dann status
 
 Im folgenden Textmodus werden Aufgaben nach statusEquatesWith und dann nach Status gruppiert.
 
@@ -98,4 +98,14 @@ textmode=true
 
 ![Ein Bildschirmbild mit nach statusEquatesWith gruppierten Projektaufgaben](assets/status-equates-with.png)
 
+
+## Validierungsversuch - Gruppe nach Projektname
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![Ein Bildschirmbild mit nach Projektnamen gruppierten Testversandgenehmigungen](assets/proof-approvals-grouped-by-project-name.png)
 
