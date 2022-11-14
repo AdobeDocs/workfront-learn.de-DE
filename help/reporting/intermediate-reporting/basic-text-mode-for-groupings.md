@@ -10,10 +10,10 @@ level: Intermediate
 team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
-source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 1%
+source-wordcount: '267'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,12 @@ ht-degree: 1%
 >* Berichterstellungselemente
 >* Berichtkomponenten verstehen
 >* Basisgruppierung erstellen
+
+
+>[!TIP]
+>
+>* Um ein tieferes Verständnis des Textmodus zu erhalten, empfehlen wir, sich das aufgezeichnete Webinar-Ereignis anzusehen [Experten fragen - Einführung in die Berichterstellung zum Textmodus](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), die eine Stunde lang ist.
+>* Um mehr über den Textmodus zu erfahren, sollten Sie die [Erweiterte Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) Tutorials, die zusammen fünfeinhalb Stunden lang sind.
 
 
 In diesem Video erfahren Sie:

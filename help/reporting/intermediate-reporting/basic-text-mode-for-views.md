@@ -9,9 +9,10 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11367
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,12 @@ ht-degree: 0%
 >* Berichterstellungselemente
 >* Berichtkomponenten verstehen
 >* Basisansicht erstellen
+
+
+>[!TIP]
+>
+>* Um ein tieferes Verständnis des Textmodus zu erhalten, empfehlen wir, sich das aufgezeichnete Webinar-Ereignis anzusehen [Experten fragen - Einführung in die Berichterstellung zum Textmodus](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), die eine Stunde lang ist.
+>* Um mehr über den Textmodus zu erfahren, sollten Sie die [Erweiterte Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) Tutorials, die zusammen fünfeinhalb Stunden lang sind.
 
 
 In diesem Video erfahren Sie:
@@ -521,4 +528,3 @@ valueformat=HTML
 ```
 
 ![Ein Bildschirmbild mit dem Projekt und der Aufgabe einer Testversand-Validierung](assets/proof-approval-project-and-task.png)
-
