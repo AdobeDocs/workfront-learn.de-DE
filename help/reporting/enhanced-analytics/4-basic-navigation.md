@@ -1,6 +1,6 @@
 ---
-title: Grundlegende Navigation
-description: In diesem Video erfahren Sie, wie Sie zum [!UICONTROL Analytics] und einen Überblick über die Arbeitsdiagramme und die Personendiagramme in [!DNL  Workfront].
+title: Grundlegende Navigation in [!UICONTROL Verbesserte Analytics]
+description: Erfahren Sie, wie Sie zur [!UICONTROL Analytics] und sehen Sie sich einen Überblick über die Arbeitsdiagramme und Personendiagramme in Workfront an.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# Grundlegende Navigation
+# Grundlegende Navigation in [!UICONTROL Verbesserte Analytics]
 
 So navigieren Sie zu [!UICONTROL Analytics] Verwenden Sie im neuen Workfront-Erlebnis die [!UICONTROL Hauptmenü] Schaltfläche.
 

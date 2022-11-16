@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zum Zugriff auf und zur Überprüfung des Downloads
-description: Erfahren Sie, wie Sie auf das Aufschlüsselungsdiagramm zugreifen und die Beziehung zwischen den verbleibenden Stunden, dem Projektzustand und der Projektgeschwindigkeit in [!DNL  Workfront].
+title: Informationen zum Aufrufen und Überprüfen der Dropdownliste in [!UICONTROL Verbesserte Analytics]
+description: Erfahren Sie, wie Sie auf das Diagramm für die Aufschlüsselung zugreifen und die Beziehung zwischen den verbleibenden Stunden, dem Projektzustand und der Projektgeschwindigkeit in Workfront verstehen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zum Zugriff auf und zur Überprüfung des Downloads
+# Grundlegendes zum Zugriff auf und zur Überprüfung des Dropdown-Menüs in [!UICONTROL Verbesserte Analytics]
 
 In diesem Video erfahren Sie:
 

@@ -1,6 +1,6 @@
 ---
-title: Anwendungsfall für KPI-Vergleiche verstehen
-description: Erfahren Sie, wie Sie KPIs aus dem aktuellen Datumsbereich mit einem vorherigen Datumsbereich vergleichen und KPIs mit zwei verschiedenen Filtern vergleichen können in [!DNL  Workfront].
+title: Ein Anwendungsbeispiel für KPI-Vergleiche finden Sie unter [!UICONTROL Verbesserte Analytics]
+description: Erfahren Sie, wie Sie KPIs aus dem aktuellen Datumsbereich mit einem vorherigen Datumsbereich vergleichen und KPIs mit zwei verschiedenen Filtern vergleichen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Anwendungsfall für KPI-Vergleiche verstehen
+# Ein Anwendungsbeispiel für KPI-Vergleiche finden Sie unter [!UICONTROL Verbesserte Analytics]
 
 In diesem Video erfahren Sie:
 

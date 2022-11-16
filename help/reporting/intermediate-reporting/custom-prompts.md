@@ -1,6 +1,6 @@
 ---
 title: Benutzerdefinierte Eingabeaufforderungen erstellen
-description: Erfahren Sie, was eine benutzerdefinierte Eingabeaufforderung ist, wie Sie eine benutzerdefinierte Eingabeaufforderung im Textmodus erstellen, und einige Beispiele, die Sie für die Berichterstellung in [!DNL  Workfront].
+description: Erfahren Sie, was eine benutzerdefinierte Eingabeaufforderung ist, wie Sie eine benutzerdefinierte Eingabeaufforderung im Textmodus erstellen, und einige Beispiele, die Sie für die Berichterstellung in Workfront verwenden können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336822.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 2%
 
 ---

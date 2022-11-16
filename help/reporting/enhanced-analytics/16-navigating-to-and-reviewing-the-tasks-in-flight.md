@@ -1,6 +1,6 @@
 ---
-title: Überprüfen der Aufgaben während des Fluges
-description: Erfahren Sie, wie Sie im Flugdiagramm auf die Aufgaben zugreifen können und wie Sie schnell feststellen können, welche Aufgaben in einem Projekt noch nicht abgeschlossen wurden. Weitere Informationen finden Sie unter [!DNL  Workfront].
+title: Überprüfen Sie die Aufgaben während des Fluges. [!UICONTROL Verbesserte Analytics]
+description: Erfahren Sie, wie Sie in Workfront auf die Aufgaben im Flugdiagramm zugreifen und wie Sie schnell feststellen können, welche Aufgaben in einem Projekt noch nicht abgeschlossen wurden.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-# Überprüfen der Aufgaben während des Fluges
+# Überprüfen Sie die Aufgaben während des Fluges. [!UICONTROL Verbesserte Analytics]
 
 In diesem Video erfahren Sie:
 

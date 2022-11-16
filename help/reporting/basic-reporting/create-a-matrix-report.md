@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Matrix-Berichts
-description: In diesem Video erfahren Sie, wann ein Matrix-Bericht nützlich sein kann und wie Sie einen Matrix-Bericht in [!DNL  Workfront].
+description: Erfahren Sie, wann ein Matrix-Bericht nützlich sein kann und wie Sie einen Matrix-Bericht in Workfront erstellen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335156.png
 kt: 8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---

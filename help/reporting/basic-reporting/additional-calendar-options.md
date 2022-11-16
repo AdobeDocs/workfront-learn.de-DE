@@ -1,14 +1,16 @@
 ---
 title: Zusätzliche Kalenderoptionen verstehen
 description: Erfahren Sie, wie Sie eine Kalendergruppierung bearbeiten und löschen und wie Sie einen Kalender freigeben.
+activity: use
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
+team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 kt: 10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -42,7 +44,7 @@ Als Projektmanager können Sie einen Kalender erstellen, den Sie für andere Ben
 1. Auswählen **[!UICONTROL Freigabe]** von **[!UICONTROL Kalenderaktionen]** Dropdown-Menü.
 1. Geben Sie die Namen der Benutzer, Rollen, Teams, Gruppen oder Unternehmen ein, für die Sie den Kalender freigeben möchten.
 1. Wählen Sie aus, ob Benutzer [!UICONTROL Ansicht] oder [!UICONTROL Verwalten] Zugriff auf den Kalenderbericht.
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 Wenn Sie Kalender freigeben, sollten Sie Folgendes beachten:
 

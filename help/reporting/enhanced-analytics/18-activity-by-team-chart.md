@@ -1,6 +1,8 @@
 ---
-title: Grundlegendes zur Aktivität nach Teamdiagramm
+title: Machen Sie sich mit der Aktivität nach Teamdiagramm vertraut in [!UICONTROL Verbesserte Analytics]
 description: Das Diagramm "Aktivität nach Team"gibt Aufschluss darüber, wie die Teams Ihres Unternehmens ihre Zeit in Workfront verbringen.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-activity-by-team-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zur Aktivität nach Teamdiagramm
+# Machen Sie sich mit der Aktivität nach Teamdiagramm vertraut in [!UICONTROL Verbesserte Analytics]
 
 Das Diagramm &quot;Aktivität nach Team&quot;gibt Aufschluss darüber, wie die Teams Ihres Unternehmens ihre Zeit in Workfront verbringen. Workfront-Benutzer können mehreren Teams angehören, sie können jedoch nur in einem Heimteam arbeiten. Die Teams, die in den Personendiagrammen verwendet werden, bestehen nur aus den Benutzern, für die dieses Team als ihr Heimteam benannt wurde.
 

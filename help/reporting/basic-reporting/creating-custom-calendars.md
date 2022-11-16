@@ -1,6 +1,8 @@
 ---
 title: Benutzerdefinierten Kalender erstellen
-description: Erfahren Sie, wie Sie Ihren eigenen benutzerdefinierten Kalender erstellen
+description: Erfahren Sie, wie Sie einen eigenen benutzerdefinierten Kalender erstellen, in dem Ihre Arbeitselemente und Ihre persönliche Zeit dargestellt werden.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: create-a-custom-calendar.png
 kt: 10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -48,7 +50,7 @@ So erstellen Sie Ihren eigenen benutzerdefinierten Kalender.
 1. Wenn Sie [!UICONTROL Tatsächliche Datumswerte] Wenn diese Informationen verfügbar sind, wählen Sie im Menü die Option Ja . Wählen Sie Nein aus, wenn Sie immer den ausgewählten Datumstyp wünschen ([!UICONTROL Projiziert], [!UICONTROL Geplant]oder [!UICONTROL Benutzerdefiniert]), um angezeigt zu werden.
 1. Wählen Sie den Elementtyp aus, den Sie im Kalender sehen möchten.[!UICONTROL Aufgaben], [!UICONTROL Projekte], [!UICONTROL Probleme]oder [!UICONTROL Zeitlimit].
 1. Richten Sie die Filter ein, um die gewünschten Informationen anzuzeigen.
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![Ein Bild des Bildschirms zum Hinzufügen von Arbeitselementen zu einer Kalendergruppierung](assets/calendar-2-2.png)
 
@@ -73,6 +75,6 @@ So erstellen Sie einen Kalender für eine bestimmte Person:
 1. Ignorieren Sie, wie die Informationen angezeigt werden, wenn die tatsächlichen Daten nicht verfügbar sind. Dies gilt nicht.
 1. Auswählen [!UICONTROL Zeitlimit] für den Informationstyp, den Sie sehen möchten.
 1. Legen Sie für den Filter die Benutzer-ID auf den Namen des Teammitglieds fest.
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![Ein Bild des Bildschirms, um einer Kalendergruppierung Zeitpunkte von Einträgen hinzuzufügen](assets/calendar-2-3.png)

@@ -1,6 +1,8 @@
 ---
 title: Grundlegendes zu Datumsbereichen und Zeitrahmen
-description: Datumsbereiche werden über das Kalender-Widget angegeben. Zeitrahmen werden in einem Diagramm erstellt.
+description: In [!UICONTROL Verbesserte Analytics], werden Datumsbereiche mithilfe des Kalender-Widgets angegeben. Zeitrahmen werden in einem Diagramm erstellt.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zu Datumsbereichen und Zeitrahmen
+# Grundlegendes zu Datumsbereichen und Zeitrahmen in [!UICONTROL Verbesserte Analytics]
 
 Beim Anzeigen der [!DNL Enhanced analytics] Grafiken und Datumsbereiche werden mithilfe des Kalender-Widgets angegeben. Die Zeitrahmen werden innerhalb eines Diagramms erstellt, wenn Sie klicken und ziehen, um einen bestimmten Bereich zu definieren. So können Sie die Informationen während dieses Zeitraums einzoomen und genauer betrachten.
 

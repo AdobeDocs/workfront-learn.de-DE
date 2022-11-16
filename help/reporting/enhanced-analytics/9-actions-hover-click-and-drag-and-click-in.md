@@ -1,6 +1,6 @@
 ---
 title: 'Grundlegendes zu Aktionen: Bewegen Sie den Mauszeiger, klicken, ziehen und klicken Sie auf'
-description: Erfahren Sie, wie Sie weitere Informationen erhalten, indem Sie den Mauszeiger über ein Diagramm bewegen, einen Zeitrahmen für ein Diagramm erstellen und zusätzliche Diagramme erstellen, und zwar alles in [!DNL  Workfront].
+description: Erfahren Sie, wie Sie weitere Informationen erhalten, indem Sie den Mauszeiger über ein Diagramm bewegen, einen Zeitrahmen für ein Diagramm erstellen und zusätzliche Diagramme erstellen, und zwar alles in [!UICONTROL Verbesserte Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zu Aktionen: Bewegen Sie den Mauszeiger, klicken, ziehen und klicken Sie auf
+# Grundlegendes zu Aktionen in [!UICONTROL Verbesserte Analytics] - Bewegen Sie den Mauszeiger, klicken und ziehen Sie und klicken Sie auf
 
 In diesem Video erfahren Sie:
 

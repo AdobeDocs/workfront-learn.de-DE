@@ -1,6 +1,6 @@
 ---
-title: Tiefer in die Navigation eintauchen
-description: In diesem Video erfahren Sie, wie schnell Sie sehen können, wie viel Zeit Mitarbeiter für die einzelnen Projekte in [!DNL  Workfront].
+title: Detaillierte Informationen zur Navigation in [!UICONTROL Verbesserte Analytics]
+description: Erfahren Sie, wie schnell Sie sehen können, wie viel Zeit Mitarbeiter für jedes Projekt in Workfront einsetzen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8733
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# Tiefer in die Navigation eintauchen
+# Detaillierte Informationen zur Navigation in [!UICONTROL Verbesserte Analytics]
 
 In diesem Video erfahren Sie:
 

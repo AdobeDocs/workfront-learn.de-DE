@@ -1,6 +1,6 @@
 ---
 title: Berichte senden und freigeben
-description: In diesem Video erfahren Sie, wie Sie Berichte an Benutzer, Teams oder beliebige E-Mail-Adressen senden und Berichte für andere in [!DNL  Workfront].
+description: Erfahren Sie, wie Sie Berichte an Benutzer, Teams oder beliebige E-Mail-Adressen senden und Berichte für andere in Workfront freigeben können.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335158.png
 kt: 8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Senden Sie sich jeden Montag um 5 Uhr einen Bericht als Excel-Tabelle. Auf diese
 1. Satz **[!UICONTROL Wiederholungen]** nach [!UICONTROL Wöchentlich].
 1. Legen Sie die [!UICONTROL Zeit] bis 5 Uhr.
 1. Satz [!UICONTROL Wiederholt] bis Montag.
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 >[!NOTE]
 >

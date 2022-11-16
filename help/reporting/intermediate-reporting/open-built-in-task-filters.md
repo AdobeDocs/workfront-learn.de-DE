@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu integrierten Aufgabenfiltern
-description: Erfahren Sie, wie Sie integrierte Aufgabenfilter überprüfen können, um zu sehen, wie sie erstellt werden, und wie Sie Ihren eigenen Aufgabenfilter erstellen in [!DNL  Workfront].
+description: Erfahren Sie, wie Sie integrierte Aufgabenfilter überprüfen können, um zu sehen, wie sie erstellt wurden, und wie Sie in Workfront einen eigenen Aufgabenfilter erstellen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur Navigation und Überprüfung der Projektaktivität
-description: In diesem Video erfahren Sie, wie Sie Projekte anhand von angemeldeten Benutzern, Änderungen des Aufgabenstatus und abgeschlossenen Aufgaben vergleichen [!DNL  Workfront].
+title: Grundlegendes zur Navigation und Überprüfung der Projektaktivität in [!UICONTROL Verbesserte Analytics]
+description: Erfahren Sie, wie Sie Projekte anhand von angemeldeten Benutzern, Aufgabenstatusänderungen und in Workfront abgeschlossenen Aufgaben vergleichen können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zur Navigation und Überprüfung der Projektaktivität
+# Grundlegendes zur Navigation und Überprüfung der Projektaktivität in [!UICONTROL Verbesserte Analytics]
 
 In diesem Video erfahren Sie:
 

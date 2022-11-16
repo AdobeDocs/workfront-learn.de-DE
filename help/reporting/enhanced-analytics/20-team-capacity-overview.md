@@ -1,6 +1,8 @@
 ---
-title: Kenntnisse der Teamkapazität
-description: Das Diagramm zur Team-Kapazität zeigt an, wann ein Startseiten-Team überzugewiesen oder unterzugewiesen wurde.
+title: Erfahren Sie mehr über die Teamkapazität in [!UICONTROL Verbesserte Analytics]
+description: Erfahren Sie, wie das Diagramm zur Team-Kapazität zeigt, wenn ein Startseiten-Team überzugewiesen oder untergeordnet wurde.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Kenntnisse der Teamkapazität
+# Erfahren Sie mehr über die Teamkapazität in [!UICONTROL Verbesserte Analytics]
 
 Das Diagramm zur Team-Kapazität zeigt an, wann ein Startseiten-Team überzugewiesen oder unterzugewiesen wurde. Das Diagramm zeigt das Arbeitsvolumen an, das dem Startseiten-Team an einem bestimmten Tag zugewiesen wurde, und weist eine dunkelblaue Farbe zu, wenn sie sich dem Brenout nähern oder nicht angefochten werden. Eine hellere, transparentere Farbe zeigt an, dass die Arbeitslast ausgeglichener ist.
 

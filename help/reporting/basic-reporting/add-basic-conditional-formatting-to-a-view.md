@@ -1,6 +1,6 @@
 ---
 title: Grundlegende bedingte Formatierung hinzufügen
-description: In diesem Video erfahren Sie, was die bedingte Formatierung in einer Ansicht ist und wie bedingte Formatierungen in [!DNL  Workfront].
+description: Erfahren Sie, wie Sie mithilfe von Spaltenregeln die Textfarbe, Formatierung und Hintergrundfarben in einem Bericht oder einer Ansicht basierend auf von Ihnen festgelegten Kriterien ändern können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
 # Ansicht grundlegende bedingte Formatierungen hinzufügen
+
+Die bedingte Formatierung erfolgt durch Erstellen von Spaltenregeln. Mithilfe von Spaltenregeln können Sie eine Spalte basierend auf von Ihnen festgelegten Kriterien in einer bestimmten Weise formatieren.
 
 In diesem Video erfahren Sie:
 

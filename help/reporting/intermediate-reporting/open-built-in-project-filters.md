@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu integrierten Projektfiltern
-description: Erfahren Sie, wie Sie integrierte Projektfilter überprüfen können, um zu sehen, wie sie erstellt werden, und erstellen Sie Ihren eigenen Projektfilter in [!DNL  Workfront].
+description: Erfahren Sie, wie Sie integrierte Projektfilter überprüfen können, um zu sehen, wie sie erstellt werden, und wie Sie in Workfront einen eigenen Projektfilter erstellen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336817.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---

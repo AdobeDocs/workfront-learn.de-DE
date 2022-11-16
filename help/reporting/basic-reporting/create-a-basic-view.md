@@ -1,6 +1,6 @@
 ---
 title: Basisansicht erstellen
-description: In diesem Video erfahren Sie, was eine Ansicht ist, wie eine Ansicht erstellt wird und wie eine Ansicht für andere Benutzer in freigegeben wird. [!DNL  Workfront].
+description: Erfahren Sie, was eine Ansicht ist, wie Sie eine Ansicht erstellen und wie Sie eine Ansicht für andere Benutzer in Workfront freigeben.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,10 +10,10 @@ level: Beginner
 team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 3%
+source-wordcount: '298'
+ht-degree: 4%
 
 ---
 
@@ -34,7 +34,7 @@ Als Projektmanager, Teamleiter oder Ressourcen-Manager möchten Sie den Fortschr
 Erstellen Sie eine Aufgabenansicht mit dem Namen &quot;Aufgabenstatusansicht&quot;mit den folgenden Spalten:
 
 * [!UICONTROL Aufgabenname]
-* [!UICONTROL Zuweisungen]
+* [!UICONTROL Arbeitsaufträge]
 * [!UICONTROL Dauer]
 * [!UICONTROL Prozent abgeschlossen]
 * [!UICONTROL Status]
@@ -54,6 +54,6 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen &quot;Aufgabenstatusansicht&quo
 1. Im [!UICONTROL In dieser Spalte anzeigen] Geben Sie &quot;status&quot;ein und wählen Sie dann &quot;Progress Status&quot;unter dem [!UICONTROL Aufgabe] -Feldquelle.
 1. Klicken **[!UICONTROL Spalte hinzufügen]** erneut.
 1. Im [!UICONTROL In dieser Spalte anzeigen] Geben Sie &quot;status&quot;ein und wählen Sie dann &quot;Status-Symbole&quot;unter der Aufgabenfeldquelle aus.
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 Bewegen Sie den Mauszeiger über die einzelnen Symbole in der [!UICONTROL Statussymbole] um zu sehen, was sie darstellen. Wenn sie ausgegraut sind, bedeutet dies, dass die Aufgabe keine Notizen, Dokumente, Genehmigungsprozesse usw. hat. Wenn ein Symbol farbig angezeigt wird, ist mindestens ein Element mit der Aufgabe verknüpft. Sie können auf die Notiz- oder Dokumentsymbole klicken, um zu diesem Element zu wechseln.
