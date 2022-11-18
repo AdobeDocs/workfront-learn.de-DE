@@ -1,5 +1,5 @@
 ---
-title: Erläuterung von E-Mail-Warnungen und Testbenachrichtigungen
+title: Informationen zu E-Mail-Warnungen und Testversandbenachrichtigungen
 description: den Unterschied zwischen E-Mail-Warnungen und Testversandbenachrichtigungen in [!DNL  Workfront].
 feature: Workfront Proof
 type: Tutorial
@@ -8,14 +8,14 @@ level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 kt: 10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# E-Mail-Warnung vs. Testversand-Benachrichtigung
+# Informationen zu E-Mail-Warnungen und Testversandbenachrichtigungen
 
 E-Mail-Warnungen unterscheiden sich von Testversand-Benachrichtigungs-E-Mails. Sie erhalten eine Benachrichtigungs-E-Mail über einen Testversand, wenn Ihnen ein neuer Testversand zur Überprüfung zugewiesen wurde, wenn ein Testversand verspätet ist oder wenn eine neue Version des Testversands vorliegt, den Sie sich ansehen können.
 

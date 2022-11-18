@@ -2,11 +2,14 @@
 title: Anleitung für unvollständige Ausführungen
 description: Erfahren Sie, wie sich das Speichern unvollständiger Ausführungen und das anschließende erneute Ausführen von Bundles nach der Auswertung und Korrektur von Fehlern in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%

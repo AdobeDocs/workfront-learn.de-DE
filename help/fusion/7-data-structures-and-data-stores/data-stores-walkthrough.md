@@ -1,12 +1,15 @@
 ---
-title: exemplarische Vorgehensweise zu Datenspeichern
+title: Anleitung zu Datenspeichern
 description: Erfahren Sie, wie Sie mit einem Datenspeicher Firmennamen zwischen einer Unternehmensliste und Workfront synchronisieren können, indem Sie [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%

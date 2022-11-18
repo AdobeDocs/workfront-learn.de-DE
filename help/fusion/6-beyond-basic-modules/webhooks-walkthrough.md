@@ -1,14 +1,17 @@
 ---
-title: Webhooks-exemplarische Vorgehensweise
+title: Webhooks-Anleitung
 description: Erfahren Sie, wie Sie mit einem Webhook eine App erstellen können, um festzustellen, ob ein Kunde alt genug ist, um Alkohol zu kaufen, und alles in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -46,6 +49,10 @@ Um der exemplarischen Vorgehensweise zu folgen, müssen Sie die kostenlose Postm
 ![Ein Bild, das das Switch-Modul verwendet](assets/beyond-basic-modules-6.png)
 
 ## Ihre Wendung
+
+>[!NOTE]
+>
+>Übungen sind optional und nicht erforderlich, um die Fusion-Schulung abzuschließen.
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 

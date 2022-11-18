@@ -1,5 +1,5 @@
 ---
-title: Navigieren in der Brand Portal in [!UICONTROL DAM]
+title: Navigieren Sie zur Brand Portal in [!UICONTROL Workfront DAM]
 description: Erfahren Sie, wie Sie in auf die Brand Portal zugreifen können. [!UICONTROL Workfront DAM], erstellen Sie Ordner, legen Sie Ablaufdaten für einzelne Assets fest und bearbeiten Sie die Asset-Einstellungen.
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---

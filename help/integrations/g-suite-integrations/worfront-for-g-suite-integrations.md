@@ -1,5 +1,5 @@
 ---
-title: "Erweitern Sie Ihren Workflow mit der G Suite-Integration"
+title: Erweitern Sie Ihren Workflow mit der G Suite-Integration.
 description: Erfahren Sie, wie Sie eine E-Mail in eine [!DNL Workfront] Aufgabe oder Problem, Ansicht und Aktualisierung [!DNL Workfront] von Gmail arbeiten und genehmigen [!DNL Workfront] Arbeit von Gmail.
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

@@ -1,14 +1,17 @@
 ---
-title: Nutzungsszenarios definieren und den besten Ansatz suchen
+title: Definieren Sie unterschiedliche Anwendungsfälle und finden Sie den besten Ansatz.
 description: Erfahren Sie, wie Sie einen bestimmten Anwendungsfall für Ihr Szenario ermitteln, das richtige Design bestimmen und Interessengruppen die beste Beratung bieten in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

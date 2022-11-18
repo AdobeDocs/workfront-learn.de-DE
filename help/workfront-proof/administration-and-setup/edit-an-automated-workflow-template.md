@@ -1,5 +1,5 @@
 ---
-title: Bearbeiten einer Automated Workflow-Vorlage
+title: Automatisierte Workflow-Vorlage bearbeiten
 description: Erfahren Sie, wie Sie Änderungen an einer vorhandenen automatisierten Testversand-Workflow-Vorlage vornehmen können in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 335131.png
 kt: 8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%

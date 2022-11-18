@@ -1,5 +1,5 @@
 ---
-title: Überprüfen und Genehmigen eines Testversands
+title: Testversand überprüfen und genehmigen
 description: Erfahren Sie, wie Sie auf einen Testversand zugreifen und Kommentare dazu abgeben, mit einem Markup die erforderlichen Änderungen anzeigen, auf Testkommentare antworten und über einen Testversand entscheiden können in [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-# Digitalen Testversand prüfen und genehmigen
+# Testversand überprüfen und genehmigen
 
 Bevor Sie mit der Überprüfung eines Testversands beginnen, sollten Sie wissen, was von Ihnen erwartet wird. Welche Rolle spielen Sie im Testversand-Workflow? Überprüfen Sie den Testversand, genehmigen Sie ihn oder beides?
 

@@ -1,5 +1,5 @@
 ---
-title: Zielausrichtung in [!DNL Workfront Goals] Erläuterung
+title: Ziele abstimmen
 description: Erfahren Sie, wie Sie in der [!UICONTROL Zielausrichtung] Seite in [!DNL Goals].
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---

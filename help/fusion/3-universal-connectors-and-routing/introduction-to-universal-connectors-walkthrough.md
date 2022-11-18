@@ -1,19 +1,22 @@
 ---
-title: Anleitung zur Einführung in universelle Connectoren - Anleitung
+title: Anleitung zur Einführung in universelle Connectoren
 description: Erfahren Sie, wie Sie die Poke-API über einen HTTP-Connector aufrufen, um Informationen zu einem Pokemon-Zeichen zu sammeln und zu posten - alles in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Schrittweise Anleitung für universelle Connectoren
+# Anleitung zur Einführung in universelle Connectoren
 
 ## Übersicht
 
@@ -29,9 +32,9 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 ### Übungs-URLs
 
-Website der Pokemon-API: https://pokeapi.co/
+Website der Pokemon-API: `https://pokeapi.co/`
 
-URL für Übung: https://pokeapi.co/api/v2/pokemon/{Character}
+URL für Übung: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >

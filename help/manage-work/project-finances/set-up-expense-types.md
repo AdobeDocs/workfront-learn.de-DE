@@ -1,6 +1,8 @@
 ---
 title: Einrichten von Ausgabentypen
-description: Workfront verfügt über vordefinierte Ausgabentypen, die bei der Eingabe von Ausgaben verwendet werden können, und neue können hinzugefügt werden.
+description: Erfahren Sie, wie Sie bei der Eingabe von Ausgaben vorgefertigte Ausgabetypen verwenden und wie Sie neue Ausgabentypen erstellen können.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-expense-types.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '252'
 ht-degree: 2%
 
 ---

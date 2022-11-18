@@ -1,14 +1,17 @@
 ---
-title: Zuordnen des Bedienfelds Wichtige Hinweise
-description: In diesem Video erfahren Sie, wie wichtig die Verwendung der Operatoren ist, die im Zuordnungsfenster unter [!DNL Adobe Workfront Fusion].
+title: Wichtige Hinweise zum Zuordnungsbereich
+description: Erfahren Sie mehr über die Bedeutung der Verwendung der im Zuordnungsbereich bereitgestellten Operatoren in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9003
 exl-id: 2f5a2088-b32c-457f-baa1-913501d74b73
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---

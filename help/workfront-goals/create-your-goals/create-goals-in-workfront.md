@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Zielen in Workfront
+title: Erstellen von Zielen in [!DNL Workfront Goals]
 description: Erfahren Sie, wie Sie Ziele in erstellen [!DNL Workfront Goals] drei verschiedene Optionen verwenden.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 10122
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
 
-# Erstellen von Zielen in Workfront
+# Erstellen von Zielen in [!DNL Workfront Goals]
 
 In [!DNL Workfront Goals], können Führungskräfte und Unternehmensführungsteams den Fortschritt der gesamten Organisation auf jeder Ebene bis hin zum Einzelnen sehen. [!DNL Workfront Goals] bietet die Sichtbarkeit, um wichtige praktische Einblicke zu erhalten, um die höchsten Prioritäten voranzubringen, gefährdete Ziele zu identifizieren, Probleme in Echtzeit zu diagnostizieren und proaktiv zu Kurs-Korrektheit.
 
@@ -65,7 +65,7 @@ Beachten Sie vor dem Kopieren von Zielen Folgendes:
 
 1. Überprüfen Sie die **[!UICONTROL Ergebnisse kopieren]** , wenn dem ursprünglichen Ziel Ergebnisse hinzugefügt wurden und Sie sie in das neue Ziel kopieren möchten. Die Ergebnisse des kopierten Ziels haben denselben Eigentümer, dieselben Namen und die gemessenen Werte wie die Ergebnisse des ursprünglichen Ziels.
 
-1. Klicken **[!UICONTROL Speichern]**. Das kopierte Ziel wird mit dem Status Entwurf gespeichert.
+1. Klicken Sie auf **[!UICONTROL Speichern]**. Das kopierte Ziel wird mit dem Status Entwurf gespeichert.
 
    ![Ein Bild der [!UICONTROL Zieldetails] Bedienfeld in [!DNL Workfront Goals] mit dem [!UICONTROL Kopieren] option](assets/03-workfront-goals-copy-a-goal.png)
 

@@ -1,5 +1,5 @@
 ---
-title: '''[!UICONTROL Diagramme] Abschnitt in [!DNL Workfront Goals] Erläuterung"'
+title: Die [!UICONTROL Diagramme] Abschnitt
 description: Erfahren Sie, wie Sie das Zielgesundheitdiagramm und das Zielfortschrittsdiagramm in [!DNL Goals] lesen und interpretieren.
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

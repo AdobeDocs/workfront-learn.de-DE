@@ -1,18 +1,21 @@
 ---
 title: Einführung in universelle Connectoren
 description: Erweitern Sie Ihr Verständnis für die Arbeit mit universellen REST-Connectoren und die Arbeit mit den zurückgegebenen Daten.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11042
 thumbnail: KT11042.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
-
 
 # Einführung in universelle Connectoren
 
@@ -50,7 +53,7 @@ Rufen Sie mithilfe eines Pokemon-Zeichens in einer Tabelle die Poke-API über ei
    **Rufen Sie die Pokemon-Daten über den universellen Connector ab.**
 
 1. Fügen Sie ein HTTP-Anforderungsmodul hinzu.
-1. Verwenden Sie im URL-Feld https://pokeapi.co/api/v2/pokemon/[Zeichen], wobei [Zeichen] ist Spalte 3 aus dem CSV-Modul Parse zugeordnet.
+1. Verwenden Sie im URL-Feld `https://pokeapi.co/api/v2/pokemon/[Character]`, wobei [Zeichen] ist Spalte 3 aus dem CSV-Modul Parse zugeordnet.
 1. Aktivieren Sie das Kontrollkästchen Antwort analysieren .
 1. Wählen Sie Erweiterte Einstellungen anzeigen und aktivieren Sie dann das Kontrollkästchen neben &quot;Alle Status als Fehler auswerten&quot;.
 1. Klicken Sie auf OK und benennen Sie das Modul &quot;Pokemon-Informationen abrufen&quot;um.

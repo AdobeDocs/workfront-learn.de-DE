@@ -2,13 +2,16 @@
 title: Anleitung zu Routern
 description: Erfahren Sie, wie Sie mit einem Router Pokemon- oder Superhelden-Bundles den richtigen Pfad unter [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -29,9 +32,9 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 ## Übungs-URLs
 
-* Website der Superhero-API: https://www.superheroapi.com/
-* Erste URL für Übung: https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
-* Zweite URL für Übung: https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Website der Superhero-API: `https://www.superheroapi.com/`
+* Erste URL für Übung: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Zweite URL für Übung: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Wenn Sie Probleme beim Zugriff auf Ihr eigenes Superhero-Token haben, können Sie dieses gemeinsam genutzte Token verwenden: 10110256647253588. Beachten Sie bitte, wie oft Sie die Superhero-API aufrufen, damit dieses gemeinsam genutzte Token für alle weiterhin funktioniert.
 
@@ -86,6 +89,10 @@ Erfahren Sie mehr über Workfront Fusion Universal Connectors und deren Einricht
 Sie können die gesamte Liste unserer vordefinierten App-Connectoren in Experience League überprüfen. Wenn Sie dem Produktteam von Workfront Fusion einen neuen App-Connector vorschlagen möchten, senden Sie Ihre Idee an Innovation Lab. Wenn Sie noch nicht eingereicht haben, erfahren Sie mehr über das Innovationslabor und darüber, wie Sie Ideen wählen und an der zweimal jährlich stattfindenden Priorisierung des Leaderboards teilnehmen können. Wenn Sie bereits Zugriff auf das Innovationslabor haben, melden Sie sich an und übermitteln Sie Ihre Ideen.
 
 ## Ihre Wendung
+
+>[!NOTE]
+>
+>Übungen sind optional und nicht erforderlich, um die Fusion-Schulung abzuschließen.
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 

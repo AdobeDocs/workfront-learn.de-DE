@@ -1,5 +1,5 @@
 ---
-title: Wo ist [!DNL Workfront Goals] in meinen Arbeitszyklus einpassen?
+title: Grundlegendes zur [!UICONTROL Workfront-Ziele] passt in Ihren Arbeitszyklus
 description: Erfahren Sie mehr über die sechs Schritte in einem typischen Arbeitslebenszyklus und die Kernbausteine in der "Strategiephase" des Arbeitslebens.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Wo ist [!DNL Workfront Goals] in meinen Arbeitszyklus einpassen?
+# Grundlegendes zur [!UICONTROL Workfront-Ziele] passt in Ihren Arbeitszyklus
 
 In diesem Video erfahren Sie mehr über:
 

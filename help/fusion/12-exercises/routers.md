@@ -1,18 +1,21 @@
 ---
 title: Router
 description: Machen Sie sich mit der Wichtigkeit von Routern vertraut und erfahren Sie, wie sie zur bedingten Verarbeitung verschiedener Module verwendet werden können.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
-
 
 # Router
 
@@ -55,8 +58,8 @@ Verwenden Sie einen Router, um Pokemon oder Superhelden den richtigen Pfad zu ü
    >
    >Wenn Sie Probleme beim Zugriff auf Ihr eigenes Superhero-Token haben, können Sie dieses gemeinsam genutzte Token verwenden: 10110256647253588. Beachten Sie bitte, wie oft Sie die Superhero-API aufrufen, damit dieses gemeinsam genutzte Token für alle weiterhin funktioniert.
 
-1. Öffnen Sie die Einstellungen für das Erscheinungsbild &quot;Get Superhero&quot;und ändern Sie die URL in https://www.superheroapi.com/api/[access-token]/332/appearance. Stellen Sie sicher, dass Sie Ihr Zugriffstoken in die URL aufnehmen. Klicken Sie auf OK.
-1. Öffnen Sie die Einstellungen für &quot;Get Superhero&quot;-Funktionen und ändern Sie die URL in https://www.superheroapi.com/api/[access-token]/332/powerstats. Stellen Sie sicher, dass Sie Ihr Zugriffstoken in die URL aufnehmen. Klicken Sie auf OK.
+1. Öffnen Sie die Einstellungen für das Erscheinungsbild &quot;Get Superhero&quot;und ändern Sie die URL in `https://www.superheroapi.com/api/[access- token]/332/appearance`. Stellen Sie sicher, dass Sie Ihr Zugriffstoken in die URL aufnehmen. Klicken Sie auf OK.
+1. Öffnen Sie die Einstellungen für &quot;Get Superhero&quot;-Fähigkeiten und ändern Sie die URL in `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Stellen Sie sicher, dass Sie Ihr Zugriffstoken in die URL aufnehmen. Klicken Sie auf OK.
 1. Klicken Sie mit der rechten Maustaste auf jedes Superhero-Modul und wählen Sie Nur dieses Modul ausführen. Dadurch wird die Datenstruktur generiert, die Sie für die Zuordnung sehen müssen.
 1. Nachdem Sie beide Seiten ausgeführt haben, ändern Sie die Zahl &quot;332&quot;in jedem URL-Feld in Spalte 4, die vom CSV-Modul Parsen zugeordnet ist.
 

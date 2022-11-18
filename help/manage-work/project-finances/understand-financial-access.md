@@ -1,6 +1,8 @@
 ---
 title: Finanziellen Zugang verstehen
-description: Mit finanziellen Zugriffsrechten können Administratoren steuern, wer die in Workfront verfolgten Finanzinformationen anzeigen und bearbeiten kann.
+description: Erfahren Sie, wie Administratoren mit finanziellen Zugriffsrechten steuern können, wer die in Workfront verfolgten Finanzinformationen anzeigen und bearbeiten kann.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-financial-access.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '415'
 ht-degree: 5%
 
 ---

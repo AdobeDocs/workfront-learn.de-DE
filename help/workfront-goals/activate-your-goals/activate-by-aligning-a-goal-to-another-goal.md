@@ -1,16 +1,18 @@
 ---
-title: Aktivieren durch Ausrichtung eines Ziels an einem anderen
+title: Ein Ziel aktivieren, indem es an einem anderen ausgerichtet wird
 description: Erfahren Sie, wie Sie ein Ziel aktivieren in [!DNL Workfront Goals] durch Ausrichtung an einem anderen Ziel.
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
@@ -25,6 +27,6 @@ ht-degree: 0%
 
    ![Ein Screenshot der [!UICONTROL Zieldetails] Bedienfeld mit der [!UICONTROL Mit] Abschnitt](assets/07-workfront-goals-align-to.png)
 
-1. Klicken [!UICONTROL Speichern].
+1. Klicken Sie auf [!UICONTROL Speichern].
 
 Wenn Sie ein Ziel an ein anderes Ziel ausrichten, wird ein untergeordnetes Ziel erstellt. Stellen Sie sich untergeordnete Ziele als individuelle Ziele vor, die zum Fortschritt der übergeordneten Ziele der Organisation oder des Teams beitragen. Untergeordnete Ziele können den Fortschritt des übergeordneten Ziels aktivieren und beeinflussen.

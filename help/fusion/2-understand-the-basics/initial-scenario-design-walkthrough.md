@@ -1,14 +1,17 @@
 ---
-title: Anleitung zum anfänglichen Szenario-Design
-description: In diesem Video erfahren Sie, wie Sie Ordner und neue Szenarien erstellen, den Szenario-Designer verwenden und ein grundlegendes Szenario in [!DNL Adobe Workfront Fusion].
+title: Anfängliche Designanleitung
+description: Erfahren Sie, wie Sie Ordner und neue Szenarien erstellen, den Szenario-Designer verwenden und ein einfaches Szenario erstellen in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---

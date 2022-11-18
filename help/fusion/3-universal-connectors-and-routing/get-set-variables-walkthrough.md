@@ -1,14 +1,17 @@
 ---
 title: Anleitung zum Festlegen/Abrufen von Variablen
-description: In diesem Video erfahren Sie, wie Sie Informationen zu einem Projekt in Workfront nachschlagen und eine E-Mail mit zugehörigen Informationen senden können in [!DNL Adobe Workfront Fusion].
+description: Erfahren Sie, wie Sie Informationen zu einem Projekt in Workfront suchen und eine E-Mail mit zugehörigen Informationen senden können in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 >Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Anleitung zum Festlegen/Abrufen von Variablen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) Übung.
 
 ## Ihre Wendung
+
+>[!NOTE]
+>
+>Übungen sind optional und nicht erforderlich, um die Fusion-Schulung abzuschließen.
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 

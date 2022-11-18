@@ -1,13 +1,15 @@
 ---
 title: Vorhandenes Ziel kopieren
 description: Erfahren Sie, wie Sie ein vorhandenes Ziel kopieren in [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 0%
@@ -44,7 +46,7 @@ Beachten Sie vor dem Kopieren von Zielen Folgendes:
 
 1. Überprüfen Sie die **[!UICONTROL Ergebnisse kopieren]** , wenn dem ursprünglichen Ziel Ergebnisse hinzugefügt wurden und Sie sie in das neue Ziel kopieren möchten. Die Ergebnisse des kopierten Ziels haben denselben Eigentümer, dieselben Namen und die gemessenen Werte wie die Ergebnisse des ursprünglichen Ziels.
 
-1. Klicken **[!UICONTROL Speichern]**. Das kopierte Ziel wird mit dem Status Entwurf gespeichert.
+1. Klicken Sie auf **[!UICONTROL Speichern]**. Das kopierte Ziel wird mit dem Status Entwurf gespeichert.
 
    ![Ein Bild der [!UICONTROL Zieldetails] Bedienfeld in [!DNL Workfront Goals] mit dem [!UICONTROL Kopieren] option](assets/03-workfront-goals-copy-a-goal.png)
 

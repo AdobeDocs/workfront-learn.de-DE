@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2218'
+source-wordcount: '2219'
 ht-degree: 2%
 
 ---
@@ -342,7 +342,7 @@ ht-degree: 2%
       + [Validierungen vornehmen durch [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [Durchsuchen von Workfront [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Workfront für [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [Aktuelle Arbeit ansehen durch [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+      + [Aktuelle Arbeiten anzeigen [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 
 
@@ -460,7 +460,7 @@ ht-degree: 2%
    + Administration und Einrichtung {#administration-and-setup-for-proof}
       + [Aktionen für Testversand-Kommentare anpassen](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [Entscheidungsoptionen für Testsendungen anpassen](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [E-Mail-Warnung vs. Testversand-Benachrichtigung](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [Informationen zu E-Mail-Warnungen und Testversandbenachrichtigungen](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [Testadressen und E-Mail-Warnungen](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Bericht zu Testsendungen](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Festlegen der Standardeinstellungen für den Gefahrenschutz](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)

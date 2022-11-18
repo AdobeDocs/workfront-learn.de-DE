@@ -2,11 +2,14 @@
 title: JSON in Szenarien verstehen
 description: Erfahren Sie, was JSON ist, wie es strukturiert ist und wie es in Daten übersetzt wird, die in Ihren Szenarien verwendet werden können in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 8f16d7e1-2eb1-400f-bdad-5d05745a0ba7
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

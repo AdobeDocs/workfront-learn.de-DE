@@ -2,13 +2,16 @@
 title: Anleitung zur erweiterten Aggregation
 description: Erfahren Sie, wie Sie einen Webdienst aufrufen, um Details zu mehreren Ländern zurückzugeben und die Population, gruppiert nach Unterregion, zu identifizieren, die alle in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Um dies zu verhindern, fügen Sie einen Aggregator nach einem Modul hinzu, das m
 Sie sehen einen Schatten, der jedes Segment in Ihrem Szenario von einem **Startiterator** der **endaggregator**. Dies erleichtert die Erkennung dieser Segmente in Ihrem Workfront Fusion-Szenario.
 
 ## Ihre Wendung
+
+>[!NOTE]
+>
+>Übungen sind optional und nicht erforderlich, um die Fusion-Schulung abzuschließen.
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 
