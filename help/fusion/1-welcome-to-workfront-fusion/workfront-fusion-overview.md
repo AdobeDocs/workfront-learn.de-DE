@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 Jeder Abschnitt zu Workfront Fusion enthält mehrere Tutorials, wobei jedes Tutorial Konzepte enthält, die Sie verstehen müssen, bevor Sie zum nächsten Tutorial übergehen. Eine exemplarische Vorgehensweise hilft Ihnen, die meisten Konzepte Übergeordnet zu machen.
 
-In den Videos erfahren Sie Schritt für Schritt, wie Sie jede Übung abschließen, was zur Erstellung eines neuen Workfront Fusion-Szenarios führt. Anschließend können Sie die Übung in Ihrer eigenen Workfront Fusion-Umgebung abschließen und zu Ihrer eigenen Szenario-Sammlung hinzufügen. Die **Aktivitätsbuch zu Adobe Workfront Fusion** enthält schrittweise Anweisungen zum Abschließen der exemplarischen Vorgehensweisen.
+In den Videos erfahren Sie, wie Sie jede exemplarische Anleitung durchführen, was normalerweise zur Erstellung eines neuen Workfront Fusion-Szenarios führt. Anschließend können Sie die Übung in Ihrer eigenen Workfront Fusion-Umgebung abschließen und zu Ihrer eigenen Szenario-Sammlung hinzufügen.
 
-In einigen Tutorials erstellen Sie ein neues Szenario von Grund auf. In anderen Abschnitten erstellen Sie zunächst eine Kopie eines zuvor erstellten Szenarios.
+In einigen Tutorials erstellen Sie ein neues Szenario von Grund auf. In anderen Tutorials erstellen Sie zunächst eine Kopie eines zuvor erstellten Szenarios.
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ Fordern Sie eine Praktikumsumgebung an, indem Sie [dieses Formulars](https://for
 
 ### Zugriff auf Workfront Fusion zur praktischen Verwendung
 
-Workfront bietet keine Workfront Fusion-Testlaufwerke an. Um während des Abschlusses der Lernpfade zu üben, bitten Sie den Workfront Fusion-Administrator Ihres Unternehmens um Zugriff auf Workfront Fusion.
+Workfront bietet keine Workfront Fusion-Testlaufwerke an. Wenn Sie die Tutorials absolvieren möchten, fordern Sie vom Workfront Fusion-Administrator Ihres Unternehmens Zugriff auf Workfront Fusion an.
 
 ### Schrittweise Anleitungen zum Abschließen der exemplarischen Vorgehensweisen
 
