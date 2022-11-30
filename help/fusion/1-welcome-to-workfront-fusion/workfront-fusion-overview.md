@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfront bietet keine Workfront Fusion-Testlaufwerke an. Wenn Sie die Tutorials
 
 Es gibt eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweisen. Sie können auf diese über die linke Navigationsleiste unter Fusion > Übungen zugreifen oder den Link verwenden, der unten in einem exemplarischen Tutorial bereitgestellt wird.
 
+### Optionale Übungen
+
+Nach einigen exemplarischen Vorgehensweisen werden Übungen und Herausforderungen bereitgestellt.
+
+Es gibt verschiedene Möglichkeiten, die Übungen zu lösen. Es ist beabsichtigt, Sie zu ersuchen, ein Szenario-Ziel zu erreichen, ohne Schritte zu unternehmen oder die &quot;richtige Antwort&quot;zu erhalten, da dies bei der Erstellung eines Szenarios in Ihrem Unternehmen erforderlich ist.
+
+Die Übung hängt mit der exemplarischen Vorgehensweise zusammen.
+
+Die Herausforderungen sind für diejenigen, die etwas ausprobieren wollen, das andere Konzepte beinhaltet, die sie gelernt haben.
+
+### Hilfe erhalten
+
+Die schrittweisen Anleitungen helfen Ihnen beim Durchlaufen der exemplarischen Vorgehensweisen.
+
+Es gibt auch eine [Workfront Fusion 2.0-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) wo Sie Fragen posten können.
