@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Mit Datums- und Uhrzeitausdrücken können Sie wichtige Daten an die Vorderseite
 
 Wenn Sie sich die verfügbaren Datums- und Uhrzeitausdrücke ansehen, stehen Ihnen verschiedene Optionen zur Verfügung.
 
-![Ressourcen-Management richtet einen Pager ein](assets/DTM01.png)
+![Beispielhafte Datums- und Uhrzeitausdrücke](assets/datetimeexpressions01.png)
 
 Es gibt zwei Datums- und Uhrzeitausdruckssätze, die am häufigsten von [!DNL Workfront] Kunden:
 
@@ -37,9 +37,11 @@ Mathematische Ausdrücke ermöglichen [!DNL Workfront] automatisch Berechnungen,
 
 Wenn Sie sich die verfügbaren Datums- und Uhrzeitausdrücke ansehen, stehen Ihnen verschiedene Optionen zur Verfügung.
 
-![Ressourcen-Management richtet einen Pager ein](assets/math01.png)
+![Beispiele für mathematische Ausdrücke](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] -Kunden verwenden in der Regel die beiden folgenden mathematischen Ausdruckssätze:
+Workfront-Kunden verwenden normalerweise die beiden folgenden mathematischen Ausdruckssätze:
 
 * Unterabschnitt, SUM, DIV, PROD
 * ROUND
+
+<b>NOTE</b>: Eine vollständige Liste der Ausdrücke und weitere Informationen zu den einzelnen Ausdrücken finden Sie auf der Dokumentationsseite &quot;Berechnete Datenausdrücke&quot;.
