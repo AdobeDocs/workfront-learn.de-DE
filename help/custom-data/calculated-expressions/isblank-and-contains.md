@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ Um in der Beschreibung nach einem bestimmten Wert zu suchen, z. B. &quot;Wohltä
 
 Der ISBLANK-Textausdruck enthält den Namen des Ausdrucks und einen Datenpunkt.
 
-**ISBLANK(Datenpunkt)**
+**ISBLANK({data point})**
 
 ![Lastenausgleich mit Nutzungsbericht](assets/isblank03.png)
 
 Im obigen Beispiel - wo Sie wissen möchten, ob das Projekt eine Beschreibung enthält - lautet der Ausdruck:
 
-ISBLANK(Description)
+ISBLANK({description})
 
 ## CONTAINS
 
 Der Ausdruck ENTHÄLT den Namen des Ausdrucks, das gesuchte Wort oder die gesuchte Wortgruppe und das einzusuchende Feld.
 
-**CONTAINS(&quot;Satz&quot;,Feld)**
+**CONTAINS(&quot;Satz&quot;,{Felder})**
 
 Stellen Sie sicher, dass Sie das gesuchte Wort oder die gesuchte Wortgruppe in Anführungszeichen setzen. Andernfalls ist der Ausdruck nicht gültig.
 
 Im obigen Beispiel (Suchen nach &quot;charity event&quot;in der Projektbeschreibung) lautet der Ausdruck:
 
-**CONTAINS(&quot;charity event&quot;,Description)**
+**CONTAINS(&quot;charity event&quot;,{description})**
 
 ![Lastenausgleich mit Nutzungsbericht](assets/isblank04.png)
 
 **Hinweis**: Beim CONTAINS-Ausdruck wird zwischen Groß- und Kleinschreibung unterschieden. Wenn beispielsweise &quot;Wohltätigkeitsereignis&quot;im Beschreibungsfeld großgeschrieben ist, großschreiben Sie diesen Satz im Ausdruck.
 
-**CONTAINS(&quot;Charity Event&quot;,Description)**
+**CONTAINS(&quot;Charity Event&quot;,{description})**
 
 Die Ausdrücke ISBLANK und CONTAINS eignen sich gut, wenn Sie sehen möchten, ob ein Wert vorhanden ist. Es kann jedoch nützlicher sein zu wissen, was der Wert ist, ihn tatsächlich zu sehen oder eine Art Deskriptor zu haben, um bessere Einblicke zu erhalten.
 
