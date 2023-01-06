@@ -1,46 +1,46 @@
 ---
-source-git-commit: 898dba1bb96707ecb3401f6fdb261f3cd74f3e4a
+source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 21%
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
-# Beitragen
+# Beiträge
 
-Danke, dass du dich entschieden hast, beizutragen!
+Vielen Dank, dass Sie einen Beitrag leisten möchten!
 
-Im Folgenden finden Sie eine Reihe von Richtlinien, die bei der Mitarbeit an diesem Projekt befolgt werden müssen.
+Im Folgenden finden Sie eine Reihe von Richtlinien, die beim Verfassen von Beiträgen zu diesem Projekt befolgt werden müssen.
 
 ## Verhaltenskodex
 
-Dieses Projekt unterliegt dem [Verhaltenskodex](code-of-conduct.md) von Adobe. Durch Ihre Teilnahme wird von Ihnen erwartet, diesen Verhaltenskodex einzuhalten. Bitte melden Sie inakzeptables Verhalten an
+Dieses Projekt unterliegt dem [Verhaltenskodex](code-of-conduct.md) von Adobe. Durch Ihre Teilnahme wird von Ihnen erwartet, diesen Verhaltenskodex einzuhalten. Melden Sie bitte inakzeptables Verhalten unter
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Dokumentation zum Mitarbeiter-Handbuch
+## Dokumentation zum Handbuch für Mitwirkende
 
-Siehe [Mitarbeiter-Handbuch](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Siehe das [Handbuch für Mitwirkende](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Haben Sie eine Frage?
 
-Melden Sie zunächst ein Problem. Die vorhandenen Projektverantwortlichen arbeiten daran, einen Konsens über die Projektausrichtung zu erzielen und Problemlösungen innerhalb von Problem-Threads zu erarbeiten (falls zutreffend).
+Melden Sie zunächst ein Problem. Die Projektverantwortlichen arbeiten daran, einen Konsens über die Projektausrichtung zu erzielen und Problemlösungen innerhalb von Problem-Threads zu erarbeiten (sofern zutreffend).
 
 ## Lizenzvereinbarung für Mitwirkende
 
-Für alle Drittanbieter-Beiträge zu diesem Projekt muss eine unterzeichnete Lizenzvereinbarung für Mitwirkende (Contributor License Agreement, CLA) vorliegen. Dadurch erhält Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts zu veröffentlichen. [Unterschreiben Sie unsere CLA](http://opensource.adobe.com/cla.html). Sie müssen nur einmal eine Adobe-CLA übermitteln. Wenn Sie also bereits eine übermittelt haben, können Sie loslegen!
+Allen Drittanbieter-Beiträgen zu diesem Projekt muss eine unterzeichnete Lizenzvereinbarung für Mitwirkende beigelegt sein. Dadurch erhält Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts zu veröffentlichen. [Unterschreiben Sie unsere Lizenzvereinbarung für Mitwirkende](http://opensource.adobe.com/cla.html). Eine Adobe-Lizenzvereinbarung für Mitwirkende muss nur ein Mal eingereicht werden. Wenn Sie also schon einmal eine Lizenzvereinbarung für Mitwirkende eingereicht haben, müssen Sie nichts mehr unternehmen.
 
-## Codeüberprüfungen
+## Code-Überprüfungen
 
-Alle Einsendungen sollten in Form von Pull-Anfragen erfolgen und müssen von Projektverantwortlichen geprüft werden. Weitere Informationen zum Senden von Pull-Anfragen finden Sie in der [Dokumentation zu Pull Requests von GitHub](https://help.github.com/de/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+Alle Einsendungen sollten in Form von Pull-Anfragen erfolgen und müssen von Projektverantwortlichen geprüft werden. Weitere Informationen zum Senden von Pull-Anfragen finden Sie in der [Dokumentation zu Pull Requests von GitHub](https://help.github.com/articles/about-pull-requests/).
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## Vom Mitarbeiter zum Verantwortlichen
+## Von den Mitwirkenden zu den Verantwortlichen
 
-Wir lieben Beiträge von unserer Community! Wenn Sie einen Schritt weiter gehen möchten als Mitwirkende und Verantwortlicher mit vollem Schreibzugriff und Mitsprache im Projekt werden möchten, müssen Sie zum Projekt eingeladen werden. Die vorhandenen Verantwortlichen verwenden einen internen Nominierungsprozess, der einen verzögerten Konsens erreichen muss (Schweigen bedeutet Zustimmung), bevor Einladungen veröffentlicht werden. Wenn Sie glauben, dass Sie qualifiziert sind und stärker involviert sein möchten, können Sie sich gerne an bestehende Committer wenden, um darüber zu sprechen.
+Wir lieben Beiträge von unserer Community! Wenn Sie nicht nur mitwirken, sondern mehr Verantwortung übernehmen und vollen Schreibzugriff und Mitsprache im Projekt erhalten möchten, benötigen Sie eine Einladung zum Projekt. Die vorhandenen Verantwortlichen verwenden einen internen Nominierungsprozess, der einen „stillen“ Konsens erreichen muss (Schweigen bedeutet Zustimmung), damit Einladungen ausgegeben werden können. Wenn Sie glauben, dass Sie qualifiziert sind, und stärker involviert werden möchten, können Sie sich gern an bestehende Verantwortliche wenden, um sich zu erkundigen.
 
 ## Sicherheitsprobleme
 
-Sicherheitsprobleme sollten nicht über diesen Problem-Tracker gemeldet werden. Stattdessen [ein Problem bei unseren Sicherheitsexperten einreichen](https://helpx.adobe.com/security/alertus.html)
+Sicherheitsprobleme sollten nicht über diesen Problem-Tracker gemeldet werden. Stattdessen [sollten Probleme an unsere Sicherheitsfachleute gesendet werden.](https://helpx.adobe.com/de/security/alertus.html)
