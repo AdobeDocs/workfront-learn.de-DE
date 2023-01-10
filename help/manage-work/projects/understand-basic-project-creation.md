@@ -33,6 +33,6 @@ Holen Sie sich [!DNL  Workfront] Projekte mithilfe einer Projektvorlage schnell 
 1. Dauer
 1. Geplante Stunden
 1. Vorgänger
-1. Zuweisungen
+1. Arbeitsaufträge
 
 Sobald alles festgelegt ist, ändern Sie den Projektstatus in Aktuell , um das Projekt live zu stellen. Im Zuge des Projektfortschritts möchten Sie die bereits geleistete Arbeit, auftretende Probleme, zu beantwortende Fragen und vieles mehr im Auge behalten. Denken Sie einfach daran ... Sie können alle diese Informationen finden und verwalten in [!DNL Workfront]!

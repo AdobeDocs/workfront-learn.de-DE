@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Dashboards
-description: Erfahren Sie, wie Sie eine Vielzahl von Listenberichten, Diagrammen, Kalender und externen Webseiten in einem Dashboard in Workfront kombinieren.
+description: Erfahren Sie, wie Sie mehrere Listenberichte, Diagramme, Kalender und externe Web-Seiten in einem Dashboard in Workfront kombinieren.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

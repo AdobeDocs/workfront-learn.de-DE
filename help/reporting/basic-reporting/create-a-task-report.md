@@ -1,6 +1,6 @@
 ---
 title: Aufgabenbericht erstellen
-description: Erfahren Sie, wie Sie einen Aufgabenbericht mit einem komplexen Filter erstellen und die in Workfront erstellten Berichte suchen. Aktivität - Erstellen Sie einen Bericht mit Eingabeaufforderungen.
+description: In diesem Video erfahren Sie, wie Sie einen Aufgabenbericht mit einem komplexen Filter in Workfront erstellen und die von Ihnen erstellten Berichte finden. Aktivität – einen Notizbericht mit Eingabeaufforderungen erstellen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
