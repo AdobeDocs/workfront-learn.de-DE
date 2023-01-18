@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 24d3d910949169043c51066f4a48bdaaa63f0dee
+source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2379'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,9 @@ ht-degree: 2%
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
       + [Grundlegendes zu gruppenspezifischen Validierungsprozessen](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [Meilensteine erstellen](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+   + Systemleistung und -wartung {#system-perfomance-and-maintenance}
+      + [Übernahme einer bestehenden Adobe Workfront-Instanz](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
