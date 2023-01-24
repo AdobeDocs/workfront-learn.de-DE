@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
+source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
 workflow-type: tm+mt
-source-wordcount: '2379'
+source-wordcount: '2385'
 ht-degree: 2%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 2%
       + [Zugriff auf Layoutvorlagen zuweisen und verwalten](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Objektbereiche mit einer Layoutvorlage anpassen](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [Anpassen von Projektdetails mit Layoutvorlagen](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+      + [Anpassen von Projekt-Headern mit Layoutvorlagen](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [Berichtslisten mit Layoutvorlagen anpassen](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
    + E-Mail- und In-App-Benachrichtigungen {#email-and-in-app-notifications}
       + [App- und E-Mail-Benachrichtigungen verwalten](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
