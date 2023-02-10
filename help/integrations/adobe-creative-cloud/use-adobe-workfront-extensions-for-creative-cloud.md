@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Verwenden von Adobe Workfront-Erweiterungen für Creative Cloud
 
-Suchen und aktualisieren Sie die Ihnen in Adobe Workfront zugewiesenen Aufgaben, ohne die folgenden Adobe Creative Cloud-Anwendungen - Photoshop, XD, InDesign, Illustrator, Premiere Pro und After Effects - zu verlassen.
+Suchen und aktualisieren Sie die in Adobe Workfront zugewiesenen Aufgaben, ohne die folgenden Adobe Creative Cloud-Anwendungen zu verlassen:
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 Sie müssen das richtige Plug-in für die Adobe Creative Cloud-Anwendung installieren, die Sie verwenden:
 
@@ -27,7 +34,7 @@ Sie müssen das richtige Plug-in für die Adobe Creative Cloud-Anwendung install
 
 >[!NOTE]
 >
->Bitte beachten Sie, dass **Premiere Pro** und **After Effects** Video-Uploads, -Reviews und -Validierungen in Workfront sind derzeit über das Plug-in nicht verfügbar.
+>**Premiere Pro** und **After Effects** Video-Uploads sowie Überprüfungen und Genehmigungen in Workfront sind derzeit über das Plug-in nicht verfügbar.
 
 
 In diesem Video erfahren Sie, wie Sie in Ihrer Creative Cloud App Folgendes durchführen:
