@@ -1,5 +1,5 @@
 ---
-title: Verwenden von Adobe Workfront-Erweiterungen für Creative Cloud
+title: Verwenden von Adobe Workfront-Plug-ins für Creative Cloud
 description: 'Suchen und aktualisieren Sie die Arbeit, die Ihnen in Adobe Workfront zugewiesen ist, ohne die folgenden Adobe Creative Cloud-Anwendungen zu verlassen: Photoshop, XD, InDesign, Illustrator, Premiere Pro und After Effects'
 activity: use
 feature: Workfront Integrations and Apps
@@ -7,15 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
+kt: 8811
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Verwenden von Adobe Workfront-Erweiterungen für Creative Cloud
+# Verwenden von Adobe Workfront-Plug-ins für Creative Cloud
 
 Suchen und aktualisieren Sie die in Adobe Workfront zugewiesenen Aufgaben, ohne die folgenden Adobe Creative Cloud-Anwendungen zu verlassen:
 
@@ -41,8 +41,10 @@ In diesem Video erfahren Sie, wie Sie in Ihrer Creative Cloud App Folgendes durc
 
 * Workfront-Zuweisungen suchen
 * Hochladen von Dateien in Workfront
+* Hinzufügen von Kommentaren und Tag-Team-Mitgliedern
 * Dokumentgenehmigungen anfordern
 * Hochladen von Testsendungen und Zuweisen eines Testversand-Workflows
+* Protokollzeit
 * Kennzeichnen Sie Ihre Arbeit als abgeschlossen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
