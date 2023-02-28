@@ -92,7 +92,7 @@ Insbesondere für Projektmanager:
 
 * [!UICONTROL Ein Projekt, an dem ich arbeite, wird aktiv]
 * [!UICONTROL Ein Projekt, das in meinem Besitz ist, ist in Verzug geraten.]
-* [!UICONTROL Eine Anfrage wird einem Projekt in meinem Besitz hinzugefügt]
+* [!UICONTROL Ein Problem wird einem Projekt in meinem Besitz hinzugefügt]
 * [!UICONTROL Meilensteinaufgabe für ein Projekt abgeschlossen, dessen Eigentümer ich bin]
 
 

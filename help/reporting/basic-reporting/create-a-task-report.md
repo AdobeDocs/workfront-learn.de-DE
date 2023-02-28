@@ -40,7 +40,7 @@ Die Ansicht sollte Spalten für Folgendes enthalten:
 * Inhaber: Name
 * Prüfungstyp
 * Aufgabenname
-* Name der Anfrage
+* Name des Problems
 
 Lassen Sie die Registerkarte Filter leer.
 
