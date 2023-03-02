@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -39,7 +40,7 @@ Unabhängig davon, wie Sie ein Projekt verwalten, möchten Sie jedoch:
 * Kommunikation mit Ihren Stakeholdern
 * Feiern Sie den Sieg auf dem Weg.
 
-Letztlich besteht Ihre Hauptaufgabe darin, das Projekt zu einem erfolgreichen Abschluss zu führen. [!DNL Workfront] kann Ihnen dabei helfen, die geleistete Arbeit über die Projektzeitleiste zu überwachen; Filter, Ansichten und Gruppierungen; Aktualisierungen; Berichte ... und mehr.
+Letztlich besteht Ihre Hauptaufgabe darin, das Projekt in Richtung eines erfolgreichen Abschlusses zu führen. [!DNL Workfront] kann Ihnen dabei helfen, die geleistete Arbeit über die Projektzeitleiste zu überwachen; Filter, Ansichten und Gruppierungen; Aktualisierungen; Berichte ... und mehr.
 
 <!---
 learn more urls
