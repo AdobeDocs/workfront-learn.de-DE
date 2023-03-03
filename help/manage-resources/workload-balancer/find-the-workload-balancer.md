@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,13 @@ Es kann für jeden eine Herausforderung sein, zu wissen, welche Ressourcen verf�
 
 Ihr Zweck besteht darin, Ihnen bessere Einblicke in die tägliche und wöchentliche Arbeitslast der von Ihnen verwalteten Personen zu geben und diese zu verwalten. Auf diese Weise können Sie über mehrere Projekte hinweg bessere, auf Rolle und Verfügbarkeit basierende Zuweisungen vornehmen.
 
-![Menüoption &quot;Ressourcen&quot;](assets/Find_01.png)
+![Ressourcen im Hauptmenü](assets/Find_01.png)
 
 * Klicken [!UICONTROL Ressourcen] im [!UICONTROL Hauptmenü].
 * Navigieren Sie zu [!UICONTROL Planung] im Bereich &quot;Ressourcenverwaltung&quot;.
-* Klicken Sie auf [!UICONTROL &quot;Wechsel zum Lastenausgleich&quot;] Link.
+* Klicken Sie auf [!UICONTROL &quot;Lastenausgleich&quot;] angezeigt.
 
-![Wechsel zum Lastenausgleich](assets/Find_02.png)
-
-Die [!DNL Workload Balancer] ist die Standardoption, wenn Sie zum Bereich Ressourcenverwaltung des Workfront-Tools wechseln.
+![Abschnitt zum Arbeitslastausgleich](assets/Find_02.png)
 
 ## Bereiche im Arbeitslastausgleich
 
