@@ -2,7 +2,7 @@
 title: Workfront Tutorials
 description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen dabei helfen, die Funktionen und Einstellungen von Workfront besser zu verstehen.  Dazu gehört eine Sammlung von Best Practices, kuratierten Übungen und anderen Ressourcen, die Ihnen und Ihrer Organisation dabei helfen, Workfront erfolgreich zu nutzen.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: f31f45b9f020e761a09fdd9adbb407f440505538
+source-git-commit: 59074bd3a448ad6d564f59599b8f57efc28982d1
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede
 
 ## Mitarbeiterauswahl
 
-<table>
+<table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
@@ -53,11 +53,9 @@ Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Layoutvorlagen suchen und erstellen</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Erfahren Sie, wie Sie eine einfache Layoutvorlage erstellen.
+         <em>Erfahren Sie, wie Sie eine einfache Layoutvorlage erstellen.</em>
       </p>
     </td>
    <td>
@@ -66,11 +64,9 @@ Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Anfrage stellen</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-      <br/>
-         Erfahren Sie, wie Sie Anforderungen erstellen, anzeigen und bearbeiten.
+         <em>Erfahren Sie, wie Sie Anforderungen erstellen, anzeigen und bearbeiten.</em>
       </p>
 
 <td>
@@ -79,11 +75,9 @@ Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Einfache Berichte erstellen</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Erfahren Sie, wie Sie einen einfachen benutzerspezifischen Bericht erstellen.
+         <em>Erfahren Sie, wie Sie einen einfachen benutzerspezifischen Bericht erstellen.</em>
       </p>
     </td>
   </tr>
