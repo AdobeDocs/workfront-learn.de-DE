@@ -1,6 +1,7 @@
 ---
 title: In-App- und E-Mail-Ereignisbenachrichtigungen verwalten
-description: Erfahren Sie, wie Benutzende steuern können, welche In-App- und E-Mail-Benachrichtigungen sie erhalten, damit sie nur relevante, hilfreiche E-Mails zu ihrer Arbeit erhalten.
+description: Erfahren Sie, wie Benutzer steuern können, welche In-App- und E-Mail-Benachrichtigungen sie erhalten, damit sie relevante und hilfreiche E-Mails zu ihrer Arbeit erhalten.
+short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,10 +11,10 @@ level: Beginner
 thumbnail: 10095.jpeg
 kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 9%
+source-wordcount: '616'
+ht-degree: 8%
 
 ---
 
@@ -85,12 +86,12 @@ Für die meisten Benutzer:
 * [!UICONTROL Wenn eine Aufgabe abgeschlossen ist, die primär zugewiesenen Benutzer aller abhängigen Aufgaben per E-Mail benachrichtigen.]
 * [!UICONTROL Jemand hat mich in die direkte Aktualisierung einbezogen]
 * [!UICONTROL Jemand kommentiert meinen Arbeitselement]
-* [!UICONTROL Das Fälligkeitsdatum ändert sich bei einer Aufgabe, der ich zugewiesen bin]
+* [!UICONTROL Den zugewiesenen Benutzer per E-Mail benachrichtigen, wenn sich das geplante Abschlussdatum der Aufgabe ändert]
 
 
 Insbesondere für Projektmanager:
 
-* [!UICONTROL Ein Projekt, an dem ich arbeite, wird aktiv]
+* [!UICONTROL Ein Projekt, an dem ich mitarbeite, ist jetzt aktiv.]
 * [!UICONTROL Ein Projekt, das in meinem Besitz ist, ist in Verzug geraten.]
 * [!UICONTROL Ein Problem wird einem Projekt in meinem Besitz hinzugefügt]
 * [!UICONTROL Meilensteinaufgabe für ein Projekt abgeschlossen, dessen Eigentümer ich bin]
