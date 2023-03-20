@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
+source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2380'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 2%
       + [Gruppen und Untergruppen erstellen](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Notwendigkeit der Gruppenverwaltung](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [Erstellen von Unternehmen](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [Einrichten von Benutzern mit Lizenzen, Zugriffsebenen und Rollen](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Einrichten von Benutzern mit Lizenzen und Zugriffsebenen](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Erstellen und Verwalten von Vorgangsrollen](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Anmelden als anderer Benutzer](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + Gelöschte Elemente verwalten {#manage-deleted-items}
       + [Wiederherstellen von Objekten aus dem Papierkorb](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
