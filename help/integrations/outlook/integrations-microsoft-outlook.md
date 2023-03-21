@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: e902bae4c4dae0c7800d1a97c1835eff3bb6d924
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ In diesem Video erfahren Sie, wie Sie:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12)
 
+>[!IMPORTANT]
+>
+>Wenn Sie das Workfront-Add-in nicht finden können, wie im Video beschrieben, muss Ihre IT-Abteilung möglicherweise erst bestimmte Einrichtungsarbeiten durchführen. Detaillierte Anweisungen finden Sie unter [Einrichten von Adobe Workfront für Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
 
 ## Integrieren des Microsoft Outlook-Kalenders in den [!DNL Workfront] Startseite
 
