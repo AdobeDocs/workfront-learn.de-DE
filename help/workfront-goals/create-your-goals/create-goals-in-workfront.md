@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -68,7 +68,7 @@ Beachten Sie vor dem Kopieren von Zielen Folgendes:
 
    ![Ein Bild der [!UICONTROL Zieldetails] Bedienfeld in [!DNL Workfront Goals] mit dem [!UICONTROL Kopieren] option](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Klicken **[!UICONTROL Aktivieren]**, wodurch der Zielstatus auf &quot;Aktiv&quot;aktualisiert wird. Das Ziel muss über eine zugehörige Aktivität oder ein zugehörigen Ergebnis verfügen, um &quot;aktiviert&quot;zu können.
+1. Klicken Sie auf das 3-Punkt-Symbol und wählen Sie  **[!UICONTROL Aktivieren]**, wodurch der Zielstatus auf &quot;Aktiv&quot;aktualisiert wird. Das Ziel muss über eine zugehörige Aktivität oder ein zugehörigen Ergebnis verfügen, um &quot;aktiviert&quot;zu können.
 
 Wenn Sie ein Ziel kopiert haben, das in einem früheren Zeitraum nicht erreicht wurde, und im folgenden Zeitraum daran weiter arbeiten möchten, gehen Sie wie folgt vor:
 
