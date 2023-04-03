@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Nachdem Sie Ziele erstellt haben, aktivieren wir sie! Wenn Sie ein Ziel erstelle
 
 ![Screenshot eines Ziels in Workfront-Zielen mit dem Status &quot;Entwurf&quot;](assets/04-workfront-goals-activate-goals.png)
 
-## Fortschrittsindikatoren aktivieren Ziele
+## Fortschrittsanzeigen sind erforderlich, um Ziele zu aktivieren
 
 Bevor Sie fortfahren, müssen Sie die in [!DNL Workfront Goals]. Fortschrittsanzeigen sind Objekte in [!DNL Goals] wird verwendet, um den Fortschritt eines Ziels zu berechnen. Die Fortschrittsindikatoren sind aufeinander abgestimmte Ziele, Ergebnisse, Aktivitäten und Projekte. Sie werden später mehr darüber erfahren. Zunächst ist es wichtig zu verstehen, dass einem Ziel abgestimmte Ziele, Ergebnisse, Aktivitäten und Projekte hinzugefügt werden müssen, um es zu aktivieren.
 
@@ -32,3 +32,8 @@ Um eine Fortschrittsanzeige hinzuzufügen, öffnen Sie das Ziel und wählen Sie 
 
 Verglichen mit anderen Fortschrittsanzeigen sind Projekte etwas einzigartig, da sie als eine Art von Aktivität betrachtet werden. Aktivitäten können in zwei Typen unterteilt werden: manueller Fortschrittsbalken und Projekte. Daher werden auch Projekte den Fortschritt fördern. Obwohl alle Arten von Fortschrittsanzeigen mit einem übergeordneten Ziel verbunden werden können, sollten Sie beachten, dass es Unterschiede bei der Verwaltung gibt.
 
+## Aktivieren Sie jetzt das Ziel.
+
+Wenn Sie mindestens eine Fortschrittsanzeige für Ihr Ziel haben, wird die Option Aktivieren angezeigt, wenn Sie auf das drei Punktmenü neben dem Zielnamen klicken.
+
+![Ein Screenshot, in dem gezeigt wird, wie ein Ziel aktiviert wird.](assets/activate-a-goal-with-a-result.png)

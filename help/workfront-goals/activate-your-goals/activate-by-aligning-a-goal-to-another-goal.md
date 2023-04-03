@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ Wenn Sie zwei Ziele ausrichten, wird eines zum übergeordneten Ziel und das ande
 1. Klicken [!UICONTROL Änderungen speichern].
 
 Wenn Sie ein Ziel an ein anderes Ziel ausrichten, wird ein untergeordnetes Ziel erstellt. Stellen Sie sich untergeordnete Ziele als individuelle Ziele vor, die zum Fortschritt der übergeordneten Ziele der Organisation oder des Teams beitragen. Untergeordnete Ziele können den Fortschritt des übergeordneten Ziels aktivieren und beeinflussen.
+
+## Aktivieren Sie jetzt das übergeordnete Ziel.
+
+Nachdem Sie jetzt ein untergeordnetes Ziel erstellt haben, wird es zu einem Fortschrittsanzeiger für Ihr übergeordnetes Ziel. Die Option Aktivieren wird angezeigt, wenn Sie auf das Menü mit den drei Punkten neben dem Namen des übergeordneten Ziels klicken.
+
+![Ein Screenshot, der zeigt, wie das übergeordnete Ziel aktiviert wird.](assets/activate-the-parent-goal.png)
+
