@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In diesem Video erfahren Sie:
 * Gruppierung erstellen
 * Und wie Sie eine Gruppierung für andere Workfront-Benutzer freigeben
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
 ## Aktivität: Basisgruppierung erstellen
 

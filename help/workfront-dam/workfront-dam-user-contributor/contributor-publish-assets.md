@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -41,4 +41,4 @@ In diesem Video erfahren Sie, wie Sie:
 * Veröffentlichen von Assets in [!UICONTROL Brand Connect]
 * Veröffentlichen von Ordnern in [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on)

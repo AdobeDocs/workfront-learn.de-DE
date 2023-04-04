@@ -11,7 +11,7 @@ thumbnail: 335132.png
 kt: 8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In diesem Video erfahren Sie, wie Sie:
 * Fügen Sie einen einfachen Testversand-Workflow hinzu, damit die Beteiligten das Asset überprüfen und genehmigen können
 * Legen Sie einen Termin für die Prüfung der Testsendungen fest
 
->[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12&learn=on)
 
 ## Ihre Wendung
 

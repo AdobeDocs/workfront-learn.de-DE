@@ -10,7 +10,7 @@ level: Beginner
 kt: 9005
 exl-id: 1e47a475-0d20-4516-b6ef-86166263d3b5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In diesem Video erfahren Sie, wie Sie:
 * Verwenden von Filtern als Suchkriterien in einem Modul
 * Überprüfen der Filterbewertung im Ausführungsverlauf
 
->[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12&learn=on)

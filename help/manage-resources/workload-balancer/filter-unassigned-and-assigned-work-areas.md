@@ -11,7 +11,7 @@ thumbnail: 335163.png
 kt: 8875
 exl-id: 8a767d41-391c-4862-8b49-6d9480cc8187
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -26,4 +26,4 @@ In diesem Video erfahren Sie, wie Sie:
 * Filtern der Benutzerliste im Bereich &quot;Zugewiesene Arbeit&quot;
 * Filtern des nicht zugewiesenen Arbeitsbereichs
 
->[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on)

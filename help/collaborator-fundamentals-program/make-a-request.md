@@ -6,7 +6,7 @@ type: Tutorial
 team: Technical Marketing
 kt: 8806
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -22,7 +22,7 @@ In diesem Video erfahren Sie, wie Sie:
 * Gesendete Anforderungen anzeigen
 * Anforderungsentwurf suchen
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
 
 ## Schneller Zugriff auf Anforderungswarteschlangenpfade
 

@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ In diesem Video erfahren Sie mehr über:
 * Planen von Projekten ab dem Start- oder Enddatum
 * Aufgabenbegrenzungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)

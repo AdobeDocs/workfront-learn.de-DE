@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In diesem Video erfahren Sie, wie Sie:
 * Was sollten Sie bei der Überwachung der Projektarbeit beachten?
 * Ihre Rolle als Projekt-Manager
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
 ## Projekt verwalten - Überprüfung
 
@@ -40,7 +40,7 @@ Unabhängig davon, wie Sie ein Projekt verwalten, möchten Sie jedoch:
 * Kommunikation mit Ihren Stakeholdern
 * Feiern Sie den Sieg auf dem Weg.
 
-Letztlich besteht Ihre Hauptaufgabe darin, das Projekt in Richtung eines erfolgreichen Abschlusses zu führen. [!DNL Workfront] kann Ihnen dabei helfen, die geleistete Arbeit über die Projektzeitleiste zu überwachen; Filter, Ansichten und Gruppierungen; Aktualisierungen; Berichte ... und mehr.
+Letztlich besteht Ihre Hauptaufgabe darin, das Projekt zu einem erfolgreichen Abschluss zu führen. [!DNL Workfront] kann Ihnen dabei helfen, die geleistete Arbeit über die Projektzeitleiste zu überwachen; Filter, Ansichten und Gruppierungen; Aktualisierungen; Berichte ... und mehr.
 
 <!---
 learn more urls

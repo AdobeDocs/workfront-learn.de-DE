@@ -10,7 +10,7 @@ level: Beginner
 kt: 9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -31,7 +31,7 @@ In diesem Video erfahren Sie, wie Sie:
 * Detaillierte und freigebbare Dokumentation erstellen
 * Testtiefe, -breite, -komplexität und -last
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on)
 
 ## Checkliste für Testüberlegungen
 

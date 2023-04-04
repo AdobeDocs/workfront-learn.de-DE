@@ -10,7 +10,7 @@ level: Beginner
 kt: 9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on)
 
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:

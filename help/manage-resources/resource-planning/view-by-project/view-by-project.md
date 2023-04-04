@@ -11,7 +11,7 @@ thumbnail: 335170.jpeg
 kt: 8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In diesem Video werden Sie:
 * Siehe [!UICONTROL Anzeigen nach Projekt ]Ansicht
 * Erfahren Sie, wie Ressourceninformationen in dieser Ansicht angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on)
 
 Bei der Option Nach Projekt anzeigen wird standardmäßig die Spalte &quot;Geplant&quot;angezeigt, die die geschätzte Anzahl der für ein Projekt benötigten Ressourcen aus einem Geschäftsfall abruft, wenn dieses ausgefüllt wurde. Dies bedeutet auch, dass die Spalte Netz standardmäßig die Zahlen aus der Spalte Budgetiert verwendet, um Ihnen mitzuteilen, wie viele Ressourcen noch übrig sind.
 

@@ -11,7 +11,7 @@ thumbnail: 335101.png
 kt: 8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In diesem Video erfahren Sie:
 * Der Zweck des Status in [!DNL  Workfront]
 * So ändern Sie den Status von Arbeitszuweisungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on)
 
 ## Im Vergleich
 

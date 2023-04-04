@@ -11,7 +11,7 @@ thumbnail: 335131.png
 kt: 8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Jede Etappe eines automatisierten Workflows verfügt über einen eigenen Abschni
 
 In diesem Video werden kurz einige der Änderungen vorgestellt, die Sie im [!UICONTROL Workflow] Bereich. Sehen Sie sich die Liste mit Aufzählungszeichen unter diesem Video an, in der Sie diese Einstellungen überprüfen. In diesem Video gibt es kein Audio.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
 Im Folgenden finden Sie die Änderungen an der Testversandvorlage, die Sie in der [!UICONTROL Workflow] Abschnitt:
 

@@ -11,7 +11,7 @@ thumbnail: 335223.jpeg
 kt: 8960
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie Warteschlangenthemen, Themengruppen und Routing-Regeln konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
 
 ## Häufig gestellte Fragen
 

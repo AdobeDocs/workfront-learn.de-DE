@@ -11,10 +11,10 @@ thumbnail: 335157.png
 kt: 8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '463'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ In diesem Video erfahren Sie:
 * Freigeben eines Dashboards für andere Workfront-Benutzer
 * Drucken eines Dashboards
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## Aktivität: Dashboard erstellen
 

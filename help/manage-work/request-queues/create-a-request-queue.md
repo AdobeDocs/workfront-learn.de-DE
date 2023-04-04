@@ -11,9 +11,9 @@ thumbnail: 335221.jpeg
 kt: 8958
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ In diesem Video erfahren Sie, wie Sie:
 * Anforderungswarteschlange einrichten
 * Einrichten der Details der Anforderungswarteschlange
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
 ## Ihre Wendung
 

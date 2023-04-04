@@ -11,7 +11,7 @@ thumbnail: 335164.png
 kt: 8876
 exl-id: 05a10df0-9f96-4a38-b23c-c54b64231722
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In diesem Video erfahren Sie, wie Sie:
 * Grafikmodus auswählen , um eine allgemeine Ansicht der Benutzerzuordnung zu erhalten
 * Aufschlüsselungen der täglichen Zuordnung von Benutzern anzeigen
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on)

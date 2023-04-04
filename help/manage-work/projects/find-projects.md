@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8716,8717,8718,8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -45,24 +45,24 @@ Sie können ein aktuelles Projekt - und andere Objekte - schnell finden, indem S
 
 Wenn Sie an einem Projekt arbeiten, können Sie es leicht finden, indem Sie es in die Menüleiste einfügen, damit Sie es mit einem Klick öffnen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
 ## Projekt favorisieren
 
 Wenn Sie mehrere Projekte verwalten, möchten Sie sie möglicherweise zu &quot;Favoriten&quot;machen, indem Sie auf das Sternsymbol klicken. Dann finden Sie Ihre Liste unter [!UICONTROL Favoriten] in der Menüleiste des Hauptmenüs.
 
->[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 
 
 ## Öffnen eines Projekts über ein Dashboard
 
 Viele [!DNL Workfront] -Kunden nutzen Berichte, die in einem Dashboard erstellt wurden, um ihre laufende Arbeit zu finden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 
 
 ## Öffnen Sie ein Projekt auf der Seite &quot;Projekte&quot;.
 
 Und natürlich sind Ihre Projekte immer im Hauptbereich verfügbar [!UICONTROL Projekte] Bereich. Klicken Sie einfach auf den Projektnamen, um ihn zu öffnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12&learn=on)
