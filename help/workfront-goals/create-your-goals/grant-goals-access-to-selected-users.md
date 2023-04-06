@@ -1,5 +1,5 @@
 ---
-title: Bearbeiten [!UICONTROL Zugriffsebenen] für [!DNL Workfront Goals]
+title: Zugriff auf ausgewählte Benutzer über Ziele gewähren
 description: Erfahren Sie, wie Sie die Zugriffsebenen entsprechend dem Lizenztyp für Ihre Benutzer bearbeiten können in [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
@@ -10,18 +10,18 @@ team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Zugriffsebenen bearbeiten für [!DNL Workfront Goals]
+# Zugriff auf ausgewählte Benutzer über Ziele gewähren
 
 In diesem Video erfahren Sie, wie Sie:
 
-* Zugriffsebenen nach Lizenztyp bearbeiten
+* Zugriff auf ausgewählte Benutzer über Ziele gewähren
 
 >[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 

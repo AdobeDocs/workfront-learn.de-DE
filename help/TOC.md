@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '2344'
+source-wordcount: '2346'
 ht-degree: 2%
 
 ---
@@ -310,7 +310,7 @@ ht-degree: 2%
    + Ziele verwalten {#manage-goals}
       + [Ziele abstimmen](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Zielausrichtung entfernen](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [Quantitative Aktualisierung vornehmen](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
+      + [Fortschritt der Ergebnisse und Aktivitäten aktualisieren](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [Ziel nach Abschluss schließen](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + Ziele überwachen {#monitor-goals}
       + [Wissenswertes zum Abschnitt Diagramme](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)

@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Nachdem Sie Ihre Ziele in erstellt und aktiviert haben, [!DNL Workfront Goals], 
 
 <!--Insert link to LP 1, above -->
 
-Verwenden Sie die Zielausrichtung für:
+Verwenden Sie den Abschnitt Zielausrichtung , um:
 
 * Anzeigen von Zielen, die zu Ihnen oder Ihrer Organisation gehören.
 * Zeigt die Zielhierarchie an und zeigt ausgerichtete untergeordnete Ziele an.
-* Rufen Sie das Bedienfeld &quot;Zieldetails&quot;auf und aktualisieren Sie das Ziel, die Ergebnisse oder Aktivitäten.
+* Öffnen Sie das Ziel, um seine Fortschrittsindikatoren anzuzeigen.
 
-Die Ziele aufeinander abzustimmen bedeutet, dass alle von oben nach unten an der Arbeit arbeiten, die dieselben Initiativen vorantreiben. Die Visualisierung ist ein wichtiger Teil der direkten Ausrichtung jedes Top-Unternehmensziels auf die Abteilungen-, Team- und individuelle Ebene. Silos werden reduziert, indem Teams funktionsübergreifend ausgerichtet werden. Alignment schafft Klarheit über den Zweck aller und verbindet die Organisation mit dem, was wirklich zählt.
+Die Ziele aufeinander abzustimmen bedeutet, dass alle von oben nach unten an der Arbeit arbeiten, die dieselben Initiativen vorantreiben. Die Visualisierung ist ein wichtiger Teil der direkten Ausrichtung jedes Top-Unternehmensziels auf die Abteilungen-, Team- und individuelle Ebene. Silos werden reduziert, indem Teams funktionsübergreifend ausgerichtet werden. Alignment schafft Klarheit bezüglich des Zwecks aller und verbindet die Organisation mit dem, was wirklich zählt.
 
 Denken Sie bei der Ausrichtung Ihrer Unternehmensziele daran, durch Einfachheit Klarheit und Fokus zu schaffen. Wenn Sie mit der Ausrichtung kämpfen, liegt das wahrscheinlich daran, dass Sie versuchen, Ziele zu erzwingen, die von Natur aus nicht miteinander verbunden sind. Wenn Sie sich festgehalten fühlen, besuchen Sie einfach die Top-Unternehmensziele, dann die Gruppen- und Teamziele und entscheiden Sie, welche die wichtigsten bleiben. Beseitigen Sie alles, was redundant erscheint oder das nicht mit der Vision Ihres Unternehmens übereinstimmt.
 
@@ -49,6 +49,7 @@ Beachten Sie Folgendes, bevor Sie Ziele in [!DNL Workfront]:
 
 In diesem Video erfahren Sie, wie Sie:
 
-* Navigieren Sie zum [!UICONTROL Zielausrichtung] page
+* Ziele mithilfe eines Bottom-up- und eines Top-Down-Ansatzes ausrichten
+* Navigieren Sie zum [!UICONTROL Zielausrichtung] Abschnitt
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)
