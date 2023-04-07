@@ -9,21 +9,20 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '466'
 ht-degree: 1%
 
 ---
 
 # Zielstatus kommunizieren
 
-Nachdem Sie jetzt Ihre Ziele aktualisiert haben, verwenden Sie [!UICONTROL Check-ins], nehmen Sie sich einen Moment Zeit, um sich einen Überblick über die Ziele zu verschaffen, an denen Sie arbeiten, und wie sie sich auf Team-, Gruppen- und Unternehmensziele beziehen. Mit anderen über den Fortschritt und den Status Ihrer Ziele zu kommunizieren ist ein wichtiger Teil der Zielsetzung, stets auf dem richtigen Weg zu sein.
+Nachdem Sie jetzt Ihre Ziele aktualisiert haben, nehmen Sie sich einen Moment Zeit, um sich einen Überblick über die Ziele zu verschaffen, an denen Sie arbeiten, und wie sie sich auf Team-, Gruppen- und Unternehmensziele beziehen. Mit anderen über den Fortschritt und den Status Ihrer Ziele zu kommunizieren ist ein wichtiger Teil der Zielsetzung, stets auf dem richtigen Weg zu sein.
 
 Es gibt verschiedene Möglichkeiten, die richtigen Personen über Ihre Ziele auf dem Laufenden zu halten. Sie können wie folgt beginnen:
 
 * Freigeben und Reporting zu Ihren Zielen
-* Einrichten der Ansicht der [!UICONTROL Puls] Stream zum Erstellen und Anzeigen einzelner Ziel-Updates
 * Nutzung der [!UICONTROL Diagramme] , um eine umfassende Übersicht über den Fortschritt Ihrer Ziele zu erhalten
 
 ## Ziel freigeben

@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,8 @@ Der Fortschritt Ihres Ziels ist ein guter Weg, um eine Vorstellung davon zu erha
 
 ![Eine Grafik, die die verschiedenen Fortschrittsbeschriftungen in [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![Screenshot der Spalte mit dem Zielfortschrittsprozentsatz im [!UICONTROL Einchecken] Abschnitt [!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
 
-<!-- Learn more graphic -->
+>[!TIP]
+>
+>Weitere Informationen zu den Formeln zur Berechnung des Zielfortschritts finden Sie in diesem Artikel: [Übersicht über den Zielfortschritt und die Bedingungen in Adobe Workfront-Zielen](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-* Weitere Informationen zu den Formeln zur Berechnung des Zielfortschritts finden Sie im Artikel Zielfortschritt berechnen in [!DNL   Goals].
-
-
-<!-- need link to documentation article, above -->
