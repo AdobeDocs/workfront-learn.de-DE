@@ -10,16 +10,14 @@ level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
 # Webhooks-Anleitung
-
-## Übersicht
 
 Mit diesem Szenario wird eine Convenience Store-App erstellt, mit der leicht festgestellt werden kann, ob ein Kunde alt genug ist, um Alkohol zu kaufen. Der Kassierer muss einfach den Namen und das Geburtsdatum des Kunden SOWIE ein verifiziertes Client-Token an eine bereitgestellte URL posten. Nach der Eingabe wird unser Szenario Trigger, die entsprechende Antwort zu berechnen und an den Anfragenden zurückzugeben.
 

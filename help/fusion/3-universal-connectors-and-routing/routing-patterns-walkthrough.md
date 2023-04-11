@@ -10,16 +10,14 @@ level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
 # Anleitung zu Routing-Mustern und Fallbacks
-
-## Übersicht
 
 Verwenden Sie das Modul Variable festlegen , um eine Zahl über mehrere Pfade zu senden, um zu sehen, wie sich Filter und Fallbacks beim Routing verhalten.
 

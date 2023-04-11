@@ -10,16 +10,14 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
 
 # Anleitung zu Routern
-
-## Übersicht
 
 Verwenden Sie einen Router, um Pokemon oder Superhelden den richtigen Pfad zu übergeben und dann eine Aufgabe für jedes Zeichen zu erstellen.
 
@@ -60,7 +58,7 @@ Bis zu diesem Zeitpunkt haben Sie mit einer sehr einfachen API (Application Prog
 
 Workfront und viele Softwaresysteme werden mit einer REST-API (Repräsentational State Transfer) erstellt, der derzeit am einfachsten und am meisten standardmäßigen API-Typ ist. Es gibt jedoch einige weitere, wie z. B.:
 
-* SOAP (Simple Object Access Protocol) (die Proof-API von Workfront ist SOAP-basiert)
+* SOAP (Simple Object Access Protocol) (die Testversand-API von Workfront ist SOAP-basiert)
 * FTP (File Transfer Protocol)
 * SFTP (Secure File Transfer Protocol)
 * Um mehr zu erfahren, führen Sie eine Websuche nach API-Typen und Keywords mit Interesse durch.
@@ -81,13 +79,13 @@ Informationen zu den verschiedenen Authentifizierungstypen, die Workfront bereit
 
 Wenn eine API mit einem anderen System interagiert, werden die Touchpoints dieser Kommunikation als Endpunkte betrachtet. Ein Endpunkt ist der Ort, an dem APIs Anfragen senden und an dem sich die Ressource befindet.
 
-Bei der Interaktion mit einer API mithilfe eines universellen Connectors müssen Sie wissen, welche Endpunkte die API unterstützt und welche Daten für jede Anfrage benötigt werden. In der API-Dokumentation sollten die Endpunkte einer API beschrieben und beschrieben werden, wie allgemeine Vorgänge wie Erstellen, Lesen, Aktualisieren oder Löschen ausgeführt werden. Die Durchführung dieser Aufrufe erfordert einige Verfahren, insbesondere wenn Sie mit API-Aufrufen oder der Arbeit mit einer neuen API noch nicht vertraut sind.
+Bei der Interaktion mit einer API mithilfe eines universellen Connectors müssen Sie wissen, welche Endpunkte die API unterstützt und welche Daten für jede Anfrage benötigt werden. In der API-Dokumentation sollten die Endpunkte einer API beschrieben und beschrieben werden, wie allgemeine Vorgänge wie Erstellen, Lesen, Aktualisieren oder Löschen ausgeführt werden. Die Ausführung dieser Aufrufe erfordert einige Verfahren, insbesondere wenn Sie mit API-Aufrufen oder der Arbeit mit einer neuen API noch nicht vertraut sind.
 
 Erfahren Sie mehr über Workfront Fusion Universal Connectors und deren Einrichtung für die Verbindung mit den APIs, die Sie in Experience League benötigen.
 
 ## Schlussbemerkung
 
-Sie können die gesamte Liste unserer vordefinierten App-Connectoren in Experience League überprüfen. Wenn Sie dem Produktteam von Workfront Fusion einen neuen App-Connector vorschlagen möchten, senden Sie Ihre Idee an Innovation Lab. Wenn Sie noch nicht eingereicht haben, erfahren Sie mehr über das Innovationslabor und darüber, wie Sie Ideen wählen und an der zweimal jährlich stattfindenden Priorisierung des Leaderboards teilnehmen können. Wenn Sie bereits Zugriff auf das Innovationslabor haben, melden Sie sich an und übermitteln Sie Ihre Ideen.
+Sie können die gesamte Liste unserer vordefinierten App-Connectoren in Experience League überprüfen. Wenn Sie dem Produktteam von Workfront Fusion einen neuen App-Connector vorschlagen möchten, senden Sie Ihre Idee an Innovation Lab. Wenn Sie noch nicht eingereicht haben, erfahren Sie mehr über das Innovationslabor und wie Sie für Ideen stimmen und an der zweimal jährlich stattfindenden Priorisierung des Leaderboards teilnehmen können. Wenn Sie bereits Zugriff auf das Innovationslabor haben, melden Sie sich an und übermitteln Sie Ihre Ideen.
 
 ## Ihre Wendung
 

@@ -10,16 +10,14 @@ level: Beginner
 kt: 9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 # Anleitung zu Datenstrukturen
-
-## Übersicht
 
 Öffnen Sie eine CSV-Datei, die eine Liste mit Zeiteinträgen enthält. Diese Zeiteinträge beziehen sich auf Minuten, die von mehreren Benutzern an bestimmten Tagen protokolliert werden. Ziel ist es, diese Informationen zu nehmen und eine neue CSV-Datei zu erstellen, die die Gesamtzeit (in Stunden) anzeigt, die jeder Benutzer täglich protokolliert.
 

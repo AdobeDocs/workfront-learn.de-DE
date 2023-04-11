@@ -10,16 +10,14 @@ level: Beginner
 kt: 9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Anleitung zur Switch-Funktion
-
-## Übersicht
 
 Verwenden Sie für einfache Datenänderungen die Switch-Funktion, um innerhalb eines Modulfelds einen Wert in einen anderen umzuwandeln. Ändern Sie in dieser Übung den zweistelligen Schlüssel in den tatsächlichen Namen für den Projektfortschrittsstatus, der in einer E-Mail gesendet wird.
 

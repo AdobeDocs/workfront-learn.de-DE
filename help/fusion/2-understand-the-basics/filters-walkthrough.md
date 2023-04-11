@@ -10,16 +10,14 @@ level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
 # Anleitung zum mächtigen Filter verwenden
-
-## Übersicht
 
 Fügen Sie mithilfe der zuvor erstellten exemplarischen Anleitung &quot;Über die grundlegende Zuordnung hinaus&quot;einen Filter zwischen den beiden Modulen in den Modulen hinzu, um nur Projekte mit einer roten Projektfarbe in der Projektliste zu erstellen.
 

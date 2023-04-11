@@ -10,16 +10,14 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Einführung in Iteratoren - Anleitung
-
-## Übersicht
 
 Sehen Sie sich ein bestimmtes Projekt in Workfront an und sehen Sie sich dann alle Aufgaben in diesem Projekt an. Anschließend verwenden Sie das Inkrement-Tool-Modul, um die Anzahl der Aufgaben innerhalb des Projekts zu zählen. Schließlich verwenden Sie das Set-Variablenmodul, um die Anzahl der untergeordneten Elemente von der Anzahl der offenen Probleme zu subtrahieren und für jedes der Aufgabenbundles einen numerischen Wert zu generieren.
 

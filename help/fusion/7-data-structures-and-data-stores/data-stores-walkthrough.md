@@ -10,16 +10,14 @@ level: Beginner
 kt: 9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
 
 # Anleitung zu Datenspeichern
-
-## Übersicht
 
 In dieser Übung verwenden wir einen Datenspeicher, um Unternehmensnamen zwischen einer Unternehmensliste und Workfront zu synchronisieren.
 
@@ -40,13 +38,13 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 ## Schlussbemerkung
 
-Nachdem Sie sich mit den Datenstrukturen und Datenspeichern vertraut gemacht haben, fragen Sie sich vielleicht: &quot;Wann sollten Sie sie verwenden?&quot;
+Nachdem Sie nun mit dem Lernen über Datenstrukturen und Datenspeicher fertig sind, fragen Sie sich vielleicht: &quot;Wann sollten Sie sie verwenden?&quot;
 
 Datenstrukturen werden meist zum Serialisieren oder Parsen von Datenformaten wie JSON, XML, CSV und anderen verwendet. Mit Datenstrukturen können Sie die Struktur Ihrer Daten steuern und sogar Daten validieren. Der häufigste Grund für die Verwendung einer Datenstruktur besteht darin, gültige Daten zu erstellen, die an eine API gesendet werden, die JSON oder XML erwartet. In diesen Fällen sollten Sie die JSON- oder XML-App zusammen mit Ihrer Datenstruktur verwenden, um sicherzustellen, dass die Daten im richtigen Format vorliegen.
 
 Datenspeicher sollten nur zum Speichern persistenter Daten verwendet werden, auf die für mehrere Szenarien zugegriffen werden muss. Sie können beispielsweise Metadaten zum letzten Datensatz speichern, der für erweiterte Anwendungsfälle verarbeitet wurde, die eine genaue Kontrolle über die Verarbeitung erfordern.
 
-Datenspeicher sind nicht für die Verwendung als Data Warehouse oder Protokollierung vorgesehen. Datenspeicher sind außerhalb von Workfront Fusion nicht zugänglich und die meisten Interaktionen mit Datenspeichern erfolgen über ein Workfront Fusion-Szenario. Folglich ist es nicht möglich, einen Datenspeicher mit einem Analyse- oder Reporting-Tool zu verbinden, das für Data Warehouse- und Protokollierungsanwendungsfälle erwartet wird. Die Rolle von Workfront Fusion bei Anwendungsfällen wie diesen bestünde darin, ein für die Organisation und Speicherung von Daten geeignetes System (z. B. SQL, MariaDB) aufzufüllen.
+Datenspeicher sind nicht für die Verwendung als Data Warehouse oder Protokollierung vorgesehen. Datenspeicher sind außerhalb von Workfront Fusion nicht zugänglich und die meisten Interaktionen mit Datenspeichern erfolgen über ein Workfront Fusion-Szenario. Folglich ist es nicht möglich, einen Datenspeicher mit einem Analyse- oder Reporting-Tool zu verbinden, das für Data Warehouse- und Protokollierungsanwendungsfälle erwartet wird. Die Rolle von Workfront Fusion in Anwendungsfällen wie diesen bestünde darin, ein für die Organisation und Speicherung von Daten geeignetes System (z. B. SQL, MariaDB) aufzufüllen.
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 

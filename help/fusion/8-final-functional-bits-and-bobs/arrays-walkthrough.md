@@ -10,16 +10,14 @@ level: Beginner
 kt: 9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
 # Anleitung zu Arrays
-
-## Übersicht
 
 Überprüfen Sie frühere exemplarische Vorgehensweisen, bei denen einfache und komplexe Arrays verwendet wurden. Wir werden überprüfen, wie wir diese gefunden haben und wie wir die Informationen bei Bedarf mithilfe von Array-Funktionen nutzen können.
 
