@@ -9,16 +9,16 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 1%
 
 ---
 
 # Zielstatus kommunizieren
 
-Nachdem Sie jetzt Ihre Ziele aktualisiert haben, nehmen Sie sich einen Moment Zeit, um sich einen Überblick über die Ziele zu verschaffen, an denen Sie arbeiten, und wie sie sich auf Team-, Gruppen- und Unternehmensziele beziehen. Mit anderen über den Fortschritt und den Status Ihrer Ziele zu kommunizieren ist ein wichtiger Teil der Zielsetzung, stets auf dem richtigen Weg zu sein.
+Jetzt, da Sie Ihre Ziele aktualisiert haben, nehmen Sie sich einen Moment Zeit, um sich einen Überblick über die Ziele zu verschaffen, an denen Sie arbeiten, und wie sie sich auf Team-, Gruppen- und Unternehmensziele beziehen. Mit anderen über den Fortschritt und den Status Ihrer Ziele zu kommunizieren ist ein wichtiger Teil der Zielsetzung, stets auf dem richtigen Weg zu sein.
 
 Es gibt verschiedene Möglichkeiten, die richtigen Personen über Ihre Ziele auf dem Laufenden zu halten. Sie können wie folgt beginnen:
 
@@ -33,7 +33,7 @@ Sie können ein von Ihnen erstelltes Ziel oder ein von einer anderen Person erst
 
 1. Klicken Sie auf das 3-Punkt-Symbol neben dem Zielnamen und dann auf [!UICONTROL **Freigeben**]. Die [!UICONTROL Zielzugriff] angezeigt.
 
-   ![Assets](assets/17-workfront-goals-share-a-goal.png)
+   ![Screenshot zum Freigeben eines Ziels](assets/17-workfront-goals-share-a-goal.png)
 
 1. Führen Sie einen der folgenden Schritte aus:
 
