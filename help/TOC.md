@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
 workflow-type: tm+mt
-source-wordcount: '2353'
+source-wordcount: '2360'
 ht-degree: 2%
 
 ---
@@ -141,6 +141,7 @@ ht-degree: 2%
       + [Grundlegendes zu den Einstellungen für eine Flussanforderung](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Anforderungswarteschlange erstellen](manage-work/request-queues/create-a-request-queue.md)
       + [Anforderungsfluss erstellen](manage-work/request-queues/create-a-request-flow.md)
+      + [Antworten auf häufig gestellte Fragen zu Anforderungswarteschlangen](manage-work/request-queues/request-queue-faq.md)
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
       + [Erstellen eines Validierungsprozesses für die einmalige Verwendung](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Vorhandene Genehmigungsprozesse anhängen und bearbeiten](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
