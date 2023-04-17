@@ -1,6 +1,6 @@
 ---
 title: In-App- und E-Mail-Ereignisbenachrichtigungen verwalten
-description: Erfahren Sie, wie Benutzer steuern können, welche In-App- und E-Mail-Benachrichtigungen sie erhalten, damit sie relevante und hilfreiche E-Mails zu ihrer Arbeit erhalten.
+description: Erfahren Sie, wie Benutzende steuern können, welche In-App- und E-Mail-Benachrichtigungen sie erhalten, damit sie nur relevante, hilfreiche E-Mails zu ihrer Arbeit erhalten.
 short-description: Erfahren Sie, wie Benutzer steuern können, welche In-App- und E-Mail-Benachrichtigungen sie erhalten.
 feature: System Setup and Administration
 activity: deploy
@@ -14,7 +14,7 @@ exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
