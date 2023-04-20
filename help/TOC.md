@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
+source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
 workflow-type: tm+mt
-source-wordcount: '2360'
+source-wordcount: '2368'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 2%
       + [Layoutvorlagen suchen](administration-and-setup/layout-templates/find-layout-templates.md)
       + [Terminologie mit Layoutvorlagen anpassen](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [Anpassen der [!UICONTROL Hauptmenü] mit Layoutvorlagen](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Hinzufügen und Verwalten von Pins über eine Layoutvorlage](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [Startseite mit Layoutvorlagen anpassen](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Zugriff auf Layoutvorlagen zuweisen und verwalten](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Objektbereiche mit einer Layoutvorlage anpassen](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -64,6 +65,7 @@ ht-degree: 2%
       + [Meilensteine erstellen](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
    + Systemleistung und -wartung {#system-perfomance-and-maintenance}
       + [Übernahme einer bestehenden Adobe Workfront-Instanz](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
