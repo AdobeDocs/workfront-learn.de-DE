@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1219'
 ht-degree: 1%
 
 ---
@@ -24,6 +24,7 @@ Keine Sorge ... Sie müssen nicht jedes Feld und Kontrollkästchen in den Projek
 1. **Name**
 
    Ein beschreibender Projektname hilft jedem, den Zweck des Projekts zu identifizieren. Achten Sie darauf, die Namenskonvention für Projekte in Ihrem Unternehmen zu befolgen. Möglicherweise müssen im Projektnamen bestimmte Informationen enthalten sein (z. B. eine Referenznummer, einen Abteilungsnamen oder eine Kategorieanzeige).
+
 
 1. **Beschreibung**
 
@@ -37,15 +38,15 @@ Keine Sorge ... Sie müssen nicht jedes Feld und Kontrollkästchen in den Projek
 
    Der Status wird in Workfront verwendet, um anzugeben, wo oder zu welchem Zeitpunkt im Workflow ein Projekt steht. Der Status wird in vielen Workfront-Berichten verwendet, um den Fortschritt der Arbeit zu verfolgen.
 
-   Workfront empfiehlt, den Status auf Planung festzulegen, während Sie den Projektplan ausdehnen und abschließen. Entscheidend beim Planungsstatus ist, dass Workfront-Benachrichtigungen nicht an Aufgabenverantwortliche gesendet werden, während sie sich in diesem Status befinden.
+   Workfront empfiehlt, den Status auf Planung festzulegen, während Sie den Projektplan ausdehnen und abschließen. Das Wichtigste beim Planungsstatus ist, dass Workfront-Benachrichtigungen nicht an Aufgabenverantwortliche gesendet werden, während sie sich in diesem Status befinden.
 
-   Sobald das Projekt live geschaltet werden kann, ändern Sie den Status in Aktuell . Dies ist der Fall, wenn Workfront Benachrichtigungen über Aufgaben sendet, denen sie zugewiesen wurden.
+   Sobald das Projekt live geschaltet werden kann, ändern Sie den Status in Aktuell . Dadurch kann Workfront Benachrichtigungen über neue Aufgaben senden, denen sie zugewiesen sind. Es werden jedoch keine Benachrichtigungen für die Aufgaben gesendet, die Benutzern zugewiesen wurden, während sich das Projekt im Planungsstatus befand.
 
    >[!TIP]
    >
    >  Wenn Sie Änderungen am Projekt vornehmen, z. B. das Ändern des Fälligkeitsdatums, können Sie den Status zurück in die Planung setzen oder die Funktion Automatisches Speichern deaktivieren, um zu verhindern, dass Benachrichtigungen gesendet werden, bis Änderungen abgeschlossen sind.
 
-   Der Planungsstatus kann von Ihrem Systemadministrator als globale Workfront-Standardeinstellung festgelegt werden.
+   Der Planungsstatus kann von Ihrem Systemadministrator als globale Workfront-Standardeinstellung für neue Projekte festgelegt werden.
 
 1. **Zeitplanmodus**
 
@@ -53,7 +54,7 @@ Keine Sorge ... Sie müssen nicht jedes Feld und Kontrollkästchen in den Projek
 
    Die Option Startdatum berechnet anhand des von Ihnen eingegebenen Startdatums für das Projekt sowie der Dauer und den Vorgängern der jeweiligen Aufgabe den Zeitpunkt, zu dem das Projekt abgeschlossen sein wird. Workfront empfiehlt die Verwendung dieser Option, da sie am häufigsten verwendet wird und die Planung von Projektdaten erleichtert.
 
-   Sie können jedoch ein Abschlussdatum verwenden. Workfront untersucht das Enddatum (das von Ihnen eingegeben wurde) und die zu leistende Arbeit (basierend auf Dauern und Vorgängern) und berechnet dann das Projektstartdatum rückwärts. Workfront empfiehlt, das Fertigstellungsdatum abzuwarten, nachdem ein bestimmtes Maß an Kompetenz in Workfront erreicht wurde.
+   Sie können jedoch ein Abschlussdatum verwenden. Workfront untersucht das Enddatum (von Ihnen eingegeben) und die zu leistende Arbeit (basierend auf Dauern und Vorgängern) und berechnet dann das Projektstartdatum rückwärts. Workfront empfiehlt, das Fertigstellungsdatum abzuwarten, nachdem ein bestimmtes Maß an Kompetenz in Workfront erreicht wurde.
 
    Vergessen Sie nicht, für welche Option Sie sich entscheiden, ein Datum aus dem Popup-Kalender auszuwählen.
 
@@ -63,7 +64,7 @@ Keine Sorge ... Sie müssen nicht jedes Feld und Kontrollkästchen in den Projek
 
    Eine Gruppe ist eine Organisationseinheit in Workfront, die häufig einer Abteilung zugeordnet wird. Dieses Feld kann in der Projektvorlage festgelegt werden. Ist dies nicht der Fall, wird das Feld automatisch auf die Startseite der Person gesetzt, die das Projekt erstellt. Sie können die Gruppe nach Bedarf ändern.
 
-   Im Allgemeinen stammen die meisten Menschen, die an dem Projekt arbeiten, aus dieser Gruppe. Dies schränkt jedoch nicht die Personen ein, denen andere Gruppen Arbeit im Projekt zugewiesen haben.
+   Im Allgemeinen stammen die meisten Menschen, die an dem Projekt arbeiten, aus dieser Gruppe. Dies schränkt jedoch nicht die Arbeit anderer Gruppen ein, denen im Projekt Arbeit zugewiesen wurde.
 
    Die Gruppe für das Projekt bestimmt außerdem, welche Projekt-, Aufgaben- und Problemeinstellungen das Projekt verwendet. Diese Voreinstellungen, z. B. ein benutzerdefinierter Status für eine bestimmte Gruppe, werden vom Systemadministrator oder einem Gruppenadministrator festgelegt.
 
@@ -73,13 +74,13 @@ Keine Sorge ... Sie müssen nicht jedes Feld und Kontrollkästchen in den Projek
 
    Der Projekteigentümer ist der Begriff von Workfront für den Projektmanager. Dies ist die für die Planung und/oder Verwaltung des Projekts verantwortliche Person.
 
-   Der Projekteigentümer hat vollständige Verwaltungsberechtigungen für das Projekt, sodass er über eine Planungslizenz verfügen muss.
+   Damit der Projekteigentümer über vollständige Verwaltungsberechtigungen für das Projekt verfügen kann, muss er über eine Planungslizenz verfügen.
 
    Normalerweise wird dieses Feld in der Vorlage leer gelassen und automatisch mit dem Namen der Person ausgefüllt, die das Projekt erstellt. Wenn ein Name in die Vorlage eingegeben wird, ist dies der Standardeigentümer des Projekts.
 
 1. **Projektsponsor**
 
-   Der Projektsponsor ist im Allgemeinen die Person, die das Projekt angefordert hat. Dies ist häufig ein interner Verantwortlicher, z. B. ein Manager oder eine Führungskraft, der bzw. die für das Projekt insgesamt verantwortlich ist.
+   Der Projektsponsor ist nicht erforderlich, aber bei Verwendung dieser ist in der Regel die Person, die das Projekt angefordert hat. Dies ist häufig ein interner Verantwortlicher, z. B. ein Manager oder eine Führungskraft, der bzw. die für das Projekt insgesamt verantwortlich ist.
 
    Der Sponsor erhält automatisch Anzeigeberechtigungen für das Projekt und muss ein von Workfront lizenzierter Benutzer sein.
 
@@ -93,7 +94,7 @@ Keine Sorge ... Sie müssen nicht jedes Feld und Kontrollkästchen in den Projek
 
 1. **Benutzerdefinierte Formulare**
 
-   Workfront stellt native Felder für Elemente wie Projektname und Startdatum bereit. Es gibt jedoch zusätzliche Informationen, die Sie als Projektmanager benötigen oder die das Projektteam benötigen wird. Ihre eindeutigen Daten sind gleichermaßen wichtig und können in diesen Formularen leicht gespeichert werden. Details wie Veröffentlichungsdaten, Druck-Asset-Größen, Versandkanäle und mehr.
+   Workfront stellt native Felder für Elemente wie Projektname und Startdatum bereit. Es gibt jedoch zusätzliche Informationen, die Sie als Projektmanager benötigen oder die das Projektteam benötigen wird. Ihre eindeutigen Daten sind gleichermaßen wichtig und können in diesen Formularen leicht gespeichert werden. Details wie Veröffentlichungsdaten, Größe von Druck-Assets, Versandkanäle usw.
 
    Benutzerdefinierte Formulare können diese Informationen erfassen und in Listen und Berichten in Workfront enthalten sein, wodurch die Informationen einfach angezeigt und bearbeitet werden können.
 
@@ -103,7 +104,7 @@ Keine Sorge ... Sie müssen nicht jedes Feld und Kontrollkästchen in den Projek
 
    Arbeiten finden rund um die Uhr statt, da viele Unternehmen Mitarbeiter auf der ganzen Welt haben.
 
-   Mit Workfront können Sie einen gemeinsamen Zeitplan auf Projekte anwenden. Diese werden von Ihrem Systemadministrator erstellt. Die Zeitpläne spiegeln die Arbeitstage und Stunden Ihrer Teams sowie die Tage wider, an denen Mitarbeiter nicht arbeiten werden (z. B. Feiertage).
+   Mit Workfront können Sie einen gemeinsamen Zeitplan auf Projekte anwenden. Diese werden von Ihrem Systemadministrator erstellt. Die Zeitpläne spiegeln die Arbeitstage und Stunden Ihrer Teams sowie die Tage wider, an denen Mitarbeiter nicht arbeiten (z. B. Feiertage).
 
    Stellen Sie als Planer sicher, dass Sie den richtigen Zeitplan auf das richtige Projekt anwenden. Die Zeitplaneinstellungen wirken sich auf Zeitleistenberechnungen aus und berücksichtigen dabei die Zeitzonen und Zeitzonen.
 
@@ -121,10 +122,8 @@ Keine Sorge ... Sie müssen nicht jedes Feld und Kontrollkästchen in den Projek
 
 1. **Zugriff auf das Projekt für Viewer und Mitarbeiter**
 
-   Wenn einem Benutzer Zugriff auf ein Projekt gewährt wird, können ihm zunächst drei Berechtigungsstufen zugewiesen werden, die er bei der Live-Schaltung eines Projekts erteilen kann: Anzeigen, Beiträge und Verwalten. Jede Berechtigungsebene ermöglicht es dem Benutzer, bestimmte Dinge mit dem Projekt anzuzeigen und zu tun.
+   Wenn jemand über die Freigabe Zugriff auf ein Projekt erhält, können ihm drei Berechtigungsstufen zugewiesen werden: Anzeigen, Beiträge und Verwalten. Jede Berechtigungsebene ermöglicht es dem Benutzer, bestimmte Dinge mit dem Projekt anzuzeigen und zu tun.
 
-   Beispielsweise gibt es Personen, die möglicherweise Zugriff auf das Projekt haben, aber die finanziellen Informationen nicht sehen sollten. So können Sie die Option &quot;Finanzen anzeigen&quot;für Viewer und Mitwirkende deaktivieren.
-
-   Sie können diese Berechtigungseinstellungen für einzelne Projekte jederzeit anpassen. Sobald ein Projekt jedoch von der Planung in den Status &quot;Aktuell&quot;verschoben wurde, müssen berechtigungsbasierte Anpassungen über die Projektfreigabe vorgenommen werden.
+   Zum Beispiel gibt es Leute, die vielleicht Zugriff auf das Projekt haben, aber die finanziellen Informationen nicht sehen sollten. So können Sie die Option Finanzen anzeigen für sie deaktivieren.
 
    Die Zugriffseinstellungen können in der Vorlage festgelegt werden.
