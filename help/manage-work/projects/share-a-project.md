@@ -10,27 +10,21 @@ role: User
 level: Intermediate
 kt: 10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 518ede1e0a57a3075d8db122d48666c45dae8a4b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Projekt freigeben
 
-Die Sichtbarkeit der Projektbeteiligten und Mitwirkenden ist ein wichtiger Bestandteil der Projektverwaltung.
+In diesem Video erfahren Sie:
 
-Stellen Sie sicher, dass jeder die benötigten Informationen sehen kann, indem Sie das Projekt freigeben. In Workfront erfolgt dies mit dem [!UICONTROL Freigeben] -Option. Sie können dies über das jeweilige Projekt oder über die [!UICONTROL Mehr] in der Kopfzeile.
+* Funktionsweise der automatischen Freigabe in Workfront
+* Freigeben eines Projekts für eine Person
+* Freigeben eines Projekts für ein Team
+* Freigeben eines Projekts durch Eingeben in ein Portfolio
+* Best Practices für die Freigabe eines Projekts
 
-![Fenster &quot;Projektzugriff&quot;](assets/planner-fund-share-project-smaller.png)
-
-Oder Sie können mehrere Projekte gleichzeitig über die Liste der Projekte auf der [!UICONTROL Projekte] Seite durch Auswahl der Projekte und Klicken auf [!UICONTROL Freigeben] Schaltfläche.
-
-Durch die Freigabe des Projekts können alle Beteiligten die Projektinformationen bei Bedarf anzeigen.
-
-<!---
-Learn More Icon
-Share permissions on objects
-Share a project
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
