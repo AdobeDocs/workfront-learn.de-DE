@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,10 @@ In den Diagrammen für die Verteilung und die Projekt-Treemap können Sie die In
 
 ![Ein Bild, das eine geplante Stunde anstelle der Dauer auswählt](assets/section-1-5.png)
 
+
+
 Die Standardeinstellung ist &quot;Geplante Stunden&quot;. Wenn Sie zu &quot;Dauer&quot;wechseln, bleibt dies bei der Navigation von [!DNL Analytics] und zurück und zwischen Workfront-Anmeldungen.
+
+## Was bedeuten Kastengröße und Farbton?
+
+Kleinere, hellere blaue Kästchen zeigen weniger Stunden an, während größere Kisten und dunklere blaue Schattierungen mehr Stunden im Vergleich anzeigen. Weitere Informationen finden Sie unter [Grundlegendes zur Projekt-Treemap-Visualisierung](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
