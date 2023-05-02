@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Im Diagramm sehen Sie die folgenden Schlüsseldetails:
 ## Navigieren zum Diagramm
 
 1. Klicken Sie auf [!UICONTROL Personen] im linken Bereich.
-1. Verwenden Sie die [!UICONTROL Filter] , um ein Heimteam zu untersuchen.
+1. Verwenden Sie die [!UICONTROL Filter] , um ein oder mehrere Heimteams zu untersuchen.
 1. Sie werden die [!UICONTROL Ressourcenkapazität] Diagramm unter dem Diagramm für die Teamaktivität angezeigt.
 
 ## Verwendung der Grafik
