@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,9 @@ Im Diagramm sehen Sie Folgendes:
 1. Die violetten Kästchen zeigen an, dass sich Benutzer, die dem Projekt zugewiesen sind, an diesem Tag angemeldet haben. Die dunklere Schattierung zeigt eine höhere Anzahl von Benutzern an, die sich angemeldet haben.
 1. Rosa Kästchen zeigen an, dass Benutzer den Status einer Aufgabe für das Projekt an diesem Tag geändert haben. Eine dunklere Schattierung zeigt eine höhere Anzahl von Aufgabenstatus an, die sich ändern.
 1. Blaue Kästchen zeigen an, dass Benutzer eine Aufgabe für das Projekt abgeschlossen haben, wobei ein dunklerer Schatten eine höhere Anzahl von Aufgaben angibt, die abgeschlossen werden.
+
+## Navigieren zum Diagramm
+
+1. Klicken Sie auf [!UICONTROL Personen] im linken Bereich.
+1. Verwenden Sie die [!UICONTROL Filter] , um ein Heimteam zu untersuchen.
+1. Die Aktivität wird nach Teamdiagramm oben in den Personendiagrammen angezeigt.

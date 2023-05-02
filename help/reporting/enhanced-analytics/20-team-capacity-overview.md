@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ Im Diagramm sehen Sie Folgendes:
 1. Die Datumsangaben am unteren Ende stammen aus dem ausgewählten Datumsbereich.
 1. Die dunklere blaue Füllfarbe zeigt an, dass das Heimteam entweder einen Burnout (4) durchläuft oder nicht herausfordert.
 1. Das hellere oder transparentere Blau zeigt an, dass die Arbeitslast des Heimteams ausgeglichen ist
+
+## Navigieren zum Diagramm
+
+1. Klicken Sie auf [!UICONTROL Personen] im linken Bereich.
+1. Verwenden Sie die [!UICONTROL Filter] , um ein Heimteam zu untersuchen.
+1. Das Diagramm zur Teamkapazität wird unter dem [!UICONTROL Ressourcenkapazität] Diagramm.
 
 ## Verwendung der Grafik
 
