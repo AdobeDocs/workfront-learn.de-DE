@@ -1,6 +1,6 @@
 ---
 title: Projektkommunikation verstehen
-description: Erfahren Sie, wie Sie mit Updates zu Projekten, Aufgaben, Problemen oder Dokumenten über die Projektarbeit kommunizieren können. Überprüfen Sie anschließend die vorhandenen Aktualisierungen in [!DNL  Workfront].
+description: Erfahren Sie, wie Sie mit einer guten Projektplanung, Aktualisierungen, Aufgabenstatus, prozentualen Abschluss, Problemen und Berichten über die Projektarbeit kommunizieren können.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,30 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-05T00:00:00Z
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 2%
 
 ---
 
 # Projektkommunikation verstehen
 
-Wie gesagt, 90 Prozent der Projektleitung ist Kommunikation. Kommunikation mit dem Projektteam, Ihren Managern und Projektbeteiligten.
+In diesem Video erfahren Sie, wie Sie mit allen Projektbeteiligten kommunizieren können:
 
-Aber wenn Projektteams E-Mails, Instant Messaging, Meetings und Kurznotizen für Projektkommunikation verwenden, werden Informationen verstreut ... oder schlimmer, vergessen. Kommunikation über die Projektarbeit am Projekt selbst in [!DNL Workfront] Verwendung von Updates.
+* Gute Projektplanung
+* Aktualisierungen
+* Aufgabenstatus und prozentualer Abschluss
+* Probleme
+* Berichte
 
-Da Projektteams an Zuweisungen arbeiten, können sie Aktualisierungen vornehmen von [!DNL Workfront] [!UICONTROL Startseite] auf die ihnen zugewiesenen Aufgaben.
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
 
-![Aktualisierungsabschnitt in einem Projekt](assets/planner-fund-project-communication.png)
-
-Aktualisierungen von Aufgaben, Problemen und Dokumenten werden auf Projektebene aktualisiert [!UICONTROL Updates] -Tab, damit Informationen schnell und einfach angezeigt werden können.
-
-Dann können Sie auf Aktualisierungen antworten, indem Sie einfach auf die Schaltfläche klicken. Dadurch bleiben alle Gespräche an einem Ort, sodass Sie später darauf zurückkommen können.
-
-<!---
-learn more urls
-Communicate about work in Home
-Subscribe to items in Workfront
-Update work
---->
+>[!TIP]
+>
+>Um den im Video angezeigten Bericht zur Notizsuche zu erstellen, lesen Sie die Aktivität im [Aufgabenbericht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) Tutorial.
+>
+>Informationen zum Hinzufügen des Berichts &quot;Notizsuche&quot;zum Projektbereich finden Sie in der Aktivität im [Erstellen von Dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) Tutorial.
