@@ -1,43 +1,26 @@
 ---
-title: Erstellen von Aufgaben
-description: Weitere Methoden zum Erstellen von Aufgaben in einem Projekt finden Sie in [!DNL  Workfront].
+title: Aufgaben erstellen
+description: Erfahren Sie mehr über einige Methoden zum Erstellen von Aufgaben in einem Projekt in Adobe Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-15T00:00:00Z
 kt: 10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Erstellen von Aufgaben
+# Aufgaben erstellen
 
-Es gibt mehrere Möglichkeiten, Aufgaben für ein Projekt in zu erstellen [!DNL Workfront]. Die [!UICONTROL Aufgabe einfügen oben]/[!UICONTROL Aufgabe unten einfügen] -Optionen ermöglichen es Ihnen, Aufgaben genau dort hinzuzufügen, wo Sie sie benötigen. Aber es kann sein, dass eine andere Methode besser für Sie funktioniert.
+In diesem Video erfahren Sie:
 
-1. Erstellen einer neuen Aufgabe mit der [!DNL New Task] -Schaltfläche öffnet ein abgekürztes Formular für die schnelle Aufgabenerstellung. Von diesem [!UICONTROL Neue Aufgabe] Sie können alle wichtigen Informationen eingeben — [!UICONTROL Aufgabenname], [!UICONTROL Beschreibung], [!UICONTROL Zuweisungen], [!UICONTROL Dauer]und [!UICONTROL Geplantes Abschlussdatum]. Wenn Ihr Unternehmen zusätzliche Informationen benötigt, klicken Sie auf die [!UICONTROL Weitere Optionen] Schaltfläche zum Starten [!UICONTROL Aufgabe erstellen] für ein umfangreiches Formular zur Aufgabenerstellung.
+* Der lange Weg, eine Aufgabe in einem Workfront-Projekt zu erstellen
+* Einige praktische Tastaturbefehle zum Erstellen von Aufgaben
 
-![[!UICONTROL Neue Aufgabe] Fenster](assets/planner-fund-new-task-creation.png)
-
-Beide Optionen platzieren die Aufgabe am Ende des Plans auf der Ebene der übergeordneten Aufgabe oder der Hauptaufgaben. Anschließend können Sie die Aufgabe an die richtige Position im Plan verschieben.
-
-2.[!UICONTROL Weitere Aufgaben hinzufügen] erstellt eine neue Aufgabenzeile am unteren Rand des Projekts, sodass Sie die Informationen mit der Inline-Bearbeitung ausfüllen können. Diese Aufgabe erbt die Positionierung der Aufgabe direkt darüber.
-
-3.[!UICONTROL Kopieren nach] und [!UICONTROL Verschieben nach] von [!UICONTROL Mehr] können Sie Aufgaben kopieren oder in ein anderes Projekt verschieben. Dies ist praktisch, wenn Sie wissen, dass es Aufgaben gibt, die in einem anderen Projekt vorhanden sind, das Sie in Ihrem Projekt duplizieren möchten.
-
-<!---
-should we add duplicate?
---->
-
-<!---
-learn more urls:
-Create tasks in a project
-Delete tasks
-Copy and duplicate tasks
-Edit tasks 
-Create subtasks
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)

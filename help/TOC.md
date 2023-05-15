@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
+source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
 workflow-type: tm+mt
-source-wordcount: '2369'
+source-wordcount: '2366'
 ht-degree: 2%
 
 ---
@@ -113,9 +113,9 @@ ht-degree: 2%
       + [Gesamten Projektfortschritt verfolgen](manage-work/projects/track-overall-project-progress.md)
       + [Verfolgen des Arbeitsfortschritts mit Projektmetriken](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Die [!UICONTROL Gantt] Ansicht](manage-work/projects/understand-the-gantt-view.md)
-      + [Ändern des Projektstatus](manage-work/projects/change-the-project-status.md)
+      + [Projekt schließen](manage-work/projects/change-the-project-status.md)
    + Aufgaben {#tasks}
-      + [Erstellen von Aufgaben](manage-work/tasks/how-to-create-tasks.md)
+      + [Aufgaben erstellen](manage-work/tasks/how-to-create-tasks.md)
       + [Grundlegendes zu über- und untergeordneten Aufgaben](manage-work/tasks/understand-parent-child-tasks.md)
       + [Arbeiten mit Aufgaben](manage-work/tasks/work-with-tasks.md)
       + [Zuweisen von Aufgaben aus dem Projektplan](manage-work/tasks/assign-tasks-from-the-project-plan.md)

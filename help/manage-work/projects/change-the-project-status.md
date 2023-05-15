@@ -1,5 +1,5 @@
 ---
-title: Ändern des Projektstatus
+title: Projekt schließen
 description: Erfahren Sie, wie Sie den Status eines Projekts ändern, um anzugeben, dass die Arbeit abgeschlossen ist.
 activity: use
 team: Technical Marketing
@@ -10,43 +10,19 @@ role: User
 level: Intermediate
 kt: 10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 961627d42a7967dd3070f52e73986c47d8fdc8f9
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 # Ändern des Projektstatus
 
-Eines der letzten [!DNL Workfront] Schritte zum Schließen eines Projekts ändern den Status in &quot;Abgeschlossen&quot;. Status: Zwei Hauptaspekte sind in [!DNL Workfront]:
+In diesem Video erfahren Sie:
 
-* Teilt jedem mit, in welchem Entwicklungsstadium sich das Projekt befindet.
-* Zellen [!DNL Workfront] wann und wann keine Benachrichtigungen gesendet werden sollen.
+* Ändern des Projektstatus in [!UICONTROL Fertig]
+* Warum ändern Sie den Projektstatus in [!UICONTROL Fertig]
+* Vorgehensweise, wenn Sie den Projektstatus nicht in [!UICONTROL Fertig]
 
-Mit dem Status Fertig stellen teilen Sie allen mit, dass die Projektarbeit abgeschlossen ist. Zustellbar ist, Ergebnis erreicht, Ziel erreicht.
-
-Und Sie sagen es [!DNL Workfront] , um den Versand von Benachrichtigungen zum Projekt zu beenden.
-
-Ändern Sie den Status in:
-
-* Projekt-Header
-* Projektdetails
-* Oder aus einer Liste oder einem Bericht, die bzw. der die Spalte mit dem Projektstatus anzeigt
-
-![[!UICONTROL Status] Feld in Projekt-Kopfzeile eingeblendet](assets/planner-fund-project-status.png)
-
-## Warum den Status ändern?
-
-Es scheint offensichtlich, dass beim Schließen eines Projekts ein wichtiger Schritt darin besteht, den Status auf &quot;Fertig stellen&quot;zu ändern. Aber [!DNL Workfront] hat festgestellt, dass dieser Schritt manchmal übersehen wird. Warum?
-
-In einigen Fällen verfügen Organisationen nicht über ein etabliertes Verfahren zum Schließen von Projekten. Der Projektmanager und andere Beteiligte wissen, dass die Arbeit abgeschlossen ist, also gehen sie einfach zur nächsten Sache über.
-
-In anderen Fällen beträgt der Prozentsatz der Projektabschlüsse 100 Prozent, da alle Aufgaben abgeschlossen sind. Manchmal gehen Projektmanager davon aus, dass 100 Prozent abgeschlossen sind, bedeutet &quot;Complete&quot;-Status. Aber das ist nicht immer der Fall.
-
-Das Vergessen, den Projektstatus zu aktualisieren, kann sich auf die Berichterstellung Ihres Unternehmens auswirken. Dies kann sich wiederum auf die Ressourcenplanung, die Finanzprognosen und künftige Projektverpflichtungen auswirken.
-
-<!---
-learn more
-Project statuses
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
