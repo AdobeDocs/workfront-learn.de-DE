@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zur Notwendigkeit von Gruppenadministratoren
-description: Erfahren Sie, wie Systemadministratoren mithilfe von Gruppenadministratoren die Wartung unterstützen können. [!DNL Workfront] Einstellungen zu ändern und Gruppen mehr Kontrolle über ihre Arbeit zu geben.
+description: Erfahren Sie, wie Systemadmins Gruppenadmins einsetzen können, um die Einstellungen von  [!DNL Workfront]  beizubehalten und gleichzeitig Gruppen mehr Kontrolle über ihre Arbeit zu geben.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
