@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
+source-git-commit: d1598021f9106630929dfa488ae331250616ee7e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Workfront weiß, dass einige Unternehmen bei der Projekterstellung keine geplant
 
 Bei beiden Konzepten hat Workfront die [!UICONTROL Arbeitsaufwand] -Option.
 
-Anstatt für jede Aufgabe im Projekt bestimmte Stunden anzugeben, können Sie die [!UICONTROL Arbeitsaufwand] , um anzugeben, ob es sich bei einer Aufgabe um eine kleine, mittlere oder große Aufgabe handelt. Workfront schätzt die geplanten Stunden automatisch anhand der im Projekt festgelegten Einstellungen.
+Anstatt für jede Aufgabe im Projekt bestimmte Stunden anzugeben, können Sie [!UICONTROL Arbeitsaufwand] , um anzugeben, ob es sich bei einer Aufgabe um eine kleine, mittlere oder große Aufgabe handelt. Workfront schätzt die geplanten Stunden automatisch anhand der im Projekt festgelegten Einstellungen.
 
 Auf diese Weise sind die benötigten Schätzungen bereits ausgefüllt und die Benutzer haben einen Überblick über die Arbeit, die ihnen zur Verfügung steht, wenn Sie planen, eines der Ressourcen-Management-Tools von Workfront zu verwenden.
 
