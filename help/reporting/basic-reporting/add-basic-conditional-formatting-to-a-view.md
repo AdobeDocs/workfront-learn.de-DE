@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 0ee80dceb8208bd0360fd8c9ab68fb8a73677a9d
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,19 @@ In diesem Video erfahren Sie:
 * Erstellen und Ändern der bedingten Formatierung
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+
+## Zusammenfassung
+
+So erstellen Sie eine bedingte Formatierung:
+
+1. Wählen Sie die Spalte aus, in der die Formatierung angezeigt werden soll
+1. Entscheiden Sie, welche Bedingungen die Formatierung ändern soll.
+1. Entscheiden, welche Formatierungsänderungen am besten funktionieren
+
+   * Hintergrundfarbe
+   * Textfarbe
+   * Ersatztext
+   * Symbol anzeigen
 
 ## Aktivität: Bedingte Formatierung zu einer Ansicht hinzufügen
 
