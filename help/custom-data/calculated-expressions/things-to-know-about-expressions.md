@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
+source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Im Folgenden finden Sie eine Liste von Konzepten, die Sie beim Arbeiten mit benu
 
 Wenn es um Ausdrucksnamen geht, ist Groß-/Kleinschreibung wichtig. Beim anfänglichen Schreiben eines Ausdrucksnamens können Sie Groß- und Kleinschreibung oder eine Mischung aus beidem verwenden.
 
-![Fehlermeldung ohne Groß-/Kleinschreibung im Ausdrucksnamen](assets/ttk-casingmatters01.png)
+![Fehlermeldung ohne Groß-/Kleinschreibung im Ausdrucksnamen](assets/T2K01.png)
 
 Der Ausdruck muss jedoch in Großbuchstaben geschrieben werden, damit das System den Ausdruck erkennt und das Feld speichert.
 
@@ -40,23 +40,23 @@ Die empfohlene Methode zum Schreiben von Ausdrücken besteht darin, zwischen den
 
 * IF(ISBLANK({description}),&quot;No Description&quot;,&quot;Has Description&quot;)
 
-![Ausdrücke ohne Abstand zwischen Feldern](assets/spacing01.png)
+![Ausdrücke ohne Abstand zwischen Feldern](assets/T2K02.png)
 
 Wenn der Abstand Ihnen jedoch zeigt, was vor sich geht, können die Ausdrücke um einige Abstände erweitert werden. Die zusätzlichen Leerzeichen sollten nicht verhindern, dass der Ausdruck einen Wert in [!DNL Workfront].
 
 * IF (ISBLANK ({description}), &quot;No Description&quot;, &quot;Has Description&quot;)
 
-![Ausdrücke mit Abstand zwischen Feldern](assets/spacing02.png)
+![Ausdrücke mit Abstand zwischen Feldern](assets/T2K03.png)
 
 Die einzigen Elemente, zwischen denen keine Leerzeichen stehen können, sind die Felder und die geschweiften Klammern. Andernfalls erhalten Sie eine Fehlermeldung und können das Feld oder das benutzerdefinierte Formular nicht speichern.
 
-![Fehler mit Abstand zwischen Feldname und geschweifte Klammer](assets/spacing03.png)
+![Fehler mit Abstand zwischen Feldname und geschweifte Klammer](assets/T2K04.png)
 
 ## Anführungszeichen müssen gerade sein
 
 Achten Sie bei Verwendung von Anführungszeichen in einem Ausdruck darauf, dass die Anführungszeichen gerade (&quot;) sind. Wenn die Anführungszeichen gekrümmt sind (&quot;), wird die [!DNL Workfront] -System zeigt weiterhin die Meldung &quot;Benutzerdefinierter Ausdruck ungültig&quot;an.
 
-![Fehler mit gekrümmten Anführungszeichen](assets/curvedquotes01.png)
+![Fehler mit gekrümmten Anführungszeichen](assets/T2K05.png)
 
 ## Berechnungen werden beim Speichern und Bearbeiten von Formularen aktualisiert
 
@@ -83,7 +83,7 @@ So aktualisieren Sie ein Feld mit der Option Ausdrücke neu berechnen :
 * Klicken Sie auf das Menü Mehr .
 * Wählen Sie in der Liste die Option Ausdrücke neu berechnen aus.
 
-![Option zum Neuberechnen von Ausdrücken im Objekt](assets/recalculate01.png)
+![Option zum Neuberechnen von Ausdrücken im Objekt](assets/T2K06.png)
 
 Sie können mehrere Ausdrücke gleichzeitig neu berechnen, indem Sie die Funktion &quot;Massenbearbeitung&quot;in einer Liste oder einem Bericht verwenden. Angenommen, Sie haben einen Bericht erstellt, der eine Liste von Problemen mit der Berechnung der Öffnungen in einer Spalte anzeigt. Wenn Sie alle Probleme gleichzeitig neu berechnen möchten:
 
@@ -93,7 +93,7 @@ Sie können mehrere Ausdrücke gleichzeitig neu berechnen, indem Sie die Funktio
 * Aktivieren Sie unten im Abschnitt Benutzerdefinierte Forms die Option Benutzerdefinierte Ausdrücke neu berechnen .
 * Klicken Sie auf Änderungen speichern.
 
-![Ausdrucksoption für mehrere Objekte neu berechnen](assets/recalculate02.png)
+![Ausdrucksoption für mehrere Objekte neu berechnen](assets/T2K07.png)
 
 Der Bildschirm wird aktualisiert und zeigt aktualisierte Informationen im berechneten Feld an.
 
