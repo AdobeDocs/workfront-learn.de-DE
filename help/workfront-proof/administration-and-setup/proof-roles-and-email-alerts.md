@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 kt: 10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Es kann jedoch vorkommen, dass Sie diese Informationen beim Hochladen eines Test
 [!DNL Workfront] bietet folgende allgemeine Empfehlungen für die Zuweisung von Testversandrollen an Testversand-Empfänger:
 
 * **Reviewer und Genehmiger —** Diese Benutzer können sowohl zu Testsendungen Stellung nehmen als auch eine Entscheidung (z. B. genehmigt oder abgelehnt) für einen Testversand treffen. Verwenden Sie diese Testfunktion für die wichtigsten internen und externen Akteure im Überprüfungsprozess.
-* **Überprüfer —** Einige Personen in Ihrem Testversand-Workflow müssen nur Kommentare abgeben. Diese Rolle ist ideal für sie. Die Überprüferrolle kann auch [!DNL Workfront] -Benutzer, die in erster Linie Testsendungen hochladen oder als Testversand-Eigentümer fungieren, aber anderweitig nicht Teil des Testversands sind.
+* **Überprüfer —** Einige Personen in Ihrem Testversand-Workflow müssen nur Kommentare abgeben. Diese Rolle ist ideal für sie. Die Überprüferrolle kann auch [!DNL Workfront] -Benutzer, die in erster Linie Testsendungen hochladen oder als Testversand-Besitzer dienen, aber anderweitig nicht Teil des Testversands sind.
 * **Schreibgeschützt —** Ideal für Empfänger, die nur den Testversand sehen müssen. [!UICONTROL Schreibgeschützt] gibt Ansichtszugriff und lässt keine Kommentare zu.
 
 [!DNL Workfront] bietet diese allgemeinen Empfehlungen bei der Zuweisung von E-Mail-Warnungen an Testversand-Empfänger:
@@ -47,8 +47,8 @@ Es kann jedoch vorkommen, dass Sie diese Informationen beim Hochladen eines Test
 ## Ihre Wendung
 
 1. Melden Sie sich bei Workfront an und erstellen Sie Benutzer, die die zuvor noch nicht erstellte Testversand-Aktivität verwenden. Legen Sie das Profil für Testversandberechtigungen in den Benutzereinstellungen entsprechend der Rolle fest, die die Person in Testversand-Workflows spielen wird.
-1. Bearbeiten Sie bei bereits erstellten Benutzern die Einstellungen, um bei Bedarf die Profilauswahl für die Berechtigungen und den Testversand anzupassen.
-1. Öffnen Sie den Bereich Testversandeinstellungen und rufen Sie die Registerkarte Benutzer auf. Überprüfen Sie die persönlichen Einstellungen Ihrer Benutzer - Sprache, Zeitzone, Datumsformat, Standardrolle für Testversand und Standard-E-Mail-Warnung. Dies ist wichtig, wenn diese Benutzer erstellt wurden, bevor die globalen Systemstandards festgelegt wurden (diese Einstellungen werden in Abschnitt 1 dieses Lernpfads erläutert).
+1. Bearbeiten Sie für bereits erstellte Benutzer bei Bedarf ihre Einstellungen, um die Profilauswahl für Testberechtigungen anzupassen.
+1. Öffnen Sie den Bereich Testversandeinstellungen und rufen Sie die Registerkarte Benutzer auf. Überprüfen Sie die persönlichen Einstellungen Ihrer Benutzer - Sprache, Zeitzone, Datumsformat, Standardrolle für Testversand und Standard-E-Mail-Warnung. Dies ist wichtig, wenn diese Benutzer erstellt wurden, bevor die globalen Systemstandardwerte festgelegt wurden.
 
 <!--
 Download the proof role and email alert guides to have on hand as you start uploading proofs and assigning proof recipients.

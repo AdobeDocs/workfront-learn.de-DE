@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Workfront empfiehlt, den Bedingungstyp auf Fortschrittsstatus festzulegen, damit
 
 ![Ein Bild möglicher Fortschrittsstatus](assets/section-2-3.png)
 
-In diesem Fall kann die Projektbedingung wie folgt lauten:
+Wenn der Status Fortschritt festgelegt ist, kann die Projektbedingung wie folgt lauten:
 
 * **In Target**—Wenn der Fortschrittsstatus der letzten Aufgabe auf dem kritischen Pfad &quot;Einschaltzeit&quot;lautet, lautet die Bedingung des Projekts &quot;On Target&quot;. Das Projekt ist auf dem richtigen Weg, um es planmäßig fertigzustellen.
 * **Risiko**—Wenn der Fortschrittsstatus der letzten Aufgabe auf dem kritischen Pfad &quot;Hinter&quot;oder &quot;Risiko&quot;lautet, ist die Bedingung des Projekts &quot;In Gefahr&quot;. Das Projekt ist auf dem Weg zu Ende zu sein, aber noch nicht zu spät.
@@ -71,4 +71,4 @@ In diesem Fall kann die Projektbedingung wie folgt lauten:
 
 >[!NOTE]
 >
->Bedingungen können für Ihre Umgebung angepasst werden, sodass Sie mehr als drei Optionen finden können oder die Namen sich von denen oben unterscheiden können. Informationen zum Anpassen von Bedingungen finden Sie im Artikel Erstellen oder Bearbeiten einer benutzerdefinierten Bedingung .
+>Bedingungen können für Ihre Umgebung angepasst werden, sodass Sie mehr als drei Optionen finden können oder die Namen sich von denen oben unterscheiden können. Informationen zum Anpassen von Bedingungen finden Sie im Artikel [Erstellen oder Bearbeiten einer benutzerdefinierten Bedingung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).

@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Optionen für [!UICONTROL PIM] sind stundenbasiert und kostenbasiert.
 * **Auf Projektebene berechnen** — [!UICONTROL EAC] für die übergeordnete Aufgabe und das Projekt anhand der tatsächlichen Stunden/tatsächlichen Arbeitskosten in [!UICONTROL EAC] Formeln bezeichnet. Die Berechnung umfasst die tatsächlichen Stunden/Kosten und Ausgaben, die direkt zur übergeordneten Aufgabe oder zum übergeordneten Projekt hinzugefügt werden.
 * R **Aus Aufgaben/Unteraufgaben holen** — [!UICONTROL EAC] für die übergeordnete Aufgabe und das übergeordnete Projekt durch Addieren der [!UICONTROL EAC] für jede untergeordnete Aufgabe. Diese Berechnung schließt tatsächliche Stunden/Kosten aus, die direkt zu einer übergeordneten Aufgabe oder einem übergeordneten Projekt hinzugefügt werden.
 
-Die [!UICONTROL EAC] Berechnungen sind im Abschnitt &quot;Schätzung nach Abschluss berechnen (EAC)&quot;aufgeführt. <!-- link to article -->Artikel zu [!UICONTROL [!DNL Workfront] One].
+Die [!UICONTROL EAC] Berechnungen werden in [Schätzung nach Abschluss berechnen (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
 
 **Leistungsmetriken: Einstellungen**
 

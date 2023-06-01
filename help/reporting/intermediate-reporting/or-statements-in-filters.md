@@ -10,16 +10,16 @@ role: User
 level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
 
 # Erstellen von OR-Anweisungen in Filtern
 
-Wenn Sie einen Filter mit mehreren Kriterienzeilen erstellen, setzt standardmäßig ein UND zwischen jeder Zeile. Dies bedeutet, dass jedes Ergebnis in der Liste, wenn Sie diesen Filter verwenden, alle Filterregeln erfüllt.
+Wenn Sie einen Filter mit mehreren Kriterienzeilen erstellen, setzt Workfront standardmäßig ein UND zwischen jede Zeile. Dies bedeutet, dass jedes Ergebnis in der Liste, wenn Sie diesen Filter verwenden, alle Filterregeln erfüllt.
 
 In diesem Beispiel haben wir drei Kriterien bzw. Regeln für einen Projektfilter:
 
@@ -33,13 +33,13 @@ Die Projekte in der Ergebnisliste erfüllen alle drei Kriterien und helfen Ihnen
 
 ![Ein Bild einer gefilterten Liste in [!DNL Workfront]](assets/or-statement-2.png)
 
-Es kann jedoch vorkommen, dass die Filterergebnisse verschiedene Kriterien erfüllen sollen, und in diesem Fall können OR-Anweisungen hilfreich sein. Mit einer OR-Anweisung teilen Sie dem Filter mit, dass Sie dieses ODER sehen möchten.
+Es kann jedoch vorkommen, dass die Filterergebnisse verschiedene Kriterien erfüllen sollen, und in diesem Fall können OR-Anweisungen hilfreich sein. Mit einer OR-Anweisung teilen Sie dem Filter mit, dass Sie Dinge sehen möchten, die mit einer Ihrer OR-Anweisungen im Gegensatz zu ALLEN UND-Anweisungen übereinstimmen.
 
 ## Verwenden von OR-Anweisungen
 
 ODER-Anweisungen erweitern oder erhöhen die Menge der Informationen, die der Filter findet, da ein Element, um in der Ergebnisliste angezeigt zu werden, nur eine der Filterregeln erfüllen muss, nicht alle.
 
-Sehen wir uns eine einfache ODER-Anweisung an - Projekte, die Sie als Projektleiter (Eigentümer) für von Ihnen erstellte ODER-Projekte sind.
+Sehen wir uns eine einfache OR-Anweisung an - Projekte, die Sie als Projektleiter (Eigentümer) für von Ihnen erstellte ODER-Projekte sind.
 
 ![Ein Bild zum Erstellen eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-3.png)
 
@@ -55,7 +55,7 @@ Sehen wir uns nun eine OR-Anweisung an, die mehrere Filterregeln auf jeder Seite
 
 ![Ein Bild zum Erstellen eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-5.png)
 
-Beachten Sie, dass Workfront die Filterregeln auf jeder Seite des ODER &quot;gruppiert&quot;hat (um sie herum gibt es einen grauen Rahmen). Dadurch wird Workfront angewiesen, die Regeln auf jeder Seite des ODER gemeinsam auszuführen und Projekte zu finden, die beide Kriterien erfüllen, da sie mit UND verbunden sind.
+Beachten Sie, dass Workfront die Filterregeln auf jeder Seite des ODER &quot;gruppiert&quot;hat (um sie herum gibt es einen grauen Rahmen). Dies weist Workfront an, die Regeln auf jeder Seite des ODER gemeinsam auszuführen und Projekte zu finden, die beide Kriterien erfüllen, da sie mit UND verbunden sind.
 
 In diesem Beispiel sucht Workfront nach:
 

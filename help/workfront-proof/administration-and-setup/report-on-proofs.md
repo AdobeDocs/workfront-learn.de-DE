@@ -10,9 +10,9 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 kt: 10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 [!DNL Workfront]Dank der digitalen Testversandfunktionen können Sie Projekte und damit verbundene Prüfungs-Workflows zentral verwalten — [!DNL Workfront]. Verschaffen Sie sich wertvolle Einblicke in die Testarbeiten, die mit Berichtstypen, Feldquellen und Feldnamen durchgeführt werden, die Überprüfungs- und Genehmigungsinformationen anzeigen.
 
-Es wird empfohlen, mit Ihrem [!DNL Workfront] Berater , um Berichte zu erstellen, die den Anforderungen Ihres Unternehmens entsprechen. Einige Berichte müssen mit [!DNL Workfront]die Textmodusberichte.
+Es wird empfohlen, mit Ihrem [!DNL Workfront] Berater erstellen, um Berichte zu erstellen, die den Anforderungen Ihres Unternehmens entsprechen. Einige Berichte müssen mit [!DNL Workfront]Die Textmodusberichterstellung.
 
 Beginnen Sie mit diesen einfachen, standardmäßigen Berichten, die Ihren Teams bei der Verwaltung von Testsendungen helfen, die während eines Prüfungs- und Genehmigungsprozesses in [!DNL Workfront].
 
@@ -31,7 +31,7 @@ Mit diesem Berichtstyp können Sie ausstehende Testversandgenehmigungen verfolge
 
 ![Auswählen [!UICONTROL Validierung des Testversands] von [!UICONTROL Neuer Bericht] Dropdown-Menü](assets/proof-system-setups-proof-approval-report.png)
 
-Zu den Filteroptionen gehören [!UICONTROL Entscheidungsdatum], [!UICONTROL Validierung des Testversands], [!UICONTROL Validierungsphase], [!UICONTROL Workflow-Vorlage]und [!UICONTROL Anforderungsinformationen]. Bei der Berichterstellung für den Textmodus können Sie eine Gruppierung erstellen, die die Liste nach Dokumentnamen organisiert.
+Zu den Filteroptionen gehören [!UICONTROL Entscheidungsdatum], [!UICONTROL Validierung des Testversands], [!UICONTROL Validierungsphase], [!UICONTROL Workflow-Vorlage]und [!UICONTROL Anforderungsinformationen]. Bei der Berichterstellung für den Textmodus können Sie eine Gruppierung erstellen, die die Liste nach Dokumentnamen organisiert. Siehe [Grundlegendes zum Textmodus für Gruppierungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en).
 
 Stellen Sie beim Schreiben von Berichten zur Testversandvalidierung sicher, dass Sie Informationen zur aktuellsten Testversion erhalten. [!DNL Workfront] empfiehlt, diese Feldquelle und den Feldnamen in den Filter einzuschließen:
 

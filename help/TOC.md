@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '2366'
+source-wordcount: '2367'
 ht-degree: 2%
 
 ---
@@ -478,10 +478,10 @@ ht-degree: 2%
       + [Testadressen und E-Mail-Warnungen](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Bericht zu Testsendungen](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Festlegen der Standardeinstellungen für den Gefahrenschutz](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+      + [Globale Testversandeinstellungen einrichten](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
       + [Festlegen von standardmäßigen Testrollen](workfront-proof/administration-and-setup/set-default-proof-roles.md)
       + [Standardeinstellungen für Testversandkonto einrichten](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [Einstellungen für Testversand-Benutzer](workfront-proof/administration-and-setup/settings-for-proof-users.md)
-      + [Globale Testeinstellungen einrichten](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
    + Testsendungen hochladen {#upload-proofs}
       + [Was ist eine Testversion?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [Wer lädt die Testversandversionen hoch?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
