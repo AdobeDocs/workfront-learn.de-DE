@@ -10,14 +10,22 @@ level: Beginner
 kt: 8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a657607a53ddbfb6d5b795642f81120c5ecccbaf
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Einführung und Technologiestrategie
+# Was ist Adobe Workfront Fusion?
+
+Workfront Fusion ist eine leistungsstarke Integrationsplattform, die den Arbeitsfluss über Systeme und Teams hinweg ermöglicht. Ihre Aufgabe besteht darin, Ihre Prozesse zu automatisieren, sodass Sie sich auf neue Aufgaben konzentrieren können, anstatt dieselben Aufgaben immer wieder zu wiederholen. Es funktioniert durch die Verknüpfung von Aktionen innerhalb und zwischen Apps und Diensten, um ein Szenario zu erstellen, in dem Ihre Daten automatisch übertragen und transformiert werden.
+
+## Wie man Fusion bekommt
+
+Fusion ist ein Zusatzprodukt, das in einigen Workfront-Paketen enthalten ist und nicht in anderen. Wenn Ihr Workfront-Package keine Fusion-Kontaktverkäufe enthält.
+
+## Einführung und Technologiestrategie
 
 In diesem Video sehen Sie Folgendes:
 
