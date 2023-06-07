@@ -1,5 +1,5 @@
 ---
-title: Aufgabenliste organisieren in [!DNL Workfront] [!UICONTROL Startseite]
+title: Organisieren Sie Ihre Aufgabenliste in [!DNL Workfront] [!UICONTROL Startseite]
 description: Erfahren Sie, wie Sie zugewiesene Arbeit filtern und sortieren, für den Start bereitstehende Arbeit identifizieren und Arbeitszuweisungen in [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
@@ -11,14 +11,14 @@ thumbnail: 335099.png
 kt: 8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 3dc5d407ea6ad97b597b2bfba961f0b169643762
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Aufgabenliste organisieren in [!DNL Workfront] [!UICONTROL Startseite]
+# Organisieren Sie Ihre Aufgabenliste in [!DNL Workfront] [!UICONTROL Startseite]
 
 >[!NOTE]
 >
