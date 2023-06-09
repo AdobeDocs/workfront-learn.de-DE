@@ -10,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 0%
+source-wordcount: '283'
+ht-degree: 2%
 
 ---
 
@@ -31,27 +31,17 @@ Um den Namen der Aufgabe oder des Projekts anzuzeigen, in die das Problem konver
 
 ## Informationen zu ursprünglichen Problemen in Berichten anzeigen
 
-Manchmal wird ein Problem in eine Aufgabe oder ein Projekt umgewandelt, sodass die zur Behebung des Problems erforderlichen Arbeiten entsprechend den Workflows Ihres Unternehmens verfolgt und überwacht werden können.
+Wenn ein Problem in ein Projekt oder eine Aufgabe konvertiert wird, können viele der ursprünglichen Problemdetails in Projekt- oder Aufgabenberichten aufgeführt werden. Das ursprüngliche Problem wird als[!UICONTROL Konvertierte Ausgabe]&quot;.
 
-Ein Projekt- oder Aufgabenbericht kann nützliche Informationen zum ursprünglichen Problem anzeigen. Diese Spalten können einer benutzerdefinierten Ansicht mit Textmodus-Berichten hinzugefügt werden:
+Ein Projekt- oder Aufgabenbericht kann diese Informationen mithilfe der Variablen [!UICONTROL Urheber einer konvertierten Ausgabe] -Objekt zusammen mit zwei dedizierten Feldern ein. Diese Spalten können einer benutzerdefinierten Ansicht hinzugefügt werden, ohne dass ein Textmodus erforderlich ist:
 
-* [!UICONTROL Ursprüngliches Ausgabedatum]
-* [!UICONTROL Ursprünglicher Name des Problems]
-* [!UICONTROL Ursprünglicher Name des Herausgebers der Ausgabe]
+* [!UICONTROL Problem-Eingabedatum konvertiert]
+* [!UICONTROL Name des konvertierten Problems]
+* [!UICONTROL Konvertierter Ausgabenautor > Name]
 
 ![Ein Bild mit Informationen zu Problemberichten.](assets/19-text-mode-reporting-for-issues.png)
 
-<!-- Need wf one documentation article link below
+>[!NOTE]
+>
+>Anweisungen zum Erstellen einer Ansicht finden Sie unter [Basisansicht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
 
-For the text mode used to create this report, see the article titled View: Display original issue information on task and project list.
-
--->
-
-
-<!--  Learn more graphic and documentation article links
-
-* Create and customize views
-* Overview of resolving and resolvable objects
-* Understanding resolving and resolvable objects
-
--->

@@ -10,9 +10,9 @@ level: Beginner
 kt: 9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,11 @@ Erfahren Sie, wie Sie zwischen verschiedenen Organisationen oder Teams wechseln 
 
 ## Anleitung zur Administration
 
-Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
+In diesem Video erfahren Sie:
+
+* Navigieren zwischen Organisationen und Teams
+* So erstellen Sie Teams
+* Einladen von Benutzern zu einer Organisation und einem Team
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
