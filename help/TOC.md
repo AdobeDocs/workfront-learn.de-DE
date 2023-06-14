@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '2370'
+source-wordcount: '2374'
 ht-degree: 2%
 
 ---
@@ -73,6 +73,13 @@ ht-degree: 2%
 
    + Systemleistung und -wartung {#system-perfomance-and-maintenance}
       + [Übernahme einer bestehenden Adobe Workfront-Instanz](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
+   + Projektfinanzierung {#project-finances}
+      + [Leistungsmetriken verstehen](manage-work/project-finances/understand-performance-metrics.md)
+      + [Einrichten der standardmäßigen Einnahmen- und Kosteneinstellungen für Aufgaben](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [Wechselkurse einrichten](manage-work/project-finances/set-up-exchange-rates.md)
+      + [Einrichten von Ausgabentypen](manage-work/project-finances/set-up-expense-types.md)
+      + [Finanziellen Zugang verstehen](manage-work/project-finances/understand-financial-access.md)
 
 
 + Benutzerdefinierte Daten {#custom-data}
@@ -176,16 +183,10 @@ ht-degree: 2%
       + [Protokoll- und Überprüfungszeiten](manage-work/close-a-project/log-and-review-hours.md)
       + [Schließen einer Projektaktivität](manage-work/close-a-project/close-a-project-activity.md)
 
-   + Projektfinanzierung {#project-finances}
-      + [Leistungsmetriken verstehen](manage-work/project-finances/understand-performance-metrics.md)
-      + [Einrichten der standardmäßigen Einnahmen- und Kosteneinstellungen für Aufgaben](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-      + [Wechselkurse einrichten](manage-work/project-finances/set-up-exchange-rates.md)
-      + [Einrichten von Ausgabentypen](manage-work/project-finances/set-up-expense-types.md)
-      + [Finanziellen Zugang verstehen](manage-work/project-finances/understand-financial-access.md)
+   + Projektfinanzierung für Benutzer {#project-finances-users}
       + [Aktualisierung und Überprüfung der Finanzen](manage-work/project-finances/update-and-review-finances.md)
       + [Finden Sie Finanzinformationen](manage-work/project-finances/find-financial-information.md)
       + [Verstehen mehrerer Abrechnungsraten](manage-work/project-finances/multiple-billing-rates.md)
-
 
 
 + Bericht- erstellung {#reporting}

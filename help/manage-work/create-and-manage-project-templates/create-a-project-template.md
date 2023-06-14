@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,6 @@ In diesem Video erfahren Sie, wie Sie:
 
 * Erstellen einer Vorlage von Grund auf
 * Erstellen einer Vorlage aus einem vorhandenen Projekt
-* Erstellen einer Vorlage mit Blueprints
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
