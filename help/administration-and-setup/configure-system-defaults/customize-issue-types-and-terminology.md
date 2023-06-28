@@ -7,9 +7,9 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10021
+jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: 5d385de5cdcee0d433304c09507ba6bb5b0a10e6
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 * [!UICONTROL Bug-Bericht]
 * [!UICONTROL Änderungsanforderung]
-* [!UICONTROL Anfrage]
+* [!UICONTROL Probleme]
 * [!UICONTROL Anfrage]
 
 Was passiert, wenn die vorhandenen Problemtypen nicht den Anforderungen Ihrer Organisation an die Problemverwaltung entsprechen? Oder verwenden Ihre Organisation vielleicht andere Terminologie?

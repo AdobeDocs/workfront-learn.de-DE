@@ -8,10 +8,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335133.png
-kt: 8833
+jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '575'
 ht-degree: 0%
@@ -34,7 +34,7 @@ In diesem Video erfahren Sie:
 
 Die Einstellungen am unteren Rand des Fensters zum Hochladen von Testsendungen sind optional. Fragen Sie daher Ihre Organisation nach, ob und wie Sie diese verwenden.
 
-![Ein Bild der [!UICONTROL Neuer Testversand ]mit dem [!UICONTROL Staging-Einstellungen] hervorgehoben.](assets/additional-proof-workflow-settings.png)
+![Ein Bild der [!UICONTROL Neuer Testversand]mit dem [!UICONTROL Staging-Einstellungen] hervorgehoben.](assets/additional-proof-workflow-settings.png)
 
 * **[!UICONTROL Bühne sperren] —** Dadurch wird verhindert, dass Personen in dieser Workflow-Phase Kommentare abgeben oder Entscheidungen ändern, nachdem ihre Workflow-Phase abgeschlossen ist.
 * **[!UICONTROL Übertragen der Rechte der primären Entscheidung an] —** Beschleunigen Sie den Testversand, indem Sie einen primären Entscheidungsträger bestimmen. Wenn festgelegt, [!DNL Workfront] erkennt die Beweisentscheidung dieser Person als Entscheidung AN. Sobald diese Person ihre Entscheidung trifft, ist die Bühne vorbei und es sind keine weiteren Entscheidungen erforderlich.

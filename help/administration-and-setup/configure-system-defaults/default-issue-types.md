@@ -7,12 +7,12 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10031
+jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
-source-git-commit: 5d385de5cdcee0d433304c09507ba6bb5b0a10e6
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -40,7 +40,7 @@ Sechs weitere Status, die in der Problemverwaltung verwendet werden, sind mit [!
 * Kann nicht duplizieren
 * Gelöst
 * Abschluss bestätigt
-* Wird nicht aufgelöst
+* Kann nicht aufgelöst werden
 
 <!---
 need URL in paragraph below

@@ -8,10 +8,10 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335177.png
-kt: 8914
+jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -37,11 +37,11 @@ Meistens wird der ROUND-Datenausdruck in Verbindung mit einem anderen Datenausdr
 
 Erstellen wir ein berechnetes Feld, um den Unterschied zwischen der geplanten und der tatsächlich angemeldeten Anzahl von Stunden für eine Aufgabe zu ermitteln, für die der SUB-Ausdruck erforderlich ist und wie folgt aussieht:
 
-**SUB({workRequired},{ISTWorkRequired})**
+**SUB({workRequired},{actualWorkRequired})**
 
 Da die Zeit in Minuten verfolgt wird und das bevorzugte Format darin besteht, die Informationen in Stunden anzuzeigen, muss der Ausdruck auch durch 60 geteilt werden und wie folgt aussehen:
 
-**DIV(SUB({workRequired},{ISTWorkRequired}),60)**
+**DIV(SUB({workRequired},{actualWorkRequired}),60)**
 
 Wenn das Format beim Erstellen des berechneten Felds im benutzerdefinierten Formular in Zahl geändert wird, können Sie das Zahlenformat ändern, wenn Sie das Feld in einer Ansicht hinzufügen.
 
@@ -57,8 +57,8 @@ Der ROUND-Ausdruck enthält den Namen des Ausdrucks (ROUND) und normalerweise zw
 
 Ein Ausdruck würde wie folgt strukturiert sein: ROUND(data point, #)
 
-Verwenden Sie in dem Ausdruck, der die Differenz zwischen geplanten und tatsächlichen Stunden berechnet, diesen Ausdruck —DIV(SUB({workRequired},{tatsächlichWorkRequired}),60)—als ersten Datenpunkt. Stellen Sie dann sicher, dass die Zahl, die von diesem Ausdruck stammt, nicht mehr als 2 Stellen rechts von der Dezimalstelle umfasst.
+Verwenden Sie in dem Ausdruck, der die Differenz zwischen geplanten und tatsächlichen Stunden berechnet, diesen Ausdruck —DIV(SUB({workRequired},{actualWorkRequired}),60) - als ersten Datenpunkt. Stellen Sie dann sicher, dass die Zahl, die von diesem Ausdruck stammt, nicht mehr als 2 Stellen rechts von der Dezimalstelle umfasst.
 
 ![Lastenausgleich mit Nutzungsbericht](assets/round03.png)
 
-Der Ausdruck könnte wie folgt geschrieben werden: ROUND(DIV(SUB({workRequired},{ISTWorkRequired}),60),2).
+Der Ausdruck könnte wie folgt geschrieben werden: ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2).

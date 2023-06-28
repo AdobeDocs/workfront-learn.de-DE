@@ -4,12 +4,12 @@ description: Erfahren Sie mehr über die Vorteile der Verwendung der scrum agile
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10890
+jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: true
 hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: f3e354ead1a01fd7c1a58276c4ca43322e4213f0
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 0%
@@ -97,8 +97,8 @@ Mit einem Storyboard verschieben Teams ihre Meldungen durch Statusspalten, um an
 ![Storyboard](assets/storyboard-01.png)
 
 
-### Schaltflächendiagramm
+### Burndown-Chart
 
 Eine Abbruchgrafik kann verwendet werden, um zu überwachen, ob das Team Geschichten schnell genug oder schnell abschließt. Abblenddiagramme können für einzelne Iterationen oder die gesamte Produktversion verwendet werden.
 
-![Schaltflächendiagramm](assets/burndown-01.png)
+![Burndown-Chart](assets/burndown-01.png)

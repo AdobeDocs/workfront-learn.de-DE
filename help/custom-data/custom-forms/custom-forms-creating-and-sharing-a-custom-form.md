@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 thumbnail: 335172.png
-kt: 8909
+jira: KT-8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 5%
@@ -53,7 +53,7 @@ Dies bietet die Flexibilität, die Beschriftung für den Benutzer so zu ändern,
 
 **[!UICONTROL Textfeld mit Formatierung]**
 
-Die [!UICONTROL Textfeld mit Formatierung ]enthält grundlegende Text-Markup-Tools, mit denen Benutzer beim Ausfüllen des Felds in einem benutzerdefinierten Formular fett, kursiv oder unterstrichen hinzufügen können.
+Die [!UICONTROL Textfeld mit Formatierung]enthält grundlegende Text-Markup-Tools, mit denen Benutzer beim Ausfüllen des Felds in einem benutzerdefinierten Formular fett, kursiv oder unterstrichen hinzufügen können.
 
 ![Benutzerdefiniertes Formularfenster zeigt [!UICONTROL Textfeld mit Formatierung] option](assets/custom-forms-text-field-with-formatting.png)
 

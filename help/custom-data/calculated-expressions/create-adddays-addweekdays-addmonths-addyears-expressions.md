@@ -8,10 +8,10 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335175.png
-kt: 8912
+jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Nachstehend finden Sie einige zusätzliche ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR-
 
 Der Kunde wollte wissen, wann die Aufgabe basierend auf dem tatsächlichen Startdatum und der geplanten Dauer abgeschlossen sein sollte. Das geplante Abschlussdatum funktioniert in diesem Fall nicht, da es verschoben werden kann, wenn die Aufgabe verspätet ist, und das geplante Abschlussdatum nicht hilfreich ist, wenn es zu Verzögerungen bei früheren Aufgaben kommt.
 
-Der erstellte Ausdruck war ADDDAYS({ISTStartDate},{durationMinutes}/480)
+Der erstellte Ausdruck war ADDDAYS({actualStartDate},{durationMinutes}/480)
 
 Die Zeit im Feld Dauer wird in Minuten gespeichert. In diesem Ausdruck kann das Feld Dauer also nicht allein stehen, wenn die Zeit in Tagen dargestellt werden soll. Dazu muss die Dauer durch 480 Minuten (480 Minuten = 8 Stunden = 1 Tag) geteilt werden.
 

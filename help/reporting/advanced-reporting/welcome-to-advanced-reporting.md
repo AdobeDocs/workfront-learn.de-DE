@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Experienced
 team: Technical Marketing
-kt: 11198
-source-git-commit: e2b5115d03e0eaa47cba3397b0aeb01044441083
+jira: KT-11198
+exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -48,5 +49,4 @@ Die Zielgruppe für diese Tutorials ist [!UICONTROL Plan] Lizenzanwender, die de
 
 Diese Tutorials sind Aufzeichnungen einer Live-Klasse, die im Februar 2018 über einen Zeitraum von drei Tagen gegeben wurde. Möglicherweise wird in den Videos eine ältere Benutzeroberfläche angezeigt, die jedoch keine Auswirkungen auf die Genauigkeit oder Relevanz des bereitgestellten Inhalts hat.
 
-Sie werden auch einige Hinweise hören, wie Sie ein Testlaufwerkskonto zum Üben erhalten. Adobe Experience League stellt keine Testlaufwerkkonten bereit, macht sich aber keine Gedanken. Sie können in Ihrem Produktionskonto üben. Schließlich geht es bei der Berichterstellung nur um das Anzeigen von Objekten in Workfront, nicht um das Erstellen oder Löschen von Objekten. Außer der Erstellung der Berichte selbst. Außer dem Systemadministrator können Sie jedoch nur die von Ihnen erstellten Berichte anzeigen, sofern Sie sich nicht dafür entscheiden, sie freizugeben.
-
+Sie werden auch einige Hinweise hören, wie Sie ein Testlaufwerkskonto zum Üben erhalten. Adobe Experience League stellt keine Testlaufwerkkonten bereit, macht sich aber keine Gedanken. Sie können in Ihrem Produktionskonto üben. Schließlich geht es bei der Berichterstellung nur um das Anzeigen von Objekten in Workfront, nicht um das Erstellen oder Löschen von Objekten. Außer der Erstellung der Berichte selbst. Außer dem Systemadministrator können Sie die von Ihnen erstellten Berichte jedoch nur anzeigen, wenn Sie sich für die Freigabe entscheiden.

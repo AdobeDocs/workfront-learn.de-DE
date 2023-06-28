@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: review-approve-digital-work.png
-kt: 8841
+jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Wenn Sie in [!DNL Workfront] und zur Validierung eines Testversands aufgefordert
 
 ![Ein Bild von [!DNL Workfront] [!UICONTROL Startseite] mit dem [!UICONTROL Genehmigungen] und ein aus der Liste ausgewählter Testversand.](assets/open-proof-from-home.png)
 
-Beachten Sie, dass Testsendungen in [!DNL Workfront] [!UICONTROL Startseite] nur dann, wenn Sie zur Validierung zugewiesen sind. Wenn Sie nur gebeten wurden, den Testversand zu überprüfen, wird er nicht angezeigt in [!DNL Workfront] [!UICONTROL Startseite] bei Auswahl von [!UICONTROL Genehmigungen ]aus der Filterliste aus.
+Beachten Sie, dass Testsendungen in [!DNL Workfront] [!UICONTROL Startseite] nur dann, wenn Sie zur Validierung zugewiesen sind. Wenn Sie nur gebeten wurden, den Testversand zu überprüfen, wird er nicht angezeigt in [!DNL Workfront] [!UICONTROL Startseite] bei Auswahl von [!UICONTROL Genehmigungen]aus der Filterliste aus.
 
 Wählen Sie die Testversandvalidierung im [!UICONTROL Arbeitsliste]und klicken Sie dann auf [!UICONTROL Gehe zu Testversand] -Link, um ihn im Testversand-Viewer zu öffnen.
 
@@ -63,7 +63,7 @@ Sie können auch Testsendungen für eine [!DNL Workfront] Dashboard, das speziel
 
 Wenn Sie normalerweise mit Projekten, Aufgaben oder Problemen in [!DNL Workfront], können Sie den Testversand direkt über die [!DNL Documents] -Abschnitt dieses Elements.
 
-![Ein Bild der [!UICONTROL Dokumente] in einem [!DNL  Workfront] mit der Aufgabe [!UICONTROL Offener Testversand ]Link hervorgehoben.](assets/open-proof-from-documents.png)
+![Ein Bild der [!UICONTROL Dokumente] in einem [!DNL  Workfront] mit der Aufgabe [!UICONTROL Offener Testversand]Link hervorgehoben.](assets/open-proof-from-documents.png)
 
 1. Klicken Sie auf den Namen des Projekts, der Aufgabe oder des Problems.
 2. Klicken [!UICONTROL Dokumente] im linken Bedienfeldmenü der Seite des Elements.

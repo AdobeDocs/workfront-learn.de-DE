@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: upload-a-proof-video.png
-kt: 10176
+jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Hochladen eines Videos in [!DNL Workfront] folgt denselben Schritten wie das Hoc
 
 * Öffnen Sie das Projekt, die Aufgabe oder das Problem, in das das Video hochgeladen werden soll.
 * Auswählen [!UICONTROL **Dokumente**] im Menü des linken Bedienfelds.
-* Aus dem [!UICONTROL **Neu hinzufügen** ]Schaltfläche auswählen [!UICONTROL **Testversand**].
+* Aus dem [!UICONTROL **Neu hinzufügen**] Schaltfläche auswählen [!UICONTROL **Testversand**].
 * Ziehen Sie die Videodatei in den Upload-Bereich oder verwenden Sie die Funktion Durchsuchen .
 * Weisen Sie einen einfachen oder automatisierten Workflow zu.
 * Legen Sie einen Termin fest.

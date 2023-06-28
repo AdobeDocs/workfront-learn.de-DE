@@ -7,10 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8928
+jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 2%
@@ -46,4 +46,4 @@ Sie werden feststellen, dass Sie manchmal zu viele Informationen in der [!UICONT
 * [!UICONTROL Impuls]
 * [!UICONTROL Ziel-Ausrichtung]. In diesem Abschnitt können Sie vorübergehend die Ziele anzeigen, die nicht mit dem angewendeten Filter übereinstimmen, sodass Sie das vollständige Bild aller ausgerichteten Ziele erhalten. Klicken Sie auf [!UICONTROL **Anzeigen/Anzeigen**] Option , wenn Ziele durch den ausgewählten Filter ausgeblendet werden.
 
-   ![](assets/19-workfront-goals-filter-show-it.png)
+  ![](assets/19-workfront-goals-filter-show-it.png)

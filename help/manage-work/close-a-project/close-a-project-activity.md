@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: e81ba47db087aa33510ddfa13ab8e5d4ef329d00
+jira: KT-null
+exl-id: ffbe2169-d475-4907-a78f-5c092b923900
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,5 +34,3 @@ Als Projektmanager können Sie wertvolle Informationen bereitstellen, indem Sie 
 
 * Denken Sie an einige der Projekte, die Sie im vergangenen Jahr verwaltet haben. Welche Art von Fragen würden Sie in einer &quot;Lektion gelernt&quot;-Sitzung stellen oder Informationen sammeln?
 * Entscheiden Sie, ob Sie &quot;gelernte Erfahrungen&quot;in Ihre Projekte integrieren möchten. Dann entscheiden Sie, wie. Sie könnten beispielsweise etwas informelles tun, z. B. ein schnelles Standbild mit Ihrem Team. Oder es könnte in Ihren Projektplan integriert werden.
-
-

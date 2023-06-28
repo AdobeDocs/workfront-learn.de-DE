@@ -8,9 +8,9 @@ type: Tutorial
 role: User, Admin
 level: Beginner
 thumbnail: understand-proof-details.png
-kt: 10110
+jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Mithilfe dieser Einstellungen können Sie den Zugriff auf den Testversand selbst
 
 * **[!UICONTROL Anmeldung erforderlich. Dieser Testversand kann nicht für Gastbenutzer freigegeben werden] —** Der Testversand kann nur für Personen freigegeben werden, die über eine [!DNL Workfront] Testlizenz.
 * **[!UICONTROL Elektronische Unterzeichnung von Entscheidungen erforderlich] —** Bei der Freigabe eines Testversands muss der Empfänger über Testversandberechtigungen in [!DNL Workfront] und macht sie &quot;elektronisch signieren&quot; den Testversand durch Eingabe ihres Testpassworts, wenn sie eine Testversandentscheidung treffen. (Hinweis: Das Testkennwort unterscheidet sich von Ihrem [!DNL Workfront] Kennwort. Das Kennwort zum Testen ist nicht leicht zugänglich, sodass die meisten Empfänger dieses Kennwort nicht kennen.) [!DNL Workfront] empfiehlt, mit Ihrem [!DNL Workfront] Berater vor der Verwendung dieser Funktion.
-* **[!UICONTROL Sperren des Testversands, wenn alle erforderlichen Entscheidungen getroffen werden ]—** Auf diese Weise wird der Beweis für alle weiteren Kommentare, Antworten, Entscheidungen usw. gesperrt, sobald jede Entscheidung über den Nachweis getroffen wurde. Dadurch wird die gesamte Testversand-Version gesperrt, nicht nur eine bestimmte Phase des Testversand-Workflows.
+* **[!UICONTROL Sperren des Testversands, wenn alle erforderlichen Entscheidungen getroffen werden]—** Auf diese Weise wird der Beweis für alle weiteren Kommentare, Antworten, Entscheidungen usw. gesperrt, sobald jede Entscheidung über den Nachweis getroffen wurde. Dadurch wird die gesamte Testversand-Version gesperrt, nicht nur eine bestimmte Phase des Testversand-Workflows.
 * **[!UICONTROL Herunterladen der Originaldatei zulassen] —** Testversand-Empfänger können die ursprüngliche Quelldatei des Testversands aus dem Testversand-Viewer herunterladen (die Option befindet sich im Menü des rechten Bedienfelds).
 * **[!UICONTROL Freigabe über öffentliche URL oder Einbettungscode zulassen] —** Testversand-Empfänger können einen öffentlich zugänglichen Testversand-Link für jede Person freigeben.
 * **[!UICONTROL Zulassen des Abonnements für den Testversand über eine öffentliche URL oder einen Einbettungscode] —** Jeder, der die öffentliche URL gesendet hat, kann sich mit seiner E-Mail-Adresse und seinem Namen zum Testversand hinzufügen (wenn nicht als Testversand-Benutzer) oder seiner E-Mail-Adresse und seinem Testpasswort (wenn es sich nicht um einen Testversand-Benutzer handelt). (Hinweis: Das Kennwort zum Testen ist nicht dasselbe wie ein [!DNL Workfront] password.)

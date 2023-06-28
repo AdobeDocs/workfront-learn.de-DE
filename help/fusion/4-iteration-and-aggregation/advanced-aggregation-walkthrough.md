@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9040
+jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Sie sehen einen Schatten, der jedes Segment in Ihrem Szenario von einem **Starti
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 
-Erstellen Sie ein neues Szenario, um alle Stunden zu summieren, die für Aufgaben in Projekten im Marketing-Portfolio angemeldet sind. Senden Sie dann eine E-Mail, in der steht: &quot;Ihr {Projektname} Projektteam hat {Gesamtstunden} der geplanten Gesamtstunden protokolliert, sodass Sie {Prozentsatz} des Plans erreichen.&quot;
+Erstellen Sie ein neues Szenario, um alle Stunden zu summieren, die für Aufgaben in Projekten im Marketing-Portfolio angemeldet sind. Senden Sie dann eine E-Mail mit der Meldung &quot;Ihr {Projektname}-Projektteam hat {Gesamtstunden} der geplanten Gesamtstunden {geplante Stunden} protokolliert und Sie auf {percentage} des Plans.&quot;
 
 **Herausforderung:** Überprüfen Sie, ob Sie dasselbe tun können, aber nur für Stunden, die in diesem Jahr protokolliert werden.
 

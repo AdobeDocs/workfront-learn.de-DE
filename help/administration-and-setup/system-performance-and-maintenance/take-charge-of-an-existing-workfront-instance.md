@@ -6,10 +6,11 @@ type: Tutorial
 role: Admin
 level: Beginner,Intermediate,Experienced
 activity: use
-kt: 11747
+jira: KT-11747
 team: Technical Marketing
 thumbnail: null
-source-git-commit: 48b6414f3128729436a4845f9654bd5fc8ee5353
+exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '645'
 ht-degree: 0%
@@ -58,7 +59,6 @@ Am Ende dieser Phase sollten Sie Folgendes haben:
 * Ein allgemeines Gefühl für den Zustand Ihrer Instanz, einschließlich der wichtigsten Anwendungsfälle
 
 * Ein Dokument, in dem beschrieben wird, was gut funktioniert, welche Herausforderungen und/oder Lücken zwischen Prozess- und Benutzeranforderungen bestehen
-
 <br>
 </br>
 
@@ -73,7 +73,6 @@ Am Ende dieser Phase sollten Sie Folgendes haben:
 * Einen tieferen Überblick über den aktuellen Status Ihrer Instanz
 
 * Es wurden Änderungen oder Verbesserungen identifiziert, die Sie an Ihrer Instanz vornehmen möchten, um geschäftlichen Anforderungen gerecht zu werden.
-
 <br>
 </br>
 
@@ -100,4 +99,4 @@ Indem Sie jede Phase mithilfe der Checkliste für geerbte Instanzen durchlaufen,
 Weitere Informationen finden Sie unten:
 * [Festlegen von Zielen für Ihre Workfront-Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
 * [Blogpost: Sponsoring und Mehrwert für Führungskräfte](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [Blog-Beitrag: Einführung in Adobe Workfront-KPIs ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [Blog-Beitrag: Einführung in Adobe Workfront-KPIs](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)

@@ -8,9 +8,9 @@ thumbnail: close-tasks-and-issues.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: KT-10133
+jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Beginnen Sie mit der Aufgabenliste und wählen Sie eine [!UICONTROL Ansicht] , d
 
 ![Projekt anzeigen [!UICONTROL Prozent abgeschlossen] column](assets/planner-fund-close-tasks-and-issues.png)
 
-Nicht jedes Unternehmen verwendet [!DNL Workfront’s] Problemfunktionen zum Aufzeichnen oder Beheben von Problemen, Ändern von Bestellungen usw., die während des Projekts aufgetreten sind. Wenn Sie dies tun, wechseln Sie zum [!UICONTROL Probleme] und stellen Sie sicher, dass alle Probleme gelöst wurden.
+Nicht jedes Unternehmen verwendet [!DNL Workfront's] Problemfunktionen zum Aufzeichnen oder Beheben von Problemen, Ändern von Bestellungen usw., die während des Projekts aufgetreten sind. Wenn Sie dies tun, wechseln Sie zum [!UICONTROL Probleme] und stellen Sie sicher, dass alle Probleme gelöst wurden.
 
 <!---
 learn more

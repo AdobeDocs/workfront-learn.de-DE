@@ -7,9 +7,9 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11037
+jira: KT-11037
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Anfang der Workfront Fusion-Schulung haben Sie einige grundlegende Best Practice
 In der Regel besteht ein Hauptziel in Workfront Fusion immer darin, einfache Szenario-Designs zu haben. Im Folgenden finden Sie einige Möglichkeiten, um einfach zu interpretierende Designs zu erstellen.
 
 * Stellen Sie sicher, dass Sie alle Module benennen. Klicken Sie mit der rechten Maustaste auf ein Modul und wählen Sie Umbenennen aus. Modulbeschriftungen sollten kurz, aber verständlich für die Leistung des Moduls sein. Beispiel: &quot;Erstellen Sie MKTG-Proj mit CSH-Vorlage.&quot;
-   ![Ein Bild eines Szenarios mit Fehlerbehandlung](assets/design-optimization-and-testing-1.png)
+  ![Ein Bild eines Szenarios mit Fehlerbehandlung](assets/design-optimization-and-testing-1.png)
 * Auch Routing-Pfade beschriften. Selbst wenn ein Pfad keinen Filter direkt nach einem Router verwendet, können Sie eine Bezeichnung anwenden, ohne die Filterlogik auszufüllen. Auf diese Weise können andere verstehen, welche Pakete welche Pfade und warum durchlaufen. Um eine Bezeichnung für einen Routerpfad ohne Filter zu erstellen, klicken Sie mit der rechten Maustaste auf den Pfad, fügen Sie einen Titel hinzu und speichern Sie ihn.
-   ![Ein Bild eines Szenarios mit Fehlerbehandlung](assets/design-optimization-and-testing-2.png)
+  ![Ein Bild eines Szenarios mit Fehlerbehandlung](assets/design-optimization-and-testing-2.png)
 * Fügen Sie gegebenenfalls Notizen in einem Szenario hinzu, wenn die Beschriftung eines Moduls oder Routing-Pfads zu kurz sein soll, um zu verdeutlichen, was tatsächlich passiert. Sie können während des Entwurfs- und Iterationsvorgangs jederzeit Notizen hinzufügen.
 
 Es kann jedoch am einfachsten sein, Notizen am Ende des Szenario-Designs hinzuzufügen, wenn Sie bereit zum Starten sind. Arbeiten Sie am Ende Ihres Szenario-Designs (ganz unten, rechts) rückwärts. Auf diese Weise befinden sich die Notizen, die für den Anfang Ihres Szenarios gelten, oben in der Liste, wenn Sie das Notizenbedienfeld öffnen.

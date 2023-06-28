@@ -8,9 +8,9 @@ thumbnail: understand-multiple-billing-rates.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10048
+jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
@@ -54,4 +54,5 @@ Mit [!DNL Workfront]Dank der neuen Funktion für mehrere Abrechnungsraten kann d
    * Fügen Sie nach Bedarf weitere Abrechnungssätze hinzu, indem Sie auf die Schaltfläche **[!UICONTROL Rate hinzufügen]** Schaltfläche.
    * Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL Speichern]**.
    * Alle Abrechnungssätze werden im [!UICONTROL Abrechnungssätze] im Projekt.
+
    ![Ein Bild von der Erstellung neuer Abrechnungssätze, die für die verschiedenen Zeiträume in [!DNL Workfront]](assets/project-finances-7.png)

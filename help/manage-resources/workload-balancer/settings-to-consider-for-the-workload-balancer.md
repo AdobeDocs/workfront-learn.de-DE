@@ -8,9 +8,9 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: settings-to-consider.png
-kt: 10189
+jira: KT-10189
 exl-id: d9cf1309-c994-4a4e-89e2-030b67e2f57d
-source-git-commit: c6c0e4405cd3151b5ad9a490dbeab237855dde29
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 2%
@@ -30,7 +30,7 @@ Diese können über das Symbol Workload Balancer Settings aktiviert oder deaktiv
 
 ![Symbol &quot;Einstellungen für den Arbeitslastausgleich&quot;](assets/STC_01.png)
 
-## Für Anfragen aufgewendete Stunden einbeziehen
+## Stunden aus Problemen einbeziehen
 
 Standardmäßig zeigt der Lastenausgleich nur Aufgaben an. Benutzer können jedoch Anforderungen und Problemen zugewiesen werden, die erfüllt oder gelöst werden müssen und die für die Projektarbeit ausreichend Zeit benötigen.
 

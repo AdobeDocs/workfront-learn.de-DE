@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8716,8717,8718,8719
+jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Projekte suchen
 
-Workfront kann Ihre Projekte nicht für Sie verwalten, aber es gibt Ihnen die nötige Sichtbarkeit der durchgeführten Arbeiten. [!DNL Workfront] erleichtert Ihnen die Überwachung des Arbeitsfortschritts, die Kommunikation mit Ihrem Team, die Anpassung der Zeitpläne und vieles mehr.
+Workfront kann Ihre Projekte nicht für Sie verwalten, aber es gibt Ihnen die nötige Sichtbarkeit für die durchgeführte Arbeit. [!DNL Workfront] erleichtert Ihnen die Überwachung des Arbeitsfortschritts, die Kommunikation mit Ihrem Team, die Anpassung der Zeitpläne und vieles mehr.
 
 <!---
 In this section, you will learn how to:
@@ -43,7 +43,7 @@ Sie können ein aktuelles Projekt - und andere Objekte - schnell finden, indem S
 
 ## Projekt veröffentlichen
 
-Wenn Sie an einem Projekt arbeiten, können Sie es leicht finden, indem Sie es in die Menüleiste einfügen, damit Sie es mit einem Klick öffnen können.
+Wenn Sie an einem Projekt arbeiten, machen Sie es einfach zu finden, indem Sie es in die Menüleiste einfügen, damit Sie es mit einem einzigen Klick öffnen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 

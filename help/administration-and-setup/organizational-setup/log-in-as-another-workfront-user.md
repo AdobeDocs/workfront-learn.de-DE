@@ -8,9 +8,9 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10104.jpeg
-kt: 10104
+jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -47,4 +47,4 @@ Nach der Anmeldung zeigt eine Benachrichtigung oben im Bildschirm an, wer Sie an
 
 Wenn sich ein Administrator als ein anderer Benutzer angemeldet hat und im Namen dieses Benutzers Änderungen/Aktualisierungen vorgenommen hat, werden die Änderungen im Bereich Updates für dieses spezifische Element angezeigt. Das folgende Beispiel zeigt, dass Joan Harris ein Fälligkeitsdatum im Namen von Roy Campbell geändert hat.
 
-![[!UICONTROL Updates] Abschnitt](assets/admin-fund-log-in-as-4.png)
+![Abschnitt „Aktualisierungen“](assets/admin-fund-log-in-as-4.png)

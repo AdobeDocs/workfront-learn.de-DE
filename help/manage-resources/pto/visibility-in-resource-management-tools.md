@@ -7,9 +7,9 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
-kt: 10184
+jira: KT-10184
 exl-id: 3818c7fb-b820-4002-bf49-9c79c9f0afb2
-source-git-commit: 02bc5a09a838be6d98c9b746bff731236ee4116f
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -26,7 +26,7 @@ Die Zeitüberschreitung eines Benutzers wird im Ressourcenplaner in der Spalte V
 
 ![Zeitlimit in verfügbarer Spalte](assets/vis_01.png)
 
-## Workload Balancer
+## Workload-Balancer
 
 Im Arbeitslast-Balancer wird die Zeitüberschreitung im Kalender als graue Balken angezeigt. Diese Sichtbarkeit hilft Ressourcenmanagern und anderen, fundiertere Entscheidungen bei der Zuweisung von Arbeit zu treffen.
 

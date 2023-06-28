@@ -7,9 +7,9 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10030
+jira: KT-10030
 exl-id: c8f5677f-8d9d-4d1a-a1e3-d1a438878213
-source-git-commit: 02bc5a09a838be6d98c9b746bff731236ee4116f
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Sie können einen vorhandenen Status bearbeiten, um den Namen, die zugewiesenen 
 1. Sperren Sie den Status, wenn diese Einstellungen für alle Benutzer in Ihrer [!DNL Workfront] -Instanz.
 1. Entsperren Sie den Status, damit Gruppenadministratoren den Status nur für ihre Gruppen bearbeiten können.
 1. Markieren Sie die Kästchen für den Problemtyp, auf den der Status angewendet werden soll.
-1. Klicken **[!UICONTROL Speichern]**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![Fenster zum Erstellen eines neuen Status](assets/admin-fund-edit-issue-status-2.png)
 

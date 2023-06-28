@@ -9,12 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
-kt: 8854
+jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '696'
 ht-degree: 6%
 
 ---
@@ -87,3 +87,45 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen &quot;Milestone-Ansicht&quot;mi
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![Ein Bild einer Aufgabenliste mit einer Meilensteinansicht](assets/view-milestone-exercise-2.png)
+
+## Aktivität 3: Erstellen einer Ansicht mit Dauer- und Aufgabenbegrenzungen
+
+Diese Ansicht ermöglicht es Ihnen, alle Dauern- und Aufgabenbeschränkungen in Ihrem Projekt zu untersuchen und zu bearbeiten.
+
+Erstellen Sie eine Aufgabenansicht mit dem Namen &quot;Dauer-Typen und Aufgabenbegrenzungsansicht&quot;mit den folgenden Spalten:
+
+* [!UICONTROL Aufgabenname]
+* [!UICONTROL Arbeitsaufträge]
+* [!UICONTROL Dauer]
+* [!UICONTROL Geplante Dauer]
+* [!UICONTROL Gpl. Std.]
+* [!UICONTROL Vorgänger]
+* [!UICONTROL Starten am]
+* [!UICONTROL Fällig am]
+* [!UICONTROL Dauertyp]
+* [!UICONTROL Aufgabenbeschränkung]
+* [!UICONTROL Einschränkungsdatum]
+
+Ändern Sie die [!UICONTROL Feldformat] auf [!UICONTROL Starten ein] und [!UICONTROL aufgrund von] Spalten, um sowohl Datum als auch Uhrzeit anzuzeigen.
+
+## Antwort zu Aktivität 3
+
+![Ein Bild des Bildschirms, das die Ansicht &quot;Dauer&quot;und &quot;Aufgabenbegrenzungen&quot;anzeigt](assets/view-activity-3.png)
+
+1. Wechseln Sie in einer Projektaufgabenliste zum **[!UICONTROL Ansicht]** Dropdown-Menü und **[!UICONTROL Neue Ansicht]**.
+1. Benennen Sie Ihre Ansicht mit &quot;Dauer-Typen und Aufgabenbegrenzungen&quot;.
+1. Entfernen Sie die [!UICONTROL % Complete] Spalte.
+1. Klicken **[!UICONTROL Spalte hinzufügen]**.
+1. Im [!UICONTROL In dieser Spalte anzeigen] Feld, Typ [!UICONTROL &quot;duration&quot;] und wählen Sie [!UICONTROL &quot;Geplante Dauer&quot;] unter [!UICONTROL Aufgabe] -Feldquelle.
+1. Verschieben Sie diese Spalte zwischen [!UICONTROL Dauer] und [!UICONTROL PLN Hrs] Spalten.
+1. Klicken **[!UICONTROL Spalte hinzufügen]** erneut.
+1. Im [!UICONTROL In dieser Spalte anzeigen] Feld, Typ [!UICONTROL &quot;duration type&quot;] und wählen Sie [!UICONTROL &quot;Dauer&quot;] unter [!UICONTROL Aufgabe] -Feldquelle.
+1. Klicken **[!UICONTROL Spalte hinzufügen]** erneut.
+1. Im [!UICONTROL In dieser Spalte anzeigen] Feld, Typ [!UICONTROL &quot;constraint&quot;] und wählen Sie [!UICONTROL &quot;Task Constraint&quot;] unter der Aufgabenfeldquelle.
+1. Klicken **[!UICONTROL Spalte hinzufügen]** erneut.
+1. Im [!UICONTROL In dieser Spalte anzeigen] Feld, Typ [!UICONTROL &quot;constraint&quot;] und wählen Sie [!UICONTROL &quot;Beschränkungsdatum&quot;] unter der Aufgabenfeldquelle.
+1. Wählen Sie die [!UICONTROL Starten ein] und klicken Sie auf [!UICONTROL Erweiterte Optionen].
+1. Unter dem [!UICONTROL Feldformat] Dropdown-Auswahl [!UICONTROL &quot;17.10.60 3:00 Uhr&quot;].
+1. Wählen Sie die [!UICONTROL aufgrund von] und klicken Sie auf [!UICONTROL Erweiterte Optionen].
+1. Unter dem [!UICONTROL Feldformat] Dropdown-Auswahl [!UICONTROL &quot;17.10.60 3:00 Uhr&quot;].
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
