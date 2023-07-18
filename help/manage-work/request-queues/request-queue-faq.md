@@ -5,12 +5,13 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 1%
+source-wordcount: '368'
+ht-degree: 0%
 
 ---
 
@@ -36,7 +37,9 @@ Weitere Informationen finden Sie in diesem Artikel . [Konvertierungsprobleme](ht
 
 **Wo finde ich eine Anforderungswarteschlange zum Bearbeiten?**
 
-Sie können entweder die [!UICONTROL Suche] in der Navigationsleiste ein oder finden Sie sie in der Liste [!UICONTROL Projekte] Bereich.
+Sie können die [!UICONTROL Suche] in der Navigationsleiste ein oder finden Sie sie in der Liste [!UICONTROL Projekte] Bereich.
+
+Wenn Sie eine Anforderung aus der Anforderungswarteschlange öffnen, können Sie im Bereich &quot;Breadcrumbs&quot;auf den Projektnamen klicken.
 
 **Kann ich die Informationen von einem benutzerdefinierten Anfrageformular an ein Projekt übertragen?**
 
@@ -44,4 +47,10 @@ Ja. Dazu müssen Sie ein benutzerdefiniertes Formular erstellen und beide [!UICO
 
 **Ich sehe mir einen Projekt- oder Aufgabenbericht an. Wie finde ich heraus, von welcher Anforderung dieses Objekt stammt?**
 
-Sie können die **[!UICONTROL Urheber einer konvertierten Ausgabe]** -Feldquelle, um diese Informationen zu Ihren Projekt- und Aufgabenberichten hinzuzufügen.
+Sie können auf Felder im **[!UICONTROL Konvertierte Ausgabe]** und **[!UICONTROL Urheber einer konvertierten Ausgabe]** -Felderquellen, um diese Informationen zu Ihren Projekt- und Aufgabenberichten hinzuzufügen.
+
+**Wie lässt sich am besten nach Anforderungswarteschlangen in einem Bericht filtern?**
+
+Wenn Ihr Projektfilter **Warteschlange >>Ist öffentlich>>Gleich>>Keine** Ihr Bericht zeigt nur Projekte an, die **NOT** Warteschlangen anfordern.
+
+Wenn Ihr Projektfilter **Warteschlange >>Ist öffentlich>>Nicht gleich>>Keine** Ihr Bericht zeigt nur Projekte an, die **ARE** Warteschlangen anfordern.
