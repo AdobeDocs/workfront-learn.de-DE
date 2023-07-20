@@ -1,7 +1,7 @@
 ---
 title: Informationen zu berechneten Feldausdrücken
 description: Hier erhalten Sie einen Einblick in eine Liste von Konzepten, die Sie beim Arbeiten mit benutzerdefinierten berechneten Feldern in [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Ausdrücke können aktualisiert werden, indem Sie die Option Ausdrücke neu bere
 Sie möchten sehen, wie viele Tage ein Problem geöffnet war. Erstellen Sie ein berechnetes Feld namens &quot;Days Open&quot;mit dem Ausdruck DATEDIFF.
 
 * Feldname = Öffnungen
-* Ausdruck = DATEDIFF({entryDate},$$TODAY)
+* Expression = DATEDIFF({entryDate},$$HEUTE)
 
 Nach der Speicherung kann die Anzahl der Tage zwischen der ersten Erstellung des Problems oder der Eingabe in Workfront und dem heutigen Datum auf der Detailseite eines Objekts oder in einer Berichtsansicht angezeigt werden.
 
@@ -109,7 +109,7 @@ Wenn ein berechnetes benutzerdefiniertes Feld aus der Feldbibliothek ausgewählt
 
 Sie haben beispielsweise das berechnete Feld &quot;Tage bis zum Abschluss&quot;erstellt, um zu bestimmen, wie lange es dauerte, bis eine Aufgabe in einem Projekt abgeschlossen war.
 
-* WEEKDAYDIFF({ISTStartDate},{ISTCompletionDate})
+* WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
 Du willst dasselbe für eine Iteration tun. Sie können denselben Ausdruck verwenden. Die für ein Aufgabenobjekt verfügbaren Felder sind jedoch nicht immer für ein Iterationsobjekt verfügbar. Also [!DNL Workfront] gibt Ihnen die Möglichkeit, die Berechnung mit den richtigen Objektfeldern zu erstellen.
 
@@ -121,4 +121,4 @@ Je nach Bedarf können berechnete Felder in benutzerdefinierten Formularen ganz 
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you’re ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.-->

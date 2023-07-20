@@ -2,7 +2,7 @@
 title: Willkommen bei der erweiterten Berichterstellung
 description: Erfahren Sie, wie Sie die [!UICONTROL API-Explorer] und im Textmodus, um erweiterte Filter, Ansichten und Gruppierungen zu erstellen, die über die Funktionen der [!UICONTROL Reporting-Benutzeroberfläche].
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -10,7 +10,7 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Zusätzlich zu den Videos möchten Sie die [Erweitertes Reporting-Handbuch](/hel
 
 Bevor Sie sich diese Tutorials ansehen, sollten Sie über Folgendes verfügen:
 
-* Gute Kenntnisse zur Verwendung von Workfront. Dies bedeutet, dass Sie seit mindestens 3 bis 6 Monaten ein ernsthafter Workfront-Benutzer sind.
+* Gute Kenntnisse zur Verwendung von Workfront. Das bedeutet, dass Sie seit mindestens 3 bis 6 Monaten ein ernsthafter Workfront-Benutzer sind.
 * Gutes Verständnis der Objekte, die Sie in Berichte aufnehmen möchten.
 * Gutes Verständnis für die Verwendung benutzerdefinierter Formulare, insbesondere berechneter benutzerdefinierter Felder.
 * A [!UICONTROL Plan] Lizenztyp mit aktivierten Berechtigungen zum Erstellen von Berichten und Filtern.
@@ -49,4 +49,4 @@ Die Zielgruppe für diese Tutorials ist [!UICONTROL Plan] Lizenzanwender, die de
 
 Diese Tutorials sind Aufzeichnungen einer Live-Klasse, die im Februar 2018 über einen Zeitraum von drei Tagen gegeben wurde. Möglicherweise wird in den Videos eine ältere Benutzeroberfläche angezeigt, die jedoch keine Auswirkungen auf die Genauigkeit oder Relevanz des bereitgestellten Inhalts hat.
 
-Sie werden auch einige Hinweise hören, wie Sie ein Testlaufwerkskonto zum Üben erhalten. Adobe Experience League stellt keine Testlaufwerkkonten bereit, macht sich aber keine Gedanken. Sie können in Ihrem Produktionskonto üben. Schließlich geht es bei der Berichterstellung nur um das Anzeigen von Objekten in Workfront, nicht um das Erstellen oder Löschen von Objekten. Außer der Erstellung der Berichte selbst. Außer dem Systemadministrator können Sie die von Ihnen erstellten Berichte jedoch nur anzeigen, wenn Sie sich für die Freigabe entscheiden.
+Sie werden auch einige Hinweise hören, wie Sie ein Testlaufwerkskonto zum Üben erhalten. Adobe Experience League stellt keine Testlaufwerkkonten bereit, macht sich aber keine Gedanken. Sie können in Ihrem Produktionskonto üben. Schließlich geht es bei der Berichterstellung nur um das Anzeigen von Objekten in Workfront, nicht um das Erstellen oder Löschen von Objekten. Außer der Erstellung der Berichte selbst. Außer dem Systemadministrator können Sie jedoch nur die von Ihnen erstellten Berichte anzeigen, sofern Sie sich nicht dafür entscheiden, sie freizugeben.

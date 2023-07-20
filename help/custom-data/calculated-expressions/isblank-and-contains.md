@@ -1,7 +1,7 @@
 ---
 title: Verwenden der Ausdrücke ISBLANK und CONTAINS
 description: Erfahren Sie, wie Sie die Ausdrücke ISBLANK und CONTAINS in einem berechneten Feld in Adobe verwenden und erstellen. [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ISBLANK({description})
 
 Der Ausdruck ENTHÄLT den Namen des Ausdrucks, das gesuchte Wort oder die gesuchte Wortgruppe und das einzusuchende Feld.
 
-**CONTAINS(&quot;Satz&quot;,{Felder})**
+**CONTAINS(&quot;Satz&quot;,{fields})**
 
 Stellen Sie sicher, dass Sie das gesuchte Wort oder die gesuchte Wortgruppe in Anführungszeichen setzen. Andernfalls ist der Ausdruck nicht gültig.
 
