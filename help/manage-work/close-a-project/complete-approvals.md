@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ Sie haben einige Möglichkeiten, wie Sie vorgehen können:
 
 * **die Genehmigung ausfüllen —** Dies kann bedeuten, andere an die noch ausstehende Genehmigung zu erinnern. Führen Sie dazu eine Aktualisierung durch [!DNL Workfront]. Je nach [!DNL Workfront] -Berechtigungen, können Sie die Genehmigung möglicherweise selbst abschließen.
 * **Entfernen Sie die Genehmigung —** Wenn die Validierung nicht erforderlich ist, kann es einfacher sein, sie einfach zu löschen. Ihre Fähigkeit dazu hängt von Ihrer [!DNL Workfront] Berechtigungen.
-* **Status ändern —** Wählen Sie einen Status aus, an den keine Genehmigung angehängt ist. Stellen Sie einfach sicher, dass der Status &quot;Complete&quot;entspricht.
+* **Status ändern —** Wählen Sie einen Status aus, an den keine Genehmigung angehängt ist. Stellen Sie sicher, dass der Status &quot;Complete&quot;entspricht.
 
 Wenn Ihr Unternehmen Probleme verwendet, um Probleme zu verfolgen, Bestellungen zu ändern oder andere Ereignisse während des Projekts zu ändern, führen Sie dieselben Schritte für die [!UICONTROL Probleme] -Abschnitt Ihres Projekts.
