@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: b26ce60a2cac197d19b48656fedaa2eb51c33657
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In diesem Video erfahren Sie, wie Sie:
 
 >[!NOTE]
 >
->Wie im Video angegeben, ist es wichtig, dass die Benutzer den Status ändern von **[!UICONTROL Neu]** nach **[!UICONTROL In Bearbeitung]** wenn sie eine Aufgabe starten, wird die [!UICONTROL Tatsächliches Startdatum] wird korrekt sein. Wenn sie dies jedoch vergessen, wenn sie die Aufgabe starten, können sie die [!UICONTROL Tatsächliches Startdatum] jederzeit.
+>Wie im Video angegeben, ist es wichtig, dass die Benutzer den Status ändern von **[!UICONTROL Neu]** nach **[!UICONTROL In Bearbeitung]** wenn sie eine Aufgabe starten, wird die [!UICONTROL Tatsächliches Startdatum] korrekt sein. Wenn sie dies jedoch vergessen, wenn sie die Aufgabe starten, können sie die [!UICONTROL Tatsächliches Startdatum] jederzeit.
 
 
 <!---
