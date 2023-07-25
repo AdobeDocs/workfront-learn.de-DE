@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,11 @@ In diesem Video erfahren Sie, wie Sie:
 * Verwenden Sie den Fortschrittsstatus, um den Fortschritt der Arbeit zu verfolgen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Wie im Video angegeben, ist es wichtig, dass die Benutzer den Status ändern von **[!UICONTROL Neu]** nach **[!UICONTROL In Bearbeitung]** wenn sie eine Aufgabe starten, wird die [!UICONTROL Tatsächliches Startdatum] wird korrekt sein. Wenn sie dies jedoch vergessen, wenn sie die Aufgabe starten, können sie die [!UICONTROL Tatsächliches Startdatum] jederzeit.
+
 
 <!---
 Task progress status overview

@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Adobe Workfront-Plug-ins für Creative Cloud
-description: 'Suchen und aktualisieren Sie die Arbeit, die Ihnen in Adobe Workfront zugewiesen ist, ohne die folgenden Adobe Creative Cloud-Anwendungen zu verlassen: Photoshop, XD, InDesign, Illustrator, Premiere Pro und After Effects'
+title: Verwenden von Adobe Workfront-Plug-ins zur Integration in Creative Cloud
+description: Integrieren Sie Workfront in Creative Cloud, um die Ihnen in Workfront zugewiesenen Aufgaben zu finden und zu aktualisieren, ohne die folgenden Creative Cloud-Anwendungen zu verlassen - Photoshop, XD, InDesign, Illustrator, Premiere Pro und After Effects
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,16 +10,19 @@ team: Technical Marketing
 jira: KT-8811
 doc-type: video
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+badgeIntegration: label="Integration" type="positive"
+feature-set: Workfront
+topic: Integrations
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Verwenden von Adobe Workfront-Plug-ins für Creative Cloud
+# Verwenden von Adobe Workfront-Plug-ins zur Integration in Creative Cloud
 
-Suchen und aktualisieren Sie die in Adobe Workfront zugewiesenen Aufgaben, ohne die folgenden Adobe Creative Cloud-Anwendungen zu verlassen:
+Integrieren Sie Workfront in Creative Cloud, um die Ihnen in Adobe Workfront zugewiesenen Aufgaben zu finden und zu aktualisieren, ohne die folgenden Adobe Creative Cloud-Anwendungen zu verlassen:
 
 * Photoshop
 * XD
@@ -28,7 +31,7 @@ Suchen und aktualisieren Sie die in Adobe Workfront zugewiesenen Aufgaben, ohne 
 * Premiere Pro
 * After Effects
 
-Sie müssen das richtige Plug-in für die Adobe Creative Cloud-Anwendung installieren, die Sie verwenden:
+Sie müssen das richtige Plug-in für die verwendete Adobe Creative Cloud-Anwendung installieren:
 
 * Informationen zu Photoshop finden Sie unter [Installieren und Öffnen von Adobe Workfront für Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
 * XD finden Sie unter [Installieren und Öffnen von Adobe Workfront für XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
@@ -46,7 +49,7 @@ In diesem Video erfahren Sie, wie Sie in Ihrer Creative Cloud App Folgendes durc
 * Hinzufügen von Kommentaren und Tag-Team-Mitgliedern
 * Dokumentgenehmigungen anfordern
 * Hochladen von Testsendungen und Zuweisen eines Testversand-Workflows
-* Protokollzeit
+* Zeit erfassen
 * Kennzeichnen Sie Ihre Arbeit als abgeschlossen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)

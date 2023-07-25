@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,9 @@ Sie können die [!UICONTROL Suche] in der Navigationsleiste ein oder finden Sie 
 
 Wenn Sie eine Anforderung aus der Anforderungswarteschlange öffnen, können Sie im Bereich &quot;Breadcrumbs&quot;auf den Projektnamen klicken.
 
-**Kann ich die Informationen von einem benutzerdefinierten Anfrageformular an ein Projekt übertragen?**
+**Kann ich die Informationen von einem benutzerdefinierten Anforderungsformular in ein benutzerdefiniertes Projekt-Formular übertragen?**
 
-Ja. Dazu müssen Sie ein benutzerdefiniertes Formular erstellen und beide [!UICONTROL Problem] und [!UICONTROL Projekt] -Objekttypen.
+Ja. Wenn Sie ein benutzerdefiniertes Formular erstellen, wählen Sie beide [!UICONTROL Projekt] und [!UICONTROL Problem] als Objekttypen. Hängen Sie das benutzerdefinierte Formular an die Anforderung an. Wenn Sie die Anforderung in ein Projekt konvertieren, wird das benutzerdefinierte Formular automatisch an das neue Projekt angehängt und die in allen Feldern enthaltenen Werte werden sowohl in der Anforderung als auch in den benutzerdefinierten Formularen des Projekts angezeigt.
 
 **Ich sehe mir einen Projekt- oder Aufgabenbericht an. Wie finde ich heraus, von welcher Anforderung dieses Objekt stammt?**
 
