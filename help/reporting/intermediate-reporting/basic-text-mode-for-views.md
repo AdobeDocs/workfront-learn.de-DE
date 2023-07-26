@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ ht-degree: 0%
 >
 >Voraussetzungen:
 >
->* Berichterstellungselemente
->* Berichtkomponenten verstehen
->* Basisansicht erstellen
+>* [Elemente der Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Berichtkomponenten verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Basisansicht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie:
 
-* Textmodus
+* Textmodus:
 * Was für ein Kamel ist
 * Einige grundlegende Textmodi &quot;Plug-and-Play&quot;, die Sie in Ihren Ansichten verwenden können
 
@@ -184,7 +184,7 @@ valueformat=HTML
 width=150
 ```
 
-![Ein Bildschirmbild mit der Listenansicht &quot;Benutzer&quot;](assets/user-lists-view-large.png)
+![Ein Bildschirmbild mit der Listenansicht Benutzer](assets/user-lists-view-large.png)
 
 ## Aufgabe - So zeigen Sie Aufgabenzuweisungen an und arbeiten an einem Status
 
@@ -235,12 +235,19 @@ type=iterate
 
 ### Aufgabenfilter (optional)
 
-**Anzeigen aller Aufgaben, die mindestens einen projektübergreifenden Vorgänger haben**
+**Anzeigen aller Aufgaben, die mindestens einen projektübergreifenden Vorgänger oder mindestens einen projektübergreifenden Nachfolger für aktuelle Projekte haben**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### Aufgabe - Anzeigen von Vorgängernamen und Projektvorläufern in
@@ -315,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![Ein Bildschirmbild mit der Ansicht der projektübergreifenden Vorgänger und Nachfolger](assets/cross-project-predecessors-and-successors.png)
+![Ein Bildschirmbild, das die Ansicht der projektübergreifenden Vorgänger und Nachfolger anzeigt](assets/cross-project-predecessors-and-successors.png)
 
 
 ## Aufgabe - Iteration, die alle zugewiesenen Personen anzeigt und die jede Person zugewiesen haben
@@ -444,7 +451,7 @@ width=150
 
 ![Ein Bildschirmbild mit allen aufgelösten Team-Mitgliedern](assets/all-resolve-project-team-members.png)
 
-## Problem - Iteration, die alle Teams des Hauptkontakts des Problems anzeigt
+## Problem - Iteration mit allen Teams des Hauptkontakts des Problems
 
 ```
 displayname=Requestor Teams
