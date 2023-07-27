@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
 workflow-type: tm+mt
-source-wordcount: '2389'
+source-wordcount: '2392'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 2%
       + [Erstellen von Unternehmen](administration-and-setup/organizational-setup/user-organization-companies.md)
       + [Einrichten von Benutzern mit Lizenzen und Zugriffsebenen](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
       + [Erstellen und Verwalten von Vorgangsrollen](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
-      + [Anmelden als anderer Benutzer](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
+      + [Melden Sie sich als anderer Benutzer an](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
 
    + Gelöschte Elemente verwalten {#manage-deleted-items}
       + [Wiederherstellen von Objekten aus dem Papierkorb](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
@@ -97,7 +97,7 @@ ht-degree: 2%
       + [ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-Ausdrücke erstellen](custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.md)
       + [Verwenden des Berechnungs-Editors](custom-data/calculated-expressions/use-the-calculation-editor.md)
       + [Erstellen von DATEDIFF- und WEEKDAYDIFF-Ausdrücken](custom-data/calculated-expressions/create-datediff-and-weekdaydiff-expressions.md)
-      + [Erstellen eines untergeordneten, SUM-, DIV- oder PROD-Datenausdrucks](custom-data/calculated-expressions/create-a-sub-sum-div-or-prod-data-expression.md)
+      + [Erstellen eines untergeordneten, SUM, DIV oder PROD-Datenausdrucks](custom-data/calculated-expressions/create-a-sub-sum-div-or-prod-data-expression.md)
       + [Verwenden des CONCAT-Ausdrucks in einem berechneten Feld](custom-data/calculated-expressions/use-the-concat-expression-in-a-calculated-field.md)
       + [LINKE/RICHTIGE Ausdrücke erstellen](custom-data/calculated-expressions/create-left-right-expressions.md)
       + [Verwenden der Ausdrücke ISBLANK und CONTAINS](custom-data/calculated-expressions/isblank-and-contains.md)
@@ -108,7 +108,7 @@ ht-degree: 2%
    + Projekte {#projects}
       + [Grundlegendes zur Projekterstellung](manage-work/projects/understand-basic-project-creation.md)
       + [Vier Möglichkeiten zum Erstellen eines Projekts](manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [Füllen Sie die Projektdetails aus.](manage-work/projects/fill-in-the-project-details.md)
+      + [Füllen Sie die Projektdetails aus](manage-work/projects/fill-in-the-project-details.md)
       + [Navigieren zur Projektseite](manage-work/projects/navigate-the-project-page.md)
       + [Erste Schritte bei der Projektplanung](manage-work/projects/getting-started-plan-a-project.md)
       + [Projekt live stellen](manage-work/projects/take-a-project-live.md)
@@ -119,7 +119,7 @@ ht-degree: 2%
       + [Projektinformationen anzeigen](manage-work/projects/view-project-information.md)
       + [Gesamten Projektfortschritt verfolgen](manage-work/projects/track-overall-project-progress.md)
       + [Verfolgen des Arbeitsfortschritts mit Projektmetriken](manage-work/projects/track-work-progress-with-project-metrics.md)
-      + [Die [!UICONTROL Gantt] Ansicht](manage-work/projects/understand-the-gantt-view.md)
+      + [Verstehen Sie die [!UICONTROL Gantt] Ansicht](manage-work/projects/understand-the-gantt-view.md)
 
    + Aufgaben {#tasks}
       + [Aufgaben erstellen](manage-work/tasks/how-to-create-tasks.md)
@@ -150,7 +150,7 @@ ht-degree: 2%
 
    + Anforderungswarteschlangen {#request-queues}
       + [Anforderungswarteschlangen verstehen](manage-work/request-queues/understand-request-queues.md)
-      + [Grundlegendes zu den Einstellungen für eine Flussanforderung](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Grundlegendes zu den Einstellungen für eine Flussanfrage](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Anforderungswarteschlange erstellen](manage-work/request-queues/create-a-request-queue.md)
       + [Anforderungsfluss erstellen](manage-work/request-queues/create-a-request-flow.md)
       + [Antworten auf häufig gestellte Fragen zu Anforderungswarteschlangen](manage-work/request-queues/request-queue-faq.md)
@@ -190,11 +190,12 @@ ht-degree: 2%
 
    + Zwischenprojekte {#intermediate-projects}
       + [Typen und Aufgabenbegrenzungen von Dauer verstehen und verwalten](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [Verstehen projektübergreifender Vorgänger](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
 
 
 + Bericht- erstellung {#reporting}
-   + Grundlegende Berichterstellung {#basic-reporting}
-      + [Berichterstellungselemente](reporting/basic-reporting/reporting-elements.md)
+   + Basisberichte {#basic-reporting}
+      + [Elemente der Berichterstellung](reporting/basic-reporting/reporting-elements.md)
       + [Berichtkomponenten verstehen](reporting/basic-reporting/reporting-components.md)
       + [Basisgruppierung erstellen](reporting/basic-reporting/create-a-basic-grouping.md)
       + [Basisansicht erstellen](reporting/basic-reporting/create-a-basic-view.md)
@@ -226,7 +227,7 @@ ht-degree: 2%
       + [Benutzerdefinierte Eingabeaufforderungen erstellen](reporting/intermediate-reporting/custom-prompts.md)
 
    + Erweiterte Berichterstellung {#advanced-reporting}
-      + [Willkommen bei der erweiterten Berichterstellung](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
+      + [Willkommen bei erweiterten Berichten](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
       + [Erweiterte Berichterstellung Teil 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Erweiterte Berichterstellung Teil 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Erweiterte Berichterstellung Teil 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
@@ -237,15 +238,15 @@ ht-degree: 2%
       + [Hinzufügen [!UICONTROL analytics] zu Layoutvorlagen](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Grundlegende Navigation](reporting/enhanced-analytics/4-basic-navigation.md)
       + [Grundlegendes zu Arbeits- und Personendiagrammen](reporting/enhanced-analytics/5-work-and-people-charts.md)
-      + [Filter](reporting/enhanced-analytics/6-filters-overview.md)
+      + [Filter verstehen](reporting/enhanced-analytics/6-filters-overview.md)
       + [Grundlegendes zu Datumsbereichen und Zeitrahmen](reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
       + [Grundlegendes zu geplanten Stunden- und Daueransichten](reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [Aktionen verstehen: Bewegen Sie den Mauszeiger über die](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [KPIs verstehen](reporting/enhanced-analytics/10-kpis-overview.md)
+      + [Grundlegendes zu Aktionen: Bewegen Sie den Mauszeiger über den Bildschirm und ziehen Sie und klicken Sie auf](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
+      + [Grundlegendes zu KPIs](reporting/enhanced-analytics/10-kpis-overview.md)
       + [Grundlegendes zur Navigation und Überprüfung von Projekten](reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
       + [Detailliertere Nutzung von Zeitrahmen und zusätzlichen Diagrammen](reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
       + [Grundlegendes zur Navigation und Überprüfung der Projektaktivität](reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
-      + [Tiefer in die Navigation eintauchen](reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
+      + [Detaillierte Navigation](reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
       + [Grundlegendes zum Zugriff auf und zur Überprüfung des Downloads](reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
       + [Überprüfen der Aufgaben während des Fluges](reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [Maßnahmen ergreifen, um Aktualisierungen vorzunehmen](reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
@@ -303,7 +304,7 @@ ht-degree: 2%
       + [Erstellen einer Vision und Strategie für Ihre Organisation](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [Eine klare objektive Erklärung erstellen](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [Zusammenarbeit in Bezug auf Unternehmens- und Organisationsziele](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [Gruppen und Teams an Ihre Strategie anpassen](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+      + [Gruppen und Teams an Ihre Strategie ausrichten](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
    + Ziele erstellen {#create-goals}
       + [[!UICONTROL Workfront-Ziele] Übersicht](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -337,7 +338,7 @@ ht-degree: 2%
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Konfigurieren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Zuordnen von Metadaten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
-      + [Senden von Dokumenten und Verknüpfen von Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [Dokumente senden und Assets verknüpfen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
       + [Versionsverlauf](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
@@ -359,8 +360,8 @@ ht-degree: 2%
       + [Verwalten von Adobe Workfront-Benachrichtigungen in Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
-      + [Workfront für [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [Aktuelle Arbeiten anzeigen [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+      + [Grundlegendes zu Workfront für [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
+      + [Aktuelle Arbeiten ansehen [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
       + [Zugriff auf Ihre Aufgabenliste über [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
       + [Zuweisen von Aufgaben durch [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
       + [Validierungen vornehmen durch [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
@@ -372,7 +373,7 @@ ht-degree: 2%
       + [Als neuer Benutzer anmelden](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
       + [Workfront Fusion-Schulungsübersicht](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [Einrichten der Übungsdateien für Workfront Fusion](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
-      + [Grundlegende Konzepte](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
+      + [Grundbegriffe](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
 
    + Grundlagen {#understand-the-basics}
       + [Anfängliche Designanleitung](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
@@ -390,7 +391,7 @@ ht-degree: 2%
       + [Anleitung zu Routern](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
       + [Allgemeine Routing-Muster](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [exemplarische Vorgehensweise zu Routing-Mustern](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
-      + [Set-it und get-it](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
+      + [Festlegen und Abrufen](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [Anleitung zum Abrufen/Festlegen von Variablen](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
 
    + Iteration und Aggregation {#iteration-and-aggregation}
@@ -400,14 +401,14 @@ ht-degree: 2%
       + [Anleitung zur Aggregation](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
       + [Anleitung zur erweiterten Aggregation](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
 
-   + Ausführungsverlauf und -zeitplanung {#execution-history-and-scheduling}
+   + Ausführungsverlauf und Planung {#execution-history-and-scheduling}
       + [Einführung in den Ausführungsverlauf](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [Anleitung zum Ausführungsverlauf](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
       + [Erläuterungen zur Szenario-Planung](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [Gleichgewichtszyklen und -bündel](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [Durchlaufen von Zyklen und Bundles](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
 
-   + Über grundlegende Module {#beyond-basic-modules}
+   + Über grundlegende Module hinaus {#beyond-basic-modules}
       + [Machen Sie sich mit zusätzlichen Apps und allgemeinen Modulen vertraut](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [Alles nach oben](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [Anleitung zur Switch-Funktion](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
@@ -460,7 +461,7 @@ ht-degree: 2%
       + [Aggregation](fusion/12-exercises/aggregation.md)
       + [Erweiterte Aggregation](fusion/12-exercises/advanced-aggregation.md)
       + [Ausführungsverlauf](fusion/12-exercises/execution-history.md)
-      + [Erkunden von Läufen, Zyklen und Bundles](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [Erkunden von Läufen, Zyklen und Paketen](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Switch-Funktion](fusion/12-exercises/switch-function.md)
       + [Switch-Modul](fusion/12-exercises/switch-module.md)
       + [Webhooks](fusion/12-exercises/webhooks.md)
@@ -471,7 +472,7 @@ ht-degree: 2%
 
 + Workfront-Korrekturabzug {#workfront-proof}
    + [Erfahren Sie mehr über die Vorteile von Testsendungen](workfront-proof/benefits-of-proofing-in-workfront.md)
-   + [den Unterschied zwischen einem Dokument und einem Testversand verstehen](workfront-proof/document-vs-proof.md)
+   + [Unterschiede zwischen Dokumenten und Testsendungen](workfront-proof/document-vs-proof.md)
    + [Erläuterung von Testversand-Viewern](workfront-proof/two-options-for-the-proofing-viewers.md)
 
    + Administration und Einrichtung {#administration-and-setup-for-proof}
@@ -492,7 +493,7 @@ ht-degree: 2%
       + [Wer lädt die Testversandversionen hoch?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Konvertieren eines Dokuments in einen Testversand](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Anzeigen und Vergleichen von Testversionen](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
-      + [Testversand-Version hochladen](workfront-proof/upload-proofs/upload-a-proof-version.md)
+      + [Hochladen einer Testversion](workfront-proof/upload-proofs/upload-a-proof-version.md)
       + [Verwalten von Testversionen](workfront-proof/upload-proofs/manage-proof-versions.md)
       + [Hochladen eines Testversands eines Videos](workfront-proof/upload-proofs/other-types-of-digital-assets.md)
       + [Testversand einer Website hochladen](workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
@@ -521,7 +522,7 @@ ht-degree: 2%
 + Workfront DAM {#workfront-dam-program}
    + Systemeinstellungen {#system-setup}
       + [Grundlegendes [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
-      + [Grundlegendes zu den Systemeinstellungen](workfront-dam/system-setup/system-setup-system-settings.md)
+      + [Grundlegendes zu Systemeinstellungen](workfront-dam/system-setup/system-setup-system-settings.md)
       + [Grundlegendes [!UICONTROL Brand Portal]](workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
       + [Analysieren und planen Sie eine [!DNL Workfront DAM] strategy](workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Einrichten von Gruppen und Benutzern](workfront-dam/system-setup/system-setup-groups-and-users.md)
@@ -547,7 +548,7 @@ ht-degree: 2%
       + [Anpassen des Erscheinungsbilds von [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
 
    + Workfront DAM-Benutzer: Mitarbeiter {#workfront-dam-contributor}
-      + [Grundlegendes [!UICONTROL Workfront DAM] als Beitragende](workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
+      + [Grundlegendes [!UICONTROL WORKFRONT DAM] als Beitragende](workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
       + [Grundlegendes zur Asset-Verwaltung als Beitragender](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Grundlegendes zum Auffinden von Assets als Beitragender](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Grundlegendes zu Lightboxes als Beitragender](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
@@ -555,7 +556,7 @@ ht-degree: 2%
       + [Arbeiten mit Assets als Beitragende](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Datei als Mitarbeiter senden](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Veröffentlichen von Assets als Beitragende](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
-      + [Hinzufügen einer [!UICONTROL Workfront DAM] link](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
+      + [Hinzufügen einer [!UICONTROL WORKFRONT DAM] link](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
 
    + Brand Connect-Benutzer {#brand-connect}
       + [Grundlegendes [!UICONTROL Brand Connect] als Benutzer](workfront-dam/brand-connect-user/brand-connect-introduction.md)
@@ -573,7 +574,7 @@ ht-degree: 2%
    + [Kommunikation über Arbeit](workfront-home/communicate-about-work-in-workfront-home.md)
    + [Arbeitszeiten protokollieren](workfront-home/log-hours-on-work-in-workfront-home.md)
    + [Zugewiesene Arbeit als abgeschlossen markieren](workfront-home/mark-assigned-work-as-complete.md)
-   + [Genehmigen Sie die Arbeit in [!UICONTROL Startseite]](workfront-home/approve-work-in-workfront-home.md)
+   + [Arbeiten genehmigen in [!UICONTROL Startseite]](workfront-home/approve-work-in-workfront-home.md)
    + [Zusammenarbeit bei der Arbeit mit [!UICONTROL Meine Aktualisierungen]](workfront-home/collaborate-on-work-with-my-updates.md)
    + [Überprüfungsarbeiten in [!UICONTROL Meine Aktualisierungen] oder [!UICONTROL Startseite]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
    + [Aktualisierungen und Benachrichtigungen](manage-work/issues-requests/understand-updates-and-notifications.md)
