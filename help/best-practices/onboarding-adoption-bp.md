@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Was ist eine Adobe Workfront-Best Practice?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
 
 Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
@@ -38,7 +38,7 @@ Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der a
 
 * Legen Sie von Anfang an Zeit für regelmäßige Schulungen für neue und bestehende Benutzer fest, damit diese ihre Kenntnisse über Workfront weiter erweitern können.
 
-* Definieren und erstellen Sie das Framework für ein Workfront-Governance-Forum und die für dieses Forum benötigten sicheren Ressourcen.
+* Definieren und erstellen Sie das Framework für ein Workfront-Governance-Forum und sichern Sie die für dieses Forum benötigten Ressourcen.
 
 * Beginnen Sie mit einem grundlegenden Prozess und durchlaufen Sie ihn langsam, um die Akzeptanz der Benutzer zu steigern. Versuchen Sie nicht, das System oder den neuen Prozess für alle zu machen.
 
@@ -84,7 +84,7 @@ Sehen Sie sich außerdem die Seite Erste Schritte an, um die Grundkurse zu erhal
 
 **Best Practice**
 
-Definieren und erstellen Sie das Framework für ein Workfront-Governance-Forum und die für dieses Forum benötigten sicheren Ressourcen.
+Definieren und erstellen Sie das Framework für ein Workfront-Governance-Forum und sichern Sie die für dieses Forum benötigten Ressourcen.
 
 **Deshalb**
 
@@ -124,7 +124,7 @@ Einrichtung eines Workfront-Exzellenzzentrums, um Best Practices für Unternehme
 
 **Deshalb**
 
-Das Workfront-Exzellenzzentrum setzt sich aus Experten für Ihre Themenbereiche (KMU) zusammen, die Sie bei der Definition Ihrer organisatorischen Best Practices unterstützen und Supportteams dabei unterstützen, zu verstehen, welche diese Best Practices sind und warum.
+Das Workfront-Exzellenzzentrum setzt sich aus Experten für Ihre Themenbereiche (SMEs) zusammen, die Sie bei der Definition Ihrer organisatorischen Best Practices unterstützen und Supportteams dabei unterstützen, zu verstehen, welche diese Best Practices sind und warum.
 
 </br>
 </br>
@@ -151,3 +151,18 @@ Es ist wichtig, dass Benutzer klare Erwartungen erhalten, damit sie wissen, was 
 
 
 Stellen Sie sicher, dass Führungskräfte Mitteilungen mit ihrer Unterstützung verschicken.
+
+</br>
+</br>
+
+
+**Best Practice**
+
+Erstellen und implementieren Sie eine Adoption-Umfrage für Ihre Benutzer, um ein besseres Verständnis darüber zu erhalten, wo sie Probleme haben und wo sie Wert sehen.
+
+**Deshalb**
+
+Unsere erfolgreichsten Kunden haben regelmäßig Feedback gesammelt, um zu verstehen, was einer besseren Umsetzung der Workfront-Lösung im Wege stehen könnte. Durch die Erfassung von Feedback-Daten können Administratoren die richtigen Ressourcen finden, um Verbesserungen zu erzielen. Dieser Leitfaden zu Adoption-Umfragen führt Sie durch die Ausführungs-, Mess-, Planungs- und Überprüfungsphasen einer Umfrage bei Ihren Workfront-Benutzern.
+
+[Laden Sie das Workfront-Handbuch zur Adoption Survey herunter.](../assets/adoption-survey.pdf)
+
