@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
 workflow-type: tm+mt
-source-wordcount: '2392'
+source-wordcount: '2401'
 ht-degree: 2%
 
 ---
@@ -28,13 +28,15 @@ ht-degree: 2%
       + [Wiederherstellen von Objekten aus dem Papierkorb](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + Systemstandardwerte konfigurieren {#configure-system-defaults}
-      + [Globale Standardprojekteinstellungen konfigurieren](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
+      + [Erstellen und Verwalten von Objektstatus](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Grundlegendes zu Standard-Problemtypen](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Erstellen eines Problemstatus](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [Status systemweiter Probleme erstellen](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [Erstellen und Verwalten von Zeitplänen](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
       + [Erstellen und Verwalten von Problemschwerpunkten](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Anpassen von Ausgabetypen und Terminologie](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Allgemeine Standardeinstellungen für Probleme konfigurieren](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [Globale Standardprojekteinstellungen konfigurieren](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
    + Layout-Vorlagen {#layout-templates}
       + [Was sind Layoutvorlagen?](administration-and-setup/layout-templates/what-are-layout-templates.md)
