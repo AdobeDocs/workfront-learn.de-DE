@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2410'
 ht-degree: 2%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 2%
       + [Pinnwandspalten verwalten](boards/manage-board-columns.md)
       + [Hinzufügen von Karten zu einer Pinnwand](boards/add-cards-to-a-board.md)
       + [Karten auf einer Pinnwand verwalten](boards/manage-cards-on-a-board.md)
+      + [Anpassen von Karten auf einer Pinnwand](boards/customize-cards-on-a-board.md)
       + [Hinzufügen und Verwalten von Teammitgliedern für eine Pinnwand](boards/add-and-manage-team-members-for-a-board.md)
       + [Spalteneinstellungen auf einer Pinnwand hinzufügen und bearbeiten](boards/add-and-edit-column-settings-on-a-board.md)
       + [Hinzufügen und Verwalten von Tags für Karten](boards/add-and-manage-tags-for-cards.md)
