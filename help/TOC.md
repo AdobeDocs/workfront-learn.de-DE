@@ -3,7 +3,7 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 2%
@@ -138,18 +138,12 @@ ht-degree: 2%
       + [Ungeplante Arbeit handhaben](manage-work/issues-requests/handle-unplanned-work.md)
       + [Anfrage stellen](manage-work/issues-requests/make-a-request.md)
       + [Suchen nach Anforderungen](manage-work/issues-requests/find-requests.md)
-      + [Anforderungen verwalten](manage-work/issues-requests/manage-incoming-requests.md)
       + [Problemzuweisungen verwalten](manage-work/issues-requests/manage-issue-assignments.md)
       + [Anforderung aktualisieren](manage-work/issues-requests/update-a-request.md)
-      + [Erstellen eines Projekts aus einer Anforderung](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Konvertieren von Problemen in andere Arbeitselemente](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Konvertieren eines Problems/einer Anforderung in ein Projekt](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Konvertieren eines Problems/einer Anforderung in eine Aufgabe](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Digitale Arbeit überprüfen und genehmigen](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Problembericht](manage-work/issues-requests/report-on-issues.md)
-
-   + Portfolios {#portfolios}
-      + [Überblick über Portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Einführung in den Geschäftsfall](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Priorisieren und Verwalten der Arbeit mit Portfolios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Anforderungswarteschlangen {#request-queues}
       + [Anforderungswarteschlangen verstehen](manage-work/request-queues/understand-request-queues.md)
@@ -157,6 +151,11 @@ ht-degree: 2%
       + [Anforderungswarteschlange erstellen](manage-work/request-queues/create-a-request-queue.md)
       + [Anforderungsfluss erstellen](manage-work/request-queues/create-a-request-flow.md)
       + [Antworten auf häufig gestellte Fragen zu Anforderungswarteschlangen](manage-work/request-queues/request-queue-faq.md)
+
+   + Portfolios {#portfolios}
+      + [Überblick über Portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Einführung in den Geschäftsfall](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Priorisieren und Verwalten der Arbeit mit Portfolios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
       + [Erstellen eines Validierungsprozesses für die einmalige Verwendung](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)

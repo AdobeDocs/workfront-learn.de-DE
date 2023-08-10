@@ -1,27 +1,35 @@
 ---
 title: Suchen nach Anforderungen
-description: Erfahren Sie, wie Sie Dashboards verwenden können. [!UICONTROL Startseite], die [!UICONTROL Anforderungen] und der [!UICONTROL Teams] Seite, um eingehende Anfragen zu finden, die über eine Anforderungswarteschlange gestellt wurden.
+description: Erfahren Sie, wie Sie Dashboards verwenden können. [!UICONTROL Startseite], die [!UICONTROL Anforderungen] und der [!UICONTROL Teams] -Seite, um eingehende Anfragen zu finden, die über eine Anforderungswarteschlange gestellt wurden.
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: find-requests.jpeg
+thumbnail: 3422686.jpg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
+last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Suchen nach Anforderungen
 
-Wo Sie Anforderungen finden, kann variieren. Sprechen Sie daher mit Ihrem internen [!DNL  Workfront] Team, um herauszufinden, wie Sie die Aufnahme von Anfragen verwalten. Einige Orte in [!DNL Workfront] wo Sie Anforderungen finden können:
+In diesem Video erfahren Sie, wie Sie Anforderungen finden, denen Sie zugewiesen sind, Anforderungen, die Sie erstellt haben, und Anforderungen, die Sie verwalten.
 
-* **Dashboards:** Viele [!DNL Workfront] -Kunden schreiben benutzerdefinierte Berichte, die eingehende Anforderungen anzeigen, in Projekte konvertierte Anforderungen verfolgen und vieles mehr. Diese einzelnen Berichte werden zu einem Dashboard zusammengestellt, sodass alles einfach und schnell angezeigt werden kann. [!DNL Workfront] empfiehlt diese Methode der Anforderungsverwaltung, da sie an die Anforderungen Ihres Unternehmens angepasst werden kann.
-* **[!UICONTROL Startseite]:** Anforderungen werden als Problem bezeichnet, da das Backend von [!DNL Workfront] verarbeitet eine Anfrage, die über eine Anforderungswarteschlange gestellt wurde.
-* **[!UICONTROL Anfragebereich]**: Die [!UICONTROL Gesendet] -Seite zeigt standardmäßig die Anfragen an, auf die Sie Zugriff haben, die noch geöffnet oder nicht aufgelöst sind. Ändern Sie die [!UICONTROL Filter] um alle gesendeten Anfragen anzuzeigen, auf die Sie Zugriff haben, nur Ihre Anfragen oder nur Ihre offenen Anfragen. Um die Details zu einer Anforderung schnell anzuzeigen, wählen Sie sie in der Liste aus und öffnen Sie den Übersichtsbereich.
-* **[!UICONTROL Teams] Seite:** Wenn Anforderungen an ein Team weitergeleitet werden, erscheinen sie im [!UICONTROL Teams] in der [!UICONTROL Team-Anforderungen] Abschnitt. Von dort aus können Teammitglieder selbst Arbeit zuweisen oder ein Teamleiter kann Arbeit zuweisen.
+Sie erfahren, wie Sie diese Anfragen an den folgenden Orten finden:
+
+* Workfront [!UICONTROL Startseite]
+* Die [!UICONTROL Anforderungen] area
+* Die [!UICONTROL Teams] page
+* In einem benutzerdefinierten Dashboard
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+
+Wenn Sie erfahren möchten, wie Sie benutzerdefinierte Berichte erstellen und in ein Dashboard einfügen, finden Sie im Abschnitt [Grundkurs zur Berichterstellung](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)
