@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -32,13 +32,13 @@ In diesem Video lernen Sie Folgendes:
 
 Die [!UICONTROL Optionen] kann vom Systemadministrator ausgeblendet werden, wenn Sie die festgelegten Standardeinstellungen verwenden möchten. Wenn die Variable [!UICONTROL Optionen] angezeigt, was die Optionen bedeuten:
 
-**Behalten Sie das ursprüngliche Problem bei und binden Sie seine Lösung an dieses Projekt.**
+**Behalten Sie das ursprüngliche Problem bei und binden Sie die Lösung an dieses Projekt**
 
 Wenn diese Option aktiviert ist, wird das ursprüngliche Problem beim Abschluss des Projekts als behoben markiert. Wenn diese Option **not** ausgewählt wurde, wird das ursprüngliche Problem bei der Projekterstellung gelöscht.
 
 **Zugriff auf dieses Projekt zulassen (Benutzername)**
 
-Wenn diese Option aktiviert ist, erhält die Person, die die Anfrage gestellt hat (oder in deren Namen die Anfrage gesendet wurde) nach der Erstellung automatisch Zugriffsrechte auf das neue Projekt. Wenn diese Option **not** ausgewählt wurde, erhalten sie keine Rechte.
+Wenn diese Option aktiviert ist, erhält die Person, die die Anfrage gestellt hat (oder in deren Namen die Anfrage gesendet wurde) nach der Erstellung automatisch Zugriffsrechte auf das neue Projekt. Wenn diese Option **not** ausgewählt wurde, werden ihnen keine Rechte automatisch zugewiesen.
 
 ![Ein Bild eines Projektbildschirms mit Konvertierungsoptionen](assets/conversion-options.png)
 
