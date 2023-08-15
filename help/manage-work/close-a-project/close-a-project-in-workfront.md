@@ -11,19 +11,19 @@ team: Technical Marketing
 jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d34e7acf962b6205d0912b2e40f9a4e2582772fa
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 # Projekt schließen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video erfahren Sie mehr über:
 
 * Informationen, die in [!DNL Workfront] vor dem Schließen eines Projekts
-* Warum es wichtig ist, aktualisierte Daten zu haben
+* Warum es wichtig ist, Daten zu aktualisieren
 * Fragen, die Sie stellen können, um Sie bei der Verbesserung künftiger Projekte zu unterstützen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12&learn=on)
