@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,11 @@ Im Detailfenster können Sie die Einstellungen des neuen Projekts ändern.
 
 >[!NOTE]
 >
->Um ein Projekt mit dieser Methode zu erstellen, benötigen Sie Zugriff auf den Bereich &quot;Vorlagen&quot;von Workfront. Wenn Sie nicht auf Vorlagen zugreifen können, können Sie weiterhin eine Vorlage verwenden, um ein Projekt aus dem Bereich &quot;Projekte&quot;zu erstellen oder ein Problem/eine Aufgabe zu konvertieren.
+>Um ein Projekt mit dieser Methode zu erstellen, benötigen Sie Zugriff auf den Bereich &quot;Vorlagen&quot;von Workfront. Wenn Sie nicht auf Vorlagen zugreifen können, können Sie weiterhin eine Vorlage verwenden, um ein Projekt aus dem Projektbereich oder beim Konvertieren eines Problems/einer Aufgabe zu erstellen.
 
-**Pro-Tipp**: Wenn es eine Vorlage gibt, die Sie häufig verwenden, machen Sie sie zu einem Favoriten! Die Vorlage wird im Menü Neues Projekt aufgelistet und zusätzlich im Menü Favoriten und Neueste in der Navigationsleiste angezeigt.
+>[!TIP]
+>
+>Wenn es eine Vorlage gibt, die Sie häufig verwenden, machen Sie sie zu einem Favoriten! Die Vorlage wird im Menü Neues Projekt aufgelistet und zusätzlich im Menü Favoriten in der Navigationsleiste angezeigt.
+
 
 ![Neue Projektvorlagen](assets/direct-template-03.png)

@@ -7,12 +7,13 @@ feature: Work Management
 thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
+last-substantial-update: 2023-08-16T00:00:00Z
 level: Intermediate
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -23,14 +24,20 @@ Stellen Sie sicher, dass die Aufgaben so vorankommen, wie sie die Projektzeiträ
 
 ## Prozent abgeschlossen
 
-Der Prozentsatz, der für jede Aufgabe abgeschlossen wird, wird manchmal verwendet, um den Fortschritt der Arbeit zu messen. Es ist wichtig zu beachten...Dieses Feld muss manuell angepasst werden, da der Bevollmächtigte schätzt, wie weit sie sind.
+Der Prozentsatz, der für jede Arbeitsaufgabe abgeschlossen ist, wird manchmal verwendet, um den Fortschritt der Arbeit zu messen. Beachten Sie, dass dieses Feld manuell angepasst werden muss, da der Bevollmächtigte schätzt, wie weit sie sind.
 
-![Liste der Projektaufgaben [!UICONTROL Prozent abgeschlossen] column](assets/planner-fund-task-percent-complete.png)
+>[!TIP]
+>
+>Auch wenn der prozentuale Anteil, der mit Arbeitsaufgaben fertig gestellt ist, manuell aktualisiert werden muss, wird der prozentuale Abschluss einer Hauptaufgabe von Workfront basierend auf dem Prozentsatz der Fertigstellung und entweder auf der Dauer oder den geplanten Stunden jeder Unteraufgabe berechnet. Das bedeutet, dass Sie eine bessere Prozentgenauigkeit erhalten, wenn Sie große Aufgaben in kleinere Unteraufgaben unterteilen.
 
-Es gibt zwei Male, wenn sich der prozentuale Abschluss automatisch ändert:
 
-Wenn die Aufgabe [!UICONTROL Status] auf &quot;Fertig stellen&quot;eingestellt ist, wird der Prozentsatz für die Fertigstellung auf 100 gesetzt.
-Wenn die Aufgabe [!UICONTROL Status] wird zurück auf Neu gesetzt, wird der prozentuale Abschluss auf 0 zurückgesetzt.
+![Liste der Projektaufgaben anzeigen [!UICONTROL Prozent abgeschlossen] column](assets/planner-fund-task-percent-complete.png)
+
+Es gibt dreimal, wenn sich der prozentuale Abschluss automatisch ändert:
+
+* Wenn die Aufgabe [!UICONTROL Status] auf &quot;Fertig stellen&quot;eingestellt ist, wird der Prozentsatz für die Fertigstellung auf 100 gesetzt.
+* Wenn die Aufgabe [!UICONTROL Status] wird zurück auf Neu gesetzt, wird der prozentuale Abschluss auf 0 zurückgesetzt.
+* In einer übergeordneten Aufgabe, wenn sich der Prozentsatz des Abschlusses einer untergeordneten Aufgabe ändert.
 
 ## Status
 
@@ -42,8 +49,10 @@ Fügen Sie die [!UICONTROL Status] in einer Spalte [!UICONTROL Ansicht] um schne
 
 ## Aufgabenbeschränkung
 
-Manchmal werden Aufgabenbegrenzungen geändert und Sie erkennen sie nicht. Einschränkungen können sich auf das Verhalten Ihrer Timeline auswirken, sodass Sie überprüfen können, ob sie festgelegt wurden, wie Sie sie verwenden möchten.
+Manchmal werden Aufgabenbegrenzungen geändert und Sie erkennen sie nicht. Einschränkungen können sich auf das Verhalten Ihrer Timeline auswirken. Stellen Sie also sicher, dass sie so eingerichtet sind, wie Sie sie möchten.
 
 ![Aufgabenliste des Projekts mit Spalte für Aufgabeneinschränkungen](assets/planner-fund-task-constraint.png)
 
-Erstellen Sie eine benutzerdefinierte Ansicht mit [!UICONTROL Aufgabenbegrenzung] um diese Informationen in Ihrer Aufgabenliste anzuzeigen. Wenn Sie das Projekt von einem Startdatum an geplant haben, sollen Ihre Aufgaben über die [!UICONTROL So bald wie möglich] ([!UICONTROL ASAP]).
+Erstellen Sie eine benutzerdefinierte Ansicht, die die [!UICONTROL Aufgabenbegrenzung] -Spalte, um diese Informationen in Ihrer Aufgabenliste anzuzeigen. Wenn Sie das Projekt von einem Startdatum an geplant haben, sollen Ihre Aufgaben die [!UICONTROL So bald wie möglich] ([!UICONTROL ASAP]).
+
+Weitere Informationen zu Aufgabenbegrenzungen finden Sie unter [Typen und Aufgabenbegrenzungen von Dauer verstehen und verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).

@@ -8,27 +8,30 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 # Vollständige Genehmigungen
 
-Genehmigungen von Aufgaben und Problemen sind Teil vieler Workflows. Nicht aufgelöste Genehmigungen können Sie jedoch daran hindern, den Projektstatus auf &quot;Fertig stellen&quot;festzulegen.
+Genehmigungen von Aufgaben und Problemen sind Teil vieler Workflows. Ungelöste Genehmigungen verhindern jedoch, dass Sie den Projektstatus auf &quot;Fertig stellen&quot;setzen.
 
-Im [!UICONTROL Aufgabe] im Abschnitt Ihres Projekts ein [!UICONTROL Ansicht] , die Folgendes enthält: [!UICONTROL Status] Spalte. Ein kurzer Blick in diese Spalte zeigt, ob eine Aufgabe mit dem Wert[!UICONTROL -Genehmigung ausstehend]&quot; nach dem Namen des Status.
+Im [!UICONTROL Aufgabe] im Abschnitt Ihres Projekts ein [!UICONTROL Ansicht] , die Folgendes enthält: [!UICONTROL Status] Spalte. Ein kurzer Blick in diese Spalte zeigt, ob eine Aufgabe mit dem Wert[!UICONTROL - Ausstehende Genehmigung]&quot; nach dem Namen des Status.
 
-![Projekt mit unvollständiger Genehmigung](assets/planner-fund-approval-pending.png)
+![Projekt mit unvollständiger Genehmigung](assets/approval-pending.png)
 
 Sie haben einige Möglichkeiten, wie Sie vorgehen können:
 
-* **die Genehmigung ausfüllen —** Dies kann bedeuten, andere an die noch ausstehende Genehmigung zu erinnern. Führen Sie dazu eine Aktualisierung durch [!DNL Workfront]. Je nach [!DNL Workfront] -Berechtigungen, können Sie die Genehmigung möglicherweise selbst abschließen.
+* **die Genehmigung ausfüllen —** Dies kann bedeuten, andere an die noch ausstehende Genehmigung zu erinnern. Sie können sehen, wer als Genehmiger zugewiesen wurde, indem Sie die Aufgabe öffnen und auf die Registerkarte Genehmigungen klicken.
 * **Entfernen Sie die Genehmigung —** Wenn die Validierung nicht erforderlich ist, kann es einfacher sein, sie einfach zu löschen. Ihre Fähigkeit dazu hängt von Ihrer [!DNL Workfront] Berechtigungen.
-* **Status ändern —** Wählen Sie einen Status aus, an den keine Genehmigung angehängt ist. Stellen Sie sicher, dass der Status &quot;Complete&quot;entspricht.
+* **Status ändern —** Wenn die Validierung nicht erforderlich ist, können Sie einen Status auswählen, an den keine Validierung angehängt ist. Stellen Sie sicher, dass der Status &quot;Complete&quot;entspricht.
+
+![Projekt zur Anzeige von Aufgabenvalidierern](assets/task-approvers.png)
 
 Wenn Ihr Unternehmen Probleme verwendet, um Probleme zu verfolgen, Bestellungen zu ändern oder andere Ereignisse während des Projekts zu ändern, führen Sie dieselben Schritte für die [!UICONTROL Probleme] -Abschnitt Ihres Projekts.
