@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a63de5541cbe92d1dbea286caf5465df0bbdce9a
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,8 @@ ht-degree: 0%
 
 Einer der ersten Schritte zum Schließen eines [!DNL Workfront] -Projekt stellt sicher, dass alle Aufgaben und Probleme den Status Abgeschlossen oder einen gleichwertigen Status aufweisen.
 
-Beginnen Sie mit der Aufgabenliste und wählen Sie eine [!UICONTROL Ansicht] , die [!UICONTROL Prozent abgeschlossen] oder [!UICONTROL Status] Spalte oder beides. Durch einen schnellen Scan in der Aufgabenliste können Sie bestimmen, welche Aufgaben nicht Statusänderungen erfahren haben.
+Wenn die Variable [!UICONTROL Prozent abgeschlossen] im Projektheader zeigt 100 % an, dass alle Ihre Aufgaben als zu 100 % abgeschlossen gekennzeichnet sind. Eine Aufgabe, die [!UICONTROL Complete - Ausstehende Genehmigung] wird immer noch als 100% gelesen, also vergiss nicht, nach diesen zu suchen. Siehe [Vollständige Genehmigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) für alle Tipps zu Genehmigungen.
 
-![Projekt anzeigen [!UICONTROL Prozent abgeschlossen] column](assets/planner-fund-close-tasks-and-issues.png)
+Wenn Sie unvollständige Probleme haben, auch solche, für die eine Genehmigung aussteht, wird neben der Registerkarte Probleme eine Zahl angezeigt, die angibt, wie viele Probleme vorliegen. Wenn die Zahl null ist, treten keine unvollständigen Probleme auf.
 
-Nicht jedes Unternehmen verwendet [!DNL Workfront's] Problemfunktionen zum Aufzeichnen oder Beheben von Problemen, Ändern von Bestellungen usw., die während des Projekts aufgetreten sind. Wenn Sie dies tun, wechseln Sie zum [!UICONTROL Probleme] und stellen Sie sicher, dass alle Probleme gelöst wurden.
-
-<!---
-learn more
-Update task status
-Issue statuses
---->
+![Projekt anzeigen [!UICONTROL Prozent abgeschlossen] und offene Probleme](assets/close-tasks-and-issues.png)
