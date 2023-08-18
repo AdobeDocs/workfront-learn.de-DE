@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '2414'
+source-wordcount: '2416'
 ht-degree: 2%
 
 ---
@@ -154,8 +154,8 @@ ht-degree: 2%
 
    + Portfolios {#portfolios}
       + [Überblick über Portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Einführung in den Geschäftsfall](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Priorisieren und Verwalten der Arbeit mit Portfolios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Verstehen Sie die [!UICONTROL Geschäftsfall]](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Verwenden Sie die [!UICONTROL Portfolio Optimizer] die Arbeit priorisieren und verwalten](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
       + [Erstellen eines Validierungsprozesses für die einmalige Verwendung](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
