@@ -10,7 +10,7 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -30,13 +30,13 @@ In der Checkliste für geerbte Instanzen überprüfen Sie einen umfassenden Satz
 
 Die Checkliste wurde sowohl als Workfront-Blueprint als auch als herunterladbare Excel-Tabelle erstellt. Wir empfehlen die Verwendung des Blueprints zum Verwalten und Dokumentieren Ihrer Arbeit direkt in Workfront.
 
-Sowohl das Blueprint als auch das Arbeitsblatt sind nach Themen geordnet und nicht nach Zeitplänen, sodass Sie so vorankommen können, dass dies für Sie und Ihre Organisation am sinnvollsten ist. . Die angegebenen Zeiträume sind nur ein Beispiel und sollten an Ihre spezifischen Bedürfnisse angepasst werden. Das muss nicht alles in einer Sitzung geschehen!
+Sowohl das Blueprint als auch das Arbeitsblatt sind nach Themen geordnet und nicht nach Zeitplänen, sodass Sie so vorankommen können, dass dies für Sie und Ihre Organisation am sinnvollsten ist. Die angegebenen Zeiträume sind nur ein Beispiel und sollten an Ihre spezifischen Bedürfnisse angepasst werden. Das muss nicht alles in einer Sitzung geschehen!
 
 Wenn möglich, empfehlen wir Ihnen, mit anderen in Ihrer Organisation zusammenzuarbeiten, um diese Elemente zu überprüfen und zu dokumentieren und Ihre Dokumentation auf dem neuesten Stand zu halten, wenn wesentliche Änderungen vorgenommen werden. Zukünftige Administratoren in Ihrer Instanz werden Ihnen danken!
 
-* Um das Blueprint herunterzuladen, navigieren Sie zum Hauptmenü in Ihrer eigenen Workfront-Instanz und wählen Sie Blueprints aus. Suchen Sie nach dem Blueprint mit dem Titel &quot;Vererbte Instanzgrundlagen&quot; | Checkliste&quot;und klicken Sie auf &quot;Installieren&quot;. Wählen Sie Ihre Produktions- oder Sandbox-Umgebung aus und konfigurieren Sie sie weiter. Weitere Informationen zur Installation und Konfiguration von Blueprints finden Sie unter [here](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>So laden Sie die Blueprint herunter</b>, navigieren Sie zum Hauptmenü in Ihrer eigenen Workfront-Instanz und wählen Sie Blueprints aus. Suchen Sie nach dem Blueprint mit dem Titel &quot;Vererbte Instanzgrundlagen&quot; | Checkliste&quot;und klicken Sie auf &quot;Installieren&quot;. Wählen Sie Ihre Produktions- oder Sandbox-Umgebung aus und konfigurieren Sie sie weiter. Weitere Informationen zur Installation und Konfiguration von Blueprints finden Sie unter [here](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* Um die Excel-Checkliste herunterzuladen, klicken Sie auf [here](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>So laden Sie Excel herunter</b> Checkliste, klicken Sie [here](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 Unabhängig davon, ob Sie die Blueprint- oder Excel-Checkliste verwenden, können Sie sich diesen Prozess in drei Schlüsselphasen vorstellen: Erkennung, Prüfung und Dokumentation. Nachfolgend finden Sie Beschreibungen und ideale Ergebnisse.
 
