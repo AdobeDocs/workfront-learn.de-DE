@@ -10,9 +10,9 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,24 @@ ht-degree: 0%
 
 Das Wunderbare an Workfront ist, dass es so anpassbar ist. Die Herausforderung an Workfront besteht darin, dass es so anpassbar ist. Und wenn Sie ein neues System oder eine Gruppe sind und eine bestehende Workfront-Instanz übernehmen, kann es überwältigend sein, herauszufinden, wie sie ursprünglich konfiguriert und eingerichtet wurde.
 
-Über unsere Checkliste für geerbte Instanzen können Sie jedoch alles erfahren, was Sie über Ihre Instanz wissen müssen.\
-<br>
-</br>
-<a href="assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Checkliste für die geerbte Instanz herunterladen </span>
-</a>
+Über unsere Checkliste für geerbte Instanzen können Sie jedoch alles erfahren, was Sie über Ihre Instanz wissen müssen.
 
-![Checklisten-Bild für geerbte Instanzen](assets/wf-inherited-instance-imagel.jpg)
+![Checklisten-Bild für geerbte Instanzen](assets/wf-inherited-instance-image.png)
+<br></br>
 
-In dieser Checkliste werden Sie einen umfassenden Satz von Fragen, Ressourcen und Links überprüfen, um ein klares Verständnis der Konfiguration zu erhalten.
+In der Checkliste für geerbte Instanzen überprüfen Sie einen umfassenden Satz von Fragen, Ressourcen und Links, um ein klares Verständnis der Konfiguration zu erhalten.
 
-Darüber hinaus haben wir drei wichtige Phasen beschrieben, die Sie durchlaufen werden - Erkennung, Audit und Dokumentation - mit empfohlenen Zeitabständen. Diese können Ihren Bedürfnissen angepasst werden und müssen nicht alle in einer Sitzung erledigt werden!
+Die Checkliste wurde sowohl als Workfront-Blueprint als auch als herunterladbare Excel-Tabelle erstellt. Wir empfehlen die Verwendung des Blueprints zum Verwalten und Dokumentieren Ihrer Arbeit direkt in Workfront.
 
-Die Registerkarten im Arbeitsblatt sind nach Thema und nicht nach Zeitleiste geordnet, sodass Sie das Dokument so durchlaufen können, wie es für Sie und Ihre Organisation am sinnvollsten ist.
+Sowohl das Blueprint als auch das Arbeitsblatt sind nach Themen geordnet und nicht nach Zeitplänen, sodass Sie so vorankommen können, dass dies für Sie und Ihre Organisation am sinnvollsten ist. . Die angegebenen Zeiträume sind nur ein Beispiel und sollten an Ihre spezifischen Bedürfnisse angepasst werden. Das muss nicht alles in einer Sitzung geschehen!
 
-Wenn möglich, empfehlen wir Ihnen, mit anderen in Ihrer Organisation zusammenzuarbeiten, um diese Elemente zu überprüfen und zu dokumentieren und dieses Dokument bei größeren Änderungen auf dem neuesten Stand zu halten. Zukünftige Administratoren in Ihrer Instanz werden Ihnen danken!
+Wenn möglich, empfehlen wir Ihnen, mit anderen in Ihrer Organisation zusammenzuarbeiten, um diese Elemente zu überprüfen und zu dokumentieren und Ihre Dokumentation auf dem neuesten Stand zu halten, wenn wesentliche Änderungen vorgenommen werden. Zukünftige Administratoren in Ihrer Instanz werden Ihnen danken!
 
+* Um das Blueprint herunterzuladen, navigieren Sie zum Hauptmenü in Ihrer eigenen Workfront-Instanz und wählen Sie Blueprints aus. Suchen Sie nach dem Blueprint mit dem Titel &quot;Vererbte Instanzgrundlagen&quot; | Checkliste&quot;und klicken Sie auf &quot;Installieren&quot;. Wählen Sie Ihre Produktions- oder Sandbox-Umgebung aus und konfigurieren Sie sie weiter. Weitere Informationen zur Installation und Konfiguration von Blueprints finden Sie unter [here](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+
+* Um die Excel-Checkliste herunterzuladen, klicken Sie auf [here](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+
+Unabhängig davon, ob Sie die Blueprint- oder Excel-Checkliste verwenden, können Sie sich diesen Prozess in drei Schlüsselphasen vorstellen: Erkennung, Prüfung und Dokumentation. Nachfolgend finden Sie Beschreibungen und ideale Ergebnisse.
 
 <br>
 </br>
@@ -52,7 +53,7 @@ Hierzu gehören die Durchführung von Interviews mit Interessengruppen und die �
 
 Wenn Sie aus technologischer Sicht nicht mit Workfront vertraut sind, führen Sie das Systemadministratortraining durch. Dies bietet den erforderlichen Einblick in die Funktionsweise verschiedener Einstellungen und deren Auswirkungen auf jedes Tool und möglicherweise jeden Benutzer in Workfront.
 
-Am Ende dieser Phase sollten Sie Folgendes haben:
+Am Ende dieser Phase sollten Sie über Folgendes verfügen:
 
 * Ein klares Verständnis der Gründe für die Verwendung von Workfront durch Ihr Unternehmen
 
@@ -64,11 +65,11 @@ Am Ende dieser Phase sollten Sie Folgendes haben:
 
 ## Phase 2: Systemprüfung
 
-<b>Empfohlener Zeitrahmen: 4 Wochen </b>
+<b>Vorgeschlagener Zeitraum: 4 Wochen </b>
 
 Nach der ersten Erkennung wird empfohlen, eine technischere Prüfung Ihrer Instanz durchzuführen. Daher müssen Sie Änderungen oder Verbesserungen festlegen, die möglicherweise vorgenommen werden müssen, um sicherzustellen, dass Ihre aktuelle Einrichtung und Konfiguration Ihren geschäftlichen Anforderungen und Anforderungen entspricht.
 
-Am Ende dieser Phase sollten Sie Folgendes haben:
+Am Ende dieser Phase sollten Sie über Folgendes verfügen:
 
 * Einen tieferen Überblick über den aktuellen Status Ihrer Instanz
 
@@ -78,7 +79,7 @@ Am Ende dieser Phase sollten Sie Folgendes haben:
 
 ## Phase 3: Dokumentation und Optimierung
 
-<b>Empfohlener Zeitrahmen: Initial = 2 Wochen; Kontinuierliche Aktualisierung </b>
+<b>Vorgeschlagener Zeitraum: Anfänglich = 2 Wochen; fortlaufende Aktualisierung </b>
 
 Basierend auf dem, was Sie in den Phasen 1 und 2 gelernt haben, möchten Sie eine Dokumentation Ihrer Instanz erstellen, aktualisieren und erstellen Fahrpläne, um strategische und programmspezifische Herausforderungen zu bewältigen.
 
@@ -97,6 +98,7 @@ Indem Sie jede Phase mithilfe der Checkliste für geerbte Instanzen durchlaufen,
 </br>
 
 Weitere Informationen finden Sie unten:
+* [Webinar: Tipps zur Übernahme einer geerbten Instanz](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Festlegen von Zielen für Ihre Workfront-Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
-* [Blogpost: Sponsoring und Mehrwert für Führungskräfte](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
+* [Blog-Beitrag: Executive Sponsoring and Value to Leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
 * [Blog-Beitrag: Einführung in Adobe Workfront-KPIs](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
