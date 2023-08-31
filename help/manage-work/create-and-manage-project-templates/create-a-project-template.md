@@ -11,28 +11,40 @@ team: Technical Marketing
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 18d4628f9b614a459d2d018938b2786db760e163
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # Erstellen einer Projektvorlage
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Erstellen einer Vorlage von Grund auf
 * Erstellen einer Vorlage aus einem vorhandenen Projekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## Erstellen einer Vorlage mit Blueprints
+## Vorlagen, die mit [!UICONTROL Blueprints]
 
-Systemadministratoren können Blueprints verwenden, um Projektvorlagen zu erstellen. Diese im Hauptmenü gelegene Funktion ermöglicht den Zugriff auf vordefinierte, einsatzbereite Vorlagen, die auf eine Abteilung und eine bestimmte Reifegrad ausgerichtet sind. Diese Vorlagen bieten Benutzern einen Vorsprung bei der wiederholbaren Projekterstellung und helfen dabei, Projekte ähnlich dem Umfang konsistent zu halten.
-
-Obwohl Projektvorlagen mit Blueprints beim Erstellen von Projekten verwendet werden können, können Sie einen Blueprint nicht direkt beim Erstellen eines neuen Projekts anwenden (z. B. beim Konvertieren einer Aufgabe oder einer Anforderung in ein Projekt). Eine wichtige Unterscheidung zwischen einem Blueprint und einer Projektvorlage besteht darin, dass ein Blueprint verwendet wird, um eine Vorlage zu erstellen, während eine Projektvorlage zum Erstellen eines Projekts verwendet wird.
+Systemadministratoren können [!UICONTROL Blueprints] , um Projektvorlagen zu erstellen. Diese im Hauptmenü gelegene Funktion ermöglicht den Zugriff auf vordefinierte, einsatzbereite Vorlagen, die auf eine Abteilung und eine bestimmte Reifegrad ausgerichtet sind. Diese Vorlagen bieten Benutzern einen Vorsprung bei der wiederholbaren Projekterstellung und helfen dabei, Projekte ähnlich dem Umfang konsistent zu halten.
 
 ![Blueprints im Hauptmenü](assets/pt-blueprints-01.png)
 
-Um einen Blueprint in Ihrer Produktions- oder Sandbox-Umgebung zu installieren, wählen Sie im Hauptmenü Blueprints aus. Durchsuchen Sie den Katalog oder verwenden Sie die Option Nach Typ filtern im Filtermenü auf der rechten Seite, um den Entwurf zu finden und zu installieren, der am besten zu Ihrem Projekt passt. Konfigurieren Sie bei Bedarf Details zur Projektvorlage, z. B. die Zuordnung der Auftragsrollen des Blueprints zu den Auftragsrollen Ihres Unternehmens, bevor Sie den Blueprint installieren. Nach der Installation des Blueprints können Sie die neue Vorlage entsprechend den Anforderungen Ihres Unternehmens ändern.
+Als Planer können Sie die Liste der in Workfront verfügbaren Blueprints durchsuchen. Sie können einen Blueprint nicht direkt beim Erstellen eines neuen Projekts anwenden (z. B. beim Konvertieren einer Aufgabe oder Anforderung in ein Projekt). Eine wichtige Unterscheidung zwischen einem Blueprint und einer Projektvorlage besteht darin, dass ein Blueprint verwendet wird, um eine Vorlage zu erstellen, während eine Projektvorlage zum Erstellen eines Projekts verwendet wird. Der Blueprint muss von einem Systemadministrator installiert werden, damit die entsprechende Vorlage erstellt werden kann.
+
+Wenn Sie einen interessanten Blueprint finden, können Sie auf **[!UICONTROL Details]** , um mehr darüber zu erfahren.
+
+![Liste der Blueprints](assets/pt-blueprints-02.png)
+
+Die [!UICONTROL Details] -Bildschirm werden weitere Informationen zum Blueprint erläutert, einschließlich des Installationsverlaufs, wenn der Blueprint installiert wurde.
+
+![Details zur Verwendung eines Blueprints](assets/pt-blueprints-03.png)
+
+Wenn der Blueprint installiert wurde, können Sie auf **[!UICONTROL Siehe Details]** , um Links zur erstellten Vorlage und allen anderen Objekten zu erhalten, die zur Unterstützung der Vorlage erstellt wurden.
+
+![Details zur Installation eines Blueprints](assets/pt-blueprints-04.png)
+
+Wenn der Blueprint noch nicht installiert wurde, können Sie ihn von Ihrem Systemadministrator anfordern.
