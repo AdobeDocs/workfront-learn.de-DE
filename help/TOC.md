@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2426'
 ht-degree: 2%
 
 ---
@@ -165,7 +165,7 @@ ht-degree: 2%
       + [Meilensteine anwenden](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + Erstellen und Verwalten von Projektvorlagen {#create-and-manage-project-templates}
-      + [Erstellen einer Projektvorlage](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Erstellen Sie eine Projektvorlage und erfahren Sie mehr über Blueprints](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Projekt direkt aus einer Vorlage erstellen](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Projektvorlage freigeben](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Vorhandenes Projekt kopieren](manage-work/manage-projects/copy-an-existing-project.md)
