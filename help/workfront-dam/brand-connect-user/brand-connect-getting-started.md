@@ -1,6 +1,6 @@
 ---
-title: Brand Connect in [!UICONTROL Workfront DAM] Erläuterung
-description: Erfahren Sie mehr über die Funktionen von Brand Connect in [!UICONTROL Workfront DAM] ist und wie sie navigiert.
+title: Grundlegendes zur Navigation und Suche als Benutzer
+description: Erfahren Sie mehr über die Funktionen von Brand Connect in [!UICONTROL WORKFRONT DAM] ist und wie sie navigiert.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Brand Connect: Erste Schritte
+# Brand Connect: Grundlegendes zur Navigation und Suche als Benutzer
 
 In diesem Video erfahren Sie:
 
@@ -59,14 +59,14 @@ Wenn Sie ein Wort aus den Suchergebnissen ausschließen möchten, setzen Sie ein
 
 ### Operator für leeres Feld
 
-Um nach Assets zu suchen, die keine Informationen in einem bestimmten Metadatenfeld enthalten, geben Sie das Feld ein, das Sie in diesem Format suchen möchten: ?[xxxxxxx]. Wenn Sie beispielsweise Assets suchen möchten, denen keine Keywords zugewiesen sind, geben Sie ? ein.[Keyword] im Suchfeld.
+Um nach Assets zu suchen, die keine Informationen in einem bestimmten Metadatenfeld enthalten, geben Sie das Feld ein, das Sie in diesem Format suchen möchten: ?[xxxxxxx]. Wenn Sie beispielsweise nach Assets suchen möchten, denen keine Suchbegriffe zugewiesen sind, geben Sie ? ein.[Keyword] im Suchfeld.
 
 ## Markenrichtlinien
 
 Markenrichtlinien sind eine Reihe von Regeln, die erklären, wie die Marke Ihres Unternehmens funktioniert. Diese Richtlinien können auch als Markenstandards, Stilhandbuch, Markenbuch oder Markenidentitätshandbücher bezeichnet werden und umfassen:
 
-* Ein Überblick über die Geschichte, Vision, Persönlichkeit und den Ton Ihrer Marke.
-* Die Aufgaben und nicht die Verwendung des Firmenlogos.
+* Ein Überblick über Geschichte, Vision, Persönlichkeit und Ton Ihrer Marke.
+* Die DOS und verwenden nicht das Firmenlogo.
 * Beispiele für Schriftarten, die für die Druck- und Webverwendung zugelassen sind.
 * Aufschlüsselung der primären und sekundären Farben des Unternehmens.
 * Beispiele für Bildstile und Fotos, die gut mit der Marke funktionieren.
