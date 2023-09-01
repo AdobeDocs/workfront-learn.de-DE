@@ -1,5 +1,5 @@
 ---
-title: Erstellen eines Kalenders
+title: Erstellen eines Kalenderberichts
 description: Erfahren Sie, wie Sie einen Kundenkalender erstellen, der Ihre unvollständigen Aufgaben und Probleme anzeigt.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 1%
 
 ---
 
-# Erstellen eines Kalenders
+# Erstellen eines Kalenderberichts
 
 In dieser Aktivität erhalten Sie praktische Erfahrungen beim Erstellen Ihres eigenen Kalenders.
 
@@ -55,7 +55,7 @@ Schließen Sie eine weitere Kalendergruppe mit dem Namen &quot;Unvollständige P
 
    ![Ein Bild des Bildschirms zum Hinzufügen von Elementen zu einem Kalender](assets/calendar-activity-2.png)
 
-1. Erstellen Sie eine zweite Gruppierung, indem Sie auf Zum Kalender hinzufügen klicken.
+1. Erstellen Sie eine zweite Gruppierung durch Klicken auf Zum Kalender hinzufügen .
 1. Klicken Sie unter dieser Gruppierung auf Erweiterte Elemente hinzufügen.
 1. Nennen Sie im sich öffnenden Fenster Elemente zum Kalender hinzufügen die Gruppe &quot;Unvollständige Probleme&quot;.
 1. Wählen Sie Blau als Farbe aus.
