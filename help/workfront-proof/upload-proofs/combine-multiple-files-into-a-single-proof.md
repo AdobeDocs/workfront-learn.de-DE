@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -30,26 +30,33 @@ Lösung - eine Person muss alle PDF hochladen und sie beim Hochladen zu einem Te
 So kombinieren Sie Testsendungen:
 
 1. Öffnen Sie die [!UICONTROL Dokumente] -Abschnitt des Projekts, der Aufgabe oder der Ausstellung des Testversands anzuhängen.
-2. Ziehen Sie die Dateien in den Upload-Bereich oder suchen Sie nach ihnen. [!DNL Workfront] unterstützt die Kombination von bis zu 50 Dateien.
+2. Ziehen Sie die Dateien in den Upload-Bereich oder suchen Sie nach ihnen. [!DNL Workfront] unterstützt das Kombinieren von bis zu 50 Dateien.
 3. Aktivieren Sie die Option für [!UICONTROL Alle kompatiblen Dateien in einem Testversand zusammenführen].
 4. Geben Sie einen Namen für den kombinierten Testversand ein. Dies ist erforderlich.
 5. Bei Bedarf können Sie die Reihenfolge ändern, in der die Dateien kombiniert werden, indem Sie sie per Drag-and-Drop in die Upload-Liste ziehen.
 6. Fügen Sie Testversand-Empfänger hinzu, legen Sie einen Termin fest usw.
-7. Klicken [!UICONTROL Testversand erstellen] , um den Upload abzuschließen.
+7. Klicks [!UICONTROL Testversand erstellen] , um den Upload abzuschließen.
 
 ![Ein Bild der [!UICONTROL Neuer Testversand] Fenster mit der Liste der hochgeladenen Dateien und [!UICONTROL Einzelversand] hervorgehobene Abschnitte.](assets/combine-proofs.png)
 
-Nach dem Hochladen des Testversands wird er als ZIP-Datei im [!UICONTROL Dokumente] Registerkarte.
+Sobald der Testversand hochgeladen wurde, wird er als ZIP-Datei im [!UICONTROL Dokumente] Registerkarte.
 
 Zum Anzeigen der kombinierten Datei ist nichts anderes erforderlich. Klicken Sie einfach auf [!UICONTROL Offener Testversand] wie üblich und der Testversand wird in der Testversand-Ansicht geöffnet.
 
 ![Ein Bild des Testversand-Viewers mit einem mehrseitigen Testversand.](assets/combine-proofs-2.png)
 
+## Was ist mit der Kombination von Videodateien?
+
+Es tut uns leid, das Kombinieren von Dateien ist nicht möglich, wenn Rich-Media-Dateien wie Videos, Animationen und interaktive URLs in Ihrer Liste enthalten sind.
+
+![Ein Bild mit einer Fehlermeldung, die erklärt, dass Sie keine Videodateien kombinieren können.](assets/combine-proofs-2.png)
+
+
 ## Ihre Wendung
 
 >[!IMPORTANT]
 >
->Vergessen Sie nicht, Ihre Mitarbeiter daran zu erinnern, dass Sie ihnen im Rahmen Ihrer Workfront-Schulung einen Testversand schicken.
+>Vergessen Sie nicht, Ihre Mitarbeiter daran zu erinnern, dass Sie ihnen im Rahmen Ihrer Workfront-Ausbildung einen Testversand schicken.
 
 
 Suchen Sie nach drei oder vier Dateien (PDF, Textdatei usw.) auf Ihrem Computer.

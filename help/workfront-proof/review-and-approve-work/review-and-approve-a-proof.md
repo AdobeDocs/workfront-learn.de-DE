@@ -11,20 +11,20 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: cbeb3387107da639899ab22e4372200356551154
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
 
 # Testversand überprüfen und genehmigen
 
-Bevor Sie mit der Überprüfung eines Testversands beginnen, sollten Sie wissen, was von Ihnen erwartet wird. Welche Rolle spielen Sie im Testversand-Workflow? Überprüfen Sie den Testversand, genehmigen Sie ihn oder beides?
+Bevor Sie mit der Überprüfung eines Testversands beginnen, stellen Sie sicher, dass Sie wissen, was von Ihnen erwartet wird. Welche Rolle spielen Sie im Testversand-Workflow? Überprüfen Sie den Testversand, genehmigen Sie ihn oder beides?
 
 Als Texteditor könnte Ihr Fokus auf die Überprüfung des Testversands auf grammatische Fehler und Rechtschreibfehler liegen. Marketing- und Kreativteams können sich auf das Design des Assets konzentrieren und sicherstellen, dass das Branding des Unternehmens befolgt wird. Juristische Teams können sicherstellen, dass der Wortlaut eines Dienstleistungsvertrags luftdicht ist. Und ein Projektmanager kann sicherstellen, dass der zu überprüfende Inhalt den Inhalten und Zielen des Projekts entspricht, mit dem er verknüpft ist.
 
-Möglicherweise werden Sie auch gebeten, den Testversand zu validieren. Die Validierung eines Testversands bedeutet, dass Sie sagen: &quot;Diese Arbeit ist in Ordnung und bereit, zu gehen.&quot; Oder Sie müssen vielleicht sagen: &quot;Diese Arbeit erfordert Änderungen, bitte schicken Sie sie zurück zu Revisionen.&quot;
+Möglicherweise werden Sie auch gebeten, den Testversand zu validieren. Wenn Sie einen Beweis genehmigen, sagen Sie: &quot;Diese Arbeit ist in Ordnung und bereit zu gehen.&quot; Oder Sie müssen vielleicht sagen: &quot;Diese Arbeit erfordert Änderungen, bitte schicken Sie sie zurück zu Revisionen.&quot;
 
 Sobald Sie wissen, was erwartet wird, können Sie mit der Überprüfung eines Testversands beginnen.
 
@@ -41,21 +41,21 @@ Die [!UICONTROL Neuer Testversand] E-Mail enthält auch wichtige Informationen z
 * Der Name des Testversands ist die Betreffzeile der E-Mail.
 * Die Miniaturansicht gibt Ihnen einen schnellen Überblick darüber, was Sie überprüfen werden.
 * Die Versionsnummer gibt an, welche Version des Testversands Sie prüfen werden.
-* Und vor allem erscheint der Termin an zwei Stellen in der E-Mail - direkt über dem Abschnitt mit den Testversanddetails und in der grauen Leiste für die Workflow-Phase, zu der Sie gehören.
+* Vor allem erscheint der Termin an zwei Stellen in der E-Mail - direkt über dem Abschnitt mit den Testversanddetails und in der grauen Leiste der Workflow-Phase, der Sie angehören.
 
 Sobald Sie bereit sind, Ihre Überprüfung zu starten, müssen Sie nur noch auf das blaue [!UICONTROL Testversand durchführen] und die Datei wird automatisch im [!DNL Workfront] Testversand-Viewer.
 
 ### Testversand öffnen aus [!UICONTROL Startseite]
 
-Wenn Sie in [!DNL Workfront] und zur Validierung eines Testversands aufgefordert wurden, finden Sie eine Zuweisung im [!UICONTROL Arbeitsliste] von [!DNL Workfront] [!UICONTROL Startseite]. Die Auswahl von [!UICONTROL Genehmigungen] aus dem [!UICONTROL Filter], damit Sie sich auf diese Art von Arbeit konzentrieren können.
+Wenn Sie in [!DNL Workfront] und aufgefordert wurden, einen Testversand zu genehmigen, finden Sie eine Zuweisung in der [!UICONTROL Arbeitsliste] von [!DNL Workfront] [!UICONTROL Startseite]. Die Auswahl von [!UICONTROL Genehmigungen] aus dem [!UICONTROL Filter], damit Sie sich auf diese Art von Arbeit konzentrieren können.
 
 ![Ein Bild von [!DNL Workfront] [!UICONTROL Startseite] mit dem [!UICONTROL Genehmigungen] und ein aus der Liste ausgewählter Testversand.](assets/open-proof-from-home.png)
 
-Beachten Sie, dass Testsendungen in [!DNL Workfront] [!UICONTROL Startseite] nur dann, wenn Sie zur Validierung zugewiesen sind. Wenn Sie nur gebeten wurden, den Testversand zu überprüfen, wird er nicht angezeigt in [!DNL Workfront] [!UICONTROL Startseite] bei Auswahl von [!UICONTROL Genehmigungen]aus der Filterliste aus.
+Beachten Sie, dass Testsendungen in [!DNL Workfront] [!UICONTROL Startseite] nur dann, wenn Sie zur Validierung zugewiesen wurden. Wenn Sie nur gebeten wurden, den Testversand zu überprüfen, wird er nicht angezeigt in [!DNL Workfront] [!UICONTROL Startseite] bei Auswahl von [!UICONTROL Genehmigungen]aus der Filterliste aus.
 
 Wählen Sie die Testversand-Validierung im [!UICONTROL Arbeitsliste]und klicken Sie dann auf [!UICONTROL Gehe zu Testversand] -Link, um ihn im Testversand-Viewer zu öffnen.
 
-Abhängig vom Testversand und den Projekt-Workflows Ihres Unternehmens wird Ihnen möglicherweise eine Aufgabenzuweisung in [!DNL Workfront] [!UICONTROL Startseite] anstelle einer Validierungsanforderung für den Testversand. In diesem Fall öffnen Sie den Testversand über die [!UICONTROL Dokumente] -Abschnitt der Aufgabe selbst (Anweisungen finden Sie unten).
+Abhängig vom Testversand und den Projekt-Workflows Ihrer Organisation wird Ihnen möglicherweise eine Aufgabenzuweisung in [!DNL Workfront] [!UICONTROL Startseite] anstelle einer Validierungsanforderung für den Testversand. In diesem Fall öffnen Sie den Testversand über die [!UICONTROL Dokumente] -Abschnitt der Aufgabe selbst (Anweisungen finden Sie unten).
 
 Sie können auch Testsendungen für eine [!DNL Workfront] Dashboard, das speziell für Ihr Team oder Ihre Organisation erstellt wurde, um die Verwaltung von Testversand-Workflows zu unterstützen.
 
@@ -69,6 +69,16 @@ Wenn Sie normalerweise mit Projekten, Aufgaben oder Problemen in [!DNL Workfront
 2. Klicks [!UICONTROL Dokumente] im linken Bedienfeldmenü der Seite des Elements.
 3. Suchen Sie den Testversand im [!UICONTROL Dokumente] Liste.
 4. Klicken Sie auf [!UICONTROL Offener Testversand] Link zum Öffnen des Testversand-Viewers.
+
+## Validieren eines Testversands
+
+Nachdem Sie einen Testversand geöffnet haben, sehen Sie eine **Entscheidungsfindung** Schaltfläche oben, neben **Kommentar hinzufügen**. Wenn Sie kein Genehmiger für diesen Testversand sind, wird diese Schaltfläche nicht angezeigt.
+
+![Ein Bild der ersten Entscheidungsschaltfläche.](assets/make-decision-1.png)
+
+Wenn Sie bereit sind, eine Entscheidung zu treffen, klicken Sie auf das **Entscheidungsfindung** -Schaltfläche, um Ihre Entscheidungsoptionen anzuzeigen. Wählen Sie Ihre Auswahl aus und klicken Sie dann auf die andere **Entscheidungsfindung** unten.
+
+![Ein Bild der zweiten Entscheidungsschaltfläche.](assets/make-decision-2.png)
 
 ## Testversand überprüfen und genehmigen
 

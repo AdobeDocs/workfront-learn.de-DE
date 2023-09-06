@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,17 @@ ht-degree: 0%
 
 Hier erhalten Sie einige grundlegende Navigationstipps für die erste Anmeldung bei Workfront Fusion sowie die Erstellung Ihres ersten Szenarios.
 
+## Voraussetzungen
+
+1. Für diese Übung ist ein Workfront-Testlaufwerk erforderlich. Sie können eine anfordern, indem Sie [dieses Formulars](https://forms.office.com/r/f1J8HRGrNY). Wenn Sie nicht auf das Formular zugreifen können, senden Sie Ihren Namen, Ihre E-Mail-Adresse und Ihren Firmennamen an wfttstdr@adobe.com.
+1. Bei Fusionsübungen wird davon ausgegangen, dass Sie das Video zur exemplarischen Vorgehensweise, das der Übung entspricht, angesehen haben. In diesem Fall ist [Anfängliche Designanleitung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+
+
 ## Übungsübersicht
 
 Erstellen Sie in Workfront ein neues Projekt für jede Zeile in der CSV-Datei &quot;Projektliste&quot;.
 
-![Ursprüngliches Szenario Design Bild 1](../12-exercises/assets/initial-scenario-design-1.png)
+![Ursprüngliches Szenario - Designbild 1](../12-exercises/assets/initial-scenario-design-1.png)
 
 ## Schritte, die ausgeführt werden müssen
 
@@ -48,7 +54,7 @@ Erstellen Sie in Workfront ein neues Projekt für jede Zeile in der CSV-Datei &q
 
    ![Ursprüngliches Szenario - Designbild 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Geben Sie die URL Ihrer Workfront-Instanz ein und klicken Sie auf Weiter.
+1. Geben Sie die URL von **Ihre Workfront-Instanz** und klicken Sie dann auf Weiter .
 
    ![Ursprüngliches Szenario - Designbild 5](../12-exercises/assets/initial-scenario-design-5.png)
 
@@ -78,7 +84,7 @@ Erstellen Sie in Workfront ein neues Projekt für jede Zeile in der CSV-Datei &q
 
    >[!NOTE]
    >
-   >Ignorieren Sie die Warnung, dass ein Transformator nicht das letzte Modul sein sollte (dies ist wahr, aber für diesen Test ist es nicht wichtig). Klicken Sie auf &quot;Auf jeden Fall ausführen&quot;.
+   >Ignorieren Sie die Warnung, dass ein Transformator nicht das letzte Modul sein sollte (dies ist wahr, aber für diesen Test ist es nicht wichtig). Klicken Sie auf Jedwede Ausführung .
 
    ![Ursprüngliches Szenario - Designbild 10](../12-exercises/assets/initial-scenario-design-10.png)
 
@@ -95,10 +101,10 @@ Erstellen Sie in Workfront ein neues Projekt für jede Zeile in der CSV-Datei &q
    >
    >Suchen Sie danach, indem Sie einige Buchstaben eingeben, z. B. *proj*, um direkt darauf zuzugreifen.
 
-1. Verwenden Sie dann Befehl/Strg+G, um den Namen (Projektname) zu suchen. Aktivieren Sie das Kästchen neben Name; unten wird das Feld angezeigt.
+1. Verwenden Sie dann Befehl/Strg+G, um den Namen (Projektname) zu suchen. Aktivieren Sie das Kontrollkästchen neben Name. Das Feld wird unten angezeigt.
 1. Aktivieren Sie nun die Kontrollkästchen neben &quot;Geplantes Startdatum&quot;und &quot;Priorität&quot;.
 1. Klicken Sie in das Feld Name , damit das Zuordnungsfenster angezeigt wird. Klicken Sie im Modul CSV analysieren auf das Feld Spalte 1 , um es dem Feld Name hinzuzufügen. Dies ist der Projektname aus der CSV-Datei.
-1. Klicken Sie für das geplante Startdatum im CSV-Modul Analysieren auf Spalte 5 .
+1. Klicken Sie für das geplante Startdatum im CSV-Modul &quot;Analysieren&quot;auf Spalte 5 .
 1. Wählen Sie als Priorität im Dropdown-Menü die Option Normal aus.
 
    **Ihr Zuordnungsbereich sollte wie folgt aussehen:**
@@ -115,7 +121,7 @@ Erstellen Sie in Workfront ein neues Projekt für jede Zeile in der CSV-Datei &q
 1. Speichern Sie das Szenario und klicken Sie auf die Schaltfläche Einmal ausführen .
 1. Klicken Sie auf den Ausführungsinspektor oben rechts im letzten Modul.
 
-   + Es wurden 20 Vorgänge ausgeführt. Für jeden Vorgang wurde ein Bundle (d. h. eine Zeile) aus der CSV-Datei als Eingabe- und Ausgabedokument eines Bundles verwendet, bei dem es sich um ein in Workfront erstelltes Projekt handelte. Die Projekt-ID des erstellten Projekts wird mit dem Ausgabebundle angezeigt.
+   + Sie werden sehen, dass 20 Vorgänge ausgeführt wurden. Für jeden Vorgang wurde ein Bundle (d. h. eine Zeile) aus der CSV-Datei als Eingabe- und Ausgabebundle verwendet, bei dem es sich um ein in Workfront erstelltes Projekt handelte. Die Projekt-ID des erstellten Projekts wird mit dem Ausgabebundle angezeigt.
 
    ![Ursprüngliches Szenario - Designbild 13](../12-exercises/assets/initial-scenario-design-13.png)
 
