@@ -10,16 +10,20 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1febdaea4c66540db39882404293ecd3fe9015e9
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # Suchen Sie die zugewiesene Arbeit in [!DNL Workfront] [!UICONTROL Startseite]
 
-In diesem Video erfahren Sie, wie Sie:
+
+>[!NOTE] Derzeit gibt es zwei Workfront-Starterlebnisse. Wenn Sie <b>Neues Starterlebnis</b>, zeigen Sie die [Widgets auf der Startseite entfernen, hinzufügen und neu anordnen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/remove-add-and-rearrange-widgets.html?lang=en) Tutorial.
+
+
+In diesem Video lernen Sie Folgendes:
 
 * Eingehende und vorhandene Arbeitszuweisungen suchen
 * Überprüfen von Zuweisungsinformationen
