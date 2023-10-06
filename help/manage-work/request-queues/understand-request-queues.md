@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -31,7 +31,7 @@ In diesem Video erfahren Sie:
 
 Wenn Sie mit dem Ausfüllen eines Anfrageformulars beginnen, [!DNL Workfront] speichert einen Entwurf automatisch, nachdem Sie die [!UICONTROL Betreff] -Feld. Das bedeutet, dass Sie keine Daten verlieren, wenn Sie von der [!UICONTROL Anforderungen] -Bereich verwenden, um etwas Anderes zu tun, oder wenn Sie mitten in Ihrer Anfrage anhalten müssen, um weitere Informationen zu sammeln.
 
-Oben im Fenster wird ein Hinweis angezeigt, dass der Entwurf gespeichert wurde. [!DNL Workfront] speichert einen Entwurf Ihrer Anfrage, auch wenn die erforderlichen Felder noch nicht ausgefüllt sind.
+Oben im Fenster wird ein Hinweis darauf angezeigt, dass der Entwurf gespeichert wurde. [!DNL Workfront] speichert einen Entwurf Ihrer Anfrage, auch wenn die erforderlichen Felder noch nicht ausgefüllt sind.
 
 ![Bild eines Anforderungsentwurfs erstellen](assets/queue-mgt-make-a-request-draft-1.png)
 

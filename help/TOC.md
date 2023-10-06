@@ -3,7 +3,7 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '2430'
 ht-degree: 2%
@@ -160,8 +160,8 @@ ht-degree: 2%
       + [Erstellen eines Validierungsprozesses für die einmalige Verwendung](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Vorhandene Genehmigungsprozesse anhängen und bearbeiten](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Delegieren von Aufgaben, Problemen und Genehmigungen](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [Meilensteine anzeigen](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [Meilensteine anwenden](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [Meilensteine anzeigen](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Erstellen und Verwalten von Projektvorlagen {#create-and-manage-project-templates}
       + [Erstellen Sie eine Projektvorlage und erfahren Sie mehr über Blueprints](manage-work/create-and-manage-project-templates/create-a-project-template.md)
