@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zu Datumsbereichen und Zeitrahmen in [!UICONTROL Verbesserte Analytics]
+# Grundlegendes zu Datumsbereichen und Zeitrahmen
 
 Beim Anzeigen der [!DNL Enhanced analytics] Grafiken und Datumsbereiche werden mithilfe des Kalender-Widgets angegeben. Die Zeitrahmen werden innerhalb eines Diagramms erstellt, wenn Sie klicken und ziehen, um einen bestimmten Bereich zu definieren. So können Sie die Informationen während dieses Zeitraums einzoomen und genauer betrachten.
 

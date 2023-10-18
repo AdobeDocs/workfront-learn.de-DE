@@ -1,6 +1,6 @@
 ---
 title: 'Grundlegendes zu Aktionen: Bewegen Sie den Mauszeiger, klicken, ziehen und klicken Sie auf'
-description: Erfahren Sie, wie Sie weitere Informationen erhalten, indem Sie den Mauszeiger über ein Diagramm bewegen, einen Zeitrahmen für ein Diagramm erstellen und zusätzliche Diagramme erstellen, und zwar alles in [!UICONTROL Verbesserte Analytics].
+description: Erfahren Sie, wie Sie weitere Informationen erhalten, indem Sie den Mauszeiger über ein Diagramm bewegen, einen Zeitrahmen für ein Diagramm erstellen und zusätzliche Diagramme anzeigen können - alles in [!UICONTROL Verbesserte Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zu Aktionen in [!UICONTROL Verbesserte Analytics] - Bewegen Sie den Mauszeiger, klicken und ziehen Sie und klicken Sie auf
+# Grundlegendes zu Aktionen: Bewegen Sie den Mauszeiger, klicken, ziehen und klicken Sie auf
 
 In diesem Video erfahren Sie:
 
@@ -28,7 +28,7 @@ In diesem Video erfahren Sie:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on)
 
-## Klicken Sie auf ein Diagramm, um weitere Informationen anzuzeigen.
+## Klicken Sie auf ein Diagramm, um weitere Informationen anzuzeigen
 
 Wenn Sie in bestimmte Bereiche eines Diagramms klicken, werden zusätzliche Diagramme oder eine Aufschlüsselung der Diagramminformationen angezeigt.
 

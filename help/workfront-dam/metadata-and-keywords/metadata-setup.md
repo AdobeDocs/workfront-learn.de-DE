@@ -1,6 +1,6 @@
 ---
-title: Einrichten von Metadaten in [!UICONTROL Workfront DAM]
-description: Erfahren Sie, wie Sie ein Metadatenschema erstellen, die verschiedenen Metadatentypen verstehen, vorhandene Metadatenfelder verwenden und vieles mehr in [!UICONTROL Workfront DAM].
+title: Einrichten der Metadaten
+description: Erfahren Sie, wie Sie ein Metadatenschema erstellen, die verschiedenen Metadatentypen verstehen, vorhandene Metadatenfelder verwenden und vieles mehr in [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
-# Metadaten und Keywords: Metadaten-Setup
+# Einrichten der Metadaten
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Erstellen eines Metadatenschemas in [!UICONTROL Workfront DAM]
+* Erstellen eines Metadatenschemas in [!UICONTROL WORKFRONT DAM]
 * Verstehen der verschiedenen Metadatentypen
 * Vorhandene Metadatenfelder verwenden
 * Erstellen benutzerdefinierter Metadatenfelder
@@ -30,11 +30,11 @@ In diesem Video erfahren Sie, wie Sie:
 
 ## Best Practices für Metadaten
 
-Metadaten sind der primäre Treiber für die Asset-Suche in [!UICONTROL Workfront DAM]. Sie verbessert nicht nur die Suchbarkeit, sondern kann auch verwendet werden, um wichtige Informationen über ein Asset zu verfolgen, z. B. Copyright, Speicherort, Bildquelle und mehr.
+Metadaten sind der Haupttreiber für die Asset-Suche in [!UICONTROL WORKFRONT DAM]. Sie verbessert nicht nur die Suchbarkeit, sondern kann auch verwendet werden, um wichtige Informationen über ein Asset zu verfolgen, z. B. Copyright, Speicherort, Bildquelle und mehr.
 
 Im Folgenden finden Sie einige Best Practices, die Ihnen bei den ersten Schritten mit Ihren Metadaten helfen:
 
-* Fügen Sie Ihren Assets immer Eigentümerinformationen oder Kreditdaten hinzu, um sie außerhalb von [!UICONTROL Workfront DAM].
+* Fügen Sie Ihren Assets immer Eigentümerinformationen oder Kreditdaten hinzu, um sie außerhalb von [!UICONTROL WORKFRONT DAM].
 * Fügen Sie Nutzungsbedingungen für von Rechten verwaltete Assets hinzu, um Missbrauch zu verhindern.
 * Fügen Sie Ihren Assets Metadaten hinzu, sobald Sie sie hochladen.
 * Implementieren Sie vordefinierte Dropdown-Menüs für häufig verwendete Daten, um Inkonsistenzen zu vermeiden.
@@ -52,4 +52,4 @@ Sehen Sie sich Ihren Asset-Workflow an, wenn Sie die Metadatenstrategie Ihres Un
 * Wie oft werden Assets auf korrekte Metadaten überprüft?
 * Wer ist für die Metadaten-Prüfungen verantwortlich?
 
-Das Hinzufügen von Metadaten kann zeitaufwendig und mühsam sein. Strukturierte und konsistente Metadaten bilden jedoch die Grundlage für den Aufbau einer [!UICONTROL Workfront DAM] ist sehr durchsuchbar und leicht zu durchsuchen.
+Das Hinzufügen von Metadaten kann zeitaufwendig und mühsam sein. Strukturierte und konsistente Metadaten bilden jedoch die Grundlage für den Aufbau einer [!UICONTROL WORKFRONT DAM] ist sehr durchsuchbar und leicht zu durchsuchen.

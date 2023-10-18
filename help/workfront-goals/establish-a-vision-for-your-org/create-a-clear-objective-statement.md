@@ -1,5 +1,5 @@
 ---
-title: Ziel oder Endziel definieren und ausdrücken
+title: Eine klare objektive Erklärung erstellen
 description: Erfahren Sie, wie Sie eine klare objektive Aussage oder den Intent von Commander erstellen und starke Unternehmens- oder Organisationsziele formulieren.
 activity: use
 feature: Workfront Goals
@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
 
-# Ziel definieren und ausdrücken
+# Eine klare objektive Erklärung erstellen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Erstellung einer klaren objektiven Erklärung oder Absichtserklärung des Kommandeurs
+* Erstellung einer klaren objektiven Erklärung oder Absichtserklärung des Kommandanten
 * Schreiben starker Unternehmens- oder Organisationsziele
 
 >[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on)
@@ -38,13 +38,13 @@ Diese Aussage ist nicht technisch lieferbar, d. h., sie erfolgt als Best Practic
 
 Diese Aussage besteht aus vier Teilen. Die unabhängige Behandlung der einzelnen Teile trägt dazu bei, die Absichten des Kommandanten deutlich und direkt zu machen.
 
-**Teil 1: Ein klares Ergebnis der Erreichung unseres Ziels sieht aus...**
+**Teil 1: Ein klares Ergebnis der Erreichung unseres Ziels sieht wie ...**
 Das Ausfüllen dieser Wortgruppe bietet Ihren Mitarbeitern und Teams die höchste Anleitung. Diese Aussage wird zielgerichteter sein als Ihre Mission und Vision-Aussagen, aber wahrscheinlich teilt sie einige gemeinsame Töne. Beschreiben Sie, wie Erfolg für Ihr Team aussieht.
 
-**Teil 2: Das Einzige, was dieses Team am wichtigsten machen kann, ist...**
+**Teil 2: Das Wichtigste, was dieses Team tun kann, ist...**
 Die Fertigstellung dieses Satzes ist die Grundlage für die Priorisierung. Sie setzt klare Erwartungen, dass es, wenn alles darauf ankommt, eine einzige Sache gibt, die am wichtigsten ist. Dieses Lieferprogramm ist mehr als wahrscheinlich der Höhepunkt der Errungenschaften über viele Ziele hinweg (z. B. Einführung eines neuen Produkts, Rebranding Ihres Unternehmens, Eintritt in einen neuen Markt usw.).
 
-**Teil 3: Die Mannschaft wird ihr Ziel durch...**
+**Teil 3: Die Mannschaft wird ihr Ziel bis...**
 Wenn Sie diesen Satz vervollständigen, beginnen Sie wirklich, Ihre strategischen Säulen zu setzen. Dies sind wahrscheinlich die wichtigsten Ziele auf höchster Ebene, die erreicht werden müssen, um das Endergebnis zu fördern.
 
 **Teil 4: Unsere Betriebsbeschränkungen beinhalten ...**

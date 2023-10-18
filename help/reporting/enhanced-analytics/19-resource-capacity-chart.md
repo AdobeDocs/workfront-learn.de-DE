@@ -1,6 +1,6 @@
 ---
-title: Das Diagramm zur Ressourcenkapazität in [!UICONTROL Verbesserte Analytics]
-description: Erfahren Sie, wie das Diagramm Ressourcenkapazität die Anzahl der geplanten Stunden anzeigt, die einem Heimteam innerhalb des gefilterten Zeitraums zugewiesen wurden, in Bezug auf die Gesamtzahl der verfügbaren Stunden des Teams.
+title: Grafik zur Ressourcenkapazität
+description: Erfahren Sie, wie das Diagramm "Ressourcenkapazität"in [!UICONTROL Verbesserte Analytics] zeigt die Anzahl der geplanten Stunden, die einem Heimteam innerhalb des gefilterten Zeitraums zugewiesen wurden, in Bezug auf die insgesamt verfügbaren Stunden des Teams.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Das Diagramm zur Ressourcenkapazität in [!UICONTROL Verbesserte Analytics]
+# Grafik zur Ressourcenkapazität
 
 Das Diagramm Ressourcenkapazität zeigt die Anzahl der geplanten Stunden, die einem Heimteam innerhalb des gefilterten Zeitraums zugewiesen wurden, in Bezug auf die insgesamt verfügbaren Stunden des Teams.
 
@@ -41,11 +41,11 @@ Im Diagramm sehen Sie die folgenden Schlüsseldetails:
 
 1. Klicken Sie auf [!UICONTROL Personen] im linken Bereich.
 1. Verwenden Sie die [!UICONTROL Filter] , um ein oder mehrere Heimteams zu untersuchen.
-1. Sie werden die [!UICONTROL Ressourcenkapazität] Diagramm unter dem Diagramm für die Teamaktivität angezeigt.
+1. Sie werden die [!UICONTROL Ressourcenkapazität] Diagramm unter dem Diagramm für Teamaktivitäten angezeigt.
 
 ## Verwendung der Grafik
 
-Sie müssen Filter hinzufügen und einen Datumsbereich auswählen, um Daten in den Diagrammen im [!UICONTROL Verbesserte Analyse] Gebiet von Workfront. Wenn Sie zuvor Filter hinzugefügt haben, sind diese aktiv, bis Sie sie entfernen.
+Sie müssen Filter hinzufügen und einen Datumsbereich auswählen, um Daten in den Diagrammen im [!UICONTROL Verbesserte Analyse] Workfront. Wenn Sie zuvor Filter hinzugefügt haben, sind diese aktiv, bis Sie sie entfernen.
 
 ![Ein Bild mit einem Diagramm zur Ressourcenkapazität](assets/section-3-3.png)
 

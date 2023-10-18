@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie mehr über die Teamkapazität in [!UICONTROL Verbesserte Analytics]
-description: Erfahren Sie, wie das Diagramm zur Team-Kapazität zeigt, wenn ein Startseiten-Team überzugewiesen oder untergeordnet wurde.
+title: Kenntnisse der Teamkapazität
+description: Erfahren Sie mehr über das Diagramm zur Teamkapazität in [!UICONTROL Verbesserte Analytics] zeigt an, wann ein Heimteam überzugewiesen oder unterzugewiesen wurde.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über die Teamkapazität in [!UICONTROL Verbesserte Analytics]
+# Kenntnisse der Teamkapazität
 
 Das Diagramm zur Team-Kapazität zeigt an, wann ein Startseiten-Team überzugewiesen oder unterzugewiesen wurde. Das Diagramm zeigt das Arbeitsvolumen an, das dem Startseiten-Team an einem bestimmten Tag zugewiesen wurde, und weist eine dunkelblaue Farbe zu, wenn sie sich dem Brenout nähern oder nicht angefochten werden. Eine hellere, transparentere Farbe zeigt an, dass die Arbeitslast ausgeglichener ist.
 
@@ -53,5 +53,5 @@ Im Diagramm zur Teamkapazität haben Sie folgende Möglichkeiten:
 
 * Bewegen Sie den Mauszeiger über einen Punkt im Diagramm, um die Datumszeile anzuzeigen.
 * Bewegen Sie den Mauszeiger über einen Punkt auf der Diagrammlinie, um die geplanten Stunden und geplanten Stunden für das angegebene Datum sowie den Kapazitätsprozentsatz und die Frage zu sehen, ob das Heimteam zu diesem Zeitpunkt vorbei, unterwegs oder auf Kapazität war.
-* Zoomen Sie in Datumsangaben ein, indem Sie auf einen bestimmten Punkt des Projekts klicken und die Maus darauf ziehen. (Mit dieser Aktion werden alle anderen Diagramme aktualisiert, damit sie im selben Datumsbereich vergrößert werden.)
+* Zoomen Sie in Datumsangaben ein, indem Sie mit der Maus auf einen bestimmten Punkt des Projekts klicken und diesen ziehen. (Mit dieser Aktion werden alle anderen Diagramme aktualisiert, damit sie im selben Datumsbereich vergrößert werden.)
 * Exportieren Sie die Diagrammdaten mit der Exportschaltfläche oben rechts im Diagramm.

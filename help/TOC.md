@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2436'
 ht-degree: 2%
 
 ---
@@ -201,7 +201,7 @@ ht-degree: 2%
       + [Berichtkomponenten verstehen](reporting/basic-reporting/reporting-components.md)
       + [Basisgruppierung erstellen](reporting/basic-reporting/create-a-basic-grouping.md)
       + [Basisansicht erstellen](reporting/basic-reporting/create-a-basic-view.md)
-      + [Grundlegende bedingte Formatierung hinzufügen](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [Ansicht grundlegende bedingte Formatierungen hinzufügen](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Basisfilter erstellen](reporting/basic-reporting/create-a-basic-filter.md)
       + [Basisfilteraktivität erstellen](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Einfache Berichte erstellen](reporting/basic-reporting/create-a-simple-report.md)
@@ -268,7 +268,7 @@ ht-degree: 2%
       + [Ressourcenverwaltungseinstellungen für Benutzer](manage-resources/resource-management/settings-for-users.md)
       + [Ressourcen-Management-Setups, Workload Balancer und Nutzungs-Bericht](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
-   + Workload-Balancer {#workload-balancer}
+   + Workload Balancer {#workload-balancer}
       + [Suchen des Lastenausgleichs](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [Den Lastenausgleich filtern](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Anzeigen von Benutzerzuordnungen im Arbeitslastausgleich](manage-resources/workload-balancer/view-user-allocations.md)
@@ -308,7 +308,7 @@ ht-degree: 2%
       + [Erstellen einer Vision und Strategie für Ihre Organisation](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [Eine klare objektive Erklärung erstellen](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [Zusammenarbeit in Bezug auf Unternehmens- und Organisationsziele](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [Gruppen und Teams an Ihre Strategie ausrichten](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+      + [Abstimmung von Gruppen und Teams zur Strategie](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
    + Ziele erstellen {#create-goals}
       + [[!UICONTROL Workfront-Ziele] Übersicht](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -340,10 +340,10 @@ ht-degree: 2%
       + [Verwenden von Adobe Workfront-Plug-ins zur Integration mit Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Konfigurieren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Integration konfigurieren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Zuordnen von Metadaten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
       + [Dokumente senden und Assets verknüpfen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-      + [Versionsverlauf](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+      + [Verlaufsverlauf verwalten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Erweitern Sie Ihren Workflow mit der G Suite-Integration.](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -465,7 +465,7 @@ ht-degree: 2%
       + [Aggregation](fusion/12-exercises/aggregation.md)
       + [Erweiterte Aggregation](fusion/12-exercises/advanced-aggregation.md)
       + [Ausführungsverlauf](fusion/12-exercises/execution-history.md)
-      + [Erkunden von Läufen, Zyklen und Paketen](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [Durchlauf-Zyklen und -Bundles](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Switch-Funktion](fusion/12-exercises/switch-function.md)
       + [Switch-Modul](fusion/12-exercises/switch-module.md)
       + [Webhooks](fusion/12-exercises/webhooks.md)
@@ -494,7 +494,7 @@ ht-degree: 2%
 
    + Testsendungen hochladen {#upload-proofs}
       + [Was ist eine Testversion?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [Wer lädt die Testversandversionen hoch?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Wer lädt die Testversandversionen hoch](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Konvertieren eines Dokuments in einen Testversand](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Anzeigen und Vergleichen von Testversionen](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [Hochladen einer Testversion](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -544,7 +544,7 @@ ht-degree: 2%
       + [Einrichten der Metadaten](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
    + Anpassung von Brand Connect {#brand-connect-customization}
-      + [Was ist [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [Was ist [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [Systemeinstellungen festlegen in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [Hinzufügen benutzerdefinierter Seiten in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [Erstellen von Markenrichtlinien in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)
@@ -639,7 +639,7 @@ ht-degree: 2%
    + [Timesheets und Login-Zeit](best-practices/timesheets-logging-time-bp.md)
    + [Nutzung](best-practices/utilization-bp.md)
    + [Workfront-Ziele](best-practices/workfront-goals-bp.md)
-   + [Workload-Balancer](best-practices/workload-balancer-bp.md)
+   + [Workload Balancer](best-practices/workload-balancer-bp.md)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: Einrichten von Metadatenvorlagen in [!UICONTROL Workfront DAM]
-description: Erfahren Sie, wie Sie Zeit mit Metadatenvorlagen sparen, eine Metadatenvorlage einrichten und eine Vorlage auf einen Ordner in anwenden [!UICONTROL Workfront DAM].
+title: Einrichten einer Metadatenvorlage
+description: Erfahren Sie, wie Sie Zeit mit Metadatenvorlagen sparen, eine Metadatenvorlage einrichten und eine Vorlage auf einen Ordner in anwenden [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Metadaten und Keywords: Metadatenvorlagen
+# Einrichten einer Metadatenvorlage
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Zeit mit Metadatenvorlagen sparen
 * Einrichten einer Metadatenvorlage

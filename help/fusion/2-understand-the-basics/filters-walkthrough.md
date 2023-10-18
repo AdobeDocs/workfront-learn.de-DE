@@ -10,14 +10,14 @@ level: Beginner
 jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-# Anleitung zum mächtigen Filter verwenden
+# Anleitung zu Filtern
 
 Fügen Sie mithilfe der zuvor erstellten exemplarischen Anleitung &quot;Über die grundlegende Zuordnung hinaus&quot;einen Filter zwischen den beiden Modulen in den Modulen hinzu, um nur Projekte mit einer roten Projektfarbe in der Projektliste zu erstellen.
 
@@ -27,7 +27,7 @@ Fügen Sie mithilfe der zuvor erstellten exemplarischen Anleitung &quot;Über di
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Hinzufügen eines Filters zwischen den beiden Modulen in den Modulen
 

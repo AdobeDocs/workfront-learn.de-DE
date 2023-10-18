@@ -1,5 +1,5 @@
 ---
-title: Einführung in die Fusion
+title: Einführung und Technologiestrategie
 description: Erfahren Sie mehr über die Leistung und Flexibilität von [!DNL Adobe Workfront Fusion]und wie Sie mit Ihrer eigenen Fusion-Instanz beginnen.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
-# Einführung in die Fusion
+# Einführung und Technologiestrategie
 
 Erfahren Sie mehr über die Leistung und Flexibilität von [!DNL Adobe Workfront Fusion]und wie Sie mit Ihrer eigenen Fusion-Instanz beginnen.
 
@@ -26,7 +26,7 @@ Erfahren Sie mehr über die Leistung und Flexibilität von [!DNL Adobe Workfront
 
 Workfront Fusion ist eine leistungsstarke Integrationsplattform, die den Arbeitsfluss über Systeme und Teams hinweg ermöglicht. Ihre Aufgabe besteht darin, Ihre Prozesse zu automatisieren, sodass Sie sich auf neue Aufgaben konzentrieren können, anstatt dieselben Aufgaben immer wieder zu wiederholen. Es funktioniert durch die Verknüpfung von Aktionen innerhalb und zwischen Apps und Diensten, um ein Szenario zu erstellen, in dem Ihre Daten automatisch übertragen und transformiert werden.
 
-## Wie man Fusion bekommt
+## Fusion
 
 Fusion ist ein Zusatzprodukt, das in einigen Workfront-Paketen enthalten ist und nicht in anderen. Wenn Ihr Workfront-Package keine Fusion-Kontaktverkäufe enthält.
 

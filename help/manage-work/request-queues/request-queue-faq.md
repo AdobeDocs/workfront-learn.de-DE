@@ -8,14 +8,14 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
-# Häufige Fragen zu Anforderungswarteschlangen
+# Antworten auf häufig gestellte Fragen zu Anforderungswarteschlangen
 
 **Warum kann ich eine Anforderungswarteschlange sehen, mein Benutzer jedoch nicht?**
 
@@ -23,7 +23,7 @@ Im [!UICONTROL Warteschlangendetails] -Registerkarte Ihrer Anforderungswarteschl
 
 **Ich habe Benutzern Zugriff auf die Warteschlange gewährt, aber jetzt können sie auch das Projekt für die Anforderungswarteschlange sehen. Warum?**
 
-Dies hängt damit zusammen, wie Sie ihnen Zugriff auf die Anforderungswarteschlange gewährt haben.
+Dies hat mit der Art zu tun, wie Sie ihnen Zugriff auf die Anforderungswarteschlange gewährt haben.
 
 Wenn Sie die [!UICONTROL Freigabe] über die Landingpage des Anforderungswarteschlangenprojekts aus, haben Sie diesen Benutzern Zugriff gewährt, um das Projekt in der Liste der Projekte anzuzeigen.
 
@@ -51,6 +51,6 @@ Sie können auf Felder im **[!UICONTROL Konvertierte Ausgabe]** und **[!UICONTRO
 
 **Wie lässt sich am besten nach Anforderungswarteschlangen in einem Bericht filtern?**
 
-Wenn Ihr Projektfilter **Warteschlange >>Ist öffentlich>>Gleich>>Keine** Ihr Bericht zeigt nur Projekte an, die **NOT** Warteschlangen anfordern.
+Wenn Ihr Projektfilter **Warteschlange >>Ist öffentlich>>Gleich>>Keine** Ihr Bericht zeigt nur Projekte an, die **NOT** Anforderungswarteschlangen.
 
-Wenn Ihr Projektfilter **Warteschlange >>Ist öffentlich>>Nicht gleich>>Keine** Ihr Bericht zeigt nur Projekte an, die **ARE** Warteschlangen anfordern.
+Wenn Ihr Projektfilter **Warteschlange >>Ist öffentlich>>Nicht gleich>>Keine** Ihr Bericht zeigt nur Projekte an, die **ARE** Anforderungswarteschlangen.

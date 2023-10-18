@@ -1,5 +1,5 @@
 ---
-title: Grundlegende Navigation in [!UICONTROL Verbesserte Analytics]
+title: Grundlegende Navigation
 description: Erfahren Sie, wie Sie zur [!UICONTROL Analytics] und sehen Sie sich einen Überblick über die Arbeitsdiagramme und Personendiagramme in Workfront an.
 activity: use
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Grundlegende Navigation in [!UICONTROL Verbesserte Analytics]
+# Grundlegende Navigation
 
 So navigieren Sie zu [!UICONTROL Analytics] Verwenden Sie im neuen Workfront-Erlebnis die [!UICONTROL Hauptmenü] Schaltfläche.
 

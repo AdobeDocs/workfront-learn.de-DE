@@ -1,6 +1,6 @@
 ---
-title: Maßnahmen ergreifen, um Aktualisierungen vorzunehmen in [!UICONTROL Verbesserte Analytics]
-description: Erfahren Sie, wie Sie Aktualisierungen aus dem Flugdiagramm "Aufgaben"in Workfront vornehmen können.
+title: Maßnahmen ergreifen, um Aktualisierungen vorzunehmen
+description: Erfahren Sie, wie Sie im Flugdiagramm unter "Aufgaben"Aktualisierungen vornehmen. [!UICONTROL Verbesserte Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8736
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# Maßnahmen ergreifen, um Aktualisierungen vorzunehmen in [!UICONTROL Verbesserte Analytics]
+# Maßnahmen ergreifen, um Aktualisierungen vorzunehmen
 
 In diesem Video erfahren Sie:
 

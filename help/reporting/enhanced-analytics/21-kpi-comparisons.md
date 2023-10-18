@@ -1,6 +1,6 @@
 ---
-title: Ein Anwendungsbeispiel für KPI-Vergleiche finden Sie unter [!UICONTROL Verbesserte Analytics]
-description: Erfahren Sie, wie Sie KPIs aus dem aktuellen Datumsbereich mit einem vorherigen Datumsbereich vergleichen und KPIs mit zwei verschiedenen Filtern vergleichen.
+title: Anwendungsfall für KPI-Vergleiche verstehen
+description: Erfahren Sie, wie Sie KPIs in [!UICONTROL Verbesserte Analytics] aus dem aktuellen Datumsbereich in einen vorherigen Datumsbereich wechseln und wie KPIs mit zwei verschiedenen Filtern verglichen werden.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Ein Anwendungsbeispiel für KPI-Vergleiche finden Sie unter [!UICONTROL Verbesserte Analytics]
+# Anwendungsfall für KPI-Vergleiche verstehen
 
 In diesem Video erfahren Sie:
 

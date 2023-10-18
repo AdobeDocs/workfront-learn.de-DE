@@ -1,5 +1,5 @@
 ---
-title: Digitale Arbeit mit Workfront Home überprüfen und genehmigen
+title: Digitale Arbeit überprüfen und genehmigen
 description: Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme, Dokumente und Testsendungen in [!DNL Workfront Home].
 activity: use
 feature: Work Management
@@ -11,16 +11,16 @@ team: Technical Marketing
 jira: KT-8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Digitale Arbeit überprüfen und genehmigen mit [!DNL Workfront Home]
+# Digitale Arbeit überprüfen und genehmigen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Suchen nach Genehmigungen in [!DNL Workfront Home]
 * Genehmigen von Projekten, Aufgaben und Problemen

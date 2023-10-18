@@ -1,6 +1,6 @@
 ---
-title: Einrichten von Suchbegriffen in [!UICONTROL Workfront DAM]
-description: Erfahren Sie mehr darüber, was Keywords sind, wie Sie eine Suchbegriffliste einrichten und wie Sie eine Liste mit Keywords erstellen und importieren in [!UICONTROL Workfront DAM].
+title: Einrichten der Metadaten-Schlüsselwörter
+description: Erfahren Sie mehr darüber, was Keywords sind, wie Sie eine Suchbegriffliste einrichten und wie Sie eine Liste mit Keywords erstellen und importieren in [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8973
 exl-id: 7853a76c-02df-4f50-bb05-c03abfeafd05
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
 
-# Metadaten und Keywords: Keyword-Einrichtung
+# Einrichten der Metadaten-Schlüsselwörter
 
 In diesem Video werden Sie:
 
-* Grundlegendes zur Verwendung von Keywords in [!UICONTROL Workfront DAM]
+* Grundlegendes zur Verwendung von Suchbegriffen in [!UICONTROL WORKFRONT DAM]
 * Einrichten einer Suchbegriffliste
 * Erstellen und Importieren einer Suchbegriffliste
 
@@ -29,15 +29,15 @@ In diesem Video werden Sie:
 
 ## Best Practices für Suchbegriffe
 
-Es ist wichtig, Best Practices zu entwerfen, um Ihre Suchbegriffbemühungen zu leiten. Nachfolgend finden Sie einige Richtlinien.
+Es ist wichtig, Best Practices zu entwerfen, um Ihre Suchbegriffbemühungen zu leiten. Im Folgenden finden Sie einige Richtlinien.
 
-* Konsistent mit Akronymen und Abkürzungen sein. Führen Sie kein Keyword für ein Asset mit &quot;AZ&quot;und ein anderes Asset mit &quot;Arizona&quot;aus.
+* Verwenden Sie Abkürzungen und Abkürzungen. Führen Sie kein Keyword für ein Asset mit &quot;AZ&quot;und ein anderes Asset mit &quot;Arizona&quot;aus.
 * Konsistent im Plural gegenüber Singular. Wählen Sie ein Format oder verwenden Sie immer beide. Verwenden Sie beispielsweise &quot;Füße&quot;, &quot;Hände&quot; oder &quot;Fuß, Füße&quot; und &quot;Hand, Hände&quot;.
 * Gehen Sie bei der Beschreibung einer Aktion oder Aktivität konsistent vor, z. B. mit &quot;running&quot;, &quot;schwimmen&quot; oder &quot;run&quot; und &quot;swim&quot;.
-* Sei nicht zu schmal. &quot;Keokuk, IA&quot;ist für einen Suchbegriff möglicherweise zu eng und für Benutzer völlig unerkennbar. &quot;Südost-Iowa&quot;wäre besser.
+* Sei nicht zu schmal! &quot;Keokuk, IA&quot;ist für einen Suchbegriff möglicherweise zu eng und für Benutzer völlig unerkennbar. &quot;Südost-Iowa&quot;wäre besser.
 * Sei nicht zu breit! &quot;Universität&quot; funktioniert möglicherweise nicht, insbesondere wenn alles in Ihrem System auf eine Universität bezieht. Bestimmen Sie, was die Assets unterscheidet, z. B. einen bestimmten College-Namen.
 * Achte auf Relevanz. Nur weil jedes Asset über einen Projekt-Code verfügt, bedeutet dies nicht, dass es für Benutzer nützlich ist, die Schlüsselwörter verwenden, um Assets zu finden. Wenn diese Informationen beim Asset bleiben müssen, sollten Sie sie in einem anderen Metadatenfeld hinzufügen.
-* Verwenden Sie nicht zu wenige Suchbegriffe, da diese sonst nicht dazu beitragen, die Suchergebnisse einzuschränken.
+* Verwenden Sie nicht zu wenige Keywords, da diese sonst nicht dazu beitragen, die Suchergebnisse einzuschränken.
 * Verlassen Sie sich nicht für jedes Datenelement auf Suchbegriffe. Verwenden Sie Metadatenfelder für Informationen wie Fotograf-Name oder -Standort.
 
 ## Suchbegriffstrategie

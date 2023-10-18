@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur Navigation und Überprüfung von Projekten in [!UICONTROL Verbesserte Analytics]
-description: Erfahren Sie, wie Sie die Flugplan-Grafik in Workfront lesen.
+title: Grundlegendes zur Navigation und Überprüfung von Projekten
+description: Informationen zum Lesen der Flugplan-Grafik finden Sie unter [!UICONTROL Verbesserte Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zur Navigation und Überprüfung von Projekten in [!UICONTROL Verbesserte Analytics]
+# Grundlegendes zur Navigation und Überprüfung von Projekten
 
 In diesem Video erfahren Sie:
 
@@ -40,7 +40,7 @@ Im Diagramm sehen Sie Folgendes:
 1. Orangefarbene Linien weisen darauf hin, dass das Projekt gefährdet ist.
 1. Rote Linien zeigen an, dass das Projekt in Schwierigkeiten ist.
 
-Wenn Sie diese Informationen zu Ihren Projekten anzeigen, können Sie Folgendes feststellen:
+Anhand dieser Informationen zu Ihren Projekten können Sie Folgendes feststellen:
 
 * Welche Ereignisse verlängern ein Projekt nach dem geplanten Abschlussdatum.
 * Wenn bei einem Projekt Probleme auftreten.
@@ -56,7 +56,7 @@ Die Projektbedingung ist eine visuelle Darstellung des Projektfortschritts. Work
 
 Die Bedingung eines Projekts kann festgelegt werden:
 
-* **Manuell** durch Benutzer mit Zugriff auf das Projekt, wenn der Bedingungstyp des Projekts auf &quot;Manuell&quot;festgelegt ist. Dadurch können Sie die Bedingung des Projekts unabhängig vom kritischen Pfad festlegen.
+* **Manuell** durch Benutzer mit Zugriff auf das Projekt, wenn der Bedingungstyp des Projekts auf &quot;Manuell&quot;festgelegt ist. Auf diese Weise können Sie die Bedingung des Projekts unabhängig vom kritischen Pfad festlegen.
 * **Automatisch** von Workfront, wenn der Bedingungstyp des Projekts auf Fortschrittsstatus gesetzt ist.
 
 Workfront empfiehlt, den Bedingungstyp auf Fortschrittsstatus festzulegen, damit Sie anhand des Fortschritts Ihrer Aufgaben einen klaren Hinweis auf den tatsächlichen Fortschritt des Projekts erhalten.
@@ -71,4 +71,4 @@ Wenn der Status Fortschritt festgelegt ist, kann die Projektbedingung wie folgt 
 
 >[!NOTE]
 >
->Bedingungen können für Ihre Umgebung angepasst werden, sodass Sie mehr als drei Optionen finden können oder die Namen sich von denen oben unterscheiden können. Informationen zum Anpassen von Bedingungen finden Sie im Artikel [Erstellen oder Bearbeiten einer benutzerdefinierten Bedingung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).
+>Bedingungen können für Ihre Umgebung angepasst werden, sodass Sie mehr als drei Optionen finden können oder die Namen sich von den oben genannten unterscheiden können. Informationen zum Anpassen von Bedingungen finden Sie im Artikel [Erstellen oder Bearbeiten einer benutzerdefinierten Bedingung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).

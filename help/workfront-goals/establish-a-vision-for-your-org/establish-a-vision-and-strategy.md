@@ -1,5 +1,5 @@
 ---
-title: Vision und Strategie festlegen
+title: Erstellen einer Vision und Strategie für Ihre Organisation
 description: Erfahren Sie, wie Sie in der Planungsphase das "Was"und das "Warum"artikulieren, Beispielziele und Einflussbereich definieren.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
 
-# Vision und Strategie festlegen
+# Erstellen einer Vision und Strategie für Ihre Organisation
 
 In diesem Video erfahren Sie mehr über:
 
@@ -39,7 +39,7 @@ Berücksichtigen Sie diese Konzepte bei der Bestimmung der geeigneten Kadenz fü
 
 * Im heutigen Geschäftsumfeld sind interne und externe Faktoren volatiler und ändern sich häufig. Um diese Faktoren strategisch anzugehen, sollten Überprüfungen und Anpassungen der kurzfristigen Ziele mindestens alle 3 Monate vorgenommen werden.
 
-* Jede Überprüfung sollte Zeit enthalten, um über das Erreichte und den Aufwand der Vergangenheit nachzudenken und den Geschäftspfad für die Zukunft zu bewerten. Fragen Sie sich und Ihre Teams ...Sind wir noch auf dem richtigen Weg?
+* Jede Überprüfung sollte Zeit enthalten, um über das Erreichte und den Aufwand der Vergangenheit nachzudenken und den Geschäftspfad für die Zukunft zu bewerten. Fragen Sie sich selbst und Ihre Teams...sind wir noch auf dem Weg?
 
 Die folgende Abbildung zeigt die Beziehung und den zyklischen Charakter dieser Kadenz zwischen nicht nur längeren und kürzeren Zielen, sondern auch längeren und kürzeren Arbeitsbemühungen.
 
@@ -47,8 +47,8 @@ Die folgende Abbildung zeigt die Beziehung und den zyklischen Charakter dieser K
 
 1. **Langfristige Ziele** sind in der Regel umfassendere Unternehmens- oder Organisationsziele, die 12 oder mehr Monate in Anspruch nehmen werden. Sie werden wahrscheinlich nicht mit einmaligen Arbeitsbemühungen erreicht werden. Die meisten Unternehmen und Organisationen verfügen über einige Stufen dieser längerfristigen Ziele an der Spitze der Hierarchie, die kurzfristige Ziele unter einem einzigen, breit angelegten Ziel vereint.
 1. **Langfristige Initiativen** repräsentieren die allgemeine Schätzung des Arbeitsaufwands, der für Antriebsvorgänge zugeordnet wird. Diese Initiativen werden schließlich in verbrauchsfreundlichere Arbeitsanstrengungen (d. h. Projekte, Aufgaben usw.) einfließen. Während es sich in der Regel um längere Arbeitsschritte handelt, z. B. 12 oder mehr Monate, kann es sich in einigen Fällen um eine Gruppierung mehrerer sechs oder mehr Monate dauernder Initiativen handeln, die demselben Ergebnis entsprechen.
-1. **Kurzfristige Ziele** sind die Ziele, die von Ihren Mitarbeitern und Teams festgelegt werden und die sich an den Ergebnissen mit mehr Meilensteinen orientieren. Alle diese segmentierten Errungenschaften tragen zur allgemeinen Erreichung Ihrer Unternehmens- oder organisatorischen langfristigen Ziele bei.
-1. **Kurzfristige Projekte** die engere Definition des Arbeitsbereichs, der zur Erreichung der kurzfristigen Ziele erforderlich ist. Dies können entweder einmalige Projekte oder Projekte sein, die Teil einer breiter angelegten Initiative sind.
+1. **Kurzfristige Ziele** sind die Ziele, die von Ihren Mitarbeitern und Teams festgelegt werden und die sich an den Ergebnissen in Form von Meilensteinen orientieren. Alle diese segmentierten Errungenschaften tragen zur allgemeinen Erreichung Ihrer Unternehmens- oder organisatorischen langfristigen Ziele bei.
+1. **Kurzfristige Projekte** die engere Definition des Arbeitsumfangs, der zur Erreichung der kurzfristigen Ziele erforderlich ist. Dies können entweder einmalige Projekte oder Projekte sein, die Teil einer breiter angelegten Initiative sind.
 
 <!--
 Your turn graphic

@@ -1,6 +1,6 @@
 ---
-title: Informationen zum Aufrufen und Überprüfen der Dropdownliste in [!UICONTROL Verbesserte Analytics]
-description: Erfahren Sie, wie Sie auf das Diagramm für die Aufschlüsselung zugreifen und die Beziehung zwischen den verbleibenden Stunden, dem Projektzustand und der Projektgeschwindigkeit in Workfront verstehen.
+title: Grundlegendes zum Zugriff auf und zur Überprüfung der Dropdownliste
+description: Erfahren Sie, wie Sie auf das Aufschlüsselungsdiagramm zugreifen und die Beziehung zwischen den verbleibenden Stunden, dem Projektzustand und der Projektgeschwindigkeit in [!UICONTROL Verbesserte Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zum Zugriff auf und zur Überprüfung des Dropdown-Menüs in [!UICONTROL Verbesserte Analytics]
+# Grundlegendes zum Zugriff auf und zur Überprüfung des Downloads
 
 In diesem Video erfahren Sie:
 
@@ -40,9 +40,9 @@ Anhand dieser Informationen können Sie Folgendes feststellen:
 
 Im Diagramm sehen Sie Folgendes:
 
-1. Anzahl der Stunden auf der linken Seite.
+1. Anzahl der Stunden links.
 1. Die Daten werden unten angezeigt, einschließlich des geplanten Abschlussdatums des Projekts, wenn es im ausgewählten Datumsbereich angezeigt wird.
-1. Die durchgezogene blaue Linie zeigt die Geschwindigkeit des Projekts (entweder die geplanten Stunden oder die geplante Dauer im Zeitverlauf) und wird in eine gestrichelte vertikale Linie umgewandelt, wenn das Projekt das geplante Abschlussdatum erreicht.
+1. Die durchgezogene blaue Linie zeigt die Geschwindigkeit des Projekts (entweder die geplanten Stunden oder die geplante Dauer im Zeitverlauf) und wird in eine gestrichelte vertikale Linie umgewandelt, wenn das geplante Abschlussdatum für das Projekt erreicht ist.
 1. Grüne Zeilen geben an, wenn die Projektbedingung In Target ist.
 1. Orangefarbene Linien geben an, wenn die Projektbedingung gefährdet ist.
 1. Rote Linien zeigen an, wenn die Projektbedingung in Schwierigkeiten ist.
