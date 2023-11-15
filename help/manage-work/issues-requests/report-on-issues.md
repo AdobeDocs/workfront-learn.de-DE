@@ -7,10 +7,10 @@ feature: Work Management
 thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: e8ce1414dc1873a725e75da3acb626af7e231a73
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 2%
@@ -29,7 +29,7 @@ Der Bericht kann dann zu einem Dashboard hinzugefügt werden, sodass alles, was 
 
 ![Ein Bild der [!UICONTROL Auflösen von Objekten] Spalte eines Problemberichts.](assets/18-resolving-object-report.png)
 
-Um den Namen der Aufgabe oder des Projekts anzuzeigen, in die das Problem konvertiert wurde, fügen Sie Folgendes hinzu:[!UICONTROL Auflösen von Objekten]&quot;. A[!UICONTROL Auflösen von Objekten]&quot; ist die Aufgabe oder das Projekt, die beim Konvertieren eines Problems erstellt wurde. Wenn ein Problem nicht konvertiert wurde, wird die [!UICONTROL Auflösen von Objekten] leer ist. Dieser Bericht zeigt schnell, welche Probleme bereits konvertiert wurden, sodass Sie keine Duplikate haben. Klicken Sie einfach auf den aufgelösten Objektnamen, um ihn zu öffnen, damit Sie den Fortschritt der durchgeführten Arbeit verfolgen können.
+Um den Namen der Aufgabe oder des Projekts anzuzeigen, in die das Problem konvertiert wurde, fügen Sie Folgendes hinzu:[!UICONTROL Auflösen von Objekten]&quot; in der Ansicht. A[!UICONTROL Auflösen von Objekten]&quot; ist die Aufgabe oder das Projekt, die bzw. das beim Konvertieren eines Problems erstellt wurde. Wenn ein Problem nicht konvertiert wurde, wird die [!UICONTROL Auflösen von Objekten] leer ist. Dieser Bericht zeigt schnell, welche Probleme bereits konvertiert wurden, sodass Sie keine Duplikate haben. Klicken Sie einfach auf den aufgelösten Objektnamen, um ihn zu öffnen, damit Sie den Fortschritt der durchgeführten Arbeit verfolgen können.
 
 ## Informationen zu ursprünglichen Problemen in Berichten anzeigen
 

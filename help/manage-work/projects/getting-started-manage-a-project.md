@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335094.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -37,10 +37,10 @@ Unabhängig davon, wie Sie ein Projekt verwalten, möchten Sie jedoch:
 
 * Stellen Sie sicher, dass die Arbeit rechtzeitig abgeschlossen ist.
 * Antizipative Probleme und Risiken.
-* Kommunikation mit Ihren Stakeholdern
+* Kommunikation mit Ihren Interessengruppen;
 * Feiern Sie den Sieg auf dem Weg.
 
-Letztlich besteht Ihre Hauptaufgabe darin, das Projekt zu einem erfolgreichen Abschluss zu führen. [!DNL Workfront] kann Ihnen dabei helfen, die geleistete Arbeit über die Projektzeitleiste zu überwachen; Filter, Ansichten und Gruppierungen; Aktualisierungen; Berichte ... und mehr.
+Letztlich besteht Ihre Hauptaufgabe darin, das Projekt in Richtung eines erfolgreichen Abschlusses zu führen. [!DNL Workfront] kann Ihnen dabei helfen, die geleistete Arbeit über die Timeline des Projekts zu überwachen, Filter, Ansichten und Gruppierungen, Aktualisierungen, Berichte ... und mehr.
 
 <!---
 learn more urls

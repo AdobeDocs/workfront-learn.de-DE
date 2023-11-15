@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335082.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 22%
@@ -28,7 +28,7 @@ In diesem Video erfahren Sie:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Holen Sie sich [!DNL  Workfront] Projekte mithilfe einer Projektvorlage schnell erstellen und ausführen. Anschließend planen Sie Ihr Projekt, indem Sie sich zunächst auf diese fünf Bereiche konzentrieren:
+Holen Sie sich Ihre [!DNL  Workfront] Projekte mithilfe einer Projektvorlage schnell erstellen und ausführen. Anschließend planen Sie Ihr Projekt, indem Sie sich zunächst auf diese fünf Bereiche konzentrieren:
 
 1. Aufgaben
 1. Dauer
@@ -36,4 +36,4 @@ Holen Sie sich [!DNL  Workfront] Projekte mithilfe einer Projektvorlage schnell 
 1. Vorgänger
 1. Arbeitsaufträge
 
-Sobald alles festgelegt ist, ändern Sie den Projektstatus in Aktuell , um das Projekt live zu stellen. Im Zuge des Projektfortschritts möchten Sie die bereits geleistete Arbeit, auftretende Probleme, zu beantwortende Fragen und vieles mehr im Auge behalten. Denken Sie einfach daran ... Sie können alle diese Informationen finden und verwalten in [!DNL Workfront]!
+Sobald alles festgelegt ist, ändern Sie den Projektstatus in Aktuell , um das Projekt live zu stellen. Im Laufe des Projekts möchten Sie die bereits geleistete Arbeit, die auftretenden Probleme, die zu beantwortenden Fragen und vieles mehr im Auge behalten. Denken Sie einfach daran ... Sie können alle diese Informationen finden und verwalten in [!DNL Workfront]!

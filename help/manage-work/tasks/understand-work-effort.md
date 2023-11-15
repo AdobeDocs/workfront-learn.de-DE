@@ -7,10 +7,10 @@ feature: Work Management
 thumbnail: understand-work-effort.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -29,4 +29,4 @@ Auf diese Weise sind die benötigten Schätzungen bereits ausgefüllt und die Be
 
 ![Liste der Projektaufgaben mit [!UICONTROL Arbeitsaufwand] column](assets/planner-fund-work-effort.png)
 
-Weitere Informationen finden Sie unter [!UICONTROL Arbeitsaufwand], siehe [Übersicht über den Arbeitsaufwand](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) Artikel.
+Weitere Informationen unter [!UICONTROL Arbeitsaufwand], siehe [Übersicht über den Arbeitsaufwand](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) Artikel.

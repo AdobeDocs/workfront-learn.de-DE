@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335085.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%
@@ -39,11 +39,11 @@ Die Projektseite ist mit vielen Funktionen gefüllt, die Sie bei der Verwaltung 
 2. **Objekttyp:** Die Anzeige des Objekttyps auf der Landingpage hilft Ihnen dabei herauszufinden, in welchem [!DNL Workfront]. Der Begriff &quot;Projekt&quot;kann durch Ihre [!DNL Workfront] Systemadministrator.
 3. **Projektname:** Der Name des Projekts, das Sie anzeigen. Klicken Sie in den Namen, um ihn zu bearbeiten.
 4. **Projektheader:** Standardinformationen, die auf allen Projektseiten verfügbar sind.
-5. **[!UICONTROL Prozent abgeschlossen]:** Diese wird automatisch entsprechend den im Projekt abgeschlossenen Aufgaben aktualisiert.
+5. **[!UICONTROL Prozent abgeschlossen]:** Diese wird automatisch aktualisiert, je nach den im Projekt abgeschlossenen Aufgaben.
 6. **[!UICONTROL Projektinhaber]:** In den meisten Unternehmen ist dies der Projektmanager. Diese Person ist für die Verwaltung des Projekts in [!DNL Workfront] und sicherstellen, dass sie abgeschlossen ist.
 7. **[!UICONTROL Geplantes Abschlussdatum]:** Das geplante Abschlussdatum des Projekts wird vom Projektmanager über die Projektzeitleiste festgelegt.
-8. **[!UICONTROL Bedingung]:** Die [!UICONTROL Bedingung] ist eine visuelle Darstellung des Projektfortschritts. [!DNL Workfront] kann automatisch die [!UICONTROL Bedingung] basierend auf dem Fortschrittsstatus der Aufgaben im Projekt. Oder [!UICONTROL Bedingung] können manuell über die Projektdetails festgelegt werden.
-9. **[!UICONTROL Status]:** Die [!UICONTROL Status] gibt an, wo das Projekt im Prozess steht: das Projekt ist noch in Planung, das laufende Projekt oder die gesamte Arbeit am Projekt abgeschlossen.
+8. **[!UICONTROL Bedingung]:** Die [!UICONTROL Bedingung] ist eine visuelle Darstellung des Projektfortschritts. [!DNL Workfront] kann automatisch die [!UICONTROL Bedingung] basierend auf dem Fortschritt der Aufgaben im Projekt. Oder [!UICONTROL Bedingung] können manuell über die Projektdetails festgelegt werden.
+9. **[!UICONTROL Status]:** Die [!UICONTROL Status] gibt an, an welcher Stelle das Projekt steht: Ist das Projekt noch in Planung, ist das laufende Projekt oder ist die gesamte Arbeit am Projekt abgeschlossen.
 10. **[!UICONTROL Neue Aufgabe]:** Klicken Sie auf , um eine neue Aufgabe im Projekt zu erstellen. Die Aufgabe wird am Ende der Liste generiert.
 11. **[!UICONTROL Export]:** Exportieren Sie den Projektplan in eine PDF-, Tabellen- oder tabulatorgetrennte Datei.
 12. **Menü im linken Bereich:** Navigieren Sie mit dem linken Bereich zu verschiedenen Informationen über das Projekt. Klicken Sie auf das Symbol, um das Bedienfeld zu reduzieren, wenn Sie etwas mehr Platz auf dem Bildschirm benötigen. Ziehen Sie die Symbole per Drag-and-Drop, damit die Reihenfolge Ihnen hilft, effizient zu arbeiten. Die angezeigten Optionen werden durch Ihre [!DNL Workfront] Systemadministrator.
