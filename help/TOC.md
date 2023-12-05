@@ -3,10 +3,10 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2436'
-ht-degree: 2%
+source-wordcount: '2375'
+ht-degree: 1%
 
 ---
 
@@ -84,11 +84,12 @@ ht-degree: 2%
 
 
 + Benutzerdefinierte Daten {#custom-data}
-   + Benutzerdefinierte Formulare {#custom-forms}
+   + Benutzerdefinierte Forms {#custom-forms}
       + [Benutzerdefiniertes Formular erstellen und freigeben](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [Benutzerdefinierte Felder freigeben](custom-data/custom-forms/share-custom-fields.md)
       + [Benutzerdefiniertes Formular bearbeiten](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Benutzerdefiniertes Formular an ein Objekt anhängen](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [Hinzufügen von Abschnittsumbrüchen und Logiken zu einem benutzerdefinierten Formular](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportieren eines benutzerdefinierten Formulars als PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + Berechnete Ausdrücke {#calculated-expressions}
@@ -195,7 +196,7 @@ ht-degree: 2%
       + [Erweiterte Vorgänger](manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ Bericht- erstellung {#reporting}
++ Berichterstellung {#reporting}
    + Basisberichte {#basic-reporting}
       + [Elemente der Berichterstellung](reporting/basic-reporting/reporting-elements.md)
       + [Berichtkomponenten verstehen](reporting/basic-reporting/reporting-components.md)
@@ -236,7 +237,7 @@ ht-degree: 2%
       + [Zusätzliche Kalenderberichtoptionen](reporting/basic-reporting/additional-calendar-options.md)
       + [Erstellen eines Kalenderberichts](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Erweiterte Analyse {#enhanced-analytics}
+   + Verbesserte Analytics {#enhanced-analytics}
       + [Ein Moment mit dem Produkt [!UICONTROL Verbesserte Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Erste Schritte mit [!UICONTROL Verbesserte Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Hinzufügen [!UICONTROL analytics] zu Layoutvorlagen](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
@@ -268,7 +269,7 @@ ht-degree: 2%
       + [Ressourcenverwaltungseinstellungen für Benutzer](manage-resources/resource-management/settings-for-users.md)
       + [Ressourcen-Management-Setups, Workload Balancer und Nutzungs-Bericht](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
-   + Workload Balancer {#workload-balancer}
+   + Lastenausgleich {#workload-balancer}
       + [Suchen des Lastenausgleichs](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [Den Lastenausgleich filtern](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Anzeigen von Benutzerzuordnungen im Arbeitslastausgleich](manage-resources/workload-balancer/view-user-allocations.md)
@@ -290,7 +291,7 @@ ht-degree: 2%
       + [Anzeigen der Zeitabstände bei der Zuweisung von Aufgaben](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Sichtbarkeit in Tools zur Ressourcenverwaltung](manage-resources/pto/visibility-in-resource-management-tools.md)
 
-   + Szenarienplaner {#scenario-planner}
+   + Szenario-Planer {#scenario-planner}
       + [Einen Moment mit dem Produkt zum Szenario-Planer](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [Was ist der Szenario-Planer?](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Zugriff auf einen Plan im Szenario-Planer](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
@@ -474,7 +475,7 @@ ht-degree: 2%
       + [Arbeiten mit JSON](fusion/12-exercises/working-with-json.md)
       + [Entwicklungstool](fusion/12-exercises/devtool.md)
 
-+ Workfront-Korrekturabzug {#workfront-proof}
++ Workfront-Testversand {#workfront-proof}
    + [Erfahren Sie mehr über die Vorteile von Testsendungen](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [Unterschiede zwischen Dokumenten und Testsendungen](workfront-proof/document-vs-proof.md)
    + [Erläuterung von Testversand-Viewern](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -523,7 +524,7 @@ ht-degree: 2%
       + [Verwalten von Testversandkommentaren](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Durchführen des Testversands](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Workfront DAM {#workfront-dam-program}
++ WORKFRONT DAM {#workfront-dam-program}
    + Systemeinstellungen {#system-setup}
       + [Grundlegendes [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Grundlegendes zu Systemeinstellungen](workfront-dam/system-setup/system-setup-system-settings.md)
@@ -587,7 +588,7 @@ ht-degree: 2%
 + Agile {#agile}
 
    + Scrum {#scrum}
-      + [Erstellen eines agilen Scum-Teams](agile/create-a-scrum-agile-team.md)
+      + [Erstellen eines Scrum-agile-Teams](agile/create-a-scrum-agile-team.md)
       + [Verwalten von Arbeiten als Scrum-Team](agile/manage-work-scrum-team.md)
       + [Aufbauen des Rückstands](agile/gooming-the-backlog.md)
       + [Planen und Erstellen einer Iteration](agile/plan-and-create-an-iteration.md)
@@ -612,7 +613,7 @@ ht-degree: 2%
    + [API-Explorer](best-practices/api-explorer-bp.md)
    + [Geschäftsfall und Portfolio-Optimierung](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Kommunikation](best-practices/communication-bp.md)
-   + [Benutzerdefinierte Formulare](best-practices/custom-forms-bp.md)
+   + [Benutzerdefinierte Formulare in meiner Gruppe](best-practices/custom-forms-bp.md)
    + [Benutzerspezifische Berichte](best-practices/custom-reports-bp.md)
    + [Dashboards](best-practices/dashboards-bp.md)
    + [Dokumente](best-practices/documents-bp.md)
