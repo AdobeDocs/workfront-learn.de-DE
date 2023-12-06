@@ -10,26 +10,21 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: 75b9d3b1163466909a4f5b3cbf0f3a66694f5038
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 # Grundlegende Navigation
 
-So navigieren Sie zu [!UICONTROL Analytics] Verwenden Sie im neuen Workfront-Erlebnis die [!UICONTROL Hauptmenü] Schaltfläche.
+So navigieren Sie zu [!UICONTROL Analytics] Verwenden Sie in Workfront die [!UICONTROL Hauptmenü] Schaltfläche.
 
 ![Ein Bild, das die [!UICONTROL Analytics] Funktion in der Workfront [!UICONTROL Hauptmenü]](assets/Navigate-NWE.png)
 
-Suchen von Analysen in [!DNL Workfront Classic] über die globale Navigationsleiste aus.
+In diesem Video sehen Sie Folgendes:
 
-![Ein Bild, das die [!UICONTROL Analytics] in der [!DNL Workfront Classic]](assets/Navigate-Classic.png)
-
-In diesem Video erfahren Sie:
-
-* Navigieren zum Analytics-Bereich
 * Eine Übersicht über die Arbeitstabellen
 * Eine Übersicht über die Personendiagramme
 
