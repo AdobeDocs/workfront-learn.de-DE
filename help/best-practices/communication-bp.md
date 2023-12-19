@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '376'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## Was ist eine Adobe Workfront-Best Practice?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
 
 Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
@@ -67,3 +67,6 @@ Wenn ein Projekt viele Aktualisierungs-Threads enthält, kann es schwierig sein,
 * Text
 * Name des Inhabers
 * Eingabedatum
+
+Eine schrittweise Anleitung zum Erstellen eines Berichts mit Eingabeaufforderungen finden Sie unter [Aufgabenbericht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) Tutorial und führen Sie dann die folgende Aktivität aus.
+

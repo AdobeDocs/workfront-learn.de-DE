@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Was ist eine Adobe Workfront-Best Practice?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
 
 Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
@@ -51,6 +51,8 @@ Durch die Verwendung eines Geschäftsszenarios vor dem Projektstart oder sogar z
 
 Außerdem erhalten Sie die Möglichkeit, Interessengruppen zu zeigen, wie Ihr Projekt zu Abteilungen-, Regional- und/oder Unternehmenszielen beiträgt.
 
+Anweisungen zur Verwendung des Geschäftsfalls finden Sie unter [Geschäftsfall verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+
 </br>
 </br>
 
@@ -61,3 +63,8 @@ Schätzen und passen Sie wichtige Projektinformationen wie Kosten, Ausrichtung, 
 **Deshalb**
 
 Wenn Sie sicherstellen, dass diese Informationen dem Projekt &quot;Echtzeit&quot;entsprechen, können Sie die Punktfunktion im Portfolio Optimizer genau verwenden, um die Priorität der aufgelisteten Projekte zu bestimmen. Der Portfolio Optimizer ist ein hervorragendes Tool, um sicherzustellen, dass Ihre Projekte effizient priorisiert und auf die Strategie und den Wert Ihres Unternehmens abgestimmt werden.
+
+Anweisungen zur Verwendung des Geschäftsfalls finden Sie unter [Geschäftsfall verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+
+Anweisungen zur Verwendung des Portfolio Optimizer finden Sie unter [Portfolio Optimizer verwenden, um Arbeit zu priorisieren und zu verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+

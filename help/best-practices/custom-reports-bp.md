@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Was ist eine Adobe Workfront-Best Practice?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
 
 Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
@@ -60,7 +60,7 @@ Reduzieren Sie die Anzahl der Berichte, die Sie erstellen müssen, und erweitern
 Mithilfe von Eingabeaufforderungen können Sie im Moment Filterzusätze für einen Bericht vornehmen, ohne die Filtereinstellungen des Berichts zu bearbeiten. Sie haben beispielsweise einen Bericht, der Aufgaben eines bestimmten Status sucht, die einem bestimmten Team zugewiesen sind. Fügen Sie diesem &quot;einfachen&quot;Bericht Eingabeaufforderungen hinzu, mit denen Sie den Zeitrahmen für die Fälligkeitsdaten der Aufgaben eingrenzen, nur Aufgaben anzeigen, an die Dokumente angehängt sind, oder Aufgaben mit einem bestimmten benutzerdefinierten Formular identifizieren können.
 
 
-**Hinweis**: Bei einigen Benutzern werden Eingabeaufforderungen möglicherweise verwirrend angezeigt. Wenn ja, könnten mehrere Berichte mit klaren Titeln eine bessere Lösung für sie sein.
+**Hinweis**: Bei einigen Benutzern sind Eingabeaufforderungen möglicherweise verwirrend. Wenn ja, könnten mehrere Berichte mit klaren Titeln eine bessere Lösung für sie sein.
 
 
 </br>
@@ -79,17 +79,6 @@ Dies spart nicht nur Zeit, sondern stellt sicher, dass der neue Bericht die Filt
 
 **Best Practice**
 
-Verwenden Sie nach Möglichkeit die vordefinierte Berichtsfunktion anstelle des Textmodus.
-
-**Deshalb**
-
-Dadurch werden Berichtskonfigurationen so einfach wie möglich gehalten, um sicherzustellen, dass sie von Ihnen und anderen skalierbar und unterstützt werden.
-
-</br>
-</br>
-
-**Best Practice**
-
 Verwenden Sie nutzerbasierte Platzhalter, um dynamische Berichte zu erstellen, sodass der Benutzer, der den Bericht anzeigt, die für ihn relevanten Informationen sieht.
 
 **Deshalb**
@@ -98,6 +87,8 @@ Benutzerbasierte Platzhalter machen Berichte flexibler, sodass Berichtsautoren e
 
 </br>
 </br>
+
+Anweisungen zur Verwendung benutzerbasierter Platzhalter in Berichten finden Sie unter [Erstellen von Filtern mit benutzerdefinierten Platzhaltern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
 
 **Best Practice**
 
