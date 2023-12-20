@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Durch die Verwendung eines Geschäftsszenarios vor dem Projektstart oder sogar z
 
 Außerdem erhalten Sie die Möglichkeit, Interessengruppen zu zeigen, wie Ihr Projekt zu Abteilungen-, Regional- und/oder Unternehmenszielen beiträgt.
 
-Anweisungen zur Verwendung des Geschäftsfalls finden Sie unter [Geschäftsfall verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+Anweisungen zur Verwendung des Geschäftsfalls finden Sie unter [Geschäftsfall verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
 </br>
 </br>
@@ -64,7 +64,7 @@ Schätzen und passen Sie wichtige Projektinformationen wie Kosten, Ausrichtung, 
 
 Wenn Sie sicherstellen, dass diese Informationen dem Projekt &quot;Echtzeit&quot;entsprechen, können Sie die Punktfunktion im Portfolio Optimizer genau verwenden, um die Priorität der aufgelisteten Projekte zu bestimmen. Der Portfolio Optimizer ist ein hervorragendes Tool, um sicherzustellen, dass Ihre Projekte effizient priorisiert und auf die Strategie und den Wert Ihres Unternehmens abgestimmt werden.
 
-Anweisungen zur Verwendung des Geschäftsfalls finden Sie unter [Geschäftsfall verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+Anweisungen zur Verwendung des Geschäftsfalls finden Sie unter [Geschäftsfall verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
-Anweisungen zur Verwendung des Portfolio Optimizer finden Sie unter [Portfolio Optimizer verwenden, um Arbeit zu priorisieren und zu verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+Anweisungen zur Verwendung des Portfolio Optimizer finden Sie unter [Portfolio Optimizer verwenden, um Arbeit zu priorisieren und zu verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
 

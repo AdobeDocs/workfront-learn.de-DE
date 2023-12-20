@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,6 @@ Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der a
 * Erwägen Sie die Verwendung von Berichtsaufforderungen zur Eingrenzung der Ergebnisse eines Berichts, anstatt mehrere, ähnliche Berichte zu erstellen oder komplexe Filterstrukturen in einem Bericht zu erstellen.
 
 * Beschleunigen Sie die Berichterstellung, indem Sie einen ähnlichen vorhandenen Bericht kopieren, aus dem Sie Ihren neuen Bericht erstellen können.
-
-* Verwenden Sie nach Möglichkeit die vordefinierte Berichtsfunktion anstelle des Textmodus.
 
 * Verwenden Sie nutzerbasierte Platzhalter, um dynamische Berichte zu erstellen, sodass der Benutzer, der den Bericht anzeigt, die für ihn relevanten Informationen sieht.
 
@@ -88,7 +86,7 @@ Benutzerbasierte Platzhalter machen Berichte flexibler, sodass Berichtsautoren e
 </br>
 </br>
 
-Anweisungen zur Verwendung benutzerbasierter Platzhalter in Berichten finden Sie unter [Erstellen von Filtern mit benutzerdefinierten Platzhaltern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+Anweisungen zur Verwendung benutzerbasierter Platzhalter in Berichten finden Sie unter [Erstellen von Filtern mit benutzerdefinierten Platzhaltern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **Best Practice**
 

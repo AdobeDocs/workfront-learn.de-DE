@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Was ist eine Adobe Workfront-Best Practice?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
 
 Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
@@ -53,6 +53,10 @@ Reduzieren Sie die Anzahl der benutzerspezifischen Berichte, die Sie durch die N
 
 Die Erstellung von einmaligen Nutzungsberichten für jedes Datensegment, das Sie sehen möchten, ist zeitaufwendig und führt zu einer Optimierung des Workfront-Systems.
 
+Anweisungen zum Erstellen von Berichten mit Eingabeaufforderungen finden Sie im Kapitel &quot;Einrichtung und Verwendung von Berichtsaufforderungen&quot;unter [Grundlegendes zu Berichtseinstellungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+
+Anweisungen zum Erstellen von Berichten mit benutzerdefinierten Eingabeaufforderungen finden Sie unter [Benutzerdefinierte Eingabeaufforderungen erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
+
 </br>
 </br>
 
@@ -62,7 +66,9 @@ Verwenden Sie die Listensteuerelemente in Layoutvorlagen, um nicht benötigte Fi
 
 **Deshalb**
 
-Weniger ist mehr. Das Ausblenden von Filter-, Anzeige- und Gruppierungslisten-Optionen, die für die täglichen Workflows Ihrer Benutzer nicht relevant sind, führt zu einer Verkleinerung der Listen, wodurch Benutzer schneller finden können, was sie benötigen.
+Weniger ist mehr. Das Ausblenden von Filter-, Anzeige- und Gruppierungslisten-Optionen, die für die täglichen Workflows Ihrer Benutzer nicht relevant sind, führt zu einer Verkleinerung der Listen, wodurch Benutzer schneller das benötigten finden können.
+
+Anweisungen zum Ausblenden von Filtern, Ansichten oder Gruppierungen mit Layoutvorlagen finden Sie unter [Berichtslisten mit Layoutvorlagen anpassen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
 
 </br>
 </br>
@@ -77,6 +83,8 @@ Wenn Sie Filter, Ansichten und Gruppierungen erstellt haben, die Informationen z
 
 Das Anpassen der Informationen, die Sie Ihren Benutzern über die Layoutvorlagen anzeigen möchten, ist außerdem zeitsparend für System- und Gruppenadministratoren, da sie nicht jeden Filter, jede Ansicht und jede Gruppierungsoption einzeln freigeben müssen.
 
+Anweisungen zum Freigeben von Filtern, Ansichten oder Gruppierungen für Layoutvorlagen finden Sie unter [Berichtslisten mit Layoutvorlagen anpassen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
+
 </br>
 </br>
 
@@ -86,6 +94,6 @@ Verwenden Sie beim Erstellen von Filtern für den Projektstatus, den Aufgabensta
 
 **Deshalb**
 
-Mithilfe von (Objekt)>>Entspricht werden alle benutzerdefinierten Status eingefügt, denen dieser spezifische Status im Feld Entspricht mit in den Statuskonfigurationen zugewiesen ist. Beim Einrichten des Filters unter (Objekt) > Status > Gleich müssen Sie hingegen bestimmte Status für den Filter auswählen. Dies könnte eine Wartungsaufgabe darstellen, wenn Sie diese neuen Status in verschiedenen Filtern berücksichtigen müssen. Jeder Filter muss geöffnet und mit dem neuen Status aktualisiert werden.
+Mithilfe von (Objekt)>>Gleich mit schließen Sie alle benutzerdefinierten Status ein, denen dieser spezifische Status im Feld Gleich mit in den Statuskonfigurationen zugewiesen ist. Beim Einrichten des Filters unter (Objekt) > Status > Gleich müssen Sie hingegen bestimmte Status für den Filter auswählen. Dies könnte eine Wartungsaufgabe darstellen, wenn Sie diese neuen Status in verschiedenen Filtern berücksichtigen müssen. Jeder Filter muss geöffnet und mit dem neuen Status aktualisiert werden.
 
 Wenn Sie beispielsweise alle aktuellen Projekte sehen möchten, können Sie Ihren Filter so einrichten, dass er Projekt > Status > Gleich > Aktuell liest. Wenn jedoch jemand einen benutzerdefinierten Status namens &quot;Aktiv&quot;hinzufügt und ihn mit &quot;Aktuell&quot;gleicht, findet dieser Filter keine Projekte mit dem Status &quot;Aktiv&quot;. Wenn Sie jedoch Projekt > Status entspricht > Gleich > Aktuell verwenden, sucht der Filter Objekte mit dem Status Aktuell oder Aktiv, da beide im Feld Gleicht mit über Aktuelles verfügen.
