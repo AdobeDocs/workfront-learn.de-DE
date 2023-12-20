@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Reduzieren Sie die Anzahl der benutzerspezifischen Berichte, die Sie durch die N
 
 Die Erstellung von einmaligen Nutzungsberichten für jedes Datensegment, das Sie sehen möchten, ist zeitaufwendig und führt zu einer Optimierung des Workfront-Systems.
 
-Anweisungen zum Erstellen von Berichten mit Eingabeaufforderungen finden Sie im Kapitel &quot;Einrichtung und Verwendung von Berichtsaufforderungen&quot;unter [Grundlegendes zu Berichtseinstellungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+Anweisungen zum Erstellen von Berichten mit Eingabeaufforderungen finden Sie im Kapitel &quot;Einrichtung und Verwendung von Berichtsaufforderungen&quot;im [Grundlegendes zu Berichtseinstellungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) Video.
 
 Anweisungen zum Erstellen von Berichten mit benutzerdefinierten Eingabeaufforderungen finden Sie unter [Benutzerdefinierte Eingabeaufforderungen erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 
