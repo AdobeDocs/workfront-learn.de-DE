@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 97e97fa1a91e7ddae69c1e9fff162917c72b757d
+source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -49,9 +49,9 @@ Verwenden Sie Ihre Workflows, um die erforderlichen Benachrichtigungen zu bestim
 
 Die schrittweise Durchsicht Ihrer Workflows erleichtert die Identifizierung der Kommunikationspunkte und die Sicherstellung, dass die richtigen Benachrichtigungen aktiviert sind. Dadurch werden die Benachrichtigungen dahingehend priorisiert, wie Ihre Organisation bereits arbeitet, sodass Spam und Kommunikationsfehler vermieden werden.
 
-Anweisungen zum Einrichten von Ereignisbenachrichtigungen finden Sie unter [Einrichten von Ereignisbenachrichtigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+Anweisungen zum Einrichten von Ereignisbenachrichtigungen finden Sie unter [Einrichten von Ereignisbenachrichtigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
 
-Anweisungen zum Verwalten von Ereignisbenachrichtigungen finden Sie unter [In-App- und E-Mail-Ereignisbenachrichtigungen verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
+Anweisungen zum Verwalten von Ereignisbenachrichtigungen finden Sie unter [In-App- und E-Mail-Ereignisbenachrichtigungen verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
 
 </br>
 </br>
