@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '1614'
+source-wordcount: '1705'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Was ist eine Adobe Workfront-Best Practice?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
 
 Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
@@ -69,7 +69,7 @@ Verwenden Sie Vorlagen beim Erstellen von Projekten.
 
 **Deshalb**
 
-Projektvorlagen nehmen den Projektmanagern (und anderen, die Projekte erstellen) keinen Überblick darüber, welche Aufgaben ein Projekt enthalten sollte, wie die Timeline strukturiert werden kann usw. Vorlagen sind die effektivste Methode, die Projekterstellung zu beschleunigen.
+Projektvorlagen nehmen den Projektmanagern (und anderen, die Projekte erstellen) keinen Überblick darüber, welche Aufgaben ein Projekt enthalten sollte, wie die Timeline strukturiert werden kann usw. Vorlagen sind die effektivste Methode, um die Projekterstellung zu beschleunigen.
 
 Wichtig ist, dass Vorlagen für die Konsistenz von Projekten ähnlicher Typen sorgen, sodass Personen, Prozesse und Datenpunkte jedes Mal auf die gleiche Weise detailliert werden. Selbst Projekte mit schnellen Umläufen (ein oder zwei Tage) und minimalen Aufgaben können von der Erstellung mit Projektvorlagen profitieren.
 
@@ -108,6 +108,8 @@ Verwenden Sie die Projektfreigabe auf einer Projektvorlage, um automatisch Zugri
 
 Der Zugang zu bestimmten Projekten wird über das Projekt selbst gewährt. Wenn dieselbe Personengruppe immer Zugriff auf Projekte benötigt, die mit einer bestimmten Vorlage erstellt wurden, fügen Sie sie in der Vorlage unter der Option Projektfreigabe hinzu. Sie können den Zugriff auf Projekte nicht nur sofort nach ihrer Erstellung steuern, sondern auch Skalierbarkeitsmaßnahmen optimieren, wenn die Berechtigungen in Zukunft geändert werden müssen.
 
+Anweisungen zum Freigeben von Projekten, die mit einer Vorlage erstellt wurden, finden Sie im Kapitel &quot;Freigeben von Projekten, die mit einer Vorlage erstellt wurden&quot;unter [Projektvorlage freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
+
 **Hinweis**: Die Vorlagenfreigabe gewährt Zugriff auf die Vorlage selbst. Ein Benutzer muss mindestens über Ansichtsberechtigungen verfügen, um Projekte mit der Vorlage erstellen zu können.
 
 </br>
@@ -119,9 +121,9 @@ Weisen Sie Aufgaben oder Teams zu, nicht Einzelpersonen.
 
 **Deshalb**
 
-Wenn ein einzelner Benutzer Positionen ändert oder die Organisation verlässt, müssen Sie die Projektvorlagen, die diese Person enthalten, manuell aktualisieren. Dies erfordert Zeit für einige System- oder Gruppenadministratoren oder Projektmanager.
+Wenn ein einzelner Benutzer Positionen ändert oder die Organisation verlässt, müssen Sie die Projektvorlagen, die diese Person einschließen, manuell aktualisieren. Dies erfordert Zeit für einige System- oder Gruppenadministratoren oder Projektmanager.
 
-Wenn Sie auf Vorlagen Stellenrollen oder Teams verwenden, wirken sich Personaländerungen nicht direkt auf Ihre Projektvorlagen aus, da jedem, der diese Rolle zugewiesen hat, oder auf dieses Team die Arbeit zugewiesen werden kann. Dadurch wird sichergestellt, dass die Arbeit nicht durch die Risse rutscht. Aufgabenrollenzuweisungen vereinfachen auch die Zuweisung von Aufgaben an einzelne Benutzer, da Workfront Ihnen eine Liste der Personen anzeigen kann, denen diese Rolle zugewiesen wurde.
+Wenn Sie auf Vorlagen Stellenrollen oder Teams verwenden, wirken sich Personaländerungen nicht direkt auf Ihre Projektvorlagen aus, da die Arbeit jedem, der diese Rolle zugewiesen hat, oder diesem Team zugewiesen werden kann. Dadurch wird sichergestellt, dass die Arbeit nicht durch die Risse rutscht. Aufgabenrollenzuweisungen vereinfachen auch die Zuweisung von Aufgaben an einzelne Benutzer, da Workfront Ihnen eine Liste der Personen anzeigen kann, denen diese Rolle zugewiesen wurde.
 
 Darüber hinaus können Sie mithilfe der Ressourcenplanungs-Tools von Workfront die benötigten Ressourcen berechnen und die zukünftige Arbeit planen.
 
@@ -146,7 +148,7 @@ Verwenden Sie die Aufgabenbeschreibung, um die kleinen Schritte der Aufgabe zu e
 
 **Deshalb**
 
-Wenn mehrere Aufgaben in einer Zeile derselben Rolle/Person zugewiesen sind, ist dies ein Hinweis darauf, dass diese Aufgaben kombiniert werden können. Wenn einem Benutzer zu viele Aufgaben zugewiesen sind, kann es vorkommen, dass er sich mehr Arbeit anfühlt, was sich auf die Übernahme durch Workfront auswirken kann.
+Wenn mehrere Aufgaben in einer Zeile derselben Rolle/Person zugewiesen sind, ist dies ein Hinweis darauf, dass diese Aufgaben kombiniert werden können. Wenn einem Benutzer zu viele Aufgaben zugewiesen sind, kann es vorkommen, dass er sich mehr Arbeit anfühlt, was sich auf die Übernahme von Workfront auswirken kann.
 
 </br>
 </br>
@@ -157,7 +159,7 @@ Stellen Sie sicher, dass die Vorlagenaufgaben Aufgabendauer, geplante Stunden un
 
 **Deshalb**
 
-Diese drei Dinge - Zeiträume, geplante Stunden und Vorgänger - sind die Bausteine der Zeitleiste des Projekts. Dies ist der Schlüssel, um zu wissen, wie lange Arbeit dauern wird und wann sie durchgeführt werden muss. Die Ressourcen-Management-Tools von Workfront, die Zeitdauer und die geplanten Stunden sowie die Aufgabenrollenzuweisungen zur Berechnung der Ressourcenkapazität, -verfügbarkeit und mehr.
+Diese drei Dinge - Zeiträume, geplante Stunden und Vorgänger - sind die Bausteine der Zeitleiste des Projekts. Dies ist der Schlüssel, um zu wissen, wie lange Arbeit dauern wird und wann sie durchgeführt werden muss. Die Ressourcen-Management-Tools von Workfront verwenden Dauern und geplante Stunden sowie Aufgabenrollenzuweisungen, um die Ressourcenkapazität, Verfügbarkeit und mehr zu berechnen.
 
 Wenn Sie nicht sicher sind, wie Sie die Dauer oder geplante Stunden zum ersten Mal schätzen können, arbeiten Sie mit dem Projektteam zusammen, um einige erste Schätzungen zu erstellen. Sobald Sie die Vorlage verwendet haben, wenden Sie sich erneut an das Projektteam, um festzustellen, wo Änderungen vorgenommen werden können, um die Vorlage genauer zu gestalten. Wenn Benutzer die Zeit in Workfront protokollieren, können Sie die geplanten Stunden eines Projekts mit den tatsächlichen Stunden vergleichen, um zu sehen, wo Anpassungen erforderlich sind.
 
@@ -171,9 +173,11 @@ Vorkonfigurieren Sie Projektdetails und fügen Sie benutzerdefinierte Formulare 
 
 **Deshalb**
 
-Vergewissern Sie sich, dass die für alle Projekte standardmäßig bereitgestellten Informationen in der Projektvorlage ausgefüllt sind. Dies beschleunigt nicht nur die Projekterstellung, sondern stellt auch sicher, dass die erforderlichen Informationen vorhanden sind und projektübergreifend konsistent sind.
+Vergewissern Sie sich, dass die für alle Projekte standardmäßig bereitgestellten Informationen in der Projektvorlage ausgefüllt sind. Dies beschleunigt nicht nur die Projekterstellung, sondern stellt auch sicher, dass die erforderlichen Informationen vorhanden sind und dass sie projektübergreifend konsistent sind.
 
 Hängen Sie benutzerdefinierte Formulare des Projekts an, die mit benutzerdefinierten Formularen übereinstimmen, um gesendete Informationen beim Konvertieren der Anforderung in ein Projekt mithilfe der Vorlage abzurufen.
+
+Anweisungen zum Anhängen eines benutzerdefinierten Formulars an ein Objekt wie eine Projektvorlage finden Sie unter [Benutzerdefiniertes Formular an ein Objekt anhängen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html).
 
 </br>
 </br>
@@ -220,12 +224,13 @@ Neben Aufgabeneinstellungen wie Dauer und geplante Stunden sollten einige Aspekt
 
 **Best Practice**
 
-Wenn Sie die Option Planen von für eine Vorlage anpassen, überprüfen Sie die Aufgabenbegrenzungen und aktualisieren Sie sie.
+Wenn Sie die Option Planmodus für eine Vorlage anpassen, überprüfen Sie die Aufgabenbegrenzungen und aktualisieren Sie sie.
 
 **Deshalb**
 
-Das Mischen verschiedener Aufgabenbeschränkungen für ein Projekt kann zu unerwarteten und verwirrenden geplanten Datumsberechnungen führen. Wenn beispielsweise Startdatum für die Option Planen von ausgewählt ist, wird allen in diesem Projekt erstellten Aufgaben standardmäßig die Aufgabenbegrenzung Sofort wie möglich zugewiesen. Wenn Sie später die Option Planen von in Abschlussdatum wechseln, haben alle erstellten Aufgaben standardmäßig eine Aufgabenbegrenzung von &quot;So spät wie möglich&quot;. Eine unbeabsichtigte Mischung von Aufgaben mit diesen Einschränkungen kann dazu führen, dass geplante Zeitpunkte in Ihrer Projekt-Timeline verwirrt werden.
+Das Mischen verschiedener Aufgabenbeschränkungen für ein Projekt kann zu unerwarteten und verwirrenden geplanten Datumsberechnungen führen. Wenn beispielsweise für die Option &quot;Planungsmodus&quot;das Startdatum ausgewählt ist, wird allen in diesem Projekt erstellten Aufgaben standardmäßig die Aufgabenbegrenzung Sofort wie möglich zugewiesen. Wenn Sie später die Option Planmodus auf Abschlussdatum umstellen, haben alle erstellten Aufgaben standardmäßig eine Aufgabenbegrenzung von So spät wie möglich. Eine unbeabsichtigte Mischung von Aufgaben mit diesen Einschränkungen kann dazu führen, dass geplante Zeitpunkte in Ihrer Projekt-Timeline verwirrt werden.
 
+Informationen zu Aufgabenbeschränkungen und deren Verwendung finden Sie unter [Typen und Aufgabenbegrenzungen von Dauer verstehen und verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
 
 </br>
 </br>
@@ -236,6 +241,8 @@ Das Mischen verschiedener Aufgabenbeschränkungen für ein Projekt kann zu unerw
 
 **Deshalb**
 
-Wenn Sie eine Vorlage aus einem vorhandenen Projekt erstellen, werden die Personen übernommen, denen Aufgaben/Probleme im Projekt zugewiesen wurden. Und während Sie mit Ihrer Vorlage arbeiten, können Sie Personen entfernen, denen zuvor Arbeit zugewiesen wurde, oder eine Zuweisung ändern, die Sie selbst auf der Vorlage vorgenommen haben.
+Wenn Sie eine Vorlage aus einem vorhandenen Projekt erstellen, überführt Workfront die Personen, denen im Projekt Aufgaben/Probleme zugewiesen wurden, im Bereich Personen , es sei denn, Sie wählen die Option Zuweisungen löschen während der Erstellung aus. Und während Sie mit Ihrer Vorlage arbeiten, sollten Sie diese Personen entfernen, denen zuvor Arbeit zugewiesen wurde, oder eine Zuweisung ändern, die Sie selbst auf der Vorlage vorgenommen haben.
 
-Alle diese Benutzer werden als Teil des Projektteams in den Abschnitten Personen und Planung des Projekts aufgeführt. Dadurch werden sie an alle Projekte weitergegeben, die aus dieser Vorlage erstellt wurden. Dies kann für den Benutzer Verwirrung stiften, da er im Projektteam Benachrichtigungen über die Aktivität im Projekt erhält, das Projekt in der Liste &quot;Projekte, bei denen ich auf bin&quot;anzeigt und Berechtigungen für das Projekt und dessen Aufgaben, Probleme und Dokumente erhält.
+Alle diese Benutzer werden als Teil des Projektteams in den Abschnitten Personen und Planung des Projekts aufgeführt. Dadurch werden sie an alle Projekte weitergegeben, die aus dieser Vorlage erstellt wurden. Dies könnte für den Benutzer Verwirrung stiften, da er als Teil des Projektteams Benachrichtigungen über die Aktivität im Projekt erhält, das Projekt in der Liste &quot;Projekte, bei denen ich auf bin&quot;anzeigt und Berechtigungen für das Projekt und dessen Aufgaben, Probleme und Dokumente erhält.
+
+

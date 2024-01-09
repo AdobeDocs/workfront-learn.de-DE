@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '2374'
+source-wordcount: '2386'
 ht-degree: 1%
 
 ---
@@ -169,6 +169,8 @@ ht-degree: 1%
       + [Projekt direkt aus einer Vorlage erstellen](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Projektvorlage freigeben](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Vorhandenes Projekt kopieren](manage-work/manage-projects/copy-an-existing-project.md)
+      + [Deaktivieren einer Projektvorlage](manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+      + [Bearbeiten des Projektteams in einer Projektvorlage](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + Projektzeitpläne {#project-timelines}
       + [Zeitpläne von Projekten](manage-work/project-timelines/understand-project-timelines.md)
@@ -628,7 +630,7 @@ ht-degree: 1%
    + [Voreinstellungen für Projekte, Aufgaben und Probleme](best-practices/project-task-issue-preferences-bp.md)
    + [Projektvorlagen](best-practices/project-templates-bp.md)
    + [Workfront-Korrekturabzug](best-practices/proofing-bp.md)
-   + [Anforderungswarteschlange](best-practices/request-queues-bp.md)
+   + [Anfrage-Warteschlange](best-practices/request-queues-bp.md)
    + [Ressourcenplaner](best-practices/resource-planner-bp.md)
    + [Ressourcenpools](best-practices/resource-pools-bp.md)
    + [Szenarienplaner](best-practices/scenario-planner-bp.md)
