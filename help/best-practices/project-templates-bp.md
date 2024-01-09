@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '1705'
+source-wordcount: '1743'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,8 @@ Prüfen und aktualisieren Sie regelmäßig Projektvorlagen.
 
 Da sich Prozesse und Teams ändern, sollten Projektvorlagen aktualisiert werden. Legen Sie einen regelmäßigen Cadence (z. B. vierteljährlich) fest, um zu überprüfen, welche Vorlagen nicht aktiv verwendet werden. Sie können sie deaktivieren, damit sie noch in Workfront sind, aber nicht in Vorlagenauswahllisten angezeigt werden.
 
+Anweisungen zum Deaktivieren einer Projektvorlage finden Sie unter [Deaktivieren einer Projektvorlage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ Wenn Sie eine Vorlage aus einem vorhandenen Projekt erstellen, überführt Workf
 
 Alle diese Benutzer werden als Teil des Projektteams in den Abschnitten Personen und Planung des Projekts aufgeführt. Dadurch werden sie an alle Projekte weitergegeben, die aus dieser Vorlage erstellt wurden. Dies könnte für den Benutzer Verwirrung stiften, da er als Teil des Projektteams Benachrichtigungen über die Aktivität im Projekt erhält, das Projekt in der Liste &quot;Projekte, bei denen ich auf bin&quot;anzeigt und Berechtigungen für das Projekt und dessen Aufgaben, Probleme und Dokumente erhält.
 
-
+Anweisungen zum Bearbeiten des Projektteams in einer Projektvorlage finden Sie unter [Bearbeiten des Projektteams in einer Projektvorlage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).

@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '826'
 ht-degree: 1%
 
 ---
@@ -134,7 +134,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen &quot;Dauer-Typen und Aufgabenb
 
 Wer Projektvorlagen verwaltet, weiß, dass er den aktiven Status (True oder False) jeder Vorlage in einer Liste sehen kann. Noch besser - das Feld kann in Zeilen bearbeitet werden!
 
-Erstellen Sie eine Projektvorlagenansicht mit dem Namen &quot;Project template active status&quot;mit den folgenden Spalten:
+Erstellen Sie eine Projektvorlagenansicht mit dem Namen &quot;Standard+aktiver Status&quot;mit den folgenden Spalten:
 
 * [!UICONTROL Name]
 * [!UICONTROL Inhaber]
