@@ -7,17 +7,18 @@ role: User
 level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 jira: KT-10174
+last-substantial-update: 2024-01-23T00:00:00Z
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 731005176bc02e3a4d26d00373931fa7444afeea
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
 # Informationen zu E-Mail-Warnungen und Testversandbenachrichtigungen
 
-E-Mail-Warnungen unterscheiden sich von Testversand-Benachrichtigungs-E-Mails. Sie erhalten eine Benachrichtigungs-E-Mail über einen Testversand, wenn Ihnen ein neuer Testversand zur Überprüfung zugewiesen wurde, wenn ein Testversand verspätet ist oder wenn eine neue Version des Testversands vorliegt, den Sie sich ansehen können.
+E-Mail-Warnungen unterscheiden sich von Testversand-Benachrichtigungs-E-Mails. Sie erhalten eine Benachrichtigungs-E-Mail über einen Testversand, wenn Ihnen ein neuer Testversand zugewiesen wurde, wenn ein Testversand verspätet ist oder wenn eine neue Testversand-Version vorliegt, die Sie ansehen können.
 
 ![Ein Bild einer Benachrichtigungs-E-Mail zum Testversand, das angibt, dass ein neuer Testversand durchgeführt werden muss.](assets/email-alert-1.png)
 
@@ -29,8 +30,10 @@ E-Mail-Warnhinweise werden pro Validierer/Genehmiger festgelegt, meistens beim H
 
 Auch wenn E-Mail-Warnungen auf [!UICONTROL Behinderte], werden die Testversand-Empfänger weiterhin über einen neuen Testversand oder eine neue Version informiert.
 
-<!--
-# Learn more
-* New proof email
-* Late proof email
--->
+## Best Practices
+
+| Best Practice | Deshalb |
+|---|---|
+| Deaktivieren Sie die Einstellung &quot;E-Mails von Workfront senden, wenn ein Kommentar zu einem Testversand abgegeben wird&quot; in den Workfront-Setups. | Wenn diese Einstellung aktiviert ist (standardmäßig), können Benutzer mehrere E-Mail-Benachrichtigungen für jeden Kommentar auf einem Testversand erhalten - eine von der Testfunktion und eine von Workfront selbst. Diese doppelten Benachrichtigungen führen zu einer Unterbrechung und Verwirrung der E-Mail-Benachrichtigung sowie zu einem vollständigen E-Mail-Posteingang, was letztendlich dazu führen kann, dass Benutzer die von ihnen empfangenen Testversandbenachrichtigungen ignorieren. Dies wiederum könnte verpasste Termine bedeuten. <br> <br>Hinweis: Diese Einstellung finden Sie im Workfront-Hauptmenü > Einrichtung > E-Mail > Überprüfen und Genehmigen . |
+
+
