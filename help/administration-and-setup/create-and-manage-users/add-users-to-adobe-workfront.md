@@ -1,6 +1,6 @@
 ---
 title: Benutzer hinzufügen
-description: Erfahren Sie, welche Informationen Sie über Benutzer erfassen müssen, bevor Sie Benutzerprofile erstellen.
+description: Erfahren Sie, wie Sie Benutzer zu Workfront hinzufügen können, indem Sie einen vorhandenen Benutzer kopieren, neue Benutzer stapelweise importieren und einen neuen Benutzer erstellen.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,31 +10,16 @@ level: Beginner
 thumbnail: 10035.jpeg
 jira: KT-10035
 exl-id: 5e9e252c-c434-47ea-9b55-5caa09029505
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 9d75c3b3e4242c4a95980b6dc5978c54708d5def
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '52'
+ht-degree: 7%
 
 ---
 
 # Benutzer hinzufügen
 
-Sicherstellen, dass die richtigen Personen über Benutzeranmeldungen und die richtigen Berechtigungen für [!DNL Workfront] ist ein Schlüssel zum Erfolg. Benutzeranmeldungen können von Systemadministratoren oder Benutzern mit einer Planungslizenz erstellt werden, die Administratorzugriff auf Benutzerinformationen gewährt.
+Erfahren Sie, wie Sie Benutzer zu Workfront hinzufügen können, indem Sie einen vorhandenen Benutzer kopieren, neue Benutzer stapelweise importieren und einen neuen Benutzer erstellen.
 
-Benutzer können einzeln erstellt werden. Dies ist praktisch, wenn eine neue Person in Ihrem Unternehmen beginnt. Sie können auch einen Massenimport durchführen, der ideal ist, wenn mehrere Benutzer gleichzeitig eingerichtet werden müssen.
+>[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on)
 
-Sprechen Sie mit Ihrem [!DNL Workfront] Berater darüber, wann Sie während Ihres Implementierungsprozesses den Großteil Ihrer Benutzer erstellen. Ihr Berater wird außerdem die beste Methode zum Erstellen von Benutzern empfehlen, die auf den Systemkonfigurationen und Anforderungen Ihrer Organisation basiert.
-
-## Erforderliche Informationen sammeln
-
-Erfassen Sie die erforderlichen Informationen über Ihre Benutzer, bevor Sie mit der Erstellung ihrer Anmeldungen in [!DNL Workfront]. Dadurch wird der Prozess beschleunigt und sichergestellt, dass jeder Benutzer korrekt erstellt wird.
-
-Zu den benötigten Informationen gehören:
-
-* Name
-* E-Mail-Adresse
-* Standardkennwort
-* Zugriffsebene
-* Primäre Gruppe und sekundäre Gruppen, falls zutreffend
-* Primäres Team und ggf. sekundäre Teams
-* Primäre Laufbahn- und ggf. sekundäre Stellenangebote
