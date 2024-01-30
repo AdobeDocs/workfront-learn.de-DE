@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
+source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
 workflow-type: tm+mt
-source-wordcount: '2386'
+source-wordcount: '2378'
 ht-degree: 1%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 1%
 
    + Benutzer erstellen und verwalten {#create-and-manage-users}
       + [Benutzer hinzufügen](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
-      + [Erstellen eines einzelnen Benutzers](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
-      + [Stapelweises Hinzufügen von Benutzern](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [Benutzerinformationen ändern](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [Wann und wie Benutzer deaktiviert oder gelöscht werden](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [Informationen zum Systemprüfungsprotokoll](administration-and-setup/create-and-manage-users/system-audit-log.md)
