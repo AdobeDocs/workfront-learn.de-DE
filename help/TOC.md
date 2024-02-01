@@ -3,9 +3,9 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
+source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2385'
 ht-degree: 1%
 
 ---
@@ -148,6 +148,7 @@ ht-degree: 1%
       + [Grundlegendes zu den Einstellungen für eine Flussanfrage](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Anforderungswarteschlange erstellen](manage-work/request-queues/create-a-request-queue.md)
       + [Anforderungsfluss erstellen](manage-work/request-queues/create-a-request-flow.md)
+      + [Erstellen einer Feedback-Anforderungswarteschlange für Systemadministratoren](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Antworten auf häufig gestellte Fragen zu Anforderungswarteschlangen](manage-work/request-queues/request-queue-faq.md)
 
    + Portfolios {#portfolios}
