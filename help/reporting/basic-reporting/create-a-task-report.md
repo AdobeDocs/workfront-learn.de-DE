@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '794'
 ht-degree: 6%
 
 ---
@@ -101,7 +101,7 @@ Fügen Sie Aufforderungen für Folgendes ein:
 
 ## Aktivität 2: Erstellen eines Feedback-Berichts für das Admin-Team
 
-Dieser Problembericht zeigt alle Probleme aus einer Feedback-Anforderungswarteschlange an, die für Systemadministratoren erstellt wurde. Sie können sehen, wie Sie diese Anforderungswarteschlange in der **Erstellen einer Feedback-Anforderungswarteschlange für Systemadministratoren** Tutorial.
+Dieser Problembericht zeigt alle Probleme aus einer Feedback-Anforderungswarteschlange an, die für Systemadministratoren erstellt wurde. Sie können sehen, wie Sie diese Anforderungswarteschlange in der [Erstellen einer Feedback-Anforderungswarteschlange für Systemadministratoren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) Tutorial.
 
 Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie unter [Benutzerdefiniertes Formular erstellen und freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) Tutorial.
 
@@ -159,7 +159,8 @@ Filtern Sie nach der ID des Anforderungswarteschlangenprojekts, in dem sich die 
    ![Ein Bild des Bildschirms zur Erstellung von Spalten in Problemberichten](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Problem] > [!UICONTROL Name]
-   * [!UICONTROL Primärer Kontakt] > [!UICONTROL Name] Hinweis: Dies wird mit &quot;Owner:Name&quot;als Spaltenbezeichnung angezeigt. Sie können dies in &quot;Gemeldet von&quot;ändern, indem Sie auf Erweiterte Optionen klicken und in die Variable **Eigene Spaltenbeschriftung** -Feld.
+   * [!UICONTROL Primärer Kontakt] > [!UICONTROL Name]
+      * Hinweis: Dies wird mit &quot;Owner:Name&quot;als Spaltenbezeichnung angezeigt. Sie können dies in &quot;Gemeldet von&quot;ändern, indem Sie auf Erweiterte Optionen klicken und in die Variable **Eigene Spaltenbeschriftung** -Feld.
    * [!UICONTROL Problem] > [!UICONTROL Prozesstyp]
    * [!UICONTROL Problem] > [!UICONTROL Prozessname]
    * [!UICONTROL Problem] > [!UICONTROL Prozessqualität]
