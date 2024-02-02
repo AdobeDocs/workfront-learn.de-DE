@@ -1,6 +1,6 @@
 ---
-title: Machen Sie sich mit zusätzlichen Apps und allgemeinen Modulen vertraut
-description: Erfahren Sie, was Trigger, Aktionen und Suchvorgänge sind und wie Modultypen in verschiedenen App-Connectoren funktionieren in [!DNL Adobe Workfront Fusion].
+title: Vertraut werden mit zusätzlichen Apps und gängigen Modulen
+description: Erfahren Sie, was Trigger, Aktionen und Suchvorgänge in [!DNL Adobe Workfront Fusion]sind und wie Modultypen in verschiedenen App-Connectoren funktionieren.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,37 +11,37 @@ jira: KT-9046
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Machen Sie sich mit zusätzlichen Apps und allgemeinen Modulen vertraut
+# Vertraut werden mit zusätzlichen Apps und gängigen Modulen
 
 ## Erinnerung zu Modultypen
 
 ### Trigger-Module
 
-Kann nur als erstes Modul verwendet werden und kann null, eins oder mehrere Pakete zurückgeben, die einzeln in nachfolgenden Modulen verarbeitet werden, es sei denn, sie werden aggregiert.
+Kann nur als erstes Modul verwendet werden und kann null, eins oder mehrere Bündel zurückgeben, die einzeln in nachfolgenden Modulen verarbeitet werden, sofern sie nicht aggregiert werden.
 
-* **Sofortiger Trigger** (Blitzschlag auf Trigger): Sofort ausgelöst, basierend auf Webhook.
-* **Geplanter Trigger** (Auf dem Trigger sperren) - Spezielle Funktionen zur Verfolgung des letzten verarbeiteten Datensatzes.
+* **Sofortiger Trigger** (mit Blitzsymbol) – Wird sofort ausgelöst, je nach Webhook.
+* **Geplanter Trigger** (mit Uhrensymbol) – Spezielle Funktionen, um den zuletzt verarbeiteten Eintrag zu verfolgen.
 
-![Ein Trigger von Modulen](assets/beyond-basic-modules-1.png)
+![Ein Bild von Trigger-Modulen](assets/beyond-basic-modules-1.png)
 
 ### Aktionen und Suchmodule
 
-* **Aktion** — Dient zum Ausführen von CRUD-Vorgängen (Erstellen, Lesen, Aktualisieren und Löschen).
-* **Suchvorgänge** — Wird verwendet, um nach null, einem oder mehreren Datensätzen zu suchen, und gibt diese als Bundles zurück, die einzeln in nachfolgenden Modulen verarbeitet werden, sofern sie nicht aggregiert werden.
+* **Aktion** – Dient zum Ausführen von CRUD-Vorgängen (Erstellen, Lesen, Aktualisieren und Löschen).
+* **Suchvorgänge** – Wird verwendet, um nach null, einem oder mehreren Einträgen zu suchen, und gibt diese als Bündel zurück, die einzeln in nachfolgenden Modulen verarbeitet werden, sofern sie nicht aggregiert werden.
 
-![Ein Bild von Aktions- und Suchmodulen](assets/beyond-basic-modules-2.png)
+![Bild von Aktions- und Suchmodulen](assets/beyond-basic-modules-2.png)
 
-### Machen Sie sich mit zusätzlichen Apps und allgemeinen Modulen vertraut
+### Vertraut werden mit zusätzlichen Apps und gängigen Modulen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Welche Trigger, Aktionen und Suchvorgänge sind und wie unterscheiden sich diese?
-* Typen von Modulen, die in verschiedenen App-Connectoren gefunden werden, und deren Funktionsweise
+* Was Trigger, Aktionen und Suchvorgänge sind und inwiefern sie sich unterscheiden
+* Modultypen in verschiedenen App-Connectoren und deren Funktionsweise
 
 >[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on)
