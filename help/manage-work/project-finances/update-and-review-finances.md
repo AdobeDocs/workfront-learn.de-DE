@@ -1,6 +1,6 @@
 ---
 title: Aktualisierung und Überprüfung der Finanzen
-description: Erfahren Sie, wie Sie die mit einem Projekt verbundenen finanziellen Informationen überprüfen können in [!DNL  Workfront].
+description: Erfahren Sie, wie Sie die Finanzinformationen zu einem Projekt in [!DNL  Workfront]überprüfen können.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,40 +11,40 @@ level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Aktualisierung und Überprüfung der Finanzen
 
-Wenn Ihr Unternehmen [!DNL Workfront] um projektbezogene Finanzinformationen zu verfolgen, können die Überprüfung von Ausgaben und die Erstellung von Abrechnungsdatensätzen Teil Ihres Prozesses zum Abschluss eines Projekts sein.
+Wenn Ihre Organisation [!DNL Workfront] verwendet, um Finanzinformationen zu einem Projekt zu erfassen, kann die Überprüfung von Ausgaben und die Erstellung von Abrechnungs-Datensätzen Teil des Prozesses zum Abschluss eines Projekts sein.
 
 >[!NOTE]
 >
->Viele [!DNL Workfront] Kunden verwalten ihre Ausgaben und Projektfinanzierungen in einem Drittanbietersystem und nicht in [!DNL Workfront]. So können Sie verschiedene Prozesse oder Richtlinien zur Aktualisierung und Überprüfung von Finanzinformationen haben, bevor Sie ein Projekt schließen.
+>Viele [!DNL Workfront]-Kundinnen und -Kunden wickeln ihre Ausgaben und Projektfinanzen in einem Drittsystem anstelle von [!DNL Workfront] ab. Sie haben also möglicherweise unterschiedliche Verfahren oder Richtlinien für die Aktualisierung und Überprüfung von Finanzinformationen vor Abschluss eines Projekts.
 
 
 ## Ausgaben
 
-Ausgaben können bei einzelnen Aufgaben oder dem Projekt selbst protokolliert werden. Unabhängig davon, auf welchem Posten die Ausgabe protokolliert wird, können Sie alle Ausgaben im [!UICONTROL Ausgaben] des Projekts selbst.
+Ausgaben können für einzelne Aufgaben oder das gesamte Projekt erfasst werden. Unabhängig davon, zu welchem Posten die Ausgabe protokolliert wird, können Sie alle Ausgaben im Abschnitt [!UICONTROL Ausgaben] des Projekts anzeigen.
 
-![[!UICONTROL Ausgaben] Abschnitt eines Projekts](assets/expense-section.png)
+Abschnitt ![[!UICONTROL Ausgaben] eines Projekts](assets/expense-section.png)
 
-## Rechnungsdatensätze
+## Abrechnungs-Datensätze
 
-Rechnungsdatensätze werden in [!DNL Workfront] um abrechenbare Stunden, abrechenbare Ausgaben, abrechenbare Einnahmen und zusätzliche abrechenbare Beträge in einem Datensatz und einem Betrag zusammenzuführen. Häufig werden diese aus [!DNL Workfront] in ein Rechnungsstellungs- oder Buchführungssystem eines Drittanbieters.
+Rechnungsnachweise werden in [!DNL Workfront] verwendet, um abrechenbare Stunden, abrechenbare Ausgaben, abrechenbare Einnahmen und zusätzliche abrechenbare Beträge in einem einzigen Datensatz und Betrag zusammenzufassen. Oftmals werden diese von [!DNL Workfront] in ein Rechnungs- oder Buchhaltungssystem eines Drittanbieters exportiert.
 
-Sie müssen Zugriff auf Finanzdaten in [!DNL Workfront] , um Rechnungsdatensätze zu erstellen und anzuzeigen.
+Sie müssen Zugriff auf die Finanzdaten in [!DNL Workfront] haben, um Abrechnungs-Datensätze erstellen und anzeigen zu können.
 
-## Finanzielle Einzelheiten
+## Finanzdetails
 
-Ein Blick auf die [!UICONTROL Finanzen] Informationen in [!UICONTROL Projektdetails] zeigt Ihnen die tatsächlichen Zahlen für Nutzen, Umsatz und Kosten.
+Ein Blick auf die [!UICONTROL Finanzinformationen] in den [!UICONTROL Projektdetails] zeigt Ihnen die tatsächlichen Zahlen für Nutzen, Einnahmen und Kosten.
 
-![Finanzabschnitt von [!UICONTROL Projektdetails] Fenster in einem Projekt](assets/finance-section-project-details.png)
+![Abschnitt „Finanzen“ des Fensters [!UICONTROL Projektdetails] für ein Projekt](assets/finance-section-project-details.png)
 
-Die meisten Finanzinformationen im [!UICONTROL Projektdetails] wird während der Erstellung des Projekts eingerichtet und die hier angezeigten Zahlen basieren auf diesen Informationen. Wenn Sie also ein Projekt schließen, müssen Sie in den finanziellen Details nichts aktualisieren oder hinzufügen.
+Die meisten Finanzinformationen in den [!UICONTROL Projektdetails] werden bei der Erstellung des Projekts festgelegt. Die Zahlen, die Sie hier sehen, basieren auf diesen Informationen. Wenn Sie also ein Projekt abschließen, müssen Sie in der Regel nichts mehr in den Finanzdetails aktualisieren oder ergänzen.
 
 <!---
 learn more urls
