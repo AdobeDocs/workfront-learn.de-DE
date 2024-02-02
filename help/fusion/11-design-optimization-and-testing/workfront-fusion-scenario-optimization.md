@@ -1,6 +1,6 @@
 ---
-title: Optimierung des Workfront Fusion-Szenarios
-description: Erfahren Sie, wie Sie weniger Vorgänge durchführen, weniger API-Aufrufe senden und weniger Module verwenden können - alles in [!DNL Adobe Workfront Fusion].
+title: Szenario-Optimierung in Workfront Fusion
+description: Erfahren Sie, wie Sie in [!DNL Adobe Workfront Fusion]weniger Schritte durchführen, weniger API-Aufrufe senden und weniger Module verwenden können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,23 +11,23 @@ jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Optimierung des Workfront Fusion-Szenarios
+# Szenario-Optimierung in Workfront Fusion
 
-Was ist &quot;Szenariooptimierung&quot; und was können Sie tun, um Ihre Szenarien zu optimieren?
+Was ist die „Szenario-Optimierung“ und was können Sie tun, um Ihre Szenarien zu optimieren?
 
-Die Optimierung des Szenarios ist eine praktizierte Fähigkeit, die Zeit und Engagement für die Entwicklung braucht. Ihr erster Versuch, ein Szenario für ein Geschäftsergebnis zu erstellen, sollte nicht Ihr letzter sein. Szenarien sollten ab dem ersten Tag bis zum Start Ihrer Integration wiederholt werden. Selbst nach dem Start sollten Szenarien überprüft und während ihrer gesamten Lebensdauer aktualisiert werden, um mit Unternehmens- und Verhaltensänderungen Schritt zu halten.
+Die Szenario-Optimierung ist eine Fähigkeit, deren Entwicklung Zeit und Hingabe erfordert. Ihr erster Versuch, ein Szenario für ein Geschäftsergebnis zu erstellen, sollte nicht Ihr letzter bleiben. Die Szenarien sollten vom ersten Tag an bis zum Beginn der Integration wiederholt werden. Selbst nach dem Start sollten Szenarien überprüft und während ihrer gesamten Lebensdauer aktualisiert werden, um mit Unternehmens- und Verhaltensänderungen Schritt zu halten.
 
-Szenarien müssen gewartet werden. Workfront Fusion-Entwickler sollten regelmäßig Szenarien überprüfen, um Möglichkeiten zum Wiederaufbau, zur Umstrukturierung oder zur Optimierung zu finden. Workfront Fusion-Szenarien müssen regelmäßig beachtet, gewartet und gewartet werden.
+Szenarien müssen gepflegt werden. Die Entwickelnden von Workfront Fusion sollten in regelmäßigen Abständen die Szenarien auf Möglichkeiten zur Neugestaltung, Umstrukturierung und Optimierung überprüfen. Workfront Fusion-Szenarien benötigen regelmäßige Aufmerksamkeit, Wartung und Pflege.
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Weniger Vorgänge durchführen
+* Weniger Schritte durchführen
 * Weniger API-Aufrufe senden
 * Weniger Module verwenden
 
@@ -35,4 +35,4 @@ In diesem Video erfahren Sie, wie Sie:
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
