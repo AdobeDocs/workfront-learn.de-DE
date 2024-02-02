@@ -1,6 +1,6 @@
 ---
-title: Was ist Fehlerbehandlung?
-description: Lernen Sie einige gängige Fehlertypen kennen und erfahren Sie, wie das System sie standardmäßig handhabt. Anschließend erfahren Sie, wie Sie die benutzerdefinierte Fehlerbehandlung in [!DNL Adobe Workfront Fusion].
+title: Was bedeutet Fehlerbehandlung?
+description: Lernen Sie einige häufige Fehlertypen kennen und erfahren Sie, wie das System diese standardmäßig behandelt. Lernen Sie dann, wie Sie in [!DNL Adobe Workfront Fusion]eine benutzerdefinierte Fehlerbehandlung anwenden können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-9063
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Was ist Fehlerbehandlung?
+# Was bedeutet Fehlerbehandlung?
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Was sind einige häufige Fehlertypen und wie das System sie standardmäßig handhabt?
-* Anwenden der benutzerdefinierten Fehlerbehandlung mithilfe eines Fehlerbearbeitungsmoduls
+* Was einige häufige Fehlertypen sind und wie das System sie standardmäßig behandelt
+* Wie eine benutzerdefinierte Fehlerbehandlung mit einem Fehlerbehandlungsmodul angewendet wird
 
 >[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on)
