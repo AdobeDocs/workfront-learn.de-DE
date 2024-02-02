@@ -1,6 +1,6 @@
 ---
-title: Gruppen und Untergruppen erstellen
-description: Erfahren Sie, wie Sie Gruppen und Untergruppen verwenden können, damit die Benutzerorganisation und die Berechtigungen funktionieren. Erfahren Sie, wie Sie eine Gruppe und Untergruppen erstellen.
+title: Erstellen von Gruppen und Untergruppen
+description: Erfahren Sie, wie Sie Gruppen und Untergruppen für die Benutzerorganisation und die Vergabe von Berechtigungen verwenden können. Erfahren Sie, wie Sie eine Gruppe und Untergruppen erstellen.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,45 +12,45 @@ jira: KT-8758
 exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Gruppen und Untergruppen erstellen
+# Erstellen von Gruppen und Untergruppen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Benutzergruppen
+* Verwenden von Gruppen
 * Gruppe hinzufügen
-* Gruppe zuordnen
+* Eine Gruppe zuordnen
 * Untergruppen erstellen und verknüpfen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on)
 
-## Gruppenadministratoren
+## Gruppenadmins
 
-Wenn Sie Systemadministrator eines großen Unternehmens oder eines Unternehmens mit vielen Workfront-Benutzern sind, kann die Pflege der Workfront-Einstellungen für jede Gruppe und Untergruppe zeitaufwendig sein.
+Wenn Sie Systemadmin in einem großen Unternehmen oder einem Unternehmen mit vielen Workfront-Benutzenden sind, kann die Pflege der Workfront-Einstellungen für jede Gruppe und Untergruppe zeitaufwendig sein.
 
-Die Benennung von Gruppenadministratoren, die einige Verwaltungsfunktionen für ihre eigenen Gruppen in Workfront ausführen können, hilft beim Ausgleich der Belastung bei der Aktualisierung und Wartung des Systems.
+Durch die Benennung von Gruppenadmins, die einige Verwaltungsfunktionen für ihre eigenen Gruppen in Workfront ausführen können, lässt sich die Belastung beim Aktualisieren und Warten des Systems besser verteilen.
 
-Gruppenadministratoren sind in der Regel besser auf die täglichen Herausforderungen ihrer Gruppe abgestimmt, sodass sie die Anforderungen der Gruppe bewältigen können. Dadurch können Sie sich als Systemadministrator auf die Workfront-Konfigurationen konzentrieren, die für Ihr Unternehmen insgesamt von Vorteil sind.
+Gruppenadmins sind in der Regel besser mit den täglichen Herausforderungen ihrer Gruppe vertraut, sodass sie sich um die Bedürfnisse der Gruppe kümmern können. So können Sie sich als Systemadmin auf diejenigen Workfront-Konfigurationen konzentrieren, die für Ihr Unternehmen als Ganzes von Nutzen sind.
 
-Zu den Aufgaben, die Gruppenadministratoren in Workfront ausführen können, zählen:
+Zu den Aufgaben, die Gruppenadmins in Workfront ausführen können, zählen:
 
-* Erstellen Sie Untergruppen und fügen Sie den Untergruppen Benutzer hinzu.
-* Erstellen Sie Layoutvorlagen für die Gruppe.
-* Erstellen Sie Validierungsprozesse für die Gruppe.
-* Erstellen Sie Workflow-Status auf Gruppenebene.
-* Greifen Sie über die Gruppenseite auf Projekte, Programme und Portfolios zu, die mit der Gruppe verknüpft sind.
-* Verwalten Sie die Voreinstellungen für Projekte, Aufgaben und Probleme auf Gruppenebene.
-* Verwalten Sie die Voreinstellungen für Zeitblätter auf Gruppenebene.
+* Erstellen von Untergruppen und Hinzufügen von Benutzenden zu den Untergruppen.
+* Erstellen von Layout-Vorlagen für ihre Gruppe.
+* Erstellen von Genehmigungsprozessen für die Gruppe.
+* Erstellen der Status von Workflows auf Gruppenebene.
+* Über die Gruppenseite können Sie auf Projekte, Programme und Portfolios zugreifen, die mit der Gruppe verbunden sind.
+* Verwalten Sie Projekt-, Aufgaben- und Problemeinstellungen auf Gruppenebene.
+* Verwalten Sie die Zeiterfassungseinstellungen auf Gruppenebene.
 * Verwalten Sie Ereignisbenachrichtigungen auf Gruppenebene.
 * Melden Sie sich als andere Gruppenmitglieder an.
-* Weisen Sie der Gruppe einen Geschäftsführer zu.
-* Verwalten Sie ein Unternehmen.
+* Weisen Sie der Gruppe eine Geschäftsleiterin oder einen Geschäftsleiter zu.
+* Leiten Sie ein Unternehmen.
 
-Als System- oder Gruppenadministrator können Sie in den von Ihnen verwalteten Gruppen und Untergruppen Untergruppen erstellen. Diese Untergruppen können eigenen Gruppenadministratoren zugewiesen werden.
+Als System- oder Gruppenadmin können Sie innerhalb der von Ihnen verwalteten Gruppen und Untergruppen weitere Untergruppen erstellen. Diesen Untergruppen können wiederum eigene Gruppenadmins zugewiesen werden.
 
-**Hinweis**: Es gibt eine Grenze von 14 Ebenen von Untergruppen unter einer Gruppe.
+**Hinweis**: Eine Gruppe kann maximal 14 Untergruppenebenen umfassen.
