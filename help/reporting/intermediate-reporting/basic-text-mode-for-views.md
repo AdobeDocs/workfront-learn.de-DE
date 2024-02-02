@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zum Textmodus für Ansichten
-description: Erfahren Sie, was der Textmodus ist, welche Binnenmajuskel-Schreibweise verwendet wird und welchen grundlegenden Textmodus Sie in Ihren Ansichten in Workfront verwenden können.
+description: Erfahren Sie, was der Textmodus ist, wozu die Binnenmajuskel-Schreibweise dient, und lernen Sie einen einfachen „Plug-and-Play“-Textmodus kennen, den Sie für Ihre Ansichten in Workfront verwenden können.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,9 +12,9 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -25,28 +25,28 @@ ht-degree: 0%
 >
 >Voraussetzungen:
 >
->* [Elemente der Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [Berichtkomponenten verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
->* [Basisansicht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+>* [Grundlegendes zu Reporting-Elementen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=de)
+>* [Grundlegendes zu Reporting-Komponenten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=de)
+>* [Erstellen einer einfachen Ansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=de)
 
 >[!TIP]
 >
->* Um ein tieferes Verständnis des Textmodus zu erhalten, empfehlen wir, sich das aufgezeichnete Webinar-Ereignis anzusehen [Experten fragen - Einführung in die Berichterstellung zum Textmodus](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), die eine Stunde lang ist.
->* Um mehr über den Textmodus zu erfahren, sollten Sie die [Erweiterte Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) Tutorials, die zusammen fünfeinhalb Stunden lang sind.
+>* Um ein tieferes Verständnis des Textmodus zu erhalten, empfehlen wir Ihnen, sich die einstündige Aufzeichnung des folgenden Webinars anzusehen: [Experten fragen – Einführung in die Berichterstellung zum Textmodus](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=de).
+>* Um mehr über den Textmodus zu erfahren, sollten Sie sich die Tutorials [Erweiterte Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=de) ansehen, die insgesamt fünfeinhalb Stunden lang sind.
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Textmodus:
-* Was für ein Kamel ist
-* Einige grundlegende Textmodi &quot;Plug-and-Play&quot;, die Sie in Ihren Ansichten verwenden können
+* Was der Textmodus ist
+* Was die Binnenmajuskel-Schreibweise ist
+* Einige grundlegende „Plug-and-Play“-Textmodi, die Sie in Ihren Ansichten verwenden können
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## Aufgabe - Ansicht &quot;4 übergeordnete Elemente&quot;
+## Aufgabe – Ansicht mit 4 übergeordneten Elementen
 
 Erstellen Sie zunächst eine Spalte für den Aufgabennamen und den übergeordneten Namen und verwenden Sie dann den folgenden Textmodus, um die anderen drei Spalten zu erstellen.
 
-### Aufgabe - Übergeordneter übergeordneter Name
+### Aufgabe – Übergeordnetes Element des übergeordneten Namens
 
 ```
 displayname=Parent of Parent Name
@@ -60,7 +60,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### Aufgabe - Übergeordnetes Element des übergeordneten Namens
+### Aufgabe – Übergeordnetes Element des übergeordneten Elements des übergeordneten Namens
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -74,7 +74,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### Aufgabe - Übergeordnetes Element des übergeordneten Namens
+### Aufgabe – Übergeordnetes Element des übergeordneten Elements des übergeordneten Elements des übergeordneten Namens
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -88,11 +88,11 @@ valuefield=parent:parent:parent:parent:name
 valueformat=HTML
 ```
 
-![Ein Bildschirmbild mit der Ansicht der vier übergeordneten Elemente](assets/4-parents-view.png)
+![Ein Screenshot mit der Ansicht der vier übergeordneten Elemente](assets/4-parents-view.png)
 
-## Benutzer - Iterationen, die Listen in Benutzeransichten anzeigen
+## Benutzer – Iterationen, die Listen in Benutzeransichten anzeigen
 
-### Benutzer - Alle Aufgabenrollen
+### Benutzer – Alle Aufgabengebiete
 
 ```
 displayname=All job roles
@@ -104,7 +104,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### Benutzer - Alle Vorgangsrollen zeigen die primäre
+### Benutzer – Alle Aufgabengebiete, die primäre zeigen
 
 ```
 displayname=All Job Roles showing primary
@@ -116,7 +116,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("** ",{role}.{name}," **")
 valueformat=HTML
 ```
 
-### Benutzer - Alle Teams
+### Benutzer – Alle Teams
 
 ```
 displayname=All teams
@@ -130,10 +130,10 @@ valueformat=HTML
 
 >[!NOTE]
 >
->Es gibt ein Team -Feld, auf das über die Benutzeroberfläche zugegriffen werden kann. Es zeigt alle Teams durch Kommas getrennt an, aber im obigen Textmodus wird jedes Team in einer separaten Zeile angezeigt.
+>Es gibt ein Team-Feld, auf das über die Benutzeroberfläche zugegriffen werden kann. Es zeigt alle Teams durch Kommas getrennt an, aber im obigen Textmodus wird jedes Team in einer separaten Zeile angezeigt.
 
 
-### Benutzer - Alle Gruppen
+### Benutzer – Alle Gruppen
 
 ```
 displayname=All groups
@@ -145,7 +145,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### Benutzer - Alle Gruppen, die die Startseite anzeigen
+### Benutzer – Alle Gruppen, die die Startseite anzeigen
 
 ```
 displayname=All groups showing home group
@@ -158,7 +158,7 @@ valueformat=HTML
 ```
 
 
-### Benutzer - Direkte Berichte
+### Benutzer – Direkte Berichte
 
 ```
 displayname=Direct reports
@@ -170,7 +170,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### Benutzer - Künftiges PTO
+### Benutzer – Künftiges PTO
 
 ```
 displayname=Future PTO
@@ -184,9 +184,9 @@ valueformat=HTML
 width=150
 ```
 
-![Ein Bildschirmbild mit der Listenansicht Benutzer](assets/user-lists-view-large.png)
+![Ein Screenshot mit der Listenansicht „Benutzer“](assets/user-lists-view-large.png)
 
-## Aufgabe - So zeigen Sie Aufgabenzuweisungen an und arbeiten an einem Status
+## Aufgabe – So zeigen Sie Aufgabenzuweisungen an und arbeiten an einem Status
 
 ```
 displayname=Assignments and Status
@@ -200,12 +200,12 @@ valueformat=HTML
 width=150
 ```
 
-![Ein Bildschirmbild mit der Ansicht &quot;Zuweisungen und Status&quot;](assets/assignments-and-status-view.png)
+![Ein Screenshot mit der Ansicht „Zuweisungen und Status“](assets/assignments-and-status-view.png)
 
 
-## Aufgabe - So zeigen Sie Rolle und Zuordnung für mehrere Aufgabenzuweisungen an
+## Aufgabe – So zeigen Sie Rolle und Zuordnung für mehrere Aufgabenzuweisungen an
 
-### Aufgabe - Rolle + Stunden
+### Aufgabe – Rolle + Stunden
 
 ```
 displayname=Role+hours
@@ -217,7 +217,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### Aufgabe - Zuweisung + Prozentzuweisung
+### Aufgabe – Arbeitsauftrag + Prozentzuordnung
 
 ```
 displayname=Assignment+percent
@@ -229,9 +229,9 @@ textmode=true
 type=iterate
 ```
 
-![Ein Bildschirmbild mit der Ansicht &quot;Zuweisungen und Rollen&quot;](assets/assignments-roles-and-percent-view.png)
+![Ein Screenshot mit der Ansicht „Arbeitsaufträge und Rollen“](assets/assignments-roles-and-percent-view.png)
 
-## Aufgabe - Projektübergreifende Vorläufer und Nachfolger
+## Aufgabe – Projektübergreifende Vorgänger und Nachfolger
 
 ### Aufgabenfilter (optional)
 
@@ -250,7 +250,7 @@ OR:1:successorsMM:projectID=FIELD:projectID
 OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### Aufgabe - Anzeigen von Vorgängernamen und Projektvorläufern in
+### Aufgabe – Anzeigen der Vorgängernamen und des Projekts, in dem der Vorgänger ist
 
 ```
 displayname=Predecessor names
@@ -264,7 +264,7 @@ valueformat=HTML
 width=150
 ```
 
-### Aufgabe - Anzeigen der Nachfolnamen und des Nachfolgers in
+### Aufgabe – Anzeigen der Nachfolgernamen und des Projekts, in dem der Nachfolger ist
 
 ```
 displayname=Successor names
@@ -278,7 +278,7 @@ valueformat=HTML
 width=150
 ```
 
-### Aufgabe - Anzeigen des voraussichtlichen Abschlussdatums der Vorgänger
+### Aufgabe – Anzeigen des voraussichtlichen Abschlussdatums der Vorgänger
 
 ```
 displayname=Predecessor projected completion dates
@@ -293,7 +293,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### Aufgabe - Status von Vorgängern anzeigen
+### Aufgabe – Anzeigen des Fortschrittsstatus der Vorgänger
 
 ```
 displayname=Predecessor progress status
@@ -308,7 +308,7 @@ valueformat=HTML
 width=90
 ```
 
-### Aufgabe - Prozentualer Abschluss des Projekts des projektübergreifenden Vorgängers anzeigen
+### Aufgabe – Anzeigen des prozentualen Abschlusses des Projekts des projektübergreifenden Vorgängers
 
 ```
 displayname=Predecessor project percent complete
@@ -322,10 +322,10 @@ valueformat=HTML
 width=150
 ```
 
-![Ein Bildschirmbild, das die Ansicht der projektübergreifenden Vorgänger und Nachfolger anzeigt](assets/cross-project-predecessors-and-successors.png)
+![Ein Screenshot, das die Ansicht der projektübergreifenden Vorgänger und Nachfolger anzeigt](assets/cross-project-predecessors-and-successors.png)
 
 
-## Aufgabe - Iteration, die alle zugewiesenen Personen anzeigt und die jede Person zugewiesen haben
+## Aufgabe – Iteration, die alle zugewiesenen Personen anzeigt und zeigt, wer jede von ihnen zugewiesen hat
 
 ```
 displayname=All assignees and requesters
@@ -337,9 +337,9 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![Ein Screenshot mit allen zugewiesenen Personen, denen jede Person zugewiesen wurde](assets/all-assignees-and-requesters.png)
+![Ein Screenshot mit allen zugewiesenen und den jeweils zuweisenden Personen](assets/all-assignees-and-requesters.png)
 
-## Aufgabe/Projekt - Iteration, die alle benutzerdefinierten Formulare in einem Projekt oder einer Aufgabe anzeigt
+## Aufgabe/Projekt – Iteration mit allen benutzerdefinierten Formularen für ein Projekt oder eine Aufgabe
 
 ```
 displayname=All Forms Assigned
@@ -351,10 +351,10 @@ valuefield=category:name
 valueformat=HTML
 ```
 
-![Ein Bildschirmbild mit allen benutzerdefinierten Formularen in einem Projekt](assets/all-custom-forms-on-a-project.png)
+![Ein Screenshot mit allen benutzerdefinierten Formularen in einem Projekt](assets/all-custom-forms-on-a-project.png)
 
 
-## Projekt - Iteration, die alle Hauptkontakte für Resolvables in der Projektansicht anzeigt
+## Projekt – Iteration mit allen Primärkontakten für lösbare Probleme in der Projektansicht
 
 ```
 displayname=Requestor
@@ -368,9 +368,9 @@ valueformat=HTML
 width=150
 ```
 
-![Ein Bildschirmbild mit Primärkontakten für Auflösungen](assets/primary-contacts-for-resolvables.png)
+![Ein Screenshot mit Primärkontakten für lösbare Probleme](assets/primary-contacts-for-resolvables.png)
 
-## Projekt - Iteration, die alle Mitglieder des Projektteams anzeigt
+## Projekt – Iteration mit allen Mitgliedern des Projekt-Teams
 
 ```
 displayname=Project Team Members
@@ -383,9 +383,9 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-![Ein Bildschirmbild, das alle Mitglieder des Projekt-Teams anzeigt](assets/all-project-team-members.png)
+![Ein Screenshot mit allen Mitgliedern des Projektteams](assets/all-project-team-members.png)
 
-## Projekt - Iteration, die das entryDate aller lösbaren Probleme für ein Projekt anzeigt
+## Projekt – Iteration mit den Eingabedaten aller lösbaren Probleme eines Projekts
 
 ```
 displayname=Resolvables entry date
@@ -401,9 +401,9 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![Ein Bildschirmbild mit dem entryDate aller gelösten Probleme für ein Projekt](assets/resolvables-entry-date.png)
+![Ein Screenshot mit den Eingabedaten aller lösbaren Probleme eines Projekts](assets/resolvables-entry-date.png)
 
-## Projekt - Zeigt die Startseite der ursprünglichen Projektanforderungsinstanz an
+## Projekt – Zeigt die Startgruppe der Person an, die die ursprüngliche Projekt-Anfrage gestellt hat
 
 ```
 displayname=Requestor home group
@@ -415,9 +415,9 @@ valuefield=convertedOpTaskOriginator:homeGroup:name
 valueformat=HTML
 ```
 
-![Ein Bildschirmbild mit der Startseite des Projektanfragenden](assets/requestor-home-group.png)
+![Ein Screenshot mit der Startgruppe der Person, die die Projekt-Anfrage gestellt hat](assets/requestor-home-group.png)
 
-## Projekt - Anzeigen, ob das Projekt eine Anforderungswarteschlange ist
+## Projekt – Zeigt an, ob das Projekt eine Anforderungswarteschlange ist
 
 ```
 querysort=queueDef:isPublic
@@ -433,9 +433,9 @@ enumclass=com.attask.common.constants.ProjectStatusEnum
 displayname=Public Selection
 ```
 
-![Ein Bildschirmbild, das anzeigt, ob das Projekt eine Anforderungswarteschlange ist](assets/project-is-a-request-queue.png)
+![Ein Screenshot der Anzeige, ob das Projekt ein Anforderungswarteschlange ist](assets/project-is-a-request-queue.png)
 
-## Problem - Iteration, die alle aufgelösten Team-Mitglieder anzeigt
+## Problem – Iteration mit allen Mitgliedern des Projektlösungs-Teams
 
 ```
 displayname=Resolve Project: Team Members
@@ -449,9 +449,9 @@ valueformat=HTML
 width=150
 ```
 
-![Ein Bildschirmbild mit allen aufgelösten Team-Mitgliedern](assets/all-resolve-project-team-members.png)
+![Ein Screenshot mit allen Mitgliedern des Projektlösungs-Teams](assets/all-resolve-project-team-members.png)
 
-## Problem - Iteration mit allen Teams des Hauptkontakts des Problems
+## Problem – Iteration mit allen Primärkontakt-Teams für das Problem
 
 ```
 displayname=Requestor Teams
@@ -465,9 +465,9 @@ valueformat=HTML
 width=150
 ```
 
-![Ein Bildschirmbild mit allen primären Kontaktteams](assets/all-primary-contact-teams.png)
+![Ein Screenshot mit allen Primärkontakt-Teams](assets/all-primary-contact-teams.png)
 
-## Dokument - Iteration der Ordneranzeige in einem Dokumentbericht
+## Dokument – Iteration mit dem Ordner in einem Dokumentbericht
 
 ```
 displayname=Folder
@@ -479,9 +479,9 @@ valuefield=name
 valueformat=HTML
 ```
 
-![Ein Bildschirmbild mit einem Ordner in einem Dokumentbericht](assets/folder-in-a-document-report.png)
+![Ein Screenshot mit dem Ordner in einem Dokumentbericht](assets/folder-in-a-document-report.png)
 
-## Dokument - Iteration des übergeordneten Ordners in einem Dokumentbericht
+## Dokument – Iteration mit dem übergeordneten Ordner in einem Dokumentbericht
 
 ```
 displayname=Parent Folder
@@ -493,9 +493,9 @@ valuefield=parent:name
 valueformat=HTML
 ```
 
-![Ein Bildschirmbild mit einem übergeordneten Ordner in einem Dokumentbericht](assets/parent-folder-in-a-document-report.png)
+![Ein Screenshot mit dem übergeordneten Ordner in einem Dokumentbericht](assets/parent-folder-in-a-document-report.png)
 
-## Dokument - Datum der Dokumentgenehmigung
+## Dokument – Datum der Dokumentgenehmigung
 
 ```
 displayname=Document approval dates
@@ -511,11 +511,11 @@ shortview=false
 section=0
 ```
 
-![Ein Bildschirmbild mit der Datumsansicht der Dokumentgenehmigung](assets/document-approval-dates.png)
+![Ein Screenshot mit dem Datum der Dokumentgenehmigung](assets/document-approval-dates.png)
 
 ## Korrekturabzug-Genehmigungen
 
-### Genehmigung für Testversand - Projektname anzeigen
+### Korrekturabzug-Genehmigung – Projektnamen anzeigen
 
 ```
 displayname=Project Name
@@ -524,7 +524,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### Validierung des Testversands - Aufgabenname anzeigen
+### Korrekturabzug-Genehmigung – Aufgabennamen anzeigen
 
 ```
 displayname=Task Name
@@ -533,4 +533,4 @@ valuefield=documentVersion:document:task:name
 valueformat=HTML
 ```
 
-![Ein Bildschirmbild mit dem Projekt und der Aufgabe einer Testversand-Validierung](assets/proof-approval-project-and-task.png)
+![Ein Screenshot mit dem Projekt und der Aufgabe einer Korrekturabzug-Genehmigung](assets/proof-approval-project-and-task.png)
