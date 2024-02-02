@@ -1,6 +1,6 @@
 ---
-title: Informationen zum Testversand
-description: Detaillierte Informationen zu Testsendungen finden Sie unter [!DNL  Workfront] durch das Zusammenfassungsfenster und [!UICONTROL Dokumentdetails] Seite.
+title: Grundlegendes zu Korrekturabzugsdetails
+description: Dringen Sie tiefer in die Details eines Korrekturabzugs in [!DNL  Workfront] über das Bedienfeld „Zusammenfassung“ und die Seite [!UICONTROL Dokumentdetails] ein.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -11,76 +11,76 @@ thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1029'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Informationen zum Testversand
+# Grundlegendes zu Korrekturabzugsdetails
 
-## Anzeigen von Testversand-Details
+## Anzeigen von Korrekturabzugsdetails
 
-Als Testversandverantwortlicher oder -eigentümer können Sie die Details hinter einem Testversand im Zusammenfassungsfenster und im [!UICONTROL Dokumentdetails] Seite. Suchen Sie zunächst Ihren Testversand im [!UICONTROL Dokumente] -Abschnitt eines Projekts, einer Aufgabe oder eines Problems.
+Als Managerin bzw. Manager oder Inhaberin bzw. Inhaber eines Korrekturabzugs können Sie über das Bedienfeld „Zusammenfassung“ und die Seite [!UICONTROL Dokumentdetails] weitere Informationen zu einem Korrekturabzug erhalten. Suchen Sie zunächst nach Ihrem Korrekturabzug im Abschnitt [!UICONTROL Dokumente] eines Projekts, einer Aufgabe oder eines Problems.
 
-### Zusammenfassungsbereich
+### Bedienfeld „Zusammenfassung“
 
-Das Zusammenfassungsfenster bietet einen allgemeinen Überblick über die grundlegenden Details des Testversands. Verwenden Sie das Symbol, um das Bedienfeld bei Bedarf zu erweitern und zu reduzieren, wenn dies nicht der Fall ist. Sie können sogar mit dem Mauszeiger über die Miniaturansicht des Testversands fahren, um ihn zu öffnen oder herunterzuladen.
+Das Bedienfeld „Zusammenfassung“ bietet einen allgemeinen Überblick über die grundlegenden Details des Korrekturabzugs. Verwenden Sie das Symbol, um das Bedienfeld bei Bedarf zu erweitern bzw. einzuklappen. Sie können sogar mit dem Mauszeiger über die Miniaturansicht des Korrekturabzugs fahren, um ihn zu öffnen oder herunterzuladen.
 
-![Ein Bild der [!UICONTROL Dokumente] -Abschnitt eines Projekts mit einem ausgewählten Testversand und erweitertem Zusammenfassungsfenster. Sowohl das Symbol des Zusammenfassungsbereichs als auch das Übersichtsbedienfeld sind hervorgehoben.](assets/document-summary.png)
+![Ein Bild des Abschnitts [!UICONTROL Dokumente] eines Projekts mit ausgewähltem Korrekturabzug und erweitertem Bedienfeld „Zusammenfassung“. Sowohl das Bedienfeld „Zusammenfassung“ als auch das Symbol für das Bedienfeld sind hervorgehoben.](assets/document-summary.png)
 
-Hinweis: Die [!UICONTROL Genehmigungen] -Abschnitt im Zusammenfassungsbereich finden Sie unter **Dokument** Genehmigungen und **ist nicht** gebunden an den Prozess der Überprüfung und Validierung von Testsendungen, über den Sie in diesem Kurs gelernt haben. Die beiden Prozesse sind separat in [!DNL Workfront].
+Hinweis: Der Abschnitt [!UICONTROL Genehmigungen] im Bedienfeld „Zusammenfassung“ ist für Genehmigungen von **Dokumenten** bestimmt und **nicht** an den Überprüfungs- und Genehmigungsprozess gebunden, der in diesem Kurs behandelt wird. Die beiden Prozesse sind in [!DNL Workfront] voneinander getrennt.
 
 ### [!UICONTROL Dokumentdetails]
 
-Wenn Sie weitere Informationen zum Testversand benötigen, wird die [!UICONTROL Dokumentdetails] -Link führt Sie zur &quot;Seite&quot;des Testversands unter [!DNL Workfront].
+Wenn Sie weitere Informationen zum Korrekturabzug benötigen, gelangen Sie über den Link [!UICONTROL Dokumentdetails] zur „Seite“ des Korrekturabzugs in [!DNL Workfront].
 
-![Ein Bild der Testversand-Seite in [!DNL  Workfront].](assets/document-details.png)
+![Ein Bild der Seite des Korrekturabzugs in [!DNL  Workfront].](assets/document-details.png)
 
-Beachten Sie, dass die Möglichkeit, Informationen zum Testprozess anzuzeigen, von Ihren Testberechtigungen in [!DNL Workfront].
+Beachten Sie, dass die Möglichkeit, Informationen zum Proofing-Prozess zu sehen, von Ihren Proofing-Berechtigungen in [!DNL Workfront] abhängt.
 
-Auf der Seite des Testversands können Sie über das Menü im linken Bedienfeld auf diese Abschnitte zugreifen:
+Auf der Seite des Korrekturabzugs können Sie über das Menü des linken Bedienfelds auf diese Abschnitte zugreifen:
 
-* **Aktualisierungen —** Kommentare aus dem Testversand-Viewer werden hier mit dem Tag &quot;Testversand-Kommentar&quot;angezeigt. Sie können auch Kommentare zur Datei abgeben, genau wie Sie Kommentare zu einer Aufgabe oder einem Projekt abgeben (diese Kommentare erscheinen nicht im Testversand-Viewer).
-* **Genehmigungen —** Dieser Abschnitt richtet sich an Dokumentgenehmigungen, nicht an Testgenehmigungen. Die beiden Arten von Genehmigungen sind separate Prozesse in [!DNL Workfront] und nicht verknüpfen. Wenn Sie Testversand-Workflows für Ihre Überprüfungen und Genehmigungen verwenden, verwenden Sie diesen Abschnitt nicht.
-* **Alle Versionen —** Verfolgen und verwalten Sie den Versionsverlauf des Testversands. Möglicherweise ist der Zugriff auf diese Informationen im Zusammenfassungsbereich im [!UICONTROL Dokumente] Liste.
-* **Benutzerdefiniertes Forms —** Benutzerdefinierte Formulare werden bei Testsendungen verwendet, um unternehmensspezifische Informationen zu erfassen. Diese Informationen können mit der Datei an integrierte Dokumentenspeichersysteme wie [!DNL Workfront] DAM oder [!DNL Adobe’s] AEM. Benutzerdefinierte Formulare werden von Ihrem [!DNL Workfront] Systemadministrator oder Gruppenadministrator. Sprechen Sie mit Ihrem Team oder Ihren Administratoren, um zu erfahren, ob Sie benutzerdefinierte Formulare für Testsendungen verwenden werden.
-* **Prüfungs-Workflow —** Verwalten oder ändern Sie den dem Testversand zugewiesenen Workflow. Sie können dieses Fenster mit dem [!UICONTROL Testversand-Workflow] auf dem Testversand im [!UICONTROL Dokumente] auch Liste. Erfahren Sie, wie Sie mit dem Video Workflow zum Bearbeiten eines Testversands Änderungen am Workflow vornehmen können.
+* **Aktualisierungen** – Kommentare aus dem Korrekturabzug-Viewer werden hier mit dem Tag „Korrekturabzugskommentar“ angezeigt. Sie können auch Kommentare zur Datei abgeben, genau wie Sie Kommentare zu einer Aufgabe oder einem Projekt abgeben (diese Kommentare erscheinen nicht im Korrekturabzug-Viewer).
+* **Genehmigungen** – Dieser Abschnitt ist für Dokumentgenehmigungen und nicht für Proofing-Genehmigungen bestimmt. Die beiden Arten von Genehmigungen sind separate Prozesse in [!DNL Workfront] und sind nicht miteinander verknüpft. Wenn Sie Korrekturabzug-Workflows für Ihre Überprüfungen und Genehmigungen verwenden, verwenden Sie diesen Abschnitt nicht.
+* **Alle Versionen** – Verfolgen und verwalten Sie den Versionsverlauf des Korrekturabzugs. Möglicherweise ist es einfacher für Sie, auf diese Informationen im Bedienfeld „Zusammenfassung“ der Liste [!UICONTROL Dokumente] zuzugreifen.
+* **Benutzerdefinierte Formulare** – Benutzerdefinierte Formulare werden bei Korrekturabzügen verwendet, um unternehmensspezifische Informationen zu erfassen. Diese Informationen können mit der Datei an integrierte Dokumentenspeichersysteme wie [!DNL Workfront] DAM oder [!DNL Adobe’s] AEM weitergegeben werden. Benutzerdefinierte Formulare werden von Ihren System- oder Gruppenadmins für [!DNL Workfront] eingerichtet. Sprechen Sie mit Ihrem Team oder Ihren Admins, um zu erfahren, ob Sie benutzerdefinierte Formulare für Korrekturabzüge verwenden werden.
+* **Proofing-Workflow** – Verwalten oder ändern Sie den Workflow, der dem Korrekturabzug zugewiesen ist. Sie können dieses Fenster auch über den Link [!UICONTROL Proofing-Workflow] auf dem Korrekturabzug in der Liste [!UICONTROL Dokumente] öffnen. Weitere Informationen dazu, wie Sie Änderungen an einem Workflow vornehmen, erhalten Sie im Video „Bearbeiten eines Korrekturabzug-Workflows“.
 
-Sehen wir uns zwei der Abschnitte genauer an: [!UICONTROL Testen der Viewer-Einstellungen] und [!UICONTROL Aktivität &quot;Testversand&quot;].
+Sehen wir uns zwei der Abschnitte genauer an: [!UICONTROL Proofing-Viewer-Einstellungen] und [!UICONTROL Proofing-Aktivität].
 
 ### [!UICONTROL Proofing-Viewer-Einstellungen]
 
-Mithilfe dieser Einstellungen können Sie den Zugriff auf den Testversand selbst steuern.
+Mithilfe dieser Einstellungen können Sie den Zugriff auf den Korrekturabzug selbst steuern.
 
-![Ein Bild der [!UICONTROL Testen der Viewer-Einstellungen] von der Seite des Testversands mit der [!UICONTROL Testen der Viewer-Einstellungen] im Menü des linken Bedienfelds hervorgehoben.](assets/proofing-settings-on-details-page.png)
+![Ein Bild der [!UICONTROL Proofing-Viewer-Einstellungen] auf der Seite des Korrekturabzugs, mit Hervorhebung der Option [!UICONTROL Proofing-Viewer-Einstellungen] im Menü des linken Bedienfelds.](assets/proofing-settings-on-details-page.png)
 
-* **[!UICONTROL Anmeldung erforderlich. Dieser Testversand kann nicht für Gastbenutzer freigegeben werden] —** Der Testversand kann nur für Personen freigegeben werden, die über eine [!DNL Workfront] Testlizenz.
-* **[!UICONTROL Elektronische Unterzeichnung von Entscheidungen erforderlich] —** Bei der Freigabe eines Testversands muss der Empfänger über Testversandberechtigungen in [!DNL Workfront] und macht sie &quot;elektronisch signieren&quot; den Testversand durch Eingabe ihres Testpassworts, wenn sie eine Testversandentscheidung treffen. (Hinweis: Das Testkennwort unterscheidet sich von Ihrem [!DNL Workfront] Kennwort. Das Kennwort zum Testen ist nicht leicht zugänglich, sodass die meisten Empfänger dieses Kennwort nicht kennen.) [!DNL Workfront] empfiehlt, mit Ihrem [!DNL Workfront] Berater vor der Verwendung dieser Funktion.
-* **[!UICONTROL Sperren des Testversands, wenn alle erforderlichen Entscheidungen getroffen werden]—** Auf diese Weise wird der Beweis für alle weiteren Kommentare, Antworten, Entscheidungen usw. gesperrt, sobald jede Entscheidung über den Nachweis getroffen wurde. Dadurch wird die gesamte Testversand-Version gesperrt, nicht nur eine bestimmte Phase des Testversand-Workflows.
-* **[!UICONTROL Herunterladen der Originaldatei zulassen] —** Testversand-Empfänger können die ursprüngliche Quelldatei des Testversands aus dem Testversand-Viewer herunterladen (die Option befindet sich im Menü des rechten Bedienfelds).
-* **[!UICONTROL Freigabe über öffentliche URL oder Einbettungscode zulassen] —** Testversand-Empfänger können einen öffentlich zugänglichen Testversand-Link für jede Person freigeben.
-* **[!UICONTROL Zulassen des Abonnements für den Testversand über eine öffentliche URL oder einen Einbettungscode] —** Jeder, der die öffentliche URL gesendet hat, kann sich mit seiner E-Mail-Adresse und seinem Namen zum Testversand hinzufügen (wenn nicht als Testversand-Benutzer) oder seiner E-Mail-Adresse und seinem Testpasswort (wenn es sich nicht um einen Testversand-Benutzer handelt). (Hinweis: Das Kennwort zum Testen ist nicht dasselbe wie ein [!DNL Workfront] password.)
+* **[!UICONTROL Anmeldung erforderlich. Dieser Korrekturabzug kann nicht für Gastbenutzerinnen und Gastbenutzer freigegeben werden]** – Der Korrekturabzug kann nur für Personen freigegeben werden, die über eine [!DNL Workfront]-Proofing-Lizenz verfügen.
+* **[!UICONTROL Elektronische Unterzeichnung von Entscheidungen erforderlich]** – Für die Freigabe eines Korrekturabzugs muss die Empfängerin bzw. der Empfänger über Proofing-Berechtigungen in [!DNL Workfront] verfügen und muss den Korrekturabzug „elektronisch unterzeichnen“, indem sie bzw. er bei einer Korrekturabzugs-Entscheidung das Proofing-Passwort eingibt. (Hinweis: Das Proofing-Passwort ist ein anderes als Ihr [!DNL Workfront]-Passwort. Das Proofing-Passwort ist nicht einfach zugänglich, daher werden die meisten Empfängerinnen und Empfänger ihr Passwort nicht kennen.) [!DNL Workfront] empfiehlt, mit Ihrer [!DNL Workfront]-Beraterin bzw. Ihrem -Berater zu sprechen, bevor Sie diese Funktion verwenden.
+* **[!UICONTROL Korrekturabzug sperren, wenn alle erforderlichen Entscheidungen getroffen sind ]** – Auf diese Weise wird der Korrekturabzug für alle weiteren Kommentare, Antworten, Entscheidungen usw. gesperrt, sobald alle Entscheidungen zu dem Korrekturabzug getroffen sind. Dadurch wird die gesamte Korrekturabzugsversion gesperrt, nicht nur ein bestimmter Schritt des Proofing-Workflows.
+* **[!UICONTROL Herunterladen der Originaldatei zulassen]** – Empfängerinnen und Empfänger des Korrekturabzugs können die ursprüngliche Quelldatei des Korrekturabzugs vom Proofing-Viewer herunterladen (die Option dazu befindet sich im Menü des rechten Bedienfelds).
+* **[!UICONTROL Freigabe des Korrekturabzugs über öffentliche URL oder Einbettungs-Code zulassen]** – Empfängerinnen und Empfänger eines Korrekturabzugs können für alle einen öffentlich zugänglichen Korrekturabzug-Link freigeben.
+* **[!UICONTROL Abonnieren des Korrekturabzugs über öffentliche URL oder Einbettungs-Code zulassen] –** Alle, die die öffentliche URL erhalten, können sich mit E-Mail-Adresse und Name (falls es sich nicht um Benutzende des Korrekturabzugs handelt) bzw. mit E-Mail-Adresse und Proofing-Passwort (falls es sich um eine Benutzerin bzw. einen Benutzer des Proofing handelt) zum Korrekturabzug hinzufügen. (Hinweis: Das Proofing-Passwort ist ein anderes als das [!DNL Workfront]-Passwort.)
 
-Diese Einstellungen können auch beim Hochladen des Testversands im [!UICONTROL Testversandeinstellungen] im unteren Bereich des Upload-Fensters.
+Dieselben Einstellungen können auch beim Hochladen des Korrekturabzugs im Abschnitt [!UICONTROL Einstellungen für den Korrekturabzug] am unteren Ende des Upload-Fensters festgelegt werden.
 
-![Ein Bild der [!UICONTROL Testversandeinstellungen] im unteren Bereich des Upload-Fensters.](assets/proof-settings-on-upload-page.png)
+![Ein Bild des Abschnitts [!UICONTROL Einstellungen für den Korrekturabzug] am unteren Ende des Upload-Fensters.](assets/proof-settings-on-upload-page.png)
 
-### [!UICONTROL Aktivität &quot;Testversand&quot;]
+### [!UICONTROL Proofing-Aktivität]
 
-Auf dieser Seite werden die gesamten Aktivitäten des Testversands sowie die mit diesem Testversand gesendeten E-Mail-Nachrichten verfolgt.
+Auf dieser Seite werden die gesamten Korrekturabzugsaktivitäten sowie die mit diesem Korrekturabzug gesendeten E-Mail-Nachrichten verfolgt.
 
-![Ein Bild der [!UICONTROL Aktivität &quot;Testversand&quot;] Abschnitt der Testversand-Seite mit der [!UICONTROL Aktivität &quot;Testversand&quot;] im Menü des linken Bedienfelds hervorgehoben.](assets/proofing-activity-in-details.png)
+![Ein Bild des Abschnitts [!UICONTROL Proofing-Aktivität] auf der Seite des Korrekturabzugs mit hervorgehobener [!UICONTROL Proofing-Aktivität] im Menü des linken Bedienfelds.](assets/proofing-activity-in-details.png)
 
-Die [!UICONTROL Aktivität] Zeitstempel des Abschnitts, wann Kommentare und Entscheidungen getroffen wurden und wer sie getroffen hat. Es wird auch verfolgt, wann der Testversand-Workflow gestartet wurde, wann ein Empfänger den Testversand zum ersten Mal geöffnet hat und welche anderen Informationen ein Testversand-Manager oder -Besitzer benötigen wird. Diese Details können hilfreich sein, wenn Sie Dinge herausfinden möchten, wie z. B. warum eine Workflow-Testphase nie gestartet wurde.
+Der Abschnitt [!UICONTROL Aktivität] gibt mit einem Zeitstempel an, wann Kommentare verfasst und Entscheidungen getroffen wurden. Zudem wird angegeben, von wem. Es wird auch verfolgt, wann die Schritte des Proofing-Workflows gestartet wurden, wann eine Empfängerin oder ein Empfänger den Korrekturabzug zum ersten Mal geöffnet hat und weitere Informationen, die im Zusammenhang mit Korrekturabzügen relevant sein können. Diese Details können hilfreich sein, wenn Sie Dinge herausfinden möchten, wie z. B. warum ein Schritt im Proofing-Workflow nie gestartet wurde.
 
-Die [!UICONTROL Nachrichten] Zeitstempel des Abschnitts, wenn E-Mail-Warnungen und -Nachrichten an Empfänger, die sie gesendet haben, und den Inhalt der Nachricht gesendet wurden. Dies kann bei der Fehlerbehebung hilfreich sein, wenn jemand sagt, dass er keine E-Mail über einen Testversand erhalten hat. Sie können überprüfen, ob und wann eine E-Mail gesendet wurde.
+Der Abschnitt [!UICONTROL Nachrichten] gibt mit einem Zeitstempel an, wann E-Mail-Warnhinweise und -Nachrichten an Empfängerinnen und Empfänger gesendet wurden, von wem sie gesendet wurden und was die Nachricht enthalten hat. Dies kann bei der Fehlerbehebung hilfreich sein, wenn jemand sagt, eine E-Mail über einen Korrekturabzug wäre nicht eingegangen. Sie können überprüfen, ob und wann eine E-Mail gesendet wurde.
 
-[!DNL Workfront] empfiehlt dem Testversand-Manager und Testversandinhaber, sich mit den Informationen in diesen beiden Abschnitten vertraut zu machen. Wenn Sie diese Informationen mit dem Verständnis kombinieren, wie Sie die [!UICONTROL SOCD] Fortschrittsleiste können Sie Ihre Testsendungen wirklich verstehen und verwalten, unabhängig davon, wo sie sich im Testversand-Workflow befinden.
+[!DNL Workfront] empfiehlt Managern, Managerinnen und Verantwortlichen für Korrekturabzüge, sich mit den Informationen in diesen beiden Abschnitten vertraut zu machen. Wenn Sie diese Informationen mit den Kenntnissen kombinieren, wie Sie die [!UICONTROL SOCD]-Fortschrittsleiste lesen, können Sie Ihre Korrekturabzüge wirklich verstehen und verwalten, unabhängig davon, wo sie sich im Proofing-Workflow befinden.
 
-Sobald Sie mit der Arbeit im [!UICONTROL Dokumentdetails] -Abschnitt verwenden, um zur [!UICONTROL Dokumente] -Abschnitt des Projekts, der Aufgabe oder der Ausstellung des Testversands an.
+Sobald Sie mit der Arbeit im Abschnitt [!UICONTROL Dokumentdetails] fertig sind, verwenden Sie den Breadcrumb-Pfad, um zum Abschnitt [!UICONTROL Dokumente] des Projekts, der Aufgabe oder des Problems zurückzukehren, dem/der der Korrekturabzug angefügt ist.
 
-![Ein Bild der Breadcrumb-Leiste in der Kopfzeile.](assets/proof-breadcrumb.png)
+![Ein Bild des Breadcrumb-Pfads in der Kopfzeile.](assets/proof-breadcrumb.png)
 
 <!--
 #### Learn more
