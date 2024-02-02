@@ -1,6 +1,6 @@
 ---
-title: Benutzer stapelweise hinzufügen
-description: Erfahren Sie, wie Sie mehrere Benutzer gleichzeitig mit einer Tabelle für eine Kick-Start-Vorlage hinzufügen.
+title: Stapelweises Hinzufügen von Benutzenden
+description: Erfahren Sie, wie Sie mithilfe einer Tabellenkalkulation für eine Kickstart-Vorlage mehrere Benutzende auf einmal hinzufügen können.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,43 +11,43 @@ thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '220'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Stapelweises Hinzufügen von Benutzern
+# Hinzufügen von Benutzenden in Stapeln
 
-Das einmalige Hinzufügen von Benutzern kann zeitaufwendig und überwältigend sein. [!DNL Workfront] ermöglicht es einem Systemadministrator, mithilfe der Importfunktion mehrere Benutzer gleichzeitig hinzuzufügen.
+Das schrittweise Hinzufügen einzelner Benutzender kann zeitaufwendig und überwältigend sein. [!DNL Workfront] ermöglicht es Systemadmins, über die Importfunktion mehrere Benutzende gleichzeitig hinzuzufügen.
 
-![[!UICONTROL Personen importieren] Menüoption](assets/admin-fund-adding-users-5.png)
+![[!UICONTROL Menüoption „Personen importieren“]](assets/admin-fund-adding-users-5.png)
 
-1. Auswählen **[!UICONTROL Benutzer]** von [!UICONTROL Hauptmenü].
-1. Wählen Sie den Pfeil auf der **[!UICONTROL Neue Person]** Schaltfläche und wählen Sie **[!UICONTROL Personen importieren]**.
-1. Das sich öffnende Fenster führt Sie durch die Erstellung einer Tabelle mit den zu importierenden Benutzern.
-1. Laden Sie die Beispieldatei herunter, bei der es sich um eine [!DNL Excel] Tabelle.
-1. Aktualisieren Sie die Tabelle mit den Benutzerinformationen - Vorname, Nachname, E-Mail-Adresse, Zugriffsebene - entsprechend den Anweisungen in der Datei selbst.
-1. Wählen Sie die **[!UICONTROL Datei auswählen]** -Schaltfläche, nachdem die Benutzerliste gespeichert wurde.
+1. Wählen Sie **[!UICONTROL Benutzer]** im [!UICONTROL Hauptmenü].
+1. Wählen Sie den Pfeil auf der Schaltfläche **[!UICONTROL Neue Person]** und wählen Sie **[!UICONTROL Personen importieren]**.
+1. Das sich öffnende Fenster führt Sie durch die Erstellung einer Tabelle mit den zu importierenden Benutzenden.
+1. Laden Sie die Beispieldatei herunter, bei der es sich um eine [!DNL Excel]-Tabelle handelt.
+1. Aktualisieren Sie die Tabelle mit den Benutzerinformationen – Vorname, Nachname, E-Mail-Adresse, Zugriffsebene – gemäß den Anweisungen in der Datei selbst.
+1. Wählen Sie die Schaltfläche **[!UICONTROL Datei wählen]**, sobald die Benutzerliste gespeichert ist.
 1. Navigieren Sie zur Benutzertabellendatei und wählen Sie sie aus.
 
-![Fenster &quot;Personen importieren&quot;](assets/admin-fund-adding-users-6.png)
+![Fenster „Personen importieren“](assets/admin-fund-adding-users-6.png)
 
-Die importierten Benutzer werden im [!UICONTROL Benutzer] Liste. Bearbeiten Sie bei Bedarf die Informationen zu einzelnen oder mehreren Benutzern.
+Die importierten Benutzenden werden in der [!UICONTROL Benutzerliste] angezeigt. Bearbeiten Sie die Informationen zu einzelnen oder mehreren Benutzenden, falls erforderlich.
 
 ![Benutzerliste](assets/admin-fund-adding-users-7.png)
 
-## Benutzer importieren: Verwenden von Schnellstarts
+## Benutzende importieren: Verwenden von Kickstarts
 
-[!DNL Workfront] bietet eine Kick-Start-Vorlage zum Importieren von Daten in das System. Es kann auch für den Import von Benutzern verwendet werden. Bevor Sie den Kick-Start verwenden, [!DNL Workfront] empfiehlt, mit [!DNL Workfront] Berater, da es Punkte gibt, die Sie kennen sollten.
+[!DNL Workfront] bietet eine Kickstart-Vorlage für den Import von Daten in das System. Sie kann auch für den Import von Benutzenden verwendet werden. Bevor Sie den Kickstart nutzen, empfiehlt [!DNL Workfront] Ihnen, mit Ihrer [!DNL Workfront]-Beraterin bzw. Ihrem -Berater zusammenzuarbeiten, da es einige Punkte gibt, die Sie beachten sollten.
 
 <!---
 paragraph below needs URL to article
 --->
 
-Detaillierte Informationen finden Sie unter Importieren von Daten in Workfront über Kick-Starts .
+Ausführliche Informationen finden Sie unter „Importieren von Daten in Workfront über Kickstarts“.
 
-![[!UICONTROL Daten importieren] ([!UICONTROL Kick-Starts]) in [!UICONTROL Einrichtung] area](assets/admin-fund-adding-users-8.png)
+![[!UICONTROL Fenster „Daten importieren“] ([!UICONTROL Kickstarts]) im [!UICONTROL Einrichtungsbereich]](assets/admin-fund-adding-users-8.png)
 
 <!--
 Learn more URLs
