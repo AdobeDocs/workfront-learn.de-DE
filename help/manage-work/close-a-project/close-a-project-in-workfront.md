@@ -1,6 +1,6 @@
 ---
-title: Projekt schließen
-description: Erfahren Sie, welche Informationen überprüft werden müssen und warum es wichtig ist, Daten in einem Projekt zu aktualisieren, bevor Sie es schließen in [!DNL  Workfront].
+title: Schließen eines Projekts
+description: Erfahren Sie, welche Informationen in [!DNL  Workfront]überprüft werden müssen und warum es wichtig ist, Daten in einem Projekt zu aktualisieren, bevor Sie es schließen.
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -11,25 +11,23 @@ team: Technical Marketing
 jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Projekt schließen
+# Schließen eines Projekts
 
-In diesem Video erfahren Sie mehr über:
+In diesem Video lernen Sie Folgendes:
 
-* Informationen, die in [!DNL Workfront] vor dem Schließen eines Projekts
+* Informationen, die in [!DNL Workfront] vor dem Schließen eines Projekts geprüft werden müssen
 * Warum es wichtig ist, Daten zu aktualisieren
-* Fragen, die Sie stellen können, um Sie bei der Verbesserung künftiger Projekte zu unterstützen
+* Fragen, die Sie stellen können, um künftige Projekte zu verbessern
 
 >[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12&learn=on)
 
 <!---
-learn more urls:
-Update task status
-Issue statuses
+This video is confusing. We have heard multiple complaints that it doesn't show how to actually change the project to Complete. "Change the project status to complete" covers the same material in more depth and clarity, so we've removed this tutorial from the TOC and redirected it's URL to point to "Change the project status to complete".
 --->

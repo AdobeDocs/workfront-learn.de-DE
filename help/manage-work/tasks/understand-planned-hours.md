@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu geplanten Stunden
-description: Erfahren Sie, in welchen Stunden geplant ist [!DNL  Workfront], warum geplante Stunden für Ihr Projekt wichtig sind und wie geplante Stunden zu Aufgaben hinzugefügt werden.
+description: Erfahren Sie, was geplante Stunden in [!DNL  Workfront]sind, warum geplante Stunden für Ihr Projekt wichtig sind und wie geplante Stunden zu Aufgaben hinzugefügt werden.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8777
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 In diesem Video lernen Sie Folgendes:
 
-* In welchen Stunden sind geplant? [!DNL  Workfront]
+* Was geplante Stunden in [!DNL  Workfront] sind
 * Warum geplante Stunden für Ihr Projekt wichtig sind
-* Hinzufügen geplanter Stunden zu Aufgaben
+* Wie Sie geplante Stunden zu Aufgaben hinzufügen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
 
