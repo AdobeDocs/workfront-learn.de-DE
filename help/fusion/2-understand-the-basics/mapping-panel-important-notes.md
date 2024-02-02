@@ -1,6 +1,6 @@
 ---
-title: Wichtige Hinweise zum Zuordnungsbereich
-description: Erfahren Sie mehr über die Bedeutung der Verwendung der im Zuordnungsbereich bereitgestellten Operatoren in [!DNL Adobe Workfront Fusion].
+title: Wichtige Hinweise zum Zuordnungsfenster
+description: Erfahren Sie, wie wichtig es ist, die im Zuordnungsfenster in [!DNL Adobe Workfront Fusion]bereitgestellten Operatoren zu verwenden.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-9003
 exl-id: 2f5a2088-b32c-457f-baa1-913501d74b73
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Wichtige Hinweise zum Zuordnungsbereich
+# Wichtige Hinweise zum Zuordnungsfenster
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Die Bedeutung der Verwendung der im Zuordnungsbereich bereitgestellten Operatoren
+* Die Wichtigkeit, die im Zuordnungsfenster bereitgestellten Operatoren zu verwenden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on)
