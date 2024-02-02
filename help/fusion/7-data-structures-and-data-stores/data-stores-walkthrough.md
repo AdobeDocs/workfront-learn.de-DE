@@ -1,6 +1,6 @@
 ---
-title: Anleitung zu Datenspeichern
-description: Erfahren Sie, wie Sie mit einem Datenspeicher Firmennamen zwischen einer Unternehmensliste und Workfront synchronisieren können, indem Sie [!DNL Adobe Workfront Fusion].
+title: Datenspeicher – Anleitung
+description: Erfahren Sie, wie Sie in [!DNL Adobe Workfront Fusion]mit einem Datenspeicher Firmennamen zwischen einer Firmenliste und Workfront synchronisieren können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,21 +11,21 @@ jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anleitung zu Datenspeichern
+# Datenspeicher – Anleitung
 
-In dieser Übung verwenden wir einen Datenspeicher, um Unternehmensnamen zwischen einer Unternehmensliste und Workfront zu synchronisieren.
+In dieser Übung verwenden wir einen Datenspeicher, um Firmennamen zwischen einer Firmenliste und Workfront zu synchronisieren.
 
-Dies ist Teil einer unidirektionalen Synchronisation von Unternehmen in Workfront und anderen Systemen. Derzeit wird sie nur zwischen einer CSV-Datei und Workfront synchronisiert. Es wird jedoch auch eine Tabelle in einem Datenspeicher verwaltet, in dem die Workfront ID (WFID) und die Unternehmens-ID in der CSV-Datei (CID) für jedes Unternehmen verfolgt werden. Dies wird es uns ermöglichen, dies zu einem späteren Zeitpunkt zu einer bidirektionalen Synchronisation zu machen.
+Dies ist Teil einer unidirektionalen Synchronisierung von Firmen in Workfront und anderen Systemen. Derzeit wird nur zwischen einer CSV-Datei und Workfront synchronisiert. Es wird jedoch auch eine Tabelle in einem Datenspeicher verwaltet, in der die Workfront-ID (WFID) und die Firmen-ID in der CSV-Datei (CID) für jedes Unternehmen verfolgt werden. Dies ermöglicht es uns, die Synchronisierung zu einem späteren Zeitpunkt bidirektional zu machen.
 
-![Bild eines Fusionsszenarios](assets/data-structures-and-data-stores-2.png)
+![Ein Bild eines Fusion-Szenarios](assets/data-structures-and-data-stores-2.png)
 
-## Anleitung zu Datenspeichern
+## Datenspeicher – Anleitung
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -33,19 +33,19 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Anleitung zu Datenspeichern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-stores.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Datenspeicher – Anleitung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-stores.html?lang=de).
 
 
 ## Schlussbemerkung
 
-Nachdem Sie nun mit dem Lernen über Datenstrukturen und Datenspeicher fertig sind, fragen Sie sich vielleicht: &quot;Wann sollten Sie sie verwenden?&quot;
+Nachdem Sie nun mit dem Lernen über Datenstrukturen und Datenspeicher fertig sind, fragen Sie sich vielleicht, wann Sie diese verwenden sollten.
 
-Datenstrukturen werden meist zum Serialisieren oder Parsen von Datenformaten wie JSON, XML, CSV und anderen verwendet. Mit Datenstrukturen können Sie die Struktur Ihrer Daten steuern und sogar Daten validieren. Der häufigste Grund für die Verwendung einer Datenstruktur besteht darin, gültige Daten zu erstellen, die an eine API gesendet werden, die JSON oder XML erwartet. In diesen Fällen sollten Sie die JSON- oder XML-App zusammen mit Ihrer Datenstruktur verwenden, um sicherzustellen, dass die Daten im richtigen Format vorliegen.
+Datenstrukturen werden meist zum Serialisieren oder Analysieren von JSON, XML, CSV und anderen Datenformaten verwendet. Mit Datenstrukturen können Sie die Struktur Ihrer Daten steuern und sogar Daten validieren. Am häufigsten werden Datenstrukturen dafür verwendet, gültige Daten zu erstellen, um sie an eine API zu senden, die JSON oder XML erwartet. In diesen Fällen sollten Sie die JSON- oder XML-App zusammen mit Ihrer Datenstruktur verwenden, um sicherzustellen, dass die Daten im richtigen Format vorliegen.
 
-Datenspeicher sollten nur zum Speichern persistenter Daten verwendet werden, auf die für mehrere Szenarien zugegriffen werden muss. Sie können beispielsweise Metadaten zum letzten Datensatz speichern, der für erweiterte Anwendungsfälle verarbeitet wurde, die eine genaue Kontrolle über die Verarbeitung erfordern.
+Datenspeicher sollten nur zum Speichern persistenter Daten verwendet werden, auf die von mehr als einer Szenarioausführung zugegriffen werden muss. Sie können beispielsweise bei fortgeschrittenen Anwendungsfällen, die eine präzise Steuerung der Verarbeitung erfordern, Metadaten über den letzten verarbeiteten Eintrag speichern.
 
-Datenspeicher sind nicht für die Verwendung als Data Warehouse oder Protokollierung vorgesehen. Datenspeicher sind außerhalb von Workfront Fusion nicht zugänglich und die meisten Interaktionen mit Datenspeichern erfolgen über ein Workfront Fusion-Szenario. Folglich ist es nicht möglich, einen Datenspeicher mit einem Analyse- oder Reporting-Tool zu verbinden, das für Data Warehouse- und Protokollierungsanwendungsfälle erwartet wird. Die Rolle von Workfront Fusion in Anwendungsfällen wie diesen bestünde darin, ein für die Organisation und Speicherung von Daten geeignetes System (z. B. SQL, MariaDB) aufzufüllen.
+Datenspeicher sind nicht für die Verwendung als Data Warehouse oder zur Protokollierung vorgesehen. Datenspeicher sind außerhalb von Workfront Fusion nicht zugänglich, und die meisten Interaktionen mit Datenspeichern erfolgen über ein Workfront Fusion-Szenario. Folglich ist es nicht möglich, einen Datenspeicher mit einem Analyse- oder Reporting-Tool zu verbinden, das für Anwendungsfälle von Data Warehouses oder Protokollierung zu erwarten wäre. Die Rolle von Workfront Fusion in Anwendungsfällen wie diesen bestünde darin, ein System aufzufüllen, das sich für das Organisieren und Speichern von Daten eignet (z. B. SQL oder MariaDB).
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
