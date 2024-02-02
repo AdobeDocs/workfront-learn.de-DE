@@ -1,6 +1,6 @@
 ---
-title: Benutzeroberfläche des Kalenderberichts
-description: Lernen Sie die Kalenderschnittstelle kennen, einschließlich Kalendergruppierungen, Ansichten und Aktionen.
+title: Verstehen der Schnittstelle für Kalenderberichte
+description: Machen Sie sich mit der Kalenderoberfläche vertraut, einschließlich Kalendergruppierungen, -ansichten und -aktionen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,15 +12,15 @@ thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Benutzeroberfläche des Kalenderberichts
+# Verstehen der Schnittstelle für Kalenderberichte
 
-Ein Kalenderbericht ist ein dynamischer Bericht, der die Arbeits- und Zeitdauer in einer Kalenderansicht anzeigt. Sie können Datumsinformationen für die folgenden Objekte in einem Kalenderbericht anzeigen:
+Ein Kalenderbericht ist ein dynamischer Bericht, der die Arbeits- und Ausfallzeiten in einer Kalenderansicht anzeigt. In einem Kalenderbericht können Sie Datumsinformationen für folgende Objekte anzeigen:
 
 * Aufgaben
 * Projekte
@@ -31,8 +31,8 @@ In diesem Video erfahren Sie mehr über:
 
 * Kalendergruppierungen
 * Kalenderansichten
-* Menü &quot;Kalenderaktionen&quot;
+* Kalenderaktionsmenü
 * Zusammenfassungsinformationen
-* Und wie Sie ein Ad-hoc-Kalenderelement erstellen
+* Und wie man einen Ad-hoc-Kalendereintrag erstellt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on)
