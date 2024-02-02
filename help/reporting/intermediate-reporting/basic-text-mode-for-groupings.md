@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zum Textmodus für Gruppierungen
-description: Erfahren Sie, was der Textmodus ist, welche Binnenmajuskel-Groß-/Kleinschreibung ist und welchen einfachen Textmodus Sie in Ihren Gruppierungen in Workfront verwenden können.
+title: Grundlegendes zum einfachen Textmodus für Gruppierungen
+description: Erfahren Sie, was der Textmodus ist, wozu die Binnenmajuskel-Schreibweise dient, und lernen Sie einen einfachen „Plug-and-Play“-Textmodus kennen, den Sie für Ihre Gruppierungen in Workfront verwenden können.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,38 +12,38 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zum Textmodus für Gruppierungen
+# Grundlegendes zum einfachen Textmodus für Gruppierungen
 
 >[!IMPORTANT]
 >
 >Voraussetzungen:
 >
->* Berichterstellungselemente
->* Berichtkomponenten verstehen
->* Basisgruppierung erstellen
+>* Grundlegendes zu Reporting-Elementen
+>* Grundlegendes zu Reporting-Komponenten
+>* Erstellen einer einfachen Gruppierung
 
 >[!TIP]
 >
->* Um ein tieferes Verständnis des Textmodus zu erhalten, empfehlen wir, sich das aufgezeichnete Webinar-Ereignis anzusehen [Experten fragen - Einführung in die Berichterstellung zum Textmodus](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), die eine Stunde lang ist.
->* Um mehr über den Textmodus zu erfahren, sollten Sie die [Erweiterte Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) Tutorials, die zusammen fünfeinhalb Stunden lang sind.
+>* Um ein tieferes Verständnis des Textmodus zu erhalten, empfehlen wir Ihnen, sich die einstündige Aufzeichnung des folgenden Webinars anzusehen: [Experten fragen – Einführung in die Berichterstellung zum Textmodus](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=de).
+>* Um mehr über den Textmodus zu erfahren, sollten Sie sich die Tutorials [Erweiterte Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=de) ansehen, die insgesamt fünfeinhalb Stunden lang sind.
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Textmodus
-* Was für ein Kamel ist
-* Grundlegender &quot;Plug-and-Play&quot;-Textmodus, den Sie in Ihren Gruppierungen verwenden können
+* Was der Textmodus ist
+* Was die Binnenmajuskel-Schreibweise ist
+* Einen einfachen „Plug-and-Play“-Textmodus, den Sie in Ihren Gruppierungen verwenden können
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Aufgabe - Gruppierung von vier übergeordneten Elementen
+## Aufgabe – Gruppierung nach vier übergeordneten Elementen
 
-Im folgenden Textmodus werden Aufgaben basierend auf bis zu vier Ebenen von Eltern gruppiert und nicht vorhandene Eltern leer gelassen.
+Im folgenden Textmodus werden Aufgaben basierend auf bis zu vier Ebenen von übergeordneten Elementen gruppiert, wobei nicht vorhandene übergeordnete Elemente leer gelassen werden.
 
 ```
 textmode=true
@@ -55,18 +55,18 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![Ein Bildschirmbild mit vier übergeordneten Elementen gruppierten Projektaufgaben](assets/4-parents-grouping.png)
+![Ein Screenshot mit Projektaufgaben, die nach vier übergeordneten Elementen gruppiert sind](assets/4-parents-grouping.png)
 
 
-## Aufgabe - Prozentuale vollständige Gruppierung
+## Aufgabe – Gruppierung nach „Prozent abgeschlossen“
 
-Im folgenden Textmodus werden Aufgaben basierend auf ihrem prozentualen Abschluss gruppiert. Aufgaben werden in eine der folgenden Kategorien eingeteilt, wenn sie gruppiert sind:
+Der folgende Textmodus gruppiert Aufgaben danach, wie weit sie prozentual abgeschlossen sind. Aufgaben fallen bei der Gruppierung in eine der folgenden Kategorien:
 
 * 0%
-* 1 % bis 25 %
-* 26 % bis 50 %
-* 51 % bis 75 %
-* 76 % bis 99 %
+* 1 bis 25 %
+* 26 bis 50 %
+* 51 bis 75 %
+* 76 bis 99 %
 * 100%
 
 ```
@@ -77,11 +77,11 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![Ein Screenshot mit Projektanforderungen gruppiert nach Prozentsatz der Abschlüsse](assets/percent-complete-grouping.png)
+![Ein Screenshot mit Projektaufgaben, die danach gruppiert sind, wie weit sie prozentual abgeschlossen sind](assets/percent-complete-grouping.png)
 
-## Task - statusEquatesWith, dann status
+## Aufgabe – statusEquatesWith, dann Status
 
-Im folgenden Textmodus werden Aufgaben nach statusEquatesWith und dann nach Status gruppiert.
+Im folgenden Textmodus werden Aufgaben nach „statusEquatesWith“ und dann nach Status gruppiert.
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -101,10 +101,10 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![Ein Bildschirmbild mit nach statusEquatesWith gruppierten Projektaufgaben](assets/status-equates-with.png)
+![Ein Screenshot mit Projektaufgaben, die nach „statusEquatesWith“ gruppiert sind](assets/status-equates-with.png)
 
 
-## Validierungsversuch - Gruppe nach Projektname
+## Korrekturabzug-Genehmigung – Nach Projektname gruppieren
 
 ```
 group.0.valueformat=HTML
@@ -112,10 +112,10 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![Ein Bildschirmbild mit nach Projektnamen gruppierten Testversandgenehmigungen](assets/proof-approvals-grouped-by-project-name.png)
+![Ein Screenshot mit Korrekturabzug-Genehmigungen, die nach Projektname gruppiert sind](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## Validierungsversuch - Gruppieren nach Dokumentname
+## Korrekturabzugs-Genehmigungen – Nach Dokumentname gruppieren
 
 ```
 group.0.displayname=Document Name
@@ -123,5 +123,5 @@ group.0.valuefield=documentVersion:document:name
 group.0.valueformat=HTML
 ```
 
-![Ein Bildschirmbild mit nach Projektnamen gruppierten Testversandgenehmigungen](assets/proof-approvals-grouped-by-doc-name.png)
+![Ein Screenshot mit Korrekturabzugs-Genehmigungen, die nach Projektname gruppiert sind](assets/proof-approvals-grouped-by-doc-name.png)
 
