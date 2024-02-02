@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur Notwendigkeit von Gruppenadministratoren
-description: Erfahren Sie, wie Systemadmins Gruppenadmins einsetzen können, um die Einstellungen von  [!DNL Workfront]  beizubehalten und gleichzeitig Gruppen mehr Kontrolle über ihre Arbeit zu geben.
+title: Grundlegendes zur Notwendigkeit von Gruppenadmins
+description: Erfahren Sie, wie Systemadmins Gruppenadmins einsetzen können, um die Einstellungen von [!DNL Workfront] beizubehalten und gleichzeitig Gruppen mehr Kontrolle über ihre Arbeit zu geben.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,60 +11,60 @@ thumbnail: groupadmins.png
 jira: KT-10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '335'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zur Notwendigkeit von Gruppenadministratoren
+# Grundlegendes zur Notwendigkeit von Gruppenadmins
 
 <!---
 21.4 updates have been made
 --->
 
-Wenn Sie Systemadministrator für ein großes Unternehmen oder ein Unternehmen sind, das [!DNL Workfront] Benutzer verwalten [!DNL Workfront] -Einstellungen für jede Gruppe und Untergruppe kann zeitaufwendig sein.
+Wenn Sie die bzw. der Systemadmin eines großen Unternehmens oder eines Unternehmens mit vielen [!DNL Workfront]-Benutzenden sind, kann die Pflege der [!DNL Workfront] -Einstellungen für jede Gruppe und Untergruppe sehr zeitaufwendig sein.
 
-Ernennung von Gruppenadministratoren, die einige Verwaltungsfunktionen für ihre eigenen Gruppen in [!DNL Workfront] hilft beim Lastausgleich bei der Aktualisierung und Wartung des Systems.
+Die Ernennung von Gruppenadmins, die einige Verwaltungsfunktionen für ihre eigenen Gruppen in [!DNL Workfront] ausführen können, trägt zu einer besser ausgewogenen Verteilung der Last bei, wenn es um die Aktualisierung und Wartung des Systems geht.
 
-Gruppenadministratoren sind in der Regel besser auf die täglichen Herausforderungen ihrer Gruppe abgestimmt, sodass sie die Anforderungen der Gruppe bewältigen können. Dadurch können Sie sich als Systemadministrator auf die [!DNL Workfront] Konfigurationen, die für Ihre Organisation als Ganzes von Nutzen sind.
+Gruppenadmins sind in der Regel besser mit den täglichen Herausforderungen ihrer Gruppe vertraut, sodass sie sich um die Bedürfnisse der Gruppe kümmern können. So können Sie sich als Systemadmin auf die [!DNL Workfront]-Konfigurationen konzentrieren, die Ihrem Unternehmen als Ganzes zugute kommen.
 
-Einige der Funktionen, die Gruppenadministratoren in [!DNL Workfront] include:
+In [!DNL Workfront] können Gruppenadmins unter anderem Folgendes tun:
 
-* Erstellen Sie Untergruppen und fügen Sie den Untergruppen Benutzer hinzu.
-* Erstellen Sie Layoutvorlagen für die Gruppe.
-* Erstellen Sie Validierungsprozesse für die Gruppe.
-* Erstellen Sie Workflow-Status auf Gruppenebene.
-* Greifen Sie über die Gruppenseite auf Projekte, Programme und Portfolios zu, die mit der Gruppe verknüpft sind.
-* Verwalten Sie die Voreinstellungen für Projekte, Aufgaben und Probleme auf Gruppenebene.
-* Verwalten Sie die Voreinstellungen für Zeitblätter auf Gruppenebene.
+* Erstellen von Untergruppen und Hinzufügen von Benutzenden zu den Untergruppen.
+* Erstellen von Layout-Vorlagen für ihre Gruppe.
+* Erstellen von Genehmigungsprozessen für die Gruppe.
+* Erstellen der Status von Workflows auf Gruppenebene.
+* Über die Gruppenseite können Sie auf Projekte, Programme und Portfolios zugreifen, die mit der Gruppe verbunden sind.
+* Verwalten Sie Projekt-, Aufgaben- und Problemeinstellungen auf Gruppenebene.
+* Verwalten Sie die Zeiterfassungseinstellungen auf Gruppenebene.
 * Verwalten Sie Ereignisbenachrichtigungen auf Gruppenebene.
 * Melden Sie sich als andere Gruppenmitglieder an.
-* Weisen Sie der Gruppe einen Geschäftsführer zu.
-* Verwalten Sie ein Unternehmen.
+* Weisen Sie der Gruppe eine Geschäftsleiterin oder einen Geschäftsleiter zu.
+* Leiten Sie ein Unternehmen.
 
-Als System- oder Gruppenadministrator können Sie in den von Ihnen verwalteten Gruppen und Untergruppen Untergruppen erstellen. Diese Untergruppen können eigenen Gruppenadministratoren zugewiesen werden.
+Als System- oder Gruppenadmin können Sie innerhalb der von Ihnen verwalteten Gruppen und Untergruppen weitere Untergruppen erstellen. Diesen Untergruppen können wiederum eigene Gruppenadmins zugewiesen werden.
 
 >[!NOTE]
 >
->Es gibt eine Grenze von 14 Ebenen von Untergruppen unter einer Gruppe.
+>Eine Gruppe kann maximal 14 Untergruppenebenen umfassen.
 
-**Erfahren Sie mehr über Gruppenadministratoren**
+**Erfahren Sie mehr über Gruppenadmins**
 
 <!---
 bullet points below need hyperlinks
 --->
 
-Eine Liste der vom System verwalteten Elemente finden Sie unter [!DNL Workfront], lesen Sie den Artikel Aktionen für verschiedene Arten von Administratoren.
+Eine Liste der Aktionen, die Systemadmins, Gruppenadmins und Untergruppenadmins in [!DNL Workfront] ausführen können, finden Sie im Artikel „Zulässige Aktionen für verschiedene Arten von Admins“.
 
 ## Verwalten einer Gruppe
 
-Schnelles und effizientes Verwalten von Gruppenmitgliedern, Untergruppen, Gruppenstatus, Gruppenprojektvoreinstellungen und mehr über die Gruppenseite in [!DNL Workfront].
+Verwalten Sie Gruppenmitglieder, Untergruppen, Gruppenstatus, Gruppenprojekteinstellungen und vieles mehr schnell und effizient über die Gruppenseite in [!DNL Workfront].
 
-1. Auswählen **[!UICONTROL Einrichtung]** von **[!UICONTROL Hauptmenü]**.
-1. Navigieren Sie zu **[!UICONTROL Gruppen]** im linken Bereich.
+1. Wählen Sie **[!UICONTROL Setup]** aus dem **[!UICONTROL Hauptmenü]** aus.
+1. Wechseln Sie im linken Bedienfeld zu **[!UICONTROL Gruppen]**.
 1. Wählen Sie den Namen einer Gruppe aus, um sie zu öffnen.
-1. Öffnen Sie den Abschnitt, den Sie aktualisieren möchten, indem Sie im linken Bereich darauf klicken.
+1. Öffnen Sie den Abschnitt, den Sie aktualisieren möchten, indem Sie im linken Bedienfeld darauf klicken.
 
 ![Gruppenseite](assets/admin-fund-manage-a-group.png)
 
