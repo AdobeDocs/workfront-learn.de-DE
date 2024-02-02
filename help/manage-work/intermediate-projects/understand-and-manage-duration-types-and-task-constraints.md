@@ -1,6 +1,6 @@
 ---
-title: Typen und Aufgabenbegrenzungen von Dauer verstehen und verwalten
-description: Machen Sie sich mit den Typen der Dauer und den Aufgabenbegrenzungen vertraut und erfahren Sie, wie Sie sicherstellen können, dass diese in Ihren Projekten ordnungsgemäß eingerichtet sind.
+title: Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen
+description: Erfahren Sie mehr über die Laufzeittypen und Aufgabenbeschränkungen und darüber, wie Sie diese in Ihren Projekten richtig einrichten können.
 feature: Work Management
 thumbnail: 3420986.jpg
 type: Tutorial
@@ -11,32 +11,31 @@ team: Technical Marketing
 last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
-source-git-commit: e91207d73b7a25f05a5b2cde0606b57291e695b0
-workflow-type: tm+mt
+exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Typen und Aufgabenbegrenzungen von Dauer verstehen und verwalten
+# Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen
 
-In diesem Video erfahren Sie mehr über die folgenden Arten von Dauer und Aufgabenbegrenzungen:
+In diesem Video lernen Sie Folgendes über die Laufzeittypen und Aufgabenbeschränkungen:
 
-* Was sie sind und wie sie funktionieren
-* Häufige Fehler bei der Arbeit von Projektmanagern
-* Anzeigen aller Elemente in Ihrem Projekt
-* Woher wissen, wann sie behoben werden müssen
-* Problembehebung
-* Best Practices für deren Verwendung
+* Was sind sie und wie funktionieren sie?
+* Häufige Fehler, die Projekt-Managerinnen und -Manager mit ihnen machen
+* Wie Sie sie alle in Ihrem Projekt anzeigen können
+* Woran Sie erkennen, wann sie korrigiert werden müssen
+* Wie Sie sie korrigieren
+* Best Practices für ihre Verwendung
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
 
 
-Informationen zum Erstellen einer Ansicht für Dauer- und Aufgabeneinschränkungen finden Sie in der Ansicht für Dauer- und Aufgabeneinschränkungen in [Basisansicht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+Informationen zum Erstellen einer Ansicht mit den Laufzeitentypen und Aufgabenbeschränkungen finden Sie in Aktivität „Laufzeittypen und Aufgabenbeschränkungen anzeigen“ unter [Grundansicht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=de).
 
-Weitere Informationen zu Dauer-Typen finden Sie unter [Aufgabendauer und -dauer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=en).
+Einzelheiten zu den Laufzeittypen finden Sie unter [Aufgabendauer und Laufzeittypen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=de).
 
-Weitere Informationen zu Aufgabenbegrenzungen finden Sie unter [Aufgabenbegrenzungen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en).
-
-
+Weitere Informationen zu Aufgabenbeschränkungen finden Sie unter [Aufgabenbeschränkungen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=de).
