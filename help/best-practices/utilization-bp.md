@@ -1,69 +1,69 @@
 ---
-title: Best Practice - Verwendung
-description: Erfahren Sie mehr über Best Practices-Empfehlungen von Adobe Workfront-Experten zur Einrichtung, Verwaltung und Verwendung des Nutzungsberichts.
+title: Best Practice – Auslastung
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden des Nutzungsberichts empfehlen.
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10931
 exl-id: 553aae90-1f98-4659-a516-db96b682012e
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '408'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Verwendung
+# Best Practice – Auslastung
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
-
-</br>
-</br>
-
-## Best Practices für die Verwendung
-
-* Verfolgen Sie Fortschritt, Kosten und Umsatz mit dem Nutzungsbericht.
-
-* Weisen Sie den untergeordneten Aufgaben statt den übergeordneten Aufgaben Ressourcen zu, um die Gesamtstunden zu verfolgen, die in Nutzungsberichten protokolliert wurden.
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Best Practices – Auslastung
+
+* Verfolgen Sie den Fortschritt, die Kosten und die Einnahmen anhand des Nutzungsberichts.
+
+* Weisen Sie Ressourcen eher untergeordneten als übergeordneten Vorgängen zu, um die in den Nutzungsberichten erfassten Gesamtstunden zu verfolgen.
+
+</br>
+</br>
+
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Verfolgen Sie Fortschritt, Kosten und Umsatz mit dem Nutzungsbericht.
+Verfolgen Sie den Fortschritt, die Kosten und die Einnahmen anhand des Nutzungsberichts.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Nutzen Sie die Ressourcen Ihrer Mitarbeiter optimal, indem Sie den Fortschritt, die Kosten oder den Umsatz eines Projekts, Programms oder Portfolios mit dem Nutzungsbericht analysieren. Dieser einzelne Bericht ist ein wichtiges Tool für Ressourcenmanager, Projektmanager oder andere Personen-Manager, da damit auch geplante oder tatsächliche Einnahmen mit Kosten verglichen werden können, sodass Sie fundiertere Entscheidungen treffen und die verschiedenen Arten und die Anzahl der Ressourcen, die eine bestimmte Aufgabe oder ein bestimmtes Projekt erfordern kann, vollständig erfassen können.
+Nutzen Sie Ihre Personalressourcen optimal, indem Sie den Fortschritt, die Kosten oder den Umsatz eines Projekts, Programms oder Portfolios anhand des Nutzungsberichts analysieren. Dieser Bericht ist ein unverzichtbares Werkzeug für Personen, die für Ressourcen, Projekte und Personal verantwortlich sind, da er auch geplante oder tatsächliche Einnahmen mit den Kosten vergleichen kann, sodass Sie aufschlussreichere Entscheidungen treffen und die verschiedenen Arten und die Anzahl der Ressourcen, die für eine bestimmte Aufgabe oder ein bestimmtes Projekt erforderlich sind, vollständig einschätzen können.
 
 
 
-Hinweis: Informationen zur Ressourcenauslastung finden Sie im Workfront-Hauptmenü > Ressourcen > Nutzung.
+Hinweis: Informationen zur Ressourcennutzung finden Sie im Workfront-Hauptmenü > „Ressourcen“ > „Einsatz“.
 
 </br>
 </br>
 
 **Best Practice**
 
-Weisen Sie den untergeordneten Aufgaben statt den übergeordneten Aufgaben Ressourcen zu, um die Gesamtstunden zu verfolgen, die in Nutzungsberichten protokolliert wurden.
+Weisen Sie Ressourcen eher untergeordneten als übergeordneten Vorgängen zu, um die in den Nutzungsberichten erfassten Gesamtstunden zu verfolgen.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn der Nutzungsbericht erstellt wird, enthält er Stunden, die beim Projekt protokolliert wurden, untergeordnete Aufgaben, Probleme und übergeordnete Aufgaben, die mindestens eine Zuweisung aufweisen. Die bei übergeordneten Aufgaben protokollierten Stunden werden jedoch nicht ohne Zuweisungen verfolgt. Verwenden Sie keine übergeordneten Aufgaben als Arbeitsaufgaben und weisen Sie Benutzer nur untergeordneten Aufgaben zu, um eine gute Darstellung der Gesamtbesuchszeit für Aufgaben, Probleme oder Projekte zu erhalten.
+Bei der Erstellung enthält der Nutzungsbericht die für das Projekt protokollierten Stunden, untergeordneten Aufgaben, Probleme und übergeordneten Aufgaben mit mindestens einer Zuweisung. Es werden jedoch nicht die Stunden erfasst, die für übergeordnete Aufgaben ohne Zuweisungen aufgezeichnet wurden. Um eine gute Darstellung der für Aufgaben, Probleme oder Projekte insgesamt aufgewendeten Stunden zu erhalten, verwenden Sie keine übergeordneten Aufgaben als Arbeitsaufgaben und weisen Sie die Benutzende nur den untergeordneten Aufgaben zu.
