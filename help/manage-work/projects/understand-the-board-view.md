@@ -1,6 +1,6 @@
 ---
-title: Verstehen Sie die [!UICONTROL Board] Ansicht
-description: Erfahren Sie, wie Sie die [!UICONTROL Board] auf der Projekt-Landingpage angezeigt.
+title: Verstehen der Ansicht [!UICONTROL Pinnwand]
+description: Erfahren Sie, wie Sie die Ansicht [!UICONTROL Pinnwand] auf der Landingpage des Projekts verwenden können.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,19 +10,20 @@ role: User
 level: Beginner
 last-substantial-update: 2023-08-03T00:00:00Z
 jira: KT-13743
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
-workflow-type: tm+mt
+exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Verstehen Sie die [!UICONTROL Board] Ansicht
+# Verstehen der Ansicht [!UICONTROL Pinnwand]
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Wo finden Sie die [!UICONTROL Board] Ansicht
-* Verwendung der [!UICONTROL Board] Ansicht
+* Finden der Ansicht [!UICONTROL Pinnwand]
+* Verwenden der Ansicht [!UICONTROL Pinnwand] 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on)
