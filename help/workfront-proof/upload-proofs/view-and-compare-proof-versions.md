@@ -1,6 +1,6 @@
 ---
-title: Anzeigen und Vergleichen von Testversionen
-description: Erfahren Sie, wie Sie Testversionen in öffnen, identifizieren, markieren, kommentieren und vergleichen [!DNL  Workfront].
+title: Anzeigen und Vergleichen von Korrekturabzugsversionen
+description: Erfahren Sie, wie Sie Korrekturabzugsversionen in [!DNL  Workfront]öffnen, identifizieren, markieren, kommentieren und vergleichen können.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,19 +12,19 @@ jira: KT-8845
 doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anzeigen und Vergleichen von Testversionen
+# Anzeigen und Vergleichen von Korrekturabzugsversionen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Testversand-Version öffnen
-* Bestimmen der Testversion, die Sie anzeigen
-* Kommentare und Markierungen für eine Version erstellen
+* Öffnen einer Version eines Korrekturabzugs
+* Bestimmen der betrachteten Korrekturabzugsversion
+* Kommentare und Markierungen einer Version
 * Vergleichen der aktuellen Version mit einer früheren Version der Datei
 
 >[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on)
