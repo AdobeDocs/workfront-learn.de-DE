@@ -13,30 +13,30 @@ jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zu integrierten Projektfiltern
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Überprüfen Sie die integrierten Projektfilter, um zu sehen, wie sie erstellt wurden.
-* Erstellen Sie einen eigenen Projektfilter mit dem, was Sie gelernt haben.
+* Überprüfen der integrierten Projektfilter, um zu sehen, wie sie erstellt wurden
+* Erstellen eines eigenen Projektfilters mit dem, was Sie gelernt haben
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
 
 ## Aktivität: Erstellen eines Projektfilters
 
-Sie möchten alle aktiven Projekte sehen, deren Inhaber Sie sind, wobei &quot;aktiv&quot;den Projektstatus mit Planung oder Aktuell gleicht. Erstellen Sie im Bereich &quot;Projekte&quot;einen Projektfilter mit dem Namen &quot;Aktive Projekte, die ich besitze&quot;.
+Sie möchten alle aktiven Projekte sehen, für die Sie verantwortlich sind, wobei „aktiv“ bedeutet, dass der Projektstatus mit „In Planung“ oder „Aktuell“ gleichzusetzen ist. Erstellen Sie im Bereich „Projekte“ einen Projektfilter mit dem Namen „Aktive Projekte, für die ich verantwortlich bin“.
 
 ## Antwort
 
 Ihr Filter sollte wie folgt aussehen:
 
-![Ein Bild des Bildschirms zum Erstellen eines Projektfilters](assets/opening-built-in-project-filters-1.png)
+![Ein Screenshot des Bildschirms zum Erstellen eines Projektfilters](assets/opening-built-in-project-filters-1.png)
 
-Sie können zusätzliche Filterregeln hinzufügen, z. B. nach Projekten in einem bestimmten Programm oder Portfolio suchen. In diesem Fall empfiehlt Workfront, den Filter in eine Beschreibung umzubenennen, z. B. &quot;Aktive Projekte, die ich im Marketing-Portfolio besitze&quot;.
+Sie können zusätzliche Filterregeln einfügen, z. B. die Suche nach Projekten in einem bestimmten Programm oder Portfolio. In diesem Fall empfiehlt Workfront, den Filter in eine passende Beschreibung umzubenennen, z. B. „Aktive Projekte, für die ich im Marketing-Portfolio verantwortlich bin“.
