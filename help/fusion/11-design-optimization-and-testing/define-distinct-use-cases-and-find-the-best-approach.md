@@ -1,6 +1,6 @@
 ---
-title: Definieren Sie unterschiedliche Anwendungsfälle und finden Sie den besten Ansatz.
-description: Erfahren Sie, wie Sie einen bestimmten Anwendungsfall für Ihr Szenario ermitteln, das richtige Design bestimmen und Interessengruppen die beste Beratung bieten in [!DNL Adobe Workfront Fusion].
+title: Definieren verschiedener Anwendungsfälle und Suche nach dem besten Ansatz
+description: Erfahren Sie, wie Sie in [!DNL Adobe Workfront Fusion] einen bestimmten Anwendungsfall für Ihr Szenario ermitteln, das richtige Design bestimmen und Stakeholdern die beste Beratung bieten.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,27 +11,27 @@ jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Definieren Sie unterschiedliche Anwendungsfälle und finden Sie den besten Ansatz.
+# Definieren verschiedener Anwendungsfälle und Suche nach dem besten Ansatz
 
-Wenn Sie eine Automatisierung vor dem Erstellen durchführen, können Sie Strategien implementieren, um die erforderliche Neuerstellung oder die Anzahl der erforderlichen Iterationen zu minimieren.
+Wenn Sie vor der Erstellung das Thema Automatisierung durchdenken, können Sie Strategien implementieren, um das Ausmaß der erforderlichen Überarbeitung oder die Anzahl der erforderlichen Iterationen zu minimieren.
 
-Sie sparen die meiste Zeit, indem Sie einen klaren Anwendungsfall definieren, der durch ein bestimmtes Ereignis ausgelöst wird. Wenn Sie sich nicht frühzeitig Zeit nehmen, um sicherzustellen, dass Sie in die richtige Richtung gehen, erhalten Sie am Ende komplexe oder ineffiziente Szenarien.
+Sie sparen die meiste Zeit, indem Sie einen klaren Anwendungsfall definieren, der durch ein bestimmtes Ereignis ausgelöst wird. Wenn Sie sich nicht frühzeitig Zeit nehmen, um die richtige Richtung sicherzustellen, werden Sie am Ende mit komplexen oder ineffizienten Szenarien konfrontiert.
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Spezifischen Anwendungsfall für Ihr Szenario identifizieren
-* Wählen Sie das richtige Trigger-Modul aus
-* Festlegen des richtigen Designs für hohe Leistung
-* Annahmen infrage stellen und Interessengruppen die beste Beratung bieten
+* Identifizieren eines bestimmten Anwendungsfalls für Ihr Szenario
+* Wählen des richtigen Trigger-Moduls
+* Festlegen des richtigen Designs für eine hohe Leistung
+* Infragestellen von Annahmen und optimales Beraten von Stakeholdern
 
 >[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on)
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
