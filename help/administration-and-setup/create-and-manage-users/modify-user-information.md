@@ -1,5 +1,5 @@
 ---
-title: Benutzerinformationen ändern
+title: Ändern von Benutzerinformationen
 description: Erfahren Sie, wie Sie Benutzerinformationen ändern/bearbeiten können.
 feature: System Setup and Administration
 activity: deploy
@@ -11,32 +11,32 @@ thumbnial: 10039.jpeg
 jira: KT-10039
 exl-id: 6df6ee45-ab59-4eb3-a1a0-adcb0911faac
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Benutzerinformationen ändern
+# Ändern von Benutzerinformationen
 
-Es kann vorkommen, dass Sie Benutzer in Workfront bearbeiten müssen. Beispielsweise wechselt ein Benutzer die Position im Unternehmen, sodass unterschiedliche Workfront-Berechtigungen erforderlich sind.
+Es kann vorkommen, dass Sie in Workfront Benutzende bearbeiten müssen. Zum Beispiel: Jemand wechselt die Position im Unternehmen, sodass andere Workfront-Berechtigungen erforderlich sind.
 
-## Einen einzelnen Benutzer bearbeiten
+## Bearbeiten einer einzelnen Person
 
-* Wählen Sie im Hauptmenü Benutzer aus.
-* Klicken Sie in der Liste auf den Namen des Benutzers. Dadurch wird die Profilseite in Workfront geöffnet.
-* Klicken Sie im 3-Punkt-Menü in der Seitenkopfzeile auf Bearbeiten .
-* Die Profilseite des Benutzers wird geöffnet. Sie können damit persönliche Informationen, Voreinstellungen, Benachrichtigungen, Zugriffsebene, Organisationsoptionen, Einstellungen für die Ressourcenplanung und benutzerdefinierte Formulare bearbeiten.
-* Klicken Sie auf Änderungen speichern.
-
-
-![[!DNL Edit Person] Fenster](assets/mod_01.png)
-
-## Mehrere Benutzer bearbeiten
-
-Mit der Massenbearbeitungsfunktion von Workfront können Sie mehrere Benutzer gleichzeitig bearbeiten. Dies ist hilfreich, wenn dieselben Informationen zu mehreren Personen geändert werden müssen, z. B. die Neuzuweisung einer Zugriffsebene oder das Ändern der Teamzuweisung.
-
-Aktivieren Sie die Kontrollkästchen neben den Benutzern, die Sie bearbeiten möchten. Klicken Sie dann auf die Schaltfläche Bearbeiten , um die Benutzerdetails zu öffnen. Die vorgenommenen Änderungen gelten für alle ausgewählten Benutzer.
+* Wählen Sie „Benutzer“ aus dem Hauptmenü aus.
+* Klicken Sie in der Liste auf den Namen der Person. Dadurch wird die Profilseite in Workfront geöffnet.
+* Klicken Sie im Menü mit den drei Punkten in der Seitenkopfzeile auf „Bearbeiten“.
+* Die Profilseite der Person wird geöffnet, auf der Sie persönliche Informationen, Voreinstellungen, Benachrichtigungen, die Zugriffsebene, Organisationsoptionen, Einstellungen für die Ressourcenplanung und benutzerdefinierte Formulare bearbeiten können.
+* Klicken Sie auf „Änderungen speichern“.
 
 
-![[!DNL Edit Person] Fenster](assets/mod_02.png)
+Das Fenster ![[!DNL Edit Person]](assets/mod_01.png)
+
+## Bearbeiten mehrerer Benutzender
+
+Mit der Massenbearbeitungsfunktion von Workfront können Sie mehrere Benutzende gleichzeitig bearbeiten. Dies ist hilfreich, wenn dieselben Informationen zu mehreren Personen geändert werden müssen, z. B. die Neuzuweisung einer Zugriffsebene oder das Ändern der Team-Zuweisung.
+
+Aktivieren Sie die Kontrollkästchen neben den Benutzenden, die Sie bearbeiten möchten. Klicken Sie dann auf die Schaltfläche „Bearbeiten“, um die Benutzerdetails zu öffnen. Die vorgenommenen Änderungen gelten für alle ausgewählten Benutzenden.
+
+
+Fenster![[!DNL Edit Person] ](assets/mod_02.png)
