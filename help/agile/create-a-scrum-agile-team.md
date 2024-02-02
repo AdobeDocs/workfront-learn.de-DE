@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines Scrum Agile-Teams
-description: Erfahren Sie, wie Sie ein agiles Team erstellen, die Scrum-Methode auswählen und Einstellungen für das Scrum-Team festlegen.
+title: Erstellen eines agilen Scrum-Teams
+description: Erfahren Sie, wie Sie ein agiles Team erstellen, die Scrum-Methodik auswählen und Einstellungen für das Scrum-Team festlegen.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
@@ -9,43 +9,43 @@ thumbnail: 346281.jpeg
 exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '370'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erstellen eines Scrum Agile-Teams
+# Erstellen eines agilen Scrum-Teams
 
 ## Einrichten eines Scrum-Teams
 
-Ein Agile-Team in Workfront schließt seine Arbeit von der Iterationsseite aus [1]. Die Aufschlüsselungsgrafik [2] oben auf der Seite finden Sie einen Überblick über die Fortschritte, die bei dieser Iteration bisher erzielt wurden. Die Meldungen finden Sie unter der Aufschlüsselungsgrafik . [3] Das Team hat sich für diese Iteration verpflichtet.
+Ein agiles Team in Workfront schließt seine Arbeit auf der Iterationsseite [1] ab. Der Burndown-Chart [2] oben auf der Seite gibt einen Überblick über die Fortschritte, die in dieser Iteration bisher erzielt wurden. Unter dem Burndown-Chart befinden sich die Storys [3], für die sich das Team für diese Iteration verpflichtet hat.
 
 In diesem Video erfahren Sie, wie Sie ein agiles Team erstellen, die Scrum-Methode auswählen und Einstellungen für das Scrum-Team festlegen.
 
-![Team-Seite](assets/scrum-agile-team-page.png)
+![Teams-Seite](assets/scrum-agile-team-page.png)
 
-### Einrichten eines neuen Scrum-Teams
+### Einrichten eines brandneuen Scrum-Teams
 
-Nachdem Sie nun wissen, wie es nach der Einrichtung aussehen wird, können Sie direkt in die Einrichtung in Workfront springen. Gehen wir die Setups anhand einer Fallstudie für eine Firma namens Swains durch. Sie sind für den Betrieb des Kreativ-Teams verantwortlich und haben dem Kreativ-Marketing-Team OK gegeben, um nach Agile zu wechseln.
+Da Sie nun wissen, wie es nach der Einrichtung aussehen wird, können Sie direkt mit der Einrichtung in Workfront beginnen. Gehen wir die Einrichtung anhand einer Fallstudie für ein Unternehmen namens Swains durch. Sie sind für den Betrieb des kreativen Teams verantwortlich und haben dem kreativen Marketing-Team die Zustimmung gegeben, nach Agile zu wechseln.
 
 
-Dieses spezielle Team hat beschlossen, Scrum-Methodik zu übernehmen, weil sie lieben, dass das Storyboard ihnen so viel mehr Sichtbarkeit gibt, wer tut was und welche Status- oder Bühnenarbeiten sind. Die Möglichkeit, kurze Iterationen zu planen, ist gut mit ihren aktuellen Arbeitsanforderungen verbunden. Dem Team werden in der Regel zwei bis drei Wochen lang Marketing-Kampagnen angeboten, die es in der Lage sein müssen, innerhalb einer so kurzen Zeit zu bestimmen, was sein Team tun oder handhaben kann.
+Dieses spezifische Team hat sich für die Scrum-Methodik entschieden, weil es davon begeistert ist, dass es mit dem Storyboard viel mehr Überblick darüber hat, wer was tut und in welchem Status oder Stadium sich die Arbeitselemente befinden. Die Möglichkeit, kurze Iterationen zu planen, passt gut zu ihren aktuellen Arbeitsanforderungen. Dem Team werden in der Regel zwei bis drei Wochen lang Marketing-Kampagnen angeboten. Es muss in der Lage sein, innerhalb einer so kurzen Zeit zu bestimmen, was das Team tun oder handhaben kann.
 
-## Erstellen eines Scrum Agile-Teams in Workfront
+## Erstellen eines agilen Scrum-Teams in Workfront
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
 - Erstellen eines agilen Teams
-- Wählen Sie die Scrum-Methode aus
-- Einstellungen für das Scrum-Team festlegen
+- Wählen der Scrum-Methode
+- Festlegen der Einstellungen für das Scrum-Team
 
 >[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on)
 
-Sie verfügen bereits über ein Team in Workfront, das Sie in ein Agile-Team konvertieren möchten? Kein Problem! Gehen Sie zu den Team-Einstellungen und aktivieren Sie die Option &quot;This is an Agile team&quot;.
+Sie haben bereits ein Team in Workfront, das Sie in ein agiles Team umwandeln möchten? Kein Problem! Gehen Sie zu den Team-Einstellungen und aktivieren Sie die Option „Dies ist ein Agile-Team“.
 
 
 
-## Änderung beim Einrichten des SceneTeam
+## Einrichtungsänderung des Scrum-Teams
 
-Die Option &quot;Auf der Registerkarte Probleme anzeigen&quot;ist nicht mehr auf der Seite mit den Teameinstellungen enthalten, da die Registerkarte Probleme von Agile-Teams nicht mehr benötigt wird. Einem Team zugewiesene Probleme finden Sie auf der Registerkarte &quot;Backlog&quot;, wodurch es einfacher ist, Iterationen zu planen, die sowohl Aufgaben als auch Probleme enthalten.
+Die Option „Auf der Registerkarte ‚Probleme‘ anzeigen“ ist nicht mehr auf der Seite mit den Team-Einstellungen enthalten, da die Registerkarte „Probleme“ von agilen Teams nicht mehr benötigt wird. Die einem Team zugewiesenen Probleme finden Sie auf der Registerkarte „Rückstand“, wodurch es einfacher ist, Iterationen zu planen, die sowohl Aufgaben als auch Probleme enthalten.
