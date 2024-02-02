@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Unternehmen
-description: Erfahren Sie, wie Sie Unternehmen als Teil ihrer Benutzerorganisation und Elementberechtigungsstruktur verwenden. Erstellen Sie dann Unternehmen für Ihre Organisation.
+title: Erstellen von Firmen
+description: Lernen Sie, wie Sie Firmen als Teil der Benutzerorganisation und der Objektberechtigungsstruktur nutzen können. Erstellen Sie dann Firmen für Ihr Unternehmen.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,17 +12,17 @@ jira: KT-8757
 exl-id: 1a48aa59-ae69-4bd9-843c-8edfc0bdb517
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erstellen von Unternehmen
+# Erstellen von Firmen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Definition von Unternehmen in Workfront
-* So erstellen Sie Unternehmen und Vereinigungen
+* Erstellen von Firmen in Workfront
+* Erstellung von Firmen und Verbänden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on)
