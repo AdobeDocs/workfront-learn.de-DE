@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur Navigation und Suche als Benutzer
-description: Erfahren Sie mehr über die Funktionen von Brand Connect in [!UICONTROL WORKFRONT DAM] ist und wie sie navigiert.
+title: Grundlegendes zu Navigation und Suche aus Sicht der Benutzenden
+description: Erfahren Sie, was Brand Connect in [!UICONTROL Workfront DAM] ist und wie Sie darin navigieren.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,64 +11,64 @@ jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
 source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Brand Connect: Grundlegendes zur Navigation und Suche als Benutzer
+# Brand Connect: Grundlegendes zu Navigation und Suche aus Sicht der Benutzenden
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Was Sie sehen, wenn Sie sich anmelden
-* Navigieren in Brand Connect
+* Navigation durch Brand Connect
 * Suchen nach Assets
 
 >[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on)
 
 ## Grundlegende Suchkriterien
 
-Bei einer einfachen Suche werden Dateinamen, Metadatenfelder, Schlüsselwörter und Asset-Inhalt untersucht (je nach Asset-Typ). Sie enthält keine Ordnernamen.
+Bei einer einfachen Suche wird nach Dateinamen, Metadatenfeldern, Schlüsselwörter und Asset-Inhalt (je nach Asset-Typ) gesucht. Es sind keine Ordnernamen enthalten.
 
-Die meisten Suchergebnisse sind exakte Treffer. Eine Ausnahme von dieser &quot;exakten Übereinstimmung&quot;-Regel ist, wenn die Variable [!UICONTROL Brand Connect] durchsucht das Dateinamenfeld. [!UICONTROL Brand Connect] gibt teilweise Übereinstimmung mit dem Dateinamen zurück, anstatt nur exakte Übereinstimmung mit dem Dateinamen zu erhalten.
+Die meisten Suchergebnisse sind exakte Treffer. Eine Ausnahme von dieser Regel der „exakten Übereinstimmung“ besteht, wenn [!UICONTROL Brand Connect] das Feld „Dateiname“ durchsucht. [!UICONTROL Brand Connect] gibt auch teilweise Dateinamentreffer zurück, nicht nur exakte.
 
 ## Erweiterte Suche in [!UICONTROL Brand Connect]
 
-Obwohl die grundlegenden Suchfunktionen häufig die benötigten Assets finden, müssen Sie möglicherweise von Zeit zu Zeit zusätzliche Suchparameter verwenden.
+Auch wenn die grundlegenden Suchfunktionen häufig die benötigten Assets finden, müssen Sie möglicherweise von Zeit zu Zeit zusätzliche Suchparameter verwenden.
 
-### Teilübereinstimmung
+### Teilweise Übereinstimmungen
 
 Um eine teilweise Übereinstimmung zu finden, fügen Sie dem Suchbegriff ein Sternchen hinzu. Das Sternchen darf nur am Ende eines Wortes verwendet werden.
 
-### AND-Operator
+### UND-Operator
 
-Um Ergebnisse zu finden, die mehrere Suchbegriffe enthalten, geben Sie UND zwischen den Wörtern ein. Die Wörter sind in beliebiger Reihenfolge zu finden. Bei der Suche über alle Felder hinweg sind beide Wörter möglicherweise nicht im selben Feld vorhanden. Beispielsweise findet der Turm &quot;Paris AND&quot;Assets, die beide Wörter in einem der Felder enthalten.
+Um Ergebnisse zu finden, die mehrere Suchbegriffe enthalten, geben Sie UND zwischen den Wörtern ein. Die Wörter können in beliebiger Reihenfolge gefunden werden. Bei der Suche über alle Felder hinweg sind beide Wörter möglicherweise nicht im selben Feld vorhanden. Beispielsweise findet „Paris UND Turm“ Assets, die in einem der Felder beide Wörter enthalten.
 
 ### ODER-Operator
 
-Verwenden Sie den ODER -Operator, um Assets zu finden, die einen der Suchbegriffe enthalten. Beispielsweise findet Paris ODER Arc Assets, die eines der Wörter enthalten, aber nicht unbedingt beides.
+Verwenden Sie den ODER-Operator, um Assets zu finden, die einen der Suchbegriffe enthalten. Beispielsweise findet „Paris ODER Arc“ Assets, die eines der Wörter enthalten, aber nicht unbedingt beide.
 
-### Satz
+### Ausdruck
 
-Verwenden Sie doppelte Anführungszeichen um die Wörter, um einen genauen Wortlaut zu finden. Alle Worte werden zusammen und in der richtigen Reihenfolge gefunden. Beispielsweise findet &quot;Eiffelturm&quot;diese Wörter in genau dieser Reihenfolge.
+Schließen Sie die Wörter in doppelte Anführungszeichen ein, um einen genauen Ausdruck zu finden. Alle Wörter werden zusammen und in der vorgegebenen Reihenfolge gefunden. Zum Beispiel werden bei der Suche nach „Deutsche Bank Park“ nur Assets zurückgegeben, die diese Wörter in genau dieser Reihenfolge enthalten.
 
 ### Negativer Operator
 
-Wenn Sie ein Wort aus den Suchergebnissen ausschließen möchten, setzen Sie ein Minuszeichen (-) vor das Wort. Achten Sie darauf, dass zwischen dem Minuszeichen und dem Wort kein Leerzeichen steht. Um beispielsweise Assets auszuschließen, die in den Metadaten das Wort &quot;Turm&quot;enthalten, kann Ihre Suche als &quot;Paris -Turm&quot;eingerichtet werden.
+Wenn Sie ein Wort aus den Suchergebnissen ausschließen möchten, setzen Sie ein Minuszeichen (-) vor das Wort. Achten Sie darauf, dass sich zwischen dem Minuszeichen und dem Wort kein Leerzeichen befindet. Um z. B. Assets auszuschließen, die das Wort „Turm“ in den Metadaten enthalten, könnte Ihre Suche „Paris -Turm“ lauten.
 
-### Operator für leeres Feld
+### Operator für leere Felder
 
-Um nach Assets zu suchen, die keine Informationen in einem bestimmten Metadatenfeld enthalten, geben Sie das Feld ein, das Sie in diesem Format suchen möchten: ?[xxxxxxx]. Wenn Sie beispielsweise nach Assets suchen möchten, denen keine Suchbegriffe zugewiesen sind, geben Sie ? ein.[Keyword] im Suchfeld.
+Um nach Assets zu suchen, die in einem bestimmten Metadatenfeld keine Informationen enthalten, geben Sie das Feld, das Sie suchen möchten, in diesem Format ein: ?[xxxxx]. Wenn Sie beispielsweise nach Assets suchen möchten, denen keine Schlüsselwörter zugewiesen sind, geben Sie „?“ ein[Schlüsselwort]“ im Suchfeld ein.
 
 ## Markenrichtlinien
 
-Markenrichtlinien sind eine Reihe von Regeln, die erklären, wie die Marke Ihres Unternehmens funktioniert. Diese Richtlinien können auch als Markenstandards, Stilhandbuch, Markenbuch oder Markenidentitätshandbücher bezeichnet werden und umfassen:
+Markenrichtlinien sind eine Reihe von Regeln, die erklären, wie die Marke Ihres Unternehmens funktioniert. Diese Richtlinien, die auch als Markenstandards, Styleguide, Markenbuch oder Leitfaden zur Markenidentität bezeichnet werden, können Folgendes umfassen:
 
-* Ein Überblick über Geschichte, Vision, Persönlichkeit und Ton Ihrer Marke.
-* Die DOS und verwenden nicht das Firmenlogo.
-* Beispiele für Schriftarten, die für die Druck- und Webverwendung zugelassen sind.
+* Einen Überblick über die Geschichte, Vision, Persönlichkeit und die Aussage Ihrer Marke.
+* Wann darf das Firmenlogo verwendet werden und wann nicht?
+* Beispiele für Schriftarten, die für den Druck und die Verwendung im Internet zugelassen sind.
 * Aufschlüsselung der primären und sekundären Farben des Unternehmens.
 * Beispiele für Bildstile und Fotos, die gut mit der Marke funktionieren.
 
-Nach der Anmeldung bei [!UICONTROL Brand Connect], greifen Sie auf die Richtlinien zu, indem Sie in der oberen Navigationsleiste auf Markenrichtlinien klicken.
+Wenn Sie bei [!UICONTROL Brand Connect] angemeldet sind, können Sie die Richtlinien aufrufen, indem Sie in der oberen Navigationsleiste auf „Markenrichtlinien“ klicken.
