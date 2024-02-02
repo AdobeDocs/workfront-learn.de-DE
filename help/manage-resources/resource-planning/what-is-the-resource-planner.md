@@ -1,6 +1,6 @@
 ---
-title: Was ist der Ressourcen-Planer?
-description: Erfahren Sie, was der Ressourcen-Planer ist.
+title: Was ist der Ressourcenplaner?
+description: Erfahren Sie, was der Ressourcenplaner ist.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,17 +12,17 @@ jira: KT-8879
 exl-id: f4d97236-7652-4877-bca3-d935760b6dbc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Was ist das [!DNL Resource Planner]?
+# Was ist der [!DNL Resource Planner]?
 
-Um die Menschen wirklich zu befähigen, müssen die Manager die Anstrengungen ihrer Menschen planen und planen. Es ist jedoch ein großes Unterfangen, Menschen mit den richtigen Qualifikationen zu finden, die zum richtigen Zeitpunkt verfügbar sind, während sie versuchen, diese Daten zu erfassen und sie monatlich, vierteljährlich oder sogar jährlich zu verwalten.
+Um ihre Mitarbeitenden wirklich zu befähigen, müssen Managerinnen und Manager die Arbeit ihrer Mitarbeitenden planen und zeitlich festlegen. Doch Menschen mit den richtigen Fähigkeiten zu finden, die zur richtigen Zeit verfügbar sind, und gleichzeitig zu versuchen, diese Daten zu erfassen und monatlich, vierteljährlich oder gar jährlich zu verwalten, ist ein großes Unterfangen.
 
-Diese Aufgabe kann jedoch mit dem Ressourcen-Planer von Workfront etwas einfacher sein.
+Diese Aufgabe kann jedoch mit dem Workfront-Ressourcenplaner ein wenig leichter werden.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on)
