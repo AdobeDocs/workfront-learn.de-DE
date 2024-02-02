@@ -1,6 +1,6 @@
 ---
-title: Zuweisen von Arbeiten im Arbeitslastausgleich
-description: Erfahren Sie, wie Sie das Bedienfeld "Aufgabenzusammenfassung"anzeigen und einer nicht zugewiesenen Aufgabe Zuweisungen zuweisen.
+title: Zuweisen von Arbeit im Workload Balancer
+description: Erfahren Sie, wie Sie das Bedienfeld „Aufgabenzusammenfassung“ anzeigen und Zuweisungen zu einer noch nicht zugewiesenen Aufgabe vornehmen können.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,18 +12,18 @@ jira: KT-8878
 exl-id: ec3dd98e-4944-4d6a-9936-be83c390fa2e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Zuweisen von Arbeiten im [!DNL Workload Balancer]
+# Zuweisen von Arbeit im [!DNL Workload Balancer]
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Anzeigen des Übersichtsbereichs für die Aufgabe, um die Details einer Aufgabe anzuzeigen
-* Zuweisen zu einer nicht zugewiesenen Aufgabe
+* Anzeigen des Bedienfelds „Aufgabenzusammenfassung“, um die Details einer Aufgabe zu sehen
+* Vornehmen von Zuweisungen zu einer noch nicht zugewiesenen Aufgabe
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on)
