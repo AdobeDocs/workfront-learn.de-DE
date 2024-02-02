@@ -1,6 +1,6 @@
 ---
-title: Verwalten von Testversandkommentaren
-description: Informationen zum Verwalten von Testversand-Kommentaren finden Sie in [!DNL  Workfront] durch Anwendung von Kommentaraktionen, Beheben von Kommentaren und Filtern der Spalte "Kommentare".
+title: Verwalten von Korrekturabzugskommentaren
+description: Erfahren Sie, wie Sie Korrekturabzugskommentare in [!DNL  Workfront] verwalten, indem Sie Kommentaraktionen anwenden, Kommentare beilegen und die Kommentarspalte filtern.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -11,45 +11,45 @@ thumbnail: manage-proof-comments.png
 jira: KT-10109
 exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '444'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Verwalten von Testversandkommentaren
+# Verwalten von Korrekturabzugskommentaren
 
-[!DNL Workfront] hilft Ihnen beim Nachverfolgen und Verwalten von mit jedem Kommentar in einem Testversand zusammenhängenden Arbeiten, z. B. beim Durchführen von Korrekturen am Asset, durch Kommentar-Aktionen oder durch Beheben von Kommentaren.
+[!DNL Workfront] hilft Ihnen beim Nachverfolgen und Verwalten von Arbeiten, die mit einem Kommentar zu einem Korrekturabzug in Bezug stehen – wie etwa Korrekturen zu dem Asset vorzunehmen –, und zwar durch Kommentaraktionen oder durch die Beilegung von Kommentaren.
 
-Testaktionen sind eine &quot;Markierung&quot; oder eine &quot;Bezeichnung&quot; für einen Kommentar und werden häufig verwendet, um anzugeben, dass bezüglich des Kommentars eine Aktion durchgeführt wurde oder erforderlich ist. Aktionen können über das Symbol oder das Menü Mehr für jeden Kommentar ausgewählt werden.
+Korrekturabzugsaktionen sind eine „Markierung“ oder eine „Kennzeichnung“ für einen Kommentar und werden häufig verwendet, um anzugeben, dass bezüglich des Kommentars eine Aktion durchgeführt wurde oder erforderlich ist. Aktionen können über das Symbol oder das Menü „Mehr“ für einen jeweiligen Kommentar ausgewählt werden.
 
-![Ein Bild eines Testversands im Testversand-Viewer, wobei das Flag-Symbol auf dem Kommentar hervorgehoben und die verfügbaren Testsendungen sichtbar sind.](assets/manage-comments-1.png)
+![Ein Bild eines Korrekturabzugs im Proofing-Viewer, wobei das Flaggensymbol auf dem Kommentar hervorgehoben ist und die verfügbaren Korrekturabzugsaktionen sichtbar sind.](assets/manage-comments-1.png)
 
-Sie sind beispielsweise dafür verantwortlich, zu entscheiden, welche der während des Überprüfungsprozesses vorgenommenen Korrekturen tatsächlich durchgeführt werden sollen. Mithilfe einer Aktion können Sie die relevanten Kommentare markieren und einem Designer oder Editor mitteilen, welche Änderungen vorgenommen werden sollen. Diese Person kann dann eine andere Aktion verwenden, um anzugeben, dass die Änderungen vorgenommen wurden.
+Zum Beispiel: Sie sind dafür verantwortlich, zu entscheiden, welche der Korrekturen, die während des Überprüfungsprozesses vorgenommen wurden, tatsächlich durchgeführt werden sollten. Mithilfe einer Aktion können Sie die relevanten Kommentare markieren und einer Designerin bzw. einem Designer oder einer Bearbeiterin bzw. einem Bearbeiter mitteilen, welche Änderungen vorgenommen werden sollen. Diese Person kann dann eine andere Aktion verwenden, um anzugeben, dass die Änderungen vorgenommen wurden.
 
-![Ein Bild eines Testversands im Testversand-Viewer mit der [!UICONTROL Aufgaben] Aktion zum Testen des Kommentars hervorgehoben.](assets/manage-comments-2.png)
+![Ein Bild eines Korrekturabzugs im Proofing-Viewer mit Hervorhebung der Korrekturabzugsaktion [!UICONTROL Zu erledigen] für den Kommentar.](assets/manage-comments-2.png)
 
-Wenn Ihre Kommentare keine Aktionen enthalten, hat Ihr Unternehmen sie nicht eingerichtet. Wenden Sie sich an Ihren Testsystemadministrator, wenn Sie glauben, dass Aktionen etwas sind, das Ihr Unternehmen verwenden sollte.
+Wenn für Ihre Kommentare keine Aktionen aufgeführt sind, hat Ihr Unternehmen sie nicht eingerichtet. Wenden Sie sich an Ihre für das Proofing zuständige Systemadmins, wenn Aktionen Ihrer Meinung nach etwas sind, das Ihr Unternehmen verwenden sollte.
 
-Die Funktion &quot;Kommentar auflösen&quot;wird häufig verwendet, um anzugeben, dass ein Kommentar in irgendeiner Weise angesprochen wurde - es wurde eine Korrektur vorgenommen oder eine Frage wurde beantwortet. Einige [!DNL Workfront] -Kunden &quot;beheben&quot;einen Kommentar, wenn es sich um eine Korrektur handelt, die nicht vorgenommen werden muss, oder es ist nur ein Kommentar, der gelesen wurde.
+Die Funktion „Kommentar beilegen“ wird häufig verwendet, um anzugeben, dass ein Kommentar in irgendeiner Weise behandelt wurde – etwa indem eine Korrektur vorgenommen oder eine Frage beantwortet wurde. Bei einigen Kundinnen und Kunden von [!DNL Workfront] wird ein Kommentar „beigelegt“, wenn es sich um eine Korrektur handelt, die nicht erforderlich ist, oder wenn der Kommentar einfach gelesen wurde.
 
-Lösen Sie den Kommentar, indem Sie auf das Häkchensymbol klicken. Auf diese Weise wird ein grünes Häkchen auf den Kommentar gesetzt, sodass Sie leicht erkennen können, welche Kommentare geprüft wurden, während Sie die Spalte &quot;Kommentare&quot;durchsuchen.
+Legen Sie den Kommentar bei, indem Sie auf das Häkchen klicken. Dadurch wird der Kommentar mit einem grünen Häkchen versehen, sodass Sie leicht erkennen können, welche Kommentare geprüft wurden, während Sie die Spalte „Kommentare“ durchgehen.
 
-![Ein Bild eines Testversands im Testversand-Viewer, wobei das Häkchen-Symbol auf dem Kommentar hervorgehoben wird.](assets/manage-comments-4.png)
+![Ein Bild eines Korrekturabzugs im Proofing-Viewer, mit hervorgehobenem Häkchensymbol für den Kommentar.](assets/manage-comments-4.png)
 
-Sie können die Spalte &quot;Kommentare&quot;nach beiden dieser Funktionen filtern, um zu kuratieren, was Sie bei der Arbeit mit dem Testversand sehen.
+Sie können die Spalte „Kommentare“ nach beiden dieser Funktionen filtern, um zu kuratieren, was Sie bei der Arbeit mit dem Korrekturabzug sehen.
 
-![Ein Bild der Kommentarfilter im Testversand-Viewer mit der [!UICONTROL Aktionen] und [!UICONTROL Allgemein] hervorgehobene Filteroptionen.](assets/manage-comments-3.png)
+![Ein Bild der Kommentarfilter im Proofing-Viewer mit den hervorgehobenen Filteroptionen [!UICONTROL Aktionen] und [!UICONTROL Allgemein].](assets/manage-comments-3.png)
 
-## Ihre Wendung
+## Sie sind dran
 
 >[!IMPORTANT]
 >
->Vergessen Sie nicht, alle Mitarbeiter, die einem Testversand-Workflow zugewiesen sind, daran zu erinnern, dass Sie im Rahmen Ihrer Workfront-Schulung mit Testsendungen arbeiten.
+>Vergessen Sie nicht, alle Ihre Mitarbeitenden, die mit einem Korrekturabzug-Workflow betraut sind, daran zu erinnern, dass Sie im Rahmen Ihrer Workfront-Schulung mit Korrekturabzügen arbeiten.
 
 
-1. Suchen Sie einen Testversand, den Sie in Workfront hochgeladen haben. Öffnen Sie den Testversand-Viewer, um sich die Kommentare anzusehen, die abgegeben wurden, und um auf einen Kommentar zu antworten. Schließen Sie den Testversand-Viewer, wenn Sie fertig sind.
-1. Verwenden Sie den Abschnitt Aktualisierungen - entweder im Bereich Dokumentdetails oder Zusammenfassung - , um die neuesten Kommentare zu einem in Workfront hochgeladenen Testversand anzuzeigen. Antworten Sie auf einen Kommentar.
+1. Suchen Sie einen Korrekturabzug, den Sie in Workfront hochgeladen haben. Öffnen Sie den Proofing-Viewer, um sich die Kommentare anzusehen, die abgegeben wurden, und um auf einen Kommentar zu antworten. Schließen Sie den Proofing-Viewer, wenn Sie fertig sind.
+1. Verwenden Sie den Abschnitt „Aktualisierungen“ – entweder im Bedienfeld „Dokumentdetails“ oder im Bedienfeld „Zusammenfassung“ –, um die neuesten Kommentare zu einem Kommentar anzuzeigen, der in Workfront hochgeladen wurde. Antworten Sie auf einen Kommentar.
 
 
 <!--
