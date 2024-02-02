@@ -1,139 +1,139 @@
 ---
-title: Best Practice - Testversand
-description: Erfahren Sie mehr über Best Practices von Adobe Workfront-Experten für die Einrichtung, Verwaltung und Verwendung von Testsendungen in Workfront.
+title: Best Practice – Proofing
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden der Proofing-Funktion in Workfront empfehlen.
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1179'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Testversand
+# Best Practice – Proofing
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
-
-</br>
-</br>
-
-## Best Practices für die Überprüfung in Workfront
-
-* Erstellen Sie Workflow-Vorlagen für Testsendungen.
-
-* Deaktivieren Sie in den Workfront-Setups die Einstellung &quot;E-Mails von Workfront senden, wenn ein Kommentar zu einem Testversand abgegeben wird&quot;.
-
-* Verwenden Sie die Einstellung &quot;Benutzerrollen für Nicht-Empfänger, die einen Dokumentversand öffnen&quot;in Workfront nur &quot;Schreibgeschützt&quot;oder &quot;Überprüfer&quot;.
-
-* Passen Sie die Back-End-Einstellungen für den Testversand an, damit Benutzer Termine im 12-Stunden-Uhrzeitformat sehen.
-
-* Legen Sie im Rahmen der Systemeinstellungen eine standardmäßige Testversand-Deadline fest.
-
-* Blenden Sie die Option Nicht relevante Testversandentscheidung aus.
-
-* Ordnen Sie die Testversand-Entscheidungsoptionen in den Testversandeinstellungen nicht neu an.
-
-* Legen Sie Benutzerstandardeinstellungen für Testadressen und E-Mail-Warnungen fest.
-
-* Setzen Sie die Testversand-Rolle des Testversands auf &quot;Überprüfer&quot;.
-
-* Vermeiden Sie die Verwendung der Rolle &quot;Testversand genehmigen&quot;.
-
-* Vermeiden Sie die Option E-Mail-Warnhinweis mit Aktivitätsnachweis .
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Best Practices für das Proofing in Workfront
+
+* Nehmen Sie sich die Zeit, um Vorlagen für Proofing-Workflows zu erstellen.
+
+* Deaktivieren Sie im Workfront-Setup die Einstellung „E-Mails von Workfront senden, wenn ein Korrekturabzug kommentiert wird“.
+
+* Legen Sie in Workfront die Einstellung „Benutzerrollen für Nicht-Empfänger, die einen Dokument-Korrekturabzug öffnen“ auf „Schreibgeschützt“ oder „Prüfer“ fest.
+
+* Passen Sie die Backend-Einstellungen für den Korrekturabzug an, damit Benutzende Fristen im 12-Stunden-Zeitformat sehen können.
+
+* Legen Sie im Rahmen der Systemeinstellungen eine standardmäßige Frist für den Korrekturabzug fest.
+
+* Blenden Sie die Korrekturabzugsentscheidungs-Option „Nicht relevant“ aus.
+
+* Ordnen Sie die Optionen für die Korrekturabzugsentscheidung in den Korrekturabzugseinstellungen nicht neu an.
+
+* Legen Sie Benutzerstandardeinstellungen für Korrekturabzugsrollen und E-Mail-Warnhinweise fest.
+
+* Setzen Sie die Korrekturabzugsrolle der Person, die den Korrekturabzug erstellt hat, auf „Prüfer“.
+
+* Vermeiden Sie es, die Korrekturabzugsrolle „Genehmigende Person“ zu verwenden.
+
+* Vermeiden Sie die Korrekturabzugs-E-Mail-Warnoption „Alle Aktivitäten“.
+
+</br>
+</br>
+
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Erstellen Sie Workflow-Vorlagen für Testsendungen.
+Nehmen Sie sich die Zeit, um Vorlagen für Proofing-Workflows zu erstellen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Vorlagen beschleunigen und optimieren nicht nur die Erstellung und Zuweisung von Testsendungen, sondern bieten auch Konsistenz über Testversand-Workflows hinweg für ähnliche Asset-Typen. Sie stellen außerdem sicher, dass jedem Testversand-Empfänger die richtige Testversandrolle und die richtige E-Mail-Warnung zugewiesen wird und dass ein Termin festgelegt wurde.
-
-</br>
-</br>
-
-**Best Practice**
-
-Deaktivieren Sie in den Workfront-Setups die Einstellung &quot;E-Mails von Workfront senden, wenn ein Kommentar zu einem Testversand abgegeben wird&quot;.
-
-
-
-**Deshalb**
-
-Wenn diese Einstellung aktiviert ist (standardmäßig), können Benutzer mehrere E-Mail-Benachrichtigungen für jeden Kommentar auf einem Testversand erhalten - eine von der Testfunktion und eine von Workfront selbst. Diese doppelten Benachrichtigungen führen zu einer Unterbrechung und Verwirrung der E-Mail-Benachrichtigung sowie zu einem vollständigen E-Mail-Posteingang, was letztendlich dazu führen kann, dass Benutzer die von ihnen empfangenen Testversandbenachrichtigungen ignorieren. Dies wiederum könnte verpasste Fristen bedeuten.
-
-
-
-**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü > Einrichtung > E-Mail > Überprüfen und Genehmigen .
+Vorlagen beschleunigen und optimieren nicht nur die Erstellung und Zuweisung von Korrekturabzügen, sondern bieten für ähnliche Asset-Typen auch eine Konsistenz über Korrekturabzug-Workflows hinweg. Sie stellen außerdem sicher, dass allen Empfängerinnen und Empfängern von Korrekturabzügen die richtige Korrekturabzugsrolle und der richtige E-Mail-Warnhinweis zugewiesen werden und dass eine Frist festgelegt wurde.
 
 </br>
 </br>
 
 **Best Practice**
 
-Verwenden Sie die Einstellung &quot;Benutzerrollen für Nicht-Empfänger, die einen Dokumentversand öffnen&quot;in Workfront nur &quot;Schreibgeschützt&quot;oder &quot;Überprüfer&quot;.
+Deaktivieren Sie im Workfront-Setup die Einstellung „E-Mails von Workfront senden, wenn ein Korrekturabzug kommentiert wird“.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Für die anderen Optionen dieser Einstellung muss eine Testversandentscheidung getroffen werden, durch die Ihr Testversand-Workflow entgleitet werden kann. Im Allgemeinen müssen Personen, die nicht zum Testversand-Workflow hinzugefügt werden, lediglich den Testversand ansehen oder Kommentare abgeben, den Testversand nicht validieren. Daher sind die Optionen Schreibgeschützt oder Prüfer Ihre beste Wahl.
-
-
-
-**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü > Einrichtung > Überprüfen und Genehmigen .
-
-</br>
-</br>
-
-**Best Practice**
-
-Passen Sie die Back-End-Einstellungen für den Testversand an, damit Benutzer Termine im 12-Stunden-Uhrzeitformat sehen.
+Wenn diese Einstellung aktiviert ist (dies ist standardmäßig der Fall), können Benutzende mehrere E-Mail-Benachrichtigungen für jeden Kommentar zu einem Korrekturabzug erhalten – eine von der Proofing-Funktion und eine von Workfront selbst. Diese doppelten Benachrichtigungen führen zu Störungen und Verwirrung in Bezug auf die E-Mail-Benachrichtigungen sowie zu einem vollen E-Mail-Posteingang. Dies kann letztendlich die Folge haben, dass Benutzende die von ihnen empfangenen Benachrichtigungen über Korrekturabzüge ignorieren. Dadurch können wiederum Fristen verpasst werden.
 
 
 
-**Deshalb**
-
-Wählen Sie die Option F j, Y, gi:a in den Testversandeinstellungen für Benutzer aus, die die Testversandfristen/-zeiten im AM/PM-Format sehen möchten. Für Bereiche, die eine 12-Stunden-Uhr verwenden, hilft dies bei der Klarheit der Termine.
-
-
-
-**Hinweis**: Diese Einstellung können Sie im Workfront-Hauptmenü > Testversand > Kontoeinstellungen > Benutzer > vornehmen und für jeden Benutzer das Feld Datumsformat bearbeiten.
+**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü unter „Setup“ > „E-Mail“ > „Überprüfung und Genehmigung“.
 
 </br>
 </br>
 
 **Best Practice**
 
-Legen Sie im Rahmen der Systemeinstellungen eine standardmäßige Testversand-Deadline fest.
+Legen Sie in Workfront die Einstellung „Benutzerrollen für Nicht-Empfänger, die einen Dokument-Korrekturabzug öffnen“ auf „Schreibgeschützt“ oder „Prüfer“ fest.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn der Ersteller eines Testversands vergisst, einen Termin hinzuzufügen, wendet Workfront diesen Termin automatisch auf jeden hochgeladenen Testversand an.
+Für die anderen Optionen dieser Einstellung muss eine Korrekturabzugsentscheidung getroffen werden, durch die Ihr Proofing-Workflow scheitern kann. Im Allgemeinen müssen Personen, die nicht zum Korrekturabzug-Workflow hinzugefügt werden, lediglich den Korrekturabzug ansehen oder Kommentare abgeben, den Korrekturabzug aber nicht tatsächlich genehmigen. Daher wählen Sie am besten die Optionen „Schreibgeschützt“ oder „Prüfer“ aus.
 
 
 
-**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü > Testversand > Kontoeinstellungen > Einstellungen > Testversand-Standard > Versandgültigkeit (+ Geschäftstage) .
+**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü unter „Setup“ > „Überprüfung und Genehmigung“.
+
+</br>
+</br>
+
+**Best Practice**
+
+Passen Sie die Backend-Einstellungen für den Korrekturabzug an, damit Benutzende Fristen im 12-Stunden-Zeitformat sehen können.
+
+
+
+**Das sind die Gründe**
+
+Wählen Sie in den Korrekturabzugseinstellungen die Option „F j, Y, gi:a“ für Benutzende aus, die die Korrekturabzugsfristen/-zeiten im AM/PM-Format sehen möchten. Für Gebiete, in denen das 12-Stunden-Zeitformat gängig ist, sorgt dies für mehr Klarheit bei den Fristen.
+
+
+
+**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü unter „Proofing“ > „Kontoeinstellungen“ > „Benutzer“. Bearbeiten Sie dort für jede Person das Feld „Datumsformat“.
+
+</br>
+</br>
+
+**Best Practice**
+
+Legen Sie im Rahmen der Systemeinstellungen eine standardmäßige Frist für den Korrekturabzug fest.
+
+
+
+**Das sind die Gründe**
+
+Wenn eine standardmäßige Korrekturabzugsfrist – Hochladedatum + x Anzahl von Werktagen – festgelegt ist und die Person, die den Korrekturabzug erstellt hat, vergisst, eine Frist hinzuzufügen, wendet Workfront diese Frist automatisch auf jeden hochgeladenen Korrekturabzug an.
+
+
+
+**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü unter „Proofing“ > „Kontoeinstellungen“ > „Einstellungen“ > „Korrrekturabzugs-Standardeinstellungen“ im Feld „Frist (+ Werktage)“.
 
 </br>
 </br>
@@ -141,88 +141,88 @@ Wenn der Ersteller eines Testversands vergisst, einen Termin hinzuzufügen, wend
 
 **Best Practice**
 
-Blenden Sie die Option Nicht relevante Testversandentscheidung aus.
+Blenden Sie die Korrekturabzugsentscheidungs-Option „Nicht relevant“ aus.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Diese Entscheidungsoption führt bei Genehmigern häufig zu Verwirrung, da Organisationen häufig nicht definieren, wann die Option Nicht relevant verwendet werden soll. Die Option Nicht relevant weist im Allgemeinen darauf hin, dass der Testversand für den Testversand-Empfänger nicht relevant ist und dass er keine genehmigte oder abgelehnte Entscheidung treffen muss. Durch die Auswahl von Nicht relevant kann der Testversand-Workflow fortgesetzt werden.
-
-
-Die Option Nicht relevant ist in den meisten Testversand-Workflows nicht erforderlich.
-
-**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü > Testversand > Kontoeinstellungen > Entscheidungen.
-
-</br>
-</br>
-
-**Best Practice**
-
-Ordnen Sie die Testversand-Entscheidungsoptionen in den Testversandeinstellungen nicht neu an.
+Diese Entscheidungsoption führt bei genehmigenden Personen häufig zu Verwirrung, da Organisationen oft nicht definieren, wann die Option „Nicht relevant“ verwendet werden soll. Die Option „Nicht relevant“ weist im Allgemeinen darauf hin, dass der Korrekturabzug für die Empfängerin oder den Empfänger des Korrekturabzugs nicht relevant ist und dass diese Person keine Genehmigungs- oder Ablehnungsentscheidung treffen muss. Durch die Auswahl von „Nicht relevant“ kann der Korrekturabzug-Workflow fortgesetzt werden.
 
 
+Die Option „Nicht relevant“ ist in den meisten Korrekturabzug-Workflows nicht erforderlich.
 
-**Deshalb**
-
-Jede Einstellung der Testversandentscheidung enthält einen bestimmten Wert/eine bestimmte Gewichtung, die bei einer Neuanordnung Verwirrung in Ihren Testversandkonfigurationen verursachen kann. Die Entscheidungsreihenfolge und der Wert/die Gewichtung werden als Trigger für die Aktivierung der Testphase und in Berichten verwendet.
-
-
-
-**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü > Testversand > Kontoeinstellungen > Entscheidungen.
+**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü unter „Proofing“ > „Kontoeinstellungen“ > „Entscheidungen“.
 
 </br>
 </br>
 
 **Best Practice**
 
-Legen Sie Benutzerstandardeinstellungen für Testadressen und E-Mail-Warnungen fest.
+Ordnen Sie die Optionen für die Korrekturabzugsentscheidung in den Korrekturabzugseinstellungen nicht neu an.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Diese Einstellungen werden automatisch ausgefüllt, wenn Sie einen Testversand-Workflow zuweisen, den Prozess beschleunigen und zur Konsistenz der Testversand-Workflows beitragen.
-
-
-
-**Hinweis**: Die Standardeinstellungen der Benutzer werden im Workfront-Hauptmenü > Testversand > Kontoeinstellungen > Benutzer > angezeigt. Wählen Sie dann den Benutzer aus, für den die Standardeinstellungen festgelegt werden sollen.
-
-</br>
-</br>
-
-**Best Practice**
-
-Setzen Sie die Testversand-Rolle des Testversands auf &quot;Überprüfer&quot;.
+Jede Einstellung für die Korrekturabzugsentscheidung umfasst einen bestimmten Wert bzw. eine bestimmte Gewichtung, was bei einer Neuanordnung in Bezug auf Ihre Korrekturabzugskonfigurationen zu Verwirrung führen kann. Die Entscheidungsreihenfolge und der Wert/die Gewichtung werden als Trigger für die Aktivierung der Korrekturphase und beim Reporting verwendet.
 
 
 
-**Deshalb**
-
-Mit der Rolle Testversand überprüfen wird sichergestellt, dass der Ersteller des Testversands Kommentare abgeben und auf Kommentare zugreifen kann, die von anderen Benutzern hinterlassen wurden. Meistens muss der Ersteller des Testversands keine Entscheidung über einen hochgeladenen Testversand treffen. Die Rollen Genehmiger, Prüfer und Genehmiger, Autor oder Moderator-Testversand erfordern eine Entscheidung. Wenn dem Ersteller des Testversands eine dieser Rollen zugewiesen wird, er jedoch nie eine Entscheidung trifft, kann dies die Testversandfristen beeinträchtigen.
+**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü unter „Proofing“ > „Kontoeinstellungen“ > „Entscheidungen“.
 
 </br>
 </br>
 
 **Best Practice**
 
-Vermeiden Sie die Verwendung der Rolle &quot;Testversand genehmigen&quot;.
+Legen Sie Benutzerstandardeinstellungen für Korrekturabzugsrollen und E-Mail-Warnhinweise fest.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Die Rolle &quot;Testversand genehmigen&quot;ermöglicht dem Benutzer keine Kommentare zu diesem Testversand. Dies könnte dazu führen, dass ein Benutzer den Testversand ohne jegliche Erklärung ablehnt, da er keine Kommentare abgeben konnte. Verwenden Sie stattdessen die Rolle &quot;Testversand für Prüfer und Genehmiger&quot;, damit der Benutzer Feedback geben kann.
+Diese Einstellungen werden automatisch angegeben, wenn Sie einen Korrekturabzug-Workflow zuweisen. Auf diese Weise wird der Vorgang beschleunigt und trägt zur Konsistenz der Korrekturabzug-Workflows bei.
+
+
+
+**Hinweis**: Die Standardeinstellungen für Benutzende finden Sie im Workfront-Hauptmenü unter „Proofing“ > „Kontoeinstellungen“ > „Benutzer“. Wählen Sie dann die Person aus, für die die Standardeinstellungen festgelegt werden sollen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Vermeiden Sie die Option E-Mail-Warnhinweis mit Aktivitätsnachweis .
+Setzen Sie die Korrekturabzugsrolle der Person, die den Korrekturabzug erstellt hat, auf „Prüfer“.
 
-**Deshalb**
 
-Diese Option sendet eine E-Mail-Benachrichtigung zu jedem Fall, in dem ein Testversand durchgeführt wird - ein Kommentar, eine Antwort, eine Entscheidung usw. Der Empfänger sieht im Wesentlichen die Aktivität Testversand , sobald dies geschieht.
 
-Für Testversand-Eigentümer und -Ersteller funktioniert der Benachrichtigungs-E-Mail-Warnhinweis &quot;Entscheidungen&quot;am besten für mehrstufige Testsendungen und die endgültige Entscheidung funktioniert am besten für einstufige Workflows. Im Allgemeinen können alle anderen auf Deaktiviert gesetzt werden, es sei denn, sie möchten über andere Personen informiert werden, die Kommentare oder Entscheidungen treffen (in diesem Fall kann eine der Zusammenfassungs-E-Mail-Optionen am besten funktionieren).
+**Das sind die Gründe**
+
+Mit der Korrekturabzugsrolle „Prüfer“ wird sichergestellt, dass die Person, die den Korrekturabzug erstellt hat, Kommentare abgeben und auf Kommentare von anderen zugreifen kann. Meistens muss diese Person keine Entscheidung über einen hochgeladenen Korrekturabzug treffen. Von den Korrekturabzugsrollen „Genehmigende Person“, „Prüfer und genehmigende Person“, „Verfassende Person“ oder „Moderator“ wird jedoch eine Entscheidung verlangt. Wenn der Person, die den Korrekturabzug erstellt hat, eine dieser Korrekturabzugsrollen zugewiesen wird, aber sie nie eine Entscheidung trifft, kann dies die Korrekturabzugsfristen negativ beeinflussen.
+
+</br>
+</br>
+
+**Best Practice**
+
+Vermeiden Sie es, die Korrekturabzugsrolle „Genehmigende Person“ zu verwenden.
+
+
+
+**Das sind die Gründe**
+
+Mit der Korrekturabzugsrolle „Genehmigende Person“ können Benutzende keine Kommentare zu diesem Korrekturabzug abgeben. Dies könnte dazu führen, dass jemand den Korrekturabzug ohne jegliche Erklärung ablehnt, da es nicht möglich war, Kommentare abzugeben. Verwenden Sie stattdessen die Korrekturabzugsrolle „Prüfer und genehmigende Person“, damit die Person Feedback geben kann.
+
+</br>
+</br>
+
+**Best Practice**
+
+Vermeiden Sie die Korrekturabzugs-E-Mail-Warnoption „Alle Aktivitäten“.
+
+**Begründung**
+
+Mit dieser Option wird bei jedem Vorgang im Zusammenhang mit dem Korrekturabzug eine E-Mail-Benachrichtigung gesendet – also bei jedem Kommentar, jeder veröffentlichten Antwort, jeder Entscheidung usw. Die Empfängerin bzw. der Empfänger sieht im Grunde die Proofing-Aktivität in Echtzeit.
+
+Für Inhaberinnen und Inhaber sowie Erstellerinnen und Ersteller eines Korrekturabzugs funktioniert der E-Mail-Warnhinweis „Entscheidungen“ am besten bei mehrstufigen Korrekturabzug-Workflows. „Finale Entscheidung“ ist wiederum am besten für einstufige Workflows geeignet. Im Allgemeinen können alle anderen auf „Deaktiviert“ gesetzt werden, es sei denn, sie möchten über andere Personen informiert werden, die Kommentare abgeben oder Entscheidungen treffen (in diesem Fall ist ggf. eine der Zusammenfassungs-E-Mail-Optionen am besten geeignet).
