@@ -1,59 +1,59 @@
 ---
-title: Best Practice - Textmodusberichte
-description: Erfahren Sie mehr über Best Practices von Adobe Workfront-Experten zur Einrichtung, Verwaltung und Verwendung von Workfront-Textmodusberichten.
+title: Best Practice – Textmodusberichte
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Workfront-Textmodusberichten empfehlen.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10928
 exl-id: c624545c-ba42-4cc3-aafe-8be15baadb75
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Textmodusberichte
+# Best Practice – Textmodusberichte
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Best Practices für die Textmodusberichterstellung
+## Best Practices – Textmodusberichte
 
-* Verwenden Sie nach Möglichkeit in Spalten des Listenberichts Werteausdrücke aus dem Textmodus anstelle von berechneten benutzerdefinierten Feldern.
+* Verwenden Sie in den Spalten des Listenberichts möglichst Wertausdrücke im Textmodus anstelle berechneter benutzerdefinierter Felder.
 
 * Fügen Sie die in einer Textmodusberechnung verwendeten Berechnungen in die Beschreibung des Berichts ein.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Verwenden Sie nach Möglichkeit in Spalten des Listenberichts Werteausdrücke aus dem Textmodus anstelle von berechneten benutzerdefinierten Feldern.
+Verwenden Sie in den Spalten des Listenberichts möglichst Wertausdrücke im Textmodus anstelle berechneter benutzerdefinierter Felder.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Die Werte der Textmodi werden zum Zeitpunkt der Berichterstellung berechnet und bei jeder Aktualisierung des Berichts neu berechnet. Das bedeutet, dass Sie stets aktuelle Daten und genaue Berichte haben.
+Wertausdrücke im Textmodus werden zum Zeitpunkt der Berichtsausführung berechnet und bei jedem Aktualisieren des Berichts neu berechnet. So haben Sie stets aktuelle Daten und genaue Berichte haben.
 
 
 
-Berechnete benutzerdefinierte Felder (die in benutzerdefinierten Formularen verwendet werden) werden nicht automatisch aktualisiert, wenn Daten in Workfront angezeigt werden. Stattdessen werden die Ergebnisse der letzten in Workfront gespeicherten Berechnung angezeigt. Dies bedeutet, dass diese Werte zu einem bestimmten Zeitpunkt &quot;veraltet&quot;oder &quot;veraltet&quot;sein können. Berechnete benutzerdefinierte Felder müssen manuell aktualisiert werden, entweder durch Neuberechnung des Ausdrucks oder durch Bearbeiten und Speichern des Objekts, das das berechnete Feld enthält. Dies kann zeitaufwendig und leicht zu vergessen sein.
+Berechnete benutzerdefinierte Felder (die in benutzerdefinierten Formularen verwendet werden) werden nicht automatisch aktualisiert, wenn die Daten in Workfront angezeigt werden. Stattdessen zeigen sie die Ergebnisse der letzten in Workfront gespeicherten Berechnung an. Das bedeutet, dass diese Werte zu einem bestimmten Zeitpunkt veraltet sein können. Berechnete benutzerdefinierte Felder müssen manuell aktualisiert werden, entweder durch Neuberechnung des Ausdrucks oder durch Bearbeiten und Speichern des Objekts, das das berechnete Feld enthält. Dies kann zeitaufwendig sein und leicht vergessen werden.
 
 
 </br>
@@ -65,6 +65,6 @@ Fügen Sie die in einer Textmodusberechnung verwendeten Berechnungen in die Besc
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn Sie Textmodusberechnungen in die Beschreibung des Berichts aufnehmen, können andere erkennen, wie die Berechnung erstellt wurde und welche Informationen angezeigt werden sollten. Außerdem werden Systemadministratoren daran erinnert, wie der Bericht erstellt wurde, falls in Zukunft Aktualisierungen erforderlich sind.
+Die Aufnahme von Textmodusberechnungen in die Berichtsbeschreibung hilft anderen, zu verstehen, wie die Berechnung erstellt wurde und welche Art von Informationen angezeigt werden sollen. Außerdem werden Systemadmins daran erinnert, wie der Bericht erstellt wurde, falls in Zukunft Aktualisierungen erforderlich sind.
