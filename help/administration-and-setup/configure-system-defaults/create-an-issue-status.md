@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Problemstatus
-description: Erfahren Sie, wie Sie einen Problemstatus erstellen, der den Anforderungen der Workflows Ihres Unternehmens gerecht wird.
+description: Erfahren Sie, wie Sie einen Problemstatus erstellen können, der den Anforderungen der Workflows Ihres Unternehmens gerecht wird.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,42 +10,42 @@ level: Intermediate, Experienced
 jira: KT-10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Erstellen eines Problemstatus
 
-[!DNL Workfront] empfiehlt, die in Ihrem System vorhandenen Problemstatus zu ändern, bevor Sie mit der Erstellung neuer Status beginnen. Dadurch wird die Anzahl der Status begrenzt, die beibehalten werden müssen.
+[!DNL Workfront] empfiehlt, lieber bestehende Problemstatus in Ihrem System zu ändern, bevor Sie mit der Erstellung neuer Status beginnen. Dies trägt dazu bei, die Anzahl der zu pflegenden Status zu begrenzen.
 
-1. Klicken **[!UICONTROL Einrichtung]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** im linken Menübereich.
-1. Auswählen **[!UICONTROL Status]**.
-1. Wählen Sie die **[!UICONTROL Probleme]** Registerkarte.
-1. Stellen Sie sicher, dass das Feld oben rechts auf [!UICONTROL Systemstatus]. Dadurch wird sichergestellt, dass der neue Status in Ihrem gesamten [!DNL Workfront] -Instanz.
-1. Auswählen **[!UICONTROL Übergeordnete Liste]** um alle Problemstatus anzuzeigen. Hier können Sie einen Status erstellen oder ändern.
-1. Klicken **[!UICONTROL Neuen Status hinzufügen]**.
-1. Füllen Sie die für Ihre Organisation erforderlichen Felder aus - Name, Beschreibung, Farbe, entspricht mit, Schlüssel usw.
-1. Markieren Sie die Kästchen für den Typ des Problems, mit dem dieser Status verwendet werden kann.
+1. Klicken Sie auf **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]**.
+1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** im linken Menübereich.
+1. Wählen Sie **[!UICONTROL Status]**.
+1. Wählen Sie die Registerkarte **[!UICONTROL Probleme]**.
+1. Vergewissern Sie sich, dass das Feld oben rechts auf [!UICONTROL Systemstatus] eingestellt ist. Dadurch wird sichergestellt, dass der neue Status global in Ihrer [!DNL Workfront]-Instanz verfügbar ist.
+1. Wählen Sie **[!UICONTROL Primäre Liste]**, um alle Problemstatus anzuzeigen. Hier können Sie einen Status erstellen oder ändern.
+1. Klicken Sie auf **[!UICONTROL Neuen Status hinzufügen]**.
+1. Füllen Sie die Felder nach Bedarf für Ihr Unternehmen aus – Name, Beschreibung, Farbe, Entspricht, Schlüssel, usw.
+1. Markieren Sie die Kontrollkästchen für die Problemtypen, für die dieser Status verwendet werden kann.
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-![Neues Statusfenster auf [!UICONTROL Status] page](assets/admin-fund-create-issue-status.png)
+![Neues Statusfenster auf der Seite [!UICONTROL Status]](assets/admin-fund-create-issue-status.png)
 
-## Problemstatus und Gruppenadministratoren
+## Problemstatus und Gruppenadmins
 
-Gruppenadministratoren können den Problemstatus für die von ihnen verwalteten Gruppen erstellen und anpassen. Dies gibt ihrer Gruppe eine gewisse Autonomie, indem sie ihnen den Status gibt, den sie brauchen, um die Arbeit weiterzuführen. Außerdem entfällt die Notwendigkeit einer langen Liste systemweiter Status.
+Gruppenadmins können Problemstatus für die von ihnen verwalteten Gruppen erstellen und anpassen. Dies verschafft ihrer Gruppe eine gewisse Autonomie und liefert ihnen den Status, den sie brauchen, um die Arbeit voranzutreiben. Außerdem entfällt die Notwendigkeit einer langen Liste systemweiter Status.
 
-Gruppenadministratoren können vorhandene Status bearbeiten, wenn sie vom Systemadministrator so konfiguriert wurden, dass sie angepasst werden können.
+Gruppenadmins können vorhandene Status bearbeiten, wenn die Systemadmins sie so konfiguriert haben, dass eine Anpassung möglich ist.
 
-Systemadministratoren können den Status für Gruppen verwalten, indem sie den Gruppennamen in der oberen rechten Ecke der [!UICONTROL Status] Fenster.
+Systemadmins können die Status von Gruppen verwalten, indem sie den Gruppennamen in der oberen rechten Ecke des Fensters [!UICONTROL Status] auswählen.
 
-![Menü &quot;Gruppenliste&quot; [!UICONTROL Status] page](assets/admin-fund-change-group-master-list.png)
+![Menü „Gruppenliste“ auf der Seite [!UICONTROL Status]](assets/admin-fund-change-group-master-list.png)
 
-Gruppenadministratoren können auf die [!UICONTROL Gruppen] im Abschnitt [!UICONTROL Einrichtung] -Bereich, öffnen Sie die Gruppe, indem Sie auf den Namen klicken und dann [!UICONTROL Status] im Menü des linken Bedienfelds. Wählen Sie die Registerkarte Probleme aus.
+Gruppenadmins können im Bereich [!UICONTROL Setup] auf den Abschnitt [!UICONTROL Gruppen] klicken, ihre Gruppe durch Anklicken des Namens öffnen und dann [!UICONTROL Status] im Menü des linken Bedienfelds auswählen. Stellen Sie sicher, dass Sie die Registerkarte „Probleme“ auswählen.
 
-![[!UICONTROL Status] Abschnitt [!UICONTROL Gruppe] page](assets/admin-fund-group-issue-statuses.png)
+Abschnitt ![[!UICONTROL Status] der Seite [!UICONTROL Gruppe]](assets/admin-fund-group-issue-statuses.png)
 
 <!---
 For detailed information on how managing statuses can be done by group administrators, see these articles:
