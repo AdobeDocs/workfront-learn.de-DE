@@ -1,6 +1,6 @@
 ---
-title: Priorisieren der Arbeit in [!UICONTROL Startseite]
-description: Erfahren Sie, wie Sie Elemente im [!UICONTROL Arbeitsliste] als Prioritätszuweisungen auf der Startseite. Filtern Sie dann die Liste, um Ihre priorisierten Arbeiten in [!DNL  Workfront].
+title: Festlegen von Prioritäten für die Arbeit auf der [!UICONTROL Startseite]
+description: Erfahren Sie, wie Sie Elemente in der [!UICONTROL Arbeitsliste] als vorrangige Arbeitsaufträge auf der Startseite markieren können. Filtern Sie dann die Liste, um Ihre priorisierte Arbeit in [!DNL  Workfront]zu sehen.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,17 +12,17 @@ jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Priorisieren Sie Ihre Arbeit in [!DNL Workfront] [!UICONTROL Startseite]
+# Festlegen von Prioritäten für Ihre Arbeit auf der [!DNL Workfront]-[!UICONTROL Startseite]
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Arbeiten als Prioritätszuweisungen markieren
-* Filtern Sie die [!UICONTROL Arbeitsliste] nur vorrangige Arbeit
+* Markieren von Arbeit als vorrangige Arbeitsaufträge
+* Filtern der [!UICONTROL Arbeitsliste], um nur vorrangige Arbeiten zu sehen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)
