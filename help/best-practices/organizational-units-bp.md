@@ -1,59 +1,59 @@
 ---
-title: Best Practice - Organisationseinheiten
-description: Erfahren Sie mehr über Best Practices von Adobe Workfront-Experten für die Einrichtung, Verwaltung und Verwendung von Workfront-Organisationseinheiten (Unternehmen, Gruppen, Untergruppen und Teams). (Sollte zwischen 60 und 160 Zeichen lang sein, jedoch 178 Zeichen lang sein)
+title: Best Practice – Organisationseinheiten
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Workfront-Organisationseinheiten (Unternehmen, Gruppen, Untergruppen und Teams) empfehlen. (Soll-Länge 60 und 160 Zeichen, Ist-Länge 178 Zeichen)
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1431'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Organisationseinheiten
+# Best Practice – Organisationseinheiten
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Best Practices für Organisationseinheiten
+## Best Practices – Organisationseinheiten
 
 * Ermitteln Sie die wichtigsten Berichtskategorien und -anforderungen, bevor Sie Organisationseinheiten in Workfront einrichten.
 * Beurteilen Sie Ihre bestehende Workfront-Organisationsstruktur regelmäßig, um sicherzustellen, dass sie Ihren Anforderungen entspricht.
 * Prüfen Sie Ihre Benutzerbasis vierteljährlich oder mindestens alle sechs Monate.
 
-* Identifizieren und Trainieren von Benutzern als Gruppenadministratoren.
+* Identifizieren und Trainieren von Benutzenden als Gruppenadmins.
 
-* Teilen Sie Ihren Benutzern mit, was mit Workfront gut läuft, welche Änderungen an den Workfront-Funktionen eintreten oder welche Prozess-/Workflow-Aktualisierungen vorgenommen werden.
+* Teilen Sie Ihren Benutzenden mit, was mit Workfront gut läuft, welche Änderungen an den Workfront-Funktionen eintreten oder welche Prozesse/Workflows aktualisiert werden.
 
-* Für Ihre internen Benutzer wird in der Regel nur ein Unternehmen benötigt.
+* Für Ihre internen Benutzenden wird in der Regel nur ein einziges Unternehmen benötigt.
 
 * Erstellen Sie Unternehmen für externe Kunden oder Anbieter, die Sie in Ihrer Workfront-Instanz verfolgen möchten oder die Anmelderechte für Ihre Instanz benötigen.
 
 * Halten Sie Workfront-Gruppen auf ein Minimum beschränkt und ordnen Sie sie den Abteilungen Ihres Unternehmens zu.
 
-* Verwenden Sie Gruppen zur Darstellung der Abteilungsstruktur und Teams zur Vertretung der Arbeitsstruktur.
-* Nutzen Sie Gruppenadministratoren, um Systemadministratoren bei der Verwaltung von Benutzern und Einstellungen zu unterstützen.
+* Verwenden Sie Gruppen zur Darstellung der Abteilungsstruktur und Teams zur Darstellung der Arbeitsstruktur.
+* Nutzen Sie Gruppenadmins, um Systemadmins bei der Verwaltung von Benutzenden und Einstellungen zu unterstützen.
 
-* Gruppenadministratoren können ihre eigenen Untergruppen erstellen.
+* Gruppenadmins können ihre eigenen Untergruppen erstellen.
 
-* Weisen Sie den Startseiten Layoutvorlagen zu.
+* Weisen Sie den Stamm-Teams Layout-Vorlagen zu.
 
-* Das Home-Team eines Benutzers sollte das Team sein, mit dem er am häufigsten arbeitet.
+* Das Stamm-Team einer Person sollte das Team sein, mit dem sie am häufigsten arbeitet.
 
 * Verwenden Sie größere Organisationseinheiten, um Elemente für mehrere Personen freizugeben.
 
@@ -61,7 +61,7 @@ Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der a
 </br>
 
 
-## Warum sind diese Best Practices?
+## Warum sind das Best Practices?
 
 **Best Practice**
 
@@ -69,9 +69,9 @@ Ermitteln Sie die wichtigsten Berichtskategorien und -anforderungen, bevor Sie O
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn Sie wissen, welche Metriken Sie suchen und welche Informationen Sie in Workfront über Benutzer und deren Arbeit erfassen möchten, können Sie sich auf den Aufbau Ihrer Organisationseinheiten konzentrieren, um diese Anforderungen zu erfüllen.
+Wenn Sie wissen, welche Metriken Sie suchen und welche Informationen Sie in Workfront über Benutzende und deren Arbeit erfassen möchten, können Sie sich auf den Aufbau Ihrer Organisationseinheiten konzentrieren, um diese Anforderungen zu erfüllen.
 
 </br>
 </br>
@@ -82,9 +82,9 @@ Beurteilen Sie Ihre bestehende Workfront-Organisationsstruktur regelmäßig, um 
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Mit zunehmendem Unternehmenswachstum oder der Erweiterung von Workfront innerhalb Ihres Unternehmens finden Sie neue und unterschiedliche Möglichkeiten, die Effizienz der Prozesse und die Beziehung der Benutzer zur Arbeit zu verbessern. Eine regelmäßige Bewertung der Struktur der Organisationseinheiten bietet Ihnen also die Möglichkeit zu wissen, ob diese Struktur noch funktioniert oder ob sie aktualisiert werden muss.
+Wenn Ihr Unternehmen wächst oder Workfront innerhalb Ihres Unternehmens expandiert, werden Sie neue und andere Wege finden, um die Effizienz von Prozessen und die Beziehung der Benutzenden zur Arbeit zu verbessern. Eine regelmäßige Bewertung der Organisationsstruktur bietet Ihnen also die Möglichkeit zu erkennen, ob diese Struktur noch funktioniert oder aktualisiert werden muss.
 
 </br>
 </br>
@@ -96,38 +96,38 @@ Prüfen Sie Ihre Benutzerbasis vierteljährlich oder mindestens alle sechs Monat
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Da Ihr Unternehmen Workfront im Laufe der Zeit verwendet und die Nutzung des Tools erhöht, werden Informationen im System aufgebaut. Dazu gehören die Anzahl der Benutzer, die Anzahl der verwendeten Lizenzen, die Anzahl der Unternehmen, Gruppen oder Teams usw.
-
-
-
-Im Laufe der Zeit kann Ihre Organisation auch Änderungen durchlaufen. Vielleicht gab es im letzten Quartal eine Umstrukturierung der Abteilung. Oder vielleicht beschlossen einige Mitarbeiter, andere Möglichkeiten zu sehen. Dies bedeutet, dass Benutzer in Workfront Lizenzen erwerben und möglicherweise Lücken in Teams oder Gruppen bestehen, die sich auf die Schätzungen der Ressourcen oder die Arbeitszuweisung auswirken könnten.
+Wenn Ihr Unternehmen Workfront einsetzt und im Laufe der Zeit die Nutzung des Tools erhöht, sammeln sich im System Informationen an. Dazu gehören die Anzahl der Benutzenden, der verwendeten Lizenzen, der Unternehmen, Gruppen oder Teams usw.
 
 
 
-Die Durchführung einer vierteljährlichen Prüfung der Organisationseinheiten und Benutzer in Workfront ist für einen reibungslosen und effizienten Betrieb des Systems von entscheidender Bedeutung. Dies ist auch ein guter Zeitpunkt, um sicherzustellen, dass die Workfront-Auslastung konstant bleibt oder wächst und dass Mitarbeiter Workfront für das fortlaufende Arbeitsmanagement und nicht für E-Mails oder Tabellen verwenden.
+Im Laufe der Zeit kann es auch in Ihrem Unternehmen zu Veränderungen kommen. Möglicherweise wurde eine Abteilung im letzten Quartal umstrukturiert. Vielleicht haben einige Mitarbeitende beschlossen, sich nach anderen Möglichkeiten umzusehen. Dies bedeutet, dass Benutzende Workfront-Lizenzen erwerben und möglicherweise Lücken in Teams oder Gruppen bestehen, die sich auf die Schätzungen oder die Arbeitszuweisung auswirken könnten.
+
+
+
+Eine vierteljährliche Überprüfung der Organisationseinheiten und Benutzenden in Workfront ist der Schlüssel für einen reibungslosen und effizienten Betrieb Ihres Systems. Dies ist auch ein guter Zeitpunkt, um sicherzustellen, dass die Workfront-Auslastung konstant bleibt oder wächst und dass Mitarbeitende für das fortlaufende Arbeits-Management Workfront und nicht E-Mails oder Tabellen verwenden.
 
 </br>
 </br>
 
 **Best Practice**
 
-Identifizieren und Trainieren von Benutzern als Gruppenadministratoren.
+Identifizieren und Trainieren von Benutzenden als Gruppenadmins.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wählen Sie Personen aus, die mit Adobe Workfront vertraut sind und wissen, wie ihre Gruppen das System verwenden - und die die Zeit haben, Gruppenadministrator zu sein.
-
-
-
-Gruppenadministratoren können den Status festlegen, die Projektvoreinstellungen ändern oder Zeitplanprofile für die von ihnen verwalteten Gruppen und Untergruppen erstellen. Sie können auch Benutzer für ihre Gruppen verwalten, Zugriffsebenen anpassen und Layoutvorlagen zuweisen.
+Wählen Sie Personen aus, die mit Adobe Workfront vertraut sind und wissen, wie ihre Gruppen das System verwenden – und die die Zeit haben, Gruppenadmins zu sein.
 
 
 
-Dadurch wird der Systemadministrator von einigen laufenden Setups und der Wartung von Workfront befreit. Außerdem erhält jede Gruppe mehr Kontrolle über ihre eigenen Einstellungen und Betriebseinstellungen, ohne andere Gruppen in Workfront zu stören.
+Gruppenadmins können für die von ihnen verwalteten Gruppen und Untergruppen den Status festlegen, die Projekteinstellungen ändern oder Arbeitszeittabellenprofile erstellen. Sie können auch Benutzende für ihre Gruppen verwalten, Zugriffsebenen anpassen und Layout-Vorlagen zuweisen.
+
+
+
+Dies entlastet die Systemadmins bei einem Teil der täglichen Einrichtungsarbeiten und der Wartung von Workfront. Außerdem erhält jede Gruppe mehr Kontrolle über ihre eigenen Einstellungen und Betriebseinstellungen, ohne andere Gruppen in Workfront zu stören.
 
 </br>
 </br>
@@ -135,13 +135,13 @@ Dadurch wird der Systemadministrator von einigen laufenden Setups und der Wartun
 
 **Best Practice**
 
-Für Ihre internen Benutzer wird in der Regel nur ein Unternehmen benötigt.
+Für Ihre internen Benutzenden wird in der Regel nur ein einziges Unternehmen benötigt.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Ein Workfront-Unternehmen sollte für die gesamte Organisation bestimmt sein, nicht nur für einen Geschäftsbereich. Wenn Sie Ihre internen Benutzer in verschiedene Unternehmen aufteilen, kann dies zu Problemen mit den Berechtigungen für die Arbeit in Workfront führen. Eine Workfront-Gruppe ist die bevorzugte Methode zur Organisation interner Benutzer.
+Eine Workfront-Firma sollte für das gesamte Unternehmen und nicht nur für einen Teilbereich des Geschäfts zuständig sein. Wenn Sie Ihre internen Benutzenden in verschiedene Firmen aufteilen, kann dies zu Problemen mit den Arbeitsberechtigungen für Workfront führen. Am besten lassen sich interne Benutzende in Workfront-Gruppen organisieren.
 
 </br>
 </br>
@@ -152,13 +152,13 @@ Erstellen Sie Unternehmen für externe Kunden oder Anbieter, die Sie in Ihrer Wo
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn Sie ein Unternehmen mit externen Anbietern erstellen, können Sie diesen Anbietern gestatten, den Fortschritt der für sie erstellten Inhalte oder Produkte zu überprüfen und gleichzeitig den Zugriff auf sie im System zu beschränken.
+Wenn Sie eine Firma mit externen Anbietern erstellen, können Sie diesen Anbietern gestatten, den Fortschritt der für sie erstellten Inhalte oder Produkte zu überprüfen und gleichzeitig den Zugriff auf sie im System einzuschränken.
 
 
 
-Der Zugriff auf Workfront wird mit einer Kombination aus Objektfreigabe und Zugriffsstufen gewährt, die den Benutzern im Unternehmen des Anbieters zugewiesen sind. Sie können beispielsweise Einschränkungen festlegen, sodass diese Benutzer nur Personen in ihrem eigenen Unternehmen sehen und/oder bestimmten Elementen Berechtigungen erteilen können (z. B. Warteschlangen für Anfragen und Anfragen), sodass nur Benutzer eines bestimmten Unternehmens sie sehen können. Dies hilft, den Datenschutz der in Workfront gespeicherten Informationen zu gewährleisten.
+Der Zugriff auf Workfront wird durch eine Kombination aus Objektfreigabe und Zugriffsebenen für Benutzende in der Firma des Anbieters gewährt. Sie können beispielsweise Beschränkungen festlegen, sodass diese Benutzenden nur Personen in ihrem eigenen Unternehmen sehen können, und/oder Sie können Berechtigungen für bestimmte Elemente – z. B. Warteschlangen und Anfragen – erteilen, sodass nur Benutzende von einer bestimmten Firma diese sehen können. Dies hilft, den Datenschutz der in Workfront gespeicherten Informationen zu gewährleisten.
 
 </br>
 </br>
@@ -170,43 +170,43 @@ Halten Sie Workfront-Gruppen auf ein Minimum beschränkt und ordnen Sie sie den 
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Gruppen werden hauptsächlich von Abteilungen benötigt, die ihre Arbeit in Workfront verwalten. Beispielsweise kann die Marketing-Abteilung eine eigene Gruppe benötigen, aber Benutzer aus anderen Abteilungen, die nur in Workfront arbeiten, können in die Standardgruppe aufgenommen werden.
-
-</br>
-</br>
-
-**Best Practice**
-
-Verwenden Sie Gruppen zur Darstellung der Abteilungsstruktur und Teams zur Vertretung der Arbeitsstruktur.
-
-
-
-**Deshalb**
-
-Eine Startseite ist ein erforderliches Feld sowohl für Benutzer als auch für Projekte. Dies bietet eine gute Möglichkeit, Benutzer und deren Arbeit auf hoher Ebene zu organisieren und darüber zu berichten.
-
-
-
-Wenn es jedoch darum geht, eine Zuweisung (über eine Aufgabe im Projekt oder über eine Anforderungswarteschlange) an eine Gruppe von Personen vorzunehmen, kann dies nur an ein Team vorgenommen werden.
+Gruppen werden vor allem von Abteilungen benötigt, die ihre Arbeit in Workfront verwalten. Möglicherweise benötigt die Marketing-Abteilung eine eigene Gruppe, wohingegen Benutzende aus anderen Abteilungen, die nur in Workfront arbeiten, in die Standardgruppe aufgenommen werden können.
 
 </br>
 </br>
 
 **Best Practice**
 
-Nutzen Sie Gruppenadministratoren, um Systemadministratoren bei der Verwaltung von Benutzern und Einstellungen zu unterstützen.
+Verwenden Sie Gruppen zur Darstellung der Abteilungsstruktur und Teams zur Darstellung der Arbeitsstruktur.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Systemadministratoren haben Zugriff auf alles in Workfront, einschließlich globaler Systemeinstellungen. Die für Administratoren der Einstellungsgruppe verfügbaren Administratoren werden vom Systemadministrator kontrolliert und gelten nur für diese spezifische Gruppe.
+Eine Hauptgruppe ist sowohl für Benutzende als auch für Projekte ein Pflichtfeld. Dies bietet eine gute Möglichkeit, Benutzende und deren Arbeit auf hoher Ebene zu organisieren und darüber zu berichten.
 
 
 
-Mit Gruppenadministratoren können Systemadministratoren viele Aufgaben delegieren, sodass sie sich auf größere Bildelemente konzentrieren können, anstatt sich auf die tägliche Wartung von Workfront zu konzentrieren. Gruppenadministratoren können einfacher mit den Anforderungen ihrer Gruppen in Kontakt bleiben, was den Benutzern einen besseren Service bietet.
+Wenn es jedoch darum geht, eine Zuweisung (über eine Aufgabe im Projekt oder eine Anfrage-Warteschlange) an eine Gruppe von Personen vorzunehmen, kann dies nur an ein Team vorgenommen werden.
+
+</br>
+</br>
+
+**Best Practice**
+
+Nutzen Sie Gruppenadmins, um Systemadmins bei der Verwaltung von Benutzenden und Einstellungen zu unterstützen.
+
+
+
+**Das sind die Gründe**
+
+Systemadmins haben Zugriff auf alles in Workfront, einschließlich der globalen Systemeinstellungen. Die Einstellungen, auf die Gruppenadmins zugreifen können, werden von Systemadmins gesteuert und gelten nur für diese spezielle Gruppe.
+
+
+
+Gruppenadmins ermöglichen es den Systemadmins, viele Aufgaben zu delegieren, sodass sie sich auf übergeordnete Themen konzentrieren können, anstatt sich um die tägliche Pflege von Workfront zu kümmern. Gruppenadmins können leichter mit den Bedürfnissen ihrer Gruppen in Kontakt bleiben, was einen besseren Service für die Benutzenden bedeutet.
 
 </br>
 </br>
@@ -214,26 +214,26 @@ Mit Gruppenadministratoren können Systemadministratoren viele Aufgaben delegier
 
 **Best Practice**
 
-Gruppenadministratoren können ihre eigenen Untergruppen erstellen.
+Gruppenadmins können ihre eigenen Untergruppen erstellen.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Gruppenadministratoren können eigene Untergruppen erstellen und verwalten. Auch wenn ein Systemadministrator Untergruppen erstellen kann, kann es sehr zeitsparend sein, diese an einen Gruppenadministrator zu delegieren. Dies kann auch zu einem besseren Workfront-Erlebnis für Gruppenmitglieder führen, da der Gruppenadministrator mit den Anforderungen und Workflows der Gruppe und Untergruppe besser vertraut ist.
+Gruppenadmins können ihre eigenen Untergruppen erstellen und verwalten. Auch wenn Systemadmins Untergruppen erstellen können, kann die Übertragung dieser Aufgabe an Gruppenadmins eine enorme Zeitersparnis bedeuten. Dies kann auch zu einem besseren Workfront-Erlebnis für Gruppenmitglieder führen, da Gruppenadmins mit den Anforderungen und Workflows der Gruppe und Untergruppe besser vertraut sind.
 
 </br>
 </br>
 
 **Best Practice**
 
-Weisen Sie den Startseiten Layoutvorlagen zu.
+Weisen Sie den Stamm-Teams Layout-Vorlagen zu.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Es ist wichtig sicherzustellen, dass Ihre Teams auf derselben Seite sind, wenn es um die Arbeit geht. Das bedeutet, dass ihnen der Zugriff auf dieselben Berichte und Werkzeuge erleichtert wird. Mit Layoutvorlagen können Sie diese Umgebung erstellen und Prozesse, die Ihr Team bereits eingerichtet hat, erweitern und gegebenenfalls verbessern.
+Es ist wichtig, dass Ihre Teams arbeitstechnisch auf demselben Stand sind. Dazu müssen sie leichteren Zugang zu denselben Berichten und Instrumenten erhalten. Mit Layout-Vorlagen können Sie diese Umgebung erstellen und Prozesse, die Ihr Team bereits eingerichtet hat, erweitern und gegebenenfalls verbessern.
 
 </br>
 </br>
@@ -244,10 +244,10 @@ Verwenden Sie größere Organisationseinheiten, um Elemente für mehrere Persone
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Verwendung einer größeren Organisationseinheit wie Gruppen und Teams bei der Freigabe von Elementen in Workfront - Projekten, Berichten usw.—bedeutet, dass Sie das Objekt schnell und einfach mit einer ausgewählten Gruppe von Personen gleichzeitig teilen können. Das Hinzufügen einzelner Benutzernamen zum Freigabefenster kann umständlich und zeitaufwendig sein.
+Verwendung einer größeren Organisationseinheit wie Gruppen und Teams bei der Freigabe von Elementen in Workfront-Projekten, Berichten usw.– bedeutet, dass Sie das Objekt schnell und einfach für eine ausgewählte Gruppe von Personen gleichzeitig freigeben können. Das Hinzufügen einzelner Benutzernamen zum Freigabefenster kann umständlich und zeitaufwendig sein.
 
 
 
-Dies erleichtert auch die Pflege der Freigabe für ein Element. Wenn Teammitglieder in Workfront aktualisiert werden, werden die Freigabeberechtigungen eines Elements automatisch aktualisiert, indem neuen Teammitgliedern Zugriff auf das Element gewährt und früheren Teammitgliedern der Zugriff entzogen wird.
+So kann die Freigabe eines Elements auch besser aufrechterhalten werden. Wenn Team-Mitglieder in Workfront aktualisiert werden, werden die Freigabeberechtigungen für ein Element automatisch aktualisiert, indem neuen Team-Mitgliedern Zugriff auf das Element gewährt und früheren Team-Mitgliedern der Zugriff entzogen wird.
