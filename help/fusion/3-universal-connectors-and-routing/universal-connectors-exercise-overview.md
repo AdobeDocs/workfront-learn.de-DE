@@ -1,6 +1,6 @@
 ---
-title: Übersicht über universelle Connectoren
-description: Erfahren Sie, wie Sie die Leistung von universellen Connectoren erschließen, eine Verbindung zu einer externen API herstellen und Informationen aus einem Array extrahieren, alles in [!DNL Adobe Workfront Fusion].
+title: Übung zu universellen Connectoren – Übersicht
+description: Erfahren Sie, wie Sie in [!DNL Adobe Workfront Fusion]die Leistungsfähigkeit von universellen Connectoren nutzen, eine Verbindung zu einer externen API herstellen und Informationen aus einem Array extrahieren können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Übersicht über universelle Connectoren
+# Übung zu universellen Connectoren – Übersicht
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Drücken Sie auf die Leistung der universellen Anschlüsse.
-* Herstellen einer Verbindung zu einer externen API
-* Verwenden Sie den Formeleditor, um Informationen aus einem Array zu extrahieren.
+* Nutzen der Vorteile von universellen Connectoren
+* Verbindung mit einer externen API
+* Verwenden Sie den Formeleditor, um Informationen aus einem Array zu extrahieren
 
 >[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on)
