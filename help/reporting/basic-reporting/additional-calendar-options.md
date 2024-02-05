@@ -1,5 +1,5 @@
 ---
-title: Zusätzliche Kalenderberichtoptionen
+title: Informationen zu den zusätzlichen Optionen für Kalenderberichte
 description: Erfahren Sie, wie Sie einen Kalender kopieren, bearbeiten, freigeben und löschen können.
 activity: use
 feature: Reports and Dashboards
@@ -12,26 +12,26 @@ thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Zusätzliche Kalenderberichtoptionen
+# Informationen zu den zusätzlichen Optionen für Kalenderberichte
 
-Ein Kalenderbericht ist ein dynamischer Bericht, der die Arbeits- und Zeitdauer in einer Kalenderansicht anzeigt. Sie können Datumsinformationen für die folgenden Objekte in einem Kalenderbericht anzeigen:
+Ein Kalenderbericht ist ein dynamischer Bericht, der die Arbeits- und Ausfallzeiten in einer Kalenderansicht anzeigt. In einem Kalenderbericht können Sie Datumsinformationen für folgende Objekte anzeigen:
 
 * Aufgaben
 * Projekte
 * Probleme
 * Freizeit
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie, wie Sie:
 
 * Kalender kopieren
 * Kalendergruppierungen bearbeiten
-* Kalendergruppierung löschen
+* Kalendergruppierungen löschen
 * Kalender freigeben
 * Kalender löschen
 
