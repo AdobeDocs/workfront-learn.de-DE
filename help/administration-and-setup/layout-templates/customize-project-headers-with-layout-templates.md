@@ -1,6 +1,6 @@
 ---
-title: Anpassen von Projekt-Kopfzeilen mit Layout-Vorlagen
-description: Erfahren Sie, wie Sie Felder über Layoutvorlagen aus Projekt-Headern hinzufügen und entfernen können.
+title: Anpassen von Projektkopfzeilen mithilfe von Layout-Vorlagen
+description: Erfahren Sie, wie Sie mithilfe von Layout-Vorlagen Felder zu Projektkopfzeilen hinzufügen und daraus entfernen können.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,14 +12,14 @@ jira: KT-11108
 doc-type: video
 exl-id: e70029ce-e30e-42c2-aed0-849403dfb5e7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anpassen von Projekt-Headern mit Layoutvorlagen
+# Anpassen von Projektkopfzeilen mithilfe von Layout-Vorlagen
 
-Erfahren Sie, wie Sie Felder über Layoutvorlagen aus Projekt-Headern hinzufügen und entfernen können.
+Erfahren Sie, wie Sie mithilfe von Layout-Vorlagen Felder zu Projektkopfzeilen hinzufügen und daraus entfernen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409081)
