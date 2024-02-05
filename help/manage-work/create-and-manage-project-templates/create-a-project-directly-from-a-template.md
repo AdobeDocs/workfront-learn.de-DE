@@ -1,5 +1,5 @@
 ---
-title: Projekt direkt aus einer Vorlage erstellen
+title: Erstellen eines Projekts direkt aus einer Vorlage
 description: Erfahren Sie, wie Sie ein Projekt erstellen, indem Sie mit einer bereits erstellten Vorlage beginnen.
 activity: use
 team: Technical Marketing
@@ -11,17 +11,17 @@ level: Beginner
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Projekt direkt aus einer Vorlage erstellen
+# Erstellen eines Projekts direkt aus einer Vorlage
 
-Wenn Sie zufällig an einer Vorlage arbeiten und ein Projekt mit dieser Vorlage erstellen müssen, klicken Sie auf das 3-Punkte-Menü neben dem Vorlagennamen. Wählen Sie dann Projekt erstellen aus.
+Wenn Sie gerade an einer Vorlage arbeiten und ein Projekt mit dieser Vorlage erstellen möchten, klicken Sie auf das 3-Punkte-Menü neben dem Namen der Vorlage. Wählen Sie dann „Projekt erstellen“.
 
-![Option &quot;Projekt erstellen&quot;im Menü](assets/direct-template-01.png)
+![Option „Projekt erstellen“ im Menü](assets/direct-template-01.png)
 
 Im Detailfenster können Sie die Einstellungen des neuen Projekts ändern.
 
@@ -29,11 +29,11 @@ Im Detailfenster können Sie die Einstellungen des neuen Projekts ändern.
 
 >[!NOTE]
 >
->Um ein Projekt mit dieser Methode zu erstellen, benötigen Sie Zugriff auf den Bereich &quot;Vorlagen&quot;von Workfront. Wenn Sie nicht auf Vorlagen zugreifen können, können Sie weiterhin eine Vorlage verwenden, um ein Projekt aus dem Projektbereich oder beim Konvertieren eines Problems/einer Aufgabe zu erstellen.
+>Um mit dieser Methode ein Projekt zu erstellen, benötigen Sie Zugriff auf den Vorlagenbereich in Workfront. Wenn Sie nicht auf Vorlagen zugreifen können, können Sie weiterhin eine Vorlage verwenden, um ein Projekt aus dem Projektbereich oder beim Konvertieren eines Problems/einer Aufgabe zu erstellen.
 
 >[!TIP]
 >
->Wenn es eine Vorlage gibt, die Sie häufig verwenden, machen Sie sie zu einem Favoriten! Die Vorlage wird im Menü Neues Projekt aufgelistet und zusätzlich im Menü Favoriten in der Navigationsleiste angezeigt.
+>Wenn es eine Vorlage gibt, die Sie häufig verwenden, fügen Sie sie zu Ihren Favoriten hinzu! Die Vorlage wird im Menü „Neues Projekt“ aufgelistet und erscheint außerdem im Menü „Favoriten“ in der Navigationsleiste.
 
 
-![Neue Projektvorlagen](assets/direct-template-03.png)
+![Favorisierte Vorlagen für ein neues Projekt](assets/direct-template-03.png)
