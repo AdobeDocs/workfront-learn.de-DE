@@ -1,6 +1,6 @@
 ---
-title: Erstellen Sie eine Layoutvorlage für [!DNL Workfront Goals] Benutzer
-description: Erfahren Sie, wie Sie eine Layoutvorlage mit [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] -Terminologie an Ihre Organisation anpassen.
+title: Erstellen einer Layout-Vorlage für  [!DNL Workfront Goals] -Benutzende
+description: Erfahren Sie, wie Sie passend für Ihr Unternehmen eine Layout-Vorlage mit  [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] -Terminologie erstellen.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,23 +11,23 @@ jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erstellen Sie eine Layoutvorlage für [!DNL Workfront Goals] Benutzer
+# Erstellen einer Layout-Vorlage für [!DNL Workfront Goals]-Benutzende
 
-Im **[!UICONTROL Einrichtung]** -Bereich können Sie auch eine Layoutvorlage erstellen und zuweisen, die Folgendes enthält: [!DNL Workfront Goals] damit Sie und Ihre Benutzer leichter darauf zugreifen können.
+Im Bereich **[!UICONTROL Setup]** können Sie außerdem eine Layout-Vorlage erstellen und zuweisen, die [!DNL Workfront Goals] einbezieht, damit Sie und Ihre Benutzerinnen und Benutzer leichter darauf zugreifen können.
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Erstellen einer Layoutvorlage
-* Zuweisen der Layoutvorlage zu Benutzern
-* Hinzufügen [!DNL Goals] zu einer Layoutvorlage
-* Änderung [!DNL Goals] Terminologie entsprechend Ihrer Organisation
-* Hinzufügen [!DNL Goals] der [!DNL Workfront] [!UICONTROL Hauptmenü]
+* Erstellen einer Layout-Vorlage
+* Zuweisen der Layout-Vorlage an Benutzende
+* Hinzufügen von [!DNL Goals] zu einer Layout-Vorlage
+* Ändern der [!DNL Goals]-Terminologie passend für Ihr Unternehmen
+* Hinzufügen von [!DNL Goals] zum [!UICONTROL Hauptmenü] von [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)
 
