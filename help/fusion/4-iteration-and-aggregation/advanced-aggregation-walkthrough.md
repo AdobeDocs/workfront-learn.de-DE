@@ -1,6 +1,6 @@
 ---
-title: Anleitung zur erweiterten Aggregation
-description: Erfahren Sie, wie Sie einen Webdienst aufrufen, um Details zu mehreren Ländern zurückzugeben und die Population, gruppiert nach Unterregion, zu identifizieren, die alle in [!DNL Adobe Workfront Fusion].
+title: Erweiterte Aggregation – Anleitung
+description: Lernen Sie, wie Sie in [!DNL Adobe Workfront Fusion]einen Web-Dienst aufrufen, um Details zu mehreren Ländern abzurufen und die Bevölkerung zu identifizieren, gruppiert nach Unterregionen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anleitung zur erweiterten Aggregation
+# Erweiterte Aggregation – Anleitung
 
-Rufen Sie einen Webdienst auf, um Details zu mehreren Ländern zurückzugeben und die Gesamtbevölkerung aller Länder, gruppiert nach Unterregion, zu identifizieren.
+Aufruf eines Web-Dienstes zur Abfrage von Details zu mehreren Ländern und zur Ermittlung der Gesamtbevölkerung aller Länder, gruppiert nach Unterregionen.
 
 ![Ein Bild des Fusion-Szenarios](assets/iteration-and-aggregation-3.png)
 
-## Anleitung zur erweiterten Aggregation
+## Erweiterte Aggregation – Anleitung
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -36,28 +36,28 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Anleitung zur erweiterten Aggregation](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Erweiterte Aggregation – Anleitung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=de).
 
 ## Stärkung des Aggregationsprinzips
 
-Jedes Mal, wenn ein Modul mehrere Bundles ausgibt, wird jedes nachfolgende Modul jedes Bundle ausführen.
+Immer wenn ein Modul mehrere Bündel ausgibt, wird jedes nachfolgende Modul jedes Bündel ausführen.
 
-Um dies zu verhindern, fügen Sie einen Aggregator nach einem Modul hinzu, das möglicherweise mehrere Bundles erzeugt.
+Um dies zu verhindern, fügen Sie hinter einem Modul, das möglicherweise mehrere Bündel erzeugt, einen Aggregator ein.
 
-Sie sehen einen Schatten, der jedes Segment in Ihrem Szenario von einem **Startiterator** der **endaggregator**. Dies erleichtert die Erkennung dieser Segmente in Ihrem Workfront Fusion-Szenario.
+Sie werden einen Schatten sehen, der jedes Segment in Ihrem Szenario von einem **Anfangsiterator** bis zum **Endaggregator** umgibt. So lassen sich diese Segmente in Ihrem Workfront Fusion-Szenario leicht erkennen.
 
-## Ihre Wendung
+## Sie sind dran
 
 >[!NOTE]
 >
->Übungen und Herausforderungen sind optional und nicht erforderlich, um eine Fusion-Schulung abzuschließen.
+>Die Übungen und Herausforderungen sind optional und nicht notwendig, um die Fusion-Schulung abzuschließen.
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 
-Erstellen Sie ein neues Szenario, um alle Stunden zu summieren, die für Aufgaben in Projekten im Marketing-Portfolio angemeldet sind. Senden Sie dann eine E-Mail mit der Meldung &quot;Ihr {Projektname}-Projektteam hat {Gesamtstunden} der geplanten Gesamtstunden {geplante Stunden} protokolliert und Sie auf {percentage} des Plans.&quot;
+Erstellen Sie ein neues Szenario, um alle Stunden zu summieren, die für Aufgaben in Projekten aus dem Marketing-Portfolio aufgezeichnet wurden. Senden Sie dann eine E-Mail mit dem Inhalt „Ihr Projekt-Team {Project Name} hat {summed hours} der insgesamt {planned hours} geplanten Stunden verbucht, sodass {percentage} des Plans erfüllt sind.“
 
-**Herausforderung:** Überprüfen Sie, ob Sie dasselbe tun können, aber nur für Stunden, die in diesem Jahr protokolliert werden.
+**Herausforderung:** Versuchen Sie, nun dasselbe zu tun, aber nur für die in diesem Jahr erfassten Stunden.
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
