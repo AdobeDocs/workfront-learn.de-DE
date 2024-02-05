@@ -1,6 +1,6 @@
 ---
-title: Meilensteinpfad und Meilensteinschritte erstellen
-description: Erfahren Sie, was Meilensteinpfade sind, wie Meilensteinpfade erstellt werden und wie Meilensteinschritte hinzugefügt werden.
+title: Erstellen von Meilensteinpfaden und Meilensteinschritten
+description: Erfahren Sie, was Meilensteinpfade sind, wie Meilensteinpfade erstellt und wie Meilensteinschritte hinzugefügt werden können.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,17 +11,17 @@ level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Meilensteinpfad und Meilensteinschritte erstellen
+# Erstellen von Meilensteinpfaden und Meilensteinschritten
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Welche Meilensteinpfade sind verfügbar?
+* Was Meilensteinpfade sind
 * Erstellen von Meilensteinpfaden
 * Hinzufügen von Meilensteinschritten zu einem Meilensteinpfad
 
@@ -29,4 +29,4 @@ In diesem Video erfahren Sie:
 
 >[!NOTE]
 >
->Systemadministratoren können Planungslizenzbenutzern Zugriff auf die Erstellung eigener Meilensteinpfade gewähren.
+>Systemadmins können Benutzenden mit Planlizenzen Zugriff darauf geben, ihre eigenen Meilensteinpfade zu erstellen.
