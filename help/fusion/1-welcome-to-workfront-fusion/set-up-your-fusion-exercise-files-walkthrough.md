@@ -1,6 +1,6 @@
 ---
 title: Einrichten der Übungsdateien für Workfront Fusion
-description: Erfahren Sie, wie Sie die Übungsdateien herunterladen und in einen Ordner in Workfront hochladen können, in [!DNL Adobe Workfront Fusion].
+description: Erfahren Sie, wie Sie in [!DNL Adobe Workfront Fusion]die Übungsdateien herunterladen und diese Dateien in einen Ordner in Workfront hochladen können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihre Fusion-Übungsdateien einrichten.
 
-1. Laden Sie die [Fusionsübungsdateien](/help/assets/fusion-exercise-files.zip).
+1. Laden Sie die [Fusion-Übungsdateien](/help/assets/fusion-exercise-files.zip) herunter.
 
 1. Sehen Sie sich das Video an, um zu erfahren, wie Sie diese Dateien in einen Ordner in Workfront hochladen.
 
