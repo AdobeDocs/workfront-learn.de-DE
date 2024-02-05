@@ -1,6 +1,6 @@
 ---
 title: Arbeiten mit Assets in Brand Connect
-description: Erfahren Sie, wie Sie Assets in Brand Connect anzeigen und Daten zu einem Asset anzeigen, einschließlich Metadaten und Keywords in [!UICONTROL Workfront DAM].
+description: Erfahren Sie, wie Sie in Brand Connect Assets und Daten zu einem Asset anzeigen, einschließlich Metadaten und Schlüsselwörter in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Brand Connect: Arbeiten mit Assets
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Anzeigen von Assets in Brand Connect
-* Daten zu einem Asset anzeigen, einschließlich Metadaten und Keywords
+* Anzeigen von Daten zu einem Asset, einschließlich Metadaten und Schlüsselwörtern
 
 >[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on)
