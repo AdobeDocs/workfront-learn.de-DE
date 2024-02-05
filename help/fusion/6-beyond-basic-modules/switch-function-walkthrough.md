@@ -1,6 +1,6 @@
 ---
-title: Anleitung zur Switch-Funktion
-description: Erfahren Sie, wie Sie mit der Switch-Funktion einen Wert in einem Modulfeld in einen anderen umwandeln können. [!DNL Adobe Workfront Fusion].
+title: Exemplarische Vorgehensweise zur Switch-Funktion
+description: Erfahren Sie, wie Sie in [!DNL Adobe Workfront Fusion]mit der Switch-Funktion einen Wert in einem Modulfeld in einen anderen umwandeln können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anleitung zur Switch-Funktion
+# Exemplarische Vorgehensweise zur Switch-Funktion
 
-Verwenden Sie für einfache Datenänderungen die Switch-Funktion, um innerhalb eines Modulfelds einen Wert in einen anderen umzuwandeln. Ändern Sie in dieser Übung den zweistelligen Schlüssel in den tatsächlichen Namen für den Projektfortschrittsstatus, der in einer E-Mail gesendet wird.
+Verwenden Sie für einfache Datenänderungen die Switch-Funktion, um einen Wert innerhalb eines Modulfelds in einen anderen umzuwandeln. Ändern Sie in dieser Übung den zweistelligen Schlüssel in den tatsächlichen Namen für den Projektfortschrittsstatus, der in einer E-Mail gesendet wird.
 
-![Ein Bild mit der Switch-Funktion](assets/beyond-basic-modules-3.png)
+![Eine Abbildung zur Verwendung der Switch-Funktion](assets/beyond-basic-modules-3.png)
 
-## Anleitung zur Switch-Funktion
+## Exemplarische Vorgehensweise zur Switch-Funktion
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -31,9 +31,9 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Anleitung zur Switch-Funktion](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-function.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Exemplarische Vorgehensweise zur Switch-Funktion](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-function.html?lang=de).
 
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
