@@ -1,6 +1,6 @@
 ---
-title: Navigieren Sie zum [!UICONTROL Puls] Aktualisierungsstream in [!DNL Goals]
-description: Erfahren Sie, wie Sie in der [!UICONTROL Puls] Aktualisierungsstream in [!DNL Goals].
+title: Navigieren des Aktualisierungsverlaufs von [!UICONTROL Pulse] in  [!DNL Goals]
+description: Erfahren Sie, wie Sie den Aktivierungsverlauf von [!UICONTROL Pulse] in [!DNL   Goals] navigieren können.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Navigieren Sie zum [!UICONTROL Puls] Aktualisierungsstream
+# Navigieren des Aktualisierungsverlaufs von [!UICONTROL Pulse]
 
-Verwenden Sie die [!UICONTROL Puls] , um Aktualisierungen zu Zielen zu überprüfen und anzufordern, die den Fortschritt Ihrer Ziele beeinflussen könnten, einschließlich abgestimmter Ziele und deren Ergebnissen oder Aktivitäten. Dabei kann es sich um Ziele handeln, die Ihnen, Ihrem Team, der Gruppe oder der Organisation gehören.
+Verwenden Sie den Abschnitt [!UICONTROL Pulse], um Aktualisierungen von Zielen zu überprüfen und anzufordern, die den Fortschritt Ihrer Ziele beeinflussen könnten, einschließlich abgestimmter Ziele und ihrer Ergebnisse oder Aktivitäten. Dabei kann es sich um Ziele handeln, die Ihnen, Ihrem Team, der Gruppe oder der Organisation gehören.
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Navigieren Sie zum [!UICONTROL Puls] Aktualisierungsstream
+* Navigieren des Aktualisierungsverlaufs von [!UICONTROL Pulse]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on)
