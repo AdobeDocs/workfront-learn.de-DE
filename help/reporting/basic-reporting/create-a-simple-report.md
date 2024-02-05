@@ -1,6 +1,6 @@
 ---
-title: Einfache Berichte erstellen
-description: Erfahren Sie, wie Sie einen einfachen Bericht mit einem vorhandenen Filter, einer vorhandenen Ansicht und Gruppierung in Workfront erstellen.
+title: Erstellen eines einfachen Berichts
+description: Lernen Sie, wie Sie in Workfront einen einfachen Bericht mit einem vorhandenen Filter, einer Ansicht und einer Gruppierung erstellen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,48 +12,50 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Einfache Berichte erstellen
+# Erstellen eines einfachen Berichts
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Erstellen eines einfachen Berichts mit einem vorhandenen Filter, einer vorhandenen Ansicht und Gruppierung
+* Erstellen eines einfachen Berichts unter Verwendung eines vorhandenen Filters, einer Ansicht und einer Gruppierung
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Aktivität: Einfache Aufgabenberichte erstellen
+## Aktivität: Erstellen eines einfachen Aufgabenberichts
 
-Sie möchten alle Ihre aktiven Aufgaben in einem einzigen Bericht nachverfolgen. Erstellen Sie einen Aufgabenbericht mit dem Namen &quot;Meine aktuellen Aufgaben&quot;mit folgenden Optionen:
+Sie möchten alle Ihre aktiven Aufgaben in einem einzigen Bericht verfolgen. Erstellen Sie einen Aufgabenbericht mit dem Namen „Meine aktuellen Aufgaben“ und verwenden Sie dabei:
 
 * Spalten (Ansicht) = Standard
 * Gruppierungen = Projekt
 * Filter = Meine aktuellen Aufgaben
-* Beschreibung = Unvollständige Aufgaben in aktuellen Projekten, in denen ich der Aufgabeneigentümer bin, gruppiert nach Projekt.
+* Beschreibung = Unerledigte Aufgaben in aktuellen Projekten, bei denen ich die bzw. der Aufgabenverantwortliche bin, gruppiert nach Projekt.
 
 ## Antwort
 
-1. Navigieren Sie zu **[!UICONTROL Hauptmenü]** und wählen Sie **[!UICONTROL Berichte]**.
-1. Klicken Sie auf **[!UICONTROL Neuer Bericht]** Dropdown-Menü und **[!UICONTROL Aufgabenbericht]**.
-1. In [!UICONTROL Spalten (Ansicht)], klicken Sie auf die **[!UICONTROL Anwenden einer vorhandenen Ansicht]** Menü und wählen Sie **[!UICONTROL Standard]**.
+1. Rufen Sie das **[!UICONTROL Hauptmenü]** auf und wählen Sie **[!UICONTROL Berichte]** aus.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Aufgabenbericht]** aus.
+1. Klicken Sie unter [!UICONTROL Spalten (Ansicht)] auf das Menü **[!UICONTROL Vorhandene Ansicht anwenden]** und wählen Sie **[!UICONTROL Standard]** aus.
 
-   ![Ein Bild des Bildschirms zum Erstellen von Spalten in einem Aufgabenbericht](assets/simple-task-report-columns.png)
+   ![Ein Screenshot des Bildschirms zum Erstellen von Spalten in einem Aufgabenbericht](assets/simple-task-report-columns.png)
 
-1. Im **[!UICONTROL Gruppierungen]** klicken Sie auf die **[!UICONTROL Vorhandene Gruppierung anwenden]** Menü und wählen Sie **[!UICONTROL Projekt]**.
+1. Klicken Sie auf der Registerkarte **[!UICONTROL Gruppierungen]** auf das Menü **[!UICONTROL Vorhandene Gruppierung anwenden]** und wählen Sie **[!UICONTROL Projekt]** aus.
 
-   ![Ein Bild des Bildschirms zum Erstellen von Gruppierungen in einem Aufgabenbericht](assets/simple-task-report-groupings.png)
+   ![Ein Screenshot des Bildschirms zum Erstellen von Gruppierungen in einem Aufgabenbericht](assets/simple-task-report-groupings.png)
 
-1. Im **[!UICONTROL Filter]** klicken Sie auf die **[!UICONTROL Vorhandenen Filter anwenden]** und wählen Sie &quot;My Current Tasks&quot;.
+1. Klicken Sie auf der Registerkarte **[!UICONTROL Filter]** auf das Menü **[!UICONTROL Vorhandenen Filter anwenden]** und wählen Sie „Meine aktuellen Aufgaben“ aus.
 
-   ![Ein Bild des Bildschirms zum Erstellen von Filtern in einem Aufgabenbericht](assets/simple-task-report-filters.png)
+   ![Ein Screenshot des Bildschirms zum Erstellen von Filtern in einem Aufgabenbericht](assets/simple-task-report-filters.png)
 
-1. Öffnen **[!UICONTROL Berichtseinstellungen]** und benennen Sie den Bericht &quot;Meine aktuellen Aufgaben&quot;.
-1. Geben Sie im Feld Beschreibung die Option &quot;Unvollständige Aufgaben bei aktuellen Projekten, in denen ich der Aufgabenbesitzer bin, gruppiert nach Projekt&quot;ein.
+1. Öffnen Sie **[!UICONTROL Berichtseinstellungen]** und nennen Sie den Bericht „Meine aktuellen Aufgaben“.
+1. Geben Sie in das Feld „Beschreibung“ ein: „Unerledigte
+Aufgaben in aktuellen Projekte, bei denen ich für die 
+Aufgaben verantwortlich bin, gruppiert nach Projekt“.
 
-   ![Ein Bild des Berichtseinstellungen-Bildschirms in einem Aufgabenbericht](assets/simple-task-report-report-settings.png)
+   ![Ein Screenshot des Bildschirms mit den Berichtseinstellungen in einem Aufgabenbericht](assets/simple-task-report-report-settings.png)
 
 1. Speichern und schließen Sie den Bericht.
