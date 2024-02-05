@@ -1,6 +1,6 @@
 ---
-title: Ziele mithilfe von Check-ins verfolgen und aktualisieren
-description: Erfahren Sie, wie Sie Fortschritte bei Zielen in verfolgen, aktualisieren und berechnen können. [!DNL Workfront Goals].
+title: Verfolgen und Aktualisieren von Zielen mithilfe von Check-ins
+description: Erfahren Sie, wie Sie in [!DNL Workfront Goals]den Fortschritt Ihrer Ziele verfolgen, aktualisieren und berechnen können.
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -10,79 +10,79 @@ level: Beginner
 jira: KT-10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '736'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Verfolgen und Aktualisieren von Zielen mithilfe von [!UICONTROL Check-ins]
 
-Sobald Sie Ihre Ziele aktiviert haben, können Sie sie erreichen. Aber wie lässt sich der Fortschritt beim Ziel verfolgen, aktualisieren und berechnen? Woher wissen Sie, wo Sie stehen und wie Ihre Arbeit dazu beiträgt, dass das Ziel erreicht wird? Fangen wir mit [!UICONTROL Check-ins] um den Zielfortschritt zu aktualisieren, sehen Sie sich an, wie Sie den Status Ihrer Ziele anzeigen und verstehen können.
+Sobald Sie Ihre Ziele aktiviert haben, können Sie sich an die Arbeit machen, um sie erreichen. Aber wie verfolgen, aktualisieren und berechnen Sie den Fortschritt bei der Zielerreichung? Woher wissen Sie, wo Sie gerade stehen und wie Ihre Arbeit zur Zielerreichung beiträgt? Beginnen wir mit [!UICONTROL Check-ins], um den Zielfortschritt zu aktualisieren, und sehen wir uns dann an, wie Sie den Status Ihrer Ziele anzeigen und verstehen können.
 
-## Verwendung [!UICONTROL Check-ins] Aktualisierung des Fortschritts
+## Aktualisieren des Fortschritts mithilfe von [!UICONTROL Check-ins]
 
-Nachdem Sie ein Ziel aktiviert und ein Update über eine Aktivität oder ein Ergebnis veröffentlicht haben, [!DNL Workfront Goals] beginnt mit der Berechnung des Fortschritts dieses Ziels anhand des tatsächlichen Prozentsatzes, des erwarteten Prozentsatzes, der Fertigstellung oder des Fortschrittsstatus. [!UICONTROL Check-ins] sind eine hervorragende Möglichkeit, Ihre Ziele regelmäßig zu überprüfen und zu bewerten, ob Sie auf dem richtigen Weg sind, zurückfallen oder sich anpassen müssen. Ein Einchecken ist ein Zeitpunkt, zu dem Sie einen Bericht über den Fortschritt eines Ziels erstellen.
+Sobald Sie ein Ziel aktivieren und eine Aktivität oder ein Ergebnis aktualisieren, beginnt [!DNL Workfront Goals], den Fortschritt dieses Ziels unter Verwendung des tatsächlichen Erfüllungsgrads, des erwarteten Erfüllungsgrads oder des Fortschrittsstatus zu berechnen. [!UICONTROL Check-ins] sind eine gute Möglichkeit, Ihre Ziele regelmäßig zu überprüfen und festzustellen, ob Sie auf dem richtigen Weg sind, hinterherhinken oder Anpassungen vornehmen müssen. Ein Check-in ist ein Zeitpunkt, an dem Sie über den Fortschritt eines Ziels Bericht erstatten.
 
-![Ein Screenshot der [!UICONTROL Check-ins] Gebiet in [!DNL Workfront Goals]](assets/09-workfront-goals-check-ins.png)
+![Screenshot des Bereichs [!UICONTROL Check-ins] in [!DNL Workfront Goals]](assets/09-workfront-goals-check-ins.png)
 
-Sie können Ziele auf individueller Ebene oder im [!UICONTROL Einchecken] , aber die Ziele müssen aktiv sein.
+Sie können die Ziele auf individueller Ebene oder im Bereich [!UICONTROL Check-in] einchecken, sie müssen aber aktiv sein.
 
-Beachten Sie jedoch, dass Sie den Fortschritt nicht direkt auf ein übergeordnetes Ziel aktualisieren können. Sie müssen den Fortschritt der zugehörigen Aktivitäten und Ergebnisse aktualisieren, wodurch wiederum der Fortschritt dieses Ziels aktualisiert wird.
+Beachten Sie jedoch, dass Sie den Fortschritt nicht direkt in einem übergeordneten Ziel aktualisieren können. Sie müssen den Fortschritt der zugehörigen Aktivitäten und Ergebnisse aktualisieren, wodurch wiederum der Fortschritt dieses Ziels aktualisiert wird.
 
-Nachdem Sie Ihre Ziele aktiviert haben, kommunizieren Sie mit den Teams, die letztendlich die Arbeit durchführen und verwalten, die diese Ergebnisse antreiben wird.
+Nach der Aktivierung Ihrer Ziele sollten Sie mit den Teams kommunizieren, die letztendlich die Arbeit zur Erreichung dieser Ergebnisse durchführen und verwalten werden.
 
-## Auf Zielebene einchecken
+## Check-in auf Zielebene
 
-Wenn Sie [!UICONTROL Einchecken] auf der Zielebene können Sie den Fortschritt der Ergebnisse und Aktivitäten aktualisieren, die Ihnen oder anderen Benutzern zugewiesen sind. Es gibt mehrere Möglichkeiten, Ihre Liste von Zielen anzuzeigen, um Aktualisierungen vorzunehmen.
+Wenn Sie einen [!UICONTROL Check-in] auf Zielebene durchführen, können Sie den Fortschritt der Ergebnisse und Aktivitäten aktualisieren, die Ihnen oder anderen Benutzenden zugewiesen sind. Es gibt mehrere Möglichkeiten, Ihre Liste von Zielen anzuzeigen, um Aktualisierungen vorzunehmen.
 
-* Klicken Sie auf [!UICONTROL **Hauptmenü**] Symbol in [!DNL Workfront]Klicken Sie auf [!UICONTROL **Ziele**]. Dadurch wird die [!DNL Workfront Goals] Bereich. Die [!UICONTROL Zielliste] wird standardmäßig angezeigt und zeigt alle Ziele an, die zu Ihnen, Ihren Teams, Gruppen oder Ihrer Organisation gehören.
+* Klicken Sie auf das Symbol [!UICONTROL **Hauptmenü**] in [!DNL Workfront] und dann auf [!UICONTROL **Ziele**]. Es öffnet sich der Bereich [!DNL Workfront Goals]. Der Abschnitt [!UICONTROL Zielliste] wird standardmäßig angezeigt und zeigt alle Ziele an, die Ihnen, Ihren Teams, Gruppen oder Ihrem Unternehmen gehören.
 * Klicken Sie auf einen der folgenden Abschnitte im linken Bereich, um auf eine Liste mit Zielen zuzugreifen:
 
    * [!UICONTROL Ziel-Ausrichtung]
    * [!UICONTROL Impuls]
    * [!UICONTROL Einchecken]
 
-Nachdem Sie zu einem Abschnitt mit Ihrer Zielliste navigiert sind, klicken Sie auf den Namen eines Ziels, um die [!UICONTROL Zieldetails] Bereich. Nehmen Sie Aktualisierungen für Ihr Ziel vor:
+Navigieren zu einem Abschnitt mit Ihrer Zielliste und klicken Sie auf den Namen eines Ziels, um das Bedienfeld [!UICONTROL Zieldetails] zu öffnen. Aktualisieren Sie Ihr Ziel:
 
-1. Klicken [!UICONTROL **Einchecken**]. Der Fortschritt der Ergebnisse und Aktivitäten kann bearbeitet werden.
+1. Klicken Sie auf [!UICONTROL **Check-in**]. Der Verlauf der Ergebnisse und Aktivitäten kann nun bearbeitet werden.
 
-   ![Ein Screenshot der [!UICONTROL Einchecken] Schaltfläche in [!DNL Workfront Goals]](assets/10-workfront-goals-check-in-goal-level.png)
+   ![Screenshot der Schaltfläche [!UICONTROL Check-in] in [!DNL Workfront Goals]](assets/10-workfront-goals-check-in-goal-level.png)
 
-1. Aktualisieren Sie den aktuellen Fortschritt für jedes der Ergebnisse. Je nach ausgewähltem Ergebnistyp haben Sie folgende Möglichkeiten:
+1. Aktualisieren Sie die aktuellen Fortschritte der einzelnen Ergebnisse. Je nach ausgewähltem Ergebnistyp haben Sie folgende Möglichkeiten:
 
    * Menge aktualisieren
    * Währungsbetrag aktualisieren
-   * Prozentualer Abschluss aktualisieren
+   * Prozentualen Fertigstellungsgrad aktualisieren
 
-1. Aktualisieren Sie den Prozentsatz, der in der Aktivität Manuelle Fortschrittsleiste abgeschlossen wurde.
-   ![Ein Screenshot der [!UICONTROL Zieldetails] Bedienfeld in [!DNL Workfront Goals]](assets/11-workfront-goals-goal-level-update-result-and-activity.png)
+1. Aktualisieren Sie den prozentualen Fertigstellungsgrad in der Aktivität „Manuelle Fortschrittsleiste“.
+   ![Screenshot des Bereichs [!UICONTROL Zieldetails] in [!DNL Workfront Goals]](assets/11-workfront-goals-goal-level-update-result-and-activity.png)
 
-1. Klicken [!UICONTROL Zurück zur Zusammenfassung] , um zur [!UICONTROL Zieldetails] Bereich. Ihr Zielfortschritt wird aktualisiert, sobald Sie die Ergebnisse und Aktivitäten des Ziels aktualisieren.
+1. Klicken Sie auf [!UICONTROL Zurück zur Zusammenfassung], um zum Bedienfeld [!UICONTROL Zieldetails] zurückzukehren. Ihr Zielfortschritt wird aktualisiert, sobald Sie die Ergebnisse und Aktivitäten des Ziels aktualisieren.
 
-1. Klicken Sie auf das X in der oberen rechten Ecke des [!UICONTROL Zieldetails] -Bedienfeld, um es zu schließen.
+1. Klicken Sie auf das X oben rechts im Bedienfeld [!UICONTROL Zieldetails], um es zu schließen.
 
-## [!UICONTROL Einchecken] Abschnitt
+## Abschnitt [!UICONTROL Check-in]
 
-Verwenden Sie die [!UICONTROL Einchecken] Abschnitt in [!DNL Goals] um schnell Updates für mehrere Ziele gleichzeitig bereitzustellen. Ein Ziel wird im [!UICONTROL Einchecken] nur, wenn sie Ihnen zugewiesen ist oder Ihnen eine Aktivität/ein Ergebnis zugewiesen ist.
+Verwenden Sie den Abschnitt [!UICONTROL Check-in] in [!DNL Goals], um mehrere Ziele schnell gleichzeitig zu aktualisieren. Ein Ziel wird nur dann im Abschnitt [!UICONTROL Check-in] angezeigt, wenn es Ihnen zugewiesen ist oder eine Aktivität/ein Ergebnis enthält, das Ihnen zugewiesen wurde.
 
-Sie können den Fortschritt nur der Ihnen zugewiesenen Ergebnisse und Aktivitäten aktualisieren.
+Sie können nur den Fortschritt der Ihnen zugewiesenen Ergebnisse und Aktivitäten aktualisieren.
 
-1. Klicken [!UICONTROL **Ziele**] im [!UICONTROL Hauptmenü]. Dadurch wird die [!DNL Workfront Goals] Bereich.
+1. Klicken Sie auf [!UICONTROL **Ziele**] im [!UICONTROL Hauptmenü]. Es öffnet sich der Bereich [!DNL Workfront Goals].
 
-1. Klicken [!UICONTROL **Einchecken**] im linken Bereich. Wenn Sie sich im [!UICONTROL Zielliste], [!UICONTROL Zielausrichtung]oder [!UICONTROL Pulsabschnitte], klicken Sie auf die [!UICONTROL Einchecken] rechts oben im Fenster. Dadurch wird die [!UICONTROL Einchecken] Abschnitt.
+1. Klicken Sie im linken Bedienfeld auf [!UICONTROL **Check-in**]. Wenn Sie sich in den Abschnitten [!UICONTROL Zielliste], [!UICONTROL Zielausrichtung] oder [!UICONTROL Impuls] befinden, können Sie auch auf die Schaltfläche [!UICONTROL Check-in] oben rechts im Fenster klicken. Es öffnet sich der Bereich [!UICONTROL Check-in].
    * Ziele werden in einer Liste angezeigt, wobei die Ergebnisse und Aktivitäten unter jedem Ziel aufgelistet sind.
 
-   ![Ein Screenshot der [!UICONTROL Einchecken] Schaltfläche und Abschnitt in [!DNL Workfront Goals]](assets/12-workfront-goals-check-in-section-merged.jpeg)
+   ![Screenshot der Schaltfläche [!UICONTROL Check-in] und des Bereichs in [!DNL Workfront Goals]](assets/12-workfront-goals-check-in-section-merged.jpeg)
 
-1. Klicken [!UICONTROL **Alle Ergebnisse anzeigen**], [!UICONTROL **Alle Aktivitäten anzeigen**] oder [!UICONTROL **Alle ausgerichteten Ziele anzeigen**] ganz rechts neben dem Zielnamen, um alle Ergebnisse, Aktivitäten und aufeinander abgestimmten Ziele des Ziels anzuzeigen, dessen Fortschritt Sie aktualisieren möchten.
+1. Klicken Sie auf [!UICONTROL **Alle Ergebnisse anzeigen**], [!UICONTROL **Alle Aktivitäten anzeigen**] oder [!UICONTROL **Alle ausgerichteten Ziele anzeigen**] ganz rechts neben dem Zielnamen, um alle Ergebnisse, Aktivitäten bzw. ausgerichteten Ziele des Ziels anzuzeigen, dessen Fortschritt Sie aktualisieren möchten.
 
 1. Aktualisieren Sie den aktuellen Fortschritt der Ihnen zugewiesenen Ergebnisse. Das Ergebnis und der Zielfortschritt werden automatisch aktualisiert und Sie erhalten eine Bestätigung Ihrer Änderungen. Je nach ausgewähltem Ergebnistyp haben Sie folgende Möglichkeiten:
 
    * Menge aktualisieren
    * Währungsbetrag aktualisieren
-   * Prozentualer Abschluss aktualisieren
+   * Prozentualen Fertigstellungsgrad aktualisieren
 
-1. Aktualisieren Sie den Prozentsatz, der in der Aktivität Manuelle Fortschrittsleiste abgeschlossen wurde. Die Aktivität und der Zielfortschritt werden automatisch aktualisiert und Sie erhalten eine Bestätigung Ihrer Änderungen.
+1. Aktualisieren Sie den prozentualen Fertigstellungsgrad in der Aktivität „Manuelle Fortschrittsleiste“. Die Aktivität und der Zielfortschritt werden automatisch aktualisiert und Sie erhalten eine Bestätigung Ihrer Änderungen.
 
-1. (Optional) Fügen Sie einen Kommentar für Ihr Ziel hinzu und klicken Sie auf [!UICONTROL **Post**] , um Ihren Kommentar zu speichern.
+1. (Optional) Fügen Sie einen Kommentar zu Ihrem Ziel hinzu und klicken Sie dann auf [!UICONTROL **Senden**], um Ihren Kommentar zu speichern.
