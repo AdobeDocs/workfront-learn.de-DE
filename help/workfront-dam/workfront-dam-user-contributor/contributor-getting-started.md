@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Benutzerprofilen und Navigation in [!UICONTROL Workfront DAM]
-description: Lernen Sie den Unterschied zwischen den drei [!UICONTROL Workfront DAM] Benutzerprofile und Navigation [!UICONTROL Workfront DAM].
+description: Lernen Sie den Unterschied zwischen den drei [!UICONTROL Workfront DAM]-Benutzerprofilen und die Navigation in [!UICONTROL Workfront DAM] kennen.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8992
 exl-id: 383b5890-e1e3-44e1-b548-486bea04c079
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Mitarbeiter: Erste Schritte
+# Mitwirkende: Erste Schritte
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Der Unterschied zwischen den drei [!UICONTROL Workfront DAM] Benutzerprofile
-* Navigieren [!UICONTROL Workfront DAM]
+* Der Unterschied zwischen den drei [!UICONTROL Workfront DAM]-Benutzerprofilen
+* Navigieren in [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335252/?quality=12&learn=on)
