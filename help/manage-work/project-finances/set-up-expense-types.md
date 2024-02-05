@@ -11,17 +11,17 @@ level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '252'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 # Einrichten von Ausgabentypen
 
-Ausgaben in [!DNL Workfront] nicht-Arbeitskosten im Zusammenhang mit Projekten und anderen Arbeiten darstellen. Kosten könnten beispielsweise Reisekosten beim Besuch eines Kunden oder der Kauf von Vorräten sein, die zum Abschluss eines Fotoshootings erforderlich sind. Diese Ausgaben sollten im Rahmen des Projekts protokolliert werden, damit geplante Kosten und tatsächliche Kosten berechnet und für jedes Projekt gemeldet werden können.
+Bei Ausgaben in [!DNL Workfront] handelt es sich um sonstige Kosten im Zusammenhang mit Projekten und anderen Arbeiten. Bei den Ausgaben kann es sich beispielsweise um Reisekosten für einen Kundenbesuch oder um den Kauf von Zubehör für ein Foto-Shooting handeln. Diese Ausgaben sollten im Rahmen des Projekts protokolliert werden, damit geplante Kosten und tatsächliche Kosten für jedes Projekt berechnet und gemeldet werden können.
 
-[!DNL Workfront] verfügt über vordefinierte Ausgabetypen, die bei der Eingabe von Ausgaben verwendet werden können. Die Standardeinstellungen können nicht gelöscht oder geändert werden, es können jedoch neue hinzugefügt werden.
+[!DNL Workfront] hat vorgefertigte Ausgabentypen, die bei der Eingabe von Ausgaben verwendet werden können. Die Standardeinstellungen können nicht gelöscht oder geändert werden, es können jedoch neue hinzugefügt werden.
 
 * Werbung
 * Beratung
@@ -29,27 +29,27 @@ Ausgaben in [!DNL Workfront] nicht-Arbeitskosten im Zusammenhang mit Projekten u
 * Allgemein
 * Materialien
 * Drucken
-* Versand
+* Lieferung
 * Reise
 
-Ein Systemadministrator kann für seine Organisation erforderliche Ausgabentypen hinzufügen. Diese zusätzlichen Ausgabentypen können geändert, ausgeblendet oder gelöscht werden, um die in Ihrem Unternehmen benötigten Finanzberichte zu unterstützen.
+Systemadmins können die für ihr Unternehmen benötigten Ausgabentypen hinzufügen. Diese zusätzlichen Ausgabentypen können geändert, ausgeblendet oder gelöscht werden, um die in Ihrem Unternehmen benötigten Finanzberichte zu unterstützen.
 
-Projektmanager, Führungskräfte und andere können Ausgabenberichte erstellen, in denen die individuellen Ausgaben nach Typ gruppiert werden, falls gewünscht, für Aufgaben, Projekte, Programme oder Portfolios innerhalb von [!DNL Workfront]. Projektfinanzierungen werden durch Ausgabetypen viel besser zu bewältigen.
+Projekt-Managerinnen und -Manager, Führungskräfte und andere können in [!DNL Workfront] für Aufgaben, Projekte, Programme oder Portfolios Ausgabenberichte erstellen und die einzelnen Ausgaben auf Wunsch nach Typ gruppieren. Projektfinanzierungen lassen sich durch Ausgabetypen wesentlich besser verwalten.
 
-## Ausgabentyp erstellen
+## Erstellen eines Ausgabentyps
 
-**Auswählen [!UICONTROL Einrichtung] aus dem Hauptmenü**
+**Wählen Sie [!UICONTROL Einrichtung] im Hauptmenü**
 
-1. Klicken **[!UICONTROL Ausgabentypen]** im Menü des linken Bedienfelds.
-1. Klicken Sie auf **[!UICONTROL Neuer Ausgabentyp]** Schaltfläche.
-1. Nennen Sie den Ausgabentyp.
+1. Klicken Sie auf **[!UICONTROL Ausgabentypen]** im Menü des linken Bedienfelds.
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Neuer Ausgabentyp]**.
+1. Benennen Sie den Ausgabentyp.
 1. Fügen Sie bei Bedarf eine Beschreibung hinzu.
-1. Klicken Sie auf **[!UICONTROL Speichern]** Schaltfläche.
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Speichern]**.
 
-![Ein Bild zum Erstellen eines neuen [!UICONTROL Ausgabentyp]](assets/setting-up-finances-6.png)
+![Ein Bild zum Erstellen eines neuen [!UICONTROL Ausgabentyps]](assets/setting-up-finances-6.png)
 
 ## Verwendung von Ausgabentypen
 
-Die Ausgabenoptionen werden im **[!UICONTROL Ausgabentyp]** Dropdown-Liste, wenn Benutzer Ausgaben für ein Projekt oder eine Aufgabe in [!DNL Workfront].
+Die Ausgabenoptionen werden in der Dropdown-Liste zu **[!UICONTROL Ausgabentypen]** angezeigt, wenn Benutzende Ausgaben für ein Projekt oder eine Aufgabe in [!DNL Workfront] erstellen.
 
-![Bild des Hinzufügens neuer Kosten](assets/setting-up-finances-7.png)
+![Ein Bild des Hinzufügens neuer Ausgaben](assets/setting-up-finances-7.png)
