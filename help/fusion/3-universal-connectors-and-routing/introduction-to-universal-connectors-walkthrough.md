@@ -1,6 +1,6 @@
 ---
-title: Anleitung zur Einführung in universelle Connectoren
-description: Erfahren Sie, wie Sie die Poke-API über einen HTTP-Connector aufrufen, um Informationen zu einem Pokemon-Zeichen zu sammeln und zu posten - alles in [!DNL Adobe Workfront Fusion].
+title: Einführung in universelle Connectoren – Anleitung
+description: Erfahren Sie, wie Sie in [!DNL Adobe Workfront Fusion]die Poke-API über einen HTTP-Connector aufrufen, um Informationen über einen Pokemon-Charakter zu sammeln und zu veröffentlichen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,21 +11,21 @@ jira: KT-9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anleitung zur Einführung in universelle Connectoren
+# Einführung in universelle Connectoren – Anleitung
 
 ## Übersicht
 
-Rufen Sie mithilfe eines Pokemon-Zeichens in einer Tabelle die Poke-API über einen HTTP-Connector auf, um weitere Informationen zu diesem Zeichen zu sammeln und zu posten.
+Rufen Sie mithilfe eines Pokemon-Charakters in einer Tabelle die Poke-API über einen HTTP-Connector auf, um weitere Informationen über diesen Charakter zu sammeln und zu veröffentlichen.
 
 ![Ein Bild des Fusion-Szenarios](assets/universal-connectors-and-routing-1.png)
 
-## Anleitung zur Einführung in universelle Connectoren
+## Einführung in universelle Connectoren – Anleitung
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -35,13 +35,13 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 Website der Pokemon-API: `https://pokeapi.co/`
 
-URL für Übung: `https://pokeapi.co/api/v2/pokemon/{Character}`
+URL der Übung: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Anleitung zur Einführung in universelle Connectoren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Einführung in universelle Connectoren – Anleitung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=de).
 
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
