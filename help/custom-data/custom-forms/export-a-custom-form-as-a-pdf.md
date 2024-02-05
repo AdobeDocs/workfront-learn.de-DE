@@ -1,6 +1,6 @@
 ---
 title: Exportieren eines benutzerdefinierten Formulars als PDF
-description: Erfahren Sie, wie Sie ein benutzerdefiniertes Formular als PDF exportieren, um die Informationen einfach für andere freizugeben.
+description: Erfahren Sie, wie Sie ein benutzerdefiniertes Formular als PDF exportieren können, um die Informationen bequem für andere freizugeben.
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -11,26 +11,26 @@ thumbnail: exportform.png
 jira: KT-10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Exportieren eines benutzerdefinierten Formulars als PDF
 
-Die Erfassung einzigartiger Daten einer Organisation ist ein wesentlicher Bestandteil des Arbeitsmanagements. Benutzerdefinierte Formulare werden häufig zu diesem Zweck verwendet. Wenn Sie benutzerdefinierte Formulare exportieren können, können diese einfach zirkuliert und freigegeben werden. Sie können benutzerdefinierte Formulare aus Projekten, Aufgaben oder Problemen exportieren, wenn Sie auf das Formular im [!UICONTROL Details] -Abschnitt der Objekte.
+Die Erfassung der eindeutigen Unternehmensdaten ist ein wesentlicher Bestandteil der Arbeitsverwaltung. Zu diesem Zweck werden in der Regel benutzerdefinierte Formulare verwendet. Durch die Möglichkeit, benutzerdefinierte Formulare zu exportieren, können diese leicht weitergegeben und gemeinsam genutzt werden. Sie können benutzerdefinierte Formulare aus Projekten, Aufgaben oder Vorgängen exportieren, indem Sie sie im Abschnitt [!UICONTROL Details] der Objekte aufrufen.
 
-Sie können auch die [!UICONTROL Übersicht] -Bereich in der exportierten PDF.
+Sie können auch den Bereich [!UICONTROL Übersicht] in die exportierte PDF-Datei aufnehmen.
 
-So exportieren Sie beispielsweise ein benutzerdefiniertes Formular namens Videomarketing-Informationen , das an ein Projekt angehängt ist:
+Um z. B. ein benutzerdefiniertes Formular mit dem Namen „Information zu Video-Marketing“ zu exportieren, das an ein Projekt angehängt ist:
 
-1. Klicken Sie auf **[!UICONTROL Export]** Symbol. Alle benutzerdefinierten Formulare, die an das Projekt angehängt sind, werden im Dropdown-Menü angezeigt, einschließlich der [!UICONTROL Übersicht] Abschnitt.
-1. Wählen Sie Videomarketing-Informationen aus der Liste aus.
-1. Klicken **[!UICONTROL Export]** am Ende der Liste.
+1. Klicken Sie auf das Symbol **[!UICONTROL Exportieren]**. Alle benutzerdefinierten Formulare, die mit dem Projekt verknüpft sind, erscheinen im Dropdown-Menü, einschließlich des Bereichs [!UICONTROL Übersicht].
+1. Wählen Sie aus der Liste „Informationen zu Video-Marketing“ aus.
+1. Klicken Sie unten in der Liste auf **[!UICONTROL Exportieren]**.
 
 ![Exportoptionen für benutzerdefinierte Formulare](assets/custom-forms-export-1.png)
 
-Eine formatierte PDF-Datei wird heruntergeladen.
+Es wird eine formatierte PDF-Datei heruntergeladen.
 
-![Beispiel für ein exportiertes benutzerdefiniertes Formular](assets/custom-forms-export-2.png)
+![Beispiel eines exportierten benutzerdefinierten Formulars](assets/custom-forms-export-2.png)
