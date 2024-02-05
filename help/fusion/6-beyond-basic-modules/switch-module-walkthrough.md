@@ -1,6 +1,6 @@
 ---
-title: Umgehungslösung für Switch-Module
-description: Erfahren Sie, wie Sie das Switch-Modul verwenden, wenn Sie komplexere oder dynamischere Datenumwandlungen durchführen müssen in [!DNL Adobe Workfront Fusion].
+title: Switch-Modul – Anleitung
+description: Erfahren Sie, wie Sie das Switch-Modul für komplexere oder dynamischere Datenumwandlungen in [!DNL Adobe Workfront Fusion]nutzen können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9049
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Umgehungslösung für Switch-Module
+# Switch-Modul – Anleitung
 
-Erfahren Sie, wie Sie das Switch-Modul verwenden, wenn Sie komplexere oder dynamischere Datenumwandlungen durchführen müssen.
+Erfahren Sie, wie Sie das Switch-Modul verwenden können, um komplexere oder dynamische Datentransformationen durchzuführen.
 
-![Ein Bild, das das Switch-Modul verwendet](assets/beyond-basic-modules-4.png)
+![Ein Bild zur Verwendung des Switch-Moduls](assets/beyond-basic-modules-4.png)
 
-## Umgehungslösung für Switch-Module
+## Switch-Modul – Anleitung
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -31,9 +31,9 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Umgehungslösung für Switch-Module](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Switch-Modul – Anleitung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=de).
 
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
