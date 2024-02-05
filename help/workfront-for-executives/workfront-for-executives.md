@@ -14,9 +14,9 @@ jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
 source-git-commit: e272158326592cdb50195a00668b9cb60e4cb659
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '510'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -24,67 +24,67 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Workfront die Arbeit in Ihrem Unternehmen verwalten können.
 
-Als Führungskraft kann Adobe Workfront:
+Als Führungskraft bietet Ihnen Adobe Workfront Folgendes:
 
-* Informieren Sie sich über den Fortschritt Ihrer Arbeit. **Berichte und Dashboards**
-* Geben Sie Ihnen einen einfachen Weg **Kommunikation mit Projektbeteiligten mithilfe von Updates**
-* Geben Sie Ihnen einen einfachen Weg **eine Arbeitsanforderung erstellen**
-* Einfach sehen **Elemente, die auf Ihre Validierung warten**
+* Informationen über den Fortschritt der Arbeiten, die Sie betreffen, mithilfe von **Berichten und Dashboards**
+* Einfache **Kommunikation mit den Projektbeteiligten durch Aktualisierungen**
+* Einfache Erstellung von **Arbeitsanfragen**
+* Einfacher Einblick in die **Elemente, die auf Ihre Genehmigung warten**
 
 ## Berichte und Dashboards
 
 ### Berichte
 
-Berichte in Workfront sind das Rückgrat für bessere Entscheidungen, schneller. Sie können sie überall sehen, wo Sie hingehen - im Projektbereich, in der Umgebung der Personen oder auf einer Aufgabeneinstiegsseite.
+Die Berichte in Workfront sind die Basis für bessere und schnellere Entscheidungen. Sie können sie überall sehen – im Projektbereich, im Personenbereich oder auf einer Aufgaben-Landingpage.
 
-Führungskräfte und Führungskräfte können zum Berichtsbereich navigieren, um benutzerdefinierte Berichte mit bestimmten Informationen anzuzeigen. Um die Sichtbarkeit der wichtigsten Berichte zu verbessern, verwendet Workfront Dashboards.
+Leitungs- und Führungskräfte können zum Berichtsbereich navigieren, um benutzerdefinierte Berichte mit spezifischen Informationen anzuzeigen. Um die Sichtbarkeit der wichtigsten Berichte zu verbessern, verwendet Workfront Dashboards.
 
 ### Dashboards
 
-Mithilfe eines Dashboards können Führungskräfte beliebige Teile der Arbeit, an denen ihre Organisation derzeit arbeitet, anzeigen und schnell aufschlüsseln. Das Dashboard ist lediglich eine Sammlung von Berichten, die Informationsleiter regelmäßig sehen müssen. Dashboards können vollständig angepasst werden, sodass jeder, der Workfront verwendet, die für ihn wichtigen Arbeiten sehen kann.
+Ein Dashboard ist eine Sammlung von Berichten mit Informationen, die die Führungskräfte regelmäßig benötigen, um sich einen Überblick zu verschaffen. Das Dashboard ist einfach eine Sammlung von Berichten, die Informationen liefern, welche die Führungskräfte regelmäßig sehen sollten. Die Dashboards sind vollständig anpassbar, sodass alle Workfront-Benutzenden die für sie jeweils wichtigen Arbeiten sehen können.
 
-Klicken Sie oben rechts im Hauptmenü auf Dashboards , um auf den Bereich Dashboards zuzugreifen.
+Klicken Sie im Hauptmenü oben rechts auf „Dashboards“, um den Dashboard-Bereich zu öffnen.
 
-![Ein Bild der Dashboards-Option im Hauptmenü](assets/workfront-4-executives-1.png)
+![Ein Bild der Option „Dashboards“ im Hauptmenü](assets/workfront-4-executives-1.png)
 
-Führungskräfte können über die Navigation im linken Bedienfeld auf die verschiedenen Dashboards zugreifen, die ihnen zur Verfügung stehen.
+Führungskräfte können über die Navigation im linken Fenster auf die verschiedenen Dashboards zugreifen, die ihnen zur Verfügung stehen.
 
 ![Ein Bild der Dashboards-Seite](assets/workfront-4-executives-2.png)
 
-* **Alle Dashboards**: Zeigt die Dashboards an, die Sie oder andere Benutzer erstellt haben und für die Sie mindestens über die Berechtigung zum Anzeigen verfügen.
-* **Meine Dashboards**: Zeigt die erstellten Dashboards an.
-* **Freigegebene Dashboards**: Zeigt die Dashboards an, die von anderen Benutzern erstellt und für Sie freigegeben wurden.
+* **Alle Dashboards**: Zeigt die Dashboards an, die Sie oder andere Benutzende erstellt haben und für die Sie zumindest Ansichtsrechte haben.
+* **Meine Dashboards**: Zeigt die Dashboards an, die Sie erstellt haben.
+* **Freigegebene Dashboards**: Zeigt die Dashboards an, die von anderen Benutzenden erstellt und für Sie freigegeben wurden.
 
-Mit einem Dashboard können Führungskräfte Dinge wie &quot;Kosten, Einnahmen und Budgets&quot;für wichtige Projekte und offene Fragen, mit denen sich ihre Teams beschäftigen, überprüfen. Sie können auch Projekte sehen, die gefährdet sind, sowie eine Liste von Artikeln, die einer Genehmigung durch die Exekutive bedürfen.
+Mit einem Dashboard können Führungskräfte wichtige Projekte und offene Fragen überprüfen, mit denen sich ihre Teams befassen, wie z. B. „Kosten, Einnahmen und Budgets“. Sie können auch gefährdete Projekte sehen sowie eine Liste der Punkte, die von der Geschäftsführung genehmigt werden müssen.
 
-Berichte in Workfront können dazu beitragen, die Rechenschaftspflicht für Ihre Mitarbeiter zu verbessern. Der Schlüssel zur Nutzung von Berichten besteht darin, einen klaren Arbeitsablauf für die Verwendung dieser Berichte durch Ihr Unternehmen zu schaffen. Vergewissern Sie sich, dass alle Benutzer genau wissen, welche Berichte zur Erfolgsmessung verwendet werden.
+Berichte in Workfront können dazu beitragen, die Verantwortlichkeit Ihrer Mitarbeitenden zu erhöhen. Der Schlüssel zur Nutzung von Berichten besteht darin, einen klaren Ablauf für ihre Verwendung in Ihrem Unternehmen festzulegen. Stellen Sie sicher, dass jeder weiß, welche Berichte zur Erfolgsmessung verwendet werden.
 
-![Berichtsbeispiel in einem Dashboard in Workfront ](assets/workfront-4-executives-3.png)
+![Beispiel für Berichte in einem Dashboard in Workfront ](assets/workfront-4-executives-3.png)
 
-Berichtsbeispiel in einem Dashboard in Workfront
+Beispiel für Berichte in einem Dashboard in Workfront
 
-## Kommunikation mit Projektbeteiligten mithilfe von Updates
+## Kommunikation mit Projekt-Stakeholdern mithilfe von Aktualisierungen
 
-Kommunikation mit dem Projektteam innerhalb des Projekts selbst, damit alle Projektkommunikationen leicht zugänglich sind.
+Kommunizieren Sie mit dem Projekt-Team innerhalb des Projekts selbst, damit alle Projektmitteilungen leicht zugänglich sind.
 
-![Ein Bild der Seite &quot;Aktualisierungen&quot;](assets/workfront-4-executives-4.png)
+![Ein Bild der Seite „Aktualisierungen“](assets/workfront-4-executives-4.png)
 
 
 ## Anfrage stellen
 
-In vielen Unternehmen ist der erste Schritt beim Start eines neuen Projekts, beim Entwickeln eines neuen Produkts oder beim Erstellen eines Lieferprogramms die Anforderung in Workfront. Sie können den Fortschritt der Anfrage verfolgen und bei Bedarf zusätzliche Informationen bereitstellen.
+In vielen Unternehmen besteht der erste Schritt zum Start eines neuen Projekts, zur Entwicklung eines neuen Produkts oder zur Erstellung einer Leistung darin, eine Anfrage in Workfront zu stellen. Sie können den Fortschritt der Anfrage verfolgen und bei Bedarf zusätzliche Informationen bereitstellen.
 
 In diesem Video lernen Sie Folgendes:
 
-* Navigieren zum Anforderungsbereich
+* Zum Anfragebereich navigieren
 * Anfrage stellen
-* Gesendete Anforderungen anzeigen
+* Ihre eingereichten Anfragen ansehen
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
 
 ## Elemente, die auf Ihre Genehmigung warten
 
-In [!UICONTROL Startseite] Sie können Elemente finden, die auf Ihre Validierung warten.
+Auf der [!UICONTROL Startseite] können Sie ganz einfach Elemente finden, die auf Ihre Genehmigung warten.
 
-![Ein Bild der Homepage](assets/workfront-4-executives-5.png)
+![Ein Bild der Startseite](assets/workfront-4-executives-5.png)
 
