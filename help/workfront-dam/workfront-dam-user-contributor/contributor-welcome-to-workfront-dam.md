@@ -1,6 +1,6 @@
 ---
-title: Informationen zum [!UICONTROL Workfront DAM], Beitragskurs
-description: Erfahren Sie mehr darüber, was im Abschnitt [!UICONTROL Workfront DAM], Beitragskurs.
+title: Informationen zum Kurs „[!UICONTROL Workfront DAM], Mitwirkende“
+description: Erfahren Sie mehr darüber, was im Kurs [!UICONTROL Workfront DAM], Mitwirkende“ behandelt wird.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,19 +10,19 @@ team: Technical Marketing
 jira: KT-8991
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Mitarbeiter: Willkommen bei [!UICONTROL Workfront DAM]
+# Mitwirkende: Willkommen bei [!UICONTROL Workfront DAM]
 
-[!UICONTROL Workfront DAM] ist eine Digital Asset Management (DAM)-Lösung, die speziell für die Verwaltung, Kontrolle und Veröffentlichung Ihrer Marketing- und Kreativ-Assets entwickelt wurde. Sie kann zusammen mit Workflows verwendet werden, die bereits in [!DNL Workfront], wo Sie Projekte, Aufgabenzuweisungen und andere Aufgaben verwalten können. Verwendung [!DNL Workfront] , um Asset-Anforderungen zu erstellen und dann die Produktion und Überprüfung von Assets zu verwalten. Als Mitarbeiter-Benutzer in [!UICONTROL Workfront DAM], können Sie abgeschlossene und genehmigte Assets kuratieren, speichern und verteilen.
+[!UICONTROL Workfront DAM] ist eine DAM-Lösung (Digital Asset Management), die speziell für die Verwaltung, Steuerung und Veröffentlichung Ihrer Marketing- und Kreativ-Assets entwickelt wurde. Sie kann zusammen mit Workflows verwendet werden, die bereits in [!DNL Workfront] vorhanden sind, wo Sie eventuell Projekte, Aufgabenzuweisungen und andere Aufgaben verwalten. Verwenden Sie [!DNL Workfront], um Asset-Anfragen zu erstellen und dann die Produktion und Überprüfung von Assets zu verwalten. Als Benutzerin bzw. Benutzer des Typs „Mitwirkende“ in [!UICONTROL Workfront DAM], können Sie abgeschlossene und genehmigte Assets kuratieren, speichern und verteilen.
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Was Sie während dieses Kurses lernen werden
+* Was Sie in diesem Kurs lernen werden
 * Was [!UICONTROL Workfront DAM] ist und wie Sie es verwenden können
 
 >[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on)
