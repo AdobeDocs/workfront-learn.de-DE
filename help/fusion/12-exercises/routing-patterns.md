@@ -1,6 +1,6 @@
 ---
 title: Routing-Muster
-description: Verbessern Sie Ihr Konzept des Routing und Fallback-Routen, ohne tatsächlich mit anderen APIs zu arbeiten.
+description: Verbessern Sie Ihr Konzept des Routing und der Fallback-Routen, ohne dass Sie wirklich mit anderen APIs zu tun haben.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,47 +11,47 @@ jira: KT-11044
 thumbnail: KT11044.png
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '344'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Routing-Muster
 
-Verbessern Sie Ihr Konzept des Routing und Fallback-Routen, ohne tatsächlich mit anderen APIs zu arbeiten.
+Verbessern Sie Ihr Konzept des Routing und der Fallback-Routen, ohne dass Sie wirklich mit anderen APIs zu tun haben.
 
 ## Übungsübersicht
 
-Verwenden Sie das Modul Variable festlegen , um eine Zahl über mehrere Pfade zu senden, um zu sehen, wie sich Filter und Fallbacks beim Routing verhalten.
+Verwenden Sie das Modul „Variable festlegen“, um eine Zahl über mehrere Pfade zu senden, um zu sehen, wie sich Filter und Fallbacks beim Routing verhalten.
 
 ![Routing-Muster Bild 1](../12-exercises/assets/routing-patterns-walkthrough-1.png)
 
-## Schritte, die ausgeführt werden müssen
+## Zu befolgende Schritte
 
-1. Erstellen Sie ein neues Szenario und nennen Sie es &quot;Routing-Muster und Fallbacks&quot;.
-1. Fügen Sie für den Trigger das Tool-Modul Variable festlegen hinzu. Setzen Sie &quot;Meine Nummer&quot;für den Variablennamen, belassen Sie die Lebensdauer der Variablen auf einen Zyklus und setzen Sie das Variablenfeld auf &quot;75&quot;.
+1. Erstellen Sie ein neues Szenario und nennen Sie es „Routing-Muster und Fallbacks“.
+1. Für den Auslöser fügen Sie das Werkzeugmodul „Variable einrichten“ hinzu. Wählen Sie „Meine Nummer“ als Variablennamen, belassen Sie die Lebensdauer der Variablen bei einem Zyklus und setzen Sie das Variablenfeld auf „75“.
 
    ![Routing-Muster Bild 2](../12-exercises/assets/routing-patterns-walkthrough-2.png)
 
-1. Fügen Sie ein weiteres Modul hinzu und wählen Sie das Router-Modul aus. Wählen Sie für beide Pfade das Tool für die Inkrementierungsfunktion aus und klicken Sie auf &quot;OK&quot;, ohne für jeden Pfad Änderungen vorzunehmen.
+1. Fügen Sie ein weiteres Modul hinzu und wählen Sie das Router-Modul aus. Wählen Sie für beide Pfade das Tool für die Inkrementierungsfunktion aus und klicken Sie auf „OK“, ohne für die Pfade Änderungen vorzunehmen.
 
-   + Erstellen Sie für den ersten Pfad einen Filter, nennen Sie ihn &quot;Weniger als 100&quot;, und setzen Sie die Bedingung auf [Meine Nummer] Weniger als 100.
+   + Erstellen Sie für den ersten Pfad einen Filter, benennen Sie ihn „Weniger als 100“ und setzen Sie die Bedingung für [Meine Nummer] auf „weniger als 100“.
 
-   + Erstellen Sie für den zweiten Pfad einen Filter, nennen Sie ihn &quot;Weniger als 1000&quot;, und setzen Sie die Bedingung auf [Meine Nummer] Weniger als 1000. Stellen Sie sicher, dass Sie den numerischen Operator für beide verwenden.
+   + Für den zweiten Pfad erstellen Sie einen Filter, benennen Sie ihn „Weniger als 1000“ und setzen Sie die Bedingung für [Meine Nummer] auf „Weniger als 1000“. Stellen Sie sicher, dass Sie den numerischen Operator für beide verwenden.
 
    ![Routing-Muster Bild 3](../12-exercises/assets/routing-patterns-walkthrough-3.png)
 
    ![Routing-Muster Bild 4](../12-exercises/assets/routing-patterns-walkthrough-4.png)
 
-1. Klicken Sie einmal auf Ausführen und beobachten Sie, wie das Bundle den Pfad &quot;Weniger als 100&quot;durchläuft.
-1. Ändern Sie dann das Feld Variablenmodul festlegen in 950 und führen Sie erneut aus. Sehen Sie, wie er den zweiten Pfad herunterfährt.
-1. Klicken Sie auf den Router und fügen Sie einen weiteren Pfad hinzu. Fügen Sie das Tool-Modul für die Funktion Inkrement hinzu. Klicken Sie für den Filter auf das Kontrollkästchen &quot;Fallback-Route&quot;. Beachten Sie, wie sich der Pfeil, der auf diesen Pfad zeigt, zu einem Caret ändert, was angibt, dass es sich um die Ausweichroute handelt.
+1. Klicken Sie einmal auf Ausführen und beobachten Sie, wie das Bündel den Pfad „Weniger als 100“ durchläuft.
+1. Ändern Sie dann das Feld des Moduls „Variable einrichten“ auf 950 und führen Sie es noch einmal aus. Sehen Sie sich an, wie es den zweiten Pfad herunterfährt.
+1. Klicken Sie auf den Router und fügen Sie einen weiteren Pfad hinzu. Fügen Sie das Werkzeugmodul für die Funktion „Inkrementieren“ hinzu. Klicken Sie für den Filter auf das Kontrollkästchen „Die Fallback-Route“. Beachten Sie, wie sich der Pfeil, der auf diesen Pfad zeigt, zu einem Caret ändert, was angibt, dass es sich um die Fallback-Route handelt.
 
    ![Routing-Muster Bild 5](../12-exercises/assets/routing-patterns-walkthrough-5.png)
 
-1. Ändern Sie die Anzahl der Variablen auf 9500 setzen und einmal ausführen. Da die Zahl nicht weniger als 100 oder weniger als 1000 beträgt, durchläuft das Bundle die Ausweichroute.
+1. Ändern Sie die Nummer „Variable einrichten“ auf 9500 und führen Sie einmal aus. Da die Zahl weder weniger als 100 noch weniger als 1000 beträgt, durchläuft das Bündel die Fallback-Route.
 
-Wenn Sie einen weiteren Pfad mit einem Tool-Modul mit der Funktion Inkrement hinzufügen, aber keinen Filter festlegen, was passiert, wenn Sie erneut auf Ausführen klicken? Wird ein Bundle je die Fallback-Route entlang gehen, wobei die vierte Route hinzugefügt wird?
+Wenn Sie einen weiteren Pfad mit einem Werkzeugmodul der Funktion „Inkrementieren“ hinzufügen, aber keinen Filter setzen, was passiert dann, wenn Sie erneut auf „Ausführen“ klicken? Wird ein Bündel jemals die Fallback-Route entlang gehen, wobei die vierte Route hinzugefügt wird?
 
-+ Nein, da ohne Filtersatz jedes Bundle immer diesen Pfad anstelle der Ausweichroute durchläuft.
++ Nein, da ohne Filtersatz jedes Bündel immer diesen Pfad anstelle der Fallback-Route durchläuft.
