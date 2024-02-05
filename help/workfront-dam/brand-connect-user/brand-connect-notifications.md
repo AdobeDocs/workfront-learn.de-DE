@@ -1,6 +1,6 @@
 ---
-title: Benachrichtigungseinstellungen in Brand Connect ändern
-description: Erfahren Sie, wie Sie In-App-Benachrichtigungen anzeigen, Ihre Benachrichtigungseinstellungen ändern und ein Adressbuch in Brand Connect von erstellen. [!UICONTROL Workfront DAM].
+title: Ändern der Benachrichtigungseinstellungen in Brand Connect
+description: Erfahren Sie, wie Sie in Brand Connect In-App-Benachrichtigungen anzeigen, Ihre Benachrichtigungseinstellungen ändern und ein [!UICONTROL Workfront DAM]-Adressbuch erstellen.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8988
 exl-id: a7f79d27-c9e1-4a27-9757-a3bf6299b794
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Brand Connect: Benachrichtigungen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
 * In-App-Benachrichtigungen anzeigen
 * Benachrichtigungseinstellungen ändern
-* Adressbuch erstellen
+* Ein Adressbuch erstellen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335250/?quality=12&learn=on)
