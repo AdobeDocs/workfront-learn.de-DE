@@ -1,6 +1,6 @@
 ---
-title: Was sind Layoutvorlagen?
-description: Erfahren Sie, wie Sie mit Layoutvorlagen anpassen können, was Benutzer in der Benutzeroberfläche sehen.
+title: Was sind Layout-Vorlagen?
+description: Erfahren Sie, wie Layout-Vorlagen verwendet werden, um die Darstellung der Benutzeroberfläche für Benutzende anzupassen.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,31 +11,31 @@ thumbnail: 10099.jpeg
 jira: KT-10099
 exl-id: 163c3421-37c1-4160-92be-ec27e353ada4
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Was sind Layoutvorlagen?
+# Was sind Layout-Vorlagen?
 
-Workfront verfügt über viele gute Tools, mit denen Sie Ihre Arbeit erledigen können. Aber zu viel von einer guten Sache kann überwältigend sein.
+Workfront bietet viele gute Tools, die Ihnen helfen, Ihre Arbeit zu erledigen. Aber zu viel des Guten kann überwältigend sein.
 
 ![Startseite und Hauptmenü](assets/what-are-layout-templates-01.png)
 
-Mit Layout-Vorlagen können Systemadministratoren und Gruppenadministratoren das Benutzererlebnis anpassen und diesen Benutzern ermöglichen, sich auf das für sie wichtige zu konzentrieren.
+Mithilfe von Layout-Vorlagen können System- und Gruppenadmins die Benutzererfahrung anpassen und den Benutzenden die Möglichkeit geben, sich auf das zu konzentrieren, was für sie wichtig ist.
 
 ![Startseite und Hauptmenü](assets/what-are-layout-templates-02.png)
 
-Beispielsweise protokolliert der Großteil Ihrer Organisation keine Zeit. Das Beratungsteam führt jedoch Rechnungen von Kunden durch, sodass diese Zeit protokollieren müssen, um eine korrekte Rechnungsstellung sicherzustellen. Mit einer Layout-Vorlage können Timesheets für diejenigen ausgeblendet werden, die sie nicht benötigen, und für diejenigen angezeigt werden, die sie benötigen.
+Der Großteil Ihres Unternehmens erfasst beispielsweise keine Zeit. Das Berater-Team stellt der Kundschaft jedoch Rechnungen aus und muss daher die Zeit erfassen, um eine genaue Abrechnung zu gewährleisten. Mit einer Layout-Vorlage können Arbeitszeittabellen für diejenigen ausgeblendet werden, die sie nicht benötigen, und für diejenigen angezeigt werden, die sie benötigen.
 
 ![Startseite und Hauptmenü](assets/what-are-layout-templates-03.png)
 
 ![Startseite und Hauptmenü](assets/what-are-layout-templates-04.png)
 
 
-## Vor der Erstellung
+## Vor dem Aufbau
 
-Workfront empfiehlt, mit Ihren Benutzern zu sprechen, bevor Sie eine Layoutvorlage erstellen. Die Einbeziehung der Benutzer, die die Layout-Vorlage verwenden werden, wie z. B. die Gruppenadministratoren, wird es sehr viel einfacher machen, die richtigen Informationen und Tools vor den richtigen Personen zu platzieren.
+Workfront empfiehlt, vor der Erstellung einer Layout-Vorlage mit Ihren Benutzenden zu sprechen. Durch die Einbeziehung derjenigen, die die Layout-Vorlage verwenden werden, wie z. B. der Gruppenadmins, können die richtigen Informationen und Werkzeuge viel einfacher an die richtigen Personen weitergegeben werden.
 
-Außerdem scheuen Sie sich nicht, Änderungen vorzunehmen, nachdem eine Vorlage erstellt wurde. Erhalten Sie weiterhin Feedback zu den Anforderungen und möchten Sie sehen und darauf zugreifen. Denken Sie daran, dass Layoutvorlagen Ihren Benutzern ein sauberes und einfaches Erlebnis bieten sollen.
+Und scheuen Sie sich nicht, Änderungen vorzunehmen, nachdem eine Vorlage erstellt wurde. Holen Sie sich weiterhin Rückmeldungen darüber ein, was sie brauchen und sehen wollen und worauf sie zugreifen wollen. Denken Sie daran, dass Layout-Vorlagen dazu gedacht sind, eine saubere und einfache Erfahrung für Ihre Benutzenden zu schaffen.
