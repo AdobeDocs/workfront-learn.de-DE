@@ -1,6 +1,6 @@
 ---
-title: Anforderungen verwalten
-description: Erfahren Sie, wie Sie mithilfe von Dashboards gesendete Anfragen finden. [!UICONTROL Startseite], die [!UICONTROL Anforderungen] oder [!UICONTROL Teams] Seite in [!DNL  Workfront].
+title: Anfragen verwalten
+description: Erfahren Sie in [!DNL  Workfront], wie Sie über Dashboards, die [!UICONTROL Startseite], den Bereich [!UICONTROL Anfragen] oder die Seite [!UICONTROL Teams] nach eingereichten Anfragen suchen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,15 +12,15 @@ jira: KT-10154
 hidefromtoc: true
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
 source-git-commit: fa555822c372f09e0a99e9470a3f45c03f1ddf3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anforderungen verwalten
+# Anfragen verwalten
 
 >[!NOTE]
 >
->**Anforderungen verwalten** ist jetzt enthalten in **[Anforderungen suchen und verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**.
+>**Anfragen verwalten** ist jetzt in **[Anfragen suchen und verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html?lang=de)** enthalten.
 
