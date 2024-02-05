@@ -1,6 +1,6 @@
 ---
-title: Was ist ein Hauptverantwortlicher?
-description: Finden Sie heraus, was ein primärer Verantwortlicher ist und wie er sich auf die Verwaltung Ihrer Ressourcen auswirkt.
+title: Was ist eine primär zugewiesene Person?
+description: Erfahren Sie, was eine primär zugewiesene Person ist und wie sie sich auf die Verwaltung Ihrer Ressourcen auswirkt.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -9,25 +9,25 @@ activity: use
 team: Technical Marketing
 jira: KT-10185
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Was ist ein Hauptverantwortlicher?
+# Was ist eine primär zugewiesene Person?
 
-Ein primärer Verantwortlicher ist vorhanden, wenn einer Aufgabe zwei oder mehr Benutzer zugewiesen sind. Die Kalenderzeit des primären Verantwortlichen ist der Zeitpunkt, den Workfront beim Anwenden der Einstellung &quot;Benutzerzeit aus&quot;betrachtet.
+Eine primäre zugewiesene Person ist vorhanden, wenn einer Aufgabe zwei oder mehr Benutzende zugewiesen sind. Die Anwendung der Einstellung „Benutzer-Ausfallzeit“ in Workfront basiert auf dem Kalender mit den Ausfallzeiten der primär zugewiesenen Person.
 
-Ermitteln Sie auf der Projektseite, wer der Hauptverantwortliche ist. Klicken Sie in das Feld Zuweisungen und dann in der Ecke auf das Symbol für erweiterte Zuweisungen .
+Ermitteln Sie auf der Projektseite, wer die primär zugewiesene Person ist. Klicken Sie in das Feld „Zuweisungen“ und dann in der Ecke auf das Symbol für erweiterte Zuweisungen.
 
-![mehrere Bevollmächtigte](assets/pa_01.png)
+![mehrere zugewiesene Personen](assets/pa_01.png)
 
-Im Fenster Erweiterte Zuweisungen wird der primäre Verantwortliche oder Aufgabeneigentümer mit einem grünen Häkchen gekennzeichnet. Bewegen Sie den Mauszeiger über einen anderen Benutzer und klicken Sie auf den Link Primär machen , um den Aufgabeneigentümer zu ändern.
+Im Fenster „Erweiterte Zuweisungen“ wird die primär zugewiesene Person (oder Aufgabenbesitzer) mit einem grünen Häkchen gekennzeichnet. Bewegen Sie den Mauszeiger über eine andere Person und klicken Sie auf den Link „Als primär festlegen“, um den Aufgabenbesitzer zu ändern.
 
-![Hauptverantwortlicher ausgewählt](assets/pa_02.png)
+![Primär zugewiesene Person ausgewählt](assets/pa_02.png)
 
-Sie können auch den primären Verantwortlichen auf der Aufgabenseite anpassen. Markieren Sie das Kästchen in der Projektliste und klicken Sie auf das Symbol Bearbeiten . Scrollen Sie zum Abschnitt Zuweisungen und klicken Sie auf die Schaltfläche , um den Aufgabeneigentümer festzulegen.
+Sie können die primär zugewiesene Person auch auf der Aufgabenseite anpassen. Markieren Sie das Kontrollkästchen in der Projektliste und klicken Sie auf das Symbol „Bearbeiten“. Scrollen Sie zum Abschnitt „Arbeitsaufträge“ und klicken Sie auf die Schaltfläche, um den Aufgabenbesitzer festzulegen.
 
-![Schaltfläche &quot;Aufgabenbesitzer&quot;](assets/pa_03.png)
+![Schaltfläche „Aufgabenbesitzer“](assets/pa_03.png)
 
