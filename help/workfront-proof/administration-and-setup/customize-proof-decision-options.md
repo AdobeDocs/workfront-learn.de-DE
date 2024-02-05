@@ -1,6 +1,6 @@
 ---
-title: Entscheidungsoptionen für Testsendungen anpassen
-description: Erfahren Sie, was eine Testbestätigungsentscheidung ist. Benennen Sie dann die Entscheidungsoptionen für Testsendungen um und blenden Sie nicht benötigte Optionen in den Testversandsystemeinstellungen aus.
+title: Anpassen der Optionen der Korrekturabzugsentscheidungen
+description: Lernen Sie, was eine Korrekturabzugsentscheidung ist. Benennen Sie dann die Korrekturabzugsentscheidungsoptionen um und blenden Sie nicht benötigte Optionen in den Proofing-Systemeinstellungen aus.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,27 +12,27 @@ jira: KT-8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entscheidungsoptionen für Testsendungen anpassen
+# Anpassen der Optionen der Korrekturabzugsentscheidungen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Was für eine Testfallentscheidung ist
-* Umbenennen der Entscheidungsoptionen für Testversand
-* So blenden Sie nicht benötigte Testversand-Entscheidungsoptionen aus
+* Was eine Korrekturabzugsentscheidung ist
+* Umbenennen von Korrekturabzugsentscheidungsoptionen
+* Ausblenden nicht benötigter Optionen für Korrekturabzugsentscheidungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on)
 
-## Ihre Wendung
+## Sie sind dran
 
-1. Bestimmen Sie, welche Entscheidungsoptionen für die Testversand-Workflows Ihres Unternehmens erforderlich sind. Beachten Sie, dass diese Einstellungen global sind, sodass jedes Team, das Testsendungen verwendet, dieselben Optionen sieht.
-1. Melden Sie sich jetzt bei Workfront an und wechseln Sie zu den Testversandeinstellungen. Benennen Sie im Tab Entscheidungen die Entscheidungen entsprechend den Anforderungen Ihres Unternehmens um. Blenden Sie die nicht benötigten Optionen aus.
-1. Nachdem Sie die Entscheidungseinstellungen vorgenommen haben, testen Sie sie schnell, indem Sie einen Testversand hochladen und sich selbst als Prüfungs- und Genehmiger zuweisen.
+1. Bestimmen Sie, welche Entscheidungsoptionen für die Korrekturabzug-Workflows Ihres Unternehmens erforderlich sind. Denken Sie daran, dass diese Einstellungen global sind, sodass jedes Team, das das Proofing verwendet, dieselben Optionen sieht.
+1. Melden Sie sich nun bei Workfront an und gehen Sie zu den Proofing-Einstellungen. Benennen Sie auf der Registerkarte „Entscheidungen“ die Entscheidungen so um, dass sie den Bedürfnissen Ihrer Organisation entsprechen. Blenden Sie die nicht benötigten Optionen aus.
+1. Sobald Sie die Entscheidungseinstellungen vorgenommen haben, testen Sie sie kurz, indem Sie einen Korrekturabzug hochladen und sich selbst als prüfende und genehmigende Person zuweisen.
 
 
 <!--
