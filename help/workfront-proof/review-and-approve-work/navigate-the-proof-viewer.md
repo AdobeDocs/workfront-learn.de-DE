@@ -1,6 +1,6 @@
 ---
-title: Navigieren im Testversand-Viewer
-description: Erfahren Sie, wie Sie einen Testversand verschieben, den Inhalt vergrößern/verkleinern, die Spalte "Miniaturansicht"verwenden, Kommentare zum Testversand filtern und vieles mehr im [!DNL  Workfront] Testversand-Viewer.
+title: Navigieren im Korrekturabzugs-Viewer
+description: Erfahren Sie, wie Sie im  [!DNL  Workfront] Proofing-Viewer einen Korrekturabzug verschieben, den Inhalt vergrößern/verkleinern, die Miniaturbildspalte verwenden, Korrekturabzugskommentare filtern und vieles mehr.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,20 +12,20 @@ jira: KT-8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Navigieren im Testversand-Viewer
+# Navigieren im Korrekturabzugs-Viewer
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Verschieben eines Testversands und Vergrößern/Verkleinern des Inhalts
-* Verwenden Sie die Spalte &quot;Miniaturansicht&quot;, um die Seiten eines Testversands in der Vorschau anzuzeigen und zu durchsuchen
-* Filtern der Spalte &quot;Kommentare&quot;
-* Testversand schließen
+* Bewegen eines Korrekturabzugs und Vergrößern/Verkleinern des Inhalts
+* Verwenden der Miniaturansichtsspalte, um die Seiten eines Korrekturabzugs in der Vorschau anzuzeigen und darin zu navigieren
+* Filtern der Kommentarspalte
+* Schließen des Korrekturabzugs
 
 >[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on)
 
