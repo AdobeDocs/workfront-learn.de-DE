@@ -1,6 +1,6 @@
 ---
-title: Erstellen Sie eine Projektvorlage und erfahren Sie mehr über [!UICONTROL Blueprints]
-description: Erfahren Sie, wie Sie eine Projektvorlage von Grund auf neu und aus einem vorhandenen Projekt erstellen und wie Sie [!UICONTROL Blueprints] bietet Ihnen Zugang zu einer Welt nützlicher Projektvorlagen, die von Workfront-Experten erstellt wurden.
+title: Erstellen einer Projektvorlage und Informationen über [!UICONTROL Blueprints]
+description: Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage eines bestehenden Projekts erstellen können, und erfahren Sie, wie Sie mit [!UICONTROL Blueprints] Zugang zu einer Welt nützlicher Projektvorlagen erhalten, die von Workfront-Fachleuten erstellt wurden.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,43 +13,43 @@ jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '345'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erstellen Sie eine Projektvorlage und erfahren Sie mehr über [!UICONTROL Blueprints]
+# Erstellen einer Projektvorlage und Informationen über [!UICONTROL Blueprints]
 
-Erfahren Sie, wie Sie eine Projektvorlage von Grund auf neu und aus einem vorhandenen Projekt erstellen und wie Sie [!UICONTROL Blueprints] bietet Ihnen Zugang zu einer Welt nützlicher Projektvorlagen, die von Workfront-Experten erstellt wurden.
+Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage eines bestehenden Projekts erstellen können, und erfahren Sie, wie Sie mit [!UICONTROL Blueprints] Zugang zu einer Welt nützlicher Projektvorlagen erhalten, die von Workfront-Fachleuten erstellt wurden.
 
 ## Erstellen einer Projektvorlage
 
 In diesem Video lernen Sie Folgendes:
 
 * Erstellen einer Vorlage von Grund auf
-* Erstellen einer Vorlage aus einem vorhandenen Projekt
+* Erstellen einer Vorlage aus einem bestehenden Projekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## Vorlagen, die mit [!UICONTROL Blueprints]
+## Mit [!UICONTROL Blueprints] erstellte Vorlagen
 
-Workfront-Benutzer können [!UICONTROL Blueprints] , um Projektvorlagen zu erstellen. Diese im Hauptmenü gelegene Funktion ermöglicht den Zugriff auf vordefinierte, einsatzbereite Vorlagen, die auf eine Abteilung und eine bestimmte Reifegrad ausgerichtet sind. Diese Vorlagen bieten Benutzern einen Vorsprung bei der wiederholbaren Projekterstellung und helfen dabei, Projekte ähnlich dem Umfang konsistent zu halten.
+Workfront-Benutzende können [!UICONTROL Blueprints] als Hilfe verwenden, um Projektvorlagen zu erstellen. Mit dieser Funktion im Hauptmenü können Sie auf vorgefertigte, gebrauchsfertige Vorlagen zugreifen, die auf eine Abteilung und einen bestimmten Reifegrad ausgerichtet sind. Diese Vorlagen geben den Benutzenden einen Vorsprung bei der wiederholbaren Projekterstellung und helfen, die Konsistenz bei Projekten mit ähnlichem Umfang zu wahren.
 
 ![Blueprints im Hauptmenü](assets/pt-blueprints-01.png)
 
-Jeder lizenzierte Benutzer kann die Liste der in Workfront verfügbaren Blueprints durchsuchen. Sie können einen Blueprint nicht direkt beim Erstellen eines neuen Projekts anwenden (z. B. beim Konvertieren einer Aufgabe oder Anforderung in ein Projekt). Ein wichtiger Unterschied zwischen einem Blueprint und einer Projektvorlage besteht darin, dass ein Blueprint verwendet wird, um eine Vorlage zu erstellen, während eine Vorlage zum Erstellen eines Projekts verwendet wird. **Der Blueprint muss von einem Systemadministrator installiert werden, damit die entsprechende Vorlage erstellt werden kann.**
+Alle lizenzierten Benutzenden können die Liste der in Workfront verfügbaren Blueprints durchsuchen. Sie können einen Blueprint nicht direkt bei der Erstellung eines neuen Projekts anwenden (z. B. bei der Umwandlung einer Aufgabe oder Anfrage in ein Projekt). Ein wesentlicher Unterschied zwischen einem Blueprint und einer Projektvorlage besteht darin, dass ein Blueprint für die Erstellung einer Vorlage verwendet wird, während eine Vorlage für die Erstellung eines Projekts verwendet wird. **Der Blueprint muss von Systemadmins installiert werden, damit die entsprechende Vorlage erstellt werden kann.**
 
-Wenn Sie einen interessanten Blueprint finden, können Sie auf **[!UICONTROL Details]** , um mehr darüber zu erfahren.
+Wenn Sie einen Blueprint finden, der interessant aussieht, können Sie auf **[!UICONTROL Details]** klicken, um mehr darüber zu erfahren.
 
 ![Liste der Blueprints](assets/pt-blueprints-02.png)
 
-Die [!UICONTROL Details] -Bildschirm werden weitere Informationen zum Blueprint erläutert, einschließlich des Installationsverlaufs, wenn der Blueprint installiert wurde.
+Auf dem Bildschirm [!UICONTROL Details] finden Sie weitere Informationen zum Blueprint, einschließlich des Installationsverlaufs, falls der Blueprint bereits installiert wurde.
 
 ![Details zur Verwendung eines Blueprints](assets/pt-blueprints-03.png)
 
-Wenn der Blueprint installiert wurde, können Sie auf **[!UICONTROL Siehe Details]** , um Links zur erstellten Vorlage und allen anderen Objekten zu erhalten, die zur Unterstützung der Vorlage erstellt wurden.
+Wenn der Blueprint installiert wurde, können Sie auf **[!UICONTROL Mehr Details]** klicken, um Links zu der erstellten Vorlage und allen anderen Objekten zu bekommen, die zur Unterstützung der Vorlage erstellt wurden.
 
 ![Details zur Installation eines Blueprints](assets/pt-blueprints-04.png)
 
-Wenn der Blueprint noch nicht installiert wurde, können Sie ihn von Ihrem Systemadministrator anfordern.
+Wenn der Blueprint noch nicht installiert ist, können Sie dies bei Ihren Systemadmins anfordern.
