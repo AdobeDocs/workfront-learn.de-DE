@@ -1,6 +1,6 @@
 ---
-title: Willkommen bei der erweiterten Berichterstellung
-description: Erfahren Sie, wie Sie die [!UICONTROL API-Explorer] und im Textmodus, um erweiterte Filter, Ansichten und Gruppierungen zu erstellen, die über die Funktionen der [!UICONTROL Reporting-Benutzeroberfläche].
+title: Willkommen zum erweiterten Reporting
+description: Erfahren Sie, wie Sie den [!UICONTROL API-Explorer] und den Textmodus verwenden, um erweiterte Filter, Ansichten und Gruppierungen zu erstellen, die über die Funktionen der [!UICONTROL Reporting-Benutzeroberfläche] hinausgehen.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 3409632.png
@@ -11,42 +11,42 @@ team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Willkommen bei der erweiterten Berichterstellung
+# Willkommen zum erweiterten Reporting
 
-Erfahren Sie, wie Sie die [[!UICONTROL API-Explorer]](https://developer.adobe.com/workfront/api-explorer/) und im Textmodus, um erweiterte Filter, Ansichten und Gruppierungen zu erstellen, die über die Funktionen der [!UICONTROL Reporting-Benutzeroberfläche].
+Erfahren Sie, wie Sie den [[!UICONTROL API-Explorer]](https://developer.adobe.com/workfront/api-explorer/) und den Textmodus verwenden, um erweiterte Filter, Ansichten und Gruppierungen zu erstellen, die über die Funktionen der [!UICONTROL Reporting-Benutzeroberfläche] hinausgehen.
 
-Drei Tutorials bilden die erweiterte Berichterstellung. Dies sind die erweiterten Berichtsteile 1, 2 und 3. Zusammen bilden sie 5 Stunden und 33 Minuten Ausbildung.
+Es gibt drei Tutorials zum erweiterten Reporting. Diese sind „Erweitertes Reporting“, Teil 1, 2 und 3. Zusammen bieten sie 5 Stunden und 33 Minuten an Schulung.
 
-Zusätzlich zu den Videos möchten Sie die [Erweitertes Reporting-Handbuch](/help/assets/advanced-reporting-manual.pdf) für Referenzzwecke und Übungen.
+Zusätzlich zu den Videos sollten Sie das [Handbuch zum erweiterten Reporting](/help/assets/advanced-reporting-manual.pdf) für Referenzzwecke und Übungen herunterladen.
 
-**Erweiterte Berichterstellung Teil 1** enthält eine Übersicht über die Erstellung von Berichten, eine Einführung in [!UICONTROL API-Explorer] und Textmodus sowie eine ausführliche Untersuchung der Textmodusfilter.
+**Erweitertes Reporting – Teil 1** enthält eine Übersicht über die Erstellung von Berichten, eine Einführung in den [!UICONTROL API-Explorer] und den Textmodus sowie eine ausführliche Untersuchung der Textmodusfilter.
 
-**Erweiterte Berichterstellung Teil 2** enthält eine ausführliche Untersuchung der Textmodusansichten, zusätzliche Details zur Struktur des Textmodus, berechnete benutzerdefinierte Daten und berechnete Spalten.
+**Erweitertes Reporting – Teil 2** geht ausführlich auf Textmodusansichten ein, zusätzliche Details zur Struktur des Textmodus, berechnete benutzerdefinierte Daten und berechnete Spalten.
 
-**Erweiterte Berichterstellung Teil 3** enthält eine eingehende Untersuchung von Textmodusgruppierungen, berechneten Aggregaten und berechneten Gruppierungen.
+**Erweitertes Reporting – Teil 3** befasst sich detailliert mit Textmodusgruppierungen, berechneten Aggregaten und berechneten Gruppierungen.
 
 ## Voraussetzungen
 
 Bevor Sie sich diese Tutorials ansehen, sollten Sie über Folgendes verfügen:
 
-* Gute Kenntnisse zur Verwendung von Workfront. Das bedeutet, dass Sie seit mindestens 3 bis 6 Monaten ein ernsthafter Workfront-Benutzer sind.
-* Gutes Verständnis der Objekte, die Sie in Berichte aufnehmen möchten.
-* Gutes Verständnis für die Verwendung benutzerdefinierter Formulare, insbesondere berechneter benutzerdefinierter Felder.
-* A [!UICONTROL Plan] Lizenztyp mit aktivierten Berechtigungen zum Erstellen von Berichten und Filtern.
-* Sie hätten die [[!UICONTROL Grundlegende Berichterstellungselemente]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html) der Kurs [[!UICONTROL Benutzerdefinierte Berichte und Dashboards erstellen]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html) und [[!UICONTROL Erstellen von Zwischenfiltern]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html) Kurs.
+* Gute Kenntnisse über die Verwendung von Workfront. Das bedeutet, dass Sie Workfront seit mindestens 3 bis 6 Monaten ernsthaft nutzen sollten.
+* Ein gutes Verständnis der Objekte, die Sie in Berichte aufnehmen möchten.
+* Ein gutes Verständnis für die Verwendung benutzerdefinierter Formulare, insbesondere berechneter benutzerdefinierter Felder.
+* Den Lizenztyp [!UICONTROL Planen] mit aktivierten Berechtigungen zum Erstellen von Berichten und Filtern.
+* Sie sollten die Kurse [[!UICONTROL Grundlegende Reporting-Elemente]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=de), [[!UICONTROL Erstellen von benutzerdefinierten Berichten und Dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=de) und [[!UICONTROL Erstellen von Zwischenfiltern]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=de) abgeschlossen haben.
 
 ## Zielgruppe
 
-Die Zielgruppe für diese Tutorials ist [!UICONTROL Plan] Lizenzanwender, die derzeit benutzerdefinierte Berichte erstellen und wissen möchten, wie der Textmodus verwendet werden kann, um mehr zu erledigen, als dies in der Benutzeroberfläche für die Berichterstellung vorgesehen war.
+Die Zielgruppe für diese Tutorials sind Benutzerinnen und Benutzer einer Lizenz des Typs [!UICONTROL Planen], die derzeit benutzerdefinierte Berichte erstellen und wissen möchten, wie der Textmodus verwendet werden kann, um mehr tun zu können, als es mit der Reporting-Benutzeroberfläche vorgesehen war.
 
-## Woher kamen diese Tutorials?
+## Woher stammen diese Anleitungen?
 
-Diese Tutorials sind Aufzeichnungen einer Live-Klasse, die im Februar 2018 über einen Zeitraum von drei Tagen gegeben wurde. Möglicherweise wird in den Videos eine ältere Benutzeroberfläche angezeigt, die jedoch keine Auswirkungen auf die Genauigkeit oder Relevanz des bereitgestellten Inhalts hat.
+Diese Tutorials sind Aufzeichnungen eines Live-Kurses, der im Februar 2018 über einen Zeitraum von drei Tagen stattfand. Möglicherweise ist in den Videos eine ältere Benutzeroberfläche zu sehen, was jedoch keine Auswirkungen auf die Genauigkeit oder Relevanz der bereitgestellten Inhalte hat.
 
-Sie werden auch einige Hinweise hören, wie Sie ein Testlaufwerkskonto zum Üben erhalten. Adobe Experience League stellt keine Testlaufwerkkonten bereit, macht sich aber keine Gedanken. Sie können in Ihrem Produktionskonto üben. Schließlich geht es bei der Berichterstellung nur um das Anzeigen von Objekten in Workfront, nicht um das Erstellen oder Löschen von Objekten. Außer der Erstellung der Berichte selbst. Außer dem Systemadministrator können Sie jedoch nur die von Ihnen erstellten Berichte anzeigen, sofern Sie sich nicht dafür entscheiden, sie freizugeben.
+Es wird an einigen Stellen auch erwähnt, sich ein Testlaufkonto zum Üben zu besorgen. Adobe Experience League stellt keine Testlaufkonten bereit, doch das ist kein Problem. Sie können auch in Ihrem Produktionskonto üben. Schließlich geht es bei der Berichterstellung nur um das Anzeigen von Objekten in Workfront, nicht um das Erstellen oder Löschen von Objekten. Außer natürlich, was das Erstellen der Berichte selbst betrifft. Außer den Systemadmins können nur Sie die von Ihnen erstellten Berichte sehen, sofern Sie sie nicht freigeben.
