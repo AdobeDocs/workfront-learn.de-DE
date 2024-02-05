@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit automatisierten Workflows
-description: Erfahren Sie, was ein automatisierter Testversand-Workflow ist in [!DNL  Workfront] und wie er sich von einem grundlegenden Workflow unterscheidet.
+description: Erfahren Sie, was ein automatisierter Korrekturabzug-Workflow in [!DNL  Workfront] ist und wie er sich von einem einfachen Workflow unterscheidet.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,19 +8,19 @@ level: Intermediate
 jira: KT-10164
 exl-id: f480db0a-0b78-41d1-bf99-634c6845f277
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erstellen mehrstufiger Testsendungen für Workflows
+# Erstellen mehrstufiger Korrekturabzug-Workflows
 
-Testversand-Workflows können einfach sein, mit nur wenigen Validierungsverantwortlichen und einem einzigen Termin. Oder sie können komplizierter sein, mit mehreren Terminen und Personen, die den Beweis in einer bestimmten Reihenfolge betrachten.
+Korrekturabzug-Workflows können einfach sein, mit nur wenigen prüfenden Personen und einer einzigen Frist. Oder sie können komplizierter sein, mit mehreren Fristen und Personen, die den Korrekturabzug in einer bestimmten Reihenfolge prüfen.
 
-[!DNL Workfront] verfügt über zwei Arten von Testversand-Workflows: grundlegende und automatisierte Workflows, die manchmal als &quot;erweitert&quot;bezeichnet werden.
+[!DNL Workfront] bietet zwei Arten von Korrekturabzug-Workflows – einen einfachen und einen automatisierten, manchmal auch als „erweitert“ bezeichneten.
 
-Ein automatisierter Workflow umfasst mehrere Phasen oder Schritte, die in einer bestimmten Reihenfolge ausgeführt werden müssen. Jede Phase verfügt über einen eigenen Empfängersatz (Prüfer und Genehmiger), der über einen eigenen Termin hinausgeht.
+Ein automatisierter Workflow besteht aus mehreren Phasen oder Schritten, die in einer bestimmten Reihenfolge durchgeführt werden müssen. Für jede Stufe gibt es einen eigenen Empfängerkreis (prüfende und genehmigende Personen) und eine eigene Frist.
 
 <!--
 Note by Chuck Middleton, 6-28-22:
