@@ -1,6 +1,6 @@
 ---
 title: Was ist die Scrum-Methode?
-description: Erfahren Sie mehr über die Vorteile der Verwendung der scrum agile Methodik.
+description: Lernen Sie die Vorteile der agilen Scrum-Methode kennen.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
@@ -10,95 +10,95 @@ hide: true
 hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '774'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Was ist die Scrum-Methode und wie funktioniert sie?
 
-Die Scrum-Methode umfasst das Flexibilitätsmodell, unterscheidet sich jedoch von anderen Methoden insofern, als sie Rollen für die Mitglieder des Teams definiert hat, z. B. Produkteigentümer, Scum Übergeordnet etc. - und definierten Verfahren zur Definition und Fertigstellung der Arbeiten.
+Die Scrum-Methode umfasst das Flexibilitätsmodell, unterscheidet sich aber von anderen Methoden dadurch, dass sie definierte Rollen für die Team-Mitglieder vorsieht – wie Produkteigentümer, Scrum Master usw. -- und definierte Praktiken, um Arbeiten zu definieren und abzuschließen.
 
 ## Übersicht über das Scrum-Team
 
-Wenn Sie entscheiden, ob Sie zu Scrum wechseln möchten, müssen Sie sich die Struktur Ihrer Teams ansehen, um festzustellen, ob sie einfach zur neuen Methodik übertragen werden können. Ein Scrum-Team besteht aus drei Arten von Mitgliedern: Produkteigentümer, Übergeordneter Rumpf und Teammitglieder.
+Wenn Sie entscheiden, ob Sie auf Scrum umsteigen wollen, müssen Sie die Struktur Ihrer Teams prüfen, um zu sehen, ob sie problemlos auf die neue Methode übertragen werden können. Ein Scrum-Team besteht aus drei Arten von Mitgliedern: einem Produkteigentümer, einem Scrum Master und den Team-Mitgliedern.
 
 ![Scrum-Team-Mitglieder](assets/scrumteammembers-01.png)
 
 ### Produkteigentümer
 
-Produkteigentümer besitzen das Produkt und haben die Vision, was das Produkt ist oder sein wird. Sie sind eine Stimme für den Kunden und der Hauptmotor für Geschäftsentscheidungen und die Priorisierung von Produktfunktionen.
+Die Produkteigentümer sind für das Produkt verantwortlich und haben eine Vorstellung dafür, was das Produkt ist oder sein soll. Sie sind ein Sprachrohr für die Kundschaft und die wichtigste Triebkraft für Geschäftsentscheidungen und die Priorisierung von Produkt-Features.
 
 
-### Scrum-Master
+### Scrum Master
 
-Scrum-Master helfen dem Team dabei, die Arbeit zu erledigen, indem sie die benötigten Ressourcen finden und einen Konsens zwischen dem Team herbeiführen, damit es seine Arbeit so effizient wie möglich erledigen kann. Darüber hinaus erleichtern sie die Kommunikation und den Konsens während des gesamten Prozesses.
+Scrum Master helfen dem Team, die Arbeit zu erledigen, indem sie die benötigten Ressourcen finden und einen Konsens im Team schaffen, um die Arbeit so effizient wie möglich zu erledigen. Sie erleichtern auch die Kommunikation und die Absprachen während des gesamten Prozesses.
 
 
 ### Team-Mitglieder
 
-Ein Team ist in der Regel funktionsübergreifend und hat Mitglieder mit vielen verschiedenen Rollen und Fähigkeiten. Sie sind für die Planung, Ausführung und Bereitstellung von Produktinkrementen zuständig. Sie profitieren davon, dass sie sich physisch am selben Ort befinden oder Zugang zu Werkzeugen haben, die eine schnelle und einfache Zusammenarbeit ermöglichen, sowohl untereinander während des Tages als auch in ihren täglichen Team-Bereitschaftssitzungen.
+Ein Team ist in der Regel funktionsübergreifend und hat Mitglieder mit vielen verschiedenen Aufgabengebieten und Fähigkeiten. Sie sind für die Planung, Ausführung und Bereitstellung von Produktinkrementen zuständig. Sie werden davon profitieren, wenn sie sich physisch am selben Ort befinden oder Zugang zu Tools haben, die eine schnelle und einfache Zusammenarbeit ermöglichen, sowohl untereinander als auch bei den täglichen Team-Besprechungen.
 
 
-## Arbeiten als Scrum-Team
+## Zusammenarbeit im Scrum-Team
 
-Nachdem Sie diese wichtigen Player zusammengestellt haben, folgen sie einem neuen Arbeitsablauf, um ihre Arbeit zu erledigen und ein Produkt an den Kunden zu liefern. Auch hier werden sie im Vergleich zur herkömmlichen Methode oder zur Methode der Wasserfälle nicht mehr einen linearen Prozess verfolgen, nämlich einen Plan für ein Endprodukt auszuarbeiten und dann die Schritte oder Phasen zu durchlaufen, die zur Bereitstellung dieses Produkts erforderlich sind. Stattdessen erstellen Scrum-Teams zunächst einen Rückstand.
-
-
-
-### Erstellen eines Rückstands
-
-Das Scrum-Team untersucht eine Liste prioritärer Funktionen und Funktionen, die als Meldungen bezeichnet werden. Sie müssen den Kunden fragen und als Team besprechen, was er von dem System oder Produkt, das er erstellen wird, benötigt/benötigt.
+Sobald Sie diese Hauptakteurinnen und -akteure versammelt haben, werden sie einem neuen Arbeitsstil folgen, um ihre Arbeit zu erledigen und der Kundschaft ein Produkt zu liefern. Auch hier wird im Vergleich zur traditionellen oder Wasserfall-Methode nicht mehr ein linearer Prozess verfolgt, bei dem ein Plan für ein Endprodukt erstellt wird und dann die Schritte oder Phasen durchlaufen werden, die für die Lieferung dieses Produkts erforderlich sind. Stattdessen erstellen Scrum-Teams zunächst einen Rückstand.
 
 
-Sobald sie ihre großen Geschichten erschaffen haben, müssen sie ihren Rückstand aufblähen. Als Team müssen sie vier wichtige Schritte durchlaufen.
+
+### Aufbau eines Rückstands
+
+Das Scrum-Team sieht sich eine Liste vorrangiger Merkmale und gewünschter Features an, die als Storys bezeichnet werden. Sie müssen die Kundschaft fragen und im Team erörtern, was sie von dem System oder Produkt, das sie entwickeln wollen, erwartet und braucht.
 
 
-* Teilen Sie große Geschichten in kleinere Abschnitte auf, indem Sie besprechen, was für jede Geschichte getan werden muss.
+Sobald sie ihre Haupt-Storys erstellt haben, müssen sie ihren Rückstand aufbereiten. Als Team müssen sie vier wichtige Schritte durchlaufen:
 
-* Priorisieren Sie Ihre Geschichten und entscheiden Sie, welche Features zuerst entwickelt werden sollen.
 
-* Klarstellung der Anforderungen und Akzeptanzkriterien für eine Meldung, die als erledigt betrachtet werden soll.
+* Große Storys in kleinere Schritte aufteilen, indem sie besprechen, was zu jeder Story getan werden muss.
 
-* Schätzen Sie den Aufwand, den das Team für die Durchführung der einzelnen Artikel und den Rückstand aufwenden muss. Dies kann in Stunden oder Punkten erfolgen. Mithilfe von Punkten können Sie erzählen, wie schwierig oder komplex die Geschichte ist, anstatt die für jede Komponente der Geschichte erforderliche Zeit zu planen.
+* Prioritäten der Storys setzen und entscheiden, welche Features zuerst entwickelt werden sollen.
+
+* Die Anforderungen und Akzeptanzkriterien festlegen, damit eine Story als erledigt gilt.
+
+* Den Aufwand für das Team für die Fertigstellung jeder Story und des Rückstands abschätzen. Dies kann in Stunden oder in Punkten geschehen. Mithilfe von Punkten lässt sich angeben, wie schwierig oder komplex die Story ist, anstatt die Zeit zu planen, die für jede Komponente der Story benötigt wird.
 
 
 ### Iterationsplanung
 
-Nachdem der Rückstand vergrößert und priorisiert wurde, ist es an der Zeit, die Iteration zu planen. (Viele Organisationen verwenden das Wort &quot;sprint&quot;und &quot;iteration&quot;synonym.) Das Team entscheidet anhand von Geschichten, die als bereit für den Start erachtet werden, welche Geschichten zu Ende geführt werden. Das Team nimmt Zuweisungen vor und entscheidet über die Dauer der Iteration.
+Nachdem der Rückstand erstellt und priorisiert wurde, muss die Iteration geplant werden. (Viele Unternehmen verwenden die Begriffe „Sprint“ und „Iteration“ synonym). Das Team entscheidet anhand der als einsatzbereit angesehenen Storys, welche Storys abgeschlossen werden sollen. Das Team weist Arbeitsaufträge zu und entscheidet über die Dauer der Iteration.
 
 
 
-### Iteration ausführen
+### Ausführen der Iteration
 
-Jetzt ist es an der Zeit, die Iteration auszuführen. Die Teammitglieder beginnen ihre Arbeit wie ein traditionelles Team zu machen, aber sie nehmen jetzt ein schnelles, tägliches Treffen mit dem Namen &quot;Stand-up Meeting&quot; auf.
+Nun ist es an der Zeit, die Iteration auszuführen. Die Team-Mitglieder beginnen mit ihrer Arbeit wie ein herkömmliches Team, führen aber jetzt eine schnelle, tägliche Besprechung durch, das „Standup-Meeting“.
 
-Mitglieder des Teams werden sich buchstäblich für dieses kurze Treffen einsetzen und drei Fragen beantworten:
+Die Team-Mitglieder stehen bei diesem kurzen Treffen buchstäblich auf (Standup) und beantworten drei Fragen:
 
-* Was habe ich gestern gemacht?
-* Was werde ich heute tun?
-* Was sind die Hindernisse, mit denen sie die Fortführung ihrer Aufgaben verhindern?
-
-
-Diese Treffen halten alle auf der gleichen Seite und kommen schnell voran.
+* Was habe ich gestern erledigt?
+* Was werde ich heute erledigen?
+* Auf welche Hindernisse stoße ich bei der Durchführung meiner Arbeitsaufträge?
 
 
+Diese Treffen sorgen dafür, dass alle Beteiligten auf demselben Stand sind und schnell vorankommen.
 
-## Verwenden einer Abbruchgrafik und eines Storyboards zur Verfolgung des Fortschritts
 
-Da ein Team die drei Hauptfragen in seinen Konstanten beantwortet, ist es wichtig, dass es den Fortschritt bei der Iteration überwacht und verfolgt. Auf diese Weise können sie bestimmen, ob sie sich schnell genug durch ihre Geschichten bewegen, um alle Funktionen rechtzeitig am Ende der Iteration bereitzustellen. Es gibt zwei Komponenten, die dies im Scrum-Prozess durchführen.
+
+## Verwendung eines Burndown-Diagramms und eines Storyboards zur Verfolgung des Fortschritts
+
+Bei der Beantwortung der drei Hauptfragen in den Standups ist es wichtig, dass das Team seine Fortschritte auf dem Weg zum Abschluss der Iteration überwacht und verfolgt. Auf diese Weise können sie feststellen, ob sie sich schnell genug durch ihre Storys bewegen, um am Ende der Iteration alle Features pünktlich zu liefern. Im Scrum-Prozess gibt es zwei Komponenten, um dies zu tun.
 
 
 ### Storyboard
 
-Mit einem Storyboard verschieben Teams ihre Meldungen durch Statusspalten, um anzuzeigen, wann die Arbeitselemente neu, In Bearbeitung oder Abgeschlossen sind.
+Mithilfe eines Storyboards bewegen Teams ihre Storys durch Statusspalten, um anzuzeigen, wann Arbeitselemente neu, in Bearbeitung oder abgeschlossen sind.
 
 ![Storyboard](assets/storyboard-01.png)
 
 
 ### Burndown-Chart
 
-Eine Abbruchgrafik kann verwendet werden, um zu überwachen, ob das Team Geschichten schnell genug oder schnell abschließt. Abblenddiagramme können für einzelne Iterationen oder die gesamte Produktversion verwendet werden.
+Mithilfe eines Burndown-Charts kann überwacht werden, ob das Team die Storys mit ausreichender Geschwindigkeit fertigstellt. Burndown-Charts können für einzelne Iterationen oder die gesamte Produktversion verwendet werden.
 
 ![Burndown-Chart](assets/burndown-01.png)
