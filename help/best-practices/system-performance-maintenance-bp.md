@@ -1,31 +1,31 @@
 ---
-title: Best Practice - Systemleistung und -wartung
-description: Erfahren Sie Best Practices-Empfehlungen von Adobe Workfront-Experten zur Systemleistung und -wartung von Workfront.
+title: Best Practice – Systemleistung und -wartung
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices zur Systemleistung und -wartung von Workfront empfehlen.
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10927
 exl-id: c3f32975-96f4-4e62-8c3a-5b985b45bbbf
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '635'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Systemleistung und -wartung
+# Best Practice – Systemleistung und -wartung
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
@@ -36,26 +36,26 @@ Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der a
 
 * Erstellen Sie verschiedene Arten von Ausnahmeberichten, die fehlende oder falsche Daten und Einstellungen hervorheben.
 
-* Erstellen Sie einen Benutzerdeaktivierungsprozess, der eine Überprüfung der Objekte umfasst, die ihnen gehören oder ihnen zugewiesen sind, damit Benutzer, die nicht mehr Teil des Unternehmens sind, nicht im System aktiv bleiben und Verwirrung für andere Benutzer entsteht.
+* Erstellen Sie einen Benutzerdeaktivierungsprozess, der eine Überprüfung der Objekte umfasst, die ihnen gehören oder ihnen zugewiesen sind, damit Benutzende, die nicht mehr Teil des Unternehmens sind, nicht im System aktiv bleiben und keine Verwirrung für andere Benutzende entsteht.
 
-* Halten Sie Workflow-Konfigurationen so einfach wie möglich, um sicherzustellen, dass sie skalierbar sind und bei Abwesenheit beibehalten werden können.
+* Halten Sie Workflow-Konfigurationen so einfach wie möglich, um sicherzustellen, dass sie skalierbar sind und auch in Ihrer Abwesenheit gepflegt werden können.
 
 * Verwenden Sie Filter für Berichte und Objektlisten, um die Anzahl der gleichzeitig angezeigten Zeilen zu verringern und das Team auf wichtige Informationen zu konzentrieren.
 
 * Löschen Sie regelmäßig Ihren Browsercache und Ihre Cookies, um die Leistung in Workfront zu verbessern.
 
-* Beginnen Sie mit der Systembereinigung in wichtigen Adobe Workfront-Bereichen, die meist übersichtlicher sind, wie z. B. benutzerdefinierte Formulare, Vorlagen, Projekte und Benutzer.
+* Beginnen Sie mit der Systembereinigung in wichtigen Adobe Workfront-Bereichen, die meistens am unübersichtlichsten sind, wie z. B. benutzerdefinierte Formulare, Vorlagen, Projekte und Benutzende.
 
-* Erfahren Sie, auf welchem Cluster sich Ihre Workfront-Instanz befindet, damit Sie Updates überwachen können, Wartungsfenster beachten können usw.
+* Sie sollten wissen, auf welchem Cluster sich Ihre Workfront-Instanz befindet, damit Sie Aktualisierungen überwachen können, Wartungsfenster beachten können usw.
 
 * Halten Sie Projekte kurz.
 
-* Behalten Sie nach Möglichkeit Berichte mit &quot;leichten&quot;Filtern bei, die nur sehr wenige und unkomplizierte Filter enthalten, um die Leistung zu verbessern.
+* Halten Sie Berichte nach Möglichkeit „leicht“, indem Sie nur sehr wenige und unkomplizierte Filter verwenden, um die Leistung zu verbessern.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Warum sind das Best Practices?
 
 **Best Practice**
 
@@ -63,9 +63,9 @@ Lesen Sie die Produktversionshinweise vor dem Veröffentlichungsdatum.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-In den Versionshinweisen erfahren Sie, welche neuen Funktionen und Tools auf das Workfront-System zukommen. Indem Sie diese Hinweise überprüfen und mit der neuen Funktion in der Sandbox-Vorschau-Umgebung umgehen, können Sie alle Fehler mit neuen Verbesserungen kennenlernen, üben und beheben, bevor sie zur Produktion freigegeben werden.
+In den Versionshinweisen erfahren Sie, welche neuen Funktionen und Tools in das Workfront-System aufgenommen wurden. Indem Sie diese Hinweise lesen und die neuen Funktionen in der Sandbox-Vorschau-Umgebung ausprobieren, können Sie Informationen zu neuen Verbesserungen erfahren, sie ausprobieren und Fehler beheben, bevor die Verbesserungen für die Produktion freigegeben werden.
 
 </br>
 </br>
@@ -76,17 +76,17 @@ Erstellen Sie verschiedene Arten von Ausnahmeberichten, die fehlende oder falsch
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Diese Berichte enthalten Berichte, aus denen hervorgeht, welche Benutzer deaktiviert werden sollen, welche Projekte einen Fertigstellungsprozentsatz von 100 % aufweisen, aber nicht als vollständig gekennzeichnet sind, welche Vorlagen noch nie verwendet wurden usw.
-
-
-
-Fügen Sie diese und andere Berichte in ein Dashboard ein und gewähren Sie anderen System- und Gruppenadministratoren Zugriff auf dieses Dashboard, um ein sauberes System zeitnah zu gewährleisten. Beispielsweise enthalten das Workfront-Bereinigungs-Dashboard und das Workfront-Nutzungs-Dashboard Berichtsbeispiele, die Sie erstellen können.
+Diese Berichte enthalten Berichte, aus denen hervorgeht, welche Benutzenden deaktiviert werden sollen, welche Projekte einen Fertigstellungsprozentsatz von 100 % aufweisen, aber nicht als abgeschlossen gekennzeichnet sind, welche Vorlagen noch nie verwendet wurden usw.
 
 
 
-Damit Sie diese Berichte nicht vergessen, sollten Sie mindestens einmal pro Quartal ein Projekt mit vierteljährlichen Aufgaben erstellen und sie selbst sowie System- und Gruppenadministratoren zuweisen. Stellen Sie sicher, dass diesen Aufgaben geplante Stunden zugeordnet sind, damit die Bevollmächtigten dieser Arbeitselemente ihre Zeit ordnungsgemäß zuweisen können.
+Stellen Sie diese und andere Berichte in einem Dashboard zusammen und geben Sie anderen System- und Gruppenadmins Zugang zu diesem Dashboard, um auf zeiteffiziente Weise ein sauberes System zu führen. Beispielsweise enthalten das Workfront-Bereinigungs-Dashboard und das Workfront-Nutzungs-Dashboard Beispiele für Berichte, die Sie erstellen können.
+
+
+
+Damit Sie nicht vergessen, diese Berichte mindestens vierteljährlich zu überprüfen, erstellen Sie ein Projekt mit vierteljährlichen Aufgaben und weisen Sie diese sich selbst sowie den System- und Gruppenadmins zu. Stellen Sie sicher, dass diesen Aufgaben geplante Stunden zugeordnet sind, damit die diesen Arbeitselementen zugewiesenen Personen ihre Zeit ordnungsgemäß einteilen können.
 
 </br>
 </br>
@@ -97,6 +97,6 @@ Halten Sie Projekte kurz.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Jedes Mal, wenn Sie ein Projekt oder eine Aufgabe innerhalb des Projekts speichern, wird eine Timeline-Berechnung ausgeführt, um alle Abhängigkeiten zu aktualisieren. Je nach der Anzahl der Aufgaben in Ihrem Projekt kann die Neuberechnung lange dauern.
+Jedes Mal, wenn Sie ein Projekt oder eine Aufgabe innerhalb des Projekts speichern, wird eine Zeitleistenberechnung durchgeführt, um alle Abhängigkeiten zu aktualisieren. Je nach der Anzahl der Aufgaben in Ihrem Projekt kann die Ausführung der Neuberechnung lange dauern.
