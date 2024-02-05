@@ -1,6 +1,6 @@
 ---
-title: Aktualisieren und Kopieren von Plänen in [!DNL Scenario Planner]
-description: Erfahren Sie im Abschnitt [!DNL  Workfront] [!DNL Scenario Planner].
+title: Aktualisieren und Kopieren von Plänen im  [!DNL Scenario Planner]
+description: Erfahren Sie, wie Sie einen Plan im [!DNL  Workfront] [!DNL Scenario Planner] aktualisieren oder kopieren können.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,17 +12,17 @@ jira: KT-9079
 exl-id: c3a42469-6b0e-4b46-9713-eb15ecdf3055
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Pläne aktualisieren und kopieren
+# Aktualisieren und Kopieren von Plänen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Aktualisieren eines Plans in [!DNL Scenario Planner]
-* Kopieren Sie die Pläne in [!DNL Scenario Planner]
+* Aktualisieren eines Plans im [!DNL Scenario Planner]
+* Kopieren von Plänen im [!DNL Scenario Planner]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on)
