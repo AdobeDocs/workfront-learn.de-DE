@@ -1,164 +1,164 @@
 ---
-title: Best Practice - Benutzerdefinierte Formulare
-description: Erfahren Sie mehr über Best Practices-Empfehlungen von Adobe Workfront-Experten zum Einrichten und Verwalten von benutzerdefinierten Workfront-Formularen.
+title: Best Practice – Benutzerdefinierte Formulare
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten und Verwalten benutzerdefinierter Workfront-Formulare empfehlen.
 feature: Digital Content and Documents
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10907
 exl-id: 0c0fca34-2be0-4208-95d0-241d2e032ce7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2202'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Benutzerdefinierte Formulare
+# Best Practice – Benutzerdefinierte Formulare
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Best Practices für benutzerdefinierte Formulare
+## Benutzerdefinierte Formulare – Best Practices
 
 * Erstellen Sie ein benutzerdefiniertes Formular auf einem Whiteboard oder einem Blatt Papier, bevor Sie es in Adobe Workfront erstellen.
 
-* Fügen Sie benutzerdefinierte Formulare an eine Projektvorlage an, wenn die mit dieser Vorlage erstellten Projekte immer bestimmte benutzerdefinierte Formulare angehängt werden müssen. Sie können sogar Felder ausfüllen, die sich selten ändern oder die spezifische Informationen erfordern.
+* Fügen Sie zu einer Projektvorlage benutzerdefinierte Formulare hinzu, wenn die mit dieser Vorlage erstellten Projekte immer bestimmte benutzerdefinierte Formulare als Anhang benötigen. Sie können sogar Felder vorab ausfüllen, die sich selten ändern oder spezifische Informationen erfordern.
 
-* Erstellen Sie ein benutzerdefiniertes Formular, um Informationen über externe Kunden oder Anbieter zu verfolgen, die Sie Ihrem Workfront-System als Unternehmen hinzugefügt haben.
+* Erstellen Sie ein benutzerdefiniertes Formular, um Informationen über externe Kunden oder Anbieter zu verfolgen, die Sie zu Ihrem Workfront-System als Firma hinzugefügt haben.
 
-* Erstellen Sie ein einzelnes benutzerdefiniertes &quot;allgemeines&quot;oder &quot;universelles&quot;Formular, das gemeinsame Felder und berechnete Felder enthält, anstatt die einzelnen Felder auf mehrere Formulare zu übertragen. Auf diese Weise können Sie unternehmensweite Informationen konsistent erfassen.
+* Erstellen Sie ein einziges „allgemeines“ oder „universelles“ benutzerdefiniertes Formular mit allgemeinen und berechneten Feldern, anstatt die einzelnen Felder auf mehrere Formulare aufzuteilen. Auf diese Weise können Sie unternehmensweite Informationen konsistent erfassen.
 
-* Fügen Sie einem benutzerdefinierten Formular Abschnittspausen hinzu, um es organisiert und leicht verständlich zu machen.
+* Fügen Sie zu einem benutzerdefinierten Formular Abschnittsumbrüche hinzu, um es übersichtlich und leicht verständlich zu halten.
 
-* Halten Sie benutzerdefinierte Formulare kürzer, um sicherzustellen, dass das Formular vollständig ausgefüllt ist und Sie alle benötigten Informationen erhalten.
+* Halten Sie benutzerdefinierte Formulare kürzer, um sicherzustellen, dass sie vollständig ausgefüllt werden und Sie alle benötigten Informationen erhalten.
 
-* Verwenden Sie vordefinierte benutzerdefinierte Feldoptionen wie Radiobuttons und Dropdown-Menüs, um die Antwortoptionen einzuschränken, indem Sie die Benutzer dazu verpflichten, aus bestimmten Optionen auszuwählen.
+* Verwenden Sie vordefinierte benutzerdefinierte Feldoptionen wie Optionsschaltflächen und Dropdown-Menüs, um die Antwortoptionen einzuschränken, indem Sie die Benutzenden dazu verpflichten, aus bestimmten Optionen auszuwählen.
 
-* Stellen Sie sicher, dass Feldbeschriftungen klar formuliert und beschreibend sind.
+* Stellen Sie sicher, dass Feldbeschriftungen klar formuliert und aussagekräftig sind.
 
-* Fügen Sie im Feld Anweisungen Informationen zu benutzerdefinierten Feldern hinzu, um anzugeben, welche Informationen die Person, die das Feld ausfüllt, eingeben muss.
+* Fügen Sie im Feld „Anweisungen“ Informationen zu benutzerdefinierten Feldern hinzu, um anzugeben, welche Informationen eingegeben werden sollen.
 
-* Verwenden Sie die Anzeigereihenfolge, um die erforderlichen Felder anzuzeigen, wenn ein anderes Feld auf bestimmte Weise ausgefüllt wird. Verwenden Sie die Logik &quot;Überspringen&quot;in benutzerdefinierten Formularen, um Felder auszublenden, die nicht mit dem Anforderungstyp in Verbindung stehen.
+* Verwenden Sie die Anzeigelogik, um benötigte Felder nur dann anzuzeigen, wenn ein anderes Feld auf eine bestimmte Weise ausgefüllt wird. Verwenden Sie die Logik „Überspringen“ in benutzerdefinierten Formularen, um Felder auszublenden, die nicht mit dem Anforderungstyp in Verbindung stehen.
 
-* Reduzieren Sie die Anzahl der für ein benutzerdefiniertes Formular erforderlichen Berechnungen, indem Sie die berechneten Informationen aus einem anderen Formular abrufen.
+* Reduzieren Sie die Anzahl der für ein benutzerdefiniertes Formular erforderlichen Berechnungen, indem Sie die berechneten Informationen aus einem anderen Formular übernehmen.
 
 * Überprüfen Sie die Feldbibliothek, bevor Sie neue Felder für ein benutzerdefiniertes Formular erstellen, um festzustellen, ob das Feld bereits vorhanden ist.
 
-* Verwenden Sie die erforderlichen Felder, um sicherzustellen, dass für Ihren Prozess oder Ihre Organisation wichtige Informationen erfasst werden.
+* Verwenden Sie Pflichtfelder, um sicherzustellen, dass für Ihren Prozess oder Ihr Unternehmen wichtige Informationen erfasst werden.
 
 * Gehen Sie beim Ändern der Feldnamen in einem benutzerdefinierten Formular vorsichtig vor, da dies berechnete Felder betreffen kann, die dieses Feld aufrufen.
 
-* Prüfen Sie benutzerdefinierte Formulare und Felder regelmäßig - z. B. einmal pro Quartal - im Rahmen Ihrer regulären Workfront-Systemwartung.
+* Prüfen Sie benutzerdefinierte Formulare und Felder regelmäßig, z. B. einmal pro Quartal, im Rahmen Ihrer regulären Workfront-Systemwartung.
 
 * Deaktivieren Sie nicht benötigte benutzerdefinierte Formulare, anstatt sie zu löschen.
 
-* Ausblenden benutzerdefinierter Felder, die nicht mehr in einem benutzerdefinierten Formular unter einem Abschnittsumbruch benötigt werden. Machen Sie dann diesen Abschnitt nur für Systemadministratoren sichtbar.
+* Blenden Sie benutzerdefinierte Felder, die in einem benutzerdefinierten Formular nicht mehr benötigt werden, unter einem Abschnittsumbruch aus. Machen Sie dann diesen Abschnitt nur für Systemadmins sichtbar.
 
-* Beschränken Sie, wer benutzerdefinierte Formulare in Ihrer Workfront-Instanz erstellen kann.
+* Legen Sie fest, wer benutzerdefinierte Formulare in Ihrer Workfront-Instanz erstellen kann.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Warum sind das Best Practices?
 
 **Best Practice**
 
 Erstellen Sie ein benutzerdefiniertes Formular auf einem Whiteboard oder einem Blatt Papier, bevor Sie es in Adobe Workfront erstellen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Vergewissern Sie sich, dass Sie über Felder für alle erforderlichen Informationen verfügen und dass die Felder so organisiert sind, dass das Ausfüllen des Formulars für die Benutzer leicht ist. Durch die Diagrammerstellung des Formulars können Sie auch mithilfe der Anzeigelogik feststellen, ob einige Felder ausgeblendet/angezeigt werden können.
-
-</br>
-</br>
-
-**Best Practice**
-
-Fügen Sie benutzerdefinierte Formulare an eine Projektvorlage an, wenn die mit dieser Vorlage erstellten Projekte immer bestimmte benutzerdefinierte Formulare angehängt werden müssen. Sie können sogar Felder ausfüllen, die sich selten ändern oder die spezifische Informationen erfordern.
-
-**Deshalb**
-
-Auf diese Weise ist das Formular bereits angehängt und einige der Informationen sind bereits ausgefüllt. Dies beschleunigt die Projekterstellung und stellt sicher, dass diese benutzerdefinierten Felder in allen relevanten Projekten korrekt und vollständig ausgefüllt werden.
+Vergewissern Sie sich, dass Sie Felder für alle erforderlichen Informationen haben und dass diese so angeordnet sind, dass die Benutzenden das Formular problemlos ausfüllen können. Ein Diagramm des Formulars kann Ihnen auch dabei helfen, festzustellen, ob einige Felder mithilfe der Anzeigelogik ein- oder ausgeblendet werden können.
 
 </br>
 </br>
 
 **Best Practice**
 
-Erstellen Sie ein benutzerdefiniertes Formular, um Informationen über externe Kunden oder Anbieter zu verfolgen, die Sie Ihrem Workfront-System als Unternehmen hinzugefügt haben.
+Fügen Sie zu einer Projektvorlage benutzerdefinierte Formulare hinzu, wenn die mit dieser Vorlage erstellten Projekte immer bestimmte benutzerdefinierte Formulare als Anhang benötigen. Sie können sogar Felder vorab ausfüllen, die sich selten ändern oder spezifische Informationen erfordern.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Verwenden Sie das benutzerdefinierte Formular, um die Adresse, den Namen des Hauptkontakts usw. zu verfolgen, damit Sie in Workfront problemlos darauf zugreifen können. Sie können diese benutzerdefinierten Formulardaten auch in Berichte ziehen.
-
-</br>
-</br>
-
-**Best Practice**
-
-Erstellen Sie ein einzelnes benutzerdefiniertes &quot;allgemeines&quot;oder &quot;universelles&quot;Formular, das gemeinsame Felder und berechnete Felder enthält, anstatt die einzelnen Felder auf mehrere Formulare zu übertragen. Auf diese Weise können Sie unternehmensweite Informationen konsistent erfassen.
-
-**Deshalb**
-
-Ein &quot;allgemeines&quot;Formular erleichtert die Pflege dieser Felder, da sie alle an einem Ort leben. Sie können ein einzelnes Formular aktualisieren, anstatt dass diese einzelnen Felder in verschiedenen Formularen vorliegen, die Sie dann einzeln aktualisieren müssen.
+Auf diese Weise ist das Formular bereits angehängt und einige der Informationen bereits eingegeben. Dies beschleunigt die Projekterstellung und stellt sicher, dass diese benutzerdefinierten Felder in allen relevanten Projekten korrekt und vollständig ausgefüllt sind.
 
 </br>
 </br>
 
 **Best Practice**
 
-Fügen Sie einem benutzerdefinierten Formular Abschnittspausen hinzu, um es organisiert und leicht verständlich zu machen.
+Erstellen Sie ein benutzerdefiniertes Formular, um Informationen über externe Kunden oder Anbieter zu verfolgen, die Sie zu Ihrem Workfront-System als Firma hinzugefügt haben.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Durch die Gruppierung verwandter Informationen in Abschnitte können Benutzer durch das Formular navigieren.
-
-</br>
-</br>
-
-**Best Practice**
-
-Halten Sie benutzerdefinierte Formulare kürzer, um sicherzustellen, dass das Formular vollständig ausgefüllt ist und Sie alle benötigten Informationen erhalten.
-
-**Deshalb**
-
-Lange Formulare können Benutzer einschüchtern und oft dazu führen, dass das Formular nicht vollständig ausgefüllt wird. Dies führt wiederum zu unvollständigen Zuweisungsinformationen und ungenauen Daten für die Berichterstellung.
-
-Wenn ein benutzerdefiniertes Formular über viele Felder verfügt, platzieren Sie zugehörige Felder nach Möglichkeit nebeneinander, sodass der Benutzer weniger scrollt. Sie können auch die Logik &quot;Überspringen&quot;verwenden, um Felder auszublenden, die nicht ausgefüllt werden müssen, oder um eine Logik zum Anzeigen bestimmter Felder anzuzeigen.
+Verwenden Sie das benutzerdefinierte Formular, um die Adresse und den Namen des Hauptansprechpartners usw. zu erfassen, sodass diese Daten innerhalb von Workfront leicht zugänglich sind. Sie können diese benutzerdefinierten Formularinformationen auch in Berichten abrufen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Verwenden Sie vordefinierte benutzerdefinierte Feldoptionen wie Radiobuttons und Dropdown-Menüs, um die Antwortoptionen einzuschränken, indem Sie die Benutzer dazu verpflichten, aus bestimmten Optionen auszuwählen.
+Erstellen Sie ein einziges „allgemeines“ oder „universelles“ benutzerdefiniertes Formular mit allgemeinen und berechneten Feldern, anstatt die einzelnen Felder auf mehrere Formulare aufzuteilen. Auf diese Weise können Sie unternehmensweite Informationen konsistent erfassen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Mit einem vordefinierten Feld können Benutzer einfach auf ein Feld klicken oder aus einem Menü auswählen, um sicherzustellen, dass alle Antworten auf diese Frage identisch sind.
-
-Konsistente und genaue Daten sind für eine genaue Berichterstellung von entscheidender Bedeutung. Inkonsistente Daten führen zu ungenauen Berichten, die sich auf Entscheidungen der einzelnen Ebene auswirken können. Darüber hinaus können Sie mit diesen konsistenten Daten Diagramme zu Berichten hinzufügen, um Ihre Daten visuell darzustellen. Offene Textfelder können nicht in Diagrammen verwendet werden.
+Ein „allgemeines“ Formular macht die Pflege dieser Felder einfacher, da sie alle an einem Ort untergebracht sind. Sie können ein einzelnes Formular aktualisieren, anstatt dass diese einzelnen Felder in verschiedenen Formularen vorliegen, die Sie dann einzeln aktualisieren müssen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Stellen Sie sicher, dass Feldbeschriftungen klar formuliert und beschreibend sind.
+Fügen Sie zu einem benutzerdefinierten Formular Abschnittsumbrüche hinzu, um es übersichtlich und leicht verständlich zu halten.
 
-**Deshalb**
+**Das sind die Gründe**
+
+Durch die Gruppierung verwandter Informationen in Abschnitte können Benutzende besser durch das Formular navigieren.
+
+</br>
+</br>
+
+**Best Practice**
+
+Halten Sie benutzerdefinierte Formulare kürzer, um sicherzustellen, dass sie vollständig ausgefüllt werden und Sie alle benötigten Informationen erhalten.
+
+**Das sind die Gründe**
+
+Lange Formulare können für Benutzende einschüchternd sein und führen oft dazu, dass das Formular nicht vollständig ausgefüllt wird. Dies führt wiederum zu unvollständigen Zuweisungsinformationen und ungenauen Daten für die Berichterstellung.
+
+Wenn ein benutzerdefiniertes Formular viele Felder enthält, sollten Sie zusammengehörige Felder nach Möglichkeit nebeneinander platzieren, damit Benutzende weniger scrollen müssen. Sie können auch die „Überspringen“-Logik verwenden, um Felder auszublenden, die nicht ausgefüllt werden müssen, oder eine Anzeigelogik zum Anzeigen bestimmter Felder.
+
+</br>
+</br>
+
+**Best Practice**
+
+Verwenden Sie vordefinierte benutzerdefinierte Feldoptionen wie Optionsschaltflächen und Dropdown-Menüs, um die Antwortoptionen einzuschränken, indem Sie die Benutzenden dazu verpflichten, aus bestimmten Optionen auszuwählen.
+
+**Das sind die Gründe**
+
+Mit einem vordefinierten Feld können Benutzende einfach auf ein Feld klicken oder aus einem Menü auswählen, wodurch sichergestellt wird, dass alle Antworten auf diese Frage jeweils identisch sind.
+
+Konsistente, genaue Daten sind für eine genaue Berichterstellung unerlässlich. Inkonsistente Daten führen zu ungenauen Berichten, die sich auf Entscheidungen von der individuellen Ebene aufwärts auswirken können. Darüber hinaus können Sie mit diesen konsistenten Daten Diagramme zu Berichten hinzufügen, um Ihre Daten visuell darzustellen. Offene Textfelder können nicht in Diagrammen verwendet werden.
+
+</br>
+</br>
+
+**Best Practice**
+
+Stellen Sie sicher, dass Feldbeschriftungen klar formuliert und aussagekräftig sind.
+
+**Das sind die Gründe**
 
 Auf diese Weise versteht die Person, die das benutzerdefinierte Formular ausfüllt, welche Informationen angefordert werden.
 
@@ -167,63 +167,63 @@ Auf diese Weise versteht die Person, die das benutzerdefinierte Formular ausfül
 
 **Best Practice**
 
-Fügen Sie im Feld Anweisungen Informationen zu benutzerdefinierten Feldern hinzu, um anzugeben, welche Informationen die Person, die das Feld ausfüllt, eingeben muss.
+Fügen Sie im Feld „Anweisungen“ Informationen zu benutzerdefinierten Feldern hinzu, um anzugeben, welche Informationen eingegeben werden sollen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Diese Informationen werden als Popup angezeigt, wenn Sie den Mauszeiger über das ? Symbol neben einem Feld in einem benutzerdefinierten Formular. Geben Sie an, welche Daten in das Feld eingegeben werden sollen, einschließlich der erforderlichen Formatierung für Textfelder.
+Diese Informationen werden in einem Popup-Fenster angezeigt, wenn Sie den Mauszeiger über das Symbol „?“ bewegen. Symbol neben einem Feld in einem benutzerdefinierten Formular. Geben Sie an, welche Daten in das Feld eingegeben werden sollen, einschließlich der erforderlichen Formatierung für Textfelder.
 
-Durch detailliertere Informationen können Sie zusätzliche Konversationen, Vor- und Zurück-E-Mails oder Verwirrung verringern. Wenn die Informationen unvollständig sind oder fehlen, kann dies die Durchführung der Arbeit verzögern.
-
-</br>
-</br>
-
-**Best Practice**
-
-Verwenden Sie die Anzeigereihenfolge, um die erforderlichen Felder anzuzeigen, wenn ein anderes Feld auf bestimmte Weise ausgefüllt wird. Verwenden Sie die Logik &quot;Überspringen&quot;in benutzerdefinierten Formularen, um Felder auszublenden, die nicht mit dem Anforderungstyp in Verbindung stehen.
-
-**Deshalb**
-
-Das Anzeigen nur der erforderlichen Felder oder das Ausblenden der nicht erforderlichen Felder führt zu einem saubereren benutzerdefinierten Formular und weniger Verwirrung für Benutzer beim Ausfüllen benutzerdefinierter Formulare. Dies trägt auch zu einer insgesamt kürzeren Form bei, die weniger einschüchternd für Benutzer ist und eine höhere Antwortrate fördert.
-
-Die Verwendung der Anzeigelogik kann Ihnen auch dabei helfen, die Anzahl der benutzerdefinierten Formulare zu reduzieren, die Sie erstellen und verwalten müssen.
+Indem Sie den Benutzenden mehr Details zur Verfügung stellen, vermeiden Sie zusätzliche Gespräche, das Hin- und Herschicken von E-Mails und Verwirrung. Wenn Informationen unvollständig sind oder fehlen, kann dies die Durchführung der Arbeit verzögern.
 
 </br>
 </br>
 
 **Best Practice**
 
-Reduzieren Sie die Anzahl der für ein benutzerdefiniertes Formular erforderlichen Berechnungen, indem Sie die berechneten Informationen aus einem anderen Formular abrufen.
+Verwenden Sie die Anzeigelogik, um benötigte Felder nur dann anzuzeigen, wenn ein anderes Feld auf eine bestimmte Weise ausgefüllt wird. Verwenden Sie die Logik „Überspringen“ in benutzerdefinierten Formularen, um Felder auszublenden, die nicht mit dem Anforderungstyp in Verbindung stehen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Sie verfügen beispielsweise über ein berechnetes Feld namens &quot;Anzahl Assets&quot;in einem Problemformular, das die Anzahl der mit dem Element verknüpften Assets berechnet. Dies wird in einer Anforderungswarteschlange verwendet. Sie benötigen diese Informationen, um beim Konvertieren der Anforderung in das Projekt übernommen zu werden. Erstellen Sie eine Kopie des Problemformulars und speichern Sie es als Projektformular. Fügen Sie dann den Namen des berechneten Problemfelds zum Berechnungsfeld des Projektformulars hinzu. Geben Sie in diesem Beispiel im berechneten Feld des Projektformulars &quot;Anzahl Assets&quot;buchstäblich &quot;Anzahl Assets&quot;ein. Dies verhindert, dass Workfront versucht, diese Berechnung für das Projekt erneut auszuführen, und verwendet stattdessen den Wert aus dem benutzerdefinierten Formular für das Problem.
+Wenn nur die benötigten Felder angezeigt oder nicht benötigte Felder ausgeblendet werden, entsteht ein übersichtlicheres benutzerdefiniertes Formular und weniger Verwirrung für die Benutzenden beim Ausfüllen benutzerdefinierter Formulare. Dies trägt auch zu einem insgesamt kürzeren Formular bei, das weniger einschüchternd für Benutzende ist und eine höhere Antwortrate fördert.
 
-</br>
-</br>
-
-**Best Practice**
-
-Verwenden Sie vorhandene Felder aus der Feldbibliothek, die ggf. demselben Zweck dienen.
-
-**Deshalb**
-
-Zwei Felder in Workfront dürfen nicht denselben Namen haben. Wenn das Feld einen gemeinsamen Namen hat, besteht die Möglichkeit, dass das Feld bereits vorhanden ist. Überprüfen Sie die Feldbibliothek, bevor Sie neue Felder erstellen, um festzustellen, ob das Feld bereits vorhanden ist.
-
-Beachten Sie bei der Verwendung von Feldern, die Sie nicht erstellt haben, dass Änderungen an diesem Feld sich auf ALLE benutzerdefinierten Formulare auswirken, in denen das Feld Teil ist. Wenn Sie eine Berechnung ändern oder den Feldtyp ändern müssen (z. B. Text in Optionsfelder), müssen Sie ein neues Feld erstellen und ihm einen anderen Namen als dem Original geben. (Beachten Sie, dass mehrere Felder mit ähnlichen Namen für Benutzer verwirrend sein können.)
+Die Verwendung der Anzeigelogik kann Ihnen auch dabei helfen, die Anzahl der benutzerdefinierten Formulare zu reduzieren, die Sie erstellen und pflegen müssen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Verwenden Sie die erforderlichen Felder, um sicherzustellen, dass für Ihren Prozess oder Ihre Organisation wichtige Informationen erfasst werden.
+Reduzieren Sie die Anzahl der für ein benutzerdefiniertes Formular erforderlichen Berechnungen, indem Sie die berechneten Informationen aus einem anderen Formular übernehmen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Unvollständige Daten in einem benutzerdefinierten Formular können die Arbeit verzögern und sich auf die Berichterstellung auswirken. Die erforderliche Feldanzeige (ein rotes * neben dem Feldnamen) erinnert Benutzer daran, dass bestimmte Informationen erforderlich sind, bevor sie das benutzerdefinierte Formular bearbeiten und speichern oder eine Anforderung offiziell senden.
+Sie haben z. B. ein berechnetes Feld mit der Bezeichnung „Anzahl der Assets“ in einem Problemformular, das die Anzahl der Probleme berechnet, die dem Element zugeordnet sind. Dies wird bei einer Anfrage-Warteschlange verwendet. Diese Informationen müssen in das Projekt übernommen werden, wenn die Anfrage konvertiert wird. Erstellen Sie eine Kopie des Problemformulars und speichern Sie es als Projektformular. Fügen Sie dann den Namen des berechneten Feldes für das Problem in das Berechnungsfeld des Projektformulars ein. In diesem Beispiel geben Sie in das berechnete Feld des Projektformulars mit der Bezeichnung „Anzahl der Assets“ wörtlich „Anzahl der Assets“ ein. Dies verhindert, dass Workfront versucht, diese Berechnung für das Projekt erneut auszuführen, sondern stattdessen wird der Wert aus dem benutzerdefinierten Formular für das Problem verwendet.
 
-Die erforderlichen Felder sollten jedoch sparsam und sorgfältig verwendet werden. Jedes erforderliche Feld kann Benutzer davon abhalten, die Felder mit nützlichen und vollständigen Informationen auszufüllen. Auch beim Bearbeiten eines benutzerdefinierten Formulars im Bereich &quot;Details&quot;eines Objekts verhindert ein unvollständiges erforderliches Feld, dass ein benutzerdefiniertes Formular gespeichert wird.
+</br>
+</br>
+
+**Best Practice**
+
+Verwenden Sie ggf. vorhandene Felder aus der Feldbibliothek, die demselben Zweck dienen.
+
+**Dies sind die Gründe**
+
+Zwei Felder in Workfront können nicht denselben Namen haben. Wenn das Feld einen gängigen Namen hat, besteht die Möglichkeit, dass das Feld bereits existiert. Überprüfen Sie die Feldbibliothek, bevor Sie neue Felder erstellen, um festzustellen, ob das Feld bereits vorhanden ist.
+
+Wenn Sie Felder verwenden, die Sie nicht selbst erstellt haben, denken Sie daran, dass sich Änderungen an diesem Feld auf ALLE benutzerdefinierten Formulare auswirken, zu denen das Feld gehört. Wenn Sie eine Formel oder den Feldtyp ändern müssen (z. B. Text- in Optionsfelder), müssen Sie ein neues Feld erstellen und ihm einen anderen Namen geben. (Beachten Sie, dass mehrere Felder mit ähnlichen Namen für Benutzende verwirrend sein können.)
+
+</br>
+</br>
+
+**Best Practice**
+
+Verwenden Sie Pflichtfelder, um sicherzustellen, dass für Ihren Prozess oder Ihr Unternehmen wichtige Informationen erfasst werden.
+
+**Dies sind die Gründe**
+
+Unvollständige Daten in einem benutzerdefinierten Formular können die Arbeit verzögern und die Berichterstellung beeinträchtigen. Der erforderliche Feldindikator (ein rotes * neben dem Feldnamen) erinnert Benutzende daran, dass bestimmte Informationen erforderlich sind, bevor sie das benutzerdefinierte Formular bearbeiten und speichern oder eine Anfrage offiziell senden können.
+
+Pflichtfelder sollten jedoch sparsam und sorgfältig verwendet werden. Wenn jedes Feld obligatorisch ist, kann dies die Benutzenden davon abhalten, sie mit nützlichen und vollständigen Informationen auszufüllen. Bei der Bearbeitung eines benutzerdefinierten Formulars verhindert ein unvollständig ausgefülltes Pflichtfeld im Bereich „Details“ des Objekts, dass das benutzerdefinierte Formular gespeichert werden kann.
 
 </br>
 </br>
@@ -232,26 +232,26 @@ Die erforderlichen Felder sollten jedoch sparsam und sorgfältig verwendet werde
 
 Gehen Sie beim Ändern der Feldnamen in einem benutzerdefinierten Formular vorsichtig vor, da dies berechnete Felder betreffen kann, die dieses Feld aufrufen.
 
-**Deshalb**
+**Dies sind die Gründe**
 
-Wenn Sie den Namen eines Felds ändern, muss der Name aktualisiert werden, indem er entweder in einem berechneten benutzerdefinierten Feld in einem benutzerdefinierten Formular oder in einer im Textmodus integrierten Berechnung verwendet wird. Das Ändern eines Feldnamens kann Berechnungen beschädigen und zu ungenauen Informationen führen.
+Wenn Sie den Namen eines Feldes ändern, muss er dort aktualisiert werden, wo er entweder in einem berechneten benutzerdefinierten Feld in einem benutzerdefinierten Formular oder in einer in den Textmodus integrierten Formel verwendet wird. Das Ändern eines Feldnamens kann Berechnungen beeinträchtigen und zu ungenauen Informationen führen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Prüfen Sie benutzerdefinierte Formulare und Felder regelmäßig - z. B. einmal pro Quartal - im Rahmen Ihrer regulären Workfront-Systemwartung.
+Prüfen Sie benutzerdefinierte Formulare und Felder regelmäßig, z. B. einmal pro Quartal, im Rahmen Ihrer regulären Workfront-Systemwartung.
 
-**Deshalb**
+**Dies sind die Gründe**
 
-Benutzerdefinierte Formulare und Felder sind nicht nützlich, wenn sie nicht die Daten erfassen, die Ihr Unternehmen benötigt, um Arbeit zu erledigen.
+Benutzerdefinierte Formulare und Felder sind nutzlos, wenn sie nicht die Daten erfassen, die Ihr Unternehmen benötigt, um die Arbeit zu erledigen.
 
-Achten Sie bei Aktualisierungen darauf, wie sich diese Änderungen auf andere Aspekte von Workfront auswirken. Wenn Sie beispielsweise einen Feldnamen ändern, kann dies eine Berechnung unterbrechen, die dieses Feld verwendet. Eine Änderung der Beschriftung oder des Namens eines Formulars kann dazu führen, dass ein Bericht die erforderlichen Informationen nicht anzeigt oder dass eine Integration mit einem anderen System nicht ausgeführt wird.
+Achten Sie bei Aktualisierungen darauf, wie sich diese Änderungen auf andere Aspekte in Workfront auswirken. Die Änderung eines Feldnamens kann zum Beispiel eine Formel, die dieses Feld verwendet, beeinträchtigen. Eine Änderung der Beschriftung oder des Namens eines Formulars kann dazu führen, dass ein Bericht die erforderlichen Informationen nicht anzeigt oder dass eine Integration mit einem anderen System nicht ausgeführt wird.
 
-Ermitteln Sie neben der Aktualisierung benutzerdefinierter Formulare auch Formulare, die wenig genutzt werden oder überhaupt nicht verwendet werden. Können nicht häufig verwendete Formulare mit einem anderen Formular kombiniert werden? Oder vielleicht ist es an der Zeit, dass dieses Formular nicht mehr unterstützt wird, da Ihre Teams die Informationen, die dieses Formular erfasst, nicht mehr benötigen.
+Neben der Aktualisierung von benutzerdefinierten Formularen sollten Sie auch Formulare identifizieren, die wenig oder gar nicht genutzt werden. Können Formulare, die nicht häufig verwendet werden, mit einem anderen Formular kombiniert werden? Oder vielleicht ist es an der Zeit, dieses Formular nicht mehr zu unterstützen, da Ihre Teams die Informationen, die dieses Formular erfasst, nicht mehr benötigen.
 
-Bevor Sie mit diesen unnötigen Formularen Aktionen durchführen, lesen Sie mehr über das Deaktivieren bzw. Löschen von benutzerdefinierten Formularen und benutzerdefinierten Feldern.
+Bevor Sie mit diesen unnötigen Formularen Aktionen durchführen, lesen Sie mehr über den Unterschied zwischen Deaktivieren und Löschen von benutzerdefinierten Formularen und Feldern.
 
 </br>
 </br>
@@ -260,36 +260,36 @@ Bevor Sie mit diesen unnötigen Formularen Aktionen durchführen, lesen Sie mehr
 
 Deaktivieren Sie nicht benötigte benutzerdefinierte Formulare, anstatt sie zu löschen.
 
-**Deshalb**
+**Dies sind die Gründe**
 
-Wenn Sie ein benutzerdefiniertes Formular löschen, löschen Sie alle benutzerdefinierten Daten, die über dieses benutzerdefinierte Formular eingegeben wurden.
-Beim Deaktivieren eines benutzerdefinierten Formulars werden alle zugehörigen historischen Daten beibehalten. Dies bedeutet, dass Sie weiterhin über diese Informationen berichten können.
+Wenn Sie ein benutzerdefiniertes Formular löschen, löschen Sie damit alle benutzerdefinierten Daten, die über dieses benutzerdefinierte Formular eingegeben wurden.
+Bei der Deaktivierung eines benutzerdefinierten Formulars bleiben alle zugehörigen historischen Daten erhalten. Dies bedeutet, dass Sie diese Informationen weiterhin in Berichten nutzen können.
 
-Die Deaktivierung verhindert auch, dass das Formular in Dropdown-Menüs angezeigt wird, in denen Benutzer ein benutzerdefiniertes Formular auswählen. Das Formular wird jedoch weiterhin für alle Objekte angezeigt, an die es bereits angehängt ist.
-
-</br>
-</br>
-
-**Best Practice**
-
-Ausblenden benutzerdefinierter Felder, die nicht mehr in einem benutzerdefinierten Formular unter einem Abschnittsumbruch benötigt werden. Machen Sie dann diesen Abschnitt nur für Systemadministratoren sichtbar.
-
-**Deshalb**
-
-Wenn Sie ein vorhandenes benutzerdefiniertes Feld löschen, wird es nicht nur aus einem benutzerdefinierten Formular entfernt, sondern alle in diesem Feld enthaltenen Daten werden dort gelöscht, wo immer das benutzerdefinierte Feld verwendet wird. Dies bedeutet, dass historische Daten, die möglicherweise für Berichte benötigt werden, gelöscht werden.
-
-Um Datenverlust zu vermeiden, blenden Sie das nicht benötigte Feld im benutzerdefinierten Formular selbst aus. Mithilfe von Abschnittsumbrüchen in benutzerdefinierten Formularen können Sie die Felder, die Teil dieses Abschnitts sind, ausblenden oder verfügbar machen, je nachdem, ob der Benutzer Zugriff darauf hat, das angehängte Workfront-Objekt anzuzeigen, zu ihm beizutragen oder es zu verwalten. Oder für einen Abschnitt kann &quot;Nur Administrator&quot;festgelegt werden, sodass nur Benutzer mit einer Systemadministratorzugriffsstufe den gesamten Abschnitt des Formulars sehen können.
+Die Deaktivierung verhindert auch, dass das Formular in Dropdown-Menüs angezeigt wird, in denen Benutzende ein benutzerdefiniertes Formular auswählen. Das Formular wird jedoch weiterhin für alle Objekte angezeigt, an die es bereits angehängt ist.
 
 </br>
 </br>
 
 **Best Practice**
 
-Beschränken Sie, wer benutzerdefinierte Formulare in Ihrer Workfront-Instanz erstellen kann.
+Blenden Sie benutzerdefinierte Felder, die in einem benutzerdefinierten Formular nicht mehr benötigt werden, unter einem Abschnittsumbruch aus. Machen Sie dann diesen Abschnitt nur für Systemadmins sichtbar.
+
+**Dies sind die Gründe**
+
+Durch das Löschen eines vorhandenen benutzerdefinierten Feldes wird dieses nicht nur aus einem benutzerdefinierten Formular entfernt, sondern es werden auch alle in diesem Feld enthaltenen Daten gelöscht, unabhängig davon, wo dieses benutzerdefinierte Feld verwendet wird. Dadurch werden historische Daten, die möglicherweise für Berichte benötigt werden, gelöscht.
+
+Um Datenverluste zu vermeiden, blenden Sie das nicht benötigte Feld im benutzerdefinierten Formular selbst aus. Durch Abschnittsumbrüche in benutzerdefinierten Formularen können Sie die Felder, die Teil dieses Abschnitts sind, ein- oder ausblenden, je nachdem, ob die Person berechtigt ist, darauf zuzugreifen oder das Workfront-Objekt, mit dem es verknüpft ist, anzuzeigen, zu bearbeiten oder zu verwalten. Für einen Abschnitt kann auch „Nur Admin“ festgelegt werden, sodass nur Benutzende mit einer Zugriffsebene als Systemadmins den gesamten Abschnitt des Formulars sehen können.
+
+</br>
+</br>
+
+**Best Practice**
+
+Legen Sie fest, wer benutzerdefinierte Formulare in Ihrer Workfront-Instanz erstellen kann.
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Eine ausgewählte Gruppe von Personen, die benutzerdefinierte Formulare erstellen können, hilft bei der Steuerung der Anzahl von benutzerdefinierten Formularen, die in Ihrer Workfront-Instanz erstellt wurden.
+Die Festlegung einer ausgewählten Gruppe von Personen, die benutzerdefinierte Formulare erstellen können, erleichtert die Kontrolle über die Anzahl der benutzerdefinierten Formulare, die in Ihrer Workfront-Instanz erstellt wurden.
 
-Darüber hinaus kann die Arbeit des Systemadministrators erleichtert werden, wenn andere Benutzer Formulare erstellen können, und jede Gruppe kann die Aktualisierungen der von ihnen verwendeten benutzerdefinierten Formulare regelmäßig steuern.
+Darüber erleichtert es die Arbeit der Systemadmins, wenn andere Benutzende Formulare erstellen können und so jede Gruppe die Aktualisierungen der von ihnen verwendeten benutzerdefinierten Formulare regelmäßig steuern kann.
