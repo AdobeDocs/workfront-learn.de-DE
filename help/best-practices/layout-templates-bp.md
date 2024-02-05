@@ -1,102 +1,104 @@
 ---
-title: Best Practice - Layout-Vorlagen
-description: Erfahren Sie mehr über Best Practices von Adobe Workfront-Experten zur Einrichtung, Verwaltung und Verwendung von Workfront-Layoutvorlagen.
+title: Best Practice – Layout-Vorlagen
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Layout-Vorlagen in Workfront empfehlen.
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '741'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Layout-Vorlagen
+# Best Practice – Layout-Vorlagen
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
-
-</br>
-</br>
-
-## Best Practices für Layoutvorlagen
-
-* Bauen Sie Layout-Vorlagen so einfach wie möglich auf, indem Sie Menüoptionen verwalten.
-
-* Erstellen Sie Layoutvorlagen für Benutzergruppen, nicht für Einzelanwender.
-
-* Berücksichtigen Sie beim Erstellen von Layoutvorlagen Workflows und Prozesse.
-
-* Beginnen Sie mit einer &quot;Standard&quot;- oder &quot;Basis&quot;-Layoutvorlage, kopieren Sie sie und nehmen Sie die erforderlichen Änderungen vor.
-
-* Erstellen Sie möglichst wenige Layoutvorlagen.
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Best Practices – Layout-Vorlagen
+
+* Gestalten Sie Ihre Layout-Vorlagen durch Verwaltung der Menüoptionen so einfach wie möglich.
+
+* Erstellen Sie Layout-Vorlagen für Benutzergruppen, nicht für Einzelpersonen.
+
+* Berücksichtigen Sie bei der Erstellung von Layout-Vorlagen die Arbeitsabläufe und Prozesse.
+
+* Beginnen Sie mit einer „Standard-“ oder „Basis“-Layout-Vorlage, kopieren Sie sie und nehmen Sie die gewünschten Änderungen vor.
+
+* Erstellen Sie so wenig Layout-Vorlagen wie möglich.
+
+</br>
+</br>
+
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Bauen Sie Layout-Vorlagen so einfach wie möglich auf, indem Sie Menüoptionen verwalten.
+Gestalten Sie Ihre Layout-Vorlagen durch Verwaltung der Menüoptionen so einfach wie möglich.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Weniger ist mehr, wenn es um Layoutvorlagen geht. Durch die Sicherstellung, dass Layout-Vorlagen nur die erforderlichen Optionen des Hauptmenüs, Menüabschnitte im linken Bedienfeld, Objektdetailfelder, Listenoptionen usw. enthalten, werden unnötige Geräusche beseitigt und die Navigation für Benutzer vereinfacht. Wenn Benutzer zu viele Elemente anklicken können, verwirrt Workfront den Benutzer schnell. Gut gestaltete Layoutvorlagen können dazu beitragen, die Effizienz und die Fähigkeit eines Benutzers zu verbessern, in Workfront problemlos zu arbeiten. Dies wiederum führt zur Übernahme durch den Benutzer.
+Weniger ist mehr, wenn es um Layout-Vorlagen geht. Wenn Sie sicherstellen, dass Layout-Vorlagen nur die benötigten Hauptmenüoptionen, Menüabschnitte des linken Bedienfelds, Objektdetailfelder, Listenoptionen usw. enthalten, vermeiden Sie unnötigen Ballast und erleichtern den Benutzenden die Navigation. Wenn die Benutzenden zu viele Dinge anklicken müssen, wird Workfront für sie schnell unübersichtlich. Gut gestaltete Layout-Vorlagen können den Benutzenden dabei helfen, effizienter und besser mit Workfront zu arbeiten. Dies wiederum verbessert die Akzeptanz der Benutzenden.
 
-Achten Sie beim Ausblenden von Optionen darauf, dass Sie im Rahmen Ihrer täglichen Workflows nicht etwas ausblenden möchten, was der Benutzer benötigt.
+Achten Sie darauf, dass Sie keine Optionen ausblenden, die Benutzende für ihre täglichen Arbeitsabläufe benötigen.
 
-Wenn die Verwendung von Workfront in Ihrem Unternehmen zunimmt, sollten Sie die relevanten Funktionen in den Layoutvorlagen auflisten, damit Benutzer diese nutzen können.
-
-</br>
-</br>
-
-**Best Practice**
-
-Erstellen Sie Layoutvorlagen für Benutzergruppen, nicht für Einzelanwender.
-
-**Deshalb**
-
-Erstellen Sie Layouts für Gruppen von Personen, die ähnliche Aufgaben ausführen, Zugriff auf dieselben Teile von Workfront benötigen usw. Dadurch wird nicht nur sichergestellt, dass Benutzer Zugriff auf die Teile von Workfront haben, die sie für ihre Arbeit benötigen, sondern auch, dass System- und Gruppenadministratoren weniger Layout-Vorlagen erstellen und verwalten müssen.
-
-Wenn Benutzer &quot;spezielle&quot;Layoutvorlagen anfordern, schulen Sie sie bei der Verwendung von Pins in der Navigationsleiste und fügen Sie eigene benutzerdefinierte Abschnitte in den Menüs des linken Bedienfelds hinzu. Dies kann Ihren Anforderungen entsprechen, ohne zusätzliche Layoutvorlagen erstellen zu müssen.
+Wenn die Nutzung von Workfront in Ihrem Unternehmen zunimmt, vergessen Sie nicht, relevante Funktionen gut sichtbar in den Layout-Vorlagen anzuzeigen, damit die Benutzenden sie auch nutzen können.
 
 </br>
 </br>
 
 **Best Practice**
 
-Berücksichtigen Sie beim Erstellen von Layoutvorlagen Workflows und Prozesse.
+Erstellen Sie Layout-Vorlagen für Benutzergruppen, nicht für Einzelpersonen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Stellen Sie sicher, dass Benutzer auf alles zugreifen können, was sie für ihre Arbeit benötigen.
+Erstellen Sie Layouts für Gruppen von Personen, die ähnliche Aufgaben erledigen, Zugang zu denselben Workfront-Bereichen benötigen usw. Dadurch wird nicht nur sichergestellt, dass die Benutzenden Zugang zu den Workfront-Bereichen haben, die sie für ihre Arbeit benötigen, sondern auch, dass weniger Layout-Vorlagen von System- und Gruppenadmins erstellt und gepflegt werden müssen.
 
-Optionen im Hauptmenü mit den am häufigsten verwendeten Menüelementen an einer auffälligen Position (oder alphabetisch im Hauptmenü) im linken Bedienfeld, in einer Reihenfolge, die den Workflow-Standard und die benutzerdefinierten Felder, die in der Startseite angezeigt werden, erleichtert, sodass Benutzer Zuweisungen ausführen können, ohne Aufgaben/Probleme für benötigte Informationen untersuchen zu müssen
-
-Nachdem Sie die Layoutvorlage erstellt haben, verwenden Sie die Funktion &quot;Anmelden als&quot;im Bereich &quot;Einrichtung&quot;, um die Vorlage als Benutzer zu testen, der sie verwenden wird. Führen Sie die einzelnen Schritte des Workflows dieser Person durch, um sicherzustellen, dass sie über das verfügen, was sie benötigen, bevor Sie der Vorlage Benutzer zuweisen.
+Wenn Benutzende „spezielle“ Layout-Vorlagen anfordern, sollten Sie ihnen zeigen, wie sie Pins in der Navigationsleiste verwenden und ihre eigenen benutzerdefinierten Abschnitte zu den Menüs des linken Bedienfelds hinzufügen können. Dies könnte ihre Bedürfnisse erfüllen, ohne dass zusätzliche Layout-Vorlagen erstellt werden müssen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Beginnen Sie mit einer &quot;Standard&quot;- oder &quot;Basis&quot;-Layoutvorlage, kopieren Sie sie und nehmen Sie die erforderlichen Änderungen vor.
+Berücksichtigen Sie bei der Erstellung von Layout-Vorlagen die Arbeitsabläufe und Prozesse.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Die Erstellung von Layout-Vorlagen erfolgt schneller, wenn Sie eine vorhandene Vorlage kopieren, die die Einstellungen enthält, die in allen Layoutvorlagen vorhanden sind. Anschließend können Sie die Änderungen vornehmen, die für den spezifischen Satz von Benutzern erforderlich sind, denen die Vorlage zugewiesen wird. Auf diese Weise müssen Sie keine neuen Setups neu erstellen und können doppelte Arbeit vermeiden.
+Sorgen Sie dafür, dass die Benutzenden auf alles zugreifen können, was sie für ihre Arbeit benötigen.
+
+Optionen im Hauptmenü, mit den am häufigsten verwendeten Menüpunkten an prominenter Stelle (oder im Hauptmenü alphabetisch angeordnet)
+Menüabschnitte des linken Bedienfelds in einer Reihenfolge, die den Arbeitsablauf erleichtert 
+Standard- und benutzerdefinierte Felder, die in der Startseite sichtbar sind, damit die Benutzenden Aufgaben erledigen können, ohne in Aufgaben/Problemen nach den benötigten Informationen suchen zu müssen
+
+Nachdem Sie die Layout-Vorlage erstellt haben, testen Sie sie mit der Option „Anmelden als“ im Anmeldebereich so, wie die Benutzenden es tun werden. Gehen Sie jeden Schritt des Arbeitsablaufs dieser Person durch, um sicherzustellen, dass sie über die erforderlichen Informationen verfügt, bevor Sie der Vorlage Benutzende zuweisen.
+
+</br>
+</br>
+
+**Best Practice**
+
+Beginnen Sie mit einer „Standard-“ oder „Basis“-Layout-Vorlage, kopieren Sie sie und nehmen Sie die gewünschten Änderungen vor.
+
+**Das sind die Gründe**
+
+Die Erstellung von Layout-Vorlagen geht schneller, wenn Sie eine vorhandene Vorlage mit den vorlagenübergreifenden Einstellungen kopieren. Dann können Sie die Änderungen vornehmen, die für die spezifische Benutzergruppe erforderlich sind, der die Vorlage zugewiesen wird. Auf diese Weise müssen Sie die Einstellungen nicht von Grund auf neu erstellen und können doppelten Aufwand vermeiden.
 
 </br>
 </br>
@@ -104,8 +106,8 @@ Die Erstellung von Layout-Vorlagen erfolgt schneller, wenn Sie eine vorhandene V
 
 **Best Practice**
 
-Erstellen Sie möglichst wenige Layoutvorlagen.
+Erstellen Sie so wenig Layout-Vorlagen wie möglich.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Versuchen Sie beim Erstellen von Layout-Vorlagen, diese so zu gestalten, dass sie den Anforderungen der meisten Personen in einem Team, in einer Gruppe, mit der gleichen Rolle usw. wie möglich entsprechen. Weniger Layout-Vorlagen bedeuten weniger Wartungsaufwand für System- und Gruppenadministratoren.
+Gestalten Sie Layout-Vorlagen möglichst so, dass sie den Bedürfnissen möglichst vieler Personen in einem Team oder einer Gruppe mit demselben Aufgabengebiet usw. entsprechen. Weniger Layout-Vorlagen bedeuten weniger Wartungsaufwand für System- und Gruppenadmins.
