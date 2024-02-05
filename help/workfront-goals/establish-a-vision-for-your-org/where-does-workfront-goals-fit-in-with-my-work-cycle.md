@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur [!UICONTROL Workfront-Ziele] passt in Ihren Arbeitszyklus
-description: Erfahren Sie mehr über die sechs Schritte in einem typischen Arbeitslebenszyklus und die Kernbausteine in der "Strategiephase" des Arbeitslebens.
+title: Erfahren Sie, wie [!UICONTROL Workfront-Ziele] in Ihren Arbeitszyklus passen
+description: Lernen Sie die 6 Schritte eines typischen Arbeitslebenszyklus und die Kernbausteine der „Strategiephase“ im Arbeitslebenszyklus kennen.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zur [!UICONTROL Workfront-Ziele] passt in Ihren Arbeitszyklus
+# Erfahren Sie, wie [!UICONTROL Workfront-Ziele] in Ihren Arbeitszyklus passen
 
-In diesem Video erfahren Sie mehr über:
+In diesem Video lernen Sie Folgendes:
 
 * Die sechs Schritte in einem typischen Arbeitslebenszyklus
-* Kernbausteine in der &quot;Strategiephase&quot;des Arbeitslebens
+* Kernbausteine in der „Strategiephase“ des Arbeitslebenszyklus
 
 >[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on)
 
@@ -30,8 +30,8 @@ In diesem Video erfahren Sie mehr über:
 Your turn graphic
 -->
 
-Nehmen Sie sich einen Moment Zeit, um über die folgenden Fragen nachzudenken, die im Video vorgestellt werden. Schließen Sie einige anfängliche Gedanken als Antwort zusammen. Nutzen Sie diese Fragen, um Ihnen bei Diskussionen mit Ihren Teams zu helfen. Was hast du gelernt?
+Nehmen Sie sich eine Minute Zeit, um über folgende Fragen aus dem Video nachzudenken. Notieren Sie einige erste Gedanken als Antwort. Nutzen Sie diese Fragen, um die Diskussionen mit Ihren Teams zu lenken. Was haben Sie gelernt?
 
-1. Was versuchen wir zu erreichen?
+1. Was möchten wir erreichen?
 1. Wie werden wir den Erfolg messen?
-1. Welche Optionen gibt es, um diese Ziele zu erreichen? Welche Optionen sind angesichts unserer Einschränkungen am besten?
+1. Welche verschiedenen Möglichkeiten gibt es, diese Ziele zu erreichen? Welche Optionen sind angesichts unserer Einschränkungen am besten?
