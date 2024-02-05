@@ -1,6 +1,6 @@
 ---
 title: Anleitung zum Zugriff auf frühere Versionen
-description: Erfahren Sie, wie Sie frühere Versionen wiederherstellen können, nachdem Sie Änderungen an Ihrem Szenario vorgenommen und in [!DNL Adobe Workfront Fusion].
+description: Erfahren Sie, wie Sie frühere Versionen wiederherstellen können, nachdem Sie Änderungen an Ihrem Szenario vorgenommen und in [!DNL Adobe Workfront Fusion]gespeichert haben.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -35,28 +35,28 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Anleitung zum Zugriff auf frühere Versionen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Anleitung zum Zugriff auf frühere Versionen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=de).
 
 ## Zu Ihrer Terminologie hinzufügen
 
-![Ein Bild eines überwachten Datensatzes und ein benutzerdefiniertes Webhook-Modul](assets/understand-the-basics-3.png)
+![Ein Bild eines überwachten Datensatzes und eines benutzerdefinierten Webhook-Moduls](assets/understand-the-basics-3.png)
 
 ### Trigger-Module
 
-Trigger-Module können nur als erstes Modul verwendet werden und können null, eins oder mehrere Pakete zurückgeben. Diese werden einzeln in nachfolgenden Modulen verarbeitet, sofern sie nicht aggregiert werden.
+Trigger-Module können nur als erstes Modul verwendet werden und können null, eins oder mehrere Bündel zurückgeben. Diese werden einzeln in nachfolgenden Modulen verarbeitet, sofern sie nicht aggregiert werden.
 
-**Abruf-Trigger (Uhr am Trigger)**—Spezielle Funktionen, um den zuletzt verarbeiteten Datensatz zu verfolgen.
+**Abruf-Trigger (mit Uhrensymbol)** – Spezielle Funktionen, um den zuletzt verarbeiteten Eintrag zu verfolgen.
 
-**Sofortiger Trigger (Blitzschlag auf Trigger)**—Sofort ausgelöst basierend auf Webhook.
+**Sofortiger Trigger (mit Blitzsymbol)** – Wird sofort ausgelöst, je nach Webhook.
 
-![Ein Bild eines Datensatzes erstellen und ein Suchmodul](assets/understand-the-basics-4.png)
+![Ein Bild einer Eintragserstellung und eines Suchmoduls](assets/understand-the-basics-4.png)
 
 ### Aktionen und Suchmodule
 
-**Aktion**—Wird verwendet, um CRUD-Vorgänge (Erstellen, Lesen, Aktualisieren und Löschen) durchzuführen
+**Aktion** – Wird verwendet, um CRUD-Vorgänge (Erstellen, Lesen, Aktualisieren und Löschen) durchzuführen
 
-**Suchvorgänge**—Wird verwendet, um nach null, einem oder mehreren Datensätzen zu suchen, und gibt diese als Bundles zurück, die einzeln in nachfolgenden Modulen verarbeitet werden, sofern sie nicht aggregiert werden.
+**Suchvorgänge** – Wird verwendet, um nach null, einem oder mehreren Einträgen zu suchen, und gibt diese als Bündel zurück, die einzeln in nachfolgenden Modulen verarbeitet werden, sofern sie nicht aggregiert werden.
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
