@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Berichten mit Diagrammen
-description: Erfahren Sie, wie Diagramme die Visualisierung von Daten verbessern können und wie Sie Diagrammtools in Workfront verwenden.
+description: Lernen Sie, wie Diagramme die Visualisierung von Daten verbessern können und wie Diagramm-Tools in Workfront verwendet werden.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,52 +12,52 @@ jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Erstellen von Berichten mit Diagrammen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Wie Diagramme die Visualisierung von Daten verbessern können
-* Verwendung der Diagrammtools von Workfront
+* Wie die Diagramm-Tools von Workfront verwendet werden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Aktivität: Diagramm zu einem Bericht hinzufügen
+## Aktivität: Ein Diagramm zu einem Bericht hinzufügen
 
-Das Ende des Quartals nähert sich, und Sie möchten sehen, wie kürzlich abgeschlossene Projekte an ihren Budgets feststeckten. Erstellen Sie einen Bericht, der die geplanten Kosten im Vergleich zu den tatsächlichen Kosten für Projekte anzeigt. Sie möchten nur Projekte sehen, die im letzten Quartal abgeschlossen wurden. Fügen Sie mithilfe benutzerdefinierter Farben ein kombiniertes Spaltendiagramm hinzu.
+Das Quartalsende naht, und Sie möchten sehen, inwieweit die kürzlich abgeschlossenen Projekte ihr Budget eingehalten haben. Erstellen Sie einen Bericht, der die geplanten Kosten im Vergleich zu den tatsächlichen Kosten für Projekte zeigt. Sie möchten nur die Projekte sehen, die im letzten Quartal abgeschlossen wurden. Fügen Sie ein Diagramm mit einer Kombination von Spalten hinzu, das benutzerdefinierte Farben verwendet.
 
 ## Antwort
 
-1. Auswählen **[!UICONTROL Berichte]** von **[!UICONTROL Hauptmenü]**.
-1. Klicken Sie auf **[!UICONTROL Neuer Bericht]** Menü und wählen Sie **[!UICONTROL Projekt]**.
-1. Im **[!UICONTROL Spalten (Ansicht)]** Registerkarte, klicken Sie auf **[!UICONTROL Spalte hinzufügen]**.
-1. Auswählen [!UICONTROL Projekt] > [!UICONTROL Geplante Kosten] und diese Spalte nach **[!UICONTROL Summe]**.
-1. Klicken **[!UICONTROL Spalte hinzufügen]** erneut.
-1. Auswählen [!UICONTROL Projekt] > [!UICONTROL Tatsächliche Kosten] und diese Spalte nach **[!UICONTROL Summe]**.
+1. Wählen Sie **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]** aus.
+1. Klicken Sie auf das Menü **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Projekt]** aus.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Spalten (Ansicht)]** und dann auf **[!UICONTROL Spalte hinzufügen]**.
+1. Wählen Sie [!UICONTROL Projekt] > [!UICONTROL Geplante Kosten] aus und fassen Sie diese Spalte mit **[!UICONTROL Summieren]** zusammen.
+1. Klicken Sie erneut auf **[!UICONTROL Spalte hinzufügen]**.
+1. Wählen Sie [!UICONTROL Projekt] > [!UICONTROL Tatsächliche Kosten] aus und fassen Sie diese Spalte mit **[!UICONTROL Summieren]** zusammen.
 
-   ![Ein Bild des Bildschirms, um einem Bericht Spalten hinzuzufügen](assets/chart-report-columns.png)
+   ![Ein Screenshot des Bildschirms zum Hinzufügen von Spalten zu einem Bericht](assets/chart-report-columns.png)
 
-1. Im **[!UICONTROL Gruppierungen]** Registerkarte, den Bericht auf [!UICONTROL Projekt] > [!UICONTROL Name].
+1. Legen Sie auf der Registerkarte **[!UICONTROL Gruppierungen]** fest, dass der Bericht nach [!UICONTROL Projekt] > [!UICONTROL Name] gruppiert werden soll.
 
-   ![Ein Bild des Bildschirms, um einem Bericht Gruppierungen hinzuzufügen](assets/chart-report-groupings.png)
+   ![Ein Screenshot des Bildschirms zum Hinzufügen von Gruppierungen zu einem Bericht](assets/chart-report-groupings.png)
 
-1. Im **[!UICONTROL Filter]** Fügen Sie zwei Filterregeln hinzu:
+1. Fügen Sie auf der Registerkarte **[!UICONTROL Filter]** zwei Filterregeln hinzu:
 
-   * [!UICONTROL Projekt] > [!UICONTROL Status entspricht] > [!UICONTROL Fertig]
-   * [!UICONTROL Projekt] >[!UICONTROL  Tatsächliches Abschlussdatum] > [!UICONTROL Letztes Quartal]
+   * [!UICONTROL Projekt] > [!UICONTROL Status entspricht] > [!UICONTROL Abgeschlossen]
+   * [!UICONTROL Projekt] > [!UICONTROL Tatsächliches Abschlussdatum] > [!UICONTROL Letztes Quartal]
 
-   ![Ein Bild des Bildschirms zum Hinzufügen von Filtern zu einem Bericht](assets/chart-report-filters.png)
+   ![Ein Screenshot des Bildschirms zum Hinzufügen von Filtern zu einem Bericht](assets/chart-report-filters.png)
 
-1. Im **[!UICONTROL Diagramm]** Registerkarte, wählen Sie **[!UICONTROL Spalte]** für den Diagrammtyp.
-1. Für [!UICONTROL Linke (Y) Achse]auswählen [!UICONTROL Projekt] > [!UICONTROL Geplante Kosten].
-1. Für [!UICONTROL Untere (X) Achse]auswählen [!UICONTROL Projekt] > [!UICONTROL Name].
-1. Klicken Sie auf **[!UICONTROL Kombinationsdiagramm]** Schaltfläche und wählen Sie [!UICONTROL Projekt] > [!UICONTROL Tatsächliche Kosten] im **[!UICONTROL Wert]** -Feld.
-1. Klicken Sie auf den Pfeil neben dem Farbfeld, um die [!UICONTROL Tatsächliche Kosten] Farbe. Wählen Sie eine der angezeigten Farben aus oder klicken Sie auf das Feld in der rechten unteren Ecke, um die Farbpalette aufzurufen.
-1. Klicken Sie auf **[!UICONTROL Speichern und schließen]**. Wenn Sie nach einem Berichtsnamen gefragt werden, nennen Sie ihn &quot;Geplant vs. Tatsächliche Kosten nach Projekt abgeschlossen im letzten Quartal&quot;.
+1. Wählen Sie auf der Registerkarte **[!UICONTROL Diagramm]** die Option **[!UICONTROL Spalte]** für den Diagrammtyp aus.
+1. Wählen Sie für die [!UICONTROL linke Achse (Y)] [!UICONTROL Projekt] > [!UICONTROL Geplante Kosten].
+1. Wählen Sie für die [!UICONTROL untere Achse (X)] [!UICONTROL Projekt] > [!UICONTROL Name].
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Kombinationsdiagramm]** und wählen Sie [!UICONTROL Projekt] > [!UICONTROL Tatsächliche Kosten] im Feld **[!UICONTROL Wert]** aus.
+1. Klicken Sie auf den Pfeil neben dem Farbfeld, um die Farbe der [!UICONTROL tatsächlichen Kosten] zu ändern. Wählen Sie eine der angezeigten Farben aus oder klicken Sie auf das Feld unten rechts, um die Farbpalette aufzurufen.
+1. Klicken Sie auf **[!UICONTROL Speichern + schließen]**. Wenn Sie zur Eingabe eines Berichtsnamens aufgefordert werden, nennen Sie ihn „Geplante vs. tatsächliche Kosten nach abgeschlossenem Projekt im letzten Quartal“.
 
-   ![Bild des Bildschirms, um einem Bericht ein Diagramm hinzuzufügen](assets/chart-report-chart.png)
+   ![Ein Screenshot des Bildschirms zum Hinzufügen eines Diagramms zu einem Bericht](assets/chart-report-chart.png)
