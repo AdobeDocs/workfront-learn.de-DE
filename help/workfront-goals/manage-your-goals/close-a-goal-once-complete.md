@@ -1,6 +1,6 @@
 ---
-title: Ziel nach Abschluss schließen
-description: Erfahren Sie, wie Sie ein Ziel in [!DNL Goals] schließen.
+title: Schließen eines Ziels nach Abschluss
+description: Erfahren Sie, wie Sie ein Ziel in [!DNL   Goals] schließen.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ziel nach Abschluss schließen
+# Schließen eines Ziels nach Abschluss
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Schließen Sie ein Ziel, um anzugeben, wann das Ziel erreicht ist oder wann Sie nicht mehr daran arbeiten, und dies auch in naher Zukunft nicht planen.
+* Schließen Sie ein Ziel, um anzugeben, wann es erreicht ist oder wann Sie nicht mehr daran arbeiten, und dies auch in naher Zukunft nicht planen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on)
