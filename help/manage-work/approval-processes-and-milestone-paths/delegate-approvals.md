@@ -1,6 +1,6 @@
 ---
 title: Delegieren von Aufgaben, Problemen und Genehmigungen
-description: Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeitpläne an einen anderen Workfront-Benutzer delegieren. Erfahren Sie auch, wie Sie Aufgaben und Problemzuweisungen delegieren.
+description: Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeiterfassungen an andere Workfront-Benutzende delegieren können. Erfahren Sie auch, wie Sie Arbeitsaufträge für Aufgaben und Probleme delegieren können.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -12,25 +12,25 @@ jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Delegieren von Aufgaben, Problemen und Genehmigungen
 
-Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeitpläne an einen anderen Workfront-Benutzer delegieren. Erfahren Sie auch, wie Sie Aufgaben und Problemzuweisungen delegieren.
+Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeiterfassungen an andere Workfront-Benutzende delegieren können. Erfahren Sie auch, wie Sie Arbeitsaufträge für Aufgaben und Probleme delegieren können.
 
 ## Genehmigungen delegieren
 
-Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeitpläne an einen anderen Benutzer delegieren.
+Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeiterfassungen an andere Benutzende delegieren können.
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Zuweisen von Genehmigungen zu einer anderen Person
-* Ende des Delegationszeitraums
-* Ermitteln delegierter Genehmigungen
+* Genehmigungen einer anderen Person zuweisen
+* Beenden des Delegationszeitraums
+* Nach delegierten Genehmigungen suchen
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
@@ -39,32 +39,32 @@ learn more URLS
 Delegate approval request
 --->
 
-## Delegieren von Aufgaben und Problemzuweisungen
+## Arbeitsaufträge für Aufgaben und Probleme delegieren
 
-Sie können die Ihnen zugewiesenen Aufgaben und Probleme an andere Benutzer delegieren, wenn Sie nicht im Hause sein möchten.
+Sie können die Ihnen zugewiesenen Aufgaben und Probleme an andere Benutzende delegieren, wenn Sie nicht im Hause sind.
 
-### Aktivierung der Zuweisung von Aufgaben und Aufgaben
+### So aktivieren Sie die Delegierung der Arbeitsaufträge für Aufgaben und Probleme:
 
-Bevor sie verwendet werden kann, muss die Zuweisung von Aufgaben und Problemen von einem Gruppen- oder Systemadministrator aktiviert werden. Dies geschieht in [!UICONTROL Einrichtung > Projekteinstellungen > Aufgaben und Probleme > Delegation]. Durch Aktivierung dieser Option können alle Benutzer mit einer Review- oder höheren Lizenz ihre zugewiesenen Aufgaben und Probleme delegieren.
+Bevor sie verwendet werden kann, muss die Delegierung von Aufgaben und Problemen durch Gruppen- oder Systemadmins aktiviert werden. Dies geschieht unter [!UICONTROL Setup > Projekteinstellungen > Aufgaben und Probleme > Delegierung]. Durch Aktivierung dieser Option können alle Benutzenden mit einer Überprüfungs- oder höheren Lizenz ihre zugewiesenen Aufgaben und Probleme delegieren.
 
-![Screenshot zeigt [!UICONTROL Einrichtung] Delegationsvorlieben](assets/delegation-1.png)
+![Screenshot mit den [!UICONTROL Setup]-Voreinstellungen zur Delegierung](assets/delegation-1.png)
 
-### Delegieren von Aufgaben und Problemzuweisungen
+### Delegieren von Arbeitsaufträgen für Aufgaben und Probleme
 
-Navigieren Sie zu [!UICONTROL Startseite] und klicken Sie auf [!UICONTROL Delegieren]und geben Sie dann den Benutzer an, an den Sie alle Ihre zugewiesenen Aufgaben delegieren, sowie den Datumsbereich an. Sie können jeden Benutzer mit einer Review- oder höheren Lizenz benennen.
+Navigieren Sie zur [!UICONTROL Startseite] und klicken Sie auf [!UICONTROL Delegieren]. Geben Sie dann die Person, an die Sie alle Ihnen zugewiesenen Aufgaben delegieren, und den Datumsbereich an. Sie können jede Person mit einer Überprüfungs- oder höheren Lizenz benennen.
 
-![Screenshot mit der Registerkarte &quot;Delegation&quot;in [!UICONTROL Startseite]](assets/delegation-2.png)
+![Screenshot der Registerkarte „Delegierung“ auf der [!UICONTROL Startseite]](assets/delegation-2.png)
 
-### Ermitteln, ob eine Aufgabe oder ein Problem delegiert wurde
+### So ermitteln Sie, ob eine Aufgabe oder ein Problem delegiert wurde:
 
-Sie können sehen, wann Aufgaben oder Probleme in [!UICONTROL Startseite] oder in der Aufgaben- oder Problemansicht.
+Auf der [!UICONTROL Startseite] oder in der Aufgaben- oder Problemansicht können Sie sehen, ob Aufgaben oder Probleme delegiert wurden.
 
-![Screenshot mit der zugewiesenen Aufgabenzuweisung in [!UICONTROL Startseite]](assets/delegation-4.png)
-![Screenshot mit der zugewiesenen Aufgabenzuweisung in der Aufgabenansicht](assets/delegation-3.png)
+![Screenshot mit der delegierten Aufgabenzuweisung auf der [!UICONTROL Startseite]](assets/delegation-4.png)
+![Screenshot mit der delegierten Aufgabenzuweisung in der Aufgabenansicht](assets/delegation-3.png)
 
-### E-Mail-Benachrichtigungen, die für delegierte Arbeiten gelten
+### E-Mail-Benachrichtigungen zu delegierten Arbeiten
 
-Ihr Gruppen- oder Systemadministrator kann E-Mail-Benachrichtigungen aktivieren, die Sie darüber informieren, wann Sie Ihre Aufgaben und Probleme zugewiesen und welche Aufgaben und Probleme Ihnen von jemandem zugewiesen wurden.
+Ihre Gruppen- oder Systemadmins können Sie per E-Mail-Benachrichtigungen darüber informieren, wann Sie Ihre Aufgaben und Probleme delegiert haben und wann Aufgaben und Probleme von jemand anders an Sie delegiert wurden.
 
-![Screenshot zeigt [!UICONTROL Einrichtung] E-Mail-Benachrichtigungsoptionen für die Zuweisung](assets/delegation-5.png)
+![Screenshot mit der E-Mail-Benachrichtigungsoption [!UICONTROL Setup] für die Delegierung](assets/delegation-5.png)
 ![Screenshot einer E-Mail mit einer Arbeitsdelegierung](assets/delegation-6.png)
