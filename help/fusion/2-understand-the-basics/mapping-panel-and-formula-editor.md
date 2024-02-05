@@ -1,6 +1,6 @@
 ---
-title: Zuordnungsbereich und Formeleditor
-description: Erfahren Sie mehr über die Verwendung des Zuordnungsbedienfelds, des Formeleditors und häufige Formelbeispiele in [!DNL Adobe Workfront Fusion].
+title: Zuordnungsfenster und Formeleditor
+description: Erfahren Sie mehr über die Verwendung des Zuordnungsfensters, des Formeleditors und häufige Formelbeispiele in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9002
 exl-id: 48ebc6ee-6853-42a3-b68b-34c5854ff69c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Zuordnungsbereich und Formeleditor
+# Zuordnungsfenster und Formeleditor
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Weitere Informationen zur Verwendung des Zuordnungsbedienfelds
+* Weitere Informationen zur Verwendung des Zuordnungsfensters
 * Verwendung des Formeleditors
-* Allgemeine Formelbeispiele
+* Häufige Formelbeispiele
 * Die verschiedenen Formeltypen
 * Gute und schlechte Verwendung des Formeleditors
 
