@@ -1,6 +1,6 @@
 ---
-title: Workfront Fusion-Schulungsübersicht
-description: Erfahren Sie mehr über das Aktivitätenbuch zu Adobe Workfront Fusion und wie Sie ein Workfront-Testlaufwerkkonto erhalten.
+title: Workfront Fusion-Schulung – Übersicht
+description: Erfahren Sie mehr über das Aktivitätenbuch von Adobe Workfront Fusion und darüber, wie Sie ein Workfront-Konto für einen Testlauf erhalten.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,17 +10,17 @@ level: Beginner
 jira: KT-11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '413'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront Fusion-Schulungsübersicht
+# Workfront Fusion-Schulung – Übersicht
 
-Jeder Abschnitt zu Workfront Fusion enthält mehrere Tutorials, wobei jedes Tutorial Konzepte enthält, die Sie verstehen müssen, bevor Sie zum nächsten Tutorial übergehen. Eine exemplarische Vorgehensweise hilft Ihnen, die meisten Konzepte Übergeordnet zu machen.
+Jeder Abschnitt von Workfront Fusion enthält mehrere Tutorials, wobei jedes Tutorial Konzepte vorstellt, die Sie verstehen müssen, bevor Sie mit dem nächsten Tutorial fortfahren können. Die meisten Konzepte lassen sich mithilfe einer Übung mit einer exemplarischen Vorgehensweise leicht nachvollziehen.
 
-In den Videos erfahren Sie, wie Sie jede exemplarische Anleitung durchführen, was normalerweise zur Erstellung eines neuen Workfront Fusion-Szenarios führt. Anschließend können Sie die Übung in Ihrer eigenen Workfront Fusion-Umgebung abschließen und zu Ihrer eigenen Szenario-Sammlung hinzufügen.
+Die Videos zeigen Ihnen, wie Sie die einzelnen Übungen durchlaufen, was in der Regel zur Erstellung eines neuen Workfront Fusion-Szenarios führt. Anschließend können Sie die Übung in Ihrer eigenen Workfront Fusion-Umgebung abschließen und zu Ihrer eigenen Szenario-Sammlung hinzufügen.
 
 In einigen Tutorials erstellen Sie ein neues Szenario von Grund auf. In anderen Tutorials erstellen Sie zunächst eine Kopie eines zuvor erstellten Szenarios.
 
@@ -30,32 +30,32 @@ In einigen Tutorials erstellen Sie ein neues Szenario von Grund auf. In anderen 
 
 ## Schulungsressourcen und Zugriff auf Workfront Fusion
 
-### Anfordern eines Workfront-Testlaufwerks
+### Anfordern eines Workfront-Testlaufs
 
-Um die Übungen in den Lernpfaden von Workfront Fusion abzuschließen, benötigen Sie ein Workfront-Testlaufwerk. Wenn Sie bereits über eine Testlaufwerk verfügen, empfehlen wir für diese Schulung eine neue.
+Um die Übungen in den Workfront Fusion-Lernpfaden zu absolvieren, benötigen Sie einen Workfront-Testlauf. Wenn Sie bereits einen Testlauf haben, empfehlen wir Ihnen einen neuen für diese Schulung.
 
-Fordern Sie eine Praktikumsumgebung an, indem Sie [dieses Formulars](https://forms.office.com/r/f1J8HRGrNY). Wenn Sie nicht auf das Formular zugreifen können, senden Sie Ihren Namen, Ihre E-Mail-Adresse und Ihren Firmennamen an wfttstdr@adobe.com.
+Fordern Sie eine Praxisumgebung an, indem Sie [dieses Formular](https://forms.office.com/r/f1J8HRGrNY) ausfüllen. Wenn Sie nicht auf das Formular zugreifen können, senden Sie Ihren Namen, Ihre E-Mail-Adresse und Ihren Firmennamen an wfttstdr@adobe.com.
 
-### Zugriff auf Workfront Fusion zur praktischen Verwendung
+### Zugreifen auf Workfront Fusion zum Üben
 
-Workfront bietet keine Workfront Fusion-Testlaufwerke an. Wenn Sie die Tutorials absolvieren möchten, fordern Sie vom Workfront Fusion-Administrator Ihres Unternehmens Zugriff auf Workfront Fusion an.
+Workfront bietet keine Workfront Fusion-Testläufe an. Um die Übungen zu absolvieren, fordern Sie bei der für Workfront Fusion verantwortlichen Person Ihres Unternehmens Zugriff auf Workfront Fusion an.
 
-### Schrittweise Anleitungen zum Abschließen der exemplarischen Vorgehensweisen
+### Schritt-für-Schritt-Anleitungen für die Durchführung der Übungen mit exemplarischen Vorgehensweisen
 
-Es gibt eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweisen. Sie können auf diese über die linke Navigationsleiste unter Fusion > Übungen zugreifen oder den Link verwenden, der unten in einem exemplarischen Tutorial bereitgestellt wird.
+Es gibt Schritt-für-Schritt-Anleitungen für die Durchführung der Übungen mit exemplarischen Vorgehensweisen. Sie können auf diese über die linke Navigationsleiste unter „Fusion“ > „Übungen“ zugreifen oder den Link am Ende eines Tutorials mit exemplarischen Vorgehensweisen verwenden.
 
-### Optionale Übungen
+### Optionale praktische Übungen
 
-Nach einigen exemplarischen Vorgehensweisen werden Übungen und Herausforderungen bereitgestellt.
+Im Anschluss an einige der Übungen mit exemplarischen Vorgehensweisen werden praktische Übungen und Aufgaben angeboten.
 
-Es gibt verschiedene Möglichkeiten, die Übungen zu lösen. Es ist beabsichtigt, Sie zu ersuchen, ein Szenario-Ziel zu erreichen, ohne Schritte zu unternehmen oder die &quot;richtige Antwort&quot;zu erhalten, da dies bei der Erstellung eines Szenarios in Ihrem Unternehmen erforderlich ist.
+Es gibt eine Reihe verschiedener Möglichkeiten, die praktischen Übungen zu lösen. Die Absicht ist, Sie dazu herauszufordern, ein Szenarioziel zu erreichen, ohne Schritten zu folgen oder die „richtige Antwort“ zu kennen, denn genau das werden Sie tun müssen, wenn Sie in Ihrem Unternehmen ein Szenario aufbauen.
 
-Die Übung hängt mit der exemplarischen Vorgehensweise zusammen.
+Die praktische Übung steht im Zusammenhang mit der Aktivität der exemplarischen Vorgehensweise.
 
-Die Herausforderungen sind für diejenigen, die etwas ausprobieren wollen, das andere Konzepte beinhaltet, die sie gelernt haben.
+Die Herausforderungen richten sich an diejenigen, die etwas ausprobieren wollen, das andere Konzepte, die sie gelernt haben, mit einbezieht.
 
 ### Hilfe erhalten
 
-Die schrittweisen Anleitungen helfen Ihnen beim Durchlaufen der exemplarischen Vorgehensweisen.
+Die Schritt-für-Schritt-Anleitungen helfen Ihnen, die Übungen mit exemplarischen Vorgehensweisen zu bewältigen.
 
-Es gibt auch eine [Workfront Fusion 2.0-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) wo Sie Fragen posten können.
+Es gibt auch eine [Workfront Fusion 2.0-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2), wo Sie Fragen stellen können.
