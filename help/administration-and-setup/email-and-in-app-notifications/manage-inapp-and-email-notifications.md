@@ -1,5 +1,5 @@
 ---
-title: In-App- und E-Mail-Ereignisbenachrichtigungen verwalten
+title: Verwalten von In-App- und E-Mail-Ereignisbenachrichtigungen
 description: Erfahren Sie, wie Benutzende steuern können, welche In-App- und E-Mail-Benachrichtigungen sie erhalten, damit sie nur relevante, hilfreiche E-Mails zu ihrer Arbeit erhalten.
 short-description: Erfahren Sie, wie Benutzerinnen und Benutzer steuern können, welche In-App- und E-Mail-Benachrichtigungen sie erhalten.
 feature: System Setup and Administration
@@ -12,89 +12,89 @@ thumbnail: 10095.jpeg
 jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '628'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
-# In-App- und E-Mail-Ereignisbenachrichtigungen verwalten
+# Verwalten von In-App- und E-Mail-Ereignisbenachrichtigungen
 
-E-Mails sind Teil des täglichen Arbeitslebens, und manchmal ist die Menge an E-Mails, die Sie erhalten, überwältigend. Allerdings gilt Folgendes: [!DNL Workfront], können Systemadministratoren sicherstellen, dass alle relevanten und hilfreichen E-Mails zu ihrer Arbeit erhalten.
+E-Mails gehören zum Arbeitsalltag, und an manchen Tagen ist die Menge der E-Mails, die man erhält, einfach überwältigend. Mit [!DNL Workfront] können Systemadmins jedoch sicherstellen, dass alle Mitarbeitenden relevante und hilfreiche E-Mails zu den Aufgaben erhalten, an denen sie beteiligt sind.
 
-Es gibt verschiedene Arten von Benachrichtigungen, die Workfront an Benutzer senden kann. Einige dieser Benachrichtigungen werden auf Systemebene gesteuert und wirken sich auf alle Benutzer aus. Einige Benachrichtigungen können so eingestellt werden, dass E-Mails sofort in einem täglichen Digest generiert werden. Oder deaktivieren Sie E-Mails, um nur Benachrichtigungen in Workfront zu generieren.
+Workfront kann mehrere Arten von Benachrichtigungen an Benutzende senden. Einige dieser Benachrichtigungen werden auf Systemebene gesteuert und betreffen alle Benutzenden. Einige Benachrichtigungen können so eingestellt werden, dass sie sofort in Form einer täglichen Zusammenfassung per E-Mail verschickt werden. Oder deaktivieren Sie E-Mails, um nur Benachrichtigungen innerhalb von Workfront zu generieren.
 
 ## Ereignisbenachrichtigungen
 
-Ein Ereignis kann zum Beispiel eine Statusänderung, einen veröffentlichten Kommentar oder eine Zuweisung sein und eine In-App-Benachrichtigung in [!DNL Workfront].
+Ein Ereignis ist z. B. eine Statusänderung, ein geposteter Kommentar oder eine getätigte Zuweisung und kann eine In-App-Benachrichtigung in [!DNL Workfront] auslösen.
 
 ![Benachrichtigungsliste](assets/admin-fund-user-notifications-01.png)
 
-Sie können jedoch festlegen, für welche Ereignisse Sie E-Mail-Benachrichtigungen erhalten möchten, indem Sie die Optionen in Ihren Voreinstellungen auswählen oder deaktivieren.
+Sie können jedoch festlegen, für welche Ereignisse Sie E-Mail-Benachrichtigungen erhalten möchten, indem Sie die Optionen in Ihren Voreinstellungen aktivieren oder deaktivieren.
 
-Um diese Änderungen vorzunehmen, klicken Sie auf Ihren Namen im [!UICONTROL Hauptmenü].
+Um diese Änderungen vorzunehmen, klicken Sie im [!UICONTROL Hauptmenü] auf Ihren Namen.
 
-![Benutzername in [!UICONTROL Hauptmenü]](assets/admin-fund-user-notifications-02.png)
+![Benutzername im [!UICONTROL Hauptmenü]](assets/admin-fund-user-notifications-02.png)
 
-Klicken [!UICONTROL Bearbeiten] von [!UICONTROL Mehr] Menü.
+Klicken Sie auf [!UICONTROL Bearbeiten] im Menü [!UICONTROL Mehr].
 
 ![Menü auf der Benutzerprofilseite](assets/admin-fund-user-notifications-03.png)
 
-Klicken [!UICONTROL Benachrichtigungen] im [!UICONTROL Person bearbeiten] Popup-Feld.
+Klicken Sie im Popup-Fenster [!UICONTROL Person bearbeiten] auf [!UICONTROL Benachrichtigungen].
 
-![[!UICONTROL Person bearbeiten] Fenster](assets/admin-fund-user-notifications-04.png)
+Fenster ![[!UICONTROL Person bearbeiten]](assets/admin-fund-user-notifications-04.png)
 
-Von hier aus können Sie entscheiden, welche Benachrichtigungen Sie sofort, täglich oder gar nicht erhalten möchten. Alle Änderungen, die Sie hier vornehmen, sind spezifisch für Sie und wirken sich nicht auf andere Benutzer in Workfront aus.
+Von hier aus können Sie entscheiden, welche Benachrichtigungen Sie sofort, einmal täglich oder gar nicht erhalten möchten. Alle Änderungen, die Sie hier vornehmen, gelten nur für Sie selbst und haben keine Auswirkungen auf andere Workfront-Benutzende.
 
 **[!UICONTROL Täglich]**
 
-Standardmäßig sind E-Mails so eingerichtet, dass sie sofort gesendet werden. Sie können jedoch die Häufigkeit der E-Mail-Benachrichtigungen von [!UICONTROL Sofort] nach [!UICONTROL Täglich]und stellen sicher, dass Sie die benötigten Informationen erhalten, wann Sie sie benötigen.
+Standardmäßig sind E-Mails so eingestellt, dass sie sofort gesendet werden. Sie können jedoch die Häufigkeit der E-Mail-Benachrichtigung von [!UICONTROL Sofort] auf [!UICONTROL Täglich] umstellen, um sicherzustellen, dass Sie die gewünschten Informationen zum gewünschten Zeitpunkt erhalten.
 
-![[!UICONTROL Benachrichtigung] Abschnitt [!UICONTROL Person bearbeiten] Fenster](assets/admin-fund-user-notifications-05.png)
+Abschnitt ![[!UICONTROL Benachrichtigung] des Fensters [!UICONTROL Person bearbeiten]](assets/admin-fund-user-notifications-05.png)
 
-Die tägliche Option sendet eine Zusammenfassung der Tagesereignisse in einer E-Mail. Benutzer erhalten für jede Gruppierung, die sie im [!UICONTROL Benachrichtigungen] Abschnitt.
+Die Option „Täglich“ sendet eine Zusammenfassung der Ereignisse des Tages in einer E-Mail. Benutzende erhalten eine E-Mail für jede Gruppierung, die ihnen im Abschnitt [!UICONTROL Benachrichtigungen] angezeigt wird.
 
-Beispiel: die [!UICONTROL Informationen zu eigenen Projekten] generiert eine tägliche E-Mail, die [!UICONTROL Erforderliche Aktion] wird eine tägliche E-Mail generiert usw.
+So generiert der Abschnitt [!UICONTROL Informationen über Projekte, die ich besitze] z. B. eine tägliche E-Mail, der Abschnitt [!UICONTROL Erforderliche Maßnahmen] eine andere tägliche E-Mail, usw.
 
-![[!UICONTROL Daily Digest] E-Mail für [!UICONTROL Informationen zu eigenen Projekten]](assets/admin-fund-user-notifications-06.png)
+E-Mail ![[!UICONTROL Täglicher Digest] für [!UICONTROL Informationen über Projekte, die ich besitze]](assets/admin-fund-user-notifications-06.png)
 
-![[!UICONTROL Daily Digest] E-Mail für [!UICONTROL Erforderliche Aktion]](assets/admin-fund-user-notifications-07.png)
+E-Mail ![[!UICONTROL Täglicher Digest] für [!UICONTROL Aktion erforderlich]](assets/admin-fund-user-notifications-07.png)
 
-Legen Sie nicht nur die tägliche Option fest, sondern legen Sie auch einen Zeitpunkt für den Versand dieser E-Mails fest. Je nachdem, was am besten funktioniert, können Digest-E-Mails versendet werden, bevor Sie morgens zur Arbeit kommen oder kurz bevor Sie den Tag verlassen.
+Wnne Sie die Option „täglich“ wählen, legen Sie auch einen Zeitpunkt fest, zu dem diese E-Mails gesendet werden sollen. Je nach Präferenz können die E-Mails mit der Zusammenfassung etwa vor dem morgendlichen Arbeitsbeginn oder kurz vor Feierabend verschickt werden.
 
-![[!UICONTROL Email Daily Digest nach] Dropdown-Menü im [!UICONTROL Person bearbeiten] Fenster](assets/admin-fund-user-notifications-08.png)
+Dropdown-Menü ![[!UICONTROL Täglicher E-Mail-Digest nach] im Fenster [!UICONTROL Person bearbeiten]](assets/admin-fund-user-notifications-08.png)
 
-**gar nicht**
+**Niemals**
 
 Die letzte Option besteht darin, die E-Mail-Benachrichtigungen vollständig zu deaktivieren.
 
-![Ausgewählte Benachrichtigung deaktiviert in [!UICONTROL Person bearbeiten] Fenster](assets/admin-fund-user-notifications-09.png)
+![Ausgewählte Benachrichtigung im Fenster [!UICONTROL Person bearbeiten] deaktiviert](assets/admin-fund-user-notifications-09.png)
 
-Wenn Sie sich dafür entscheiden, wissen Sie, dass zwar keine E-Mails an Sie gesendet werden, die Arbeit jedoch dennoch zugewiesen, kommentiert und aktualisiert wird in [!DNL Workfront]. Beim Deaktivieren aller Benachrichtigungen fehlen möglicherweise wichtige Informationen, die Sie kennen müssen.
+Wenn Sie sich für diese Option entscheiden, sollten Sie wissen, dass Sie zwar keine E-Mails erhalten, die Arbeiten aber immer noch innerhalb von [!DNL Workfront] zugewiesen, kommentiert und aktualisiert werden. Wenn Sie alle Benachrichtigungen ausschalten, entgehen Ihnen möglicherweise wichtige Informationen, die Sie kennen sollten.
 
-Es gibt einige Fälle, in denen [!DNL Workfront] hat gesehen, wie Benutzer E-Mail-Benachrichtigungen deaktiviert haben. Wenn Sie beispielsweise den Großteil Ihrer Arbeit durch die [!DNL Workfront] Mobile App können Sie Ihre E-Mail-Benachrichtigungen deaktivieren und Benachrichtigungen nur über die App erhalten.
+In einigen Fällen kommt es bei [!DNL Workfront] vor, dass Benutzende E-Mail-Benachrichtigungen deaktivieren. Wenn Sie zum Beispiel den Großteil Ihrer Arbeit über die mobile [!DNL Workfront]-App erledigen, können Sie Ihre E-Mail-Benachrichtigungen deaktivieren und nur noch über die App Benachrichtigungen erhalten.
 
-Unabhängig von der [!UICONTROL Ereignisbenachrichtigungen] Wenn Sie sich für den Erhalt entscheiden, sind Benachrichtigungen wichtig für den Erfolg der Arbeit, die für die Ziele Ihres Unternehmens durchgeführt wird.
+Unabhängig von den [!UICONTROL Ereignisbenachrichtigungen], für die Sie sich entscheiden, sind Benachrichtigungen wichtig für den Erfolg der Arbeit, die Ihr Unternehmen zum Ziel bringen soll.
 
 
-## Recommendations
+## Empfehlungen
 
-Es gibt ein paar Benachrichtigungen, dass [!DNL Workfront] empfiehlt, die Option aktiviert zu lassen, sei es für eine sofortige E-Mail oder für einen täglichen Digest.
+Bei einigen Benachrichtigungen empfiehlt [!DNL Workfront], sie aktiviert zu lassen, entweder für eine sofortige E-Mail oder eine tägliche Zusammenfassung.
 
-Für die meisten Benutzer:
+Für die meisten Benutzenden:
 
-* [!UICONTROL Wenn eine Aufgabe abgeschlossen ist, die primär zugewiesenen Benutzer aller abhängigen Aufgaben per E-Mail benachrichtigen.]
-* [!UICONTROL Jemand hat mich in die direkte Aktualisierung einbezogen]
-* [!UICONTROL Jemand kommentiert meinen Arbeitselement]
+* [!UICONTROL Wenn eine Aufgabe abgeschlossen ist, die primär zugewiesenen Benutzer aller abhängigen Aufgaben per E-Mail benachrichtigen]
+* [!UICONTROL Jemand bezieht mich in eine gezielte Aktualisierung ein]
+* [!UICONTROL Jemand kommentiert mein Arbeitselement]
 * [!UICONTROL Den zugewiesenen Benutzer per E-Mail benachrichtigen, wenn sich das geplante Abschlussdatum der Aufgabe ändert]
 
 
-Insbesondere für Projektmanager:
+Insbesondere für Projekt-Managerinnen und -Manager:
 
-* [!UICONTROL Ein Projekt, an dem ich mitarbeite, ist jetzt aktiv.]
-* [!UICONTROL Ein Projekt, das in meinem Besitz ist, ist in Verzug geraten.]
+* [!UICONTROL Ein Projekt, an dem ich mitarbeite, ist jetzt aktiv]
+* [!UICONTROL Ein Projekt, das in meinem Besitz ist, ist in Verzug geraten]
 * [!UICONTROL Ein Problem wird einem Projekt in meinem Besitz hinzugefügt]
-* [!UICONTROL Meilensteinaufgabe für ein Projekt abgeschlossen, dessen Eigentümer ich bin]
+* [!UICONTROL Eine Meilensteinaufgabe für ein Projekt, für das ich verantwortlich bin, ist abgeschlossen]
 
 
 <!---
