@@ -1,6 +1,6 @@
 ---
-title: Zeitabweichungen anderer Benutzer verwalten
-description: Erfahren Sie, wie Manager und andere Führungskräfte die Zeitpläne ihres Teams verwalten können.
+title: Verwalten von Ausfallzeiten anderer Benutzender
+description: Erfahren Sie, wie die Geschäftsleitung und andere Führungskräfte die Ausfallzeitenkalender ihres Teams verwalten können.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,34 +10,34 @@ team: Technical Marketing
 jira: KT-10181
 exl-id: f2f0f897-939c-45d1-8a3d-037d92d86b79
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Zeitlimit anderer Benutzer verwalten
+# Verwalten von Ausfallzeiten anderer Benutzender
 
-Manager oder andere Führungskräfte können die Zeitpläne ihrer Teammitglieder verwalten, wenn ihnen über ihre Workfront-Zugriffsstufe Benutzerberechtigungen für die Bearbeitung zugewiesen wurden. Zugriffsebenen werden von Workfront-Systemadministratoren erstellt und zugewiesen.
+Die Geschäftsleitung oder andere Führungskräfte können die Ausfallzeitenkalender ihrer Team-Mitglieder verwalten, wenn ihnen über ihre Workfront-Zugriffsebene Berechtigungen zum Bearbeiten von Benutzenden zugewiesen wurden. Zugriffsebenen werden von Workfront-Systemadmins erstellt und zugewiesen.
 
-Workfront empfiehlt, dass Ihr Unternehmen eine Richtlinie oder ein Verfahren für den Fall hat, dass ein Manager die persönliche Kalenderzeit eines Mitarbeiters aktualisiert.
+Workfront empfiehlt, dass Ihr Unternehmen eine Richtlinie oder ein Verfahren für den Fall hat, dass eine Führungskraft den persönlichen Ausfallzeitenkalender einer Person aktualisiert.
 
-![Benutzer im Hauptmenü](assets/mouto_01.png)
+![Benutzende im Hauptmenü](assets/mouto_01.png)
 
-So verwalten Sie den Kalender eines anderen Benutzers:
+So verwalten Sie den Kalender einer anderen Person:
 
-* Klicken Sie auf [!UICONTROL Hauptmenü] und wählen Sie Benutzer aus.
+* Klicken Sie auf das [!UICONTROL Hauptmenü] und wählen Sie „Benutzer“ aus.
 
-* Verwenden Sie das Suchsymbol, um den Benutzer zu finden, oder scrollen Sie durch die Liste.
+* Verwenden Sie das Suchsymbol, um die Person zu finden, oder scrollen Sie durch die Liste.
 
-* Klicken Sie in der Liste auf den Namen des Benutzers.
+* Klicken Sie in der Liste auf den Namen der Person.
 
-* Klicken [!UICONTROL Zeitlimit] im Menü des linken Bedienfelds auf der Profilseite des Benutzers.
+* Klicken Sie auf der Profilseite der Person im Menü des linken Bedienfelds auf [!UICONTROL Ausfallzeit].
 
 * Klicken Sie auf ein Datum im Kalender.
 
-* Workfront nimmt einen vollen Tag frei. Wenn dies der Fall ist, klicken Sie auf die Schaltfläche [!UICONTROL Speichern] Schaltfläche.
+* Workfront geht von einem vollen Fehltag aus. Wenn dies der Fall ist, klicken Sie auf die Schaltfläche [!UICONTROL Speichern].
 
-* Ändern Sie für mehrere aufeinander folgende Tage das Bis -Datum in den letzten Tag außerhalb des Büros. Klicken Sie auf [!UICONTROL Speichern] Schaltfläche.
+* Ändern Sie für mehrere aufeinander folgende Tage das Bis-Datum in den letzten Tag der Abwesenheit. Klicken Sie auf die Schaltfläche [!UICONTROL Speichern].
 
-* Wenn Sie einen Teiltag freigeben, deaktivieren Sie die Option [!UICONTROL Ganztägig] ankreuzen. Geben Sie dann die Stunden an, die der Benutzer an diesem Tag arbeiten wird (die Stunden, in denen er verfügbar ist). Klicken Sie auf [!UICONTROL Speichern] Schaltfläche.
+* Wenn es nur um einen Teil des Tages geht, deaktivieren Sie die Option [!UICONTROL Ganztägig]. Geben Sie dann die Stunden an, die die Person an diesem Tag arbeiten wird (die Stunden, in denen sie verfügbar ist). Klicken Sie auf die Schaltfläche [!UICONTROL Speichern].
