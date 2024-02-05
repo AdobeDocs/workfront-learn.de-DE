@@ -1,6 +1,6 @@
 ---
-title: Projektvorlage freigeben
-description: Erfahren Sie, wie Sie eine Projektvorlage und basierend auf einer Vorlage erstellte Projekte freigeben können.
+title: Freigeben einer Projektvorlage
+description: Lernen Sie, wie Sie eine Projektvorlage und Projekte, die mit einer Vorlage erstellt wurden, freigeben können.
 activity: use
 feature: Work Management
 thumbnail: 335211.jpeg
@@ -12,17 +12,17 @@ jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Projektvorlage freigeben
+# Freigeben einer Projektvorlage
 
-Sie erfahren Folgendes:
+Sie werden Folgendes lernen:
 
-* Vorlage für andere Benutzer freigeben
-* Freigeben von mit einer Vorlage erstellten Projekten
+* Freigeben einer Vorlage für andere Benutzende
+* Freigeben von Projekten, die mit einer Vorlage erstellt wurden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
