@@ -1,6 +1,6 @@
 ---
-title: Ändern des Status von "Zugewiesener Arbeit"in [!UICONTROL Startseite]
-description: Erfahren Sie, wie Sie den Status von Zuweisungen ändern, um anzugeben, dass die Arbeit über die [!UICONTROL Startseite] Seite. zu verstehen, warum der Status in [!DNL  Workfront].
+title: Ändern des Status von „zugewiesener Arbeit“ auf der [!UICONTROL Startseite]
+description: Erfahren Sie, wie Sie den Status von Aufgaben auf der [!UICONTROL Startseite] ändern können, um anzuzeigen, dass sie in Bearbeitung sind. Verstehen Sie, warum der Status in [!DNL  Workfront]wichtig ist.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,32 +12,32 @@ jira: KT-8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ändern Sie den Status der Arbeitszuweisungen in [!DNL Workfront] [!UICONTROL Startseite]
+# Ändern des Status von Arbeitszuweisungen auf der [!DNL Workfront]-[!UICONTROL Startseite]
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Der Zweck des Status in [!DNL  Workfront]
-* So ändern Sie den Status von Arbeitszuweisungen
+* Ändern des Status von Arbeitszuweisungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on)
 
-## Im Vergleich
+## Starten vs. Daran arbeiten
 
-Während Sie Ihre Arbeitsaufgaben in [!UICONTROL Startseite]können Sie feststellen, dass eine Schaltfläche [!UICONTROL Aufgabe starten] oder [!UICONTROL Startproblem].
+Während Sie Ihre Arbeitsaufgaben auf der [!UICONTROL Startseite] überprüfen, sehen Sie möglicherweise eine Schaltfläche namens [!UICONTROL Aufgabe starten] oder [!UICONTROL Anfrage starten].
 
-![[!DNL Workfront] [!UICONTROL Startseite] Seite, auf der die Schaltfläche [!UICONTROL Aufgabe starten].](assets/worker-fundamentals-1.png)
+![[!DNL Workfront]-[!UICONTROL Startseite], auf der die Schaltfläche [!UICONTROL Aufgabe starten] lautet.](assets/worker-fundamentals-1.png)
 
-Wenn Sie auf [!UICONTROL Aufgabe starten]geändert, ändert dies automatisch den Status Ihrer Aufgabe in Wird ausgeführt (oder einen Status, der in Ihrer Organisation der Entsprechung entspricht).
+Wenn Sie auf [!UICONTROL Aufgabe starten] klicken, ändert dies automatisch den Status Ihrer Aufgabe zu „In Bearbeitung“ (oder einen Status, der diesem in Ihrer Organisation entspricht).
 
-Einige Teams sehen möglicherweise [!UICONTROL Arbeiten daran] -Schaltfläche. In diesem Fall erklären Sie, dass Sie die Zuweisung akzeptieren, aber noch nicht mit der Bearbeitung des Artikels begonnen haben. Der Status der Aufgabe ändert sich nicht.
+Manche Teams sehen stattdessen möglicherweise die Schaltfläche [!UICONTROL Daran arbeiten]. In diesem Fall geben Sie an, dass Sie den Arbeitsauftrag annehmen, aber noch nicht mit der Arbeit an dem Artikel begonnen haben. Der Status der Aufgabe ändert sich nicht.
 
-Der Name und die Funktionalität der Schaltfläche werden von Ihrem System- oder Gruppenadministrator sowie von den Workflows und Prozessen Ihres Unternehmens bestimmt.
+Der Name und die Funktionalität der Schaltfläche werden von Ihren System- oder Gruppenadmins sowie von den Workflows und Prozessen Ihres Unternehmens bestimmt.
 
 <!---
 learn more URLs
