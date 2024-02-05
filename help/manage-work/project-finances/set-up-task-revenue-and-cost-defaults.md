@@ -1,6 +1,6 @@
 ---
-title: Einrichten der standardmäßigen Einnahmen- und Kosteneinstellungen für Aufgaben
-description: Erfahren Sie, wie der Ertragstyp und der Kostentyp zur Berechnung der geplanten und tatsächlichen Finanzinformationen für eine Aufgabe verwendet werden.
+title: Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben
+description: Erfahren Sie, wie die Umsatz- und Kostenarten verwendet werden, um die Plan- und Ist-Finanzinformationen für eine Aufgabe zu berechnen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,17 +11,17 @@ level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '202'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# Einrichten der standardmäßigen Einnahmen- und Kosteneinstellungen für Aufgaben
+# Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben
 
-Der Ertragstyp und der Kostentyp werden zur Berechnung der geplanten und tatsächlichen Finanzinformationen für eine Aufgabe verwendet. Standardinformationen für jede dieser Aufgaben können systemweit festgelegt werden, sodass sie für jede neu erstellte Aufgabe gelten. Die Informationen können für einzelne Projekte geändert oder in Projektvorlagen festgelegt werden.
+Die Umsatzart und die Kostenart werden zur Berechnung der Plan- und Ist-Finanzinformationen für eine Aufgabe verwendet. Standardinformationen für jede dieser Aufgaben können systemweit festgelegt werden, sodass sie für jede neu erstellte Aufgabe gelten. Die Informationen können für einzelne Projekte geändert oder in Projektvorlagen festgelegt werden.
 
-**Es stehen fünf standardmäßige Umsatztypen zur Verfügung:**
+**Es stehen fünf Standardumsatzarten zur Verfügung:**
 
 * Nicht fakturierbar
 * Benutzer pro Stunde
@@ -29,7 +29,7 @@ Der Ertragstyp und der Kostentyp werden zur Berechnung der geplanten und tatsäc
 * Festgelegt pro Stunde
 * Festeinnahmen
 
-**Und es stehen vier Standardkostentypen zur Verfügung:**
+**Und es stehen vier Standardkostenarten zur Verfügung:**
 
 * Keine Kosten
 * Festgelegt pro Stunde
@@ -38,15 +38,15 @@ Der Ertragstyp und der Kostentyp werden zur Berechnung der geplanten und tatsäc
 
 >[!NOTE]
 >
->Wenn die Umsatz- oder Kostentypen auf &quot;Nicht abrechenbar&quot;oder &quot;Keine Kosten&quot;gesetzt sind, werden für die Aufgabe keine Umsatz- und Kostenschätzungen generiert. Daher trägt die Arbeit an der Aufgabe nicht zu den Einnahmen oder Kosten auf Projektebene bei.
+>Wenn die Umsatz- oder Kostenarten auf „Nicht fakturierbar“ bzw. „Keine Kosten“ eingestellt sind, werden keine Umsatz- und Kostenschätzungen für die Aufgabe erstellt. Daher trägt die Arbeit an der Aufgabe nicht zu den Einnahmen oder Kosten auf Projektebene bei.
 
-## Festlegen von Umsatz- und Kostenstandards
+## Festlegen von Standardwerten für Umsatz und Kosten
 
-Auswählen **[!UICONTROL Einrichtung]** aus dem Hauptmenü.
+Wählen Sie im Hauptmenü **[!UICONTROL Einrichtung]**.
 
-1. Klicken **[!UICONTROL Projektvoreinstellungen]** im Menü des linken Bedienfelds.
-1. Klicken Sie anschließend auf **[!UICONTROL Aufgaben und Probleme]**.
-1. Im [!UICONTROL Neuer Aufgabenstandard] wählen Sie den gewünschten [!UICONTROL Umsatztyp] und [!UICONTROL Kostentyp].
-1. Klicken Sie abschließend auf Speichern .
+1. Klicken Sie auf **[!UICONTROL Projektvoreinstellungen]** im Menü im linken Bereich.
+1. Klicken Sie dann auf **[!UICONTROL Aufgaben und Probleme]**.
+1. Wählen Sie im Abschnitt [!UICONTROL Voreinstellungen für neue Aufgabe] die gewünschte [!UICONTROL Umsatzart] und [!UICONTROL Kostenart] aus.
+1. Klicken Sie anschließend auf „Speichern“.
 
-![Ein Bild der Einrichtung von Umsatz- und Kostenvorgaben](assets/setting-up-finances-3.png)
+![Ein Bild zur Einrichtung der Standardwerte für Umsatz und Kosten](assets/setting-up-finances-3.png)
