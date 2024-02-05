@@ -1,6 +1,6 @@
 ---
 title: Einführung in Iteratoren
-description: Erfahren Sie, wie Iteration und Aggregation verwendet werden, und über verschiedene Typen von Iteratoren in [!DNL Adobe Workfront Fusion].
+description: Erfahren Sie, wie Iteration und Aggregation verwendet werden, und lernen Sie die verschiedenen Typen von Iteratoren in [!DNL Adobe Workfront Fusion]kennen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-9018
 exl-id: a790156d-e04e-4fd0-b4a3-9c30cfaeaac5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Einführung in Iteratoren
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Verwendung von Iteration und Aggregation
+* Wie Iteration und Aggregation verwendet werden
 * Die verschiedenen Typen von Iteratoren
 
 >[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12&learn=on)
