@@ -1,60 +1,60 @@
 ---
-title: Best Practice - Anforderungswarteschlangen
-description: Erfahren Sie mehr über Best Practices-Empfehlungen von Adobe Workfront-Experten zum Einrichten, Verwalten und Verwenden von Workfront-Anforderungswarteschlangen.
+title: Best Practice – Anfrage-Warteschlangen
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Workfront-Anfrage-Warteschlangen empfehlen.
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10921
 exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1480'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Anforderungswarteschlangen
+# Best Practice – Anfrage-Warteschlangen
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Best Practices für Anforderungswarteschlangen
+## Best Practices für Anfrage-Warteschlangen
 
-* Fügen Sie eine Beschreibung für jedes Element einer Anforderungswarteschlange ein - das Anforderungswarteschlangenprojekt, Themengruppen, Warteschlangenthemen und Routing-Regeln.
+* Fügen Sie eine Beschreibung für jedes Element einer Anfrage-Warteschlange ein – das Projekt der Anfrage-Warteschlange, Themengruppen, Warteschlangenthemen und Routing-Regeln.
 
-* Erstellen Sie einen Projektstatus mit dem Namen &quot;Anforderungswarteschlange&quot;oder &quot;Operativ&quot;, der mit &quot;Aktuell&quot;übereinstimmt, um Anforderungswarteschlangenprojekte von anderen Projekten zu unterscheiden.
+* Erstellen Sie einen Projektstatus mit dem Namen „Anfrage-Warteschlange“ oder „Operativ“, der „Aktuell“ entspricht, um Anfrage-Warteschlangenprojekte von anderen Projekten zu unterscheiden.
 
-* Wenn Sie beabsichtigen, Problemgenehmigungen für über eine Warteschlange gesendete Anforderungen zu verwenden, erstellen Sie einen Problemstatus namens Abgelehnt .
+* Wenn Sie beabsichtigen, Problemgenehmigungen für über eine Warteschlange gesendete Anfragen zu verwenden, erstellen Sie einen Problemstatus namens „Abgelehnt“.
 
-* Weisen Sie &quot;universelle&quot;benutzerdefinierte Formulare den Anfragewarteschlangen zu, um so viele unternehmensweite konsistente Daten wie möglich zu erfassen.
+* Weisen Sie „universelle“ benutzerdefinierte Formulare an Anfrage-Warteschlangen zu, um so viele unternehmensweit konsistente Daten wie möglich zu erfassen.
 
-* Vermeiden Sie die Freigabe von Anforderungswarteschlangen für &quot;alle&quot;. Richten Sie die Einstellungen für die Warteschlangendetails ein, damit Benutzer nur die Warteschlangen sehen, die für ihre Anforderungen relevant sind.
+* Vermeiden Sie die Freigabe von Anfrage-Warteschlangen für „alle“. Richten Sie die Einstellungen für die Warteschlangendetails so ein, dass Benutzende nur die Warteschlangen sehen, die für ihre Bedürfnisse relevant sind.
 
-* Erstellen Sie ein Dashboard mit Anforderungswarteschlangenberichten, damit Traffic-Manager, Systemadministratoren oder zugewiesene Benutzer Probleme direkt bearbeiten können.
+* Erstellen Sie ein Dashboard mit Anfrage-Warteschlangenberichten, damit Traffic-Managerinnen und -Manager, Systemadmins oder zugewiesene Benutzende Probleme direkt bearbeiten können.
 
-* Verwenden Sie Layoutvorlagen, um die Einrichtungsoptionen für Anforderungswarteschlangen aus dem Menü des linken Bedienfelds von Projekten für Benutzer zu entfernen, die keine Warteschlangen erstellen müssen.
+* Verwenden Sie Layout-Vorlagen, um die Einrichtungsoptionen für Anfrage-Warteschlangen aus dem Menü des linken Bedienfelds von Projekten für Benutzende zu entfernen, die keine Warteschlangen erstellen müssen.
 
-* Erstellen Sie eine Anforderungswarteschlange für Systemadministratoren, in der Benutzer Workfront-bezogene Fragen stellen, Anforderungen bezüglich der Systemeinrichtung stellen, neue Benutzerschulungen planen usw.
+* Erstellen Sie eine Anfrage-Warteschlange für Systemadmins, worüber Benutzende Workfront-bezogene Fragen stellen, Anfragen bezüglich der Systemeinrichtung stellen, neue Benutzerschulungen planen können usw.
 
-* Prüfen Sie Anforderungswarteschlangen regelmäßig, um nicht verwendete Warteschlangen zu identifizieren und deren Freigabe aufzuheben.
+* Überprüfen Sie die Anfrage-Warteschlangen regelmäßig, um nicht verwendete Warteschlangen zu identifizieren und deren Freigabe aufzuheben.
 
-* Verwenden Sie Themengruppen, um mehr als 10 Warteschlangenthemen in einer Anforderungswarteschlange zu organisieren, um kürzere, einfacher zu verwaltende Listen zu erstellen.
+* Verwenden Sie Themengruppen, um bei mehr als 10 Warteschlangenthemen in einer Anfrage-Warteschlange diese zu organisieren, indem kürzere, einfacher zu verwaltende Listen erstellt werden.
 
-* Steuern Sie die Gesamtzahl der für Benutzer verfügbaren Anforderungswarteschlangen, indem Sie eine Anforderungswarteschlange anhand von Themengruppen und Warteschlangenthemen aufschlüsseln, anstatt mehrere Warteschlangen zu erstellen.
+* Steuern Sie die Gesamtzahl der für Benutzende verfügbaren Anfrage-Warteschlangen, indem Sie eine Anfrage-Warteschlange anhand von Themengruppen und Warteschlangenthemen aufschlüsseln, anstatt mehrere Warteschlangen zu erstellen.
 
-* Richten Sie Routing-Regeln für jedes Warteschlangenthema ein. Richten Sie mindestens eine Standard-Routing-Regel ein.
+* Richten Sie für jedes Warteschlangenthema Routing-Regeln ein. Richten Sie mindestens eine Standard-Routing-Regel ein.
 
 * Nutzen Sie Themengruppen und Warteschlangenthemen, wenn ein selektives Routing erforderlich ist.
 
@@ -65,107 +65,68 @@ Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der a
 </br>
 
 
-## Warum sind diese Best Practices?
+## Warum sind das Best Practices?
 
 
 **Best Practice**
 
-Fügen Sie eine Beschreibung für jedes Element einer Anforderungswarteschlange ein - das Anforderungswarteschlangenprojekt, Themengruppen, Warteschlangenthemen und Routing-Regeln.
+Fügen Sie eine Beschreibung für jedes Element einer Anfrage-Warteschlange ein – das Projekt der Anfrage-Warteschlange, Themengruppen, Warteschlangenthemen und Routing-Regeln.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Beschreibungen informieren Gruppenadministratoren, zukünftige Systemadministratoren oder andere, die Anforderungswarteschlangen verwalten, darüber, was genau jeder Teil der Anforderungswarteschlange tut.
+Beschreibungen informieren Gruppenadmins, zukünftige Systemadmins oder andere, die Anfrage-Warteschlangen verwalten, darüber, was genau jeder Teil der Anfrage-Warteschlange tut.
 
-Die Beschreibungsinformationen werden auch angezeigt, wenn Sie den Mauszeiger über das Informationssymbol im Feld in der neuen Anforderungsleiste bewegen.
+Die Beschreibungsinformationen werden auch angezeigt, wenn Sie den Mauszeiger über das Informationssymbol im Feld im Fenster für eine neue Anfrage bewegen.
 
-Die Beschreibung muss nicht lang sein, nur ein kurzer Kommentar zum Zweck oder zur Verwendung des Elements.
-
-</br>
-</br>
-
-**Best Practice**
-
-Erstellen Sie einen Projektstatus mit dem Namen &quot;Anforderungswarteschlange&quot;oder &quot;Operativ&quot;, der mit &quot;Aktuell&quot;übereinstimmt, um Anforderungswarteschlangenprojekte von anderen Projekten zu unterscheiden.
-
-**Deshalb**
-
-Eine Anforderungswarteschlange &quot;lebt&quot;in einem Projekt und muss sich in einem Status befinden, der dem aktuellen Status entspricht, damit die Warteschlange aktiv ist.
-
-Um eine Anforderung von den tatsächlichen Arbeitsprojekten mit dem Status &quot;Aktuell&quot;zu unterscheiden, erstellen Sie einen Status, der nur in Anforderungswarteschlangen mit dem Namen &quot;Anforderungswarteschlange&quot;oder &quot;Operativ&quot;verwendet werden soll. Anschließend können Sie diesen Status verwenden, um beim Schreiben von Berichten Anforderungswarteschlangenprojekte auszuschließen oder einzuschließen.
+Die Beschreibung muss nicht lang sein, ein kurzer Kommentar zum Zweck oder zur Verwendung des Elements reicht.
 
 </br>
 </br>
 
 **Best Practice**
 
-Erstellen Sie bei der Verwendung von Problemgenehmigungen den Fehlerstatus &quot;Abgelehnt&quot;und legen Sie für die Option Bei Abgelehnt den Status &quot;Abgelehnt&quot;fest.
+Erstellen Sie einen Projektstatus mit dem Namen „Anfrage-Warteschlange“ oder „Operativ“, der „Aktuell“ entspricht, um Anfrage-Warteschlangenprojekte von anderen Projekten zu unterscheiden.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Durch die Verwendung des Status &quot;Abgelehnt&quot;wird deutlich, dass der Antrag geprüft und abgelehnt wurde.
+Eine Anfrage-Warteschlange „lebt“ in einem Projekt und muss sich in einem Status befinden, der „aktuell“ entspricht, damit die Warteschlange aktiv ist.
 
-</br>
-</br>
-
-**Best Practice**
-
-Weisen Sie &quot;universelle&quot;benutzerdefinierte Formulare den Anfragewarteschlangen zu, um so viele unternehmensweite konsistente Daten wie möglich zu erfassen.
-
-**Deshalb**
-
-Ein &quot;universelles&quot;benutzerdefiniertes Formular erfasst die für die Anfrage benötigten Standardinformationen, unabhängig vom Typ der gesendeten Anforderung.
-
-Ein &quot;universelles&quot;benutzerdefiniertes Formular reduziert die Anzahl benutzerdefinierter Formulare, die Sie erstellen und verwalten müssen. Außerdem wird sichergestellt, dass alle Anforderungen dieselben Informationen auf die gleiche Weise erfassen, was zu einer konsistenten Berichterstattung und Datenanalyse führt.
+Um eine Anfrage von tatsächlichen Arbeitsprojekten mit dem Status „Aktuell“ zu unterscheiden, erstellen Sie einen Status, der nur für Anfragewarteschlangen verwendet wird und etwa „Anfragewarteschlange“ oder „Operativ“ heißt. Anschließend können Sie diesen Status verwenden, um beim Schreiben von Berichten Anfrage-Warteschlangenprojekte aus- oder einzuschließen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Vermeiden Sie die Freigabe von Anforderungswarteschlangen für &quot;alle&quot;.  Richten Sie die Einstellungen für die Warteschlangendetails ein, damit Benutzer nur die Warteschlangen sehen, die für ihre Anforderungen relevant sind.
+Erstellen Sie bei der Verwendung von Problemgenehmigungen den Fehlerstatus „Abgelehnt“ und legen Sie für die Option „Wenn abgelehnt“ den Status „Abgelehnt“ fest.
 
-**Deshalb**
+**Das sind die Gründe**
 
-In den meisten Fällen muss eine Anforderungswarteschlange nur für bestimmte Personen wie ein Team, einen Anbieter, Kunden usw. freigegeben werden. Wenn Anfragende nur sehen, was sie in der Liste der Anforderungswarteschlangen benötigen, ist es einfach, Dinge zu finden und zu navigieren.
-
-</br>
-</br>
-
-
-**Best Practice**
-
-Erstellen Sie ein Dashboard mit Anforderungswarteschlangenberichten, damit Traffic-Manager, Systemadministratoren oder zugewiesene Benutzer Probleme direkt bearbeiten können.
-
-**Deshalb**
-
-Wenn Benutzer schnell und einfach auf eingehende Anfragen zugreifen können, geht die Arbeit nicht verloren.
+Durch die Verwendung des Status „Abgelehnt“ wird deutlich, dass die Anfrage geprüft und abgelehnt wurde.
 
 </br>
 </br>
 
 **Best Practice**
 
-Verwenden Sie Layoutvorlagen, um die Einrichtungsoptionen für Anforderungswarteschlangen aus dem Menü des linken Bedienfelds von Projekten für Benutzer zu entfernen, die keine Warteschlangen erstellen müssen.
+Weisen Sie „universelle“ benutzerdefinierte Formulare an Anfrage-Warteschlangen zu, um so viele unternehmensweit konsistente Daten wie möglich zu erfassen.
 
+**Das sind die Gründe**
 
-**Deshalb**
+Ein „universelles“ benutzerdefiniertes Formular erfasst die für die Anfrage benötigten Standardinformationen, unabhängig vom Typ der gesendeten Anfrage.
 
-Dadurch wird sichergestellt, dass alle Anforderungswarteschlangen den richtigen Prozess zur Erstellung durchlaufen (z. B. durch einen Governance-Ausschuss überprüft) und entweder von einem System- oder Gruppenadministrator korrekt eingerichtet werden.
-
-Darüber hinaus hilft dies, die Warteschlangenliste organisiert zu halten und sich auf die Arten von Anforderungen zu konzentrieren, die Ihr Unternehmen benötigt.
+Mit einem „universellen“ benutzerdefinierten Formular können Sie die Anzahl der benutzerdefinierten Formulare reduzieren, die Sie erstellen und pflegen müssen. Außerdem wird dadurch sichergestellt, dass alle Anfragen dieselben Informationen auf die gleiche Weise erfassen, was zu einer konsistenten Berichterstellung und Datenanalyse führt.
 
 </br>
 </br>
 
 **Best Practice**
 
-Erstellen Sie eine Anforderungswarteschlange für Systemadministratoren, in der Benutzer Workfront-bezogene Fragen stellen, Anforderungen bezüglich der Systemeinrichtung stellen, neue Benutzerschulungen planen usw.
+Vermeiden Sie die Freigabe von Anfrage-Warteschlangen für „alle“.  Richten Sie die Einstellungen für die Warteschlangendetails so ein, dass Benutzende nur die Warteschlangen sehen, die für ihre Bedürfnisse relevant sind.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Dies bietet einen zentralen Ort, an dem Benutzer Fragen stellen können und Administratoren Fragen zu Workfront-bezogenen Problemen sammeln, überwachen und beantworten können.
-
-Darüber hinaus können diese Informationen verwendet werden, um die Führungsrolle, den Arbeitsaufwand und den Wert der Systemadministratorrolle sowie einen zusätzlichen Systemadministrator zu rechtfertigen.
+In den meisten Fällen muss eine Anfrage-Warteschlange nur für eine bestimmte Gruppe von Personen wie ein Team, einen Lieferanten, Kundinnen und Kunden usw. freigegeben werden. Wenn Menschen, die eine Anfrage starten wollen, in der Liste der Anfrage-Warteschlangen nur das sehen, was sie benötigen, ist es einfach, Dinge zu finden und zu navigieren.
 
 </br>
 </br>
@@ -173,11 +134,38 @@ Darüber hinaus können diese Informationen verwendet werden, um die Führungsro
 
 **Best Practice**
 
-Prüfen Sie Anforderungswarteschlangen regelmäßig, um nicht verwendete Warteschlangen zu identifizieren und deren Freigabe aufzuheben.
+Erstellen Sie ein Dashboard mit Anfrage-Warteschlangenberichten, damit Traffic-Managerinnen und -Manager, Systemadmins oder zugewiesene Benutzende Probleme direkt bearbeiten können.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Eine regelmäßige Prüfung der Setups und Elemente in Ihrem Adobe Workfront-System hilft, das System unübersichtlich und ohne unnötige Elemente zu halten. Wenn eine Warteschlange nicht mehr verwendet oder überwacht wird, stellen Sie sicher, dass Benutzer nicht mehr darauf zugreifen können, damit Arbeitsanforderungen nicht ungültig werden.
+Wenn Benutzende schnell und einfach auf eingehende Anfragen zugreifen können, geht keine Arbeit unter.
+
+</br>
+</br>
+
+**Best Practice**
+
+Verwenden Sie Layout-Vorlagen, um die Einrichtungsoptionen für Anfrage-Warteschlangen aus dem Menü des linken Bedienfelds von Projekten für Benutzende zu entfernen, die keine Warteschlangen erstellen müssen.
+
+
+**Das sind die Gründe**
+
+Dadurch wird sichergestellt, dass alle Anfrage-Warteschlangen den richtigen Prozess zur Erstellung durchlaufen (z. B. durch einen Governance-Ausschuss überprüft werden) und entweder von System- oder Gruppenadmins korrekt eingerichtet werden.
+
+Darüber hinaus hilft dies, die Warteschlangenliste organisiert zu halten und sich auf die Arten von Anfragen zu konzentrieren, die Ihr Unternehmen benötigt.
+
+</br>
+</br>
+
+**Best Practice**
+
+Erstellen Sie eine Anfrage-Warteschlange für Systemadmins, worüber Benutzende Workfront-bezogene Fragen stellen, Anfragen bezüglich der Systemeinrichtung stellen, neue Benutzerschulungen planen können usw.
+
+**Das sind die Gründe**
+
+Dies bietet einen zentralen Ort, an dem Benutzende Fragen stellen können und Admins Fragen zu Workfront-bezogenen Problemen sammeln, überwachen und beantworten können.
+
+Darüber hinaus können diese Informationen verwendet werden, um gegenüber den Führungskräften die Zeit, den Arbeitsaufwand und den Wert der Systemadministratorrolle oder den Bedarf nach zusätzlichen Systemadmins zu rechtfertigen.
 
 </br>
 </br>
@@ -185,39 +173,51 @@ Eine regelmäßige Prüfung der Setups und Elemente in Ihrem Adobe Workfront-Sys
 
 **Best Practice**
 
-Verwenden Sie Themengruppen, um mehr als 10 Warteschlangenthemen in einer Anforderungswarteschlange zu organisieren, um kürzere, einfacher zu verwaltende Listen zu erstellen.
+Überprüfen Sie die Anfrage-Warteschlangen regelmäßig, um nicht verwendete Warteschlangen zu identifizieren und deren Freigabe aufzuheben.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Themengruppen erhöhen die Benutzerakzeptanz und schaffen weniger Verwirrung, indem sie die anfängliche Liste der Optionen verringern, aus denen Sie auswählen können. Dadurch können Benutzer einfach finden, wonach sie suchen, ohne sie beim Senden einer Anfrage zu überfordern.
+Eine regelmäßige Überprüfung der Einstellungen und Elemente in Ihrem Adobe Workfront-System trägt dazu bei, dass es übersichtlich bleibt und keine überflüssigen Elemente enthält. Wenn eine Warteschlange nicht mehr verwendet oder überwacht wird, stellen Sie sicher, dass Benutzende nicht mehr darauf zugreifen können, damit Arbeitsanfragen nicht ins Leere laufen.
 
-Darüber hinaus können Systemadministratoren und/oder Anforderungswarteschlangenmanager einen reibungslosen Navigationspfad für Benutzer erstellen und die Organisation und Berichterstellung für die Typen der gesendeten Anforderungen verbessern.
+</br>
+</br>
+
+
+**Best Practice**
+
+Verwenden Sie Themengruppen, um bei mehr als 10 Warteschlangenthemen in einer Anfrage-Warteschlange diese zu organisieren, indem kürzere, einfacher zu verwaltende Listen erstellt werden.
+
+**Das sind die Gründe**
+
+Themengruppen erhöhen die Benutzerakzeptanz und sorgen für weniger Verwirrung, da die anfängliche Liste der auszuwählenden Optionen kürzer wird. Dadurch können Benutzende leichter finden, wonach sie suchen, ohne beim Senden einer Anfrage überfordert zu sein.
+
+Darüber hinaus können Systemadmins und/oder Managerinnen und Manager von Anfrage-Warteschlangen einen reibungslosen Navigationspfad für Benutzende erstellen und die Organisation und Berichterstellung für die Typen der gesendeten Anfragen verbessern.
 
 </br>
 </br>
 
 **Best Practice**
 
-Steuern Sie die Gesamtzahl der für Benutzer verfügbaren Anforderungswarteschlangen, indem Sie eine Anforderungswarteschlange anhand von Themengruppen und Warteschlangenthemen aufschlüsseln, anstatt mehrere Warteschlangen zu erstellen.
+Steuern Sie die Gesamtzahl der für Benutzende verfügbaren Anfrage-Warteschlangen, indem Sie eine Anfrage-Warteschlange anhand von Themengruppen und Warteschlangenthemen aufschlüsseln, anstatt mehrere Warteschlangen zu erstellen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Zu viele Anfragewarteschlangen machen es für Benutzer schwierig, das zu finden, was sie benötigen.
+Zu viele Anfrage-Warteschlangen machen es für Benutzende schwierig, das zu finden, was sie benötigen.
 
-Weniger Warteschlangen helfen auch Traffic-Koordinatoren, Systemadministratoren oder anderen, die die Warteschlangen verwalten, damit sie die benötigten Informationen schneller finden können, ohne zu mehreren Projekten in der Anforderungswarteschlange navigieren zu müssen.
+Weniger Warteschlangen helfen auch Menschen, die Traffic koordinieren, Systemadmins oder anderen, die die Warteschlangen verwalten, damit sie die benötigten Informationen schneller finden können, ohne zu mehreren Projekten in einer Anfrage-Warteschlange navigieren zu müssen.
 
-Erstellen Sie mehrere Anforderungswarteschlangen, wenn für verschiedene Anforderungswarteschlangen ein anderer Zugriff erforderlich ist oder wenn die Konsolidierung von Warteschlangen für die Benutzer verwirrend wäre.
+Erstellen Sie mehrere Anfrage-Warteschlangen, wenn für verschiedene Anfrage-Warteschlangen verschiedene Arten von Zugriff erforderlich sind oder wenn eine Konsolidierung von Warteschlangen für die Benutzenden verwirrend wäre.
 
 </br>
 </br>
 
 **Best Practice**
 
-Richten Sie Routing-Regeln für jedes Warteschlangenthema ein. Richten Sie mindestens eine Standard-Routing-Regel ein.
+Richten Sie für jedes Warteschlangenthema Routing-Regeln ein. Richten Sie mindestens eine Standard-Routing-Regel ein.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Routing-Regeln stellen sicher, dass jemandem immer die eingehende Anfrage zugewiesen wird, damit die Arbeit nicht durch die Risse fällt.
+Routing-Regeln stellen sicher, dass die eingehende Anfrage immer jemandem zugewiesen wird, damit keine Arbeit übersehen wird.
 
 </br>
 </br>
@@ -226,9 +226,9 @@ Routing-Regeln stellen sicher, dass jemandem immer die eingehende Anfrage zugewi
 
 Nutzen Sie Themengruppen und Warteschlangenthemen, wenn ein selektives Routing erforderlich ist.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Routing-Regeln können nicht auf Felder eines benutzerdefinierten Formulars angewendet werden. Wenn also unterschiedliche Anforderungstypen an verschiedene Teams/Einzelpersonen weitergeleitet werden müssen, stellen Sie jedem Anfragetyp ein eigenes Themengruppen-/Warteschlangenthema zur Verfügung, damit die Arbeit ordnungsgemäß weitergeleitet werden kann.
+Routing-Regeln können nicht auf Felder eines benutzerdefinierten Formulars angewendet werden. Wenn also Anfragen unterschiedlicher Arten an verschiedene Teams/Einzelpersonen weitergeleitet werden müssen, erstellen für Sie jeden Anfragetyp ein eigenes Warteschlangenthema oder eine Themengruppe, damit die Arbeit ordnungsgemäß weitergeleitet werden kann.
 
 </br>
 </br>
@@ -237,8 +237,8 @@ Routing-Regeln können nicht auf Felder eines benutzerdefinierten Formulars ange
 
 Senden Sie Anfragen an ein Team und nicht an eine Einzelperson.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn Anfragen an das Team gesendet werden, erhalten Sie vom gesamten Team einen Einblick in die ausgeführten Anforderungen und die damit verbundenen Aufgaben. Jeder kann sich die Team-Seite auf neue Elemente ansehen oder die neuen Funktionen mit einem Bericht in einem Dashboard verfolgen.
+Wenn Anfragen an das Team geschickt werden, erhält das gesamte Team einen Überblick über die gestellten Anfragen und die anstehenden Arbeiten. Jeder kann die Team-Seite auf neue Elemente überprüfen oder die neuen Funktionen mit einem Bericht in einem Dashboard verfolgen.
 
-Außerdem wird sichergestellt, dass, wenn der Traffic-Manager oder eine andere Person, die für die Überprüfung oder Zuweisung der eingehenden Anfragen zuständig ist, nicht verfügbar ist, eine Sicherung automatisch verfügbar ist und Zugriff auf die Anfrageinformationen hat.
+Außerdem wird sichergestellt, dass, wenn Traffic-Managerinnen und -Manager oder andere Personen, die für die Überprüfung oder Zuweisung der eingehenden Anfragen zuständig sind, nicht verfügbar sind, automatisch eine Sicherung verfügbar ist und Zugriff auf die Anfrageinformationen hat.
