@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur [!DNL Workfront Goals] works
-description: Erfahren Sie, wie Sie in der Planungsphase das "Was"und das "Warum"artikulieren, Beispielziele und Einflussbereich definieren.
+title: Grundlegendes zu  [!DNL Workfront Goals]
+description: Weitere Informationen über die Artikulation des „Was“ und „Warum“ in der Planungsphase, Beispielziele und den Einflussbereich.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,37 +11,37 @@ jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zur [!DNL Workfront Goals] works
+# Grundlegendes zu [!DNL Workfront Goals]
 
-In diesem Video erfahren Sie mehr über:
+In diesem Video lernen Sie Folgendes:
 
-* Die &quot;Was&quot; und das &quot;Warum&quot; in der Planungsphase abstecken
+* Wie das „Was“ und das „Warum“ in der Planungsphase artikuliert werden kann
 * Beispielziele
 * Einflussbereich
 
 >[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on)
 
-## Verantwortliche Personen bestimmen
+## Bestimmen der verantwortlichen Personen
 
-Vorbereitung der Konfiguration [!DNL Workfront Goals]müssen Sie die Personen in Ihrer Organisation identifizieren, die für die Erreichung der einzelnen Ziele verantwortlich sind.
+Vor der Vorbereitung der Konfiguration für [!DNL Workfront Goals] müssen Sie die Personen in Ihrer Organisation identifizieren, die für die Erreichung der einzelnen Ziele verantwortlich sind.
 
-Es gibt einige Möglichkeiten, dies zu tun. [!DNL Workfront] empfiehlt, Ihr Organisationsdiagramm zu skizzieren. Es wird wahrscheinlich mehrere Ebenen von Ziel-Eigentümern geben. Beginnen Sie mit der obersten Führungsebene und identifizieren Sie dann die Teams und Teammitglieder, die für die Ausführung der erforderlichen Arbeit verantwortlich sind, um diese gewünschten Ergebnisse zu erzielen. Sie brauchen einen Kontext dessen, wofür sie arbeiten, um ihre beste Arbeit zu erbringen.
+Es gibt einige Möglichkeiten, dies zu tun. [!DNL Workfront] empfiehlt, Ihr Organigramm zu skizzieren. Es wird wahrscheinlich mehrere Ebenen von Ziel-Eigentümern geben. Beginnen Sie mit der obersten Führungsebene und identifizieren Sie dann die Teams und Team-Mitglieder, die für die Ausführung der erforderlichen Arbeiten verantwortlich sind, um diese gewünschten Ergebnisse zu erzielen. Diese brauchen einen Kontext dessen, wofür sie arbeiten, um ihre beste Arbeit zu erbringen.
 
-Als Nächstes nehmen Sie einen Schritt zurück und sehen Sie sich Ihre Leute an. Ermitteln Sie, wer Zugriff vollständig verwalten/bearbeiten, nur Zugriff anzeigen und überhaupt keinen Zugriff haben muss. Die Zahl der Personen ohne Zugang sollte relativ gering sein, da die meisten zumindest Ziele für den strategischen Kontext sehen müssen.
+Gehen Sie als Nächstes einen Schritt zurück und sehen Sie sich Ihre Personenliste an. Ermitteln Sie, wer einen uneingeschränkten Zugriff zum Verwalten/Bearbeiten, wer nur Ansichtszugriff und wer überhaupt keinen Zugriff benötigt. Die Zahl der Personen, die überhaupt keinen Zugriff haben, sollte relativ gering sein, da die meisten zumindest Ziele für den strategischen Kontext sehen müssen.
 
 >[!NOTE]
 >
->Berücksichtigen Sie bei der Identifizierung der Hauptzieleigentümer, dass Sie strategische Ziele für Unternehmensergebnisse festlegen, nicht persönliche Entwicklungsziele. Workfront empfiehlt, nur Entwicklungsziele hinzuzufügen, die direkt zu Unternehmens- und Unternehmenszielen beitragen oder diese vorantreiben.
+>Berücksichtigen Sie bei der Identifizierung der Hauptzieleigentümer, dass Sie strategische Ziele für Unternehmensergebnisse festlegen, nicht persönliche Entwicklungsziele. Workfront empfiehlt, nur Entwicklungsziele hinzuzufügen, die direkt zu Geschäfts- und Unternehmenszielen beitragen oder diese vorantreiben.
 
-![Leeres Organisationsdiagramm](assets/01-workfront-goals-blank-org-chart.png)
+![Leeres Organigramm](assets/01-workfront-goals-blank-org-chart.png)
 
-Wir zeigen Ihnen, wie Sie Ihre Einstellungen in [!DNL Workfront Goals], Teil 2: Erstellen und verwalten Sie Ihre Ziele.
+Wir zeigen Ihnen, wie Sie Ihre Einstellungen in [!DNL Workfront Goals] einrichten und konfigurieren, Teil 2: Erstellen und verwalten Ihrer Ziele.
 
 <!--
 URL for part 2 reference above
