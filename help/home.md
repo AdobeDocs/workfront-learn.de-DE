@@ -1,17 +1,17 @@
 ---
-title: Workfront Tutorials
-description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen dabei helfen, die Funktionen und Einstellungen von Workfront besser zu verstehen.  Dazu gehört eine Sammlung von Best Practices, kuratierten Übungen und anderen Ressourcen, die Ihnen und Ihrer Organisation dabei helfen, Workfront erfolgreich zu nutzen.
+title: Workfront-Tutorials
+description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen sollen, die Funktionen und Einstellungen von Workfront besser zu verstehen.  Dazu gehört eine Sammlung von Best Practices, kuratierten Übungen und anderen Ressourcen, die Ihnen und Ihrem Unternehmen dabei helfen, Workfront erfolgreich zu nutzen.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront Tutorials {#overview}
+# Workfront-Tutorials {#overview}
 
-Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen dabei helfen, die Funktionen und Einstellungen von Workfront besser zu verstehen.  Dazu gehört eine Sammlung von Best Practices, kuratierten Übungen und anderen Ressourcen, die Ihnen und Ihrer Organisation dabei helfen, Workfront erfolgreich zu nutzen.
+Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen sollen, die Funktionen und Einstellungen von Workfront besser zu verstehen.  Dazu gehört eine Sammlung von Best Practices, kuratierten Übungen und anderen Ressourcen, die Ihnen und Ihrem Unternehmen dabei helfen, Workfront erfolgreich zu nutzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
 
@@ -24,13 +24,13 @@ See other user landing pages to get ideas.
 
 <div id="whats-new-section">
 
-## Neue Funktionen
+## Was ist neu?
 
-Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede Workfront-Produktversion. Hier finden Sie Informationen zur neuesten Version:
+Entdecken Sie die neuesten Aktualisierungen der Tutorials zu jeder Workfront-Produktversion. Hier sehen Sie, was mit der neuesten Version aktualisiert wurde:
 
-* Das Symbol Favoriten und Neuigkeiten wurde in der oberen Navigation in Workfront getrennt. Eine kurze Zusammenfassung zu jedem finden Sie im <a href="/help/manage-work/projects/find-projects.md">Projekte suchen</a> Tutorial.
+* Die Symbole für „Favoriten“ und „Favoritenliste“ wurden in der oberen Workfront-Navigationsleiste getrennt. Eine kurze Zusammenfassung der einzelnen Funktionen finden Sie in der Anleitung <a href="/help/manage-work/projects/find-projects.md">Nach Projekten suchen</a>.
 
-* Konfigurieren Sie ein benutzerdefiniertes Formular für die Verwendung mit mehreren Objekttypen. Siehe wie in <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">Erstellen und Freigeben eines benutzerdefinierten Formulars</a> Tutorial.
+* Konfigurieren Sie ein benutzerdefiniertes Formular für die Arbeit mit mehreren Objekttypen. Eine Anleitung dazu finden Sie im Tutorial <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">Erstellen und Freigeben eines benutzerdefinierten Formulars</a>.
 
 </div>
 
@@ -49,13 +49,13 @@ Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
-      <img alt="Layoutvorlagen suchen und erstellen" src="./assets/ltemp_01.png"/>
+      <img alt="Suchen und Erstellen von Layout-Vorlagen" src="./assets/ltemp_01.png"/>
       </a>
       <div>
-         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Layoutvorlagen suchen und erstellen</strong></a>
+         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Suchen und Erstellen von Layout-Vorlagen</strong></a>
       </div>
       <p>
-         <em>Erfahren Sie, wie Sie eine einfache Layoutvorlage erstellen.</em>
+         <em>Lernen Sie, wie man eine einfache Layout-Vorlage erstellt.</em>
       </p>
     </td>
    <td>
@@ -63,18 +63,18 @@ Informieren Sie sich über die neuesten Aktualisierungen der Tutorials für jede
       <img alt="Anfrage stellen" src="./assets/nrequest_01.png"/>
       </a>
       <div>
-         <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Anfrage stellen</strong></a>
+         <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Stellen einer Anfrage</strong></a>
       </div>
       <p>
-         <em>Erfahren Sie, wie Sie Anforderungen erstellen, anzeigen und bearbeiten.</em>
+         <em>Erfahren Sie, wie Sie Anfragen erstellen, anzeigen und bearbeiten können.</em>
       </p>
 
 <td>
       <a href="/help/reporting/basic-reporting/create-a-simple-report.md">
-      <img alt="Einfache Berichte erstellen" src="./assets/sreport_01.png"/>
+      <img alt="Erstellen eines einfachen Berichts" src="./assets/sreport_01.png"/>
       </a>
       <div>
-         <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Einfache Berichte erstellen</strong></a>
+         <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Erstellen eines einfachen Berichts</strong></a>
       </div>
       <p>
          <em>Erfahren Sie, wie Sie einen einfachen benutzerspezifischen Bericht erstellen.</em>
