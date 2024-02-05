@@ -1,91 +1,91 @@
 ---
-title: Best Practice - Dashboards
-description: Erfahren Sie mehr über Best Practices von Adobe Workfront-Experten zur Einrichtung, Verwaltung und Verwendung von Workfront-Dashboards.
+title: Best Practice – Dashboards
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Workfront-Dashboards empfehlen.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10909
 exl-id: fd4cd3d4-9343-4f33-919a-9c390f42411a
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Dashboards
+# Best Practice – Dashboards
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
-
-</br>
-</br>
-
-## Best Practices für Dashboards
-
-* Fügen Sie Layoutvorlagen Dashboards hinzu.
-
-* Vermeiden Sie das Überladen von Dashboards mit zu vielen Berichten.
-
-* Machen Sie ein Dashboard zur Startseite in Workfront für Führungskräfte Ihrer Organisation.
-
-* Passen Sie die Spalten an, die in einem Bericht angezeigt werden, wenn dieser Teil eines Dashboards ist.
-
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
+## Dashboards – Best Practices
 
-## Warum sind diese Best Practices?
+* Fügen Sie Dashboards zu Layout-Vorlagen hinzu.
+
+* Nehmen Sie nicht zu viele Berichte in Ihre Dashboards auf.
+
+* Machen Sie ein Dashboard für die Führungskräfte Ihres Unternehmens zur Workfront-Startseite.
+
+* Passen Sie an, welche Spalten in einem Bericht angezeigt werden, wenn er Teil eines Dashboards ist.
+
+
+</br>
+</br>
+
+
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Fügen Sie Layoutvorlagen Dashboards hinzu.
+Fügen Sie Dashboards zu Layout-Vorlagen hinzu.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Dashboards und Layoutvorlagen haben häufig etwas gemein - sie sollen bestimmten Benutzern dabei helfen, ihre Arbeit abzuschließen. Durch die Freigabe von Dashboards über Layoutvorlagen können System- und Gruppenadministratoren schnell Dashboards verteilen und sicherstellen, dass die Benutzer über alle benötigten Tools verfügen - von den erforderlichen Abschnitten von Workfront bis hin zu einem Bericht, der ihre neuesten Zuweisungen anzeigt.
-
-</br>
-</br>
-
-**Best Practice**
-
-Vermeiden Sie das Überladen von Dashboards mit zu vielen Berichten.
-
-**Deshalb**
-
-Mehr Informationen sind nicht immer besser. Zu viele Berichte in einem Dashboard machen es dem Benutzer schwer, das zu finden, wonach er sucht.
-
-Darüber hinaus kann die Leistung des Dashboards durch die Anzahl und Komplexität der Berichte verlangsamt werden. Sie können Dashboards schneller laden, indem Sie Berichte im Diagrammformat anzeigen und Listenberichte auf 15 Objekte gleichzeitig beschränken (über die Berichtseinstellungen).
+Dashboards und Layout-Vorlagen haben oft etwas gemeinsam: Sie wurden entwickelt, um eine bestimmte Benutzergruppe bei ihrer Arbeit zu unterstützen. Die gemeinsame Nutzung von Dashboards über Layout-Vorlagen hilft System- und Gruppenadmins bei der schnellen Bereitstellung von Dashboards und stellt sicher, dass den Benutzenden alle benötigten Tools zur Verfügung stehen – von den erforderlichen Abschnitten in Workfront bis hin zu einem Bericht mit ihren neuesten Aufgabenzuweisungen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Machen Sie ein Dashboard zur Startseite in Workfront für Führungskräfte Ihrer Organisation.
+Nehmen Sie nicht zu viele Berichte in Ihre Dashboards auf.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn Sie Führungskräfte oder Manager haben, die nur Workfront zum Überprüfen von Berichten verwenden, bedeutet dies, dass sie beim Anmelden bei Workfront das Dashboard als Erstes sehen, dass sie sofort einen Einblick in den Arbeitsfortschritt erhalten.
+Mehr Informationen sind nicht immer besser. Zu viele Berichte in einem Dashboard machen es Benutzenden schwer, das zu finden, was sie suchen.
+
+Darüber hinaus können die Anzahl und die Komplexität der Berichte die Leistung des Dashboards beeinträchtigen. Indem Sie Berichte im Diagrammformat anzeigen und Listenberichte auf jeweils 15 Objekte beschränken (über die Berichtseinstellungen), können Sie dafür sorgen, dass Dashboards schneller geladen werden.
 
 </br>
 </br>
 
 **Best Practice**
 
-Passen Sie die Spalten an, die in einem Bericht angezeigt werden, wenn dieser Teil eines Dashboards ist.
+Machen Sie ein Dashboard für die Führungskräfte Ihres Unternehmens zur Workfront-Startseite.
 
-**Deshalb**
+**Das sind die Gründe**
 
-In der Standardeinstellung wird in einem Dashboard nur eine Spalte angezeigt. Je nach Spaltenname oder den angezeigten Daten können drei oder vier Spalten passen. Aktivieren Sie die Option &quot;Spalte im Dashboard anzeigen&quot; für Spalten, die angezeigt werden sollen, wenn der Bericht in einer Dashboard-Konfiguration nebeneinander angeordnet ist.
+Wenn Ihre Führungskräfte, Managerinnen und Manager Workfront nur zur Überprüfung von Berichten verwenden, können Sie das Dashboard zum ersten Element machen, das sie sehen, wenn sie sich bei Workfront anmelden, sodass sie sofort Einblick in den Arbeitsfortschritt erhalten.
+
+</br>
+</br>
+
+**Best Practice**
+
+Passen Sie an, welche Spalten in einem Bericht angezeigt werden, wenn er Teil eines Dashboards ist.
+
+**Das sind die Gründe**
+
+Standardmäßig zeigen nebeneinander liegende Berichte in einem Dashboard nur eine Spalte an. Je nachdem, welche Spaltenname oder Daten angezeigt werden sollen, können drei oder vier Spalten ausreichend sein. Aktivieren Sie die Option „Diese Spalte im Dashboard anzeigen“ für Spalten, die angezeigt werden sollen, wenn sich der Bericht in einer Vergleichskonfiguration auf einem Dashboard befindet.
