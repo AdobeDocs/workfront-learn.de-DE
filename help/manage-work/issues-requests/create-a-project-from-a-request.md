@@ -1,6 +1,6 @@
 ---
-title: Konvertieren eines Problems/einer Anforderung in ein Projekt
-description: Erfahren Sie, wie Sie Anforderungsinformationen überprüfen, die richtige Projektvorlage auswählen und die Anforderung in ein Projekt konvertieren können.
+title: Konvertieren eines Problems/einer Anfrage in ein Projekt
+description: Erfahren Sie, wie Sie Anfrageinformationen überprüfen, die richtige Projektvorlage auswählen und die Anfrage in ein Projekt konvertieren können.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -12,44 +12,44 @@ jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Konvertieren eines Problems/einer Anforderung in ein Projekt
+# Konvertieren eines Problems/einer Anfrage in ein Projekt
 
 In diesem Video lernen Sie Folgendes:
 
-* Überprüfen Sie die mit der Anfrage übermittelten Informationen.
+* Überprüfen der mit der Anfrage übermittelten Informationen
 * Auswählen der entsprechenden Projektvorlage
-* Konvertierung von Anforderung zu Projekt abschließen
+* Abschließen der Konvertierung von Anfrage zu Projekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on)
 
-## Was Sie über die [!UICONTROL Optionen] Abschnitt
+## Was Sie über den Abschnitt [!UICONTROL Optionen] wissen müssen
 
-Die [!UICONTROL Optionen] kann vom Systemadministrator ausgeblendet werden, wenn Sie die festgelegten Standardeinstellungen verwenden möchten. Wenn die Variable [!UICONTROL Optionen] angezeigt, was die Optionen bedeuten:
+Der Abschnitt [!UICONTROL Optionen] kann von Systemadmins ausgeblendet werden, wenn die festgelegten Standardeinstellungen verwendet werden sollen. Wenn der Abschnitt [!UICONTROL Optionen] angezeigt wird, finden Sie hier eine Definition der einzelnen Optionen:
 
-**Behalten Sie das ursprüngliche Problem bei und binden Sie die Lösung an dieses Projekt**
+**Ursprüngliche Anfrage beibehalten und deren Lösung mit dem Projekt verknüpfen**
 
-Wenn diese Option aktiviert ist, wird das ursprüngliche Problem beim Abschluss des Projekts als behoben markiert. Wenn diese Option **not** ausgewählt wurde, wird das ursprüngliche Problem bei der Projekterstellung gelöscht.
+Wenn diese Option ausgewählt ist, wird das ursprüngliche Problem beim Abschluss des Projekts als behoben markiert. Wenn diese Option **nicht** ausgewählt ist, wird das ursprüngliche Problem bei der Projekterstellung gelöscht.
 
-**Zugriff auf dieses Projekt zulassen (Benutzername)**
+**(Benutzername) Zugriff auf dieses Projekt erlauben**
 
-Wenn diese Option aktiviert ist, erhält die Person, die die Anfrage gestellt hat (oder in deren Namen die Anfrage gesendet wurde) nach der Erstellung automatisch Zugriffsrechte auf das neue Projekt. Wenn diese Option **not** ausgewählt wurde, werden ihnen keine Rechte automatisch zugewiesen.
+Wenn diese Option ausgewählt ist, erhält die Person, die die Anfrage gestellt hat (oder in deren Namen die Anfrage gesendet wurde) nach der Erstellung automatisch Zugriffsrechte auf das neue Projekt. Wenn diese Option **nicht** ausgewählt ist, werden ihnen keine Rechte automatisch zugewiesen.
 
 ![Ein Bild eines Projektbildschirms mit Konvertierungsoptionen](assets/conversion-options.png)
 
 
-## Informationen während des Konvertierungsprozesses verwalten
+## Verwalten von Informationen während des Konvertierungsprozesses
 
 Die Übertragung der benutzerdefinierten Formulardaten erfordert Folgendes:
 
-* Mehrere Kopien desselben benutzerdefinierten Formulars - eine für das Problem und eine für die Aufgabe oder das Projekt. Die Felder in diesen benutzerdefinierten Formularen sollten exakt übereinstimmen, sodass die Informationen von einem benutzerdefinierten Formular zum anderen übertragen werden können.
+* Mehrere Kopien desselben benutzerdefinierten Formulars – eine für das Problem und eine für die Aufgabe oder das Projekt. Die Felder in diesen benutzerdefinierten Formularen sollten exakt übereinstimmen, sodass die Informationen von einem benutzerdefinierten Formular zum anderen übertragen werden können.
 
-* Sie können ein einzelnes benutzerdefiniertes Formular verwenden, in dem alle Probleme, Aufgaben und/oder Projektobjekte ausgewählt sind. Bei Verwendung dieser Methode müssen Sie nur benutzerdefinierte Felder in einem benutzerdefinierten Formular erstellen und verwalten. Dies ist viel einfacher, als mehrere Kopien desselben Formulars zu haben. Beide Methoden funktionieren jedoch.
+* Sie können ein einzelnes benutzerdefiniertes Formular verwenden, in dem alle Probleme, Aufgaben und/oder Projektobjekte ausgewählt sind. Bei Verwendung dieser Methode müssen Sie nur benutzerdefinierte Felder in einem einzelnen benutzerdefinierten Formular erstellen und verwalten. Dies ist viel einfacher, als mehrere Kopien desselben Formulars zu haben. Beide Methoden funktionieren jedoch.
 
 Wenn Sie ein benutzerdefiniertes Formular in eine Projektvorlage aufnehmen, wird es automatisch zugewiesen, wenn die Vorlage im Konvertierungsprozess ausgewählt wird.
 
