@@ -1,6 +1,6 @@
 ---
-title: Aufgaben erstellen
-description: Erfahren Sie mehr über einige Methoden zum Erstellen von Aufgaben in einem Projekt in Adobe Workfront.
+title: Erstellen von Aufgaben
+description: Lernen Sie einige Methoden zum Erstellen von Aufgaben in einem Projekt in Adobe Workfront kennen.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
@@ -10,17 +10,17 @@ last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Aufgaben erstellen
+# Erstellen von Aufgaben
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Der Weg zum Erstellen einer Aufgabe in einem Workfront-Projekt
+* Der lange Weg, um eine Aufgabe in einem Workfront-Projekt zu erstellen
 * Einige praktische Tastaturbefehle zum Erstellen von Aufgaben
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)
