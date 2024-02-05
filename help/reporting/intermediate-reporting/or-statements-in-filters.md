@@ -1,6 +1,6 @@
 ---
 title: Erstellen von OR-Anweisungen in Filtern
-description: Erfahren Sie, wie Sie mit einer OR-Anweisung Workfront mitteilen, dass Sie dieses ODER in Ihrem Bericht sehen möchten.
+description: Lernen Sie, wie Sie eine ODER-Anweisung verwenden, um Workfront mitzuteilen, dass Sie entweder dies ODER das in Ihrem Bericht sehen möchten.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,98 +11,98 @@ level: Intermediate
 jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '915'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Erstellen von OR-Anweisungen in Filtern
 
-Wenn Sie einen Filter mit mehreren Kriterienzeilen erstellen, setzt Workfront standardmäßig ein UND zwischen jede Zeile. Dies bedeutet, dass jedes Ergebnis in der Liste, wenn Sie diesen Filter verwenden, alle Filterregeln erfüllt.
+Wenn Sie einen Filter mit mehreren Zeilen von Kriterien erstellen, setzt Workfront standardmäßig ein UND zwischen jede Zeile. Das bedeutet, dass jedes Ergebnis in der Liste, wenn Sie diesen Filter verwenden, alle Filterregeln erfüllt.
 
 In diesem Beispiel haben wir drei Kriterien bzw. Regeln für einen Projektfilter:
 
-1. Das Projekt muss einen geplanten Abschlussdatum haben, der in den aktuellen Monat fällt.
-1. Das Projekt muss sich im Ereignismarketing-Portfolio befinden.
-1. Das Projekt muss ein aktives Projekt sein, d. h., es muss den Status &quot;Aktuell&quot;haben.
+1. Das Projekt muss ein geplantes Abschlussdatum haben, das in den laufenden Monat fällt.
+1. Das Projekt muss zum Portfolio des Veranstaltungs-Marketings gehören.
+1. Das Projekt muss ein aktives Projekt sein, d. h., es muss den Status „Aktuell“ haben.
 
-![Ein Bild zum Erstellen eines Filters mit UND-Anweisungen in [!DNL Workfront]](assets/or-statement-1.png)
+![Ein Bild der Erstellung eines Filters mit AND-Anweisungen in [!DNL Workfront]](assets/or-statement-1.png)
 
-Die Projekte in der Ergebnisliste erfüllen alle drei Kriterien und helfen Ihnen dabei, die Suchergebnisse einzugrenzen, sodass Sie genau die benötigten Informationen sehen können.
+Die Projekte in der Ergebnisliste erfüllen alle drei Kriterien, was Ihnen dabei hilft, die Suchergebnisse einzugrenzen, sodass Sie genau die benötigten Informationen sehen können.
 
 ![Ein Bild einer gefilterten Liste in [!DNL Workfront]](assets/or-statement-2.png)
 
-Es kann jedoch vorkommen, dass die Filterergebnisse verschiedene Kriterien erfüllen sollen, und in diesem Fall können OR-Anweisungen hilfreich sein. Mit einer OR-Anweisung teilen Sie dem Filter mit, dass Sie Dinge sehen möchten, die mit einer Ihrer OR-Anweisungen im Gegensatz zu ALLEN UND-Anweisungen übereinstimmen.
+Es kann jedoch vorkommen, dass Sie möchten, dass die Filterergebnisse verschiedene Kriterien erfüllen. In diesem Fall können ODER-Anweisungen helfen. Mit einer ODER-Anweisung teilen Sie dem Filter mit, dass Sie Dinge sehen wollen, die mit (mindestens) EINER der ODER-Anweisungen übereinstimmen, aber nicht unbedingt mit ALLEN wie für UND-Anweisungen.
 
-## Verwenden von OR-Anweisungen
+## Verwenden von ODER-Anweisungen
 
-ODER-Anweisungen erweitern oder erhöhen die Menge der Informationen, die der Filter findet, da ein Element, um in der Ergebnisliste angezeigt zu werden, nur eine der Filterregeln erfüllen muss, nicht alle.
+ODER-Anweisungen erweitern oder erhöhen die Menge der Informationen, die der Filter findet, denn um in der Ergebnisliste zu erscheinen, muss ein Element nur eine der Filterregeln erfüllen, nicht alle.
 
-Sehen wir uns eine einfache OR-Anweisung an - Projekte, die Sie als Projektleiter (Eigentümer) für von Ihnen erstellte ODER-Projekte sind.
+Betrachten wir eine einfache ODER-Verknüpfung: Projekte, für die Sie die Projektleitung (Eigentümerin oder Eigentümer) sind, ODER Projekte, die von Ihnen erstellt wurden.
 
-![Ein Bild zum Erstellen eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-3.png)
+![Ein Bild der Erstellung eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-3.png)
 
-Nachdem Sie beide Filterregeln eingerichtet haben, klicken Sie auf das UND zwischen ihnen und wechseln Sie zu OR.
+Nachdem Sie beide Filterregeln eingerichtet haben, klicken Sie auf das dazwischen liegende UND und schalten es auf ODER um.
 
-![Ein Bild zum Erstellen eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-4.png)
+![Ein Bild der Erstellung eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-4.png)
 
-Der ODER zwischen den beiden Filterregeln erweitert Ihre Suchkriterien und teilt Workfront mit, dass Projekte gefunden werden, die die eine oder andere dieser Optionen erfüllen. Ihr Name befindet sich im Feld Projektinhaber oder Sie sind der Ersteller des Projekts.
+Das ODER zwischen den beiden Filterregeln erweitert Ihre Suchkriterien und weist Workfront an, Projekte zu finden, die eine der beiden Optionen erfüllen – Ihr Name steht im Projektbesitzer-Feld oder Sie sind die Person, die das Projekt erstellt hat.
 
 ## Mehrere Filterregeln mit ODER-Anweisungen
 
-Sehen wir uns nun eine OR-Anweisung an, die mehrere Filterregeln auf jeder Seite des ODER enthält. Hierbei werden dieselben beiden Regeln wie zuvor verwendet, es wird jedoch eine Regel hinzugefügt - Projekte müssen auch den Status &quot;Aktuell&quot;haben.
+Betrachten wir nun eine ODER-Anweisung, die mehrere Filterregeln auf jeder Seite des ODER enthält. Hier werden dieselben zwei Regeln wie zuvor verwendet, aber es wird eine weitere Regel hinzugefügt: Projekte müssen auch den Status „aktuell“ haben.
 
-![Ein Bild zum Erstellen eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-5.png)
+![Ein Bild der Erstellung eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-5.png)
 
-Beachten Sie, dass Workfront die Filterregeln auf jeder Seite des ODER &quot;gruppiert&quot;hat (um sie herum gibt es einen grauen Rahmen). Dies weist Workfront an, die Regeln auf jeder Seite des ODER gemeinsam auszuführen und Projekte zu finden, die beide Kriterien erfüllen, da sie mit UND verbunden sind.
+Beachten Sie, dass Workfront die Filterregeln auf jeder Seite des ODER „gruppiert“ (sie sind von einem grauen Rahmen umgeben). Dadurch wird Workfront angewiesen, die Regeln auf beiden Seiten des ODER zusammen auszuführen, um Projekte zu finden, die beide Kriterien erfüllen, weil sie mit UND verknüpft sind.
 
-In diesem Beispiel sucht Workfront nach:
+In diesem Beispiel sucht Workfront:
 
-* Projekte mit Ihrem Namen im Feld &quot;Projekteigentümer&quot;, die ebenfalls den Status &quot;Aktuell&quot;haben.
-* **PLUS (OR)**
-* Von Ihnen erstellte Projekte, die ebenfalls den Status &quot;Aktuell&quot;haben.
+* Projekte, bei denen Ihr Name im Feld „Projektbesitzer“ steht und die außerdem den Status „Aktuell“ haben.
+* **PLUS (ODER)**
+* Projekte, die Sie erstellt haben und die ebenfalls den Status „Aktuell“ haben.
 
-Wenn Sie die Regel &quot;Projektstatus gleich Aktuell&quot;auf jeder Seite des ODER platzieren, wird sichergestellt, dass die Regel in Verbindung mit den anderen Regeln funktioniert. Diese gängige Regel wird manchmal als &quot;Konstante&quot;bezeichnet.
+Wenn Sie die Regel „Projektstatus ist gleich aktuell“ auf jeder Seite des ODER platzieren, wird sichergestellt, dass diese Regel in Verbindung mit jeder der anderen Regeln funktioniert. Diese allgemeine Regel wird manchmal auch als „Konstante“ bezeichnet.
 
 >[!NOTE]
 >
->Sie sind nicht auf eine wiederholte Filterregel auf jeder Seite des ODER beschränkt. Je nach Ihren Anforderungen können mehrere Workfront empfiehlt, diese wiederholten Regeln auf ein Minimum zu beschränken, um sicherzustellen, dass der Filter die gewünschten Ergebnisse liefert.
+>Sie sind nicht auf nur eine wiederholte Filterregel auf jeder Seite des ODER beschränkt. Je nach Ihren Bedürfnissen können Sie mehrere haben. Workfront empfiehlt jedoch, diese wiederholten Regeln auf ein Minimum zu beschränken, um sicherzustellen, dass der Filter die gewünschten Ergebnisse liefert.
 
-## Was passiert ohne die allgemeine Filterregel?
+## Was passiert ohne die gemeinsame Filterregel?
 
-Ohne die gängigen Filterregeln erhalten Sie möglicherweise nicht die erwarteten Suchergebnisse.
+Ohne die gemeinsame(n) Filterregel(n) erhalten Sie möglicherweise nicht die erwarteten Suchergebnisse.
 
-Wenn Sie beispielsweise die Regel &quot;Projektstatus gleich Aktuell&quot;nur auf einer Seite des ODER platzieren, funktioniert sie nur mit den anderen Filterregeln in diesem Abschnitt. In der Abbildung unten sehen Sie, dass die Regel &quot;Projektstatus gleich Aktuell&quot;nur im oberen Abschnitt angezeigt wird.
+Wenn Sie zum Beispiel die Regel „Projektstatus gleich aktuell“ nur auf einer Seite des ODER platzieren, funktioniert sie nur zusammen mit den anderen Filterregeln in diesem Abschnitt. In der Abbildung unten sehen Sie, dass die Regel „Projektstatus ist gleich aktuell“ nur für den oberen Bereich gilt.
 
-![Ein Bild zum Erstellen eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-6.png)
+![Ein Bild der Erstellung eines Filters mit ODER-Anweisungen in [!DNL Workfront]](assets/or-statement-6.png)
 
-Dies bedeutet, dass Workfront nach folgenden Kriterien sucht:
+Das bedeutet, dass Workfront Folgendes suchen wird:
 
-* Projekte mit Ihrem Namen im Feld &quot;Projektinhaber&quot;und dem Status &quot;Aktuell&quot;.
-* **PLUS (OR)**
+* Projekte, bei denen Ihr Name im Feld „Projektegentümerin oder Projekteigentümer“ steht und die den Status „Aktuell“ haben.
+* **PLUS (ODER)**
 * Alle von Ihnen erstellten Projekte.
 
-Wie Sie sehen, liefert Ihnen diese Filtereinrichtung etwas andere Ergebnisse als der Filter mit der wiederholten Filterregel. Deshalb ist es wichtig sicherzustellen, dass der Filter ordnungsgemäß eingerichtet ist, um sicherzustellen, dass Sie die gewünschten und benötigten Ergebnisse erhalten.
+Wie Sie sehen können, führt diese Filtereinstellung zu etwas anderen Ergebnissen als der Filter mit der wiederholten Filterregel. Deshalb ist es wichtig, dass der Filter korrekt eingerichtet ist, damit Sie die gewünschten und erforderlichen Ergebnisse erzielen.
 
-Beim Erstellen von Filtern dürfen OR-Anweisungen nicht häufig verwendet werden. Dies kann jedoch dazu beitragen, die Anzahl der Filter zu reduzieren, die Sie erstellen müssen. Stellen Sie sicher, dass Ihre Filter nicht zu viele Ergebnisse zurückgeben. Eine lange Liste kann es für Benutzer erschweren, die benötigten Informationen zu finden.
+Sie sollten ODER-Anweisungen bei der Erstellung von Filtern nicht häufig verwenden. Allerdings können Sie auf diese Weise die Anzahl der zu erstellenden Filter verringern. Achten Sie nur darauf, dass Ihre Filter nicht zu viele Ergebnisse liefern – eine lange Liste kann es den Benutzenden erschweren, genau die gewünschten Informationen zu finden.
 
 ## ODER-Filteraktivität
 
-Sie möchten unvollständige Aufgaben finden, die Ihnen zugewiesen sind oder die niemandem zugewiesen sind. Sie richten einen Filter ein, der wie der unten stehende aussieht. Wird dieser Filter Ihnen die gewünschten Ergebnisse liefern? Warum oder warum nicht?
+Sie möchten unvollständige Aufgaben finden, die Ihnen oder niemandem zugewiesen sind. Dazu richten Sie den untenstehenden Filter ein. Wird dieser Filter die gewünschten Ergebnisse liefern? Warum oder warum nicht?
 
-![Ein Bild einer falsch erstellten ODER-Anweisung in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
+![Bild einer falsch erstellten ODER-Anweisung in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
 
 ### Antworten
 
-Nein, dieser Filter liefert nicht die gewünschten Ergebnisse - Aufgaben, die noch nicht abgeschlossen sind und Ihnen entweder zugewiesen oder keiner zugewiesen sind - da sich die Filterregel für den Aufgabenstatus nur auf einer Seite des ODER befindet.
+Nein, dieser Filter wird nicht die Ergebnisse liefern, die Sie sich erhoffen (unerledigte Aufgaben, die entweder Ihnen oder niemandem zugewiesen sind), weil die Filterregel für den Aufgabenstatus nur auf einer Seite von ODER steht.
 
 Stattdessen generiert dieser Filter eine Liste, die Folgendes anzeigt:
 
-* Aufgaben, die Ihnen mit dem Status &quot;Wird ausgeführt&quot;oder &quot;Neu&quot;zugewiesen wurden.
-* **PLUS (OR)**
+* Ihnen zugewiesene Aufgaben mit dem Status „In Bearbeitung“ oder „Neu“ haben.
+* **PLUS (ODER)**
 * Alle nicht zugewiesenen Aufgaben, unabhängig vom Status.
 
-Der Filter sollte wie der unten stehende aussehen. Beachten Sie, dass dieser Filter die Filterregel für den Aufgabenstatus auf beiden Seiten des ODER enthält.
+Der Filter sollte stattdessen wie folgt aussehen. Beachten Sie, dass bei diesem Filter die Filterregel für den Aufgabenstatus auf beiden Seiten des ODER steht.
 
-![Ein Bild einer ordnungsgemäß erstellten ODER-Anweisung in [!DNL Workfront]](assets/or-statement-your-turn-2.png)
+![Bild einer ordnungsgemäß erstellten ODER-Anweisung in [!DNL Workfront]](assets/or-statement-your-turn-2.png)
