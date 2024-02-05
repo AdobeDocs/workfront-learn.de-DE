@@ -1,6 +1,6 @@
 ---
-title: Berichtkomponenten verstehen
-description: Erfahren Sie, welche Schlüsselkomponenten hinter der Berichterstellung stehen und wie diese in einem Berichterstellungselement in Workfront verwendet werden.
+title: Grundlegendes zu Reporting-Komponenten
+description: Lernen Sie die Schlüsselkomponenten für das Reporting kennen und wie sie bei einem Reporting-Element in Workfront verwendet werden.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -12,61 +12,61 @@ jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Berichtkomponenten verstehen
+# Grundlegendes zu Reporting-Komponenten
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Die Schlüsselkomponenten der Workfront-Berichterstellung
-* Verwendung dieser Komponenten in einem Berichterstellungselement
+* Die Schlüsselkomponenten für Workfront-Reporting
+* Wie diese Komponenten in einem Reporting-Element verwendet werden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
-## Berichtskomponenten
+## Reporting-Komponenten
 
-![Ein Bild des Bildschirms zum Erstellen eines Filters](assets/reporting-components-1.png)
+![Ein Screenshot des Bildschirms zum Erstellen eines Filters](assets/reporting-components-1.png)
 
-**A - Feldquelle**
+**A – Feldquelle**
 
-Die Optionen für die Feldquelle hängen vom ausgewählten Objekttyp ab. Häufig ist die Feldquelle das Element in Workfront, zu dem eine bestimmte Information (auch der Feldname) gehört. Manchmal ist die Feldquelle mit dem Objekttyp identisch.
+Die Optionen für die Feldquelle hängen vom ausgewählten Objekttyp ab. Häufig ist die Feldquelle das Element in Workfront, zu dem eine bestimmte Information (d. h. der Feldname) gehört. Manchmal ist die Feldquelle mit dem Objekttyp identisch.
 Die Feldquelle bestimmt, welche Feldnamen verfügbar sind.
 
-Beispiele: [!UICONTROL Projekt], [!UICONTROL Aufgabe], [!UICONTROL Problem], [!UICONTROL Zugeordnet zu]
+Beispiele: [!UICONTROL Projekt], [!UICONTROL Aufgabe], [!UICONTROL Problem], [!UICONTROL Zugewiesen an]
 
-**B - Feldname**
+**B – Feldname**
 
 Feldnamen sind Informationen, die für die ausgewählte Feldquelle verfügbar sind.
 
 Dabei kann es sich um von Ihnen ausgefüllte Workfront-Felder, Felder aus einem benutzerdefinierten Formular oder Informationen handeln, die von Workfront automatisch erfasst werden.
 
-Feldnamen steuern die Wertefeldoptionen.
+Feldnamen steuern die Optionen des Wertfeldes.
 
-Beispiele: [!UICONTROL Statusfortschritt], [!UICONTROL Beschreibung], [!UICONTROL Geplantes Abschlussdatum], Benutzerdefinierte Formularfelder
+Beispiele: [!UICONTROL Fortschrittsstatus], [!UICONTROL Beschreibung], [!UICONTROL Geplantes Abschlussdatum], Benutzerdefinierte Formularfelder
 
-**C - Filterqualifizierer**
+**C – Filterqualifizierer**
 
 Filterqualifizierer helfen bei der Eingrenzung der möglichen Ergebnisse, die unter der ausgewählten Feldquelle und dem ausgewählten Feldnamen angezeigt werden können.
 
-Sie geben an, wie die Feldquelle und der Feldname mit dem Wertefeld in Beziehung stehen.
+Sie geben an, wie die Feldquelle und der Feldname mit dem Wertfeld in Beziehung stehen.
 
-Beispiele: Equal, Contains, Null, Kleiner als
+Beispiele: Gleich, Enthält, Null, Weniger als
 
-**D - Wert**
+**D – Wert**
 
-Der Wert ist die Information, die in das Feld eingegeben wird, das durch den Feldnamen angegeben wird.
+Der Wert ist die Information, die in das Feld eingegeben wird, das durch den Feldnamen spezifiziert wird.
 
 Die Optionen für den Wert werden durch die Feldquelle und den Feldnamen bestimmt.
 
-Im Wert können Platzhalter für Benutzer und Daten sowie Freiformtext verwendet werden.
+Im Wert können Platzhalter für Benutzende und Daten sowie Freiformtext verwendet werden.
 
-Beispiele: Neu, Aktuell, $$HEUTEbw, Beschreibung
+Beispiele: Neu, Aktuell, $$TODAYbw, Beschreibung
 
 >[!TIP]
 >
->Weitere Informationen zu bestimmten Feldnamen in Workfront finden Sie in der [Glossar der Adobe Workfront-Terminologie](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
+>Weitere Informationen zu bestimmten Feldnamen in Workfront finden Sie im [Glossar der Adobe Workfront-Terminologie](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=de).
 
