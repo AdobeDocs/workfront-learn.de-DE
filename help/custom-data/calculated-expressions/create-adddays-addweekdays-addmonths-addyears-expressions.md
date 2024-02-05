@@ -1,6 +1,6 @@
 ---
-title: ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-Ausdrücke erstellen
-description: Erfahren Sie, wie Sie die ADD-Ausdrücke in einem berechneten Feld in Adobe verwenden und erstellen. [!DNL Workfront].
+title: Erstellen der Ausdrücke ADDDAYS, ADDWEEKDAY, ADDMONTHS und ADDYEARS
+description: Erfahren Sie, wie Sie in Adobe [!DNL Workfront]die ADD-Ausdrücke in einem berechneten Feld verwenden und erstellen können.
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -12,42 +12,42 @@ jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-Ausdrücke erstellen
+# Erstellen der Ausdrücke ADDDAYS, ADDWEEKDAY, ADDMONTHS und ADDYEARS
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Was die ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR-Ausdrücke berechnen
-* Erstellen eines ADDWEEKDAYS-Datenausdrucks in einem berechneten Feld
+* Was die Ausdrücke ADDDAYS, ADDWEEKDAY, ADDMONTHS und ADDYEAR berechnen
+* Wie ein ADDWEEKDAYS-Datenausdruck in einem berechneten Feld erstellt wird
 
 >[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on)
 
 ## Zusätzliche Beispiele
 
-Nachstehend finden Sie einige zusätzliche ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR-Ausdrücke, die Adobe Workfront-Kunden erstellt haben.
+Im Folgenden finden Sie einige zusätzliche ADDDAYS-, ADDWEEKDAY-, ADDMONTHS-, ADDYEAR-Ausdrücke, die Kundinnen und Kunden von Adobe Workfront erstellt haben.
 
-**Hätte**
+**Hätte abgeschlossen sein sollen bis**
 
-Der Kunde wollte wissen, wann die Aufgabe basierend auf dem tatsächlichen Startdatum und der geplanten Dauer abgeschlossen sein sollte. Das geplante Abschlussdatum funktioniert in diesem Fall nicht, da es verschoben werden kann, wenn die Aufgabe verspätet ist, und das geplante Abschlussdatum nicht hilfreich ist, wenn es zu Verzögerungen bei früheren Aufgaben kommt.
+Die Kundin bzw. der Kunde wollte wissen, wann die Aufgabe auf der Grundlage des tatsächlichen Starttermins und der geplanten Dauer hätte abgeschlossen werden sollen. Das geplante Fertigstellungsdatum funktioniert in diesem Fall nicht, da es sich verschieben kann, wenn sich die Aufgabe verspätet, und das geplante Fertigstellungsdatum hilft nicht, wenn es bei früheren Aufgaben zu Verzögerungen kommt.
 
 Der erstellte Ausdruck war ADDDAYS({actualStartDate},{durationMinutes}/480)
 
-Die Zeit im Feld Dauer wird in Minuten gespeichert. In diesem Ausdruck kann das Feld Dauer also nicht allein stehen, wenn die Zeit in Tagen dargestellt werden soll. Dazu muss die Dauer durch 480 Minuten (480 Minuten = 8 Stunden = 1 Tag) geteilt werden.
+Die Zeit im Feld „Dauer“ wird in Minuten gespeichert. In diesem Ausdruck kann das Feld „Dauer“ also nicht allein stehen, wenn die Zeit in Tagen angegeben werden soll. Dazu muss die Dauer durch 480 Minuten (480 Minuten = 8 Stunden = 1 Tag) geteilt werden
 
-Aus diesem Grund enthält der zweite Wertfenster (Dauer/480).
+Aus diesem Grund enthält der zweite Wertebereich (Dauer/480).
 
 
-**Rechnungsabschluss**
+**Fertigstellungsdatum der Rechnung**
 
 In diesem Beispiel wird nicht nur der ADDDAYS-Ausdruck verwendet, sondern auch ein benutzerdefiniertes Feld, das zuvor im benutzerdefinierten Formular erstellt und gespeichert wurde.
 
-Der Kunde erfasst das Datum, an dem eine Rechnung über ein benutzerdefiniertes Datumsfeld mit dem Titel &quot;Rechnungsübermittlungsdatum&quot;übermittelt wird.
+Die Kundin bzw. der Kunde erfasst das Datum, an dem eine Rechnung eingereicht wird, über ein benutzerdefiniertes Datumsfeld mit der Bezeichnung „Rechnungsübermittlungsdatum“.
 
-Nach der Übermittlung muss die Rechnung ausgefüllt und innerhalb von 30 Tagen eingereicht werden. Um dieses Fertigstellungs- und Anmeldedatum automatisch zu erzeugen, wird ein berechnetes ADDDAYS-Feld zusammen mit dem benutzerdefinierten Feld &quot;Rechnungsübermittlungsdatum&quot;verwendet. Der Ausdruck sieht wie folgt aus:
+Nach der Übermittlung muss die Rechnung innerhalb von 30 Tagen ausgefüllt und archiviert werden. Um das Fertigstellungs- und Übermittlungsdatum automatisch zu erstellen, wird ein berechnetes ADDDAYS-Feld zusammen mit dem benutzerdefinierten Feld „Rechnungseinreichungsdatum“ verwendet. Der Ausdruck sieht wie folgt aus:
 
 ADDDAYS({DE:Invoice Submission Date},30)
