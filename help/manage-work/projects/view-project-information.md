@@ -1,5 +1,5 @@
 ---
-title: Projektinformationen anzeigen
+title: Anzeigen der Projektinformationen
 description: Erfahren Sie, wie Sie mit Filtern, Ansichten und Gruppierungen Projektinformationen einfach sichtbar machen können, damit Sie Projekte verwalten können.
 activity: use
 team: Technical Marketing
@@ -11,32 +11,32 @@ level: Beginner
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '205'
+ht-degree: 100%
 
 ---
 
-# Projektinformationen anzeigen
+# Anzeigen der Projektinformationen
 
-Ob du die Hauptsache betrachtest [!UICONTROL Projekte] oder in einem einzelnen Projekt anpassen Sie Ihre Liste so, dass die gewünschten Informationen angezeigt werden. [!UICONTROL Filter], [!UICONTROL Ansichten], und [!UICONTROL Gruppierungen].
+Egal ob Sie die Hauptseite der [!UICONTROL Projekte] oder ein einzelnes Projekt betrachten, passen Sie Ihre Liste mit [!UICONTROL Filtern], [!UICONTROL Ansichten] und [!UICONTROL Gruppierungen] so an, dass die gewünschten Informationen angezeigt werden.
 
-Sie können sich einen allgemeinen Überblick darüber verschaffen, wie alle Ihre Projekte auf dem [!UICONTROL Projekte] Seite.
+Auf der Seite [!UICONTROL Projekte] können Sie sich einen Überblick über den Fortgang aller Ihrer Projekte verschaffen.
 
 ![Projektseite mit angezeigten Filtern](assets/planner-fund-project-page-fvg-copy.png)
 
-Verwenden Sie die [!UICONTROL Filter] , um die Liste auf der Grundlage bestimmter Kriterien einzuschränken. Wählen Sie anschließend eine [!UICONTROL Ansicht] um die Spalten mit Informationen anzuzeigen, die für Ihre Projekte relevant sind. Wählen Sie abschließend eine [!UICONTROL Gruppierung] die Projekte so zu organisieren, dass es für Sie sinnvoll ist.
+Verwenden Sie die [!UICONTROL Filter], um die Liste nach bestimmten Kriterien einzugrenzen. Wählen Sie anschließend eine [!UICONTROL Ansicht] aus, um die Spalten mit Informationen anzuzeigen, die für Ihre Projekte relevant sind. Wählen Sie abschließend eine [!UICONTROL Gruppierung] aus, mit der Sie Projekte so organisieren können, dass es für Sie sinnvoll ist.
 
-Wenn du auf der Seite bist [!UICONTROL Aufgaben] Abschnitt eines Projekts, verwenden [!UICONTROL Filter], [!UICONTROL Ansichten], und [!UICONTROL Gruppierungen] erneut, um Sie bei der Überwachung der durchgeführten Arbeit zu unterstützen. Da Sie sich Aufgaben anstelle von Projekten ansehen, haben Sie eine ganz andere Auswahl.
+Wenn Sie auf der Seite mit dem Abschnitt [!UICONTROL Aufgaben] eines Projekts sind, verwenden Sie [!UICONTROL Filter], [!UICONTROL Ansichten] und [!UICONTROL Gruppierungen] erneut, um Sie dabei zu unterstützen, die Durchführung der Arbeiten zu überwachen. Da Sie sich Aufgaben anstelle von Projekten ansehen, haben Sie nämlich eine ganz andere Auswahl.
 
 ![Aufgabenliste des Projekts mit angezeigten Ansichten](assets/planner-fund-task-list-fvg.png)
 
-Viele [!DNL Workfront] Kunden erstellen benutzerdefinierte Ansichten, die benutzerdefinierte Formulardaten und andere für die durchgeführte Arbeit relevante Felder verfügbar machen.
+Viele [!DNL Workfront]-Kundinnen und -Kunden erstellen benutzerdefinierte Ansichten, die benutzerdefinierte Formulardaten und andere für die durchgeführte Arbeit relevante Felder verfügbar machen.
 
-## Erfahren Sie, wie Sie benutzerdefinierte Filter, Ansichten und Gruppierungen erstellen.
+## Erfahren Sie, wie Sie benutzerdefinierte Filter, Ansichten und Gruppierungen erstellen
 
-[Basisfilter erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+[Einen einfachen Filter erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=de)
 
-[Basisansicht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+[Erstellen einer einfachen Ansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=de)
 
-[Basisgruppierung erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
+[Eine einfache Gruppierung erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=de)
