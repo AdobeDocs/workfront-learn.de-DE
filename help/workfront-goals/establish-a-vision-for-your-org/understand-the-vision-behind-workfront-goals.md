@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur Vision [!UICONTROL Workfront-Ziele]
-description: Informationen zu [!DNL Workfront Goals] in [!DNL  Workfront] vom Produktteam.
+title: Grundlegendes zur Vision hinter [!UICONTROL Workfront-Zielen]
+description: Lernen Sie mehr über [!DNL Workfront Goals] in [!DNL  Workfront]  vom Produkt-Team.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,15 +11,15 @@ jira: KT-8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '27'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Die Vision hinter den Workfront-Zielen
+# Grundlegendes zur Vision hinter Workfront-Zielen
 
-In diesem Video erfahren Sie mehr über:
+In diesem Video lernen Sie Folgendes:
 
 * [!DNL Workfront Goals] in [!DNL  Workfront]
 
