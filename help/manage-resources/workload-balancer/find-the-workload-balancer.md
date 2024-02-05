@@ -1,6 +1,6 @@
 ---
-title: Suchen des Lastenausgleichs
-description: Erfahren Sie, wie Sie den Lastenausgleich in Workfront finden und einige der verfügbaren Bereiche kennenlernen.
+title: Suchen des Workload Balancer
+description: Erfahren Sie, wie Sie den Workload Balancer in Workfront finden und einige der verfügbaren Bereiche kennenlernen.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,38 +11,38 @@ thumbnail: find-wlb.png
 jira: KT-10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Suchen Sie die [!DNL Workload Balancer]
+# Suchen des [!DNL Workload Balancer]
 
-Es kann für jeden eine Herausforderung sein, zu wissen, welche Ressourcen verfügbar sind und wie sie verteilt werden. Aus diesem Grund hat Workfront die [!DNL Workload Balancer].
+Es kann für jeden eine Herausforderung sein, zu wissen, welche Ressourcen verfügbar sind und wie sie verteilt werden. Aus diesem Grund wurde für Workfront der [!DNL Workload Balancer] erstellt.
 
-Ihr Zweck besteht darin, Ihnen bessere Einblicke in die tägliche und wöchentliche Arbeitslast der von Ihnen verwalteten Personen zu geben und diese zu verwalten. Auf diese Weise können Sie über mehrere Projekte hinweg bessere, auf Rolle und Verfügbarkeit basierende Zuweisungen vornehmen.
+Sein Zweck besteht darin, Ihnen bessere Einblicke in die tägliche und wöchentliche Arbeitslast der von Ihnen verwalteten Personen zu geben und diese zu verwalten. Auf diese Weise können Sie über mehrere Projekte hinweg bessere, auf Rolle und Verfügbarkeit basierende Zuweisungen vornehmen.
 
 ![Ressourcen im Hauptmenü](assets/Find_01.png)
 
-* Klicken [!UICONTROL Ressourcen] im [!UICONTROL Hauptmenü].
-* Navigieren Sie zu [!UICONTROL Planung] im Bereich &quot;Ressourcenverwaltung&quot;.
-* Klicken Sie auf [!UICONTROL &quot;Lastenausgleich&quot;] angezeigt.
+* Klicken Sie auf [!UICONTROL Ressourcen] im [!UICONTROL Hauptmenü].
+* Navigieren Sie im Bereich „Ressourcen-Management“ zum Abschnitt [!UICONTROL Planung].
+* Klicken Sie auf den Abschnitt [!UICONTROL „Workload Balancer“], der angezeigt wird.
 
-![Abschnitt zum Arbeitslastausgleich](assets/Find_02.png)
+![Abschnitt zum Workload Balancer](assets/Find_02.png)
 
-## Bereiche im Arbeitslastausgleich
+## Bereiche im Workload Balancer
 
-Zwei Abschnitte werden im [!DNL Workload Balancer]: Zugewiesene Arbeit und nicht zugewiesene Arbeit.
+Zwei Abschnitte werden im [!DNL Workload Balancer] angezeigt: Zugewiesene Arbeiten und nicht zugewiesene Arbeiten.
 
 ![nicht zugewiesener Bereich](assets/Find_03.png)
 
-Der Bereich &quot;Zugewiesene Arbeit&quot;zeigt eine Liste der Benutzer und der Arbeit an, die ihnen in Workfront bereits zugewiesen wurden. Standardmäßig wird dieser Bereich nach Benutzern gefiltert, die Teil der Workfront-Teams sind, denen Sie angehören. Auf diese Weise können Sie sehen, welchen Teammitgliedern die Arbeit zugewiesen wurde.
+Der Bereich „Zugewiesene Arbeit“ zeigt eine Liste der Benutzenden und der Arbeit an, die ihnen in Workfront bereits zugewiesen wurden. Standardmäßig wird dieser Bereich nach Benutzenden gefiltert, die Teil der Workfront-Teams sind, denen Sie angehören. Auf diese Weise können Sie sehen, welchen Team-Mitgliedern die Arbeit zugewiesen wurde.
 
 ![zugewiesene Bereichsbenutzer](assets/Find_03b.png)
 
-Im Arbeitsbereich &quot;Nicht zugewiesen&quot;werden Arbeiten angezeigt, die noch zugewiesen werden müssen, unabhängig davon, ob es sich um eine Person, eine Rolle oder ein Team handelt. Zunächst wird dieser Bereich jedoch nichts anzeigen.
+Im Arbeitsbereich „Nicht zugewiesen“ werden Arbeiten angezeigt, die noch zugewiesen werden müssen, unabhängig davon, ob es sich um eine Person, ein Aufgabengebiet oder ein Team handelt. Zunächst wird in diesem Bereich jedoch nichts angezeigt.
 
 ![nicht zugewiesener Arbeitsbereich](assets/Find_03c.png)
 
-Wenn Sie mit dem leeren Arbeitsbereich &quot;Nicht zugewiesen&quot;beginnen, können Sie sich zunächst auf die aktuellen Arbeitslasten Ihrer Benutzer im Bereich &quot;Zugewiesene Arbeit&quot;konzentrieren, bevor Sie Zuweisungen vornehmen.
+Wenn Sie mit dem leeren Arbeitsbereich „Nicht zugewiesen“ beginnen, können Sie sich zunächst auf die aktuellen Arbeitslasten der Benutzenden im Bereich „Zugewiesene Arbeit“ konzentrieren, bevor Sie Zuweisungen vornehmen.
