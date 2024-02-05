@@ -1,6 +1,6 @@
 ---
-title: Anpassen der täglichen Zuordnungen im Arbeitslastausgleich
-description: Erfahren Sie, wie Sie zugewiesene Stunden oder Prozentsätze neu verteilen und die Arbeit von einem Benutzer an einen anderen neu zuweisen.
+title: Anpassen der täglichen Zuordnungen im Workload Balancer
+description: Erfahren Sie, wie Sie zugewiesene Stunden oder Prozentsätze neu verteilen und die Arbeit zwischen Benutzenden neu zuweisen.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,18 +12,18 @@ jira: KT-8877
 exl-id: 27b9da27-d70c-45e7-a99d-d26cccc5277d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Passen Sie die täglichen Zuweisungen in der [!DNL Workload Balancer]
+# Anpassen der täglichen Zuweisungen im [!DNL Workload Balancer]
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Verteilung zugewiesener Stunden oder Prozentsätze
-* Erneutes Zuweisen von Arbeiten zu einem anderen Benutzer
+* Umverteilen zugewiesener Stunden oder Prozentsätze
+* Erneutes Zuweisen von Arbeiten an andere Benutzende
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on)
