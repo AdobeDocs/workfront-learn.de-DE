@@ -1,6 +1,6 @@
 ---
-title: Erstellen und Verwalten von Problemschwerpunkten
-description: Erfahren Sie, wie Sie Schwerpunkte von Problemen einrichten und verwalten.
+title: Erstellen und Verwalten von Problemschweregraden
+description: Erfahren Sie, wie Sie Problemschweregrade einrichten und verwalten.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,23 +10,23 @@ level: Intermediate, Experienced
 jira: KT-10020
 exl-id: a5a9280b-0d48-413d-92de-f6a949e6b210
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '368'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Erstellen und Verwalten von Problemschwerpunkten
+# Erstellen und Verwalten von Problemschweregraden
 
-## Einführung in Problembereiche
+## Einführung zu Problemschweregraden
 
 Ein Schweregrad kann verwendet werden, um anzugeben, wie schwerwiegend ein Problem ist oder wie es sich auf die durchgeführte Arbeit auswirken könnte.
 
-![[!UICONTROL Schweregrad] im Menü [!UICONTROL Problemdetails] Fenster](assets/admin-fund-severity-issue-details.png)
+Das Menü ![[!UICONTROL Schweregrad] im Fenster [!UICONTROL Problemdetails]](assets/admin-fund-severity-issue-details.png)
 
-Die [!UICONTROL Schweregrad] auf das Feld im [!UICONTROL Problemdetails]. Sie kann auch in Spaltenansichten auf Listen und in benutzerdefinierten Berichten enthalten sein.
+Das Feld [!UICONTROL Schweregrad] ist über die [!UICONTROL Problemdetails] zugänglich. Es kann auch in Spaltenansichten auf Listen und in benutzerdefinierten Berichten enthalten sein.
 
-[!DNL Workfront] hat fünf Standardschwerpunkte:
+[!DNL Workfront] hat fünf Standardschweregrade:
 
 * [!UICONTROL Kosmetisch]
 * [!UICONTROL Verwirrend]
@@ -34,40 +34,40 @@ Die [!UICONTROL Schweregrad] auf das Feld im [!UICONTROL Problemdetails]. Sie ka
 * [!UICONTROL Programmfehler ohne Umgehungslösung]
 * [!UICONTROL Schwerer Fehler]
 
-Systemadministratoren können diese Standardabstufungen umbenennen oder bei Bedarf neue erstellen.
+Systemadmins können diese Standardschweregrade umbenennen oder bei Bedarf neue erstellen.
 
-Prioritätsstufen sind nur für Probleme verfügbar in [!DNL Workfront].
+Schweregrade sind nur für Probleme in [!DNL Workfront] verfügbar.
 
-## Erstellen und Verwalten von Problemschwerpunkten
+## Erstellen und Verwalten von Problemschweregraden
 
-Als Systemadministrator können Sie bei Bedarf neue Abläufe erstellen, um den Workflow des Problems abzuschließen.
+Als Systemadmin können Sie bei Bedarf neue Abläufe erstellen, um den Workflow des Problems abzuschließen.
 
-![[!UICONTROL Schweregrad] Seite in [!UICONTROL Einrichtung]](assets/admin-fund-severity-section.png)
+Die Seite ![[!UICONTROL Schweregrad] in [!UICONTROL Setup]](assets/admin-fund-severity-section.png)
 
-1. Klicken **[!UICONTROL Einrichtung]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** im linken Menübereich.
-1. Auswählen **[!UICONTROL Schweregrad]**.
-1. Klicken **[!UICONTROL Neuen Schweregrad hinzufügen]**.
+1. Klicken Sie auf **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]**.
+1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
+1. Wählen Sie **[!UICONTROL Schweregrade]** aus.
+1. Klicken Sie auf **[!UICONTROL Neuen Schweregrad hinzufügen]**.
 1. Geben Sie dem Schweregrad einen Namen, der dem vorgesehenen Verwendungszweck entspricht.
-1. Die **[!UICONTROL Wichtigkeit]** Zahl entspricht der Schwere des Problems. Die höchste Zahl entspricht dem höchsten Schweregrad. Die [!UICONTROL Wichtigkeit] number muss eindeutig sein.
-1. Wählen Sie eine Farbe für Ihre Priorität aus. Dies wird in Diagrammberichten und an anderen Stellen in [!DNL Workfront].
-1. Legen Sie eine der Prioritätsoptionen als **[!UICONTROL Standardschweregrad]**. Dies wird automatisch auf alle neuen Probleme in Workfront angewendet.
-1. Geben Sie eine Beschreibung des Schweregrads an, z. B. wie dieser verwendet werden soll.
+1. Die **[!UICONTROL Wichtigkeitszahl]** entspricht der Schwere des Problems. Die höchste Zahl entspricht dem höchsten Schweregrad. Die [!UICONTROL Wichtigkeitszahl] muss eindeutig sein.
+1. Wählen Sie eine Farbe für Ihre Priorität aus. Diese wird in Diagrammberichten und an anderen Stellen in [!DNL Workfront] verwendet.
+1. Legen Sie eine der Schweregradoptionen als **[!UICONTROL Standardschweregrad]** fest. Dieser wird automatisch auf alle neuen Probleme in Workfront angewendet.
+1. Geben Sie eine Beschreibung des Schweregrads an, z. B. wie dieser verwendet werden soll.
 1. Klicken Sie auf eine Stelle außerhalb der zu speichernden Felder.
 
-![[!UICONTROL Schweregrad] Liste](assets/admin-fund-severity-new.png)
+Liste der ![[!UICONTROL Schweregrade]](assets/admin-fund-severity-new.png)
 
-### Ändern von Schwerpunkten
+### Ändern von Schweregraden
 
-Wenn ein Schweregrad nicht mehr für Ihre Problem-Workflows relevant wird, kann er umbenannt, ausgeblendet oder gelöscht werden.
+Wenn ein Schweregrad für Ihre Problem-Workflows nicht mehr relevant ist, kann er umbenannt, ausgeblendet oder gelöscht werden.
 
-Wenn ein Schweregrad nicht mehr benötigt wird, [!DNL Workfront] empfiehlt, den Schweregrad auszublenden (klicken Sie auf die Schaltfläche [!UICONTROL Ausblenden] neben dem Feld im Setup-Bereich). Dadurch wird die Prioritätsoption zum Problem aus dem Dropdown-Menü entfernt, aber der Schweregrad historischer Daten wird beibehalten, sodass sie weiterhin zu Berichtszwecken verfügbar sind.
+Wenn ein Schweregrad nicht mehr benötigt wird, empfiehlt [!DNL Workfront], den Schweregrad auszublenden (klicken Sie auf die Schaltfläche [!UICONTROL Ausblenden] neben dem Feld im Setup-Bereich). Dadurch wird die Schweregradoption aus dem Dropdown-Menü entfernt, aber der Schweregrad von historischen Daten bleibt erhalten, sodass er weiterhin zu Berichtszwecken verfügbar ist.
 
-![[!UICONTROL Ausblenden] Spalte hervorgehoben [!UICONTROL Schweregrad] Seite in [!UICONTROL Einrichtung]](assets/admin-fund-severity-hide.png)
+Die hervorgehobene Spalte ![[!UICONTROL Ausblenden] auf der Seite [!UICONTROL Schweregrad] in [!UICONTROL Setup]](assets/admin-fund-severity-hide.png)
 
-[!DNL Workfront] empfiehlt, **nicht** Löschen Sie einen Schweregrad, der bereits bei Problemen verwendet wurde. Wenn Sie einen Schweregrad löschen, werden Sie aufgefordert, einen anderen Schweregrad zu ersetzen. Dies kann historische Daten ändern und die Berichterstellung beeinflussen.
+[!DNL Workfront] empfiehlt, dass Sie einen Schweregrad **nicht** löschen, der bereits bei zurückliegenden Problemen verwendet wurde. Wenn Sie einen Schweregrad löschen, werden Sie aufgefordert, ihn durch einen anderen Schweregrad zu ersetzen. Dadurch können sich historische Daten ändern und die Berichterstellung beeinflusst werden.
 
-![Fenster &quot;Schweregrad löschen&quot;](assets/admin-fund-severity-delete.png)
+![Das Fenster „Schweregrad löschen“](assets/admin-fund-severity-delete.png)
 
 <!---
 learn more URLs
