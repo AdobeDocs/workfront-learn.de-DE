@@ -1,6 +1,6 @@
 ---
-title: Testversand-Workflow bearbeiten
-description: Erfahren Sie, wie Sie eine Testversand-Deadline aktualisieren, Benutzer zu einem vorhandenen Workflow hinzufügen und einen vorhandenen Workflow zu einem automatisierten Workflow in [!DNL  Workfront].
+title: Bearbeiten eines Korrekturabzug-Workflows
+description: Erfahren Sie, wie Sie in [!DNL  Workfront]eine Korrekturabzug-Frist aktualisieren, Benutzende zu einem bestehenden Workflow hinzufügen und einen bestehenden Workflow in einen automatisierten Workflow umwandeln.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,30 +12,30 @@ jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Testversand-Workflow bearbeiten
+# Bearbeiten eines Korrekturabzug-Workflows
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Testversand-Deadline aktualisieren
-* Hinzufügen von Benutzern zu einem vorhandenen Workflow
-* Vorhandenen Workflow in einen automatisierten Workflow umwandeln
+* Aktualisieren der Korrekturabzug-Frist
+* Hinzufügen von Benutzenden zu einem bestehenden Workflow
+* Umwandeln eines vorhandenen Workflow in einen automatisierten Workflow
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
-## Ihre Wendung
+## Sie sind dran
 
 >[!IMPORTANT]
 >
->Vergessen Sie nicht, alle Mitarbeiter, die einem Testversand-Workflow zugewiesen sind, daran zu erinnern, dass Sie im Rahmen Ihrer Workfront-Schulung mit Testsendungen arbeiten.
+>Vergessen Sie nicht, alle Ihre Mitarbeitenden, die mit einem Korrekturabzug-Workflow betraut sind, daran zu erinnern, dass Sie im Rahmen Ihrer Workfront-Schulung mit Korrekturabzügen arbeiten.
 
-1. Suchen Sie einen Testversand, den Sie in Workfront hochgeladen haben. Gehen Sie im Fenster &quot;Testversand-Workflow&quot;wie folgt vor: den Termin um einen Tag verkürzen und einen Überprüfer in einen Überprüfer und Genehmiger ändern.
-1. Vergewissern Sie sich, dass dem Testversand ein automatisierter Workflow zugewiesen wurde, und fügen Sie dann dem Testversand eine Vorlage hinzu.
+1. Suchen Sie einen Korrekturabzug, den Sie auf Workfront hochgeladen haben. Verwenden Sie das Fenster „Proofing-Workflow“, um Folgendes zu tun: die Frist um einen Tag verschieben und eine prüfende Person in eine prüfende und genehmigende Person zu ändern.
+1. Vergewissern Sie sich, dass dem Korrekturabzug ein automatisierter Workflow zugewiesen ist, und fügen Sie dem Korrekturabzug dann eine Vorlage hinzu.
 
 
 
