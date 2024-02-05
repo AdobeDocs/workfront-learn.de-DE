@@ -1,6 +1,6 @@
 ---
 title: Zuweisen von Aufgaben aus dem Projektplan
-description: Erfahren Sie, wie Sie einen Benutzer mithilfe der Inline-Bearbeitung in einem [!DNL  Workfront] Projekt.
+description: Erfahren Sie, wie Sie eine Benutzerin oder einen Benutzer mithilfe der Inline-Bearbeitung in einem  [!DNL  Workfront] -Projekt einer Aufgabe zuweisen können.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -12,9 +12,9 @@ jira: KT-8779
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In diesem Video lernen Sie Folgendes:
 
-* Weisen Sie einen Benutzer mithilfe der Inline-Bearbeitung einer Aufgabe zu
+* Zuweisung einer Benutzerin oder eines Benutzers zu einer Aufgabe mit Inline-Bearbeitung
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
