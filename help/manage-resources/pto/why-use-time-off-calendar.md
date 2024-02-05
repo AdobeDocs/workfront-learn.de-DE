@@ -1,6 +1,6 @@
 ---
-title: Warum die Zeitdauer des Kalenders verwenden?
-description: Hier erhalten Sie einen Einblick in die Möglichkeiten, herauszufinden, welche Teammitglieder zur Verfügung stehen, um die zugewiesene Arbeit abzuschließen, und wer nicht.
+title: Warum sollten Sie den Kalender für Ausfallzeiten benutzen?
+description: Erfahren Sie, wie Sie feststellen können, welche Team-Mitglieder für die Erledigung zugewiesener Aufgaben zur Verfügung stehen und welche nicht.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,45 +10,45 @@ team: Technical Marketing
 jira: KT-10186
 exl-id: 00b1ce6c-80a1-47b0-9b4c-33f5348994ec
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Warum die Zeitdauer des Kalenders verwenden?
+# Warum sollten Sie den Kalender für Ausfallzeiten benutzen?
 
-Wenn Planer und Projektmanager Aufgaben in Workfront zuweisen, trägt das Wissen darüber, welche Teammitglieder zur Verfügung stehen, um die zugewiesene Arbeit abzuschließen, zur fristgerechten Projektabwicklung bei.
+Wenn Planende und Projekt-Managerinnen und -Manager in Workfront Aufgaben zuweisen, trägt das Wissen darüber, welche Team-Mitglieder für die zugewiesene Arbeit zur Verfügung stehen, zu einem pünktlichen Projektabschluss bei.
 
-Genaue Verfügbarkeitsdaten werden auch in die aktuelle und zukünftige Arbeitsplanung einfließen, da Ressourcenmanager die Zuordnung in den Tools für die Ressourcenplanung und -verwaltung von Workfront überprüfen.
+Genaue Verfügbarkeitsdaten fließen auch in die aktuelle und zukünftige Arbeitsplanung ein, da die Ressourcen-Managerinnen und -Manager die Zuordnung in den Ressourcenplanungs- und Management-Tools von Workfront überprüfen.
 
-![Tortenkalender](assets/pto_01.png)
+![Kalender für persönliche Ausfallzeiten](assets/pto_01.png)
 
-Lizenzanwender von Workfront Work and Plan können die persönliche Kalenderzeit verwenden, um anzugeben, wann sie während der normalen Arbeitszeit nicht verfügbar sein werden. Selbst eine halbe Tagesfreigabe könnte sich auf die Erfüllung der ihnen zugewiesenen Aufgaben auswirken.
+Benutzende mit Arbeits- und Planlizenzen von Workfront können den Kalender für persönliche Ausfallzeiten nutzen, um anzugeben, wann sie während der üblichen Arbeitszeiten nicht verfügbar sind. Schon ein halber freier Tag könnte die Erledigung der ihnen zugeteilten Aufgaben beeinträchtigen.
 
-**Hinweis**: Workfront ist nicht dafür konzipiert, die bestehenden Systeme Ihres Unternehmens zur Verwaltung, Ansammlung oder Verfolgung von Zeitlimits zu replizieren oder zu ersetzen. Befolgen Sie die Richtlinien Ihres Unternehmens für die Anforderung und Verwaltung von Zeitlimits.
+**Hinweis**: Workfront ist nicht dafür konzipiert, die in Ihrem Unternehmen vorhandenen Systeme zur Verwaltung, Ansammlung oder Nachverfolgung der persönlichen Ausfallzeiten zu ersetzen. Befolgen Sie für die Beantragung und Verwaltung von Ausfallzeiten die Richtlinien Ihres Unternehmens.
 
 
-## Zeit markieren
+## Markieren Ihrer Ausfallzeiten
 
-Ihre persönliche Kalenderzeit befindet sich auf Ihrer Benutzerseite in Workfront, auf die Sie über das Hauptmenü zugreifen können. Klicken Sie in der linken Ecke auf Ihren Namen.
+Ihr Kalender für persönliche Ausfallzeiten befindet sich auf Ihrer Benutzerseite in Workfront, die Sie über das Hauptmenü erreichen. Klicken Sie in der linken Ecke auf Ihren Namen.
 
 ![Benutzername im Hauptmenü](assets/pto_02.png)
 
-* Klicken Sie im linken Bedienfeldmenü auf Ihrer Benutzerseite in Workfront auf &quot;Time Off&quot;.
+* Klicken Sie auf Ihrer Benutzerseite in Workfront im Menü des linken Bedienfelds auf „Ausfallzeiten“.
 
 * Standardmäßig wird das aktuelle Jahr angezeigt. Verwenden Sie bei Bedarf die Pfeile, um ein anderes Jahr auszuwählen (oben rechts im Kalenderfenster).
 
 * Klicken Sie auf ein Datum im Kalender.
 
-* Workfront geht davon aus, dass Sie den ganzen Tag freinehmen. Klicken Sie in diesem Fall auf die Schaltfläche Speichern .
+* Workfront geht davon aus, dass Sie sich den ganzen ausgewählten Tag freinehmen. Wenn dies der Fall ist, klicken Sie auf die Schaltfläche „Speichern“.
 
-* Wenn Sie aufeinander folgende volle Tage verbringen, ändern Sie das To-Datum in Ihren letzten Tag außerhalb des Büros. Klicken Sie auf die Schaltfläche Speichern .
+* Wenn Sie sich an mehreren aufeinanderfolgenden Tagen freinehmen, ändern Sie das „Bis-Datum“ auf den letzten Tag, an dem Sie nicht anwesend sein werden. Klicken Sie auf die Schaltfläche „Speichern“.
 
-* Wenn Sie nicht den ganzen Tag frei nehmen, deaktivieren Sie das Kontrollkästchen &quot;Alle Tage&quot;. Geben Sie dann die Stunden an, die Sie an diesem Tag arbeiten werden (die Stunden, die Sie zur Verfügung haben). Klicken Sie auf die Schaltfläche Speichern .
+* Wenn Sie sich nicht den ganzen Tag freinehmen möchten, deaktivieren Sie das Kontrollkästchen „Ganztägig“. Geben Sie dann die Stunden an, die Sie an diesem Tag arbeiten werden (die Zeit, zu der Sie verfügbar sind). Klicken Sie auf die Schaltfläche „Speichern“.
 
-![Markieren Sie die Zeitdauer im Kalender.](assets/pto_03.png)
+![Eintragen von Ausfallzeiten im persönlichen Kalender](assets/pto_03.png)
 
-Ihre Zeit wird durch blaue Kästchen auf dem Kalender angegeben. Diese Zeit wird auch an anderen Stellen in Workfront angezeigt, um die Projekt- und Ressourcenplanung zu unterstützen.
+Ihre Ausfallzeiten werden durch blaue Kästchen im Kalender angezeigt. Diese Ausfallzeiten werden auch an anderen Stellen in Workfront angezeigt, um die Projekt- und Ressourcenplanung zu unterstützen.
 
-**Pro-Tipp**: Wenn Ihnen bereits eine Aufgabe zugewiesen wurde und Sie die Zeitdauer im Kalender markieren, wird keine Benachrichtigung an den Projektmanager gesendet, um ihm mitzuteilen, dass Sie nicht verfügbar sind. Stellen Sie sicher, dass Sie den Projektmanager mit einer neuen Zeitspanne aktualisieren, die sich auf aktuelle Projekte oder die Ihnen zugewiesene Arbeit auswirken kann.
+**Profi-Tipp**: Wenn Ihnen bereits eine Aufgabe zugewiesen wurde und Sie danach Ausfallzeit im Kalender markieren, wird keine Benachrichtigung an die Projektleiterin bzw. den Projektleiter gesendet, um die Information weiterzugeben, dass Sie nicht verfügbar sind. Denken Sie also daran, die Projektleiterin bzw. den Projektleiter über alle neuen Ausfallzeiten zu informieren, die sich auf laufende Projekte oder die Ihnen zugewiesene Arbeit auswirken könnten.
