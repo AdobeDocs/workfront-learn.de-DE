@@ -1,6 +1,6 @@
 ---
-title: Aktuelle Arbeiten anzeigen [!DNL Slack]
-description: Erfahren Sie, wie Sie die kürzlich durchgeführten Arbeiten im Slack ansehen können.
+title: Anzeigen der aktuellen Arbeit über  [!DNL Slack]
+description: Erfahren Sie, wie Sie aktuelle Arbeit über Slack anzeigen können
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8820
 exl-id: e2ac4704-27d9-49fe-96a4-fd8fe8b48d94
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '28'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Aktuelle Arbeiten anzeigen [!DNL Slack]
+# Anzeigen der aktuellen Arbeit über [!DNL Slack]
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Aktuelle Arbeiten anzeigen [!DNL Slack]
+* Anzeigen der aktuellen Arbeit über [!DNL Slack]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on)
