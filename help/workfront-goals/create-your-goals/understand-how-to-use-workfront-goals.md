@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Goals] Übersicht
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Navigieren in der Zielliste
 * Navigieren in Diagrammen
-* Zielausrichtung navigieren
+* Navigieren zur Zielausrichtung
 
 >[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on)
