@@ -10,55 +10,55 @@ level: Beginner
 jira: KT-10098
 exl-id: afc02878-e72e-4707-9a9b-94f1dc4694aa
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '419'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Abonnieren von Arbeitselementen
 
-Ereignisbenachrichtigungen aktualisieren Sie über die Arbeit, der Sie zugewiesen wurden. Es kann jedoch vorkommen, dass Sie Arbeitselemente befolgen möchten, denen Sie nicht zugewiesen sind, da dies sich auf Ihre Arbeit auswirken kann. Die Anmeldung für ein bestimmtes Element ist die perfekte Lösung.
+Ereignisbenachrichtigungen halten Sie über die Ihnen zugewiesenen Arbeiten auf dem neuesten Stand. Möglicherweise möchten Sie Arbeitsaufgaben verfolgen, die Ihnen nicht zugewiesen sind, aber sich auf Ihre Arbeit auswirken könnten. Ein Abonnement für ein bestimmtes Element ist hier die perfekte Lösung.
 
-Sie interessieren sich beispielsweise für den Fortschritt der Aufgabe Erstkopie . Sie sind dieser Aufgabe nicht zugewiesen, aber Sie sind für die Bearbeitung dieser ersten Kopie verantwortlich und möchten wissen, was vor sich geht. Sie können die Aufgabe abonnieren und bei Aktualisierungen eine E-Mail-Benachrichtigung mit einer Echtzeitaktualisierung des Fortschritts bei der Arbeit erhalten.
+Sie interessieren sich zum Beispiel für den Fortschritt der Aufgabe „Ausgangskopie“. Sie sind zwar nicht mit dieser Aufgabe betraut, aber für die Bearbeitung dieser Ausgangskopie verantwortlich und möchten wissen, wie es damit aussieht. Sie können die Aufgabe abonnieren und erhalten bei Aktualisierungen eine E-Mail-Benachrichtigung, die Sie in Echtzeit über den Fortgang der Arbeiten informiert.
 
-![E-Mail aus einem Aufgabenkopent](assets/admin-fund-user-notifications-10.png)
+![E-Mail aus einem Aufgabenabonnement](assets/admin-fund-user-notifications-10.png)
 
-Beachten Sie, dass Abonnement-E-Mails und In-App-Benachrichtigungen nur gesendet werden, wenn Kommentare zu dem Artikel gesendet werden. E-Mails und Benachrichtigungen werden nicht bei anderen Aktionen gesendet, z. B. bei Fälligkeitsänderungen oder Zuweisungsänderungen.
+Es ist wichtig zu wissen, dass Abonnement-E-Mails und In-App-Benachrichtigungen nur dann gesendet werden, wenn Kommentare zu einem Element abgegeben werden. Bei anderen Aktionen, z. B. Änderungen des Fälligkeitsdatums oder der Zuweisung, werden keine E-Mails und Benachrichtigungen versendet.
 
-Um ein Arbeitselement zu abonnieren, müssen Sie mindestens über eine Berechtigung zum Anzeigen der Freigabe für dieses Element verfügen.
+Um ein Arbeitselement zu abonnieren, müssen Sie mindestens über die Berechtigung zur Ansichtsfreigabe des Elements verfügen.
 
-![[!UICONTROL Aufgabenzugriff] Fenster](assets/admin-fund-user-notifications-11.png)
+Fenster ![[!UICONTROL Aufgabenzugriff]](assets/admin-fund-user-notifications-11.png)
 
-Sobald Sie Zugriff auf das Arbeitselement haben, abonnieren Sie es durch:
+Sobald Sie Zugriff auf das Arbeitselement haben, können Sie es abonnieren, indem Sie:
 
-1. Navigieren Sie zur Landingpage des Projekts, der Aufgabe oder des Problems.
-1. Klicken Sie auf **[!UICONTROL Aktionen]** Menü.
-1. Klicken **[!UICONTROL Abonnieren]**.
+1. Die Landingpage des Projekts, der Aufgabe oder des Problems aufrufen.
+1. Auf das Menü **[!UICONTROL Aktionen]** klicken.
+1. Auf **[!UICONTROL Abonnieren]** klicken.
 
-![[!UICONTROL Abonnieren] Option im Aufgabenmenü](assets/admin-fund-user-notifications-12.png)
+Option ![[!UICONTROL Abbonieren] im Aufgabenmenü](assets/admin-fund-user-notifications-12.png)
 
-Sie können sehen, wer das Arbeitselement abonniert hat, indem Sie den Mauszeiger über die Zahl neben [!UICONTROL Abonnieren/Abmelden] im Menü.
+Sie können sehen, wer das Arbeitselement sonst noch abonniert hat, indem Sie den Mauszeiger über die Zahl neben [!UICONTROL Abonnieren/Abmelden] im Menü bewegen.
 
-![Aufgabenmenü, das anzeigt, wer sich angemeldet hat](assets/admin-fund-user-notifications-13.png)
+![Aufgabenmenü mit Anzeige, wer abonniert hat](assets/admin-fund-user-notifications-13.png)
 
-Wenn Sie [!UICONTROL Verwalten] oder [!UICONTROL Freigeben] -Berechtigungen für das Arbeitselement können Sie andere Benutzer für ein Projekt, eine Aufgabe oder ein Problem anmelden, indem Sie:
+Wenn Sie für das Arbeitselement über die Berechtigungen [!UICONTROL Verwalten] oder [!UICONTROL Freigeben] verfügen, können Sie andere Benutzende für ein Projekt, eine Aufgabe oder ein Problem abonnieren, indem Sie:
 
-1. Klicken Sie auf die Zahl neben dem **[!UICONTROL Abonnieren]** -Option.
-1. Hinzufügen des Namens der Person(en), die Sie für das Arbeitselement anmelden möchten.
-1. Klicken **[!UICONTROL Speichern]**.
+1. Auf die Zahl neben der Option **[!UICONTROL Abonnieren]** klicken.
+1. Den Namen der Person(en), die Sie für das Arbeitselement abonnieren möchten, hinzufügen.
+1. Auf **[!UICONTROL Speichern]** klicken.
 
-![[!UICONTROL Abonnieren] Fenster](assets/admin-fund-user-notifications-15.png)
+Fenster ![[!UICONTROL Abonnieren]](assets/admin-fund-user-notifications-15.png)
 
-Die Personen, die Sie abonnieren, werden nicht über das Abonnement informiert. Alle Abonnenten erhalten Ansichtsberechtigungen für das Element. Wenn der Abonnent jedoch bereits [!UICONTROL Beitragen] oder [!UICONTROL Verwalten] -Berechtigungen für das Element festgelegt haben, bleiben diese Berechtigungen unverändert.
+Die Personen, die Sie abonnieren, werden nicht über das Abonnement benachrichtigt. Alle Abonnentinnen und Abonnenten erhalten eine Anzeigeberechtigung für das Element. Wenn die Abonnentin bzw. der Abonnent für das Element jedoch bereits über die Berechtigungen [!UICONTROL Mitwirken] oder [!UICONTROL Verwalten] verfügt, bleiben diese Berechtigungen unverändert.
 
-Ein Eintrag im [!UICONTROL Updates] im jeweiligen Element auch angeben, wer sich angemeldet hat und wann. Die [!UICONTROL Updates] -Tab auch protokolliert, wenn ein Benutzer von einer anderen Person abonniert wird.
+Ein Eintrag auf der Registerkarte [!UICONTROL Updates] des jeweiligen Elements zeigt auch an, wer wann ein Abonnement abgeschlossen hat. Auf der Registerkarte [!UICONTROL Updates] wird auch protokolliert, wenn jemand durch eine andere Person abonniert wird.
 
-![[!UICONTROL Updates] Seite einer Aufgabe, die ein Abonnement anzeigt](assets/admin-fund-user-notifications-16.png)
+Seite ![[!UICONTROL Updates] für eine Aufgabe mit Anzeige eines Abonnements](assets/admin-fund-user-notifications-16.png)
 
-Um sich von einem Benutzer abzumelden, klicken Sie erneut auf den Punkt , um den [!UICONTROL Abonnenten] Fenster. Klicken Sie dann auf das X neben dem Namen der Person. Der Benutzer wird nicht darüber informiert, dass er sich abgemeldet hat.
+Um eine Person abzumelden, klicken Sie erneut auf die Sprechblase, um das Fenster [!UICONTROL Abonnenten] zu öffnen. Klicken Sie dann auf das X neben dem Namen der Person. Die Person wird nicht darüber informiert, dass sie abgemeldet wurde.
 
-![[!UICONTROL Abmelden] Menüoption in einem Projekt](assets/admin-fund-user-notifications-14.png)
+Menüoption ![[!UICONTROL Abmelden] für ein Projekt](assets/admin-fund-user-notifications-14.png)
 
 <!---
 learn more URL: Subscribe to items in Workfront
