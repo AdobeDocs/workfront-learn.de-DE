@@ -1,6 +1,6 @@
 ---
-title: Testversand-Version hochladen
-description: Erfahren Sie, wie Sie eine neue Version eines Testversands hochladen und einen Testversand-Workflow auf die Version in anwenden. [!DNL  Workfront].
+title: Hochladen einer Korrekturabzugsversion
+description: Erfahren Sie, wie Sie in [!DNL  Workfront]eine neue Version eines Korrekturabzugs hochladen und einen Proofing-Workflow auf die Version anwenden.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,34 +12,34 @@ jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Testversand-Version hochladen
+# Hochladen einer Korrekturabzugsversion
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Eine neue Version eines Testversands hochladen
-* Anwenden eines Testversand-Workflows auf die Version
+* Hochladen einer neuen Version eines Korrekturabzugs
+* Anwenden eines Proofing-Workflows auf die Version
 
 >[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on)
 
-## Hochladen einer Version aus dem Testversand-Viewer
+## Hochladen einer Version aus dem Proofing-Viewer
 
-Wenn Sie einen Testversand im Testversand-Viewer geöffnet haben, können Sie direkt über das Menü Version mit dem Hochladen einer Version beginnen. Klicken Sie auf [!UICONTROL Neue Version] Link, der direkt zum &quot;[!UICONTROL eine neue Version hochladen]&quot;und schließen Sie den Upload ab.
+Wenn Sie einen Korrekturabzug im Proofing-Viewer geöffnet haben, können Sie direkt über das Menü „Version“ mit dem Hochladen einer Version beginnen. Klicken Sie auf den Link [!UICONTROL Neue Version], der direkt zur Seite [!UICONTROL Neue Version hochladen] führt, und schließen Sie den Upload ab.
 
-![Ein Bild des Testversand-Viewers mit dem Versionsmenü, das in der oberen linken Ecke eingeblendet wird, und dem [!UICONTROL Neue Version] Link hervorgehoben.](assets/upload-version-from-viewer.png)
+![Ein Bild des Proofing-Viewers mit dem erweiterten Versionsmenü in der linken oberen Ecke und dem hervorgehobenen Link [!UICONTROL Neue Version].](assets/upload-version-from-viewer.png)
 
-## Ihre Wendung
+## Sie sind dran
 
 >[!IMPORTANT]
 >
->Vergessen Sie nicht, Ihre Mitarbeiter daran zu erinnern, dass Sie ihnen im Rahmen Ihrer Workfront-Schulung einen Testversand schicken.
+>Vergessen Sie nicht, Ihre Kolleginnen und Kollegen daran zu erinnern, dass Sie ihnen im Rahmen Ihrer Workfront-Schulung einen Korrekturabzug schicken.
 
-Suchen Sie einen Testversand, den Sie in Workfront hochgeladen haben. Laden Sie eine neue Version dieses Testversands hoch, weisen Sie eine neue Workflow-Vorlage zu oder nehmen Sie Änderungen am bestehenden Workflow vor.
+Suchen Sie einen Korrekturabzug, den Sie in Workfront hochgeladen haben. Laden Sie eine neue Version dieses Korrekturabzugs hoch, weisen Sie eine neue Workflow-Vorlage zu oder nehmen Sie Änderungen am bestehenden Workflow vor.
 
 <!--
 ### Learn more 
