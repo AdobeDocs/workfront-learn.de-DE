@@ -1,6 +1,6 @@
 ---
-title: Bericht zu Testsendungen
-description: Erfahren Sie, wie Sie mit Reporting-Funktionen den Testfortschritt verwalten können.
+title: Korrekturabzugsbericht
+description: Erfahren Sie, wie Sie den Fortschritt der Korrekturabzüge mithilfe der Berichtsfunktionen verwalten können.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -11,65 +11,65 @@ thumbnail: report-on-proofs.png
 jira: KT-10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Bericht zu Testsendungen
+# Korrekturabzugsbericht
 
-[!DNL Workfront]Dank der digitalen Testversandfunktionen können Sie Projekte und damit verbundene Prüfungs-Workflows zentral verwalten — [!DNL Workfront]. Verschaffen Sie sich wertvolle Einblicke in die Testarbeiten, die mit Berichtstypen, Feldquellen und Feldnamen durchgeführt werden, die Überprüfungs- und Genehmigungsinformationen anzeigen.
+Mit den digitalen Proofing-Funktionen von [!DNL Workfront] können Sie Projekte und die dazugehörigen Überprüfungs-Workflows an einem Ort verwalten – [!DNL Workfront]. Verschaffen Sie sich mit Berichtstypen, Feldquellen und Feldnamen, die Überprüfungs- und Genehmigungsinformationen anzeigen, wertvolle Einblicke in die durchgeführte Proofing-Arbeit.
 
-Es wird empfohlen, mit Ihrem [!DNL Workfront] Berater erstellen, um Berichte zu erstellen, die den Anforderungen Ihres Unternehmens entsprechen. Einige Berichte müssen mit [!DNL Workfront]Die Textmodusberichterstellung.
+Wir empfehlen, mit Ihrer [!DNL Workfront]-Beraterin bzw. Ihrem -Berater zusammenzuarbeiten, um Berichte zu erstellen, die den Anforderungen Ihres Unternehmens entsprechen. Einige der Berichte erfordern Kenntnisse im Umgang mit dem Textmodus von [!DNL Workfront].
 
-Beginnen Sie mit diesen einfachen, standardmäßigen Berichten, die Ihren Teams bei der Verwaltung von Testsendungen helfen, die während eines Prüfungs- und Genehmigungsprozesses in [!DNL Workfront].
+Beginnen Sie mit diesen grundlegenden Standardberichten, um Ihre Teams bei der Verwaltung von Korrekturabzügen zu unterstützen, die einen Überprüfungs- und Genehmigungsprozess in [!DNL Workfront] durchlaufen.
 
 ## [!UICONTROL Korrekturabzug-Genehmigung]
 
-Mit diesem Berichtstyp können Sie ausstehende Testversandgenehmigungen verfolgen, um sicherzustellen, dass die Fristen eingehalten werden.
+Mit diesem Berichtstyp können Sie ausstehende Korrekturabzugsgenehmigungen verfolgen, um sicherzustellen, dass die Fristen eingehalten werden.
 
-![Auswählen [!UICONTROL Validierung des Testversands] von [!UICONTROL Neuer Bericht] Dropdown-Menü](assets/proof-system-setups-proof-approval-report.png)
+![Wählen Sie [!UICONTROL Korrekturabzug-Genehmigung] aus dem Dropdown-Menü [!UICONTROL Neuer Bericht]](assets/proof-system-setups-proof-approval-report.png)
 
-Zu den Filteroptionen gehören [!UICONTROL Entscheidungsdatum], [!UICONTROL Validierung des Testversands], [!UICONTROL Validierungsphase], [!UICONTROL Workflow-Vorlage]und [!UICONTROL Anforderungsinformationen]. Bei der Berichterstellung für den Textmodus können Sie eine Gruppierung erstellen, die die Liste nach Dokumentnamen organisiert. Siehe [Grundlegendes zum Textmodus für Gruppierungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en).
+Zu den Ansichts- und Filteroptionen gehören [!UICONTROL Entscheidungsdatum], [!UICONTROL Korrekturabzug-Genehmigung], [!UICONTROL Genehmigungsstufe], [!UICONTROL Workflow-Vorlage] und [!UICONTROL Informationen zur anfragenden Person]. Bei der Berichterstellung im Textmodus können Sie eine Gruppierung erstellen, die die Liste nach Dokumentennamen organisiert. Siehe [Informationen zum grundlegenden Textmodus für Gruppierungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=de).
 
-Stellen Sie beim Schreiben von Berichten zur Testversandvalidierung sicher, dass Sie Informationen zur aktuellsten Testversion erhalten. [!DNL Workfront] empfiehlt, diese Feldquelle und den Feldnamen in den Filter einzuschließen:
+Achten Sie bei der Erstellung von Korrekturabzugsgenehmigungsberichten darauf, dass Sie Ihnen Informationen aus der aktuellsten Version der Korrekturabzüge vorliegen. [!DNL Workfront] empfiehlt, diese Feldquelle und den Feldnamen in den Filter einzuschließen:
 
-**[!UICONTROL Validierung des Testversands]>>[!UICONTROL Ist aktuelle Dokumentversion]**
+**[!UICONTROL Korrekturabzug-Genehmigung]>>[!UICONTROL Ist die aktuelle Version des Dokuments]**
 
-![Registerkarte &quot;Filter&quot;in ReportBuilder](assets/proof-system-setups-proof-approval-report-is-current-version.png)
+![Registerkarte „Filter“ im Report Builder](assets/proof-system-setups-proof-approval-report-is-current-version.png)
 
-Dies ist nützlich, wenn Sie Berichte zu Testsendungen erstellen, die mehrere Versionen aufweisen, sodass der Bericht nur die aktuelle Version jedes Testversands auflistet, für den eine Genehmigung erforderlich ist. Dadurch werden die früheren Versionen herausgefiltert, an denen Sie nicht mehr arbeiten müssen.
+Dies ist nützlich, wenn Sie Berichte zu Korrekturabzügen erstellen, die mehrere Versionen haben, damit der Bericht nur die aktuelle Version jedes Korrekturabzugs auflistet, der genehmigt werden muss. Dadurch werden die früheren Versionen herausgefiltert, an denen Sie nicht mehr arbeiten müssen.
 
 ## [!UICONTROL Dokumentversion]
 
-Mit diesem Berichtstyp können Sie Versionen in [!DNL Workfront].
+Mit diesem Berichtstyp können Sie Versionen in [!DNL Workfront] verwalten und verfolgen.
 
-![Auswählen [!UICONTROL Dokumentversion] von [!UICONTROL Neuer Bericht] Dropdown-Menü](assets/proof-system-setups-document-version-report.png)
+![Wählen Sie [!UICONTROL Dokumentversion] aus dem Dropdown-Menü [!UICONTROL Neuer Bericht]](assets/proof-system-setups-document-version-report.png)
 
-Zu den Anzeigeoptionen gehören Informationen aus dem [!UICONTROL Dokumentversion], [!UICONTROL Dokument], [!UICONTROL durch], [!UICONTROL Validierungsstatus des Testversands], [!UICONTROL Testversand]und [!UICONTROL Dokumentanbieter].
+Zu den Ansichtsoptionen gehören Informationen zu [!UICONTROL Dokumentversion], [!UICONTROL Dokument], [!UICONTROL eingegeben von], [!UICONTROL Status der Korrekturabzug-Genehmigung], [!UICONTROL Erstellerin bzw. Ersteller des Korrekturabzugs] und [!UICONTROL Dokumentanbieter].
 
-Gruppierungen können durch [!UICONTROL Dokumentversion], [!UICONTROL durch], [!UICONTROL Validierungsstatus des Testversands]oder Informationen zum Testversand-Eigentümer.
+Gruppierungen können nach [!UICONTROL Dokumentversion], [!UICONTROL eingegeben von], [!UICONTROL Status der Korrekturabzug-Genehmigung] oder Informationen zur Eigentümerin bzw. zum Eigentümer des Korrekturabzugs vorgenommen werden.
 
-Zu den Filtern gehören [!UICONTROL Dokumentversion], [!UICONTROL Zugriffsstufe], [!UICONTROL Dokument], [!UICONTROL durch], [!UICONTROL Validierungsstatus des Testversands], [!UICONTROL Testversand]und Informationen des Dokumentenanbieters.
+Zu den Filtern gehören [!UICONTROL Dokumentversion], [!UICONTROL Zugriffsebene], [!UICONTROL Dokument], [!UICONTROL eingegeben von], [!UICONTROL Status der Korrekturabzug-Genehmigung], [!UICONTROL Erstellerin bzw. Ersteller des Korrekturabzugs] und Informationen zum Dokumentanbieter.
 
-Sie können den Namen der Testphase anzeigen, die derzeit für jedes Dokument im Bericht mit dieser Spalte aktiv ist:
+In dieser Ansichtsspalte können Sie den Namen der Proofing-Stufe anzeigen, die derzeit für jedes Dokument im Bericht aktiv ist:
 
-**[!UICONTROL Dokumentversionen] >> [!UICONTROL Aktive Testphase]**
+**[!UICONTROL Dokumentversionen] >> [!UICONTROL Aktive Korrekturabzugsphasen]**
 
-![Registerkarte &quot;Filter&quot;in ReportBuilder](assets/proof-system-setups-active-proof-stages.png)
+![Registerkarte „Filter“ im Report Builder](assets/proof-system-setups-active-proof-stages.png)
 
-Wenn derzeit keine Bühne aktiv ist, ist die Spalte leer.
+Wenn derzeit keine Phase aktiv ist, ist die Spalte leer.
 
-Diese Feldquelle >> Feldname ist auch als Filter in einem Bericht verfügbar.
+Feldquelle >> Feldname ist auch als Filter in einem Bericht verfügbar.
 
-Verwenden Sie die [!UICONTROL Ersteller des Testversands] -Feldquelle, um Informationen über den Benutzer zu erhalten, der den Testversand erstellt hat. Wählen Sie die [!UICONTROL Name] -Feldquelle, um den Namen des Testversand-Erstellers in einer Ansicht anzuzeigen.
+Verwenden Sie die Feldquelle [!UICONTROL Erstellerin bzw. Ersteller des Korrekturabzugs], um Informationen über die Person, die den Korrekturabzug erstellt hat, zu melden. Wählen Sie die Feldquelle [!UICONTROL Name], um den Namen der Person, die den Korrekturabzug erstellt hat, in einer Ansicht anzuzeigen.
 
-**[!UICONTROL Ersteller des Testversands] >> [!UICONTROL Name]**
+**[!UICONTROL Erstellerin bzw. Ersteller des Korrekturabzugs] >> [!UICONTROL Name]**
 
-Dieses Feld >> Feldname-Kombinationsfeld ist auch als Filter verfügbar.
+Diese Kombination aus Feldquelle >> Feldname ist auch als Filter verfügbar.
 
-![Registerkarte &quot;Filter&quot;in ReportBuilder](assets/proof-system-setups-proof-creator-name.png)
+![Registerkarte „Filter“ im Report Builder](assets/proof-system-setups-proof-creator-name.png)
 
 <!--
 Learn More Icon
