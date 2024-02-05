@@ -1,6 +1,6 @@
 ---
-title: Filter verwenden
-description: Erfahren Sie, wie Sie Filter zwischen Modulen und innerhalb eines Moduls verwenden und den Ausführungsverlauf in [!DNL Adobe Workfront Fusion].
+title: Verwenden von Filtern
+description: Erfahren Sie, wie Sie in [!DNL Adobe Workfront Fusion]Filter zwischen Modulen und innerhalb eines Moduls verwenden und den Ausführungsverlauf überprüfen können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-9005
 exl-id: 1e47a475-0d20-4516-b6ef-86166263d3b5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Filter verwenden
+# Verwenden von Filtern
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Filter zwischen Modulen verwenden
+* Verwenden von Filtern zwischen Modulen
 * Verwenden von Filtern als Suchkriterien in einem Modul
 * Überprüfen der Filterbewertung im Ausführungsverlauf
 
