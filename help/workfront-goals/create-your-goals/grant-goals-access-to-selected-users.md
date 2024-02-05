@@ -1,6 +1,6 @@
 ---
-title: Zugriff auf ausgewählte Benutzer über Ziele gewähren
-description: Erfahren Sie, wie Sie die Zugriffsebenen entsprechend dem Lizenztyp für Ihre Benutzer bearbeiten können in [!DNL Workfront Goals].
+title: Gewähren von Zugriff auf Ziele für ausgewählte Benutzende
+description: Erfahren Sie, wie Sie in [!DNL Workfront Goals]Zugriffsebenen entsprechend dem Lizenztyp für Ihre Benutzende bearbeiten.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,24 +11,24 @@ jira: KT-8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Zugriff auf ausgewählte Benutzer über Ziele gewähren
+# Gewähren von Zugriff auf Ziele für ausgewählte Benutzende
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Zugriff auf ausgewählte Benutzer über Ziele gewähren
+* Gewähren von Zugriff auf Ziele für ausgewählte Benutzende
 
 >[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
-Systemadministratoren können verfolgen, wie viele [!DNL Workfront Goals] -Lizenzen wurden über die **[!UICONTROL Einrichtung]** Gebiet von Workfront.
+Systemadmins können über den Workfront-Bereich **[!UICONTROL Setup]** verfolgen, wie viele [!DNL Workfront Goals]-Lizenzen genutzt werden.
 
-1. Erweitern Sie die **[!UICONTROL System]** im Menü des linken Bedienfelds.
-1. Klicken **[!UICONTROL Lizenzen]**.
-1. Sie können die Gesamtanzahl der [!DNL Workfront Goals] Lizenzen und wie viele über Zugriffsebenen zugewiesen wurden.
+1. Erweitern Sie im Menü des linken Bedienfelds die Option **[!UICONTROL System]**.
+1. Klicken Sie auf **[!UICONTROL Lizenzen]**.
+1. Neben der Gesamtanzahl der [!DNL Workfront Goals]-Lizenzen sehen Sie, wie viele Lizenzen über Zugriffsebenen zugewiesen wurden.
 
-![Screenshot der Anzahl [!DNL Workfront Goals] Lizenzen im Bereich Einstellungen von [!DNL Workfront]](assets/02-workfront-goals-licenses.png)
+![Ein Screenshot mit der Anzahl der [!DNL Workfront Goals]-Lizenzen im Bereich „Setup“ von [!DNL Workfront]](assets/02-workfront-goals-licenses.png)
