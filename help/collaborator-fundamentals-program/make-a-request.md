@@ -1,42 +1,42 @@
 ---
-title: Anfordern
-description: Erfahren Sie, wie Sie die [!UICONTROL Anforderungen] und stellen Sie eine Anfrage. Erfahren Sie dann, wie Sie gesendete und Entwurfsanfragen anzeigen können.
+title: Wie Sie eine Anfrage stellen
+description: Erfahren Sie, wie Sie den Bereich [!UICONTROL Anfragen] finden und eine Anfrage stellen können. Dann erfahren Sie, wie Sie eingereichte Anfragen und Entwurfsanfragen einsehen können.
 activity: use
 type: Tutorial
 team: Technical Marketing
 jira: KT-8806
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Anfrage stellen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Navigieren zum Anforderungsbereich
+* Zum Anfragebereich navigieren
 * Anfrage stellen
-* Gesendete Anforderungen anzeigen
-* Anforderungsentwurf suchen
+* Eingereichte Anfragen anzeigen
+* Einen Entwurf einer Anfrage finden
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
 
-## Schneller Zugriff auf Anforderungswarteschlangenpfade
+## Schnell und einfach auf die Pfade in der Anfrage-Warteschlange zugreifen
 
-Wenn Sie in die [!UICONTROL Anfragetyp] -Feld die letzten drei Anfragepfade, die Sie kürzlich gesendet haben, um automatisch oben in der Liste anzuzeigen. Wählen Sie eine Option aus, um eine weitere Anforderung in dieselbe Warteschlange zu senden.
+Wenn Sie in das Feld [!UICONTROL Anfragetyp] klicken, werden die letzten drei Anfragepfade, die Sie kürzlich eingereicht haben, automatisch oben in der Liste angezeigt. Wählen Sie eine Option, um eine weitere Anfrage in derselben Warteschlange zu stellen.
 
-![Menü &quot;Anfragetyp&quot;mit einer Liste der letzten Anfragepfade](assets/collaborator-fundamentals-1.png)
+![Das Anfragetyp-Menü zeigt eine Liste der letzten Anfragepfade](assets/collaborator-fundamentals-1.png)
 
-Am Ende der Liste befinden sich alle Anforderungswarteschlangen, auf die Sie Zugriff haben. Wenn Sie nicht sicher sind, welche Warteschlange Sie für Ihre Anfrage verwenden möchten, suchen Sie mit der Suchbegriffsuche schnell und einfach nach der gewünschten Warteschlange.
+Am Ende der Liste stehen alle Warteschlangen, auf die Sie Zugriff haben. Wenn Sie sich nicht sicher sind, welche Warteschlange Sie für Ihre Anfrage verwenden sollen, nutzen Sie die Suche nach Schlüsselwörtern, um schnell und einfach die gewünschte Warteschlange zu finden.
 
-Während Sie Suchbegriffe eingeben, [!DNL Workfront] führt Übereinstimmungen ein, damit Sie den Pfad der Anforderungswarteschlange finden können, der Ihren Anforderungen entspricht. Um beispielsweise einen Social-Media-Beitrag anzufordern, geben Sie in das Feld [!UICONTROL Anfragetyp] -Feld und die Liste werden dynamisch aktualisiert, um Übereinstimmungen anzuzeigen.
+Bei der Eingabe von Schlüsselwörtern zeigt [!DNL Workfront] Übereinstimmungen an, sodass Sie den für Ihre Bedürfnisse geeigneten Pfad für die Anfrage-Warteschlange finden können. Um beispielsweise eine Anfrage für einen Post in den sozialen Medien zu stellen, geben Sie „Social Media“ in das Feld [!UICONTROL Anfragetyp] ein, und die Liste wird dynamisch aktualisiert, um alle Übereinstimmungen anzuzeigen.
 
-![Menü &quot;Anfragetyp&quot;mit einem Wort, das in das Feld eingegeben wurde, um aktuelle Anfragepfade anzuzeigen](assets/collaborator-fundamentals-2.png)
+![Anfragetyp-Menü mit einem Wort, das in das Feld eingegeben wird, um die letzten Anfragepfade anzuzeigen](assets/collaborator-fundamentals-2.png)
 
-Wählen Sie die gewünschte Option aus, füllen Sie das Anfrageformular aus und senden Sie die Anfrage.
+Wählen Sie die gewünschte Option aus, füllen Sie das Anfrageformular aus und senden Sie die Anfrage ab.
 
 <!---
 Learn more
