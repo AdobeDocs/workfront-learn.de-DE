@@ -1,6 +1,6 @@
 ---
-title: Aufgabendauer verstehen
-description: Erfahren Sie, wie sich Dauern auf Start- und Fertigstellungsdaten von Aufgaben auswirken, wie Dauern in Projekt-Timelines berücksichtigt werden, und einige Best Practices für die Verwendung von Aufgabendauer.
+title: Grundlegendes zu Aufgabendauern
+description: Erfahren Sie, wie sich Dauern auf Start- und Fertigstellungsdaten von Aufgaben auswirken, wie Dauern in Projektzeitleisten berücksichtigt werden, und lernen Sie einige Best Practices für die Verwendung von Aufgabendauer.
 activity: use
 feature: Work Management
 thumbnail: 335089.jpeg
@@ -12,19 +12,19 @@ jira: KT-8776
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Aufgabendauer verstehen
+# Grundlegendes zu Aufgabendauern
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Dauer einer Aufgabe [!DNL Workfront]
-* Auswirkungen von Dauern auf Start- und Enddaten von Aufgaben
-* Wie Zeiträume in Projektzeitpläne eingebunden werden
-* Best Practices für die Verwendung von Aufgabendauer
+* Was in [!DNL Workfront] eine Aufgabendauer ist
+* Auswirkungen der Dauer auf die Start- und Enddaten von Aufgaben
+* Einbindung von Dauern in Projektzeitleisten
+* Best Practice-Empfehlungen zur Verwendung der Aufgabendauer
 
 >[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)
