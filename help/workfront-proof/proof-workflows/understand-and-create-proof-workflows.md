@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu sicheren Workflows im Rahmen von Projekt-Timelines
-description: Erfahren Sie, welche Informationen zum Erstellen eines Testversand-Workflows gesammelt werden sollen und wie sich der Unterschied zwischen einfachen und erweiterten Testversand-Workflows in [!DNL  Workfront].
+title: Grundlegendes zu Korrekturabzug-Workflows als Teil von Projektzeitleisten
+description: Erfahren Sie, welche Informationen Sie erfassen müssen, um einen Korrektur-Workflow zu erstellen, und lernen Sie den Unterschied zwischen einfachen und erweiterten Korrektur-Workflows in [!DNL  Workfront]kennen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8824
 exl-id: 8e8871a8-866e-4c9a-9f30-578d3b5639c5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zu sicheren Workflows im Rahmen von Projekt-Timelines
+# Grundlegendes zu Korrekturabzug-Workflows als Teil von Projektzeitleisten
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Welche Informationen zum Erstellen eines Testversand-Workflows erfasst werden sollen
-* Der Unterschied zwischen einfachen und erweiterten Testversandarbeitsabläufen
+* Welche Informationen müssen für die Erstellung eines Korrektur-Workflows erfasst werden?
+* Der Unterschied zwischen grundlegenden und erweiterten Korrektur-Workflows
 
 >[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on)
 
