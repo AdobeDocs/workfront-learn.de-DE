@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zum Textmodus für Filter
-description: Erfahren Sie, was der Textmodus ist, welche Binnenmajuskel-Schreibweise verwendet wird und welchen einfachen Textmodus Sie in Ihren Berichtsfiltern in Workfront verwenden können.
+title: Grundlegendes zum einfachen Textmodus für Filter
+description: Erfahren Sie, was der Textmodus ist, was die Binnenmajuskel-Schreibweise ist und welchen einfachen „Plug-and-Play“-Textmodus Sie in Ihren Berichtsfiltern in Workfront verwenden können.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,40 +12,40 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zum Textmodus für Filter
+# Grundlegendes zum einfachen Textmodus für Filter
 
 >[!IMPORTANT]
 >
 >Voraussetzungen:
 >
->* Berichterstellungselemente
->* Berichtkomponenten verstehen
->* Basisfilter erstellen
+>* Grundlegendes zu Reporting-Elementen
+>* Grundlegendes zu Reporting-Komponenten
+>* Erstellen eines einfachen Filters
 
 >[!TIP]
 >
->* Um ein tieferes Verständnis des Textmodus zu erhalten, empfehlen wir, sich das aufgezeichnete Webinar-Ereignis anzusehen [Experten fragen - Einführung in die Berichterstellung zum Textmodus](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), die eine Stunde lang ist.
->* Um mehr über den Textmodus zu erfahren, sollten Sie die [Erweiterte Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) Tutorials, die zusammen fünfeinhalb Stunden lang sind.
+>* Um ein tieferes Verständnis des Textmodus zu erhalten, empfehlen wir Ihnen, sich die einstündige Aufzeichnung des folgenden Webinars anzusehen: [Experten fragen – Einführung in die Berichterstellung zum Textmodus](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=de).
+>* Um mehr über den Textmodus zu erfahren, sollten Sie sich die Tutorials [Erweiterte Berichterstellung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=de) ansehen, die insgesamt fünfeinhalb Stunden lang sind.
 
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Textmodus
-* Was für ein Kamel ist
-* Grundlegender Textmodus &quot;Plug-and-Play&quot;, den Sie in Ihren Berichtsfiltern verwenden können
+* Was der Textmodus ist
+* Was die Binnenmajuskel-Schreibweise ist
+* Etwas einfachen „Plug-and-Play“-Textmodus, den Sie in Ihren Berichtsfiltern verwenden können
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 
-## Aufgabe - Aufgaben herausfiltern, für die ich &quot;Fertig mit meinem Teil&quot; markiert habe
+## Aufgabe – Aufgaben herausfiltern, die ich als „Fertig mit meinem Teil“ markiert habe
 
-Im folgenden Textmodus werden Aufgaben ausgeschlossen, bei denen ein Benutzer &quot;Fertig mit My Part&quot;markiert hat. Sie müssen lediglich einen Aufgabenfilter erstellen, beliebige Filterregeln hinzufügen, dann in den Textmodus wechseln und den unten stehenden Code nach einem beliebigen Textmodus einfügen, der im Filter angezeigt wird.
+Der folgende Textmodus schließt Aufgaben aus, bei denen Benutzende „Fertig mit meinem Teil“ markiert haben. Sie müssen lediglich einen Aufgabenfilter erstellen, beliebige Filterregeln hinzufügen, dann in den Textmodus wechseln und den unten stehenden Code nach einem beliebigen Textmodus einfügen, der im Filter angezeigt wird.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -55,7 +55,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Aufgabe - Zeigt alle Aufgaben an, die auf meine Genehmigung warten
+## Aufgabe – Alle Aufgaben anzeigen, die auf meine Genehmigung warten
 
 ```
 approvalProcessID_Mod=notblank
@@ -64,9 +64,9 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Aufgabe - Zeigt alle Aufgaben an, die ich genehmigt habe
+## Aufgabe – Alle Aufgaben anzeigen, die ich genehmigt habe
 
-Erstellen Sie einen Aufgabenbericht mit den gewünschten Filtern. Gehen Sie dann zur Registerkarte Filter und klicken Sie auf In Textmodus wechseln . Fügen Sie diesen Code zu dem bereits vorhandenen hinzu:
+Erstellen Sie einen Aufgabenbericht mit den von Ihnen gewünschten Filtern, gehen Sie dann auf die Registerkarte „Filter“ und klicken Sie auf „Zum Textmodus wechseln“. Fügen Sie diesen Code zu dem bereits vorhandenen hinzu:
 
 ```
 approvalProcessID_Mod=notblank
@@ -74,7 +74,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Aufgabe - Zeigt alle Aufgaben an, die mindestens einen projektübergreifenden Vorgänger haben
+## Aufgabe – Alle Aufgaben anzeigen, die mindestens einen projektübergreifenden Vorgänger haben
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -82,9 +82,9 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Aufgabe - Zeigt alle Aufgaben an, die ich anderen zugewiesen habe
+## Aufgabe – Alle Aufgaben anzeigen, die ich anderen zugewiesen habe
 
-Erstellen Sie einen Aufgabenbericht mit den gewünschten Filtern. Gehen Sie dann zur Registerkarte Filter und klicken Sie auf In Textmodus wechseln . Fügen Sie diesen Code zu dem bereits vorhandenen hinzu:
+Erstellen Sie einen Aufgabenbericht mit den von Ihnen gewünschten Filtern, gehen Sie dann auf die Registerkarte „Filter“ und klicken Sie auf „Zum Textmodus wechseln“. Fügen Sie diesen Code zu dem bereits vorhandenen hinzu:
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
@@ -92,17 +92,9 @@ EXISTS:1:taskID=FIELD:ID
 EXISTS:1:assignedByID=$$USER.ID
 ```
 
-Auf diese Weise werden alle Aufgaben angezeigt, denen der angemeldete Benutzer mindestens einen der aktuellen Verantwortlichen zugewiesen hat. Wenn die Zuweisung von mehreren Benutzern erfolgt ist, wird nur der Name der ersten Person, der die Person zugewiesen hat, auf der Aufgabenlandeseite als &quot;Anfordert von&quot;angezeigt.
+Hier werden Ihnen alle Aufgaben angezeigt, bei denen die angemeldete Person mindestens einer der aktuell beauftragten Personen etwas zugewiesen hat. Wenn die Zuweisung einer Person durch mehrere Benutzende erfolgt ist, wird nur der Name der ersten Person, die jemanden zugewiesen hat, auf der Aufgaben-Landingpage als „Angefordert durch“ angezeigt.
 
-## Aufgabe - Zeigt mir alle Aufgaben an, die abgeschlossen sind - Ausstehende Genehmigung
-
-```
-status=CPL:A
-status_Mod=in
-```
-
-
-## Problem - Zeigt mir alle Probleme an, die abgeschlossen sind - Ausstehende Genehmigung
+## Aufgabe – Alle Aufgaben anzeigen, die abgeschlossen sind – ausstehende Genehmigung
 
 ```
 status=CPL:A
@@ -110,7 +102,7 @@ status_Mod=in
 ```
 
 
-## Projekt - Alle Projekte anzeigen, die abgeschlossen sind - Ausstehende Genehmigung ausstehend
+## Problem – Alle Probleme anzeigen, die abgeschlossen sind mit ausstehender Genehmigung
 
 ```
 status=CPL:A
@@ -118,7 +110,15 @@ status_Mod=in
 ```
 
 
-## Hinweis - Zeigen Sie mir alle Kommentare, die ich mit Tags versehen habe
+## Projekt – Alle Projekte anzeigen, die abgeschlossen sind mit ausstehender Genehmigung
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+## Hinweis – Alle Kommentare anzeigen, in denen ich getaggt bin
 
 ```
 tags:userID=$$USER.ID
@@ -126,7 +126,7 @@ tags:userID_Mod=in
 ```
 
 
-## Bericht &quot;Parameter/Benutzerdefiniertes Feld&quot;- Zeigen Sie mir benutzerdefinierte Felder, die nicht an ein benutzerdefiniertes Formular angehängt sind (sehr nützlich bei Bereinigungsbemühungen)
+## Bericht zu „Parametern/benutzerdefiniertes Feld“ – Benutzerdefinierte Felder anzeigen, die an kein benutzerdefiniertes Formular angehängt sind (sehr nützlich bei Bereinigungen)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS
