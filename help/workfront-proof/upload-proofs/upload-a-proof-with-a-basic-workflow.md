@@ -1,6 +1,6 @@
 ---
-title: Hochladen eines Testversands mit einem einfachen Workflow
-description: Erfahren Sie, wie Sie Dateien als Testsendungen hochladen, einen einfachen Testversand-Workflow für die Überprüfung und Genehmigung durch Interessenträger hinzufügen und Fristen für die Überprüfung der Testsendungen in [!DNL Workfront].
+title: Hochladen eines Korrekturabzugs mit einem einfachen Workflow
+description: Erfahren Sie, wie Sie in [!DNL Workfront]Dateien als Korrekturabzüge hochladen, einen einfachen Proofing-Workflow für die Überprüfung und Genehmigung durch Stakeholder einrichten und Fristen für die Überprüfung von Korrekturabzügen festlegen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,33 +12,33 @@ jira: KT-8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Hochladen eines Testversands mit einem einfachen Workflow
+# Hochladen eines Korrekturabzugs mit einem einfachen Workflow
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Hochladen einer Datei in [!DNL Workfront] erzeugt also einen Testversand
-* Fügen Sie einen einfachen Testversand-Workflow hinzu, damit die Beteiligten das Asset überprüfen und genehmigen können
-* Legen Sie einen Termin für die Prüfung der Testsendungen fest
+* Hochladen einer Datei in [!DNL Workfront], um einen Korrekturabzug zu erstellen
+* Hinzufügen eines grundlegenden Proofing-Workflows, damit die Stakeholder das Asset prüfen und genehmigen können
+* Festlegen einer Frist für die Proofing-Überprüfung
 
 >[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12&learn=on)
 
-## Ihre Wendung
+## Sie sind dran
 
 >[!IMPORTANT]
 >
->Vergessen Sie nicht, Ihre Mitarbeiter daran zu erinnern, dass Sie ihnen im Rahmen Ihrer Workfront-Schulung einen Testversand schicken.
+>Vergessen Sie nicht, Ihre Kolleginnen und Kollegen daran zu erinnern, dass Sie ihnen im Rahmen Ihrer Workfront-Schulung einen Korrekturabzug schicken.
 
 
-1. Suchen Sie mehrere Dateien auf Ihrem Computer oder Server, die Sie hochladen können. Dabei kann es sich um Textdokumente, Bilder, Tabellen usw. handeln.
-1. Laden Sie mithilfe eines einfachen Workflows zwei Dateien in Ihr Übungsprojekt oder Ihre Aufgabe hoch. Weisen Sie Ihren Mitarbeiter zu, die Testsendungen zu überprüfen und zu validieren, wobei die Frist morgen 14 Uhr beträgt.
-1. Wenn Sie drei Testsendungen hochladen müssen und alle unterschiedliche Fristen benötigen, können Sie sie alle gleichzeitig hochladen? Warum oder warum nicht?
-1. Welche Rolle bei der Überprüfung und Validierung Ihres Teams spielen Sie bei der Testversandliste?
+1. Suchen Sie mehrere Dateien auf Ihrem Computer oder einem Server, die Sie hochladen können. Dabei kann es sich um Textdokumente, Bilder, Tabellen usw. handeln.
+1. Laden Sie zwei Dateien in Ihr Übungsprojekt oder Ihre Übungsaufgabe hoch, indem Sie einen einfachen Workflow verwenden. Beauftragen Sie Ihre Kollegin bzw. Ihren Kollegen mit der Überprüfung und Genehmigung der Korrekturabzüge, wobei die Frist am Folgetag um 14 Uhr abläuft.
+1. Wenn Sie drei Korrekturabzüge hochladen müssen und für alle drei unterschiedliche Fristen gelten, können Sie sie dann alle gleichzeitig hochladen? Warum oder warum nicht?
+1. Welche Korrekturabzug-Rolle nehmen Sie bei den Überprüfungs- und Genehmigungsprozessen in Ihrem Team ein?
 
 <!--
 ## Learn more
