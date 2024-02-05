@@ -1,6 +1,6 @@
 ---
-title: Aktualisieren in [!UICONTROL Startseite]
-description: Erfahren Sie, wie Sie Aktualisierungen für Arbeitszuweisungen vornehmen und auf vorhandene Aktualisierungen antworten können. Tag [!DNL Workfront] Benutzer in Aktualisierungen eintragen, damit sie über die Kommunikation informiert werden.
+title: Aktualisierung über die [!UICONTROL Startseite]
+description: Erfahren Sie, wie Sie Arbeitsaufträge aktualisieren und auf bestehende Aktualisierungen reagieren können. Taggen Sie  [!DNL Workfront] -Benutzende in Aktualisierungen, um sie über die Kommunikation zu informieren.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,35 +12,35 @@ jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Kommunikation über die Arbeit mit Aktualisierungen in [!DNL Workfront] [!UICONTROL Startseite]
+# Kommunizieren Sie über die Arbeit mit Aktualisierungen auf der [!DNL Workfront]-[!UICONTROL Startseite]
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Kommunizieren über Aktualisierungen bei Arbeitsaufträgen
-* Benutzer taggen auf [!DNL Workfront] Updates
-* Antworten auf vorhandene Aktualisierungen
+* Kommunizieren über Aktualisierungen von Arbeitszuweisungen
+* Markieren von Benutzenden in [!DNL Workfront]-Aktualisierungen
+* Reaktion auf vorhandene Aktualisierungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)
 
-## Tipps zum Aktualisieren der Arbeit in [!UICONTROL Startseite]
+## Tipps für die Aktualisierung der Arbeit auf der [!UICONTROL Startseite]
 
-* Verwenden Sie Updates, um Fragen zu stellen, zusätzliche Informationen bereitzustellen oder allgemeine Updates über die durchgeführte Arbeit zu teilen.
-* &quot;Tag&quot;, sonstige [!UICONTROL Workfront] Benutzer mit dem Namen @name , um sicherzustellen, dass sie über die Aktualisierung benachrichtigt werden. So können Sie am besten sicherstellen, dass bestimmte Personen die neuesten Informationen sehen. Sie können einzelne Benutzer oder ein Team in einer Aktualisierung &quot;taggen&quot;.
-* Denken Sie daran, dass das Äquivalent zur berüchtigten E-Mail &quot;Antwort alle&quot;ist, wenn Sie ein Team oder eine Gruppe taggen und weiterhin im Thread antworten. Achten Sie darauf, damit es nicht zu Verärgerung kommt. Sie können das Tag über oder unter direkt im Kontext des Objekts einfügen.
+* Nutzen Sie Aktualisierungen, um Fragen zu stellen, zusätzliche Informationen bereitzustellen oder einen allgemeinen Überblick über die laufende Arbeit zu geben.
+* „Taggen“ Sie andere [!UICONTROL Workfront]-Benutzende mit @name, um sicherzustellen, dass sie über die Aktualisierung informiert werden. So lässt sich am besten sicherstellen, dass bestimmte Personen die neuesten Informationen auch sehen. Sie können einzelne Personen oder ein Team in einer Aktualisierung „taggen“.
+* Wenn Sie ein Team oder eine Gruppe taggen und weiterhin innerhalb des Threads antworten, entspricht dies der berüchtigten E-Mail-Option „Allen antworten“. Beachten Sie dies, um Ärger zu vermeiden. Sie können direkt darüber oder darunter taggen, aber immer noch im Kontext des Objekts.
 
 <!---
 paragraph below needs a hyperlink to an article
 --->
 
-* Wenn Sie keiner Aufgabe zugewiesen sind, aber Benachrichtigungen erhalten möchten, abonnieren Sie die Aufgabe. Weitere Informationen finden Sie im Artikel Abonnieren von Elementen in [!UICONTROL Workfront] im neuen [!UICONTROL Workfront] Erlebnis.
-* Posten Sie Aktualisierungen an einem bestimmten Wochentag, damit jeder weiß, wann er nach den neuesten Informationen sucht.
-* Verwenden Sie die Rich-Text-Tools, um Ihre Aktualisierungen zu formatieren. Machen Sie Informationen fett hervorgehoben oder erstellen Sie eine leicht verständliche Zusammenfassung mit Stichpunkten.
+* Wenn Sie einer Aufgabe nicht zugewiesen sind, aber Benachrichtigungen erhalten möchten, abonnieren Sie die Aufgabe. Weitere Informationen finden Sie im Artikel „Abonnieren von Elementen in [!UICONTROL Workfront]“ im neuen [!UICONTROL Workfront]-Erlebnis.
+* Veröffentlichen Sie Aktualisierungen an einem bestimmten Wochentag, damit jeder weiß, wann sich die neuesten Informationen finden lassen.
+* Verwenden Sie die Rich-Text-Tools, um Ihre Aktualisierungen zu formatieren. Heben Sie Informationen durch Fettdruck hervor oder erstellen Sie eine leicht lesbare Zusammenfassung mit Aufzählungspunkten.
 
 <!---
 learn more URLs
