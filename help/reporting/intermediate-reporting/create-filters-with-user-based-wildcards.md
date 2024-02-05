@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Filtern mit benutzerdefinierten Platzhaltern
-description: Erfahren Sie, wie Sie benutzerbasierte Platzhalter verwenden und wie Sie einen Filter basierend auf dem angemeldeten Benutzer erstellen.
+title: Erstellen von Filtern mit benutzerbasierten Platzhaltern
+description: Erfahren Sie, wie Sie benutzerbasierte Platzhalter verwenden und wie Sie einen Filter auf der Grundlage der angemeldeten Person erstellen können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png
@@ -12,46 +12,46 @@ jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erstellen von Filtern mit benutzerdefinierten Platzhaltern
+# Erstellen von Filtern mit benutzerbasierten Platzhaltern
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Gründe für die Verwendung von Platzhaltern
+* Grundlegendes dazu, warum Platzhalter verwendet werden
 * Erstellen eines Filters mit einem benutzerbasierten Platzhalter
 
 >[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Verwenden Sie beim Erstellen von Filtern, die sich mit Aufgaben- oder Problemzuweisungsinformationen beschäftigen, die Quelle und den Namen des Felds Zuweisen > ID .  Bei dieser Option werden alle der Aufgabe oder dem Problem zugewiesenen Benutzer berücksichtigt, nicht nur der &quot;Eigentümer&quot;oder der primäre Verantwortliche.
+>Verwenden Sie beim Erstellen von Filtern, die sich mit Aufgaben- oder Problemzuweisungsinformationen beschäftigen, die Option „Arbeitsauftrag – Benutzer“ >> „ID-Feldquelle und -Name“. Bei dieser Option werden alle der Aufgabe oder dem Problem zugewiesenen Benutzenden betrachtet, nicht nur die Person, die es „besitzt“ oder hauptsächlich damit betraut wurde.
 
 >[!TIP]
 >
->Verwenden Sie die $$USER.ID (anstelle Ihres Namens) auch beim Erstellen von Filtern für sich selbst. Auf diese Weise wird der Filter bereits eingerichtet, wenn jemand einen Filter sieht, den Sie verwenden, und &quot;Für mich freigeben&quot;sagt, sodass jede Person, die ihn verwendet, ihre eigenen Informationen sieht.
+>Verwenden Sie die $$USER.ID (statt Ihres Namens), selbst dann, wenn Sie Filter für sich selbst erstellen. Wenn also eine Person einen Filter sieht, den Sie verwenden, und Sie bittet, diesen für sie freizugeben, ist dadurch der Filter bereits so eingerichtet, dass jede Person, die ihn verwendet, ihre eigenen Informationen sieht.
 
 >[!TIP]
 >
->Sie müssen bei der Verwendung benutzerdefinierter Platzhalter immer den Filter Gleich verwenden.
+>Bei der Verwendung von benutzerbasierten Platzhaltern müssen Sie immer den Filterqualifizierer „Gleich“ verwenden.
 
 ## Aktivität
 
-Sie haben diese Woche etwas mehr Zeit, also möchten Sie sehen, ob jemand in Ihrem Team etwas Hilfe bei der Aufgabenstellung verwenden kann. Erstellen Sie einen Aufgabenfilter, um Aufgaben zu finden, die in dieser Woche fällig und noch nicht abgeschlossen sind.
+Sie haben diese Woche etwas mehr Zeit und möchten daher herausfinden, ob es in Ihrem Team eine Person gibt, die Unterstützung bei ihren Arbeitsaufträgen gebrauchen könnte. Erstellen Sie einen Aufgabenfilter, um Aufgaben zu finden, die diese Woche fällig sind und noch nicht erledigt wurden.
 
 ## Antwort
 
-Du bist fantastisch für deine Teamkollegen! Wenn der Filter wie das folgende Bild eingerichtet ist, finden Sie Aufgaben:
+Es ist sehr nett von Ihnen, dass Sie den anderen Mitgliedern Ihres Teams unter die Arme greifen! Wenn der Filter wie in der Abbildung unten eingerichtet ist, finden Sie:
 
-* Das ist noch nicht abgeschlossen (d. h. sie haben keine [!UICONTROL Fertig] Status oder Status, der [!UICONTROL Fertig]);
-* In Projekten mit einer [!UICONTROL Aktuell] -Status (schließlich möchten Sie keine Aufgaben für Projekte finden, die noch nicht gestartet wurden);
-* die einer Person in Ihrem Startseiten-Team zugewiesen werden, wie in den Workfront-Teameinstellungen definiert;
-* Und die ein Abschlussdatum haben, an dem diese Woche etwas Zeit hat (diese Regel verwendet den vordefinierten Datumsfilter, um &quot;diese Woche&quot;zu definieren).
+* Aufgaben, die noch nicht abgeschlossen sind (d. h. sie haben nicht den Status [!UICONTROL Abgeschlossen] oder einen Status, der [!UICONTROL Abgeschlossen] entspricht);
+* Aufgaben, die sich in Projekten mit dem Status [!UICONTROL Aktuell] befinden (schließlich möchten Sie keine Aufgaben für Projekte finden, die noch nicht gestartet sind);
+* Aufgaben, die einer Person in Ihrem Stamm-Team zugewiesen wurden, wie in den Team-Einstellungen von Workfront definiert;
+* Sowie Aufgaben, die ein Fertigstellungsdatum von irgendwann in dieser Woche haben (diese Regel verwendet den vordefinierten Datumsfilter, um „diese Woche“ zu definieren).
 
-![Ein Bild des Bildschirms zum Erstellen eines Aufgabenfilters mit einem benutzerbasierten Platzhalter](assets/user-wildcard-exercise-answer.png)
+![Ein Screenshot des Bildschirms zum Erstellen eines Aufgabenfilters mit einem benutzerbasierten Platzhalter](assets/user-wildcard-exercise-answer.png)
 
-Möglicherweise müssen Sie weitere Filter hinzufügen, um die Liste noch etwas zu beschränken. Sie können beispielsweise eine Filterregel hinzufügen, die sich auf ein bestimmtes Programm oder Portfolio bezieht, aus dem Ihr Team ausgeht.
+Möglicherweise müssen Sie zusätzliche Filter hinzufügen, wenn Sie die Liste noch weiter einschränken möchten. Sie können zum Beispiel eine Filterregel hinzufügen, die ein bestimmtes Programm oder Portfolio berücksichtigt, in dem Ihr Team arbeitet.
