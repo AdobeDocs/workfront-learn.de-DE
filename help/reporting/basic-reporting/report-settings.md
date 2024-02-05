@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Berichtseinstellungen
-description: Erfahren Sie, wie Sie auf die Workfront-Berichtseinstellungen zugreifen und wofür einige häufig verwendete Berichtseinstellungen verwendet werden.
+description: Erfahren Sie, wie Sie auf die Workfront-Berichtseinstellungen zugreifen können und wofür einige gängige Berichtseinstellungen verwendet werden.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,17 +12,17 @@ jira: KT-8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zu Berichtseinstellungen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Zugriff auf Berichtseinstellungen
-* Wofür einige allgemeine Berichtseinstellungen verwendet werden
+* Wie auf Berichtseinstellungen zugegriffen werden kann
+* Wofür einige gängige Berichtseinstellungen verwendet werden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on)
