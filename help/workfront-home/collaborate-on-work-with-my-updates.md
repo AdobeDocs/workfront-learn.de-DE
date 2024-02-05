@@ -1,6 +1,6 @@
 ---
-title: Zusammenarbeit bei der Arbeit mit My Updates
-description: Greifen Sie über die Seite My Updates auf die Ihnen zugewiesenen Arbeitselemente zu.
+title: Zusammenarbeit bei der Arbeit mit „Meine Aktualisierungen“
+description: Greifen Sie über die Seite „Meine Aktualisierungen“ auf die Ihnen zugewiesenen Arbeitselemente zu.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,19 +12,19 @@ jira: KT-9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Zusammenarbeit bei der Arbeit mit My Updates
+# Zusammenarbeit bei der Arbeit mit „Meine Aktualisierungen“
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Greifen Sie auf die Arbeitselemente zu, die Sie auf der Seite My Updates überprüfen möchten
+* Zugriff auf die Arbeitselemente, die Sie auf der Seite „Meine Aktualisierungen“ überprüfen sollen
 * Durchführen einer Überprüfung von Genehmigungsanfragen
-* Verwenden Sie den Abschnitt &quot;Erwähnungen&quot;, um Aktualisierungen anzuzeigen, die in
+* Verwenden des Abschnitts „Erwähnungen“, um Aktualisierungen anzuzeigen, in die Sie eingeschlossen wurden
 * Antworten auf Aktualisierungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on)
