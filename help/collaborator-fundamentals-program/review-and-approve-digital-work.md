@@ -1,26 +1,26 @@
 ---
-title: Überprüfen und Genehmigen digitaler Arbeit
-description: Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme, Dokumente und Testsendungen finden und vornehmen können.
+title: Vorgehensweise zum Überprüfen und Genehmigen digitaler Arbeiten
+description: Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme, Dokumente und Korrekturabzüge finden und erteilen können.
 activity: use
 type: Tutorial
 team: Technical Marketing
 jira: KT-8808
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Digitale Arbeit überprüfen und genehmigen
+# Überprüfen und Genehmigen digitaler Arbeiten
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Genehmigungen suchen
-* Genehmigen von Projekten, Aufgaben und Problemen
-* Validierungen für Dokumente vornehmen
-* Vornehmen von Genehmigungen für Testsendungen
+* Finden von Genehmigungen
+* Erteilen von Genehmigungen für Projekte, Aufgaben und Probleme
+* Erteilen von Genehmigungen für Dokumente
+* Erteilen von Genehmigungen für Korrekturabzüge
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
