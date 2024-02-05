@@ -1,6 +1,6 @@
 ---
-title: Schrittweise Anleitung für Entwicklungs-Tools
-description: Erfahren Sie, wie Sie die verschiedenen Bereiche im [!DNL Adobe Workfront Fusion Dev Tool] , um einen tieferen Einblick in fortgeschrittene Szenario-Design-Tricks zu erhalten.
+title: Schrittweise Anleitung für das Entwickler-Tool
+description: Erfahren Sie, wie Sie die verschiedenen Bereiche im [!DNL Adobe Workfront Fusion Dev Tool] installieren und benutzen, um einen tieferen Einblick in fortgeschrittene Tricks zum Szenario-Design zu erhalten.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Schrittweise Anleitung für Entwicklungs-Tools
+# Schrittweise Anleitung für das Entwickler-Tool
 
-Installieren und verwenden Sie die verschiedenen Bereiche im Workfront Dev Tool, um sich eingehender mit Anfragen/Antworten und erweiterten Design-Tricks für Szenarien vertraut zu machen.
+Installieren und verwenden Sie die verschiedenen Bereiche im Entwickler-Tool in Workfront, um sich eingehender mit Anfragen/Antworten und fortgeschrittenen Tricks zum Szenario-Design auseinanderzusetzen.
 
 ![Ein Bild eines Fusion-Szenarios und des Entwickler-Tools](assets/troubleshooting-and-error-handling-1.png)
 
-## Schrittweise Anleitung für Entwicklungs-Tools
+## Schrittweise Anleitung für das Entwickler-Tool
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -31,15 +31,15 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Schrittweise Anleitung für Entwicklungs-Tools](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Schrittweise Anleitung für das Entwickler-Tool](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=de).
 
 
 ## Herunterladen des Entwickler-Tools
 
-Das Entwicklungstool verfügt über eine Reihe erweiterter Funktionen, mit denen Sie Szenarien besser verstehen und Fehler beheben können. Laden Sie das Dokument &quot;workfront-fusion-devtool.zip&quot;herunter, das Sie im Ordner Fusion Übungsdateien in Ihrem Testlaufwerk finden.
+Das Entwickler-Tool verfügt über eine Reihe fortschrittlicher Funktionen, die Ihre Fähigkeit verbessern, Szenarien zu verstehen und Fehler zu beheben. Laden Sie das Dokument „workfront-fusion-devtool.zip“ herunter, das Sie im Ordner „Fusion-Übungsdateien“ in Ihrem Testlaufwerk finden.
 
 
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
