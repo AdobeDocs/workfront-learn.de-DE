@@ -1,6 +1,6 @@
 ---
-title: JSON-exemplarische Vorgehensweise verwenden
-description: Erfahren Sie, wie Sie JSON in einem Szenario erstellen und analysieren, um Ihre Designanforderungen zu unterstützen in [!DNL Adobe Workfront Fusion].
+title: Anleitung zum Arbeiten mit JSON
+description: Erfahren Sie, wie Sie JSON-Dateien in einem Szenario erstellen und analysieren können, um Ihre Design-Anforderungen in [!DNL Adobe Workfront Fusion]zu unterstützen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,33 +11,33 @@ jira: KT-9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# JSON-exemplarische Vorgehensweise verwenden
+# Anleitung zum Arbeiten mit JSON
 
-Erfahren Sie, wie Sie JSON in einem Szenario erstellen und analysieren, um Ihre Designanforderungen zu unterstützen.
+Erfahren Sie, wie Sie JSON-Dateien in einem Szenario erstellen und analysieren können, um Ihre Design-Anforderungen zu unterstützen.
 
-![Bild eines Fusionsszenarios](assets/final-functional-bits-and-bobs-2.png)
+![Ein Bild eines Fusion-Szenarios](assets/final-functional-bits-and-bobs-2.png)
 
-## Anleitung zu Arrays
+## Arrays – Anleitung
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Erstellen und Analysieren von JSON in einem Szenario zur Unterstützung Ihrer Designanforderungen
+* Erstellen und Analysieren von JSON-Dateien in einem Szenario zur Unterstützung Ihrer Design-Anforderungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on)
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [JSON-exemplarische Vorgehensweise verwenden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/working-with-json.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Anleitung zum Arbeiten mit JSON](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/working-with-json.html?lang=de).
 
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
