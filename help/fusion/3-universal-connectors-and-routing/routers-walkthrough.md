@@ -1,6 +1,6 @@
 ---
-title: Anleitung zu Routern
-description: Erfahren Sie, wie Sie mit einem Router Pokemon- oder Superhelden-Bundles den richtigen Pfad unter [!DNL Adobe Workfront Fusion].
+title: Router – Anleitung
+description: Erfahren Sie, wie Sie einen Router verwenden, um Pokemon vs. Superhelden-Bündel über den richtigen Pfad in [!DNL Adobe Workfront Fusion]zu leiten.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '878'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anleitung zu Routern
+# Router – Anleitung
 
-Verwenden Sie einen Router, um Pokemon oder Superhelden den richtigen Pfad zu übergeben und dann eine Aufgabe für jedes Zeichen zu erstellen.
+Verwenden Sie einen Router, um die Bündel „Pokemon vs. Superhelden“ auf den richtigen Weg zu bringen, und erstellen Sie dann eine Aufgabe für jede Figur.
 
 ![Ein Bild des Fusion-Szenarios](assets/universal-connectors-and-routing-2.png)
 
-## Anleitung zu Routern
+## Router – Anleitung
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -32,79 +32,79 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 ## Übungs-URLs
 
 * Website der Superhero-API: `https://www.superheroapi.com/`
-* Erste URL für Übung: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* Zweite URL für Übung: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* Erste URL für die Übung: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Zweite URL für die Übung: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
-Wenn Sie Probleme beim Zugriff auf Ihr eigenes Superhero-Token haben, können Sie dieses gemeinsam genutzte Token verwenden: 10110256647253588. Beachten Sie bitte, wie oft Sie die Superhero-API aufrufen, damit dieses gemeinsam genutzte Token für alle weiterhin funktioniert.
+Wenn Sie Probleme haben, auf Ihr eigenes Superhelden-Token zuzugreifen, können Sie dieses gemeinsame Token verwenden: 10110256647253588. Bitte achten Sie darauf, wie oft Sie die Superhelden-API aufrufen, damit dieses gemeinsame Token weiterhin für alle funktioniert.
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Anleitung zu Routern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Router -Walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=de).
 
 
-## Suchelemente im Zuordnungsbereich
+## Elemente im Zuordnungsfenster suchen
 
-Mit dem Feld Suchelemente oben in den Zuordnungsbedienfeldern können Sie Felder im Bedienfeld schnell finden, auch wenn sie in Arrays verschachtelt sind. Bei der Suche wird nicht zwischen Groß- und Kleinschreibung unterschieden.
+Das Fenster „Elemente suchen“ oben im Zuordnungsfenster hilft Ihnen bei der Suche nach Feldern im Fenster, selbst wenn diese in Arrays verschachtelt sind. Bei der Suche wird nicht zwischen Groß- und Kleinschreibung unterschieden.
 
-![Ein Bild des ersten Suchfelds](assets/universal-connectors-and-routing-3.png)
+![Ein Bild des ersten Suchfensters](assets/universal-connectors-and-routing-3.png)
 
-![Ein Bild des zweiten Suchfelds](assets/universal-connectors-and-routing-4.png)
+![Ein Bild des zweiten Suchfensters](assets/universal-connectors-and-routing-4.png)
 
-## Tipps und Tricks zum Arbeiten mit APIs
+## Tipps und Tricks für die Arbeit mit APIs
 
-Bis zu diesem Zeitpunkt haben Sie mit einer sehr einfachen API (Application Programming Interface) gearbeitet, die keine zusätzliche Authentifizierung erfordert, um Informationen abzurufen, die in dem Szenario benötigt werden. Im Folgenden finden Sie einige Tipps für die Navigation mit APIs und universellen Connectoren.
+Bis zu diesem Punkt haben Sie mit einer sehr einfachen API (Application Programming Interface) gearbeitet, die keine zusätzliche Authentifizierung erfordert, um die im Szenario benötigten Informationen abzurufen. Nachfolgend finden Sie einige Tipps, die Ihnen die Arbeit mit APIs und universellen Connectoren erleichtern.
 
 ## Schritt 1: Bestimmen des API-Typs
 
-Workfront und viele Softwaresysteme werden mit einer REST-API (Repräsentational State Transfer) erstellt, der derzeit am einfachsten und am meisten standardmäßigen API-Typ ist. Es gibt jedoch einige weitere, wie z. B.:
+Workfront und viele andere Softwaresysteme basieren auf einer REST-API (Representational State Transfer), was heutzutage der einfachste und gängigste API-Typ ist. Es gibt jedoch noch einige andere, z. B.:
 
-* SOAP (Simple Object Access Protocol) (die Testversand-API von Workfront ist SOAP-basiert)
+* SOAP (Simple Object Access Protocol) (Die Proof-API in Workfront ist SOAP-basiert)
 * FTP (File Transfer Protocol)
 * SFTP (Secure File Transfer Protocol)
-* Um mehr zu erfahren, führen Sie eine Websuche nach API-Typen und Keywords mit Interesse durch.
+* Wenn Sie mehr erfahren möchten, führen Sie eine Internet-Suche nach API-Typen und Schlüsselwörtern durch.
 
 >[!NOTE]
 >
->Beim Herstellen einer Verbindung zu größeren Plattformen wie Salesforce bieten unterschiedliche Bereiche dieser Plattformen verschiedene APIs. Stellen Sie sicher, dass Sie die richtige für den Dienst finden, mit dem Sie eine Verbindung herstellen möchten.
+>Wenn Sie eine Verbindung zu größeren Plattformen wie Salesforce herstellen, stellen verschiedene Bereiche dieser Plattformen unterschiedliche APIs zur Verfügung. Stellen Sie sicher, dass Sie die richtige für den Dienst finden, zu dem Sie eine Verbindung herstellen möchten.
 
-## Schritt 2: Bestimmen Sie den Authentifizierungstyp, der für die API erforderlich ist.
+## Schritt 2: Bestimmen des für die API erforderlichen Authentifizierungstyps
 
-Die API-Authentifizierung ist eine Form der Identifizierung, mit der der Zugriff auf einen Dienst gesteuert wird, z. B. wenn Sie versuchen, eine Verbindung über Workfront Fusion herzustellen. Dies hilft Ihnen, einem anderen System nachzuweisen, dass Sie berechtigt sind, auf das System zuzugreifen. OAuth 2 ist der am häufigsten verwendete Authentifizierungstyp. Erfahren Sie mehr über eine Internetsuche zur API-Authentifizierung.
+Die API-Authentifizierung ist eine Form der Identifizierung, die verwendet wird, um den Zugriff auf einen Dienst zu kontrollieren, z. B. beim Versuch, eine Verbindung über Workfront Fusion herzustellen. Damit können Sie gegenüber einem anderen System nachweisen, dass Sie zum Zugriff auf das System berechtigt sind. OAuth 2 ist heutzutage die am häufigsten verwendete Authentifizierungsmethode. Erfahren Sie mehr durch eine Internet-Suche zur API-Authentifizierung.
 
-Authentifizierung kann der schwierigste Aspekt der Arbeit mit einer API sein. Eine der wertvollsten Funktionen der universellen Connectoren von Workfront Fusion ist, dass Workfront Fusion die Authentifizierung für Sie handhaben kann, wenn Sie gängige Authentifizierungsmethoden wie einfache Authentifizierung wie OAuth 2, API-Schlüssel und andere verwenden. Nachdem Sie eine Verbindung mit dem entsprechenden Workfront Fusion-Modul für Ihre Authentifizierungsmethode (z. B. OAuth 2) erstellt haben, generiert Workfront Fusion bei jeder Ausführung Ihres Szenarios kontinuierlich API-Schlüssel und/oder Token.
+Die Authentifizierung kann der schwierigste Aspekt bei der Arbeit mit einer API sein. Eines der wertvollsten Funktionen der universellen Connectoren von Workfront Fusion ist, dass Workfront Fusion die Authentifizierung für Sie übernehmen kann, wenn Sie gängige Authentifizierungsmethoden wie Basisauthentifizierung, OAuth 2, API Key und andere verwenden. Sobald Sie eine Verbindung mit dem entsprechenden Workfront Fusion-Modul für Ihre Authentifizierungsmethode (z. B. OAuth 2) erstellt haben, generiert Workfront Fusion jedes Mal, wenn Sie Ihr Szenario ausführen möchten, API-Schlüssel und/oder Token.
 
-Informationen zu den verschiedenen Authentifizierungstypen, die Workfront bereitstellt, finden Sie im Artikel Erweiterte Authentifizierungsübersicht in Experience League.
+Im Übersichtsartikel zur erweiterten Authentifizierung auf Experience League erfahren Sie mehr über die verschiedenen Authentifizierungsmethoden unter Workfront.
 
-## Schritt 3: Lesen Sie die API-Dokumentation und suchen Sie erforderliche Endpunkte
+## Schritt 3: Lesen der API-Dokumentation und Finden der benötigten Endpunkte
 
-Wenn eine API mit einem anderen System interagiert, werden die Touchpoints dieser Kommunikation als Endpunkte betrachtet. Ein Endpunkt ist der Ort, an dem APIs Anfragen senden und an dem sich die Ressource befindet.
+Wenn eine API mit einem anderen System interagiert, werden die Berührungspunkte dieser Kommunikation als Endpunkte bezeichnet. Ein Endpunkt ist der Ort, an den APIs Anfragen senden und an dem sich die Ressource befindet.
 
-Bei der Interaktion mit einer API mithilfe eines universellen Connectors müssen Sie wissen, welche Endpunkte die API unterstützt und welche Daten für jede Anfrage benötigt werden. In der API-Dokumentation sollten die Endpunkte einer API beschrieben und beschrieben werden, wie allgemeine Vorgänge wie Erstellen, Lesen, Aktualisieren oder Löschen ausgeführt werden. Die Ausführung dieser Aufrufe erfordert einige Verfahren, insbesondere wenn Sie mit API-Aufrufen oder der Arbeit mit einer neuen API noch nicht vertraut sind.
+Wenn Sie über einen universellen Connector mit einer API interagieren, müssen Sie wissen, welche Endpunkte die API unterstützt und welche Daten für jede Anfrage erforderlich sind. Die API-Dokumentation sollte die Endpunkte einer API und die Durchführung gängiger Vorgänge wie Erstellen, Lesen, Aktualisieren oder Löschen beschreiben. Die Durchführung dieser Aufrufe erfordert etwas Übung, vor allem, wenn Sie zum ersten Mal API-Aufrufe tätigen oder mit einer neuen API arbeiten.
 
-Erfahren Sie mehr über Workfront Fusion Universal Connectors und deren Einrichtung für die Verbindung mit den APIs, die Sie in Experience League benötigen.
+Erfahren Sie auf Experience League mehr über universelle Connectoren in Workfront Fusion und darüber, wie Sie sie einrichten, um eine Verbindung zu den APIs herzustellen, die Sie benötigen.
 
 ## Schlussbemerkung
 
-Sie können die gesamte Liste unserer vordefinierten App-Connectoren in Experience League überprüfen. Wenn Sie dem Produktteam von Workfront Fusion einen neuen App-Connector vorschlagen möchten, senden Sie Ihre Idee an Innovation Lab. Wenn Sie noch nicht eingereicht haben, erfahren Sie mehr über das Innovationslabor und wie Sie für Ideen stimmen und an der zweimal jährlich stattfindenden Priorisierung des Leaderboards teilnehmen können. Wenn Sie bereits Zugriff auf das Innovationslabor haben, melden Sie sich an und übermitteln Sie Ihre Ideen.
+Sie können die gesamte Liste unserer vorkonfigurierten App-Connectoren in Experience League einsehen. Wenn Sie dem Produkt-Team von Workfront Fusion einen neuen App-Connector vorschlagen möchten, reichen Sie Ihre Idee im Innovation Lab ein. Wenn Sie noch nie etwas dort eingereicht haben, können Sie mehr über das Innovation Lab erfahren sowie darüber, wie Sie für Ideen abstimmen und an der zweimal jährlich stattfindenden Priorisierung des Leaderboards teilnehmen können. Wenn Sie bereits Zugang zum Innovation Lab haben, melden Sie sich an und reichen Sie Ihre Ideen ein.
 
-## Ihre Wendung
+## Sie sind dran
 
 >[!NOTE]
 >
->Übungen und Herausforderungen sind optional und nicht erforderlich, um eine Fusion-Schulung abzuschließen.
+>Die Übungen und Herausforderungen sind optional und nicht notwendig, um die Fusion-Schulung abzuschließen.
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 
-Erstellen Sie im Modul Mehrere Variablen für Pokemon-Zeichen festlegen eine Variable namens &quot;Stat (Level)&quot;. Ordnen Sie den Namen der Pokemon Stats dieser Variablen zu. Mit der Funktion für Array-Werte können Sie die Anzeige des Arrays ändern, sodass jeder Status eine neue Zeile ist, wie unten dargestellt.
+Erstellen Sie im Modul „Mehrere Variablen für Pokemon-Figuren festlegen“ eine Variable namens „Statistik (Stufe)“. Übertragen Sie den Namen der Pokemon-Statistik in diese Variable. Verwenden Sie die Array-Wert-Funktion, um die Anzeige des Arrays so zu ändern, dass jede Statistik eine neue Zeile ist, wie unten dargestellt.
 
-**Hinweis:** Es gibt nur sechs verschiedene Pokemon-Statistiken mit einer entsprechenden Ebene.
+**Tipp:** Es gibt nur sechs verschiedene Pokemon-Statistiken mit einer entsprechenden Stufe.
 
 ![Ein Bild von Statistiken](assets/universal-connectors-and-routing-5.png)
 
-**Herausforderung:** Überprüfen Sie, ob Sie die Array-Formeln verwenden können, um die Funktionen zu erhalten, die wie oben beschrieben als unterschiedliche Zeilen und nicht als durch ein Komma getrennte Zeichenfolge angezeigt werden. Im folgenden Screenshot ist ein Hinweis enthalten.
+**Aufgabe:** Versuchen Sie, die Array-Formeln zu verwenden, um die Fähigkeiten auf die gleiche Weise wie oben als verschiedene Zeilen und nicht als durch ein Komma getrennte Wertefolge anzuzeigen. Im folgenden Screenshot finden Sie einen Tipp.
 
 ![Ein Bild eines Array-Namens](assets/universal-connectors-and-routing-6.png)
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
