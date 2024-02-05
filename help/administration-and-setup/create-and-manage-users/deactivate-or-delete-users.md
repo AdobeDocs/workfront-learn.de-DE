@@ -1,6 +1,6 @@
 ---
-title: Wann und wie Benutzer deaktiviert oder gelöscht werden
-description: Erfahren Sie mehr über den Unterschied zwischen dem Deaktivieren und Löschen von Benutzern. Verwalten Sie dann Benutzerprofile entsprechend den Anforderungen Ihres Unternehmens.
+title: Wann und wie Benutzende deaktiviert oder gelöscht werden
+description: Erfahren Sie mehr über den Unterschied zwischen dem Deaktivieren und Löschen von Benutzenden. Verwalten Sie dann Benutzerprofile entsprechend den Anforderungen Ihres Unternehmens.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,37 +11,37 @@ thumbnail: 10037.jpeg
 jira: KT-10037
 exl-id: 89b7d083-97d3-4783-a61d-35226d6582c0
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Wann und wie Benutzer deaktiviert oder gelöscht werden
+# Wann und wie Benutzende deaktiviert oder gelöscht werden
 
-Wenn ein Benutzer die Organisation verlässt oder nicht mehr verwendet [!DNL Workfront], sollten Sie ihre Anmeldung deaktivieren. Das Löschen eines Benutzerprofils sollte nur in bestimmten Situationen erfolgen.
+Wenn eine Person die Organisation verlässt oder [!DNL Workfront] nicht mehr verwendet, sollten Sie ihr Login deaktivieren. Das Löschen eines Benutzerprofils sollte dagegen nur in bestimmten Situationen erfolgen.
 
 ## Deaktivieren
 
-Durch Deaktivieren der Lizenz wird die Lizenz aus dem Profil des Benutzers entfernt, sodass er sich nicht mehr anmelden oder Zugriff auf [!DNL Workfront]. Ihre Lizenz ist verfügbar, um sie einem anderen Benutzer zuzuweisen.
+Wenn Benutzende deaktiviert werden, wird die Lizenz aus dem jeweiligen Benutzerprofil entfernt, sodass sie sich nicht mehr anmelden können oder keinen Zugriff mehr auf [!DNL Workfront] haben. Ihre Lizenz ist verfügbar, um einer anderen Person zugewiesen zu werden.
 
-Einem deaktivierten Benutzer kann keine neue Arbeit zugewiesen werden, er bleibt jedoch allen vorhandenen Arbeiten zugewiesen.
+Deaktivierten Benutzenden können keine neue Arbeit zugewiesen werden, jedoch bleiben sie für vorhandene Arbeit weiterhin zugewiesen.
 
-Beispielsweise ist die Arbeit eines Freiberuflers für ein bestimmtes Projekt abgeschlossen, sodass Sie seine Anmeldung deaktivieren möchten, bis sie das nächste Mal benötigt wird.
+Zum Beispiel: Die Arbeit einer Freiberuflerin bzw. eines Freiberuflers an einem bestimmten Projekt ist abgeschlossen, deswegen möchten Sie das Login dieser Person so lange deaktivieren, bis sie wieder benötigt wird.
 
 ## Löschen
 
-In seltenen Fällen - wie z. B. bei versehentlichem Eintrag oder einem Testbenutzer - muss eine Benutzeranmeldung möglicherweise aus dem [!DNL Workfront]. Durch Löschen eines Benutzers wird die Verknüpfung dieses Benutzers mit Elementen in [!DNL Workfront]— Arbeitsaufweisungen, Hinweise, Stunden, Dokumente, von ihnen erstellte Objekte usw.
+In seltenen Fällen – wie z. B. bei einer versehentlichen Eingabe oder bei Testbenutzenden – muss ein Benutzer-Login möglicherweise aus [!DNL Workfront] gelöscht werden. Beim Löschen von Benutzenden wird auch ihre Verknüpfung mit Elementen in [!DNL Workfront] gelöscht – Arbeitsaufträge, Notizen, Stunden, Dokumente, von ihnen erstellte Objekte usw.
 
-Die **only** time [!DNL Workfront] empfiehlt, einen Benutzer zu löschen, wenn er noch nie zur Arbeit zugewiesen wurde oder überhaupt keinen Verlauf mit Workfront-Elementen hat.
+[!DNL Workfront] empfiehlt das Löschen von Benutzenden **nur**, wenn ihnen überhaupt noch nie Arbeit zugewiesen wurde oder für sie bei keinerlei Workfront-Elementen ein Verlauf vorliegt.
 
-[!DNL Workfront] **stark** empfiehlt, einen Benutzer zu deaktivieren, anstatt ihn zu löschen. Durch Deaktivieren werden die Benutzerinformationen unter [!DNL Workfront], die für eine genaue Berichterstellung, Projektmanagement usw. erforderlich sein könnten. Wenn Sie Fragen haben, ob Sie einen Benutzer deaktivieren oder löschen sollten, wenden Sie sich an Ihre [!DNL Workfront] Berater oder [!DNL Workfront] Kundensupport.
+[!DNL Workfront] empfiehlt **nachdrücklich**, Benutzende zu deaktivieren, anstatt sie zu löschen. Bei der Deaktivierung werden die Benutzerinformationen in [!DNL Workfront] beibehalten, die für eine genaue Berichterstellung, Projekt-Management usw. benötigt werden könnten. Wenn Sie Fragen haben, ob Sie eine Person deaktivieren oder löschen sollten, wenden Sie sich an Ihre Beraterin bzw. Ihren Berater für [!DNL Workfront] oder den Kundensupport von [!DNL Workfront].
 
-![Mehr Menü mit Optionen [!DNL Users] page](assets/admin-fund-adding-users-11.png)
+![Weitere Menüoptionen auf der Seite [!DNL Users]](assets/admin-fund-adding-users-11.png)
 
-### Benutzer deaktivieren oder löschen
+### Deaktivieren oder Löschen einer Person
 
-1. Auswählen **[!UICONTROL Benutzer]** von [!UICONTROL Hauptmenü].
-1. Wählen Sie den Benutzer aus, indem Sie das Kontrollkästchen neben seinem Namen aktivieren.
-1. Klicken Sie auf **[!UICONTROL Mehr]** Dropdown-Menü.
-1. Auswählen **[!UICONTROL Deaktivieren]** oder **[!UICONTROL Löschen]**.
+1. Wählen Sie **[!UICONTROL Benutzer]** aus dem [!UICONTROL Hauptmenü] aus.
+1. Wählen Sie die Person aus, indem Sie das Kontrollkästchen neben ihrem Namen aktivieren.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Mehr]**.
+1. Wählen Sie **[!UICONTROL Deaktivieren]** oder **[!UICONTROL Löschen]** aus.
