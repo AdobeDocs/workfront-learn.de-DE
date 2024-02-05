@@ -1,5 +1,5 @@
 ---
-title: Vorteile der Verwendung von Agile
+title: Vorteile der Verwendung von agilem Vorgehen
 description: Erfahren Sie mehr über die Vorteile einer agilen Methodik.
 feature: Agile
 role: Admin, Leader, User
@@ -10,30 +10,30 @@ hide: true
 hidefromtoc: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Vorteile der Verwendung von Agile
+# Vorteile der Verwendung von agilem Vorgehen
 
-## Möglichkeit, schnell anzupassen und zu drehen
+## Möglichkeit, sich schnell anzupassen und zu schwenken
 
-Wie der Name schon sagt, ermöglicht die Agile-Methode es Teams, besser gerüstet zu sein, um schnell Richtung und Fokus zu ändern. Software- und Marketing-Unternehmen sind sich der Tendenz bewusst, dass sich die Nachfrage von Woche zu Woche ändert. Agile ermöglicht es Teams, ihre Arbeit neu zu bewerten und in bestimmten Schritten anzupassen, um sicherzustellen, dass sich der Fokus auch für das Team ändert, wenn sich die Arbeit und die Kundenlandschaft ändern.
+Wie der Name schon sagt, ermöglicht es die agile Methodik den Teams, die Richtung und den Fokus ggf. schnell zu ändern. Software- und Marketing-Unternehmen sind sich besonders stark der Tendenz bewusst, dass sich die Nachfrage von Woche zu Woche ändert. Agiles Vorgehen ermöglicht es Teams, ihre Arbeit neu zu bewerten und in bestimmten Schritten anzupassen, um sicherzustellen, dass sich der Fokus auch für das Team ändert, wenn sich die Arbeit und die Kundenlandschaft ändern.
 
-![Agile Arbeitsströme](assets/agile-work-stream.png)
+![Agiler Arbeitsstrom](assets/agile-work-stream.png)
 
-## Transparenz in die Arbeit eines Teams
+## Transparenz in der Arbeit eines Teams
 
-Agile Teams verwenden tägliche Treffen, die &quot;Standups&quot;genannt werden, um sicherzustellen, dass das Team sich weiterhin auf die priorisierte Liste der zu entwickelnden Funktionen oder Produkte konzentriert. Sie erleben nicht mehr die Verwirrung, nicht zu wissen, woran alle anderen in ihrem Team arbeiten. Sie führen regelmäßige Berichte darüber, was das Team vom Vortag erreicht hat, welche Probleme/Hindernisse möglicherweise gelöst werden müssen und was sie an diesem Tag zu arbeiten beabsichtigen.
+Agile Teams nutzen tägliche Besprechungen, die sogenannten Stand-ups, um sicherzustellen, dass sich das Team auf die nach Prioritäten geordnete Liste der zu entwickelnden Funktionen oder Produkte konzentriert. Sie sind nicht mehr verwirrt, weil sie nicht wissen, woran die anderen in ihrem Team arbeiten. Sie führen regelmäßige Berichte darüber, was das Team am Vortag erreicht hat, welche Probleme/Hindernisse möglicherweise gelöst werden müssen und woran sie an diesem Tag arbeiten wollen.
 
 
 
-Diese Transparenz und eine einheitliche Richtung ermöglichen es jedem, schneller voranzukommen.
+Diese Transparenz und einheitliche Richtung ermöglichen es allen, schneller voranzukommen.
 
 
 
 ## Häufiges Feedback
 
-Der letzte große Vorteil der Verwendung von Agile wäre die Feedback-Schleife, die am Ende jeder Iteration integriert wird (denken Sie daran: eine Iteration ist ein bestimmter Zeitraum, in dem das Team an der Fertigstellung bestimmter Ergebnisse arbeiten muss. Mit der Feedback Loop kann ein Team auf die letzten Wochen zurückblicken, um festzustellen, welche Probleme aufgetreten sind, wie sich der Plan in Zukunft entwickeln kann, was der Kunde jetzt braucht, wenn sich die früheren Anforderungen geändert haben, und welche Erfahrungen er als Team gesammelt hat.
+Der letzte große Vorteil der Einführung von agilem Vorgehen ist die Feedback-Schleife, die am Ende jeder Iteration eingebaut wird (zur Erinnerung: eine Iteration ist eine bestimmte Zeitspanne, in der das Team auf die Fertigstellung bestimmter Ergebnisse hinarbeiten muss). Mit der Feedback-Schleife kann ein Team auf die letzten Wochen zurückblicken, um festzustellen, welche Probleme aufgetreten sind, wie sich der Plan in Zukunft entwickeln kann, was die Kundschaft jetzt braucht, wenn sich die früheren Anforderungen geändert haben, und welche Erfahrungen das Team gesammelt hat.
