@@ -1,6 +1,6 @@
 ---
-title: Erstellen Sie die Sichtbarkeit mit dem [!DNL Jira] Integration
-description: Hier erhalten Sie einen Einblick in die [!DNL Jira] -Integration bietet Einblicke in die Arbeit Ihres Teams.
+title: Schaffen von Sichtbarkeit durch die  [!DNL Jira] -Integration
+description: Verschaffen Sie sich einen Überblick darüber, wie die  [!DNL Jira] -Integration einen Einblick in die Aktivitäten Ihres Teams ermöglicht.
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,39 +10,39 @@ team: Technical Marketing
 jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '365'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erstellen Sie die Sichtbarkeit mit dem [!DNL Jira] Integration
+# Schaffen von Sichtbarkeit durch die [!DNL Jira]-Integration
 
-[!DNL Jira]  ist ein Produkt, mit dem Projekte und Probleme für Entwicklungs- und technische Supportteams verfolgt werden. Während viele Teams Jira verwenden, um den Fortschritt auf Aufgabenebene zu verfolgen, verwenden sie [!DNL Workfront] um ein echtes Projektmanagement durchzuführen, da sie eine allgemeine Fortschrittsansicht erhalten können. Mit dem [!DNL Jira]  nativer Integration, können diese Informationen automatisch zwischen den beiden Anwendungen übertragen werden.
+[!DNL Jira] ist ein Produkt zur Verfolgung von Projekten und Problemen für Entwicklungs- und technische Support-Teams. Während viele Teams Jira verwenden, um den Fortschritt auf Aufgabenebene zu verfolgen, nutzen sie [!DNL Workfront] für echtes Projekt-Management, da dies einen Überblick über den Fortschritt auf höchster Ebene bietet. Mit der nativen [!DNL Jira]-Integration können diese Informationen automatisch zwischen den beiden Anwendungen übertragen werden.
 
-## Was ist [!DNL Jira] ?
+## Was ist [!DNL Jira]?
 
-[!DNL Jira]  ist ein Produkt, das von [!DNL Atlassian] zur Verfolgung von Projekten und Problemen für Entwicklungs- und technische Supportteams. Viele Teams verwenden [!DNL Jira]  zur Verfolgung des Fortschritts auf Aufgabenebene, sie verwenden jedoch auch [!DNL Workfront] zur Verwaltung von Projekten. Dies bedeutet, dass Teams ihre Bemühungen verdoppeln, indem sie Aufgaben in erstellen [!DNL Workfront] und [!DNL Jira] . Mit der [!DNL Jira]  native Integration, diese Art von Informationen kann automatisch zwischen den beiden Anwendungen übertragen werden.
+[!DNL Jira] ist ein von [!DNL Atlassian] entwickeltes Produkt zur Verfolgung von Projekten und Problemen für Entwicklungs- und technische Support-Teams. Viele Teams verwenden [!DNL Jira], um den Fortschritt auf Aufgabenebene zu verfolgen, aber gleichzeitig [!DNL Workfront], um Projekte zu verwalten. Das bedeutet für die Teams doppelte Arbeit, da sie Aufgaben sowohl in [!DNL Workfront] als auch in [!DNL Jira] erstellen. Mit der nativen [!DNL Jira]-Integration können diese Informationen jedoch automatisch zwischen den beiden Anwendungen übertragen werden.
 
-## Wie kann ich Adobe Workfront für Jira installieren?
+## Wie kann ich Adobe Workfront for Jira installieren?
 
-Navigieren Sie zu [Adobe Workfront für Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) , um zu erfahren, wie Sie Adobe Workfront für Jira installieren und konfigurieren.
+Unter [Adobe Workfront for Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=de) erfahren Sie, wie Sie Adobe Workfront for Jira installieren und konfigurieren.
 
-## Was kann eine [!DNL Jira]  Integration?
+## Was kann eine [!DNL Jira]-Integration leisten?
 
-Hier haben wir einen Sprint [!DNL Workfront] titled[!DNL Workfront] Story Spring.&quot;
+Hier haben wir einen Sprint in [!DNL Workfront] mit dem Titel „[!DNL Workfront] Story Spring“.
 
-![Flussdiagramm der Storyboards](assets/Jira01.png)
+![Burndown-Diagramm des Storyboards](assets/Jira01.png)
 
-Joan Harris, der Leiter des Agile-Teams des Dev-Jedi-Rats, verwendet das Scrum-Board- und Burndown-Diagramm, um den Fortschritt des Gesamtsprints zu messen. Es gibt dem Team eine schöne visuelle Darstellung dessen, was vor sich geht. Darüber hinaus fließen diese Informationen in einen Geschäftsbericht ein, der vierteljährlich überprüft wird. Der Großteil des Teams nimmt jedoch Aktualisierungen in der [!DNL Jira] , nicht [!DNL Workfront].
+Joan Harris, die Leiterin des agilen Dev-Jedi-Council-Teams, verwendet das Scrum-Board und das Burndown-Diagramm, um den Fortschritt des gesamten Sprints zu messen. So erhält das Team eine schöne visuelle Darstellung des Vorgangs. Darüber hinaus fließen diese Informationen in einen vierteljährlich überprüften Geschäftsführungsbericht ein. Der Großteil des Teams nimmt seine Aktualisierungen jedoch in [!DNL Jira] vor, nicht in [!DNL Workfront].
 
-Joans Team verwendet [!DNL Jira]  für mehrere Jahre und finden es eine gute Möglichkeit für sie, einzelne Aufgaben und/oder Fehler zu verfolgen, die ihnen zur Arbeit zugewiesen wurden. Joan benötigt diese Informationen aber wirklich, um eine Verbindung herzustellen [!DNL Workfront] und diese ausführenden Berichte schließlich zu füttern.
+Das Team von Joan verwendet [!DNL Jira] schon seit mehreren Jahren und findet, dass es eine gute Möglichkeit ist, einzelne Aufgaben und/oder Fehler zu verfolgen, an denen sie arbeiten sollen. Aber Joan braucht diese Informationen wirklich, um eine Verbindung zu [!DNL Workfront] herzustellen und letztendlich die Berichte für die Geschäftsführung zu erstellen.
 
-![Jira Storyboard](assets/Jira02.png)
+![Jira-Storyboard](assets/Jira02.png)
 
-Durch die [!DNL Jira]  native Integration, alle an Aufgaben, Meldungen oder Bugs vorgenommenen Aktualisierungen können die Aufgaben, Meldungen und/oder Probleme automatisch in [!DNL Workfront].
+Durch die native [!DNL Jira]-Integration können alle Aktualisierungen von Aufgaben, Storys und Fehlern automatisch die Aufgaben, Storys und/oder Probleme in [!DNL Workfront] aktualisieren.
 
-Wenn also das Team-Mitglied, das der Meldung &quot;Hardwareanforderungen überprüfen&quot;zugewiesen ist, eine Aktualisierung des Status in [!DNL Jira] , indem Sie sie von &quot;Neu&quot;zu &quot;In Bearbeitung&quot;verschieben, ändert diese Aktualisierung automatisch den Status der Meldung in [!DNL Workfront] sowie
+Wenn also das Team-Mitglied, das für die Story „Hardware-Anforderung prüfen“ zuständig ist, den Status in [!DNL Jira] von „Neu“ auf „In Bearbeitung“ ändert, wird durch diese Aktualisierung automatisch auch der Status der Story in [!DNL Workfront] geändert.
 
 ![Jira-Statusseite](assets/Jira03.png)
 
