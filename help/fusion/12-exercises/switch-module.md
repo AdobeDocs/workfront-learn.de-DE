@@ -1,6 +1,6 @@
 ---
 title: Switch-Modul
-description: Erfahren Sie, wie Sie das Switch-Modul verwenden, wenn Sie komplexere oder dynamischere Datenumwandlungen durchführen müssen.
+description: Erfahren Sie, wie Sie das Switch-Modul verwenden können, um komplexere oder dynamische Datentransformationen durchzuführen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,51 +11,51 @@ jira: KT-11052
 thumbnail: KT11052.png
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '319'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Switch-Modul
 
-Erfahren Sie, wie Sie das Switch-Modul verwenden, wenn Sie komplexere oder dynamischere Datenumwandlungen durchführen müssen.
+Erfahren Sie, wie Sie das Switch-Modul verwenden können, um komplexere oder dynamische Datentransformationen durchzuführen.
 
 ## Übungsübersicht
 
-Suchen Sie in Ihrem Testlaufwerk nach Briefpost-Projekten und ändern Sie dann den Namen jedes Projekts basierend auf einem Wert, der in einem benutzerdefinierten Feld ausgewählt ist, das an das Projekt angehängt ist.
+Suchen Sie nach Briefpost-Projekten auf Ihrem Testlaufwerk und ändern Sie den Namen jedes Projekts anhand eines Werts, der in einem benutzerdefinierten, dem Projekt zugeordneten Feld ausgewählt wurde.
 
 ![Switch-Modul Bild 1](../12-exercises/assets/switch-module-walkthrough-1.png)
 
-## Schritte, die ausgeführt werden müssen
+## Zu befolgende Schritte
 
-1. Erstellen Sie ein neues Szenario und nennen Sie es &quot;Verwendung des Switch-Moduls&quot;.
+1. Erstellen Sie ein neues Szenario und nennen Sie es „Verwendung des Switch-Moduls“.
 1. Verwenden Sie für das Trigger-Modul das Workfront-Suchmodul.
-1. Richten Sie Ihre Workfront-Verbindung ein und legen Sie den Datensatztyp auf Projekt fest.
-1. Geben Sie in den Suchkriterien an, dass nur Projekte mit einem Wert im benutzerdefinierten Feld Kanal angezeigt werden sollen.
-1. Wählen Sie für Ausgaben ID, Name, Referenznummer und das benutzerdefinierte Feld Kanal aus.
+1. Richten Sie Ihre Workfront-Verbindung ein und setzen Sie den Eintragstyp auf „Projekt“.
+1. Geben Sie in den Suchkriterien an, dass nur Projekte mit einem Wert im benutzerdefinierten Feld „Kanal“ angezeigt werden sollen.
+1. Wählen Sie als Ausgaben ID, Name, Referenznummer und das benutzerdefinierte Feld „Kanal“.
 
    ![Switch-Modul Bild 2](../12-exercises/assets/switch-module-walkthrough-2.png)
 
-1. Fügen Sie das Switch-Modul aus Tools hinzu.
-1. Mappen Sie für das Eingabefeld das benutzerdefinierte Feld Kanal aus dem Suchmodul.
+1. Fügen Sie das Switch-Modul aus der Option „Tools“ hinzu.
+1. Weisen Sie für das Eingabefeld das benutzerdefinierte Feld „Kanal“ aus dem Suchmodul zu.
 
    ![Switch-Modul Bild 3](../12-exercises/assets/switch-module-walkthrough-3.png)
 
-1. Als Nächstes fügen Sie Fälle für jeden möglichen Wert hinzu, der aus dem benutzerdefinierten Feld Kanal stammt. Der mögliche Wert wird im Feld Muster angegeben. Sie möchten, dass das Ausgabefeld einen bestimmten 3-Buchstaben-Code gefolgt von der Referenznummer des Projekts und dann dem Projektnamen enthält.
+1. Fügen Sie als Nächstes Fälle für jeden möglichen Wert aus dem benutzerdefinierten Feld „Kanal“ hinzu. Der mögliche Wert wird in das Feld „Muster“ eingetragen. Sie können festlegen, dass das Ausgabefeld einen spezifischen 3 Zeichen langen Code enthält, gefolgt von der Projektreferenznummer und dem Projektnamen.
 
-   **Ihr Zuordnungsbereich sollte wie folgt aussehen:**
+   **Ihr Zuordnungsfenster sollte wie folgt aussehen:**
 
    ![Switch-Modul Bild 4](../12-exercises/assets/switch-module-walkthrough-4.png)
 
-1. Sie können beliebig viele weitere Fälle hinzufügen. Beachten Sie das Feld Else unten. Dies wird verwendet, wenn der Eingabewert keinem der Fälle entspricht.
+1. Sie können beliebig viele zusätzliche Fälle hinzufügen. Beachten Sie das Feld „Sonst“ am unteren Rand. Dies wird verwendet, wenn der Eingabewert mit keinem der Fälle übereinstimmt.
 
    **Aktualisieren Sie den Projektnamen in Workfront.**
 
    ![Switch-Modul Bild 5](../12-exercises/assets/switch-module-walkthrough-5.png)
 
 1. Fügen Sie ein Workfront-Modul zum Aktualisieren von Datensätzen hinzu.
-1. Ordnen Sie im Feld ID die ID aus dem Trigger-Modul zu.
-1. Setzen Sie den Record Type auf Project.
-1. Wählen Sie im Abschnitt Zu zuordnende Felder auswählen das Feld Name aus und ordnen Sie es der Ausgabe des Switch-Moduls zu.
-1. Speichern Sie das Szenario und führen Sie es einmal aus. Zeigen Sie die aktualisierten Projektnamen in Ihrem Testlaufwerk an.
+1. Weisen Sie im ID-Feld die ID des Trigger-Moduls zu.
+1. Setzen Sie den Eintragstyp auf „Projekt“.
+1. Wählen Sie das Feld „Name“ aus dem Abschnitt „Zuzuordnende Felder auswählen“ und weisen Sie es der Ausgabe des Switch-Moduls zu.
+1. Speichern Sie Ihr Szenario und führen Sie es einmal aus. Sehen Sie sich die aktualisierten Projektnamen auf Ihrem Testlaufwerk an.
