@@ -1,6 +1,6 @@
 ---
 title: Anfrage stellen
-description: Erfahren Sie, wie Sie die [!UICONTROL Anforderungen] und stellen Sie eine Anforderung in [!DNL  Workfront]. Erfahren Sie dann, wie Sie gesendete und Entwurfsanfragen anzeigen können.
+description: Erfahren Sie, wie Sie in  [!DNL  Workfront]den Bereich [!UICONTROL Anfragen] finden und eine Anfrage stellen können. Dann erfahren Sie, wie Sie eingereichte Anfragen und Entwurfsanfragen einsehen können.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -13,21 +13,21 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Anfrage stellen
 
-In vielen Unternehmen ist der erste Schritt beim Starten eines neuen Projekts, beim Entwickeln eines neuen Produkts oder beim Erstellen eines Lieferprogramms die Anforderung in [!DNL Workfront]. Sie können den Fortschritt der Anfrage verfolgen und bei Bedarf zusätzliche Informationen bereitstellen.
+In vielen Unternehmen besteht der erste Schritt beim Start eines neuen Projekts, bei der Entwicklung eines neuen Produkts oder bei der Erstellung einer Leistung darin, eine Anfrage in [!DNL Workfront] zu stellen. Sie können den Fortschritt der Anfrage verfolgen und bei Bedarf zusätzliche Informationen bereitstellen.
 
 In diesem Video lernen Sie Folgendes:
 
-* Navigieren zum Anforderungsbereich
+* Zum Anfragebereich navigieren
 * Anfrage stellen
-* Gesendete Anforderungen anzeigen
-* Anforderungsentwurf suchen
+* Eingereichte Anfragen anzeigen
+* Einen Entwurf einer Anfrage finden
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
