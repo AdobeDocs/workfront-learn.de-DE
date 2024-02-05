@@ -1,6 +1,6 @@
 ---
-title: Anleitung zur Administration
-description: Erfahren Sie, wie Sie zwischen verschiedenen Organisationen oder Teams wechseln und Benutzer zum System hinzufügen in [!DNL Adobe Workfront Fusion].
+title: Anleitung für die Verwaltung
+description: Erfahren Sie, wie Sie in [!DNL Adobe Workfront Fusion]zwischen verschiedenen Organisationen oder Teams wechseln und dem System Benutzende hinzufügen können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,28 +11,28 @@ jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anleitung zur Administration
+# Anleitung für die Verwaltung
 
-Erfahren Sie, wie Sie zwischen verschiedenen Organisationen oder Teams wechseln und Benutzer zum System hinzufügen können.
+Lernen Sie, zwischen verschiedenen Organisationen oder Teams zu wechseln und dem System Benutzende hinzuzufügen.
 
 ![Ein Bild eines Szenarios mit Fehlerbehandlung](assets/workfront-fusion-administration-1.png)
 
-## Anleitung zur Administration
+## Anleitung für die Verwaltung
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Navigieren zwischen Organisationen und Teams
-* So erstellen Sie Teams
-* Einladen von Benutzern zu einer Organisation und einem Team
+* wie man zwischen Organisationen und Teams navigiert
+* wie man Teams bildet
+* wie man Benutzende zu einer Organisation und zu einem Team einlädt
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
