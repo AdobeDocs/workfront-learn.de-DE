@@ -1,6 +1,6 @@
 ---
 title: Projekte suchen
-description: Erfahren Sie, wie Sie Ihre Projekte in [!DNL  Workfront] mit Stiften, Favoriten, Dashboards und dem [!UICONTROL Projekte] Seite.
+description: Erfahren Sie, wie Sie Ihre Projekte in [!DNL  Workfront] mit Anheften, Favoriten, Dashboards und der Seite [!UICONTROL Projekte] suchen können.
 activity: use
 feature: Work Management
 thumbnail: find-projects.jpeg
@@ -12,15 +12,15 @@ jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Projekte suchen
 
-Workfront kann Ihre Projekte nicht für Sie verwalten, aber es gibt Ihnen die nötige Sichtbarkeit für die durchgeführte Arbeit. [!DNL Workfront] erleichtert Ihnen die Überwachung des Arbeitsfortschritts, die Kommunikation mit Ihrem Team, die Anpassung der Zeitpläne und vieles mehr.
+Workfront kann Ihre Projekte zwar nicht für Sie verwalten, aber es kann Ihnen den nötigen Einblick in die Arbeit geben, die gerade erledigt wird. [!DNL Workfront] erleichtert Ihnen die Überwachung des Arbeitsfortschritts, die Kommunikation mit Ihrem Team, die Anpassung der Zeitleisten und vieles mehr.
 
 <!---
 In this section, you will learn how to:
@@ -31,34 +31,34 @@ Find project communications
 Use [!DNL Workfront] features when reviewing the task list to monitor project progress
 --->
 
-## Suchen nach einem aktuellen Projekt
+## Suchen nach einem kürzlichen Projekt
 
-Sie können ein aktuelles Projekt - und andere Objekte - schnell finden, indem Sie auf [!UICONTROL Letzte] Symbol.
+Sie können ein kürzliches Projekt – und andere Objekte – schnell finden, indem Sie auf das Symbol [!UICONTROL Letzte] klicken.
 
-![[!UICONTROL Status] Feld in Projekt-Kopfzeile eingeblendet](assets/recents.png)
+Erweitertes Feld ![[!UICONTROL Status] in Projektkopfzeile](assets/recents.png)
 
-## Projekt veröffentlichen
+## Projekt anheften
 
-Wenn Sie an einem Projekt arbeiten, machen Sie es einfach zu finden, indem Sie es in die Menüleiste einfügen, damit Sie es mit einem einzigen Klick öffnen können.
+Wenn Sie an einem Projekt arbeiten, machen Sie es einfach auffindbar, indem Sie es an die Menüleiste anheften, damit Sie es mit einem einzigen Klick öffnen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
 ## Projekt favorisieren
 
-Wenn Sie mehrere Projekte verwalten, möchten Sie sie möglicherweise zu &quot;Favoriten&quot;machen, indem Sie auf das Sternsymbol klicken. Dann finden Sie Ihre Liste unter [!UICONTROL Favoriten] in der Menüleiste des Hauptmenüs.
+Wenn Sie mehrere Projekte verwalten, können Sie diese zu „Favoriten“ machen, indem Sie auf das Sternsymbol klicken. Dann finden Sie Ihre Liste unter dem Symbol [!UICONTROL Favoriten] in der Menüleiste des Hauptmenüs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 
 
 ## Öffnen eines Projekts über ein Dashboard
 
-Viele [!DNL Workfront] -Kunden nutzen Berichte, die in einem Dashboard erstellt wurden, um ihre laufende Arbeit zu finden.
+Viele [!DNL Workfront]-Kundinnen und -Kunden nutzen Berichte, die in einem Dashboard erstellt wurden, um ihre laufende Arbeit zu finden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 
 
-## Öffnen Sie ein Projekt auf der Seite &quot;Projekte&quot;.
+## Sie können ein Projekt auf der Seite „Projekte“ öffnen
 
-Und natürlich sind Ihre Projekte immer im Hauptbereich verfügbar [!UICONTROL Projekte] Bereich. Klicken Sie einfach auf den Projektnamen, um ihn zu öffnen.
+Und natürlich sind Ihre Projekte jederzeit im Hauptbereich [!UICONTROL Projekte] verfügbar. Klicken Sie einfach auf den Projektnamen, um es zu öffnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12&learn=on)
