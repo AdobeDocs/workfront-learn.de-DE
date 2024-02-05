@@ -1,6 +1,6 @@
 ---
-title: Anpassen der [!UICONTROL Hauptmenü] mit Layoutvorlagen
-description: Erfahren Sie, wie Sie mit einer Layoutvorlage die [!UICONTROL Hauptmenü].
+title: Anpassen des [!UICONTROL Hauptmenüs] mit Layout-Vorlagen
+description: Erfahren Sie, wie Sie eine Layout-Vorlage verwenden, um das [!UICONTROL Hauptmenü] anzupassen.
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -12,19 +12,19 @@ jira: KT-8760
 exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anpassen der [!UICONTROL Hauptmenü] mit Layoutvorlagen
+# Anpassen des [!UICONTROL Hauptmenüs] mit Layout-Vorlagen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Richten Sie die [!UICONTROL Hauptmenü]
-* Entfernen Sie Elemente aus der [!UICONTROL Hauptmenü]
-* Hinzufügen von Elementen zu [!UICONTROL Hauptmenü]
+* Einrichten des [!UICONTROL Hauptmenüs]
+* Entfernen von Elementen aus dem [!UICONTROL Hauptmenü]
+* Hinzufügen von Elementen zum [!UICONTROL Hauptmenü]
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on)
