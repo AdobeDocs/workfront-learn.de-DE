@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu integrierten Problemfiltern
-description: Erfahren Sie, wie Sie integrierte Problemfilter überprüfen können, um zu sehen, wie sie erstellt werden, und erstellen Sie einen eigenen Problemfilter in Workfront.
+description: Erfahren Sie, wie Sie integrierte Problemfilter überprüfen können, um zu sehen, wie sie erstellt wurden, und erstellen Sie einen eigenen Problemfilter in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336819.png
@@ -12,9 +12,9 @@ jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,27 +22,27 @@ ht-degree: 0%
 
 In diesem Video werden Sie:
 
-* Überprüfen Sie integrierte Problemfilter, um zu sehen, wie sie erstellt wurden.
-* Erfahren Sie mehr über einige nützliche Elemente zur Problemberichterstellung
-* Erfahren Sie, wie Sie einen eigenen Problemfilter erstellen
+* Integrierte Problemfilter überprüfen, um zu sehen, wie sie erstellt wurden
+* Mehr über einige nützliche Elemente zur Problemberichterstellung erfahren
+* Lernen, wie Sie einen eigenen Problemfilter erstellen
 
 >[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 ## Aktivität: Erstellen eines Problemberichts
 
-Sie möchten alle Probleme sehen, die bei allen aktiven Projekten, die Sie besitzen, noch gelöst werden müssen, einschließlich Problemen mit einem auflösenden Objekt. Erstellen Sie einen Problembericht und nennen Sie ihn &quot;Ungelöste Probleme bei Projekten, die ich besitze&quot;.
+Sie möchten alle Probleme sehen, die noch für alle aktiven Projekte, für die Sie verantwortlich sind, gelöst werden müssen, einschließlich der Probleme mit einem Lösungsobjekt. Erstellen Sie einen Problembericht und nennen Sie ihn „Ungelöste Probleme bei Projekten, für die ich verantwortlich bin“.
 
 ## Antwort
 
 So sollte der Filter aussehen:
 
-![Ein Bild des Bildschirms, um einen Problemfilter zu erstellen](assets/opening-built-in-issue-filters-1.png)
+![Ein Screenshot des Bildschirms zum Erstellen eines Problemfilters](assets/opening-built-in-issue-filters-1.png)
 
-Im integrierten Filter &quot;My Open Issues&quot;wurden alle Probleme ausgeschlossen, bei denen ein aufgelöstes Objekt vorhanden war. Der Grund dafür ist, dass man sich über diese Probleme keine Gedanken machen muss. Jemand hat bereits ein Projekt, eine Aufgabe oder ein Problem erstellt, das sie löst, also was ist zu befürchten? Aber sie sind noch nicht gelöst, und in unserem Beispiel nehmen wir sie mit ein, um sie einfach zu identifizieren und zu überprüfen, wie sie funktionieren.
+Im integrierten Filter „Meine offenen Probleme“ schloss eine der Filterregeln alle Probleme aus, für die es ein Lösungsobjekt gab. Der Grund dafür ist, dass Sie sich um diese Probleme nicht kümmern müssen. Jemand hat bereits ein Projekt, eine Aufgabe oder ein Problem erstellt, das diese lösen wird. Was gibt es da also noch zu befürchten? Doch sie sind nun mal noch nicht gelöst. In unserem Beispiel beziehen wir sie deshalb mit ein, damit sie leicht zu identifizieren sind und überprüft werden kann, wie sie sich verhalten.
 
-Dazu müssen Sie auf der Registerkarte &quot;Ansicht&quot;eine Spalte für &quot;Problem&quot;> &quot;Objekt auflösen&quot;hinzufügen. Dies zeigt den Namen des auflösenden Objekts, sofern vorhanden, ob es sich um ein Projekt, eine Aufgabe oder ein Problem handelt. Durch Klicken auf den Namen gelangen Sie zum auflösenden Objekt.
+Dazu müssen Sie in der Registerkarte „Ansicht“ eine Spalte für „Problem >> Lösungsobjekt“ hinzufügen. Hier wird der Name des Lösungsobjekts angezeigt, falls vorhanden, egal ob es sich um ein Projekt, eine Aufgabe oder ein Problem handelt. Durch Klicken auf den Namen gelangen Sie zum Lösungsobjekt.
 
-Sie können die Liste anhand des Projektnamen gruppieren.
+Es ist empfehlenswert, die Liste anhand des Projektnamens zu gruppieren.
 
 So sollte der Bericht aussehen:
 
