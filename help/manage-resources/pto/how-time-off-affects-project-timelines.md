@@ -1,6 +1,6 @@
 ---
-title: Anzeigen der Zeitabstände wirkt sich auf die Projektzeitpläne aus
-description: Erfahren Sie, was mit einer Projekt-Timeline passiert, wenn die Einstellung ein- und ausgeschaltet ist.
+title: Auswirkungen von Ausfallzeiten auf Projektzeitleisten
+description: Sehen Sie sich an, was mit einer Projektzeitleiste passiert, wenn die Ausfallzeiteinstellung ein- bzw. ausgeschaltet ist.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,71 +10,71 @@ team: Technical Marketing
 jira: KT-10180
 exl-id: 0f79dd8d-b7ce-4ee9-b211-23c8ed5d497c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Auswirkungen der Zeitüberschreitung auf die Projektzeitpläne
+# Wie sich Ausfallzeiten auf Projektzeitleisten auswirken
 
-Ob die Zeitpunkte eines zugewiesenen Benutzers in der Projekt-Timeline von einer Projekteinstellung mit dem Namen [!UICONTROL Zeitlimit für Benutzer]. Mit dieser Einstellung wird festgelegt, ob die Zeitspanne, die der primäre Verantwortliche der Aufgabe für diese Aufgabe benötigt, die für das Projekt geplanten Daten anpasst.
+Ob die Freizeit zugewiesener Benutzender in die Projektzeitleisten einfließt, hängt von einer Projekteinstellung namens [!UICONTROL Benutzerausfallzeiten] ab. Diese Einstellung legt fest, ob durch die Ausfallzeiten der Hauptverantwortlichen für die Aufgabe die geplanten Termine für diese Aufgabe im Projekt angepasst werden sollen.
 
-Sehen wir uns an, was mit einer Projekt-Timeline passiert, wenn jede der Einstellungen ausgewählt ist - C[!UICONTROL Benutzerzeitlimit in Aufgabendauer berücksichtigen] oder [!UICONTROL Ignorieren der Benutzerzeit in der Aufgabendauer].
+Schauen wir uns an, was mit einer Projektzeitleiste passiert, wenn jede der Einstellungen ausgewählt ist –[!UICONTROL Benutzer-Ausfallzeit in Aufgabenlaufzeiten berücksichtigen] oder [!UICONTROL Benutzer-Ausfallzeit in Aufgabenlaufzeiten ignorieren].
 
-![Einstellung der Benutzerzeit](assets/toapt_01.png)
+![Einstellung der Benutzerausfallzeit](assets/toapt_01.png)
 
 ## Benutzer-Ausfallzeit in Aufgabenlaufzeiten berücksichtigen
 
 Diese Option ist die Standardeinstellung von Workfront.
 
-In diesem Beispiel hat der primäre Verantwortliche für die Aufgabe im Kalender seiner Person Tage mit Markierungen.
+In diesem Beispiel hat der oder die Hauptverantwortliche für die Aufgabe freie Tage in seinem bzw. ihrem persönlichen Kalender markiert.
 
-![persönlicher Kalender](assets/toapt_02.png)
+![Persönlicher Kalender](assets/toapt_02.png)
 
-Der Projektmanager möchte diese Person einer Aufgabe zuweisen, deren geplante Daten sich über die Zeitspanne des Benutzers hinausgehen.
+Die Projektleitung möchte dieser Person eine Aufgabe zuweisen, deren geplante Termine sich mit ihren freien Tagen überschneiden.
 
-![Projektaufgabe mit Datumsangaben](assets/toapt_03.png)
+![Projektaufgabe mit Terminen](assets/toapt_03.png)
 
-Wenn dieser Benutzer der Aufgabe zugewiesen wird, werden die geplanten Datumsangaben automatisch angepasst. Jetzt wurde das geplante Abschlussdatum der Aufgabe um mehrere Tage verlängert, um die Zeitspanne des Benutzers aufzunehmen. Es ist wichtig zu beachten, dass diese Änderung die geplanten Termine für andere Aufgaben im Projekt und möglicherweise das geplante Abschlussdatum des Projekts beeinflussen kann.
+Wenn dieser Person die Aufgabe zugewiesen wird, werden die geplanten Termine automatisch angepasst. Nun hat sich das geplante Erledigungsdatum der Aufgabe um mehrere Tage verlängert, um die Ausfallzeit der Person zu berücksichtigen. Es ist wichtig zu beachten, dass diese Änderung die geplanten Termine für andere Aufgaben im Projekt und möglicherweise das geplante Abschlussdatum des gesamten Projekts beeinflussen kann.
 
 ![Projektaufgabe mit Fälligkeitsdatum](assets/toapt_04.png)
 
 ## [!UICONTROL Benutzer-Ausfallzeit in Aufgabenlaufzeiten ignorieren]
 
-Mit dieser Option bleiben die geplanten Termine der Aufgabe wie ursprünglich geplant, auch wenn der Hauptverantwortliche während der Dauer dieser Aufgabe über eine Zeitspanne verfügt.
+Bei dieser Option bleiben die geplanten Termine der Aufgabe wie ursprünglich geplant erhalten, auch wenn der oder die Hauptverantwortliche während der Dauer dieser Aufgabe ausfällt.
 
-Der Teammitglied hat Tage frei markiert auf seinem Kalender.
+Das Team-Mitglied hat freie Tage in seinem Kalender markiert.
 
-![Kalender mit markierten Datumsangaben](assets/toapt_05.png)
+![PTO-Kalender mit markierten Ausfallterminen](assets/toapt_05.png)
 
-Der Projektmanager weist ihnen eine Aufgabe zu, die sich mit der Zeitdauer überschneidet. Sobald der Benutzer zugewiesen wurde, bleiben die geplanten Aufgabendaten wie ursprünglich geplant.
+Die Projektleitung weist ihm eine Aufgabe zu, die sich mit der Ausfallzeit überschneidet. Auch nachdem die Person zugewiesen ist, bleiben die geplanten Aufgabetermine so wie ursprünglich geplant.
 
-![Anpassen der Projektaufgabedaten](assets/toapt_06.png)
+![Anpassen von Terminen für Projektaufgaben](assets/toapt_06.png)
 
-Um sicherzustellen, dass die Arbeit rechtzeitig erledigt wird, kann es hilfreich sein, eine andere Person zuzuweisen, die an der Aufgabe arbeiten kann, während der ursprüngliche Bevollmächtigte nicht im Büro ist.
+Um sicherzustellen, dass die Arbeit rechtzeitig erledigt wird, kann es hilfreich sein, eine andere Person zu beauftragen, die die Aufgabe bearbeiten kann, während die ursprünglich beauftragte Person nicht im Büro ist.
 
-## Passen Sie die Einstellung auf Projektebene an.
+## Anpassung der Einstellung auf Projektebene
 
-So ändern Sie die Einstellung für die Benutzerzeit in einem Projekt:
+So ändern Sie die Einstellung für die Benutzerausfallzeiten in einem Projekt:
 
-* Öffnen Sie das Projekt, indem Sie in Workfront auf seinen Namen klicken.
+* Öffnen Sie das Projekt, indem Sie auf seinen Namen in Workfront klicken.
 
-* Auswählen [!UICONTROL Bearbeiten] über das Menü mit 3 Punkten in der Kopfzeile der Seite rechts neben dem Projektnamen.
+* Wählen Sie [!UICONTROL Bearbeiten] im 3-Punkte-Menü in der Kopfzeile der Seite rechts neben dem Projektnamen.
 
-* Scrollen Sie zum [!UICONTROL Projekteinstellungen] und suchen Sie nach [!UICONTROL Zeitlimit für Benutzer] -Feld.
+* Blättern Sie zum Abschnitt [!UICONTROL Projekteinstellungen] und suchen Sie das Feld [!UICONTROL Benutzer-Ausfallzeiten].
 
-* Wählen Sie die Option aus, die Sie auf dieses Projekt anwenden möchten — [!UICONTROL Benutzerzeitlimit in Aufgabendauern berücksichtigen] I[!UICONTROL Nutzerzeitlimit in Aufgabendauer ignorieren].
+* Wählen Sie die Option, die Sie auf dieses Projekt anwenden möchten – [!UICONTROL Benutzer-Ausfallzeit in Aufgabenlaufzeiten berücksichtigen] oder [!UICONTROL Benutzer-Ausfallzeit in Aufgabenlaufzeiten ignorieren].
 
-* Klicken Sie auf [!UICONTROL Speichern] in der oberen rechten Ecke des Fensters.
+* Klicken Sie auf die Schaltfläche [!UICONTROL Speichern] in der oberen rechten Fensterecke.
 
 ![Benutzer-Ausfallzeit in Aufgabenlaufzeiten berücksichtigen](assets/toapt_07.png)
 
 
-**Hinweis**: Diese Einstellung ist nicht verfügbar, wenn Sie [!UICONTROL Projektdetails] im linken Bedienfeldmenü der Projektseite.
+**Hinweis**: Diese Einstellung ist nicht verfügbar, wenn Sie [!UICONTROL Projektdetails] im Menü des linken Bedienfelds auf der Projektseite wählen.
 
-Eine globale Einstellung dafür ist in den Projektvoreinstellungen im Abschnitt [!UICONTROL Einrichtung] Menü. Diese Einstellung wird von Ihrem Systemadministrator verwaltet. Gruppenadministratoren können diese Einstellung möglicherweise für die von ihnen verwalteten Gruppen anpassen.
+Eine globale Einstellung dafür gibt es in den Projektvoreinstellungen im [!UICONTROL Einrichtungsmenü]. Diese Einstellung wird von Ihren Systemadmins verwaltet. Gruppenadmins können diese Einstellung möglicherweise für die von ihnen verwalteten Gruppen anpassen.
 
-Workfront empfiehlt, die Einstellung so festzulegen, wie Sie möchten, dass die meisten Ihrer Projekte eine Zeitüberschreitung in Ihrem Unternehmen verarbeiten.
+Workfront empfiehlt, die Einstellung in der Weise vorzunehmen, wie die meisten Ihrer Projekte in Ihrem Unternehmen Ausfallzeiten handhaben sollen.
 
-Die Einstellung kann auch in Projektvorlagen über die Vorlagendetails integriert werden.
+Die Einstellung kann auch über die Vorlagendetails in Projektvorlagen integriert werden.
