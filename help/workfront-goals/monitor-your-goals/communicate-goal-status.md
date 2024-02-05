@@ -1,6 +1,6 @@
 ---
-title: Zielstatus kommunizieren
-description: Erfahren Sie, wie Sie mit anderen über den Fortschritt und den Status Ihrer Ziele kommunizieren können in [!DNL Workfront Goals].
+title: Kommunizieren des Zielstatus
+description: Lernen Sie, wie Sie in [!DNL Workfront Goals]mit anderen über den Fortschritt und den Status Ihrer Ziele kommunizieren können.
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -10,49 +10,49 @@ level: Beginner
 jira: KT-10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '469'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Zielstatus kommunizieren
+# Kommunizieren des Zielstatus
 
-Jetzt, da Sie Ihre Ziele aktualisiert haben, nehmen Sie sich einen Moment Zeit, um sich einen Überblick über die Ziele zu verschaffen, an denen Sie arbeiten, und wie sie sich auf Team-, Gruppen- und Unternehmensziele beziehen. Mit anderen über den Fortschritt und den Status Ihrer Ziele zu kommunizieren ist ein wichtiger Teil der Zielsetzung, stets auf dem richtigen Weg zu sein.
+Nachdem Sie nun Ihre Ziele aktualisiert haben, nehmen Sie sich einen Moment Zeit, um die Ziele, an denen Sie arbeiten, aus der Vogelperspektive zu betrachten und zu sehen, wie sie mit den Zielen des Teams, der Gruppe und des Unternehmens zusammenhängen. Die Kommunikation mit anderen über den Fortschritt und den Status Ihrer Ziele ist wichtig für die korrekte Ausrichtung.
 
-Es gibt verschiedene Möglichkeiten, die richtigen Personen über Ihre Ziele auf dem Laufenden zu halten. Sie können wie folgt beginnen:
+Es gibt verschiedene Möglichkeiten, um die richtigen Personen über Ihre Ziele auf dem Laufenden zu halten. Sie können wie folgt beginnen:
 
-* Freigeben und Reporting zu Ihren Zielen
-* Nutzung der [!UICONTROL Diagramme] , um eine umfassende Übersicht über den Fortschritt Ihrer Ziele zu erhalten
+* Austausch und Berichterstellung über Ihre Ziele
+* Nutzung des Bereichs [!UICONTROL Diagramme], um einen schnellen Überblick über den Fortschritt Ihrer Ziele zu erhalten
 
-## Ziel freigeben
+## Teilen eines Ziels
 
-Sie können ein von Ihnen erstelltes Ziel oder ein von einer anderen Person erstelltes Ziel freigeben, für das Sie über die entsprechenden Berechtigungen verfügen. Sie können keine Ziele für Gruppen, Teams oder Unternehmen freigeben. Wenn Sie über Verwaltungsberechtigungen für ein Ziel verfügen, können Sie die Berechtigungen des Ziels für den Ersteller des Ziels ändern. Standardmäßig hat die Person, die das Ziel erstellt, die Berechtigung &quot;Verwalten&quot;, aber Sie können sie in &quot;Anzeigen&quot;ändern.
+Sie können ein von Ihnen oder von einer anderen Person erstelltes Ziel teilen, für das Sie eine Verwaltungsberechtigung besitzen. Sie können Ziele nicht mit Gruppen, Teams oder Unternehmen teilen. Wenn Sie über eine Verwaltungsberechtigung für ein Ziel verfügen, können Sie die Zielberechtigungen für die Person, die das Ziel erstellt hat, ändern. Standardmäßig hat die Person, die das Ziel erstellt, eine Verwaltungsberechtigung, aber Sie können sie zu „Ansicht“ ändern.
 
-1. Klicken Sie auf den Namen des Ziels, das von einem beliebigen Abschnitt im [!DNL Goals] Bereich zum Öffnen [!UICONTROL Zieldetails] Bereich.
+1. Klicken Sie in einem beliebigen Abschnitt des [!DNL Goals]-Bereichs auf den Namen des freizugebenden Ziels, um das Bedienfeld [!UICONTROL Zieldetails] zu öffnen.
 
-1. Klicken Sie auf das 3-Punkt-Symbol neben dem Zielnamen und dann auf [!UICONTROL **Freigeben**]. Die [!UICONTROL Zielzugriff] angezeigt.
+1. Klicken Sie auf das 3-Punkte-Symbol neben dem Namen des Ziels und dann auf [!UICONTROL **Teilen**]. Das Feld [!UICONTROL Zielzugriff] wird angezeigt.
 
-   ![Screenshot zum Freigeben eines Ziels](assets/17-workfront-goals-share-a-goal.png)
+   ![Screenshot zum Teilen eines Ziels](assets/17-workfront-goals-share-a-goal.png)
 
 1. Führen Sie einen der folgenden Schritte aus:
 
-   * Wählen Sie die [!UICONTROL Systemweit verwalten] -Einstellung, um allen Benutzern im System, die Zugriff auf &quot;Bearbeiten&quot;haben, Administratorberechtigungen zu erteilen [!DNL Goals] durch [!DNL Workfront] Zugriffsstufe. Diese Option ist standardmäßig für alle neuen Ziele deaktiviert.
-   * Beginnen Sie mit der Eingabe des Namens eines Benutzers, den Sie [!UICONTROL Verwalten] Berechtigungen für [!UICONTROL Zugriff gewähren an] ankreuzen. Wählen Sie den Namen aus, wenn er in der Liste angezeigt wird.
+   * Wählen Sie die Einstellung [!UICONTROL Systemweit verwalten], um allen Personen im System, die über ihre [!DNL Workfront]-Zugriffsebene Zugriff auf [!DNL Goals] haben, eine Verwaltungsberechtigung zu geben. Diese Option ist für alle neuen Ziele standardmäßig deaktiviert.
+   * Beginnen Sie mit der Eingabe der Namen der Benutzenden, denen Sie die Berechtigung [!UICONTROL Verwalten] geben möchten, in das Feld [!UICONTROL Verwaltungsberechtigung erteilen an]. Wählen Sie den Namen aus, wenn er in der Liste angezeigt wird.
 
-1. Klicken [!UICONTROL **Freigeben**]. Eine systemweite Bezeichnung für die Namen der Benutzer, die über Verwaltungsberechtigungen für das Ziel verfügen, wird in der [!UICONTROL Zugriff auf die Verwaltung] im Feld [!UICONTROL Zieldetails] Bereich.
+1. Klicken Sie auf [!UICONTROL **Teilen**]. Die Beschriftung „systemweit“ oder die Namen der Benutzenden, die über eine Verwaltungsberechtigung für das Ziel verfügen, werden im Feld [!UICONTROL Zugriff auf „Verwalten“] im Bedienfeld [!UICONTROL Zieldetails] angezeigt.
 
 ## Bericht zu Zielinformationen
 
-Sie können Zielberichte oder Projektberichte erstellen, die Informationen zu den zugehörigen Zielen in [!DNL Workfront]. Es gibt mehrere Möglichkeiten, Zielinformationen in Berichten anzuzeigen.
+Sie können in [!DNL Workfront] Zielberichte oder Projektberichte erstellen, die Informationen über die zugehörigen Ziele enthalten. Es gibt mehrere Möglichkeiten, Zielinformationen in Berichten anzuzeigen.
 
-* Erstellen Sie einen Zielbericht im Bereich Berichte . Sie können verschiedene Informationen über das Ziel im Zielbericht anzeigen (z. B.: Name, Eigentümer, Datum, Fortschritt usw.), der Folgendes umfasst:
+* Erstellen Sie einen Zielbericht im Bereich „Berichte“. Im Zielbericht können Sie verschiedene Informationen über das Ziel anzeigen (z. B. Name, Inhaberin oder Inhaber, Daten, Fortschritt usw.), wozu folgende gehören:
 
-   * **Zielhierarchie**—Zeigt alle übergeordneten Ziele an und wie sie miteinander verbunden werden.
-   * **Ist Unternehmensziel**- Gibt an, ob Ihre Organisation zum Eigentümer eines Ziels bestimmt wurde.
-   * **Eigentümertyp**— Gibt an, ob der Eigentümer eines Ziels ein Benutzer, ein Team oder eine Gruppe ist.
+   * **Zielhierarchie** – Zeigt alle übergeordneten Ziele und deren Verbindungen miteinander an.
+   * **Ist Unternehmensziel** – Zeigt an, ob Ihre Organisation als Inhaber eines Ziels benannt ist.
+   * **Inhabertyp** – Gibt an, ob der Inhaber eines Ziels ein Benutzer oder eine Benutzerin, ein Team oder eine Gruppe ist.
 
 * Erstellen Sie einen Projektbericht, der Zielinformationen anzeigt, einschließlich der folgenden:
-   * **Zielhierarchie**—Zeigt alle übergeordneten Ziele an und wie sie miteinander verbunden werden.
-   * **Ziele**: Dies ist ein Sammlungsfeld, das alle mit einem Projekt verknüpften Ziele anzeigt.
-   * **Anzahl verknüpfter Ziele**—Die Anzahl der mit dem Projekt verknüpften Ziele.
+   * **Zielhierarchie** – Zeigt alle übergeordneten Ziele und deren Verbindungen miteinander an.
+   * **Ziele** – Dies ist ein Sammlungsfeld, das alle mit einem Projekt verknüpften Ziele anzeigt.
+   * **Anzahl der verlinkten Ziele** – Die Anzahl der mit dem Projekt verknüpften Ziele.
