@@ -1,6 +1,6 @@
 ---
-title: Organisieren Sie Ihre Aufgabenliste in [!DNL Workfront] [!UICONTROL Startseite]
-description: Erfahren Sie, wie Sie zugewiesene Arbeit filtern und sortieren, für den Start bereitstehende Arbeit identifizieren und Arbeitszuweisungen in [!DNL  Workfront].
+title: Organisieren Sie Ihre Aufgabenliste auf der  [!DNL Workfront] [!UICONTROL Startseite]
+description: Erfahren Sie, wie Sie in [!DNL  Workfront]zugewiesene Arbeiten filtern und sortieren, startbereite Arbeiten identifizieren und Arbeitszuweisungen annehmen können.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,29 +12,29 @@ jira: KT-8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Organisieren Sie Ihre Aufgabenliste in [!DNL Workfront] [!UICONTROL Startseite]
+# Organisieren Sie Ihre Aufgabenlisten auf der [!DNL Workfront] [!UICONTROL Startseite]
 
 >[!NOTE]
 >
->Die [!UICONTROL [!DNL Sort by]] in der [!UICONTROL Arbeitsliste] wurde in [!UICONTROL Gruppieren nach], und Aufgaben und Probleme können auch nach ihren [!UICONTROL Geplantes Startdatum].
+>Die Option [!UICONTROL [!DNL Sort by]] in der [!UICONTROL Arbeitsliste] wurde in ]Gruppieren nach[!UICONTROL  umbenannt, und Aufgaben und Probleme können auch nach ihrem [!UICONTROL geplanten Startdatum] gruppiert werden.
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Sortieren von Arbeitszuweisungen
-* Arbeitszuweisungen nach Typ filtern
-* Ermitteln Sie, welche Arbeit für den Start bereit ist.
-* Arbeitszuweisungen akzeptieren
+* Sortieren von Arbeitsaufträgen
+* Filtern von Arbeitsaufträgen nach Typ
+* Identifizieren von startbereiter Arbeit
+* Akzeptieren von Arbeitsaufträgen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Standardmäßig werden die frühesten fälligen Elemente oben im [!UICONTROL Arbeitsliste]. Wenn Sie möchten, dass Ihre Arbeitselemente in absteigender Reihenfolge angezeigt werden, klicken Sie auf die Pfeile rechts neben der Gruppe nach Bereich.
+>Standardmäßig werden die am frühesten fälligen Elemente oben in der [!UICONTROL Auftragsliste] angezeigt. Wenn Sie möchten, dass Ihre Arbeitselemente in absteigender Reihenfolge angezeigt werden, klicken Sie auf die Pfeile rechts neben dem Bereich „Gruppieren nach“.
 
-![Bild eines Bildschirms, das Ihre Arbeitsliste nach Fälligkeitsdatum gruppiert.](assets/work-list-arrows.png)
+![Bild eines Bildschirms, der Ihre Auftragsliste gruppiert nach Fälligkeitsdatum zeigt.](assets/work-list-arrows.png)
