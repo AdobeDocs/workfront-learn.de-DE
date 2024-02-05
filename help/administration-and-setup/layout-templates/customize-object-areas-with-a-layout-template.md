@@ -1,6 +1,6 @@
 ---
-title: Objektbereiche mit einer Layoutvorlage anpassen
-description: Erfahren Sie, wie Sie mit einer Layoutvorlage Elemente im Menü des linken Bedienfelds hinzufügen, entfernen und neu anordnen können in [!DNL  Workfront].
+title: Anpassen von Objektbereichen mit einer Layout-Vorlage
+description: Erfahren Sie, wie Sie in [!DNL  Workfront]mit einer Layout-Vorlage Elemente im Menü des linken Bedienfelds hinzufügen, entfernen und neu anordnen können.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,18 +12,18 @@ jira: KT-8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Objektbereiche mit einer Layoutvorlage anpassen
+# Anpassen von Objektbereichen mit einer Layout-Vorlage
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Entfernen von Elementen aus dem Menü des linken Bedienfelds auf einer Objektseite
-* Hinzufügen von Elementen zum Menü im linken Bedienfeld
-* Elemente im Bedienfeldmenü neu anordnen
+* Hinzufügen von Elementen zum Menü des linken Bedienfelds
+* Neuanordnen von Elementen im Bedienfeldmenü
 
 >[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on)
