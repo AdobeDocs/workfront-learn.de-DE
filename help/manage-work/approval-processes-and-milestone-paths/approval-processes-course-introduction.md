@@ -1,5 +1,5 @@
 ---
-title: Einführung in Validierungsprozesse
+title: Einführung in den Kurs „Genehmigungsprozesse“
 description: Erfahren Sie, wie Genehmigungsprozesse den Arbeitsüberprüfungsprozess vereinfachen und automatisieren können.
 activity: deploy
 feature: Approvals
@@ -10,13 +10,13 @@ team: Technical Marketing
 jira: KT-8961
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Einführung in Validierungsprozesse
+# Einführung in den Kurs „Genehmigungsprozesse“
 
 In diesem Video erfahren Sie, wie Genehmigungsprozesse den Arbeitsüberprüfungsprozess vereinfachen und automatisieren können.
 
