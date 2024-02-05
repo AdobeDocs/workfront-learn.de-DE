@@ -8,41 +8,43 @@ jira: KT-10888
 thumbnail: manage-work-kanban.png
 exl-id: 05656ae0-46b2-4034-ac25-d936090d134c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Verwalten der Arbeit als Kanban-Team
 
-Verwalten von Arbeiten als Kanban-Team Hinzufügen von Geschichten zum Kanban-Backlog Es gibt mehrere Möglichkeiten, Geschichten zum Backlog des Creative Marketing-Teams hinzuzufügen.
+Verwalten von Arbeiten als Kanban-Team
+Hinzufügen von Storys zum Kanban-Rückstand
+Es gibt mehrere Möglichkeiten, Storys zum Rückstand des Creative Marketing-Teams hinzuzufügen.
 
-Das Team kann Geschichten direkt aus seinem Rückstand hinzufügen.
-Sie können auch Aufgaben für ein Projekt zugewiesen werden. Wenn dem Creative Marketing-Team Anfragen übermittelt wurden, werden diese Anforderungen im Tab Anforderungen des Teams angezeigt. Diese werden im Backlog des Teams angezeigt, wenn das Team die Anforderung auswählt und in einen Artikel konvertiert.
-
-
-## Verwenden des Kanban-Pinnwänden
-
-Nach der Priorisierung von Geschichten im Rückstand ist es an der Zeit, zum Kanban-Board zu wechseln. Sie können Zuweisungen vornehmen, indem Sie die Avatare der Teammitglieder, die an dieser Geschichte arbeiten, auf die Karte ziehen und dort ablegen.
+Das Team kann Storys direkt aus seinem Rückstand hinzufügen.
+Es kann auch Aufgaben für ein Projekt zugewiesen bekommen. Wenn dem Creative Marketing-Team Anfragen übermittelt wurden, werden diese Anfragen in der Registerkarte „Anfragen des Teams“ angezeigt. Diese werden im Rückstand des Teams angezeigt, wenn das Team die Anfrage auswählt und in eine Story konvertiert.
 
 
-Wenn Fortschritte bei Geschichten erzielt werden, wird das Team sie in den entsprechenden Status auf dem Storyboard versetzen. Team-Mitglieder können die Kanban-Flags verwenden, um anzugeben, ob eine Geschichte auf Track, Blocked oder Ready to Pull ist. Dies teilt anderen Team-Mitgliedern mit, welche Arbeitselemente auf dem Weg sind und ob sie bereit sind, bearbeitet zu werden oder nicht.
+## Verwenden der Kanban-Pinnwand
+
+Nach der Priorisierung von Geschichten im Rückstand ist es an der Zeit, zur Kanban-Pinnwand zu wechseln. Sie können Zuweisungen vornehmen, indem Sie die Avatare der Team-Mitglieder, die an dieser Geschichte arbeiten, auf die Story-Karte ziehen und dort ablegen.
+
+
+Beim Fortschreiten der Storys verschiebt das Team sie in den entsprechenden Status auf dem Storyboard. Team-Mitglieder können die Kanban-Flags verwenden, um anzugeben, ob der Status einer Story „On Track“, „Blocked“ oder „Ready to Pull“ ist. Dies teilt anderen Team-Mitgliedern mit, welche Arbeitselemente auf dem richtigen Weg sind und ob sie bereit sind, bearbeitet zu werden oder nicht.
 
 ![Kanban-Karten](assets/kanban-01.png)
 
-Team-Mitglieder können auch direkt auf dem Storyboard Aktualisierungen an den Karten vornehmen, um Änderungen in Bereichen wie Beschreibung, Status oder Priorität widerzuspiegeln. Dazu klicken sie auf das Dropdown-Menü auf einer Storykarte und bearbeiten sie in das entsprechende Feld [1].
+Team-Mitglieder können auch direkt auf dem Storyboard Aktualisierungen an den Karten vornehmen, um Änderungen in Bereichen wie Beschreibung, Status oder Priorität widerzuspiegeln. Dazu klicken sie auf das Dropdown-Menü auf einer Story-Karte und bearbeiten das entsprechende Feld [1].
 
 ![Status der Kanban-Karte](assets/kanban-02.png)
 
-## Kanban-Story-Ausführung
+## Ausführung einer Kanban-Story
 
-Beachten Sie, dass Sie eine Grenze von fünf Geschichten für laufende Arbeiten verwenden. Wenn Sie sich Ihre Pinnwand ansehen, sehen Sie, dass beim Verschieben von Aufgaben in Statusspalten die Anzahl der Aufgaben in jeder Spur rechts oben in jeder Statusspalte angezeigt wird.
+Beachten Sie, dass Sie eine Beschränkung von fünf Storys für laufende Arbeiten verwenden. Wenn Sie sich Ihre Pinnwand ansehen, sehen Sie, dass beim Verschieben von Aufgaben in Statusspalten die Anzahl der Aufgaben in jeder Spur rechts oben in jeder Statusspalte angezeigt wird.
 
-![Kanban WIP-Beschränkungen](assets/kanban-03.png)
+![Kanban-WIP-Beschränkungen](assets/kanban-03.png)
 
-Wenn Sie die Beschränkung in einer Statusspalte überschreiten, die &quot;Neu&quot;oder &quot;Gestartet&quot;entspricht, wird eine Fehlermeldung angezeigt, die angibt, dass Sie die Grenze für laufende Arbeiten überschritten haben.
+Wenn Sie die Beschränkung in einer Statusspalte überschreiten, die „Neu“ oder „Gestartet“ entspricht, wird eine Fehlermeldung angezeigt, die angibt, dass Sie die Beschränkung für laufende Arbeiten überschritten haben.
 
-![Überschreitete WIP-Beschränkungen](assets/kanban-04.png)
+![Überschreiten der WIP-Beschränkungen](assets/kanban-04.png)
 
-Wenn Ihr Team beschließt, dass es mehr oder weniger Elemente gleichzeitig verarbeiten kann, können Sie (und andere Team-Mitglieder mit Bearbeitungsrechten) die laufende Nummer direkt im Storyboard ändern, indem Sie auf die WIP-Nummer klicken und sie bearbeiten, um Ihre neue Entscheidung widerzuspiegeln.
+Wenn Ihr Team beschließt, dass es mehr oder weniger Elemente gleichzeitig verarbeiten kann, können Sie (und andere Team-Mitglieder mit Bearbeitungsrechten) die laufende Anzahl direkt im Storyboard ändern, indem Sie auf die WIP-Zahl klicken und sie bearbeiten, um Ihre neue Entscheidung widerzuspiegeln.
