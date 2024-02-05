@@ -1,6 +1,6 @@
 ---
-title: Aktualisieren Sie die Planungsinformationen unter [!DNL Scenario Planner]
-description: Erfahren Sie, wie Sie nach der Erstellung eines Plans oder einer Initiative im [!DNL Scenario Planner].
+title: Aktualisieren der Planungsinformationen in  [!DNL Scenario Planner]
+description: Erfahren Sie, wie Sie Aufgabengebiets-, Budget- oder Kosteninformationen ändern oder aktualisieren können, nachdem ein Plan oder eine Initiative im [!DNL Scenario Planner]erstellt wurde.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,18 +12,18 @@ jira: KT-9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Passen Sie Informationen zu Rolle, Budget und Kosten in der [!DNL Scenario Planner]
+# Anpassen von Aufgabengebiets-, Budget- und Kosteninformationen im [!DNL Scenario Planner]
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Hinzufügen oder Entfernen von Stellenrollen zu einem Plan oder einer Initiative
+* Hinzufügen oder Entfernen von Aufgabengebieten zu bzw. von einem Plan oder einer Initiative
 * Budgetinformationen anpassen
-* Anpassen der Kosteninformationen
+* Kosteninformationen anpassen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on)
