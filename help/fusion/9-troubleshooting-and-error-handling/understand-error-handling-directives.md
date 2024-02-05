@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu Richtlinien zur Fehlerbehebung
-description: Erfahren Sie mehr über die Fehler-Handler-Anweisungen, die die Ausführung fortsetzen, und die Anweisungen, die die Ausführung stoppen, in [!DNL Adobe Workfront Fusion].
+title: Grundlegendes zu Fehlerbehandlungsanweisungen
+description: Erfahren Sie mehr über die Fehlerbehandlungsanweisungen, die eine Fortsetzung der Ausführung in [!DNL Adobe Workfront Fusion]ermöglichen, und diejenigen, die die Ausführung anhalten.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,67 +11,67 @@ jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zu Richtlinien zur Fehlerbehebung
+# Grundlegendes zu Fehlerbehandlungsanweisungen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Die drei Fehler-Handler-Anweisungen, die die Ausführung fortsetzen
-* Die beiden Fehler-Handler-Anweisungen, die die Ausführung stoppen
+* Die drei Fehlerbehandlungsanweisungen, die eine Fortsetzung der Ausführung ermöglichen
+* Die beiden Fehlerbehandlungsanweisungen, die die Ausführung anhalten
 
 >[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
 
-## Richtlinien — Szenario läuft weiter
+## Anweisungen − Szenario (Fortsetzung)
 
-### Fortsetzen
+### Wieder aufnehmen
 
-* Eine Ersatzausgabe wird angegeben und an das Modul geliefert, bei dem ein Fehler auftritt.
+* Es wird eine Ersatzausgabe angegeben und an das Modul geliefert, bei dem ein Fehler auftritt.
 * Die nachfolgenden Module werden verarbeitet.
-* Der Ausführungsstatus des Szenarios wird als &quot;Erfolg&quot;markiert.
+* Der Status der Szenarioausführung wird als „erfolgreich“ gekennzeichnet.
 
-![Ein Bild einer Wiederaufnahme-Anweisung](assets/troubleshooting-and-error-handling-2.png)
+![Ein Bild einer Anweisung „Wieder aufnehmen“](assets/troubleshooting-and-error-handling-2.png)
 
-### Break
+### Unterbrechen
 
-* Der Ausführungsstatus des Szenarios wird in der Warteschlange unvollständiger Ausführungen gespeichert, wo der Fehler manuell behoben werden kann. Es gibt jedoch einige Ausnahmen, die hier erwähnt werden.
+* Der Zustand der Szenarioausführung wird in der Warteschlange für unvollständige Ausführungen gespeichert, wo der Fehler manuell behoben werden kann. Es gibt jedoch einige Ausnahmen, die hier genannt werden.
 * Die nachfolgenden Module werden nicht verarbeitet.
-* Wenn es nicht verarbeitete Bundles gibt, wird das Szenario normal ausgeführt.
-* Der Ausführungsstatus des Szenarios wird als &quot;Warnung&quot;markiert.
+* Wenn unbearbeitete Bündel vorhanden sind, wird die Ausführung des Szenarios normal fortgesetzt.
+* Der Ausführungsstatus des Szenarios ist als „Warnung“ gekennzeichnet.
 
-![Ein Bild einer Break-Richtlinie](assets/troubleshooting-and-error-handling-3.png)
+![Ein Bild einer Anweisung „Unterbrechen“](assets/troubleshooting-and-error-handling-3.png)
 
 ### Ignorieren
 
 * Der Fehler wird ignoriert und die nachfolgenden Module werden nicht verarbeitet.
-* Wenn es nicht verarbeitete Bundles gibt, wird das Szenario normal ausgeführt.
-* Der Ausführungsstatus des Szenarios wird als &quot;Erfolg&quot;markiert.
+* Wenn unbearbeitete Bündel vorhanden sind, wird die Ausführung des Szenarios normal fortgesetzt.
+* Der Status der Szenarioausführung wird als „erfolgreich“ gekennzeichnet.
 
-![Bild einer Ignorieren-Richtlinie](assets/troubleshooting-and-error-handling-4.png)
+![Ein Bild einer Anweisung „Ignorieren“](assets/troubleshooting-and-error-handling-4.png)
 
-## Direktiven — Szenario stoppt
+## Anweisungen − Szenario stoppt
 
 ### Rollback
 
-* Die Ausführung des Szenarios wird sofort angehalten und eine Rollback-Phase für alle Module gestartet, um sie auf ihren ursprünglichen Zustand zurückzusetzen.
+* Die Ausführung des Szenarios wird sofort gestoppt, und es wird eine Rollback-Phase für alle Module eingeleitet, um sie in ihren Ausgangszustand zurückzusetzen.
 * Die nachfolgenden Module werden nicht verarbeitet.
-* Außer einigen Fehlertypen wird das Szenario nach der &quot;Anzahl aufeinander folgender Fehler&quot;deaktiviert, die unter den Szenario-Einstellungen angegeben ist.
-* Der Ausführungsstatus des Szenarios wird als &quot;Fehler&quot;markiert.
+* Mit Ausnahme einiger weniger Fehlertypen wird das Szenario nach der in den Szenarioeinstellungen angegebenen „Anzahl aufeinanderfolgender Fehler“ deaktiviert.
+* Der Status der Szenarioausführung ist als „Fehler“ gekennzeichnet.
 
 >[!NOTE]
 >
->Dies ist das Standardverhalten, wenn keine Fehler-Handler-Route an das Modul angehängt ist und die Einstellung &quot;Speichern unvollständiger Ausführungen zulassen&quot;unter den Szenario-Einstellungen nicht aktiviert ist.
+>Dies ist das Standardverhalten, wenn dem Modul keine Fehlerbehandlungsroute zugeordnet ist und die Einstellung „Speichern unvollständiger Ausführungen zulassen“ in den Szenarioeinstellungen nicht aktiviert ist.
 
-![Ein Bild einer Rollback-Richtlinie](assets/troubleshooting-and-error-handling-5.png)
+![Ein Bild einer Rollback-Anweisung](assets/troubleshooting-and-error-handling-5.png)
 
 ### Zusichern
 
 * Der Fehler wird ignoriert und die nachfolgenden Module werden nicht verarbeitet.
-* Wenn es nicht verarbeitete Bundles gibt, wird das Szenario normal ausgeführt.
-* Der Ausführungsstatus des Szenarios wird als &quot;Erfolg&quot;markiert.
+* Wenn unbearbeitete Bündel vorhanden sind, wird die Ausführung des Szenarios normal fortgesetzt.
+* Der Status der Szenarioausführung wird als „erfolgreich“ gekennzeichnet.
 
-![Ein Bild von einer Richtlinie über Verpflichtungen](assets/troubleshooting-and-error-handling-6.png)
+![Ein Bild einer Commit-Anweisung](assets/troubleshooting-and-error-handling-6.png)
