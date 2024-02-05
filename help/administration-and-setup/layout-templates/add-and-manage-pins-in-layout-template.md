@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen und Verwalten von Pins über Layoutvorlagen
-description: Erfahren Sie, was ein Pin ist und wie Sie wichtige oder relevante Seiten für eine Reihe von Benutzern mithilfe von Layoutvorlagen veröffentlichen können.
+title: Hinzufügen und Verwalten von Pins über Layout-Vorlagen
+description: Erfahren Sie, was ein Pin ist und wie Sie mithilfe von Layout-Vorlagen wichtige oder relevante Seiten für eine Gruppe von Benutzenden anheften können.
 feature: System Setup and Administration
 role: Admin
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-19T00:00:00Z
 jira: KT-13069
 thumbnail: 3418382.jpeg
-source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
-workflow-type: tm+mt
+exl-id: 82b41f3c-3b44-4e50-85fd-dbaf31dc1acb
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Hinzufügen und Verwalten von Pins über Layout-Vorlagen
 
-# Hinzufügen und Verwalten von Pins über Layoutvorlagen
-
-Erfahren Sie, was ein Pin ist und wie Sie wichtige oder relevante Seiten für eine Reihe von Benutzern mithilfe von Layoutvorlagen veröffentlichen können.
+Erfahren Sie, was ein Pin ist und wie Sie mithilfe von Layout-Vorlagen wichtige oder relevante Seiten für eine Gruppe von Benutzenden anheften können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on)
