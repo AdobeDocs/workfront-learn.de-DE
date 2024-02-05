@@ -1,6 +1,6 @@
 ---
-title: Anforderungswarteschlange erstellen
-description: Erfahren Sie, wie Sie eine Anforderungswarteschlange einrichten und Warteschlangendetails erstellen in [!DNL  Workfront]. Führen Sie diese Schritte aus, um Ihre Organisation bei der Verwaltung der Arbeitserfassung zu unterstützen.
+title: Erstellen einer Anfrage-Warteschlange
+description: Erfahren Sie, wie Sie in [!DNL  Workfront]eine Anfrage-Warteschlange einrichten und Details zur Warteschlange festlegen. Befolgen Sie diese Schritte, um Ihre Organisation bei der Verwaltung der Arbeitsaufnahme zu unterstützen.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -12,32 +12,32 @@ jira: KT-8958
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
 source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anforderungswarteschlange erstellen
+# Erstellen einer Anfrage-Warteschlange
 
 In diesem Video lernen Sie Folgendes:
 
-* Erstellen einer Anforderungswarteschlange durch Erstellen eines Projekts
-* Einrichten der Details der Anforderungswarteschlange
-* Warteschlange live stellen
+* Erstellen einer Anfrage-Warteschlange, indem zunächst ein Projekt angelegt wird
+* Einrichten der Details der Anfrage-Warteschlange
+* Live-Schalten der Warteschlange
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
-## Ihre Wendung
+## Sie sind dran
 
-Lassen Sie uns kurz die Informationen überprüfen, die Ihnen gerade präsentiert wurden.
+Nehmen wir uns eine Minute Zeit, um die Informationen, die Sie gerade erhalten haben, noch einmal durchzugehen.
 
-**Frage:** Welche der folgenden Elemente muss vorhanden sein, damit eine Anforderungswarteschlange live geschaltet werden kann? (alle zutreffenden Optionen auswählen)
+**Frage:** Welche der folgenden Punkte müssen erfüllt sein, damit eine Anfrage-Warteschlange in Betrieb genommen werden kann? (bitte alles Zutreffende auswählen)
 
 1. Projektstatus = Aktuell
-1. &quot;Problem&quot;aus dem Anfragetyp ausgewählt ist
-1. &quot;Als Warteschlange für Hilfeanfragen veröffentlichen&quot;ist ausgewählt
-1. Projektstatus = Aktueller Status oder Planung
+1. Als Anfragetyp ist „Problem“ ausgewählt
+1. „Als Hilfeanfrage-Warteschlange veröffentlichen“ ist ausgewählt
+1. Projektstatus = Aktuell oder Planung
 
-**Antwort:** 1) Projektstatus = Aktuell und 3) &quot;Als Warteschlange für Hilfeanfragen veröffentlichen&quot;ist ausgewählt
+**Antwort:** 1) Projektstatus = Aktuell und 3) „Als Hilfeanfrage-Warteschlange veröffentlichen“ ist ausgewählt
 
