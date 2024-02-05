@@ -1,6 +1,6 @@
 ---
-title: Auf frühere Versionen zugreifen
-description: Erfahren Sie, wie Sie zu einer früheren Version eines Szenarios zurückkehren. (Sollte zwischen 60 und 160 Zeichen lang sein, jedoch 56 Zeichen lang sein)
+title: Zugreifen auf frühere Versionen
+description: Erfahren Sie, wie Sie zu einer früheren Version eines Szenarios zurückkehren können. (Sollte zwischen 60 und 160 Zeichen lang sein, ist jedoch nur 56 Zeichen lang)
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,37 +11,37 @@ jira: KT-11041
 thumbnail: KT1101.png
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Auf frühere Versionen zugreifen
+# Zugreifen auf frühere Versionen
 
-Erfahren Sie, wie Sie zu einer früheren Version eines Szenarios zurückkehren.
+Erfahren Sie, wie Sie zu einer früheren Version eines Szenarios zurückkehren können.
 
 ## Übungsübersicht
 
 Erfahren Sie, wie Sie frühere Versionen wiederherstellen können, nachdem Sie Änderungen an einem Szenario vorgenommen und es mehrmals gespeichert haben.
 
-![Auf frühere Versionen zugreifen Bild 1](../12-exercises/assets/accessing-previous-versions-walkthrough-1.png)
+![Zugreifen auf frühere Versionen – Bild 1](../12-exercises/assets/accessing-previous-versions-walkthrough-1.png)
 
-## Schritte, die ausgeführt werden müssen
+## Zu befolgende Schritte
 
-1. Klonen Sie das Szenario Verwenden des mächtigen Filters und nennen Sie es &quot;Zugriff auf frühere Versionen&quot;.
-1. Fügen Sie nach dem Modul Workfront-Projekte erstellen ein Set-Variablenmodul hinzu. Nennen Sie die Variable &quot;Test&quot;.
+1. Klonen Sie Ihr Szenario „Verwendung des mächtigen Filters“ und nennen Sie es „Zugreifen auf frühere Versionen“.
+1. Fügen Sie ein Modul „Variable festlegen“ nach dem Modul „Workfront-Projekte erstellen“ hinzu. Benennen Sie die Variable „Test“.
 1. Ziehen Sie es an eine neue Position und speichern Sie das Szenario.
 
-   ![Auf frühere Versionen zugreifen Bild 2](../12-exercises/assets/accessing-previous-versions-walkthrough-2.png)
+   ![Zugreifen auf frühere Versionen – Bild 2](../12-exercises/assets/accessing-previous-versions-walkthrough-2.png)
 
-1. Fügen Sie ein Repeater-Modul hinzu, heben Sie die Verknüpfung mit dem vorherigen Modul auf und speichern Sie das Szenario erneut.
+1. Fügen Sie ein Repeater-Modul hinzu, trennen Sie es vom vorherigen Modul und speichern Sie das Szenario erneut.
 
-   ![Auf frühere Versionen zugreifen Bild 3](../12-exercises/assets/accessing-previous-versions-walkthrough-3.png)
+   ![Zugreifen auf frühere Versionen – Bild 3](../12-exercises/assets/accessing-previous-versions-walkthrough-3.png)
 
-1. Löschen Sie nun alle Module und speichern Sie.
-1. Klicken Sie in der Symbolleiste auf das Menü mit drei Punkten und dann auf die Option Vorherige Versionen . Die Auswahlliste zeigt die Datums- und Uhrzeitstempel für jede gespeicherte Version an.
+1. Löschen Sie nun alle Ihre Module und speichern Sie.
+1. Klicken Sie in der Symbolleiste auf das Drei-Punkte-Menü und dann auf die Option „Frühere Versionen“. Die Auswahlliste zeigt die Datums- und Uhrzeitstempel für jede gespeicherte Version an.
 
-   ![Zugriff auf frühere Versionen Bild 4](../12-exercises/assets/accessing-previous-versions-walkthrough-4.png)
+   ![Zugreifen auf frühere Versionen – Bild 4](../12-exercises/assets/accessing-previous-versions-walkthrough-4.png)
 
-1. Wählen Sie eine frühere Version aus und beachten Sie, wie das Szenario im Designer an den Speicherort zurückkehrt.
+1. Wählen Sie eine frühere Version und beobachten Sie, wie das Szenario im Designer an die Stelle zurückkehrt, an der Sie gespeichert haben.
