@@ -10,47 +10,47 @@ hide: true
 hidefromtoc: true
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Was ist die Kanban-Methode und wie funktioniert sie?
 
-Im Gegensatz zu anderen agilen Methoden, die sich auf einen zyklischen Prozess konzentrieren, konzentriert sich die Kanban-Methode auf einen optimierten Workflow. Kanban versucht, den Arbeitsfluss zu verbessern, indem es die Arbeit visualisiert, indem ein Kanban-Board verwendet, eine Grenze für die Menge der Arbeit, die in Gang sein kann, festlegt und den Fluss analysiert, um kontinuierliche Verbesserungen zu erzielen.
+Im Gegensatz zu anderen agilen Methoden, die sich auf einen zyklischen Prozess konzentrieren, ist die Kanban-Methode auf einen optimierten Arbeitsablauf ausgerichtet. Kanban zielt darauf ab, den Arbeitsfluss zu verbessern, indem die Arbeit mithilfe einer Kanban-Tafel visualisiert, ein Grenzwert für das durchführbare Arbeitsvolumen festgelegt und der Fluss analysiert wird, um kontinuierliche Verbesserungen vorzunehmen.
 
 
 Sehen wir uns einige der Schlüsselelemente von Kanban an.
 
 
 
-## Wichtigste Player
+## Die wichtigsten Beteiligten
 
-Die Schlüsselspieler in einem Kanban-Team ähneln denen in einem Scrum-Team, allerdings ist kein Scrum Übergeordnet. Es kann dennoch sinnvoll sein, dass jemand als Projektmanager oder Verantwortlicher fungiert, aber theoretisch sollte diese Rolle natürlich auftreten, wenn es notwendig wird.
+Die wichtigsten Beteiligten in einem Kanban-Team sind denen in einem Scrum-Team ähnlich, nur dass niemand es leitet. Es kann immer noch sinnvoll sein, dass jemand das Projekt leitet oder beaufsichtigt, aber theoretisch sollte diese Rolle bei Bedarf ganz natürlich entstehen.
 
-## Visualisierung: Kanban-Board
+## Visualisierung: Kanban-Tafel
 
-Es gibt viele Möglichkeiten, Ihr Kanban-Board zu formatieren. Teams arbeiten von einer Pinnwand, die über eine beliebige Anzahl von Spalten verfügen kann. Jede Spalte stellt den Status der durchgeführten Arbeit dar.
+Es gibt viele Möglichkeiten, Ihre Kanban-Tafel zu gestalten. Die Teams arbeiten mit einer Tafel mit einer beliebigen Anzahl von Spalten. Jede Spalte stellt den Status der durchgeführten Arbeit dar.
 
-Im vereinfachtesten Gremium könnte die erste Spalte &quot;zu tun&quot;lauten, die zweite &quot;Gestartet&quot;und die dritte &quot;vollständig&quot;.
+Im einfachsten Fall könnte die erste Spalte „zu tun“, die zweite „in Arbeit“ und die dritte „abgeschlossen“ heißen.
 
-![Blackboard und Haftnotizen](assets/agile4-01.png)
+![Wandtafel und Haftnotizen](assets/agile4-01.png)
 
-Viele Unternehmen verfügen über eine eigene Terminologie für die Spaltennamen, oder sie können sogar jeden Schritt in einem Prozess auflisten, doch der Zweck ist derselbe. Teammitglieder verschieben ihre Geschichten von Spalte zu Spalte, je nachdem, in welchem Zustand sich die Arbeit befindet.
+Viele Unternehmen haben ihre eigenen Begriffe für die Spaltennamen oder listen sogar jeden einzelnen Prozessschritt auf, aber die Absicht ist dieselbe. Die Team-Mitglieder verschieben ihre Storys von Spalte zu Spalte, je nachdem, in welchem Zustand sich die Arbeit befindet.
 
-![Blackboard und Haftnotizen](assets/agile4-02.png)
+![Wandtafel und Haftnotizen](assets/agile4-02.png)
 
 ## Priorisierung
 
-Team-Mitglieder arbeiten mit einem Produkt-Manager oder Projekt-Manager zusammen, um sicherzustellen, dass die Meldungen im Rückstand und andere Statusspalten priorisiert werden und dass die Arbeit weiter in Richtung Fertigstellung geht. Der Produktmanager ist weiterhin dafür verantwortlich, dass die Stimme des Kunden gehört und das Produkt in die richtige Richtung bewegt wird.
+Die Team-Mitglieder arbeiten mit einer Person zusammen, die Produkte oder Projekte verwaltet, um sicherzustellen, dass die Storys im Rückstand und in anderen Statusspalten priorisiert werden und die Arbeit weiter auf die Fertigstellung zusteuert. Die Produkt-Managerin bzw. der Produkt-Manager ist nach wie vor dafür verantwortlich, dass die Stimme der Kundschaft gehört wird und sich das Produkt in die richtige Richtung entwickelt.
 
-![Kanban Whiteboard](assets/agile4-03.png)
+![Kanban-Whiteboard](assets/agile4-03.png)
 
-## Beschränken der Arbeit im Prozess
+## Begrenzung laufender Arbeiten
 
-Ein einzigartiger Aspekt von Kanban ist, dass Teams ihre Kapazität für die Anzahl der Geschichten, die sie zu jeder Zeit verarbeiten können, begrenzt. Teams wählen eine bestimmte Anzahl von Geschichten aus, die sie in ihren Spalten &quot;zu tun&quot; und &quot;In Bearbeitung&quot; haben wollen, und sie gehen nicht über diese Anzahl, um einen Burnout zu verhindern. Sobald eine Geschichte auf &quot;abgeschlossen&quot;verschoben wurde, wird eine Meldung aus dem Rückstand in der Spalte &quot;zu erledigen&quot;platziert.
+Ein einzigartiger Aspekt von Kanban ist, dass die Teams eine Kapazitätsgrenze für die Anzahl der Storys haben, die sie zu einem bestimmten Zeitpunkt bearbeiten können. Die Teams wählen eine bestimmte Anzahl von Storys aus, die sie in ihren Spalten „zu erledigen“ und „in Arbeit“ haben wollen, und überschreiten diese Zahl nicht, um einen Burnout zu vermeiden. Sobald eine Story auf „abgeschlossen“ gesetzt wird, nimmt eine Story aus dem Rückstand ihren Platz in der Spalte „zu erledigen“ ein.
 
 ## Kontinuierliche Verbesserung
 
-Kanban ermöglicht eine kontinuierliche Verbesserung durch ein System für Teams zur Messung ihrer Effektivität. Sie können deutlich sehen, wie ihre Arbeitsabläufe ablaufen, wie lange jeder Workflow dauert und wie oft sie ihre Ergebnisse pünktlich zur Verfügung stellen. Dies erleichtert das Experimentieren mit verschiedenen Methoden zur Optimierung der Ausgabe.
+Kanban ermöglicht eine kontinuierliche Verbesserung, indem es den Teams ein System zur Messung ihrer Effektivität bietet. So können sie klar erkennen, wie ihre Arbeitsabläufe funktionieren, wie viel Zeit jeder Teil des Arbeitsablaufs in Anspruch nimmt und wie oft sie ihre Arbeitsergebnisse pünktlich fertigstellen können. Dies erleichtert das Experimentieren mit verschiedenen Methoden zur Ergebnisoptimierung.
