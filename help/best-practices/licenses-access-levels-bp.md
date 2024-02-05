@@ -1,72 +1,72 @@
 ---
-title: Best Practice - Lizenzen und Zugriffsstufen
-description: Erfahren Sie mehr über Best Practices von Adobe Workfront-Experten für die Einrichtung, Verwaltung und Verwendung von Workfront-Lizenzen und -Zugriffsebenen.
+title: Best Practice – Lizenzen und Zugriffsebenen
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Workfront-Lizenzen und Zugriffsebenen empfehlen.
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10914
 exl-id: 6be3fab9-16a1-4ab9-89ce-8c53f8358e62
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1253'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Lizenzen und Zugriffsstufen
+# Best Practice – Lizenzen und Zugriffsebenen
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
-
-</br>
-</br>
-
-## Best Practices für Lizenzen und Zugriffsstufen
-
-* Beginnen Sie mit geringerem Zugriff für Benutzer beim Einrichten von Zugriffsebenen.
-
-* Beim Zuweisen von Review- und Anforderungslizenzen wird in der Regel standardmäßig &quot;Überprüfen&quot;verwendet, da der Benutzer mehr Berechtigungen in Adobe Workfront erhält.
-
-* Deaktivieren Sie das Kontrollkästchen &quot;Systemweit freigeben&quot;für jedes Objekt in allen Zugriffsebenen, es sei denn, Sie möchten ausdrücklich, dass diese Benutzer dazu in der Lage sein sollen.
-
-* Erwägen Sie die Aktivierung der Einstellung &quot;Benutzer dürfen Kommentare nie löschen&quot;unter Festlegen zusätzlicher Einschränkungen auf einer Zugriffsebene.
-
-* Beschränken Sie die Anzahl der Systemadministratoren zugunsten von Gruppenadministratoren.
-
-* Kopieren Sie eine vorhandene Zugriffsebene und nehmen Sie Änderungen vor, anstatt eine neue Zugriffsebene von Grund auf neu zu erstellen.
-
-* Dokumentieren Sie im Feld &quot;Beschreibung&quot;die Möglichkeiten jeder Zugriffsebene.
-
-* Beschränken Sie sich auf die Zugriffsebenen, die zur Erreichung Ihrer Arbeitsziele erforderlich sind, idealerweise vier oder fünf, die die Anforderungen der meisten Benutzer im System erfassen.
-
-* Weisen Sie mindestens zwei Benutzern die Zugriffsstufe des globalen Systemadministrators zu.
-
-* Beschränken Sie, was Benutzer mit Workfront-Elementen tun können, indem Sie sie freigeben, anstatt eine Funktion auf einer Zugriffsebene zu entfernen.
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
+## Best Practices für Lizenzen und Zugriffsebenen
 
-## Warum sind diese Best Practices?
+* Beginnen Sie bei der Einrichtung von Zugriffsebenen mit weniger Zugriffsrechten für die Benutzenden.
+
+* Bei der Zuweisung von Prüf- und Anfragelizenzen wird in der Regel der Standardwert „Überprüfung“ verwendet, da Benutzende dadurch mehr Berechtigungen in Adobe Workfront erhalten.
+
+* Deaktivieren Sie das Kontrollkästchen „systemweite Freigabe“ bei jedem Objekt in allen Zugriffsebenen, es sei denn, Sie möchten ausdrücklich, dass diese Benutzenden sie erhalten.
+
+* Ziehen Sie in Erwägung, die Einstellung „Niemals zulassen, dass Benutzer Kommentare löschen“ unter „Zusätzliche Einschränkungen in einer Zugriffsebene festlegen“ zu aktivieren.
+
+* Begrenzen Sie die Anzahl der Systemadmins zugunsten von Gruppenadmins.
+
+* Kopieren Sie lieber eine vorhandene Zugriffsebene und nehmen Sie Änderungen vor, anstatt eine neue Zugriffsebene von Grund auf neu zu erstellen.
+
+* Dokumentieren Sie im Feld „Beschreibung“, was jede Zugriffsebene tun darf.
+
+* Beschränken Sie sich auf die Zugriffsebenen, die zum Erreichen Ihrer Arbeitsziele notwendig sind, idealerweise vier oder fünf, die die Bedürfnisse der meisten Benutzenden im System abdecken.
+
+* Weisen Sie mindestens zwei Personen die Zugriffsebene „globale Systemadmins“ zu.
+
+* Schränken Sie ein, was Benutzende mit Workfront-Elementen durch Freigabe tun können, anstatt eine Fähigkeit in einer Zugriffsebene zu entfernen.
+
+</br>
+</br>
+
+
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Beginnen Sie mit geringerem Zugriff für Benutzer beim Einrichten von Zugriffsebenen.
+Beginnen Sie bei der Einrichtung von Zugriffsebenen mit weniger Zugriffsrechten für die Benutzenden.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Beginnen Sie Benutzer mit dem minimalen Zugriff, den sie für ihre Arbeit benötigen. Wenn sie ihre Arbeit aufgrund unzureichender Zugriffsberechtigungen nicht ausführen können, fordern sie normalerweise zusätzlichen Zugriff an. Wird Benutzern sofort zu viel Zugriff gewährt, kann dies zu Sicherheitsproblemen führen. Außerdem ist es immer besser, Benutzern mehr Zugriff zu gewähren, als den Zugriff zu nehmen.
+Geben Sie Benutzenden zuerst nur den Mindestzugang, den sie für ihre Arbeit benötigen. Wenn sie ihre Arbeit aufgrund unzureichender Zugriffsrechte nicht erledigen können, beantragen sie dann in der Regel zusätzlichen Zugriff. Wenn Sie den Benutzenden sofort zu viel Zugriff gewähren, kann dies zu Sicherheitsproblemen führen. Außerdem ist es immer besser, den Benutzenden nachträglich mehr Zugriff zu gewähren, als ihnen einen Zugriff zu entziehen.
 
 </br>
 </br>
@@ -75,130 +75,130 @@ Beginnen Sie Benutzer mit dem minimalen Zugriff, den sie für ihre Arbeit benöt
 
 **Best Practice**
 
-Beim Zuweisen von Review- und Anforderungslizenzen wird in der Regel standardmäßig &quot;Überprüfen&quot;verwendet, da der Benutzer mehr Berechtigungen in Adobe Workfront erhält.
+Bei der Zuweisung von Prüf- und Anfragelizenzen wird in der Regel der Standardwert „Überprüfung“ verwendet, da Benutzende dadurch mehr Berechtigungen in Adobe Workfront erhalten.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Obwohl die Lizenzen für Review und Request einer unbegrenzten Anzahl von Benutzern in Workfront zugewiesen werden können, beschränken sich die Lizenzen für Anfragen auf das bloße Erstellen und Aktualisieren von Anforderungen. Eine Überprüfungslizenz hat mehr Zugriff auf Projekte und Aufgaben als eine Anforderungslizenz. Sie bietet außerdem die Möglichkeit, Portfolios und Programme anzuzeigen, Dokumente zu bearbeiten und auf Tools zur Ressourcenverwaltung zuzugreifen.
-
-</br>
-</br>
-
-**Best Practice**
-
-Deaktivieren Sie das Kontrollkästchen &quot;Systemweit freigeben&quot;für jedes Objekt in allen Zugriffsebenen, es sei denn, es gibt einen bestimmten Grund, warum Benutzer systemweit freigeben können müssen.
-
-
-
-**Deshalb**
-
-Die systemweite Freigabe eines Objekts wird häufig als Krücken verwendet, um bestimmten Benutzern die Anzeige von Elementen in Workfront zu ermöglichen. Dies geschieht, wenn die Workfront-Gruppenstruktur fehlt oder die Freigabeberechtigungen nicht vollständig verstanden wurden. Wenn Elemente systemweit freigegeben werden, bedeutet dies, dass jeder das freigegebene Element sehen kann. Je nach Art der im System gespeicherten Informationen kann dies zu Datenschutzproblemen führen.
-
-
-
-Beispielsweise können Sie mit mehreren Anbietern in Workfront zusammenarbeiten, um den Fortschritt zu überprüfen, Genehmigungen bereitzustellen usw. Wenn das Kontrollkästchen &quot;Systemweit freigeben&quot;eine Option ist, die als Standard ausgewählt oder festgelegt werden kann, sodass Informationen allen Anbietern zur Verfügung stehen.
-
-
-
-Indem Sie die Option ganz deaktivieren, müssen Benutzer, die die Berechtigung zum Freigeben besitzen, die bestimmte(n) Person(en) bestimmen - entweder über ein Unternehmen, eine Gruppe oder ein Team -, für die/das sie das Objekt freigeben möchten.
+Obwohl sowohl Überprüfungs- als auch Anfragelizenzen einer unbegrenzten Anzahl von Benutzenden in Workfront zugewiesen werden können, sind die Anfragelizenzen im Wesentlichen auf das Erstellen und Aktualisieren von Anfragen beschränkt. Eine Überprüfungslizenz bietet mehr Zugriff auf Projekte und Aufgaben als eine Anfragelizenz sowie die Möglichkeit, Portfolios und Programme einzusehen, Dokumente zu bearbeiten und auf Ressourcen-Management-Tools zuzugreifen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Erwägen Sie die Aktivierung der Einstellung &quot;Benutzer dürfen Kommentare nie löschen&quot;unter Festlegen zusätzlicher Einschränkungen auf einer Zugriffsebene.
+Deaktivieren Sie das Kontrollkästchen „systemweite Freigabe“ für jedes Objekt in allen Zugriffsebenen, es sei denn, es gibt einen bestimmten Grund, warum Benutzende die Möglichkeit haben müssen, etwas systemweit freizugeben.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Durch Aktivierung dieser Option wird sichergestellt, dass vergangene Nachrichten nicht aus Workfront entfernt werden. Einige Organisationen verlangen, dass der vollständige Kommentar-Verlauf zu Prüfungszwecken beibehalten wird.
-
-</br>
-</br>
-
-**Best Practice**
-
-Beschränken Sie die Anzahl der Systemadministratoren zugunsten von Gruppenadministratoren.
+Die systemweite Freigabe eines Objekts wird oft als Krücke verwendet, um bestimmten Benutzenden zu ermöglichen, Elemente in Workfront zu sehen. Dies geschieht, wenn die Workfront-Gruppenstruktur fehlt oder wenn die Freigabeberechtigungen nicht vollständig verstanden werden. Wenn Elemente systemweit freigegeben werden, bedeutet dies, dass alle das freigegebene Element sehen können. Je nach Art der im System gespeicherten Informationen kann dies zu Datenschutzproblemen führen.
 
 
 
-**Deshalb**
-
-Systemadministratoren haben Zugriff auf alles in Workfront, einschließlich globaler Systemeinstellungen. Die für Administratoren der Einstellungsgruppe verfügbaren Administratoren werden vom Systemadministrator kontrolliert und gelten nur für diese spezifische Gruppe.
+So kann es beispielsweise sein, dass Sie mit mehreren Anbietern innerhalb von Workfront zusammenarbeiten, um den Fortschritt zu überprüfen, Genehmigungen zu erteilen usw. Wenn das Kontrollkästchen „Systemweit freigeben“ eine Option ist, könnte diese ausgewählt oder gar als Standard festgelegt werden, sodass die Informationen für alle Lieferanten verfügbar wären.
 
 
 
-Mit Gruppenadministratoren können Systemadministratoren viele Aufgaben delegieren, sodass sie sich auf größere Bildelemente konzentrieren können, anstatt sich auf die tägliche Wartung von Workfront zu konzentrieren. Gruppenadministratoren können einfacher mit den Anforderungen ihrer Gruppen in Kontakt bleiben, was den Benutzern einen besseren Service bietet.
-
-</br>
-</br>
-
-
-**Best Practice**
-
-Kopieren Sie eine vorhandene Zugriffsebene und nehmen Sie Änderungen vor, anstatt eine neue Zugriffsebene von Grund auf neu zu erstellen.
-
-
-
-**Deshalb**
-
-Das Kopieren einer vorhandenen Zugriffsebene bietet eine konsistente Grundlage für neue Zugriffsebenen, um sicherzustellen, dass die anfänglichen Einstellungen identisch sind. Dies spart auch Zeit, da Systemadministratoren keine völlig neue Zugriffsebene einrichten müssen.
+Wenn Sie die Option komplett deaktivieren, müssen Benutzende mit der Berechtigung zur Freigabe die Person(en) bestimmen, für die sie das Objekt freigeben möchten – entweder über ein Unternehmen, eine Gruppe oder ein Team.
 
 </br>
 </br>
 
 **Best Practice**
 
-Dokumentieren Sie im Feld &quot;Beschreibung&quot;die Möglichkeiten jeder Zugriffsebene.
+Ziehen Sie in Erwägung, die Einstellung „Niemals zulassen, dass Benutzer Kommentare löschen“ unter „Zusätzliche Einschränkungen in einer Zugriffsebene festlegen“ zu aktivieren.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Machen Sie sich mit der Beschreibung und den Einstellungen für jeden Objekttyp vertraut. Dies hilft Systemadministratoren - aktuell und zukünftig - genau zu wissen, was jede Zugriffsebene tut, ohne sich in die Zugriffsebene selbst eintauchen zu müssen, um die Einstellungen zu überprüfen.
-
-
-
-Dies kann auch den Vergleich von Zugriffsebenen erleichtern, wenn sie in einem Bericht betrachtet werden. Das Beschreibungsfeld kann der Ansicht schnell hinzugefügt werden, um schnell zu sehen, wie sie sich unterscheiden und möglicherweise warum eine andere Zugriffsebene erstellt wurde.
+Durch die Aktivierung dieser Option wird sichergestellt, dass frühere Mitteilungen nicht aus Workfront entfernt werden. Einige Organisationen verlangen, dass der vollständige Kommentarverlauf zu Prüfzwecken aufbewahrt wird.
 
 </br>
 </br>
 
 **Best Practice**
 
-Beschränken Sie sich auf die Zugriffsebenen, die zur Erreichung Ihrer Arbeitsziele erforderlich sind, idealerweise vier oder fünf, die die Anforderungen der meisten Benutzer im System erfassen.
+Begrenzen Sie die Anzahl der Systemadmins zugunsten von Gruppenadmins.
 
 
-**Deshalb**
 
-Die Zugriffsebene stellt sicher, dass Benutzer, die ein Workfront-Objekt für einen Benutzer freigeben, über die erforderlichen Berechtigungen zum Bearbeiten, Löschen usw. verfügen. Sie können die Zugriffsebenen allgemeiner gestalten, da die Freigabe für einzelne Elemente so konfiguriert werden kann, dass sie spezifischer sind.
+**Das sind die Gründe**
+
+Systemadmins haben Zugriff auf alles in Workfront, einschließlich der globalen Systemeinstellungen. Die Einstellungen, auf die Gruppenadmins zugreifen können, werden von Systemadmins gesteuert und gelten nur für diese spezielle Gruppe.
 
 
-Darüber hinaus kann es durch weniger Zugangsstufen einfacher werden, ein übersichtliches System zu erhalten und eine Strategie zu implementieren, die auch zu einem schnelleren Onboarding führen kann, wenn Personen in den Unternehmens- oder Abteilungen wechseln.
+
+Gruppenadmins ermöglichen es den Systemadmins, viele Aufgaben zu delegieren, sodass sie sich auf übergeordnete Themen konzentrieren können, anstatt sich um die tägliche Pflege von Workfront zu kümmern. Gruppenadmins können leichter mit den Bedürfnissen ihrer Gruppen in Kontakt bleiben, was einen besseren Service für die Benutzenden bedeutet.
+
+</br>
+</br>
+
+
+**Best Practice**
+
+Kopieren Sie lieber eine vorhandene Zugriffsebene und nehmen Sie Änderungen vor, anstatt eine neue Zugriffsebene von Grund auf neu zu erstellen.
+
+
+
+**Das sind die Gründe**
+
+Das Kopieren einer bestehenden Zugriffsebene bietet eine konsistente Grundlage für neue Zugriffsebenen und stellt sicher, dass die Anfangseinstellungen identisch sind. Dies bietet auch eine Zeitersparnis, da die Systemadmins eine Zugriffsebene nicht von Grund auf neu einrichten müssen.
 
 </br>
 </br>
 
 **Best Practice**
 
-Weisen Sie mindestens zwei Benutzern die Zugriffsstufe des globalen Systemadministrators zu.
+Dokumentieren Sie im Feld „Beschreibung“, was jede Zugriffsebene tun darf.
 
-**Deshalb**
 
-Mehr als eine Person sollte verstehen, warum die Workfront so konfiguriert wurde, wie sie war, wie sie sie verwaltet/verwaltet und wie sie Benutzer unterstützt. Wenn eine Person nicht im Büro ist, die Organisation verlässt, beschäftigt ist usw., stellt dies sicher, dass eine andere Person über die Informationen und das Wissen verfügt, um das System erfolgreich zu verwalten.
+
+**Das sind die Gründe**
+
+Geben Sie eine detaillierte Beschreibung ab, in der Sie die Einstellungen für jeden Objekttyp auflisten. Dies hilft Systemadmins – gegenwärtigen und zukünftigen – genau zu wissen, was die einzelnen Zugriffsebenen bewirken, ohne dass sie in die Zugriffsebene selbst eintauchen müssen, um die Einstellungen zu überprüfen.
+
+
+
+Dies kann auch das Vergleichen der Zugriffsebenen erleichtern, wenn sie in einem Bericht angezeigt werden. Das Beschreibungsfeld kann schnell zur Ansicht hinzugefügt werden, um schnell zu sehen, wie sie sich unterscheiden und möglicherweise auch, warum eine andere Zugriffsebene erstellt wurde.
 
 </br>
 </br>
 
 **Best Practice**
 
-Beschränken Sie, was Benutzer mit Workfront-Elementen tun können, indem Sie sie freigeben, anstatt eine Funktion auf einer Zugriffsebene zu entfernen.
+Beschränken Sie sich auf die Zugriffsebenen, die zum Erreichen Ihrer Arbeitsziele notwendig sind, idealerweise vier oder fünf, die die Bedürfnisse der meisten Benutzenden im System abdecken.
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Die Zugriffsebenen steuern, was Benutzer mit bestimmten Elementen auf globaler Ebene tun können. Die Freigabeberechtigungen für jedes Projekt, jede Aufgabe, jedes Portfolio, jedes Dokument usw. steuern, was ein einzelner Benutzer mit diesem bestimmten Element tun kann. Anstatt eine Funktion für alle Benutzer mit einer bestimmten Zugriffsstufe zu entfernen, passen Sie die Freigabeberechtigungen für bestimmte Elemente an, damit Benutzer über eingeschränkte Steuerelemente verfügen.
+Die Zugriffsebene stellt sicher, dass bei Freigabe eines Workfront-Objekts an Benutzende diese die erforderlichen Rechte zum Bearbeiten, Löschen usw. haben. Sie können die Zugriffsebenen allgemeiner gestalten, da die Freigabe für einzelne Elemente spezifischer konfiguriert werden kann.
+
+
+Darüber hinaus können weniger Zugriffsebenen die Pflege eines übersichtlichen Systems und die Umsetzung einer Strategie erleichtern, was auch zu einem schnelleren Onboarding führen kann, wenn Mitarbeitende zum Unternehmen stoßen oder die Abteilung wechseln.
+
+</br>
+</br>
+
+**Best Practice**
+
+Weisen Sie mindestens zwei Personen die Zugriffsebene „globale Systemadmins“ zu.
+
+**Das sind die Gründe**
+
+Mehr als eine Person sollte verstehen, warum Workfront so konfiguriert wurde, wie es konfiguriert wurde, wie man es verwaltet und pflegt und wie man die Benutzenden unterstützt. Wenn eine Person abwesend ist, die Organisation verlässt, gerade beschäftigt ist usw., ist dadurch sichergestellt, dass eine andere Person über die Informationen und Kenntnisse verfügt, um das System erfolgreich zu verwalten.
+
+</br>
+</br>
+
+**Best Practice**
+
+Schränken Sie ein, was Benutzende mit Workfront-Elementen durch Freigabe tun können, anstatt eine Fähigkeit in einer Zugriffsebene zu entfernen.
+
+
+**Das sind die Gründe**
+
+Zugriffsebenen steuern, was Benutzende allgemein mit bestimmten Elementen tun können. Die Freigabeberechtigungen für jedes Projekt, jede Aufgabe, jedes Portfolio, jedes Dokument usw. steuern, was Einzelpersonen mit diesem spezifischen Element tun können. Anstatt eine Funktion für alle Benutzenden mit einer bestimmten Zugriffsebene zu entfernen, sollten Sie die Freigabeberechtigungen für bestimmte Objekte so anpassen, dass die Benutzenden nur eine begrenzte Kontrolle haben.
