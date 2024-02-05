@@ -1,6 +1,6 @@
 ---
-title: Über die grundlegende Mapping-Anleitung hinaus
-description: Ändern Sie einige Projektfelder in dem Szenario, das Sie zuvor mithilfe der Zuordnungsfeldformeln in erstellt haben. [!DNL Adobe Workfront Fusion].
+title: Mehr als nur die Grundlagen der Zuordnung – Anleitung
+description: Ändern Sie einige Projektfelder in dem Szenario, das Sie zuvor mit den Formeln im Zuordnungsfenster in [!DNL Adobe Workfront Fusion]erstellt haben.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Über die grundlegende Mapping-Anleitung hinaus
+# Mehr als nur die Grundlagen der Zuordnung – Anleitung
 
-Ändern Sie den Projektnamen, das geplante Startdatum und die Priorität vom &quot;anfänglichen Szenario-Design&quot;, das Sie in der ersten exemplarischen Vorgehensweise mithilfe der Formeln des Zuordnungsbedienfelds erstellt haben.
+Ändern Sie den Projektnamen, das geplante Startdatum und die Priorität aus dem „ursprünglichen Szenarioentwurf“, den Sie im ersten Durchlauf mithilfe der Formeln im Zuordnungsfenster erstellt haben.
 
 ![Ein Bild des Fusion-Szenarios](assets/understand-the-basics-1.png)
 
-## Über die grundlegende Mapping-Anleitung hinaus
+## Mehr als nur die Grundlagen der Zuordnung – Anleitung
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -31,28 +31,28 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Über die grundlegende Mapping-Anleitung hinaus](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Über die grundlegende Zuordnung hinaus – Anleitung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=de).
 
-## Ihre Wendung
+## Sie sind dran
 
 >[!NOTE]
 >
->Übungen und Herausforderungen sind optional und nicht erforderlich, um eine Fusion-Schulung abzuschließen.
+>Die Übungen und Herausforderungen sind optional und nicht notwendig, um die Fusion-Schulung abzuschließen.
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 
-Erstellen Sie einen Klon der soeben abgeschlossenen exemplarischen Anleitung &quot;Über die grundlegende Zuordnung hinaus&quot;. Sie werden dieses Szenario in der nächsten exemplarischen Vorgehensweise weiterhin verwenden, sodass Sie es mit dieser Übung nicht ändern möchten.
+Erstellen Sie einen Klon der soeben abgeschlossenen exemplarischen Vorgehensweise „Über die grundlegende Zuordnung hinaus“. Sie werden dieses Szenario in der nächsten Anleitung erneut verwenden, sodass Sie es in dieser Übung nicht ändern.
 
-Erstellen Sie in jedem Projekt, das Sie im Rahmen der vorherigen exemplarischen Vorgehensweise erstellt haben, eine Aufgabe.
+Erstellen Sie in jedem Projekt, das Sie im Rahmen der vorherigen Anleitung erstellt haben, eine Aufgabe.
 
-* Verwenden Sie &quot;Erste Planung für ein (Projekt-)Projekt&quot;als Aufgabennamen.
-* Setzen Sie das geplante Startdatum auf das Gleiche wie das geplante Startdatum des Projekts.
-* Legen Sie die Dauer auf 3 Tage und den Typ Dauer auf &quot;Berechnete Zuweisung&quot;fest.
-* Stellen Sie die geplanten Stunden auf 10 % der Konfidenzbewertung in Stunden ein.
-* Setzen Sie die Aufgabenbegrenzung so bald wie möglich auf .
+* Verwenden Sie „Erste Planung für ein (Projektfarben-) Projekt“ als Aufgabenname.
+* Legen Sie den geplanten Starttermin so fest, dass er mit dem geplanten Starttermin des Projekts übereinstimmt.
+* Setzen Sie die Dauer auf 3 Tage und den Dauertyp auf „Berechneter Arbeitsauftrag“.
+* Legen Sie die geplanten Stunden auf 10 % der Konfidenzrate in Stunden fest.
+* Setzen Sie die Aufgabenbeschränkung auf „So bald wie möglich“.
 
-**Herausforderung:** Wenn die Projektfarbe Rot ist, weisen Sie die Aufgabe Rick Kuvec zu. Wenn die Projektfarbe Gelb ist, weisen Sie die Aufgabe Mary Smith zu. Wenn die Projektfarbe Grün ist, weisen Sie die Aufgabe Ida Blankenship zu.
+**Herausforderung:** Wenn die Projektfarbe Rot ist, weisen Sie die Aufgabe Rick Kuvec zu. Wenn die Projektfarbe Gelb ist, weisen Sie die Aufgabe Marie Schmidt zu. Wenn die Projektfarbe Grün ist, weisen Sie die Aufgabe Ida Blankenstein zu.
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
