@@ -1,6 +1,6 @@
 ---
-title: Website mit Testversand überprüfen
-description: Erfahren Sie, wie Sie einen statischen oder interaktiven Website-Testversand in [!DNL  Workfront] und Kommentare abgeben.
+title: Überprüfen einer Website mit einem Korrekturabzug
+description: Erfahren Sie, wie Sie in [!DNL  Workfront] einen statischen oder interaktiven Website-Korrekturabzug öffnen und Kommentare abgeben.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,19 +12,19 @@ jira: KT-8846
 exl-id: dcc8c441-3c5c-41e9-8cf2-031d3814a1ae
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Website mit Testversand überprüfen
+# Überprüfen einer Website mit einem Korrekturabzug
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Website-Testversand öffnen
-* Kommentare zum Testversand einer statischen Website erstellen
-* Kommentare zum Testversand einer interaktiven Website erstellen
+* Öffnen eines Website-Korrekturabzugs
+* Erstellen von Kommentaren zum Korrekturabzug einer statischen Website
+* Erstellen von Kommentaren zum Korrekturabzug einer interaktiven Website
 
 >[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on)
 
