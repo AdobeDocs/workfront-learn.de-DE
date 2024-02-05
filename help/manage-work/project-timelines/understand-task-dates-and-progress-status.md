@@ -1,6 +1,6 @@
 ---
-title: Typen von Datumsangaben und Status des Fortschritts
-description: Erfahren Sie, wie Sie die verschiedenen Datumstypen anzeigen können in [!DNL  Workfront] und verwenden Sie den Fortschrittsstatus, um den Fortschritt der Arbeit zu verfolgen.
+title: Grundlegendes zu Datumstypen und zum Fortschrittsstatus
+description: Erfahren Sie, wie Sie die verschiedenen Datumsarten in [!DNL  Workfront] anzeigen und den Fortschrittsstatus nutzen können, um den Arbeitsfortschritt zu verfolgen.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -12,24 +12,24 @@ jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Typen von Datumsangaben und Status des Fortschritts
+# Grundlegendes zu Datumstypen und zum Fortschrittsstatus
 
 In diesem Video lernen Sie Folgendes:
 
-* Zu vergleichende Ansicht auswählen [!DNL Workfront's] unterschiedliche Datumstypen
-* Verwenden Sie den Fortschrittsstatus, um den Fortschritt der Arbeit zu verfolgen.
+* Auswählen einer Ansicht zum Vergleichen verschiedener Datumstypen von [!DNL Workfront's]
+* Verwenden des Fortschrittsstatus zum Verfolgen des Arbeitsfortschritts
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Wie im Video angegeben, ist es wichtig, dass die Benutzer den Status ändern von **[!UICONTROL Neu]** nach **[!UICONTROL In Bearbeitung]** wenn sie eine Aufgabe starten, wird die [!UICONTROL Tatsächliches Startdatum] korrekt sein. Wenn sie dies jedoch vergessen, wenn sie die Aufgabe starten, können sie die [!UICONTROL Tatsächliches Startdatum] jederzeit.
+>Wie im Video erwähnt, ist es wichtig, dass die Benutzenden den Status von **[!UICONTROL Neu]** in **[!UICONTROL In Bearbeitung]** ändern, wenn sie eine Aufgabe beginnen, damit das [!UICONTROL tatsächliche Startdatum] korrekt ist. Falls sie dies jedoch vergessen, wenn sie die Aufgabe beginnen, können sie jederzeit zurückgehen und das [!UICONTROL tatsächliche Startdatum] bearbeiten.
 
 
 <!---
