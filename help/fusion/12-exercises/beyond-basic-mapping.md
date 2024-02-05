@@ -1,6 +1,6 @@
 ---
-title: Über die grundlegende Zuordnung hinaus
-description: Erfahren Sie, wie Sie mit den Formeln des Zuordnungsbedienfelds Felder bearbeiten oder konvertieren können, die an ein Modul gesendet werden.
+title: Über grundlegende Zuordnung hinaus
+description: Erfahren Sie, wie Sie Felder, die an ein Modul gesendet werden, mit den Formeln des Zuordnungsfelds bearbeiten und konvertieren können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,45 +11,45 @@ jira: KT-11039
 thumbnail: KT11039.png
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Über die grundlegende Zuordnung hinaus
+# Über grundlegende Zuordnung hinaus
 
-Erfahren Sie, wie Sie mit den Formeln des Zuordnungsbedienfelds Felder bearbeiten oder konvertieren können, die an ein Modul gesendet werden.
+Erfahren Sie, wie Sie Felder, die an ein Modul gesendet werden, mit den Formeln des Zuordnungsfelds bearbeiten und konvertieren können.
 
 ## Übungsübersicht
 
-Ändern Sie den Projektnamen, das geplante Startdatum und die Priorität in den exemplarischen Vorgehensweisen für &quot;Über die grundlegende Zuordnung&quot;unter Verwendung der Formeln des Zuordnungsbedienfelds.
+Ändern Sie den Projektnamen, das geplante Startdatum und die Priorität aus der Übung „Weiterführende Zuordnung – Walkthrough“ mithilfe der Formeln im Zuordnungsfeld.
 
-![Jenseits des Basisbilds Bild 1](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
+![Weiterführende Zuordnung Bild 1](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
 
-## Schritte, die ausgeführt werden müssen
+## Zu befolgende Schritte
 
-**Erstellen Sie einen Klon Ihres Designszenarios mit dem anfänglichen Szenario.**
+**Erstellen Sie einen Klon Ihres Szenarios für den Entwurf des Anfangsszenarios.**
 
-1. Wählen Sie die Option Klonen rechts neben dem anfänglichen Szenario-Entwurf im Szenario-Abschnitt aus, wie unten dargestellt. Nennen Sie ihn &quot;Jenseits der grundlegenden Zuordnung&quot;.
+1. Wählen Sie die Option „Klonen“ rechts neben dem Entwurf des Ausgangsszenarios im Abschnitt „Szenario“, wie unten dargestellt. Nennen Sie es „Weiterführende Zuordnung“.
 
-   ![Jenseits des Grundlinienbilds 2](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
+   ![Weiterführende Zuordnung Bild 2](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
 
-   **Jetzt werden wir das Zuordnungsbedienfeld im Modul Workfront-Projekte erstellen verwenden, um den Projektnamen, das geplante Startdatum und die Prioritätsfelder zu konfigurieren.**
+   **Jetzt werden wir das Zuordnungsfeld im Modul „Workfront-Projekte erstellen“ verwenden, um den Projektnamen, das geplante Startdatum und die Prioritätsfelder zu konfigurieren.**
 
-1. Klicken Sie auf das Modul Workfront-Projekte erstellen , um die Einstellungen zu bearbeiten. Ändern Sie im Zuordnungsfenster das Feld Name in &quot;[Mein Projektname] von [Sponsor].&quot;
+1. Klicken Sie auf das Modul „Workfront-Projekte erstellen“, um die Einstellungen zu bearbeiten. Ändern Sie im Zuordnungsfeld das Feld „Name“ in [Mein Projektname] nach [Sponsor] um.
 
-   + Die [Mein Projektname] ist Spalte 1 des Analytics-CSV-Moduls und [Sponsor] ist Spalte 6. Das Wort &quot;by&quot; wird nur zwischen den beiden eingegeben.
+   + Die [Mein Projektname] ist Spalte 1 des Moduls „CSV-Analyse“ und [Sponsor] ist Spalte 6. Das Wort „nach“ wird einfach zwischen die beiden geschrieben.
 
-1. Navigieren Sie als Nächstes zum geplanten Startdatum und verwenden Sie die Formel addDays , um dem Feld 15 Tage hinzuzufügen, wie im Video Beyond basic mapping Walkthrough beschrieben.
-1. Suchen Sie das Feld Priorität und schalten Sie die Schaltfläche Zuordnung oben rechts im Feld ein. Das Menü der Auswahlliste ändert sich in eine Zahl. Erstellen Sie eine if -Anweisung, um ein Projekt mit der Priorität Hoch(4) zu kennzeichnen, wenn die CSV-Datei-Konfidenzbewertung kleiner als 100 ist. Andernfalls kann es sich um Normal(2) handeln.
+1. Gehen Sie dann zu „Geplanter Starttermin“ und verwenden Sie die Formel „addDays“, um zum Feld 15 Tage hinzuzufügen, wie in dem Video „Weiterführende Zuordnung“ beschrieben.
+1. Suchen Sie das Feld „Priorität“ und aktivieren Sie die Schaltfläche „Zuordnen“ oben rechts im Feld. Das Auswahllisten-Menü ändert sich in eine Zahl. Erstellen Sie eine if-Anweisung, um ein Projekt als hohe Priorität (4) zu kennzeichnen, wenn die Vertrauenseinstufung in der CSV-Datei weniger als 100 beträgt, andernfalls kann es als normal (2) eingestuft werden.
 
-   + Die Konfidenzbewertung ist in Spalte 4 enthalten.
+   + Die Vertrauensbewertung ist in Spalte 4 enthalten.
 
-   **An dieser Stelle sollte Ihr Zuordnungsbedienfeld wie folgt aussehen:**
+   **An dieser Stelle sollte Ihr Zuordnungsfeld wie folgt aussehen:**
 
-   ![Jenseits des grundlegenden Zuordnungsbilds 3](../12-exercises/assets/beyond-basic-mapping-walkthrough-3.png)
+   ![Weiterführende Zuordnung Bild 3](../12-exercises/assets/beyond-basic-mapping-walkthrough-3.png)
 
-1. Klicken Sie auf OK und dann auf Ausführen einmal.
+1. Klicken Sie auf „OK“ und dann auf „Einmalig ausführen“.
 1. Suchen Sie das Projekt in Ihrer Workfront-Instanz, um sicherzustellen, dass alles korrekt zugeordnet wurde.
 1. Speichern Sie Ihr Szenario.
