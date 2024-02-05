@@ -1,5 +1,5 @@
 ---
-title: Karten auf einer Pinnwand verwalten
+title: Verwalten von Karten auf einer Pinnwand
 description: Erfahren Sie, wie Sie Karten auf einer Pinnwand neu organisieren, kopieren, archivieren, löschen und trennen.
 feature: Agile
 activity: deploy
@@ -11,13 +11,13 @@ level: Beginner
 doc-type: video
 exl-id: 26f37808-f9b4-47b6-8dbb-869eb3a8d9c9
 source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Karten auf einer Pinnwand verwalten
+# Verwalten von Karten auf einer Pinnwand
 
 Erfahren Sie, wie Sie Karten auf einer Pinnwand neu organisieren, kopieren, archivieren, löschen und trennen.
 
