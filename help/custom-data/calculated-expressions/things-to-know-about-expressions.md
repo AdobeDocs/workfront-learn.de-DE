@@ -1,6 +1,6 @@
 ---
 title: Informationen zu berechneten Feldausdrücken
-description: Hier erhalten Sie einen Einblick in eine Liste von Konzepten, die Sie beim Arbeiten mit benutzerdefinierten berechneten Feldern in [!DNL Workfront].
+description: Sehen Sie sich eine Liste von Konzepten an, die Sie für die Arbeit mit benutzerdefinierten berechneten Feldern in [!DNL Workfront]kennen sollten.
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -10,112 +10,112 @@ team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '959'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Informationen zu berechneten Feldausdrücken
 
-Im Folgenden finden Sie eine Liste von Konzepten, die Sie beim Arbeiten mit benutzerdefinierten berechneten Feldern in Workfront gut kennen sollten.
+Im Folgenden finden Sie eine Liste von Konzepten, die Sie für die Arbeit mit benutzerdefinierten berechneten Feldern in Workfront kennen sollten.
 
-## Justierungen in Ausdrucksnamen zwischenspeichern
+## Groß- und Kleinschreibung bei Ausdrucksnamen
 
-Wenn es um Ausdrucksnamen geht, ist Groß-/Kleinschreibung wichtig. Beim anfänglichen Schreiben eines Ausdrucksnamens können Sie Groß- und Kleinschreibung oder eine Mischung aus beidem verwenden.
+Bei den Namen von Ausdrücken kommt es auf die Groß- und Kleinschreibung an. Wenn Sie den Ausdrucksnamen schreiben, können Sie Großbuchstaben, Kleinbuchstaben oder eine Mischung aus beidem verwenden.
 
-![Fehlermeldung ohne Groß-/Kleinschreibung im Ausdrucksnamen](assets/T2K01.png)
+![Fehlermeldung wegen fehlender Großschreibung im Ausdrucksnamen](assets/T2K01.png)
 
-Der Ausdruck muss jedoch in Großbuchstaben geschrieben werden, damit das System den Ausdruck erkennt und das Feld speichert.
+Der Ausdruck muss jedoch in Großbuchstaben geschrieben werden, damit das System ihn erkennt und das Feld speichert.
 
 
 
 ## Stunden werden in Minuten gespeichert
 
-Stunden in der Workfront-Datenbank werden in Minuten gespeichert. Wenn Sie auf Felder wie &quot;Geplante Stunden&quot;oder &quot;Tatsächliche Stunden&quot;verweisen, teilen Sie sie durch 60, um die Zeit in Stunden und nicht in Minuten anzuzeigen.
+Die Stunden in der Workfront-Datenbank werden in Minuten gespeichert. Wenn Sie sich auf Felder wie „Geplante Stunden“ oder „Tatsächliche Stunden“ beziehen, teilen Sie den Wert durch 60, um die Zeit in Stunden und nicht in Minuten anzugeben.
 
-## Leerzeichen wirken sich nicht auf Ausdrücke aus
+## Leerzeichen haben keinen Einfluss auf die Ausdrücke
 
-Die empfohlene Methode zum Schreiben von Ausdrücken besteht darin, zwischen den einzelnen Ausdrücken nur wenig bis gar keinen Abstand zu haben.
+Es wird empfohlen, Ausdrücke mit nur wenigen oder ganz ohne Leerzeichen zwischen den einzelnen Ausdrücken zu schreiben.
 
-* IF(ISBLANK({description}),&quot;No Description&quot;,&quot;Has Description&quot;)
+* IF(ISBLANK({description}),„Ohne Beschreibung“, „Mit Beschreibung“)
 
-![Ausdrücke ohne Abstand zwischen Feldern](assets/T2K02.png)
+![Ausdrücke ohne Leerzeichen zwischen Feldern](assets/T2K02.png)
 
-Wenn der Abstand Ihnen jedoch zeigt, was vor sich geht, können die Ausdrücke um einige Abstände erweitert werden. Die zusätzlichen Leerzeichen sollten nicht verhindern, dass der Ausdruck einen Wert in [!DNL Workfront].
+Wenn es jedoch hilft, den Sachverhalt besser zu verstehen, können die Ausdrücke um einige Leerzeichen ergänzt werden. Die zusätzlichen Leerzeichen sollten nicht dazu führen, dass der Ausdruck einen Wert in [!DNL Workfront] nicht erfassen oder berechnen kann.
 
-* IF (ISBLANK ({description}), &quot;No Description&quot;, &quot;Has Description&quot;)
+* IF (ISBLANK ({description}), „Ohne Beschreibung“ , „Mit Beschreibung“ )
 
-![Ausdrücke mit Abstand zwischen Feldern](assets/T2K03.png)
+![Ausdrücke mit Leerzeichen zwischen Feldern](assets/T2K03.png)
 
-Die einzigen Elemente, zwischen denen keine Leerzeichen stehen können, sind die Felder und die geschweiften Klammern. Andernfalls erhalten Sie eine Fehlermeldung und können das Feld oder das benutzerdefinierte Formular nicht speichern.
+Nur Felder und geschweifte Klammern dürfen keine Leerzeichen enthalten. Andernfalls erhalten Sie eine Fehlermeldung und können das Feld oder das benutzerdefinierte Formular nicht speichern.
 
-![Fehler mit Abstand zwischen Feldname und geschweifte Klammer](assets/T2K04.png)
+![Fehler wegen Leerzeichen zwischen Feldname und geschweifter Klammer](assets/T2K04.png)
 
 ## Anführungszeichen müssen gerade sein
 
-Achten Sie bei Verwendung von Anführungszeichen in einem Ausdruck darauf, dass die Anführungszeichen gerade (&quot;) sind. Wenn die Anführungszeichen gekrümmt sind (&quot;), wird die [!DNL Workfront] -System zeigt weiterhin die Meldung &quot;Benutzerdefinierter Ausdruck ungültig&quot;an.
+Verwenden Sie nur gerade Anführungszeichen in einem Ausdruck (&quot;). Bei typografischen Anführungszeichen (“), zeigt das System [!DNL Workfront] weiterhin die Meldung „Benutzerdefinierter Ausdruck ungültig“ an.
 
-![Fehler mit gekrümmten Anführungszeichen](assets/T2K05.png)
+![Fehler bei typografischen Anführungszeichen](assets/T2K05.png)
 
-## Berechnungen werden beim Speichern und Bearbeiten von Formularen aktualisiert
+## Berechnungen werden beim Speichern von Formularen und beim Bearbeiten von Objekten aktualisiert
 
-Dies ist ein wichtiger Aspekt der berechneten Felder.
+Dies ist ein wichtiger Aspekt berechneter Felder, den Sie kennen sollten.
 
-In einem berechneten Feld angezeigte Informationen bleiben unverändert, es sei denn, das benutzerdefinierte Formular wurde neu berechnet.
+Die in einem berechneten Feld angezeigten Informationen bleiben gleich und veralten, wenn das benutzerdefinierte Formular nicht neu berechnet wird.
 
-Ausdrücke können aktualisiert werden, indem Sie die Option Ausdrücke neu berechnen im Menü Mehr für ein Objekt verwenden.
+Ausdrücke können mit der Option „Ausdrücke neu berechnen“ im Menü „Mehr“ auf einem Objekt aktualisiert werden.
 
-Sie möchten sehen, wie viele Tage ein Problem geöffnet war. Erstellen Sie ein berechnetes Feld namens &quot;Days Open&quot;mit dem Ausdruck DATEDIFF.
+Sie möchten zum Beispiel ansehen, wie viele Tage ein Problem offen ist. Erstellen Sie ein berechnetes Feld namens „Offene Tage“ mit dem Ausdruck DATEDIFF.
 
-* Feldname = Öffnungen
-* Expression = DATEDIFF({entryDate},$$HEUTE)
+* Feldname = Offene Tage
+* Ausdruck = DATEDIFF({entryDate},$$TODAY)
 
-Nach der Speicherung kann die Anzahl der Tage zwischen der ersten Erstellung des Problems oder der Eingabe in Workfront und dem heutigen Datum auf der Detailseite eines Objekts oder in einer Berichtsansicht angezeigt werden.
+Nach dem Speichern kann die Anzahl der Tage zwischen dem Zeitpunkt, an dem das Problem zum ersten Mal erstellt oder in Workfront eingegeben wurde, und dem heutigen Datum auf der Detailseite eines Objekts oder in einer Berichtsansicht angezeigt werden.
 
-Wenn Sie am folgenden Tag dieselbe Detailseite oder Berichtsansicht anzeigen, wird diese Zahl voraussichtlich um 1 inkrementiert. Wenn die Zahl heute 5 ist, sollte sie morgen 6 sein. Der nächste Tag sollte 7, dann 8 usw. sein.
+Wenn Sie am nächsten Tag dieselbe Detailseite oder Berichtsansicht aufrufen, erwarten Sie, dass diese Zahl um eins erhöht wird. Wenn die Zahl heute 5 ist, sollte sie morgen 6 sein. Am nächsten Tag sollte sie 7 sein, dann 8 usw.
 
-Das Feld zeigt jedoch weiterhin täglich 5 an. Das Feld muss erneut ausgeführt oder neu berechnet werden, um die Informationen zu aktualisieren.
+Das Feld zeigt jedoch weiterhin jeden Tag 5 an. Das Feld muss „neu ausgeführt“ oder neu berechnet werden, um die Informationen zu aktualisieren.
 
-So aktualisieren Sie ein Feld mit der Option Ausdrücke neu berechnen :
+So aktualisieren Sie ein Feld mithilfe der Option „Ausdrücke neu berechnen“:
 
 * Klicken Sie auf den Namen des Objekts, um es zu öffnen.
-* Klicken Sie auf das Menü Mehr .
-* Wählen Sie in der Liste die Option Ausdrücke neu berechnen aus.
+* Klicken Sie auf das Menü „Mehr“.
+* Wählen Sie in der Liste „Ausdrücke neu berechnen“.
 
-![Option zum Neuberechnen von Ausdrücken im Objekt](assets/T2K06.png)
+![Option „Ausdruck neu berechnen“ im Objekt](assets/T2K06.png)
 
-Sie können mehrere Ausdrücke gleichzeitig neu berechnen, indem Sie die Funktion &quot;Massenbearbeitung&quot;in einer Liste oder einem Bericht verwenden. Angenommen, Sie haben einen Bericht erstellt, der eine Liste von Problemen mit der Berechnung der Öffnungen in einer Spalte anzeigt. Wenn Sie alle Probleme gleichzeitig neu berechnen möchten:
+Sie können auch mehrere Ausdrücke gleichzeitig neu berechnen, indem Sie die Funktion „Massenbearbeitung“ in einer Liste oder einem Bericht verwenden. Angenommen, Sie haben einen Bericht mit einer Liste von Ausgaben erstellt, in der die Berechnung der offenen Tage in einer Spalte angezeigt wird. Wenn Sie alle Probleme gleichzeitig neu berechnen möchten:
 
 * Wählen Sie alle Probleme im Bericht aus.
-* Wählen Sie die Bearbeitungsoption aus, um alle ausgewählten Probleme stapelweise zu bearbeiten.
-* Klicken Sie links auf die Beschriftung Benutzerdefinierte Forms , um zum Abschnitt für benutzerdefinierte Formulare zu blättern.
-* Aktivieren Sie unten im Abschnitt Benutzerdefinierte Forms die Option Benutzerdefinierte Ausdrücke neu berechnen .
-* Klicken Sie auf Änderungen speichern.
+* Wählen Sie die Option „Bearbeiten“, um alle ausgewählten Probleme auf einmal zu bearbeiten.
+* Klicken Sie auf die Beschriftung „Benutzerdefinierte Formulare“ auf der linken Seite, um dann zum Abschnitt für benutzerdefinierte Formulare zu scrollen.
+* Aktivieren Sie das Kontrollkästchen „Benutzerdefinierte Ausdrücke neu berechnen“ am Ende des Abschnitts „Benutzerdefinierte Formulare“.
+* Klicken Sie auf „Änderungen speichern“.
 
-![Ausdrucksoption für mehrere Objekte neu berechnen](assets/T2K07.png)
+![Option zur Neuberechnung von Ausdrücken für mehrere Objekte](assets/T2K07.png)
 
 Der Bildschirm wird aktualisiert und zeigt aktualisierte Informationen im berechneten Feld an.
 
-**Hinweis**: Es gibt zwar andere Möglichkeiten, Ausdrücke in einem berechneten Feld zu aktualisieren oder neu zu berechnen, aber dies ist die schnellste und einfachste Methode.
+**Hinweis**: Es gibt zwar auch andere Möglichkeiten, Ausdrücke in einem berechneten Feld zu aktualisieren oder neu zu berechnen, aber dies ist die schnellste und einfachste Methode.
 
-## Berechnungen können von Formular zu Formular innerhalb desselben Felds variieren
+## Berechnungen können von Formular zu Formular innerhalb desselben Feldes variieren
 
-Sobald ein berechnetes Feld in einem benutzerdefinierten Formular gespeichert und das benutzerdefinierte Formular gespeichert wird, wird das berechnete Feld der Feldbibliothek hinzugefügt, damit es in anderen benutzerdefinierten Formularen verwendet werden kann.
+Sobald ein berechnetes Feld in einem benutzerdefinierten Formular gespeichert wird und das benutzerdefinierte Formular gespeichert wird, wird das berechnete Feld der Feldbibliothek hinzugefügt, damit es in anderen benutzerdefinierten Formularen verwendet werden kann.
 
-Wenn Sie jedoch ein berechnetes Feld in Formular A und dasselbe berechnete Feld in Formular B haben, besteht der ursprüngliche Gedanke darin, dass die Berechnungen genau gleich sind. Das ist nicht immer der Fall. Das berechnete Feld in Formular A kann in Formular B völlig anders berechnet werden.
+Wenn Sie jedoch ein berechnetes Feld auf Formular A und das gleiche berechnete Feld auf Formular B haben, ist zwar der erste Gedanke, dass die Berechnungen genau gleich sind. Das ist aber nicht immer der Fall. Das berechnete Feld in Formular A könnte in Formular B auf eine ganz andere Weise berechnet werden.
 
-Wenn ein berechnetes benutzerdefiniertes Feld aus der Feldbibliothek ausgewählt und einem benutzerdefinierten Formular hinzugefügt wird, wird das Feld hinzugefügt, die Berechnung ist jedoch leer. Ein Grund dafür ist, dass sich die Berechnung möglicherweise auf Felder bezieht, die für einen anderen Objekttyp nicht vorhanden sind.
+Wenn ein berechnetes benutzerdefiniertes Feld aus der Feldbibliothek ausgewählt und zu einem benutzerdefinierten Formular hinzugefügt wird, wird das Feld hinzugefügt, aber die Berechnung bleibt leer. Ein Grund dafür ist, dass sich die Berechnung möglicherweise auf Felder bezieht, die für einen anderen Objekttyp nicht vorhanden sind.
 
-Sie haben beispielsweise das berechnete Feld &quot;Tage bis zum Abschluss&quot;erstellt, um zu bestimmen, wie lange es dauerte, bis eine Aufgabe in einem Projekt abgeschlossen war.
+Stellen Sie sich z. B. vor, Sie haben ein berechnetes Feld mit der Bezeichnung „Tage bis zur Fertigstellung“ erstellt, um festzustellen, wie lange es dauerte, eine Aufgabe in einem Projekt zu erledigen.
 
 * WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
-Du willst dasselbe für eine Iteration tun. Sie können denselben Ausdruck verwenden. Die für ein Aufgabenobjekt verfügbaren Felder sind jedoch nicht immer für ein Iterationsobjekt verfügbar. Also [!DNL Workfront] gibt Ihnen die Möglichkeit, die Berechnung mit den richtigen Objektfeldern zu erstellen.
+Dasselbe können Sie bei einer Iteration tun. Sie können denselben Ausdruck verwenden; allerdings sind die für ein Aufgabenobjekt verfügbaren Felder nicht immer auch für ein Iterationsobjekt verfügbar. [!DNL Workfront] gibt Ihnen deswegen die Möglichkeit, die Berechnung mit den richtigen Objektfeldern zu erstellen.
 
-**Pro-Tipp**: Kopieren Sie den berechneten Ausdruck aus dem Feld Berechnung in das Feld Anweisungen , wenn Sie benutzerdefinierte Felder erstellen. Dieses Feld wird nicht gelöscht, wenn dem benutzerdefinierten Formular aus der Feldbibliothek ein berechnetes benutzerdefiniertes Feld hinzugefügt wird.
+**Profi-Tipp**: Kopieren Sie beim Erstellen von benutzerdefinierten Feldern den berechneten Ausdruck aus dem Feld „Berechnung“ in das Feld „Anweisungen“. Dieses Feld wird nicht gelöscht, wenn dem benutzerdefinierten Formular aus der Feldbibliothek ein berechnetes benutzerdefiniertes Feld hinzugefügt wird.
 
-Je nach Bedarf können berechnete Felder in benutzerdefinierten Formularen ganz einfach oder sehr komplex sein. Ausdrücke können andere Ausdrücke und Werte einbetten oder verschachteln, um die Detailgenauigkeit zu gewährleisten, die für ein besseres Bild der Arbeit in Ihrer Organisation erforderlich ist.
+Je nach Bedarf können berechnete Felder in benutzerdefinierten Formularen recht einfach oder sehr komplex sein. In Ausdrücke können andere Ausdrücke und Werte eingebettet oder verschachtelt sein, um den Detailgrad zu erreichen, der erforderlich ist, um sich ein besseres Bild von der Arbeit in Ihrem Unternehmen zu machen.
 
 <!--Depending on the need, calculated fields in custom forms can be quite simple or very complex. Expressions can embed, or nest, other expressions and values to provide the level of detail needed to get a better picture of what is going on with the work being done at your organization. 
 
