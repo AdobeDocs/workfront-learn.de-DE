@@ -1,6 +1,6 @@
 ---
-title: Globale Standardprojekteinstellungen konfigurieren
-description: Erfahren Sie, wie Sie einen benutzerdefinierten Status ändern, globale Projektvoreinstellungen festlegen und Zeitpläne erstellen, die globale Standardeinstellungen sind.
+title: Konfigurieren von globalen Standardprojekteinstellungen
+description: Erfahren Sie, wie Sie einen benutzerdefinierten Status ändern, globale Projekteinstellungen festlegen und Zeitpläne erstellen, die als globale Standardeinstellungen gelten.
 feature: System Setup and Administration
 role: Admin
 level: Intermediate
@@ -12,72 +12,72 @@ jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '379'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Globale Standardprojekteinstellungen konfigurieren
+# Konfigurieren von globalen Standardprojekteinstellungen
 
 <!---
 21.4 updates have been made
 --->
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Benutzerdefinierten Status ändern
-* Globale Projektvoreinstellungen festlegen
+* Ändern eines benutzerdefinierten Status
+* Festlegen von globalen Projektvoreinstellungen
 * Erstellen und Verwenden von Zeitplänen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on)
 
-## Globale und Gruppenprojekt-, Aufgaben- und Problemeinstellungen
+## Globale und Gruppeneinstellungen für Projekte, Aufgaben und Probleme
 
-Wenn Sie die [!UICONTROL Projekte] Einstellungen in [!DNL Workfront], werden Sie feststellen, dass &quot;[!UICONTROL Systemprojektvoreinstellungen]&quot; in der Suchleiste am oberen Rand des Fensters. Auf diese Weise erfahren Sie, welche Auswirkungen diese Einstellungen auf jeden in Ihrer [!DNL Workfront] System - es ist eine globale Konfiguration.
+Wenn Sie die Einstellungen von [!UICONTROL Projekten] in [!DNL Workfront] öffnen, werden Sie feststellen, dass in der Suchleiste am oberen Rand des Fensters „[!UICONTROL Systemprojektvoreinstellungen]“ steht. Damit wissen Sie, dass diese Einstellungen für alle Benutzenden Ihres [!DNL Workfront]-Systems gelten – es handelt sich um eine globale Konfiguration.
 
-![[!UICONTROL Projektvoreinstellungen] Seite in [!UICONTROL Einrichtung]](assets/admin-fund-system-project-preferences-1.png)
+Die Seite ![[!UICONTROL Projektvoreinstellungen] in [!UICONTROL Setup]](assets/admin-fund-system-project-preferences-1.png)
 
-Sie sehen etwas Ähnliches, wenn Sie die [!UICONTROL Aufgaben und Probleme] -Einstellungen.
+Etwas Ähnliches sehen Sie, wenn Sie die Einstellungen von [!UICONTROL Aufgaben und Probleme] öffnen.
 
-![[!UICONTROL Voreinstellungen für Aufgaben und Probleme] in [!UICONTROL Einrichtung]](assets/admin-fund-task-issue-preferences-2.png)
+![[!UICONTROL Voreinstellungen für Aufgaben und Probleme] in [!UICONTROL Setup]](assets/admin-fund-task-issue-preferences-2.png)
 
-Es ist jedoch möglich, dass nicht jede Gruppe in [!DNL Workfront] dieselben Voreinstellungen für Projekt, Aufgabe und Ausgabe benötigt. Beispielsweise möchte die Marketing-Gruppe, dass der Status eines neuen Projekts &quot;Planung&quot;lautet, während die Projekt-Manager-Gruppe den Anforderungsstatus bevorzugt.
+Es ist jedoch möglich, dass nicht jede Gruppe in [!DNL Workfront] die gleichen Voreinstellungen für Projekte, Aufgaben und Probleme benötigt. Zum Beispiel: Die Marketing-Gruppe möchte vielleicht, dass ein neues Projekt den Status „Planung“ erhält, während die Projekt-Manager-Gruppe den Status „Anfrage“ bevorzugt.
 
-[!DNL Workfront] ermöglicht es Gruppenadministratoren, bestimmte Projekt-, Aufgaben- und Problemvoreinstellungen für ihre Gruppen anzupassen. Welche Voreinstellungen angepasst werden können, hängt von der [!DNL Workfront] Systemadministrator, der die Umschalter zum Sperren/Entsperren verwendet.
+[!DNL Workfront] ermöglicht es Gruppenadmins, bestimmte Voreinstellungen für Projekte, Aufgaben und Probleme für ihre Gruppen anzupassen. Welche Einstellungen angepasst werden können, bestimmen die [!DNL Workfront]-Systemadmins mithilfe des Umschalters „Sperren/Entsperren“.
 
-Navigieren Sie zunächst zur [!UICONTROL Einrichtung] Bereich:
+Navigieren Sie zunächst zum Bereich [!UICONTROL Setup]:
 
-1. Auswählen **[!UICONTROL Einrichtung]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern **[!UICONTROL Projektvoreinstellungen]** im linken Menü.
-1. Auswählen **[!UICONTROL Projekte]** oder **[!UICONTROL Aufgaben und Probleme]**, je nachdem, welche Einstellungen Sie ändern möchten.
+1. Wählen Sie **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]** aus.
+1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** im linken Menü.
+1. Wählen Sie **[!UICONTROL Projekte]** oder **[!UICONTROL Aufgaben und Probleme]** aus, je nachdem, welche Einstellungen Sie ändern möchten.
 
-Sperren Sie eine Voreinstellung, um zu verhindern, dass Gruppenadministratoren diese Einstellung für ihre Gruppe anpassen.
+Sperren Sie eine Einstellung, um Gruppenadmins daran zu hindern, diese Einstellung für ihre Gruppe zu ändern.
 
-![Gesperrte Präferenznachricht](assets/admin-fund-preferences-locked-3.png)
+![Meldung über gesperrte Voreinstellung](assets/admin-fund-preferences-locked-3.png)
 
-Entsperren Sie die Voreinstellung, um sie für Gruppenadministratoren zur Verfügung zu stellen.
+Entsperren Sie die Voreinstellung, damit sie von Gruppenadmins angepasst werden kann.
 
-![Entsperrte Präferenznachricht](assets/admin-fund-preferences-unlocked-4.png)
+![Meldung über entsperrte Voreinstellung](assets/admin-fund-preferences-unlocked-4.png)
 
 Einige Einstellungen können nicht entsperrt werden und bleiben globale Systemeinstellungen.
 
-![Gesperrte Präferenznachricht](assets/admin-fund-preferences-always-locked-5.png)
+![Meldung über gesperrte Voreinstellung](assets/admin-fund-preferences-always-locked-5.png)
 
-### Festlegen von Gruppen- und Untergruppenvoreinstellungen
+### Festlegen von Gruppen- und Untergruppeneinstellungen
 
-Für alle vom Systemadministrator entsperrten Einstellungen können die Gruppenadministratoren Anpassungen für die von ihnen verwalteten Gruppen und alle Untergruppen vornehmen, die unter diesen Gruppen verschachtelt sind. Darüber hinaus können Gruppenadministratoren steuern, welche Einstellungen ihre Untergruppen-Administratoren ändern können.
+Für alle von Systemadmins freigeschalteten Einstellungen können die Gruppenadmins Anpassungen für die von ihnen verwalteten Gruppen und alle unter diesen Gruppen verschachtelten Untergruppen vornehmen. Darüber hinaus können Gruppenadmins steuern, welche Einstellungen ihre Untergruppenadmins ändern können.
 
-1. Auswählen **[!UICONTROL Einrichtung]** im **[!UICONTROL Hauptmenü]**.
-1. Klicken **[!DNL Groups]** im linken Menü.
+1. Wählen Sie **[!UICONTROL Setup]** im Hauptmenü **** aus.
+1. Klicken Sie im linken Menü auf **[!DNL Groups]**.
 1. Klicken Sie auf den Namen der Gruppe oder Untergruppe, um sie zu öffnen.
-1. Auswählen **[!UICONTROL Projektvoreinstellungen]** oder **[!UICONTROL Voreinstellungen für Aufgaben und Probleme]** im linken Menü.
-1. Nehmen Sie die für die einzelnen Voreinstellungen erforderlichen Änderungen vor, die entsperrt wurden.
-1. Auswählen **[!UICONTROL Speichern]**.
+1. Wählen Sie im linken Menü **[!UICONTROL Projektvoreinstellungen]** oder **[!UICONTROL Voreinstellungen für Aufgaben und Probleme]**.
+1. Nehmen Sie die erforderlichen Änderungen für jede der entsperrten Voreinstellungen vor.
+1. Wählen Sie **[!UICONTROL Speichern]** aus.
 
-![[!UICONTROL Projektstatus] Abschnitt [!UICONTROL Gruppe] page](assets/admin-fund-group-preferences.png)
+Der Abschnitt ![[!UICONTROL Projektstatus] auf der Seite [!UICONTROL Gruppe]](assets/admin-fund-group-preferences.png)
 
-Wenn Ihr Unternehmen keine Gruppenadministratoren verwendet, kann der Systemadministrator die Voreinstellungen für die verschiedenen Gruppen verwalten.
+Wenn Ihr Unternehmen keine Gruppenadmins einsetzt, können die Systemadmins die Einstellungen für die verschiedenen Gruppen verwalten.
 
 <!---
 learn more URLs and guides
