@@ -1,6 +1,6 @@
 ---
-title: Nicht zugewiesene und zugewiesene Arbeitsbereiche filtern
-description: Erfahren Sie, wie Sie die Zeitrahmen für beide Bereiche anpassen, die Benutzerliste im zugewiesenen Arbeitsbereich filtern und den nicht zugewiesenen Arbeitsbereich filtern.
+title: Filtern des Bereichs der zugewiesenen und der nicht zugewiesenen Arbeiten
+description: Erfahren Sie, wie Sie die Zeitrahmen für beide Bereiche anpassen und wie Sie die Benutzerliste im Bereich der zugewiesenen Arbeiten sowie den Bereich der nicht zugewiesenen Arbeiten filtern.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,18 +12,18 @@ jira: KT-8875
 exl-id: 8a767d41-391c-4862-8b49-6d9480cc8187
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Nicht zugewiesene und zugewiesene Arbeitsbereiche filtern
+# Filtern des Bereichs der zugewiesenen und der nicht zugewiesenen Arbeiten
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Anpassen der Zeitrahmen für die zugewiesenen und nicht zugewiesenen Arbeitsbereiche
-* Filtern der Benutzerliste im Bereich &quot;Zugewiesene Arbeit&quot;
-* Filtern des nicht zugewiesenen Arbeitsbereichs
+* Anpassen der Zeitrahmen für den Bereich der zugewiesenen und den der nicht zugewiesenen Arbeiten
+* Filtern der Benutzerliste im Bereich der zugewiesenen Arbeiten
+* Filtern des Bereichs der nicht zugewiesenen Arbeiten
 
 >[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on)
