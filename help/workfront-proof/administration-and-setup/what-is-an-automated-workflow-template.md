@@ -1,6 +1,6 @@
 ---
-title: Was ist eine automatisierte Workflow-Vorlage?
-description: Erfahren Sie, was eine Workflow-Vorlage für automatisierte Testsendungen ist und wie Testversand-Benutzer von Vorlagen profitieren können. Beginnen Sie mit der Planung der zu erstellenden Vorlagen.
+title: Was ist eine automatische Workflow-Vorlage?
+description: Erfahren Sie, was eine Vorlage für einen automatischen Proofing-Workflow ist und wie Benutzende von Korrekturabzügen von Vorlagen profitieren können. Beginnen Sie mit der Planung der zu erstellenden Vorlagen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,19 +12,19 @@ jira: KT-8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Was ist eine automatisierte Workflow-Vorlage?
+# Was ist eine automatische Workflow-Vorlage?
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Funktionsweise einer automatisierten Workflow-Vorlage
-* Vorteile von Workflow-Vorlagen für Testversand-Benutzer
-* Planen der zu erstellenden Vorlagen
+* Funktionsweise einer automatischen Workflow-Vorlage
+* Vorteile von Workflow-Vorlagen für Benutzende von Korrekturabzügen
+* Wie Sie die zu erstellenden Vorlagen planen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on)
 
