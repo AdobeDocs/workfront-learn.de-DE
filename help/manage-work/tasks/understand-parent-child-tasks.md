@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu über- und untergeordneten Aufgaben
-description: Erfahren Sie, wie Aufgaben mithilfe einer übergeordneten/untergeordneten Beziehung in einer [!DNL  Workfront] Projekt.
+description: Erfahren Sie, wie Aufgaben in einem  [!DNL  Workfront] -Projekt über eine Beziehung zwischen über- und untergeordneten Elementen strukturiert werden.
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -12,32 +12,32 @@ jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zu über- und untergeordneten Aufgaben
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Struktur von Aufgaben in einer [!DNL Workfront] Projekt
+* Strukturieren von Aufgaben in einem [!DNL Workfront]-Projekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)
 
 
-## Ändern einer Aufgabe in eine Unteraufgabe und erneutes Wiederherstellen
+## Ändern einer Aufgabe in eine Unteraufgabe und Rückgängigmachen dieser Änderung
 
-Die **indent** und **outdent** -Schaltflächen werden verwendet, um eine Aufgabe in eine Unteraufgabe oder von einer Unteraufgabe in eine Nicht-Unteraufgabe zu ändern.
+Die Schaltflächen **Einrückung** und **Ausrückung** werden verwendet, um eine Aufgabe in eine Unteraufgabe oder von einer Unteraufgabe in eine Nicht-Unteraufgabe zu ändern.
 
-![Ein Bild der Einzug- und der Ausrücken-Schaltflächen.](assets/indent-and-outdent.png)
+![Ein Bild der Schaltflächen „Einrückung“ und „Ausrückung.“](assets/indent-and-outdent.png)
 
-Wählen Sie &quot;[!UICONTROL Wasserzeichendesign]&quot; und klicken Sie auf **indent** Schaltfläche. &quot;[!UICONTROL Wasserzeichendesign]&quot; wird zu einer Unteraufgabe unter &quot;[!UICONTROL Konzeptmodelle]&quot;, was eine übergeordnete Aufgabe wird.
+Wählen Sie „[!UICONTROL Watermark Design]“ aus, und klicken Sie auf die Schaltfläche **Einrückung**. „[!UICONTROL Watermark Design]“ wird zu einer Unteraufgabe unter „[!UICONTROL Conceptual Mockups]“, was zu einer übergeordneten Aufgabe wird.
 
-![Ein Bild der Verwendung der Einzugsschaltfläche.](assets/indent.png)
+![Ein Bild der Verwendung der Schaltfläche „Einrückung.“](assets/indent.png)
 
-Wählen Sie &quot;[!UICONTROL Wasserzeichendesign]&quot;, wenn es sich um eine Unteraufgabe handelt, und klicken Sie auf **outdent** Schaltfläche. &quot;[!UICONTROL Wasserzeichendesign]&quot; wird zu einer regulären Aufgabe auf derselben Ebene wie &quot;[!UICONTROL Konzeptmodelle]&quot;.
+Wählen Sie „[!UICONTROL Watermark Design]“ aus, wenn es sich um eine Unteraufgabe handelt, und klicken Sie auf die Schaltfläche **Ausrückung**. „[!UICONTROL Watermark Design]“ wird zu einer Standardaufgabe auf der gleichen Ebene wie „[!UICONTROL Conceptual Mockups]“.
 
-![Ein Bild der Verwendung der Schaltfläche &quot;Ausrücken&quot;.](assets/outdent.png)
+![Ein Bild zur Verwendung der Schaltfläche „Ausrückung.“](assets/outdent.png)
 
