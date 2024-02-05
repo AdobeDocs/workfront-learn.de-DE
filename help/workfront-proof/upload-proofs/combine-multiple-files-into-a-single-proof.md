@@ -1,6 +1,6 @@
 ---
-title: Mehrere Dateien in einem Testversand zusammenführen
-description: Erfahren Sie, wie Sie den Testversand optimieren können, indem Sie mehrere Dateien in einem Testversand kombinieren. [!DNL  Workfront].
+title: Kombinieren mehrerer Dateien zu einem einzigen Korrekturabzug
+description: Erfahren Sie, wie Sie den Proofing-Prozess optimieren können, indem Sie mehrere Dateien in [!DNL  Workfront]in einem einzigen Korrekturabzug zusammenfassen.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -11,60 +11,60 @@ thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
 source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Mehrere Dateien in einem Testversand zusammenführen
+# Kombinieren mehrerer Dateien zu einem einzigen Korrekturabzug
 
-Durch die Kombination mehrerer Dateien zu einem Testversand kann der Testversand oft vereinfacht werden.
+Durch Zusammenfassen mehrerer Dateien in einem einzigen Korrekturabzug können Sie den Proofing-Prozess häufig rationalisieren.
 
-Die Option &quot;Kombinieren&quot;ist hilfreich, wenn einzelne Dateien oder Teil eines ganzen Lieferziels sind und alle Dateien von denselben Personen innerhalb derselben Frist überprüft werden müssen.
+Die Option „Kombinieren“ ist hilfreich, wenn einzelne Dateien zusammenhängen oder Teil einer vollständigen Aufgabe sind und alle Dateien von denselben Personen innerhalb derselben Frist geprüft werden müssen.
 
-Das Kreativteam hat beispielsweise eine Broschüre entworfen. Vier Designer erstellten die Seiten und speicherten sie als individuelle PDF. Wenn jeder Designer diese als einzelne Testsendungen hochgeladen hat, verfügen die Prüfer über vier separate Testsendungen, die überprüft werden müssen. Darüber hinaus wäre es schwieriger, sicherzustellen, dass die Teile der Broschüre zusammenpassen.
+Beispiel: Das Kreativ-Team hat eine Broschüre entworfen. Vier Designerinnen und/oder Designer erstellten die Seiten und speicherten sie als einzelne PDF-Dateien. Würden sie diese jeweils als einzelnen Korrekturabzug hochladen, müssten die prüfenden Personen vier verschiedene Korrekturabzüge prüfen. Außerdem ließe sich schwerer überprüfen, ob die Teile der Broschüre zusammenpassen.
 
-Lösung - eine Person muss alle PDF hochladen und sie beim Hochladen zu einem Testversand zusammenführen. Dadurch können die Prüfer die Broschüre als Ganzes sehen, anstatt getrennte Teile zu verwenden.
+Lösung: Eine Person lädt alle PDFs hoch und fasst sie beim Hochladen zu einem einzigen Korrekturabzug zusammen. Dadurch können die prüfenden Personen die Broschüre als Ganzes sehen anstatt als separate Teile.
 
-So kombinieren Sie Testsendungen:
+Um Korrekturabzüge zusammenzufassen:
 
-1. Öffnen Sie die [!UICONTROL Dokumente] -Abschnitt des Projekts, der Aufgabe oder der Ausstellung des Testversands anzuhängen.
-2. Ziehen Sie die Dateien in den Upload-Bereich oder suchen Sie nach ihnen. [!DNL Workfront] unterstützt das Kombinieren von bis zu 50 Dateien.
-3. Aktivieren Sie die Option für [!UICONTROL Alle kompatiblen Dateien in einem Testversand zusammenführen].
-4. Geben Sie einen Namen für den kombinierten Testversand ein. Dies ist erforderlich.
-5. Bei Bedarf können Sie die Reihenfolge ändern, in der die Dateien kombiniert werden, indem Sie sie per Drag-and-Drop in die Upload-Liste ziehen.
-6. Fügen Sie Testversand-Empfänger hinzu, legen Sie einen Termin fest usw.
-7. Klicks [!UICONTROL Testversand erstellen] , um den Upload abzuschließen.
+1. Öffnen Sie den Abschnitt [!UICONTROL Dokumente] des Projekts, der Aufgabe oder des Problems, woran der Korrekturabzug angehängt werden soll.
+2. Ziehen Sie die Dateien per Drag -and-Drop in den Upload-Bereich oder navigieren Sie dorthin. [!DNL Workfront] unterstützt die Kombination von bis zu 50 Dateien.
+3. Aktivieren Sie die Option [!UICONTROL Alle kompatiblen Dateien zu einem einzigen Korrekturabzug zusammenfassen].
+4. Geben Sie einen Namen für den kombinierten Korrekturabzug ein. Dies ist erforderlich.
+5. Falls gewünscht, können Sie die Reihenfolge, in der die Dateien kombiniert werden sollen, per Drag-and-Drop in der Upload-Liste ändern.
+6. Fügen Sie Empfängerinnen und Empfänger für Korrekturabzüge hinzu, setzen Sie eine Frist usw.
+7. Klicken Sie auf [!UICONTROL Korrekturabzug erstellen], um den Upload abzuschließen.
 
-![Ein Bild der [!UICONTROL Neuer Testversand] Fenster mit der Liste der hochgeladenen Dateien und [!UICONTROL Einzelversand] hervorgehobene Abschnitte.](assets/combine-proofs.png)
+![Ein Bild des Fensters [!UICONTROL Neuer Korrekturabzug], in dem die Liste der hochgeladenen Dateien und der Abschnitt [!UICONTROL Einzelner Korrekturabzug] hervorgehoben wurde.](assets/combine-proofs.png)
 
-Sobald der Testversand hochgeladen wurde, wird er als ZIP-Datei im [!UICONTROL Dokumente] Registerkarte.
+Sobald der Korrekturabzug hochgeladen wurde, wird er als ZIP-Datei auf der Registerkarte [!UICONTROL Dokumente] angezeigt.
 
-Zum Anzeigen der kombinierten Datei ist nichts anderes erforderlich. Klicken Sie einfach auf [!UICONTROL Offener Testversand] wie üblich und der Testversand wird in der Testversand-Ansicht geöffnet.
+Zur Anzeige der kombinierten Datei ist nichts weiter erforderlich. Klicken Sie einfach wie gewohnt auf [!UICONTROL Korrekturabzug öffnen], um den Korrekturabzug im Viewer zu öffnen.
 
-![Ein Bild des Testversand-Viewers mit einem mehrseitigen Testversand.](assets/combine-proofs-2.png)
+![Ein Bild des Korrekturabzug-Viewers mit einem mehrseitigen Korrekturabzug.](assets/combine-proofs-2.png)
 
-## Was ist mit der Kombination von Videodateien?
+## Können Videodateien kombiniert werden?
 
-Es tut uns leid, das Kombinieren von Dateien ist nicht möglich, wenn Rich-Media-Dateien wie Videos, Animationen und interaktive URLs in Ihrer Liste enthalten sind.
+Leider ist es nicht möglich, Dateien zu kombinieren, wenn Rich-Media-Dateien wie Videos, Animationen und interaktive URLs in Ihrer Liste enthalten sind.
 
-![Ein Bild mit einer Fehlermeldung, die erklärt, dass Sie keine Videodateien kombinieren können.](assets/combine-proofs-error.png)
+![Ein Bild einer Fehlermeldung, die erklärt, dass Sie Videodateien nicht kombinieren können.](assets/combine-proofs-error.png)
 
 
-## Ihre Wendung
+## Sie sind dran
 
 >[!IMPORTANT]
 >
->Vergessen Sie nicht, Ihre Mitarbeiter daran zu erinnern, dass Sie ihnen im Rahmen Ihrer Workfront-Ausbildung einen Testversand schicken.
+>Vergessen Sie nicht, Ihre Mitarbeitenden daran zu erinnern, Ihnen im Rahmen Ihrer Workfront-Schulung einen Korrekturabzug zu schicken.
 
 
-Suchen Sie nach drei oder vier Dateien (PDF, Textdatei usw.) auf Ihrem Computer.
+Suchen Sie drei oder vier Dateien (PDF, Textdatei, usw.) auf Ihrem Computer.
 
-1. Öffnen Sie ein Projekt, eine Aufgabe oder ein Problem, das bzw. die Sie für praktische Übungen in Workfront verwenden.
-1. Laden Sie die Dateien hoch und kombinieren Sie sie zu einem Testversand.
-1. Passen Sie die Reihenfolge der Dateien an, indem Sie die letzte in der Liste auf die erste in der Liste verschieben.
-1. Weisen Sie den Workflow Ihrer Wahl zu (einfach oder automatisiert) und schließen Sie den Upload ab.
+1. Öffnen Sie ein Projekt, eine Aufgabe oder ein Problem, das Sie für praktische Übungen in Workfront verwenden.
+1. Laden Sie die Dateien hoch und kombinieren Sie sie in einem einzigen Korrekturabzug.
+1. Passen Sie die Reihenfolge der Dateien an, indem Sie die letzte Datei in der Liste an den Anfang der Liste setzen.
+1. Weisen Sie den Workflow Ihrer Wahl zu (einfach oder automatisch) und schließen Sie den Upload ab.
 
 
 
