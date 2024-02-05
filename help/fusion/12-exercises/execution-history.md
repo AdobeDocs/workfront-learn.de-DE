@@ -1,6 +1,6 @@
 ---
 title: Ausführungsverlauf
-description: Überprüfen und überprüfen Sie Details zu früheren Ausführungen und Szenario-Konfigurationen.
+description: Überprüfen Sie Details zu früheren Ausführungen und Szenario-Konfigurationen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,52 +11,52 @@ jira: KT-11049
 thumbnail: KT11049.png
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '282'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Ausführungsverlauf
 
-Überprüfen und überprüfen Sie Details zu früheren Ausführungen und Szenario-Konfigurationen.
+Überprüfen Sie Details zu früheren Ausführungen und Szenario-Konfigurationen.
 
 ## Übungsübersicht
 
-Überprüfen Sie den Ausführungsverlauf für das Szenario &quot;Verwenden des mächtigen Filters&quot;, um zu verstehen, was bei Ausführungen passiert ist und wie sie bei Ausführung strukturiert waren.
+Überprüfen Sie den Ausführungsverlauf für das Szenario „Verwenden des mächtigen Filters“, um zu verstehen, was bei den Ausführungen passiert ist und wie sie strukturiert waren, als sie ausgeführt wurden.
 
 ![Ausführungsverlauf Bild 1](../12-exercises/assets/execution-history-walkthrough-1.png)
 
-## Schritte, die ausgeführt werden müssen
+## Zu befolgende Schritte
 
-1. Öffnen Sie das Szenario &quot;Mögliche Filter verwenden&quot;.
-1. Klicken Sie auf der Übersichtsseite auf die Registerkarte Verlauf (oben unter dem Namen des Szenarios).
+1. Öffnen Sie das Szenario „Verwenden des mächtigen Filters“.
+1. Klicken Sie auf der Übersichtsseite auf die Registerkarte „Verlauf“ (oben unter dem Namen des Szenarios).
 
-   ![Abbildung 2 des Ausführungsverlaufs](../12-exercises/assets/execution-history-walkthrough-2.png)
+   ![Ausführungsverlauf Bild 2](../12-exercises/assets/execution-history-walkthrough-2.png)
 
-1. Suchen Sie nach einer Ausführung und klicken Sie auf die Detailschaltfläche , um eine Seite zu öffnen, auf der die spezifischen ausgeführten (oder nicht ausgeführten) Vorgänge im rechten Bereich angezeigt werden. Im linken Bereich können Sie das Szenario wie zum Zeitpunkt der Ausführung untersuchen.
+1. Suchen Sie eine Ausführung und klicken Sie auf die Schaltfläche „Details“, um eine Seite zu öffnen, auf der die spezifischen durchgeführten (oder nicht durchgeführten) Vorgänge im rechten Bedienfeld angezeigt werden. Im linken Bedienfeld können Sie das Szenario so untersuchen, wie es zum Zeitpunkt der Ausführung war.
 
-   ![Abbildung des Ausführungsverlaufs 3](../12-exercises/assets/execution-history-walkthrough-3.png)
+   ![Ausführungsverlauf Bild 3](../12-exercises/assets/execution-history-walkthrough-3.png)
 
-1. Wenn Sie im Szenario-Bedienfeld auf ein Modul klicken, wird ein Bedienfeld für den Modul-Inspektor mit Informationen zu den Einstellungen des Moduls angezeigt. Klicken Sie auf den Ausführungsinspektor neben einem Modul oder Filter, um zu sehen, auf welchen Informationspaketen ausgeführt wurde.
+1. Wenn Sie im Szenario-Bedienfeld auf ein Modul klicken, erscheint ein Modulinspektor-Bedienfeld, das Informationen über die Einstellungen des Moduls anzeigt. Klicken Sie auf den Ausführungsinspektor neben einem Modul oder Filter, um zu sehen, welche Informationsbündel darauf ausgeführt wurden.
 
-   ![Abbildung 4 des Ausführungsverlaufs](../12-exercises/assets/execution-history-walkthrough-4.png)
+   ![Ausführungsverlauf Bild 4](../12-exercises/assets/execution-history-walkthrough-4.png)
 
-   ![Abbildung des Ausführungsverlaufs 5](../12-exercises/assets/execution-history-walkthrough-5.png)
-
-
-1. Scrollen Sie im rechten Bereich durch das einfache Protokoll oder klicken Sie darauf, um Details zur Wiedergabe der Ausführung anzuzeigen.
-
-   + Sie können sehen, wann Vorgänge in Modulen abgeschlossen wurden und wann Bundles über Filter übergeben wurden (oder nicht).
-
-   ![Abbildung des Ausführungsverlaufs 6](../12-exercises/assets/execution-history-walkthrough-6.png)
-
-   + Klicken Sie auf ein Protokollelement, um das Bedienfeld im Bedienfeld &quot;Szenario&quot;zu öffnen. Die Protokolle werden in chronologischer Reihenfolge ihres Auftretens aufgelistet.
+   ![Ausführungsverlauf Bild 5](../12-exercises/assets/execution-history-walkthrough-5.png)
 
 
-   ![Abbildung des Ausführungsverlaufs 7](../12-exercises/assets/execution-history-walkthrough-7.png)
+1. Scrollen Sie im rechten Bereich durch das einfache Protokoll oder klicken Sie sich durch, um Details zur Wiedergabe der Ausführung anzuzeigen.
+
+   + Sie können sehen, wann Vorgänge in Modulen abgeschlossen wurden und wann Bündel über Filter übergeben wurden (oder nicht).
+
+   ![Ausführungsverlauf Bild 6](../12-exercises/assets/execution-history-walkthrough-6.png)
+
+   + Klicken Sie auf ein Protokollelement, um das Operations-Bedienfeld im Szenario-Bedienfeld zu öffnen. Die Protokolle werden in chronologischer Reihenfolge ihres Auftretens aufgelistet.
 
 
-1. Das Protokoll Erweitert enthält ähnliche Informationen. Es enthält jedoch weitere Informationen darüber, wie viele Zyklen pro Ausführung ausgeführt wurden, und ermöglicht Ihnen, genauer zu untersuchen, welche Informationsbündel in den einzelnen Zyklen verarbeitet wurden.
+   ![Ausführungsverlauf Bild 7](../12-exercises/assets/execution-history-walkthrough-7.png)
 
-![Abbildung des Ausführungsverlaufs 8](../12-exercises/assets/execution-history-walkthrough-8.png)
+
+1. Das erweiterte Protokoll zeigt ähnliche Informationen. Es enthält jedoch zusätzlich Informationen darüber, wie viele Zyklen pro Ausführung ausgeführt wurden, und ermöglicht Ihnen, genauer zu untersuchen, welche Informationsbündel in den einzelnen Zyklen verarbeitet wurden.
+
+![Ausführungsverlauf Bild 8](../12-exercises/assets/execution-history-walkthrough-8.png)
