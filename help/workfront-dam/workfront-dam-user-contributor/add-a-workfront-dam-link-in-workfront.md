@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen einer [!UICONTROL Workfront DAM] Link in Workfront
-description: Erfahren Sie, wie Sie eine [!UICONTROL Workfront DAM] in Workfront verknüpfen, damit Sie [!UICONTROL DAM] zu Ihrem Projekt, Ihrer Aufgabe oder Ihrem Problem in Workfront.
+title: Hinzufügen eines [!UICONTROL Workfront DAM]-Links in Workfront
+description: Erfahren Sie, wie Sie einen [!UICONTROL Workfront DAM]-Link in Workfront hinzufügen, um [!UICONTROL DAM] mit Ihrem Projekt, Ihrer Aufgabe oder Ihrem Problem in Workfront zu verknüpfen.
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -10,35 +10,35 @@ level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '266'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Hinzufügen einer [!UICONTROL Workfront DAM] Link in [!DNL Workfront]
+# Hinzufügen eines [!UICONTROL Workfront DAM]-Links in [!DNL Workfront]
 
-Richten Sie zunächst die Verbindung zwischen den beiden Systemen ein.
+Verbinden Sie zunächst beide Systeme miteinander.
 
-1. Anmelden bei [!DNL Workfront].
-1. Öffnen Sie ein Projekt, eine Aufgabe oder ein Problem und klicken Sie auf **[!UICONTROL Dokumente]** Registerkarte.
-1. Klicken Sie auf **[!UICONTROL Neu hinzufügen]** Schaltfläche und wählen Sie **[!UICONTROL Aus Workfront DAM]** aus dem Dropdown-Menü.
-1. Geben Sie Ihren Anmeldenamen und Ihr Kennwort in das Feld [!UICONTROL Workfront DAM] Autorisierungsfeld angezeigt.
-1. Klicken Sie anschließend auf **[!UICONTROL Ja]** um [!DNL Workfront] Zugang zu [!UICONTROL DAM] -Konto.
-1. Aktualisieren Sie bei Bedarf die Seite, um den Zugriff auf [!UICONTROL Workfront DAM].
+1. Melden Sie sich bei [!DNL Workfront] an.
+1. Öffnen Sie ein Projekt, eine Aufgabe oder ein Problem und klicken Sie auf die Registerkarte **[!UICONTROL Dokumente]**.
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Neu hinzufügen]** und wählen Sie im Dropdown-Menü **[!UICONTROL Aus Workfront DAM]**.
+1. Geben Sie Ihren Anmeldenamen und Ihr Kennwort in das [!UICONTROL Workfront DAM]-Autorisierungsfeld ein, das erscheint.
+1. Klicken Sie anschließend auf **[!UICONTROL Ja]**, um [!DNL Workfront] Zugriff auf das [!UICONTROL DAM]-Konto zu gewähren.
+1. Aktualisieren Sie bei Bedarf die Seite, um den Zugriff auf [!UICONTROL Workfront DAM] zu aktualisieren.
 
-Jetzt können Sie einen Link zum [!UICONTROL Workfront DAM] -Element [!DNL Workfront].
+Jetzt können Sie einen Link zum [!UICONTROL Workfront DAM]-Element [!DNL Workfront] erstellen.
 
-1. Anmelden bei [!DNL Workfront].
-1. Öffnen Sie ein Projekt, eine Aufgabe oder ein Problem und klicken Sie auf **[!UICONTROL Dokumente]** Registerkarte.
-1. Klicken Sie auf **[!UICONTROL Neu hinzufügen]** Schaltfläche und wählen Sie **[!UICONTROL Aus Workfront DAM]** aus dem Dropdown-Menü.
-   ![Ein Bild der [!UICONTROL Aus Workfront DAM] in der [!UICONTROL Neu hinzufügen] Dropdown-Menü](assets/01-contributor-from-workfront-dam.png)
-1. Eine Liste der Dateien und Ordner, auf die Sie in zugreifen können [!UICONTROL Workfront DAM] im Fenster angezeigt.
+1. Melden Sie sich bei [!DNL Workfront] an.
+1. Öffnen Sie ein Projekt, eine Aufgabe oder ein Problem und klicken Sie auf die Registerkarte **[!UICONTROL Dokumente]**.
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Neu hinzufügen]** und wählen Sie im Dropdown-Menü **[!UICONTROL Aus Workfront DAM]**.
+   ![Ein Bild der Option [!UICONTROL Aus Workfront DAM] im Dropdown-Menü [!UICONTROL Neu hinzufügen] ](assets/01-contributor-from-workfront-dam.png)
+1. Im Fenster wird eine Liste der Dateien und Ordner angezeigt, auf die Sie in [!UICONTROL Workfront DAM] zugreifen können.
 
-1. Suchen Sie nach dem gesuchten Asset und aktivieren Sie das Kontrollkästchen daneben. Die Standardansicht ist eine Liste, Sie können jedoch mit den Symbolen in der oberen rechten Ecke des Fensters zu einer Miniaturansicht wechseln.
+1. Suchen Sie nach dem gewünschten Asset und markieren Sie das Kontrollkästchen daneben. Die Standardansicht ist eine Liste, Sie können jedoch mit den Symbolen oben rechts im Fenster zu einer Miniaturansicht wechseln.
 
    ![Ein Bild ausgewählter Assets in einem Popup-Fenster](assets/02-contributor-select-files-in-dam.png)
 
-1. Klicken Sie auf **[!UICONTROL Link]** Schaltfläche. Ein Link zum [!UICONTROL Workfront DAM] in der Dokumentliste angezeigt. Ein Symbol steht für diesen Link.
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Verknüpfen]**. Ein Link zur [!UICONTROL Workfront DAM]-Datei erscheint in der Dokumentenliste. Dieser Link wird durch ein Symbol dargestellt.
 
-   ![Ein Bild der Links zum [!UICONTROL Workfront DAM] Dateien, die in der Dokumentliste von [!DNL Workfront].](assets/03-contributor-linked-in-wf.png)
+   ![Bild der Links zu den [!UICONTROL Workfront DAM]-Dateien, die in der Dokumentliste von [!DNL Workfront] angezeigt werden.](assets/03-contributor-linked-in-wf.png)
