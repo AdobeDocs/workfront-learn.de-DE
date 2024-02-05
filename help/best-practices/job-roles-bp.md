@@ -1,109 +1,109 @@
 ---
-title: Best Practice - Job-Rollen
-description: Erfahren Sie mehr über Best Practices-Empfehlungen von Adobe Workfront-Experten zur Einrichtung, Verwaltung und Verwendung von Workfront-Arbeitsplatzrollen.
+title: Best Practice – Aufgabengebiete
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Workfront-Aufgabengebieten empfehlen.
 feature: People Teams and Groups
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '600'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Job-Rollen
+# Best Practice – Aufgabengebiete
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine Best Practice für Adobe Workfront?
 
-Best Practices sind Leitlinien, die einen wirksamen und effizienten Handlungsweg darstellen. leicht von Ihnen und den Benutzern in Ihrem Unternehmen übernommen werden; und können in Ihrem gesamten Unternehmen erfolgreich repliziert werden.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
-
-</br>
-</br>
-
-## Best Practices für Auftragsrollen
-
-* Verwenden Sie Benennungskonventionen für die im gesamten Unternehmen verwendeten Jobrollen.
-
-* Weisen Sie beim Erstellen von Projektvorlagen Aufgaben Auftragsrollen zu.
-
-* Erstellen Sie keine Vorgangsrollen anhand von Auftragstiteln.
-
-* Achten Sie beim Erstellen von Stellenrollen darauf, diese nicht zu detailliert zu gestalten.
-
-* Erstellen Sie ähnliche Arbeitsplatzrollen nur, wenn eine klare Unterscheidung erforderlich ist.
+Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Aufgabengebiete – Best Practices
+
+* Verwenden Sie für Aufgabengebiete Namenskonventionen, die im gesamten Unternehmen verwendet werden.
+
+* Ordnen Sie den Aufgabengebieten bei der Erstellung von Projektvorlagen Aufgaben zu.
+
+* Erstellen Sie Aufgabengebiete nicht nach Aufgabentitel.
+
+* Achten Sie bei der Erstellung von Aufgabengebieten darauf, dass diese nicht zu detailliert sind.
+
+* Schaffen Sie nur dann ähnliche Aufgabengebiete, wenn eine klare Unterscheidung erforderlich ist.
+
+</br>
+</br>
+
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Verwenden Sie Benennungskonventionen für die im gesamten Unternehmen verwendeten Jobrollen.
+Verwenden Sie für Aufgabengebiete Namenskonventionen, die im gesamten Unternehmen verwendet werden.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Die Jobrollen sind global. Wenn Sie zwischen verschiedenen Gruppen innerhalb Ihres Unternehmens Arbeitsrollen mit demselben Namen unterscheiden und verwalten möchten, sind Benennungskonventionen die beste Methode. Verwenden Sie eine Benennungskonvention, die Ihren Anforderungen entspricht, aber denken Sie daran, sie einfach zu halten.
-
-</br>
-</br>
-
-**Best Practice**
-
-Weisen Sie beim Erstellen von Projektvorlagen Aufgaben Auftragsrollen zu.
-
-**Deshalb**
-
-Wenn einzelne Benutzer Aufgaben in Projektvorlagen zugewiesen werden, kann dies zu Personalproblemen führen, wenn ein Benutzer die Rollen wechselt oder die Organisation verlässt. Dadurch wird die Pflege der Vorlage und des Projekts zeitaufwendiger.
-
-Darüber hinaus können Sie mithilfe von Aufgaben mithilfe der Tools für die Ressourcenverwaltung von Workfront Ihre Ressourcenanforderungen vorhersagen und Aufgaben zuweisen.
+Aufgabengebiete sind global. Wenn Sie Aufgabengebiete mit demselben Namen in verschiedenen Gruppen innerhalb Ihres Unternehmens unterscheiden und verwalten möchten, sind Namenskonventionen die beste Methode. Verwenden Sie eine Namenskonvention, die Ihren Bedürfnissen entspricht, aber halten Sie sie einfach.
 
 </br>
 </br>
 
 **Best Practice**
 
-Erstellen Sie keine Vorgangsrollen anhand von Auftragstiteln.
+Ordnen Sie den Aufgabengebieten bei der Erstellung von Projektvorlagen Aufgaben zu.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Vorgangsrollen stellen die Fähigkeiten dar, die ein Benutzer zum Ausführen einer Aufgabe besitzt. Auftragstitel spiegeln nicht immer die Fähigkeiten oder die Art der Arbeit wider, die der Benutzer erbringt.
+Wenn einzelnen Benutzenden Aufgaben in Projektvorlagen zugewiesen werden, kann dies zu Problemen bei der Personalbesetzung führen, wenn eine Person ihre Rolle wechselt oder das Unternehmen verlässt. Dadurch wird die Pflege der Vorlage und des Projekts zeitaufwendiger.
 
-</br>
-</br>
-
-**Best Practice**
-
-Achten Sie beim Erstellen von Stellenrollen darauf, diese nicht zu detailliert zu gestalten.
-
-**Deshalb**
-
-Sie können einen Benutzer mit mehreren Auftragsrollen verknüpfen, aber Sie benötigen möglicherweise keine Jobrolle für alle Fähigkeiten, die ein Benutzer hat. Stützen Sie die Vorgangsrollen auf Ihre Anforderungen an die Zuweisung von Aufgaben und den gewünschten Detaillierungsgrad, den Sie in Ressourcenverwaltungsberichten benötigen.
+Die Zuweisung von Aufgabengebieten zu Aufgaben hilft Ihnen außerdem bei der Vorhersage Ihres Ressourcenbedarfs und bei der Arbeitszuweisung mithilfe der Workfront-Tools zum Ressourcen-Management.
 
 </br>
 </br>
 
 **Best Practice**
 
-Erstellen Sie ähnliche Arbeitsplatzrollen nur, wenn eine klare Unterscheidung erforderlich ist.
+Erstellen Sie Aufgabengebiete nicht nach Aufgabentitel.
 
-**Deshalb**
+**Das sind die Gründe**
 
-In den meisten Fällen ist es nicht erforderlich, dass mehrere Jobrollen dieselbe Qualifikation repräsentieren. Sie benötigen jedoch mehrere Vorgangsrollen, wenn:
+Aufgabengebiete stellen die Fähigkeiten einer Person dar, eine Aufgabe zu erledigen. Aufgabengebiete spiegeln nicht immer die Fähigkeiten der Person oder die Art der Arbeit wider, die sie verrichtet.
 
-Der Abrechnungskurs ist anders. So kann beispielsweise ein leitender Grafikdesigner zu einem anderen Preis als ein Grafikdesigner in Rechnung gestellt werden.
-Arbeitszuweisungen erfordern eine bestimmte Art von Auftragsrolle. Beispielsweise sollte eine Aufgabe von einem Projektmanager, aber nicht von einem Koordinator ausgeführt werden.
-Sie müssen Ressourcen anhand der Auftragsrollen verwalten. Sie können beispielsweise 600 Stunden Grafik-Design haben, aber nur 200 Stunden Senior Art Richtung.
+</br>
+</br>
+
+**Best Practice**
+
+Achten Sie bei der Erstellung von Aufgabengebieten darauf, dass diese nicht zu detailliert sind.
+
+**Das sind die Gründe**
+
+Sie können einer Person mehrere Aufgabengebiete zuordnen, brauchen aber nicht für jede ihrer Fähigkeiten ein eigenes Aufgabengebiet. Orientieren Sie sich bei der Auswahl der Aufgabengebiete an Ihrem Bedarf für die Arbeitszuweisung und dem gewünschten Detaillierungsgrad der Berichte zur Ressourcenverwaltung.
+
+</br>
+</br>
+
+**Best Practice**
+
+Schaffen Sie nur dann ähnliche Aufgabengebiete, wenn eine klare Unterscheidung erforderlich ist.
+
+**Das sind die Gründe**
+
+In den meisten Fällen ist es nicht erforderlich, dass mehrere Aufgabengebiete dieselben Fähigkeiten repräsentieren. Sie benötigen jedoch mehrere Aufgabengebiete, wenn:
+
+der Abrechnungssatz unterschiedlich ist. So kann beispielsweise eine Grafik-Designerin oder ein Grafik-Designer zu einem anderen Satz abgerechnet werden, wenn es sich um eine Führungskraft handelt.
+die Arbeitsaufgaben eine bestimmte Art von Aufgabengebiet erfordern. Wenn beispielsweise eine Aufgabe von einer Projektleiterin oder einem Projektleiter, nicht aber von einer Koordinatorin bzw. einem Koordinator erledigt werden soll.
+die Ressourcen anhand der Aufgabengebiete verwaltet werden müssen. Wenn Sie zum Beispiel 600 Stunden einer Grafik-Designerin oder eines Grafik-Designers, aber nur 200 Stunden Arbeit als Senior Art Director abrechnen können.
 
 
-Wenn Sie ähnliche Aufgabenrollen erstellen, verwenden Sie das Beschreibungsfeld für jede Rolle, um die Unterschiede zwischen den Rollen, dem Zeitpunkt und der Art ihrer Verwendung usw. anzugeben.
+Wenn Sie ähnliche Aufgabengebiete erstellen, verwenden Sie das Beschreibungsfeld für jedes von ihnen, um die Unterschiede zwischen ihnen anzugeben, wann und wie sie verwendet werden, usw.
