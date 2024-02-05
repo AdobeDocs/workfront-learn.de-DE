@@ -1,6 +1,6 @@
 ---
 title: Schließen von Aufgaben und Problemen
-description: Erfahren Sie, wie Sie sicherstellen, dass Aufgaben und Probleme geschlossen werden, bevor Sie ein Projekt schließen in [!DNL  Workfront].
+description: Erfahren Sie, wie Sie sicherstellen, dass Aufgaben und Probleme geschlossen werden, bevor Sie ein Projekt in [!DNL  Workfront]schließen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,18 +12,18 @@ last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '150'
+ht-degree: 100%
 
 ---
 
 # Schließen von Aufgaben und Problemen
 
-Einer der ersten Schritte zum Schließen eines [!DNL Workfront] -Projekt stellt sicher, dass alle Aufgaben und Probleme den Status Abgeschlossen oder einen gleichwertigen Status aufweisen.
+Einer der ersten Schritte zum Schließen eines [!DNL Workfront]-Projekts ist es, sicherzustellen, dass alle Aufgaben und Probleme den Status „Abgeschlossen“ oder einen gleichwertigen Status aufweisen.
 
-Wenn die Variable [!UICONTROL Prozent abgeschlossen] im Projektheader zeigt 100 % an, dass alle Ihre Aufgaben als zu 100 % abgeschlossen gekennzeichnet sind. Eine Aufgabe, die [!UICONTROL Complete - Ausstehende Genehmigung] wird immer noch als 100% gelesen, also vergiss nicht, nach diesen zu suchen. Siehe [Vollständige Genehmigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) für alle Tipps zu Genehmigungen.
+Wenn das Feld [!UICONTROL Prozent abgeschlossen] in der Kopfzeile des Projekts „100 %“ anzeigt, wissen Sie, dass alle Ihre Aufgaben als 100 % abgeschlossen markiert wurden. Allerdings wird eine Aufgabe, die [!UICONTROL Abgeschlossen – Ausstehende Genehmigung] ist, immer noch als 100 % angezeigt, also vergessen Sie nicht, diese zu überprüfen. Alle Tipps zu Genehmigungen finden Sie unter [Abgeschlossene Genehmigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html?lang=de).
 
-Wenn Sie unvollständige Probleme haben, auch solche, für die eine Genehmigung aussteht, wird neben der Registerkarte Probleme eine Zahl angezeigt, die angibt, wie viele Probleme vorliegen. Wenn die Zahl null ist, treten keine unvollständigen Probleme auf.
+Wenn Sie unvollständige Ausgaben haben, auch solche, die noch nicht genehmigt sind, wird neben der Registerkarte mit Problemen eine Zahl angezeigt, die die Anzahl der Probleme angibt. Wenn die Zahl Null ist, gibt es keine nicht abgeschlossenen Probleme.
 
-![Projekt anzeigen [!UICONTROL Prozent abgeschlossen] und offene Probleme](assets/close-tasks-and-issues.png)
+![Projekt, das [!UICONTROL Prozent abgeschlossen] und offene Probleme anzeigt](assets/close-tasks-and-issues.png)
