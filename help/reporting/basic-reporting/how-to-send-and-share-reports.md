@@ -1,6 +1,6 @@
 ---
-title: Berichte senden und freigeben
-description: Erfahren Sie, wie Sie Berichte an Benutzer, Teams oder beliebige E-Mail-Adressen senden und Berichte für andere in Workfront freigeben können.
+title: Senden und Freigeben von Berichten
+description: Erfahren Sie, wie Sie in Workfront Berichte an Benutzende, Teams oder beliebige E-Mail-Adressen senden und wie Sie Berichte für andere freigeben können.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,44 +12,44 @@ jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Berichte senden und freigeben
+# Senden und Freigeben von Berichten
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Senden von Berichten an Benutzer, Teams oder eine beliebige E-Mail-Adresse
-* Berichte für andere freigeben
-* Was Empfänger mit einem Workfront-Bericht sehen und tun können
+* Wie Berichte an Benutzende, Teams oder beliebige E-Mail-Adressen gesendet werden
+* Wie Berichte für andere freigegeben werden
+* Was die Empfängerinnen und Empfänger in einem Workfront-Bericht sehen und was sie damit tun können
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Aktivität: Bericht senden
+## Aktivität: Einen Bericht senden
 
-Senden Sie sich jeden Montag um 5 Uhr einen Bericht als Excel-Tabelle. Auf diese Weise können Sie wöchentliche Berichte automatisch erfassen, mit denen Sie später Trends sehen können.
+Senden Sie sich selbst jeden Montag um 5 Uhr morgens einen Bericht in Form einer Excel-Tabelle. Auf diese Weise können Sie automatisch wöchentliche Berichte erstellen, die Sie später nutzen können, um Trends zu erkennen.
 
 ## Antwort
 
-![Ein Bild des Bildschirms zum Einrichten wiederholter Berichtbereitstellungen](assets/send-a-report.png)
+![Ein Screenshot des Bildschirms zum Einrichten wiederkehrender Berichtssendungen](assets/send-a-report.png)
 
-1. Zeigen Sie einen von Ihnen erstellten Bericht an und wählen Sie **[!UICONTROL Bericht senden]** von **[!UICONTROL Berichtaktionen]** Menü.
-1. Klicken Sie auf **[!UICONTROL Wiederholen von Sendungen]** Registerkarte.
-1. Geben Sie Ihre E-Mail-Adresse in das Feld **[!UICONTROL Senden an]** -Feld.
+1. Zeigen Sie einen beliebigen Bericht an, den Sie erstellt haben, und wählen Sie **[!UICONTROL Bericht senden]** aus dem Menü **[!UICONTROL Berichtsaktionen]** aus.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Wiederholte Sendungen]**.
+1. Geben Sie Ihre E-Mail-Adresse in das Feld **[!UICONTROL Senden an]** ein.
 1. Geben Sie einen E-Mail-Betreff an.
 1. Ändern Sie das Format in Excel.
-1. Satz **[!UICONTROL Wiederholungen]** nach [!UICONTROL Wöchentlich].
-1. Legen Sie die [!UICONTROL Zeit] bis 5 Uhr.
-1. Satz [!UICONTROL Wiederholt] bis Montag.
+1. Stellen Sie **[!UICONTROL Wiederholungen]** auf [!UICONTROL Wöchentlich] ein.
+1. Stellen Sie die [!UICONTROL Zeit] auf 5 Uhr ein.
+1. Setzen Sie [!UICONTROL Wiederholungen am] auf Montag.
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 >[!NOTE]
 >
->Beachten Sie Ihre neue wiederholte Bereitstellung im [!UICONTROL Wiederholen von Sendungen] auf der rechten Seite. Sie können mehrere Sendungen für einen Bericht einrichten, die hier alle angezeigt werden.
+>Sie sehen jetzt Ihren neuen wiederkehrenden Versand im Bereich [!UICONTROL Wiederkehrende Sendungen] auf der rechten Seite. Sie können mehrere Sendungen für einen Bericht einrichten, die dann alle hier erscheinen.
 
-**DELETE EINES VERSANDS**
+**LÖSCHEN EINES VERSANDS**
 
-Wählen Sie den soeben erstellten Versand aus und klicken Sie auf Löschen (neben dem **[!UICONTROL Speichern]** Schaltfläche).
+Wählen Sie den soeben erstellten Versand aus und klicken Sie auf „Löschen“ (neben der Schaltfläche **[!UICONTROL Speichern]**).
