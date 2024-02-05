@@ -1,6 +1,6 @@
 ---
-title: Anleitung zu Datenstrukturen
-description: Erfahren Sie, wie Sie Zeitprotokollinformationen aus einer Datei benötigen, sie transformieren und eine neue Datei mit den umgewandelten Daten erstellen können in [!DNL Adobe Workfront Fusion].
+title: Datenstrukturen – Anleitung
+description: Erfahren Sie, wie Sie Zeitprotokolldaten aus einer Datei übernehmen, sie umwandeln und mit den umgewandelten Daten in [!DNL Adobe Workfront Fusion]eine neue Datei erstellen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anleitung zu Datenstrukturen
+# Datenstrukturen – Anleitung
 
-Öffnen Sie eine CSV-Datei, die eine Liste mit Zeiteinträgen enthält. Diese Zeiteinträge beziehen sich auf Minuten, die von mehreren Benutzern an bestimmten Tagen protokolliert werden. Ziel ist es, diese Informationen zu nehmen und eine neue CSV-Datei zu erstellen, die die Gesamtzeit (in Stunden) anzeigt, die jeder Benutzer täglich protokolliert.
+Öffnen Sie eine CSV-Datei mit einer Liste von Zeiteinträgen. Diese Zeiteinträge beziehen sich auf Minuten, die an bestimmten Tagen von mehreren Benutzenden erfasst wurden. Ziel ist es, anhand dieser Informationen eine neue CSV-Datei mit der von jeder Person täglich protokollierten Gesamtzeit (in Stunden) zu erstellen.
 
-![Bild eines Fusionsszenarios](assets/data-structures-and-data-stores-1.png)
+![Ein Bild eines Fusion-Szenarios](assets/data-structures-and-data-stores-1.png)
 
-## Anleitung zu Datenstrukturen
+## Datenstrukturen – Anleitung
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -31,9 +31,9 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Anleitung zu Datenstrukturen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-structures.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Datenstrukturen – Anleitung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-structures.html?lang=de).
 
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
