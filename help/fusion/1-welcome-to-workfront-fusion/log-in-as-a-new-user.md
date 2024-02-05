@@ -1,6 +1,6 @@
 ---
-title: Als neuer Benutzer anmelden
-description: Erfahren Sie, wie Sie sich als neuer Benutzer anmelden.
+title: Anmelden als eine neue Benutzerin bzw. ein neuer Benutzer
+description: Erfahren Sie, wie Sie sich als neue Benutzerin oder neuer Benutzer anmelden.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,17 +10,17 @@ level: Beginner
 jira: KT-11036
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Als neuer Benutzer anmelden
+# Anmelden als eine neue Benutzerin bzw. ein neuer Benutzer
 
-Wenn Sie als neuer Benutzer zu einer Workfront Fusion-Instanz eingeladen werden, erhalten Sie zwei E-Mails.
+Wenn Sie als neue Benutzerin oder neuer Benutzer zu einer Workfront Fusion-Instanz eingeladen werden, erhalten Sie zwei E-Mails.
 
-Eine E-Mail enthält einen Hinweis, den der Workfront Fusion-Systemadministrator hinzugefügt hat, als er Ihr Profil erstellt und Sie zur Organisation eingeladen hat. Am Ende der E-Mail befindet sich [!UICONTROL Rolle akzeptieren] Schaltfläche. **Klicken Sie noch nicht auf diese Schaltfläche!**
+Eine E-Mail enthält eine Notiz, die die Workfront Fusion-Systemadmins hinzugefügt haben, als sie Ihr Profil erstellt und Sie in die Organisation eingeladen haben. Am Ende der E-Mail befindet sich die Schaltfläche [!UICONTROL Rolle akzeptieren]. **Klicken Sie noch nicht auf diese Schaltfläche!**
 
 ![Ein Bild Ihrer E-Mail-Einladung](assets/new-user-1.png)
 
@@ -28,10 +28,10 @@ Die andere E-Mail enthält Ihre Anmeldedaten.
 
 ![Ein Bild Ihrer E-Mail-Einladung](assets/new-user-2.png)
 
-Um mit der Verwendung von Workfront Fusion zu beginnen, klicken Sie auf das [!UICONTROL Anmelden] in der zweiten E-Mail und melden Sie sich mit dem angegebenen Kennwort an.
+Um mit der Verwendung von Workfront Fusion zu beginnen, klicken Sie auf die Schaltfläche [!UICONTROL Anmelden] in der zweiten E-Mail und melden Sie sich mit dem angegebenen Kennwort an.
 
 Nach der ersten Anmeldung werden Sie aufgefordert, Ihr Kennwort zu ändern.
 
-Nachdem Sie sich angemeldet haben, kehren Sie zur anderen E-Mail zurück und klicken Sie auf die Schaltfläche [!UICONTROL Rolle akzeptieren] Schaltfläche.
+Nachdem Sie sich angemeldet haben, kehren Sie zur anderen E-Mail zurück und klicken Sie nun auf die Schaltfläche [!UICONTROL Rolle akzeptieren].
 
-Kehren Sie danach zu Workfront Fusion zurück und aktualisieren Sie die Seite. Ihr Team und die Übersichtsabschnitte finden Sie jetzt im linken Bereich.
+Kehren Sie dann zu Workfront Fusion zurück und aktualisieren Sie die Seite. Sie finden jetzt Ihr Team und die Übersichtsabschnitte im linken Bereich.
