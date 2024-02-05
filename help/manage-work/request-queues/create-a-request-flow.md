@@ -1,6 +1,6 @@
 ---
-title: Anforderungsfluss erstellen
-description: Erfahren Sie, wie Sie [!DNL  Workfront] Themen, Themengruppen und Routing-Regeln zur Verwaltung von Anforderungen und Arbeitserfassung.
+title: Erstellen eines Anfrageflusses
+description: Erfahren Sie, wie Sie  [!DNL  Workfront] Warteschlangenthemen, Themengruppen und Routing-Regeln zur Hilfe bei der Verwaltung von Anforderungen und Arbeitserfassung konfigurieren.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -12,13 +12,13 @@ jira: KT-8960
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
 source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anforderungsfluss erstellen
+# Erstellen eines Anfrageflusses
 
 In diesem Video erfahren Sie, wie Sie Warteschlangenthemen, Themengruppen und Routing-Regeln konfigurieren.
 
