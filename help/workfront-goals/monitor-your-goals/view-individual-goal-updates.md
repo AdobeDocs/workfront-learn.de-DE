@@ -1,6 +1,6 @@
 ---
-title: Anzeigen einzelner Zielaktualisierungen in [!DNL Workfront Goals]
-description: Erfahren Sie, wie Sie Ihre individuellen Ziele im [!UICONTROL Puls] Aktualisierungsstream in [!DNL Goals].
+title: Anzeigen einzelner Zielaktualisierungen in  [!DNL Workfront Goals]
+description: Erfahren Sie, wie Sie Ihre persönlichen Ziele im Aktualisierungsverlauf von [!UICONTROL Pulse] in [!DNL   Goals] anzeigen können.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,39 +11,39 @@ jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 # Anzeigen einzelner Zielaktualisierungen
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Zeigen Sie Ihre individuellen Ziele im [!UICONTROL Puls] Aktualisierungsstream
+* Zeigen Sie Ihre individuellen Ziele im Aktualisierungsverlauf von [!UICONTROL Pulse] an
 
 >[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on)
 
-## Filtern von Informationen in Ihrem Pulsstrom
+## Filtern von Informationen in Ihrem Verlauf von Pulse
 
-Sie werden feststellen, dass Sie manchmal zu viele Informationen in der [!UICONTROL Puls] Streamen oder vielleicht nicht die richtigen Informationen. Filtern Sie die Informationen in Ihrem Feed, um genau zu sehen, was Sie möchten oder benötigen.
+Sie werden feststellen, dass Sie im Verlauf von [!UICONTROL Pulse] manchmal zu viele Informationen oder vielleicht nicht die richtigen Informationen erhalten. Filtern Sie die Informationen in Ihrem Feed, um genau das zu sehen, was Sie möchten oder benötigen.
 
-1. Klicken [!UICONTROL **Puls**] im linken Bereich.
-1. Klicken Sie auf [!UICONTROL **Filter**] rechts oben.
-1. Wählen Sie eine Option zum Filtern aus. Der Filter Alle wird standardmäßig angewendet und zeigt alle Ziele in Ihrem System an. Sie können einen der folgenden Schritte ausführen:
+1. Klicken Sie auf [!UICONTROL **Pulse**] im linken Bereich.
+1. Klicken Sie auf das Symbol für [!UICONTROL **Filter**] rechts oben.
+1. Wählen Sie eine Filteroption aus. Der Filter „Alle“ wird standardmäßig angewendet und zeigt alle Ziele in Ihrem System an. Sie können einen der folgenden Schritte ausführen:
 
-   * Wählen Sie einen der vordefinierten Filter aus, die unter dem [!UICONTROL Gespeichert] Bereich des Filterbedienfelds, um Ziele für Inhaber anzuzeigen (d. h. [!UICONTROL Alle], [!UICONTROL Persönlich], [!UICONTROL Meine Teams], [!UICONTROL Meine Gruppen]und [!UICONTROL Firma]).
-   * Bewegen Sie den Mauszeiger über den Namen eines Filters und klicken Sie auf **Bearbeiten** neben dem Namen, um es anzupassen und spezifische Namen von Benutzern, Teams, Gruppen oder dem Namen Ihrer Organisation hinzuzufügen.
-   * Klicken [!UICONTROL **Neuer Filter**] , um einen neuen Filter zu erstellen, wählen Sie aus der Liste der Optionen aus, nach denen Sie ihn anpassen und filtern möchten. [!UICONTROL Zeitraum], [!UICONTROL Status], [!UICONTROL Fortschritt]und/oder [!UICONTROL Inhaber].
+   * Wählen Sie einen der vordefinierten Filter aus, die unter dem Bereich [!UICONTROL Gespeichert] des Filterbedienfelds aufgeführt sind, um Ziele für Inhaber anzuzeigen (d. h. [!UICONTROL Alle], [!UICONTROL Persönlich], [!UICONTROL Meine Teams], [!UICONTROL Meine Gruppen] und [!UICONTROL Firma]).
+   * Bewegen Sie den Mauszeiger über den Namen eines Filters und klicken Sie auf **Bearbeiten** neben dem Namen, um ihn anzupassen und spezifische Namen von Benutzenden, Teams, Gruppen oder dem Namen Ihrer Organisation hinzuzufügen.
+   * Klicken Sie auf [!UICONTROL **Neuer Filter**], um einen neuen Filter zu erstellen, und wählen Sie aus der Liste die Optionen aus, nach denen Sie ihn anpassen und filtern möchten. Zu den Optionen gehören: [!UICONTROL Zeitraum], [!UICONTROL Status], [!UICONTROL Fortschritt], und/oder [!UICONTROL Inhaber].
 
-   ![Ein Bild der [!UICONTROL Filter] Bedienfeld in [!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
+   ![Ein Bild des Bedienfelds [!UICONTROL Filter] in [!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
 
-**Hinweis:** Ihre Filterauswahl bleibt erhalten und die Informationen in anderen Abschnitten von [!DNL Goals] wird entsprechend diesen Informationen angezeigt. Sie können Ziele in verschiedenen Abschnitten der [!DNL Goals] Gebiet in [!DNL Workfront]:
+**Hinweis:** Ihre Filterauswahl bleibt erhalten und die Informationen in anderen Abschnitten von [!DNL Goals] werden entsprechend diesen Informationen angezeigt. Sie können in verschiedenen Abschnitten des Bereichs [!DNL Goals] in [!DNL Workfront] nach Zielen suchen und sie filtern:
 
 * [!UICONTROL Liste der Ziele]
 * [!UICONTROL Diagramme]
 * [!UICONTROL Impuls]
-* [!UICONTROL Ziel-Ausrichtung]. In diesem Abschnitt können Sie vorübergehend die Ziele anzeigen, die nicht mit dem angewendeten Filter übereinstimmen, sodass Sie das vollständige Bild aller ausgerichteten Ziele erhalten. Klicken Sie auf [!UICONTROL **Anzeigen/Anzeigen**] Option , wenn Ziele durch den ausgewählten Filter ausgeblendet werden.
+* [!UICONTROL Ziel-Ausrichtung]. In diesem Abschnitt können Sie vorübergehend die Ziele anzeigen, die nicht mit dem angewendeten Filter übereinstimmen, sodass Sie das vollständige Bild aller ausgerichteten Ziele erhalten. Klicken Sie auf die Option [!UICONTROL **Anzeigen**], wenn Ziele durch den ausgewählten Filter ausgeblendet werden.
 
   ![](assets/19-workfront-goals-filter-show-it.png)
