@@ -1,6 +1,6 @@
 ---
-title: Erweitern Sie Ihren Workflow mit der G Suite-Integration.
-description: Erfahren Sie, wie Sie eine E-Mail in eine [!DNL Workfront] Aufgabe oder Problem, Ansicht und Aktualisierung [!DNL Workfront] von Gmail arbeiten und genehmigen [!DNL Workfront] Arbeit von Gmail.
+title: Verbessern des Arbeitsablaufs mit der G Suite-Integration
+description: Erfahren Sie, wie Sie eine E-Mail in eine Aufgabe oder ein Problem in [!DNL Workfront] umwandeln,  [!DNL Workfront] -Arbeit von Gmail aus anzeigen und aktualisieren und  [!DNL Workfront] -Arbeit von Gmail aus genehmigen.
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,22 +11,22 @@ jira: KT-8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 doc-type: video
 source-git-commit: aa552b484b467509c0c75fa581e16401a172b5c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erweitern Sie Ihren Workflow mit der G Suite-Integration.
+# Verbessern des Arbeitsablaufs mit der G Suite-Integration
 
-In diesem Video erfahren Sie, wie Sie:
+In diesem Video lernen Sie Folgendes:
 
-* E-Mail in Workfront-Aufgabe oder -Problem konvertieren
-* Anzeigen und Aktualisieren der Workfront-Arbeit von [!DNL Gmail]
-* Genehmigen der Workfront-Arbeit von [!DNL Gmail]
+* Umwandeln einer E-Mail in eine Aufgabe oder ein Problem in Workfront
+* Anzeigen und Aktualisieren einer Workfront-Arbeit von [!DNL Gmail] aus
+* Genehmigen einer Workfront-Arbeit von [!DNL Gmail] aus
 
 >[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on)
 
 ## Installieren von Adobe Workfront für G Suite
 
-Anweisungen zur Installation der neuesten Version finden Sie unter: [Installieren von Adobe Workfront für G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html).
+Anweisungen zur Installation der neuesten Version finden Sie unter [Installieren von Adobe Workfront für G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html?lang=de).
