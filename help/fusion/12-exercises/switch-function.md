@@ -1,6 +1,6 @@
 ---
 title: Switch-Funktion
-description: Erfahren Sie, wie Sie die Switch-Funktion mit der Switch-Funktion verwenden.
+description: Erfahren Sie, wie Sie die Umschaltfunktionalität nutzen können, indem Sie die Umschaltfunktion verwenden.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,35 +11,35 @@ jira: KT-11051
 thumbnail: KT1101.png
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Switch-Funktion
 
-Erfahren Sie, wie Sie die Switch-Funktion mit der Switch-Funktion verwenden.
+Erfahren Sie, wie Sie die Umschaltfunktionalität nutzen können, indem Sie die Umschaltfunktion verwenden.
 
 ## Übungsübersicht
 
-Verwenden Sie für einfache Datenänderungen die Switch-Funktion, um innerhalb eines Modulfelds einen Wert in einen anderen umzuwandeln. Ändern Sie in dieser Übung den zweistelligen Schlüssel in den tatsächlichen Namen, damit der Projektfortschrittsstatus in eine E-Mail gesendet werden kann.
+Verwenden Sie für einfache Datenänderungen die Switch-Funktion, um einen Wert innerhalb eines Modulfelds in einen anderen umzuwandeln. Ändern Sie in dieser Übung den Zwei-Buchstaben-Schlüssel zum tatsächlichen Namen für den Projektfortschrittsstatus, den Sie in einer E-Mail versenden möchten.
 
-![Switch-Funktion Bild 1](../12-exercises/assets/switch-function-walkthrough-1.png)
+![Umschaltfunktion Bild 1](../12-exercises/assets/switch-function-walkthrough-1.png)
 
-## Schritte, die ausgeführt werden müssen
+## Zu befolgende Schritte
 
-1. Klonen Sie das Szenario mit dem Namen &quot;Freigeben von Variablen zwischen Routing-Pfaden&quot;.
-1. Nennen Sie das neue Szenario &quot;Freigeben von Variablen zwischen Routing-Pfaden - Wechsel&quot;.
-1. Klicken Sie auf das Trigger-Modul und fügen Sie dem Bereich &quot;Outputs&quot;den Fortschrittsstatus hinzu.
-1. Fügen Sie im Modul E-Mail senden dem Feld Inhalt den Fortschrittsstatus hinzu.
+1. Klonen Sie das Szenario mit dem Namen „Freigeben von Variablen zwischen Routing-Pfaden“.
+1. Nennen Sie das neue Szenario „Freigeben von Variablen zwischen Routing-Pfaden – Umschalten“.
+1. Klicken Sie auf das Trigger-Modul und fügen Sie den Fortschrittsstatus in den Ausgabeabschnitt ein.
+1. Fügen Sie im Modul „E-Mail senden“ dem Inhaltsfeld „Fortschrittsstatus“ hinzu.
 
-   + Wenn Sie einfach den Wert aus dem Suchmodul zuordnen, gibt es einen aus zwei Buchstaben bestehenden Code für den Fortschrittsstatus.
-   + Um den Code für den vollständigen Namen jedes möglichen Fortschrittsstatus zu &quot;wechseln&quot;, verwenden Sie die Funktion &quot;switch&quot; im Tab Allgemeine Funktionen .
+   + Wenn Sie einfach den Wert aus dem Suchmodul anwenden, gibt es einen zweibuchstabigen Code für den Fortschrittsstatus.
+   + Um den Code für den vollständigen Namen jedes möglichen Fortschrittsstatus „umzuschalten“, verwenden Sie die Funktion „Umschalten“ auf der Registerkarte „Allgemeine Funktionen“.
 
-1. Die Switch-Funktion verwendet den Fortschrittsstatus-Wert oder -Ausdruck als Schlüssel und gibt dann den Ausgabewert basierend auf diesem Schlüssel zurück.
+1. Die Umschaltfunktion verwendet den Wert oder Ausdruck des Fortschrittsstatus als Schlüssel und gibt dann den auf diesem Schlüssel basierenden Ausgabewert zurück.
 
-   + Ein Schlüsselwert wird an der ersten Position nach dem Fortschrittsstatus (&quot;LT&quot;) definiert, wobei die entsprechende Ausgabe an der zweiten Position (&quot;Late&quot;) definiert wird.
-   + Der nächste Schlüsselwert wird an der dritten Position definiert, wobei die entsprechende Ausgabe an der vierten Position etc. für beliebig viele Schlüssel definiert ist.
+   + An der ersten Stelle nach dem Fortschrittsstatus („VS“) wird ein Schlüsselwert definiert, an der zweiten Stelle die entsprechende Ausgabe („Verspätet“).
+   + An dritter Stelle wird der nächste Schlüsselwert definiert, an vierter Stelle die entsprechende Ausgabe usw., und zwar für so viele Schlüssel wie gewünscht.
 
-     ![Switch-Funktion Bild 2](../12-exercises/assets/switch-function-walkthrough-2.png)
+     ![Umschaltfunktion Bild 2](../12-exercises/assets/switch-function-walkthrough-2.png)
