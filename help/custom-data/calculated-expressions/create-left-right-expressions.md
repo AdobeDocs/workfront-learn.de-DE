@@ -1,6 +1,6 @@
 ---
-title: LINKE/RECHTE Ausdrücke erstellen
-description: Erfahren Sie in Adobe, wie Sie die Ausdrücke LINKS/RECHTS in einem berechneten Feld verwenden. [!DNL Workfront].
+title: Erstellen von LEFT/RIGHT-Ausdrücken
+description: Erfahren Sie, wie Sie die LEFT/RIGHT-Ausdrücke in einem berechneten Feld in Adobe [!DNL Workfront]verwenden.
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -12,17 +12,17 @@ jira: KT-8885
 exl-id: 6d0ad842-e354-465c-8b9c-88eb75d47fbc
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# LINKE/RECHTE Ausdrücke erstellen
+# Erstellen von LEFT/RIGHT-Ausdrücken
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Funktion des LINKEN/RECHTEN Ausdrucks
-* Verwenden eines LINKEN/RECHTEN Textausdrucks in einem berechneten Feld
+* Was LEFT/RIGHT-Ausdrücke bewirken
+* Verwenden eines LEFT/RIGHT-Textausdrucks in einem berechneten Feld
 
 >[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on)
