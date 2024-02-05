@@ -1,6 +1,6 @@
 ---
-title: Finanziellen Zugang verstehen
-description: Erfahren Sie, wie Administratoren mit finanziellen Zugriffsrechten steuern können, wer die in Workfront verfolgten Finanzinformationen anzeigen und bearbeiten kann.
+title: Informationen zum Finanzzugriff
+description: Erfahren Sie, wie Admins mit Finanz-Zugriffsrechten steuern können, wer die in Workfront verfolgten Finanzinformationen anzeigen und bearbeiten kann.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,72 +11,72 @@ level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Finanziellen Zugang verstehen
+# Informationen zum Finanzzugriff
 
-Wenn Ihr Unternehmen Finanzdaten mit [!DNL Workfront]Als Systemadministrator sind Sie dafür verantwortlich, die Benutzer zu schützen und zu verwalten, die Zugriff auf diese Informationen haben.
+Wenn Ihr Unternehmen Finanzdaten mit [!DNL Workfront] erfasst, sind Sie als Systemadmin dafür verantwortlich, die Zugriffsrechte für die Anzeige und Bearbeitung dieser Informationen zu schützen und zu verwalten.
 
-Zwei Dinge sind erforderlich, damit ein Benutzer Finanzinformationen anzeigen oder bearbeiten kann:
+Zwei Dinge sind erforderlich, damit eine Person Finanzinformationen anzeigen oder bearbeiten kann:
 
-1. Zugriffsberechtigungen müssen in der [!UICONTROL Zugriffsstufe].
-2. Die Berechtigung zur Nutzung dieser Zugriffsrechte muss objektabhängig erteilt werden.
+1. Zugriffsberechtigungen müssen in der [!UICONTROL Zugriffsebene] aktiviert sein.
+2. Die Berechtigung zur Nutzung dieser Zugriffsrechte für ein Objekt muss objektabhängig erteilt werden.
 
-Beispielsweise kann einem Benutzer die Berechtigung zum Anzeigen von Finanzdaten in seiner Zugriffsebene gewährt werden, er kann jedoch nur Finanzdaten zu einer Aufgabe anzeigen, die für ihn freigegeben ist und die finanzielle Anzeige bei der Freigabe dieser Aufgabe aktiviert ist.
+Beispielsweise kann einer Person die Berechtigung zum Anzeigen von Finanzdaten in ihrer Zugriffsebene gewährt werden. Sie kann jedoch nur Finanzdaten zu einer Aufgabe anzeigen, die für sie freigegeben ist und bei deren Freigabe außerdem die Finanzansicht aktiviert wurde.
 
-So ist es möglich, dass ein Benutzer mit [!UICONTROL Zugriffsstufe] Rechte zur Anzeige von Finanzmitteln, um Finanzierungen auf einigen Objekten und nicht auf anderen anzeigen zu können, abhängig von den individuellen Teilungsoptionen dieser Objekte. Kein Benutzer kann jedoch finanzielle Mittel zu einem Objekt einsehen, es sei denn, er hat in seinem [!UICONTROL Zugriffsstufe].
+So ist es möglich, dass eine Person, die qua [!UICONTROL Zugriffsebene] zum Einsehen von Finanzdaten berechtigt ist, die Finanzdaten für einige Objekte einsehen kann und für andere nicht, abhängig von den individuellen Freigabeoptionen dieser Objekte. Benutzende können jedoch Finanzen zu einem Objekt nur einsehen, wenn ihnen im Rahmen ihrer [!UICONTROL Zugriffsebene] die entsprechende Berechtigung erteilt wurde.
 
-## [!UICONTROL Zugriffsstufe] settings
+## Einstellungen der [!UICONTROL Zugriffsebene]
 
-Der allgemeine Zugang zu Finanzdaten wird zunächst durch [!DNL Workfront] Lizenztyp.
+Der allgemeine Zugang zu Finanzdaten wird zunächst durch den [!DNL Workfront]-Lizenztyp gewährt.
 
-**[!UICONTROL Plan] -Lizenzen können:**
+**[!UICONTROL Plan]-Lizenzen berechtigen zu Folgendem:**
 
-* Rechnungsdatensätze verwalten
-* Verwalten und Anzeigen der Rollenabrechnung und der Kostensätze
-* Benutzerabrechnung und -kosten verwalten und anzeigen
-* Verwalten von Ausgaben
-* Anzeigen und Bearbeiten von Finanzen
+* Abrechnungsdatensätze verwalten
+* Funktionsbezogene Fakturierung und Kostensätze verwalten und anzeigen
+* Benutzerfakturierung und Kostensätze verwalten und anzeigen
+* Ausgaben verwalten
+* Finanzen anzeigen und bearbeiten
 
-**[!UICONTROL Arbeit] -Lizenzen können:**
+**[!UICONTROL Arbeits]-Lizenzen berechtigen zu Folgendem:**
 
-* Verwalten von Ausgaben
-* Anzeigen von Finanzen
+* Ausgaben verwalten
+* Finanzen anzeigen
 
-**[!UICONTROL Überprüfen] -Lizenzen können:**
+**[!UICONTROL Überprüfungs]-Lizenzen berechtigen zu Folgendem:**
 
-* Anzeigen von Finanzen
+* Finanzen anzeigen
 
-**Berechtigungen können durch die [!UICONTROL Zugriffsstufe]. Die drei Optionen für den finanziellen Datenzugriff sind:**
+**Die Berechtigungen können über die [!UICONTROL Zugriffsebene] geändert werden. Die drei Optionen für den Zugriff auf Finanzdaten sind:**
 
-* [!UICONTROL Kein Zugriff] — Der Benutzer kann keine Finanzinformationen anzeigen.
-* [!UICONTROL Ansicht] — Benutzer können die Informationen überprüfen und teilen.
-* [!UICONTROL Bearbeiten] — Benutzer können die Informationen erstellen, bearbeiten, löschen und freigeben. (Nur für eine Planungslizenz verfügbar.)
+* [!UICONTROL Kein Zugriff] – Die Person kann keine Finanzdaten anzeigen.
+* [!UICONTROL Anzeigen] – Die Person kann die Daten überprüfen und freigeben.
+* [!UICONTROL Bearbeiten] – Die Person kann die Daten erstellen, bearbeiten, löschen und weitergeben. (Nur für eine Planlizenz verfügbar.)
 
-![Ein Bild mit allgemeinen Finanzdatenoptionen auf Zugriffsebene](assets/setting-up-finances-8.png)
+![Ein Bild mit allgemeinen Finanzdatenoptionen in einer Zugriffsebene](assets/setting-up-finances-8.png)
 
-Beachten Sie, dass die Variable [!UICONTROL Ansicht] und [!UICONTROL Bearbeiten] -Optionen zusätzliche Einstellungen für eine [!UICONTROL Plan] Lizenz. Klicken Sie auf das Zahnrad auf der [!UICONTROL Ansicht] Schaltfläche für diese Optionen:
+Dabei ist zu beachten, dass die Optionen [!UICONTROL Anzeigen] und [!UICONTROL Bearbeiten] zusätzliche Einstellungen für eine [!UICONTROL Plan]-Lizenz enthalten. Klicken Sie auf das Zahnrad auf der Schaltfläche [!UICONTROL Anzeigen] für diese Optionen:
 
 **[!UICONTROL Anzeigen]**
 
 * Funktionsbezogene Fakturierung und Kostensätze anzeigen
 * Benutzerfakturierung und Kostensätze anzeigen
 
-![Ein Bild mit den Optionen zur Ansicht der Finanzdaten auf der Zugriffsebene](assets/setting-up-finances-9.png)
+![Ein Bild mit den Optionen zum Anzeigen der Finanzdaten in einer Zugriffsebene](assets/setting-up-finances-9.png)
 
 **[!UICONTROL Bearbeiten]**
 
-Diese beiden Optionen sind im [!UICONTROL Bearbeiten] -Option sowie:
+Diese beiden Optionen sind unter der Option [!UICONTROL Bearbeiten] verfügbar, zusammen mit:
 
 * Funktionsbezogene Fakturierung und Kostensätze bearbeiten
 * Benutzerfakturierung und Kostensätze bearbeiten
 
-![Ein Bild mit den Bearbeitungsoptionen für Finanzdaten auf Zugriffsebene](assets/setting-up-finances-10.png)
+![Ein Bild mit den Bearbeitungsoptionen für Finanzdaten in einer Zugriffsebene](assets/setting-up-finances-10.png)
 
 >[!NOTE]
 >
->Ein Benutzer mit Zugriff auf zusätzliche Ausgaben kann auch die von ihm hinzugefügten Ausgaben sowie die durch seine direkten Berichte hinzugefügten Ausgaben einsehen.
+>Eine Person mit der Berechtigung, Ausgaben hinzuzufügen, kann auch die von ihr sowie die von ihrer direkt vorgesetzten Person hinzugefügten Ausgaben einsehen.
