@@ -12,26 +12,26 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 doc-type: video
 source-git-commit: dfe0a31f0087b7a2c925dd6c9b03fa68ef347cf2
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 94%
 
 ---
 
 # Limits bei Szenarien
 
-Die Arbeitsautomatisierung erfordert eine schnelle Verarbeitung, sodass Workfront Fusion für hohe Leistung ausgelegt ist. Da langwierige Szenarien das Tempo Ihrer Arbeit verlangsamen können, wurde Workfront Fusion mit leistungserhaltenden Limits entwickelt, die die Ausführungszeit, Datengröße und andere Szenario-Parameter beschränken. Die Entwickler von Workfront Fusion-Szenarien sollten sich dieser Limits bewusst sein und sie in ihre Designpraktiken integrieren.
+Die Arbeitsautomatisierung erfordert eine schnelle Verarbeitung, weswegen Workfront Fusion auf hohe Leistung ausgelegt ist. Da lang laufende Szenarien das Arbeitstempo verlangsamen können, wurde Workfront Fusion mit leistungserhaltenden Limits entwickelt, die die Ausführungszeit, die Datengröße und andere Szenarienparameter begrenzen. Die Entwickelnden von Workfront Fusion-Szenarien sollten sich dieser Limits bewusst sein und sie in ihre Design-Praktiken integrieren.
 
-In diesem Video erfahren Sie mehr über:
+In diesem Video lernen Sie Folgendes:
 
 * Limits bei Szenarien
 * Modul-Limits
-* Limits bei Dateien
+* Datei-Limits
 * Webhook-Limits
 
 >[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on)
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
 
 [Limits bei der Leistung von Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)

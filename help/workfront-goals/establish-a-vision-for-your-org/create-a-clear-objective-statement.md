@@ -1,6 +1,6 @@
 ---
-title: Eine klare objektive Erklärung erstellen
-description: Erfahren Sie, wie Sie eine klare objektive Aussage oder den Intent von Commander erstellen und starke Unternehmens- oder Organisationsziele formulieren.
+title: Erstellen einer klaren Zielvorgabe
+description: Lernen Sie, wie Sie eine klare Zielsetzung oder Absicht der Führungskraft erstellen und starke Unternehmens- oder Organisationsziele formulieren.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -12,16 +12,16 @@ exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 0%
+source-wordcount: '396'
+ht-degree: 100%
 
 ---
 
-# Eine klare objektive Erklärung erstellen
+# Erstellen einer klaren Zielvorgabe
 
 In diesem Video lernen Sie Folgendes:
 
-* Erstellung einer klaren objektiven Erklärung oder Absichtserklärung des Kommandanten
+* Erstellen einer klaren Zielsetzung oder Absicht der Führungskraft
 * Schreiben starker Unternehmens- oder Organisationsziele
 
 >[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on)
@@ -30,22 +30,22 @@ In diesem Video lernen Sie Folgendes:
 Your turn graphic
 -->
 
-## Formulieren Sie die Absicht Ihres Befehlshabers
+## Formulieren der Absicht der Führungskraft
 
-Ziel dieses Schritts ist es, das Ziel oder das gewünschte Endziel anzugeben. Indem Sie eine klare Aussage erstellen, die die strategischen Säulen Ihrer Vision festlegt, werden Sie Ziele festlegen, an die sich Ihre Teams anpassen können. Als Führer schreiben Sie eine Erklärung, die das Endziel und das gewünschte Ergebnis zum Ausdruck bringt.
+In diesem Schritt geht es darum, das Ziel oder das gewünschte Endziel festzulegen. Indem Sie eine klare Erklärung formulieren, die die strategischen Säulen Ihrer Vision festlegt, setzen Sie Ziele, an denen sich Ihre Teams orientieren können. Schreiben Sie als Führungskraft eine Erklärung, die das Endziel und das gewünschte Ergebnis zum Ausdruck bringt.
 
-Diese Aussage ist nicht technisch lieferbar, d. h., sie erfolgt als Best Practice für das Verhalten außerhalb des Kontexts der Software. Es dient als Ausdruck Ihrer Vision, als Führer, für Ihre Menschen und Teams. Diese Erklärung sollte die Ziele der obersten Ebene so umreißen, wie sie in die Vision passen.
+Diese Erklärung ist eine nicht-technische Leistung, d. h. sie wird als Best Practice außerhalb des Kontexts der Software abgegeben. Sie dient als Ausdruck Ihrer Vision als Führungskraft gegenüber Ihren Mitarbeitenden und Teams. Diese Erklärung sollte die übergeordneten Ziele im Rahmen der Vision umreißen.
 
-Diese Aussage besteht aus vier Teilen. Die unabhängige Behandlung der einzelnen Teile trägt dazu bei, die Absichten des Kommandanten deutlich und direkt zu machen.
+Diese Aussage besteht aus vier Teilen. Wenn Sie jeden Teil unabhängig voneinander ansprechen, wird die Absicht der Führungskraft klar und direkt.
 
-**Teil 1: Ein klares Ergebnis der Erreichung unseres Ziels sieht wie ...**
-Das Ausfüllen dieser Wortgruppe bietet Ihren Mitarbeitern und Teams die höchste Anleitung. Diese Aussage wird zielgerichteter sein als Ihre Mission und Vision-Aussagen, aber wahrscheinlich teilt sie einige gemeinsame Töne. Beschreiben Sie, wie Erfolg für Ihr Team aussieht.
+**Teil 1: Ein klares Ergebnis zur Erreichung unseres Ziels sieht so aus: …**
+Die Vervollständigung dieses Satzes bietet Ihren Mitarbeitern und Teams ein Höchstmaß an Orientierung. Diese Erklärung wird stärker fokussiert sein als Ihre Missions- und Visionserklärungen, hat aber wahrscheinlich einige gemeinsame Ansätze. Beschreiben Sie, wie Erfolg für Ihr Team aussieht.
 
-**Teil 2: Das Wichtigste, was dieses Team tun kann, ist...**
-Die Fertigstellung dieses Satzes ist die Grundlage für die Priorisierung. Sie setzt klare Erwartungen, dass es, wenn alles darauf ankommt, eine einzige Sache gibt, die am wichtigsten ist. Dieses Lieferprogramm ist mehr als wahrscheinlich der Höhepunkt der Errungenschaften über viele Ziele hinweg (z. B. Einführung eines neuen Produkts, Rebranding Ihres Unternehmens, Eintritt in einen neuen Markt usw.).
+**Teil 2: Das Wichtigste, was dieses Team tun kann, ist: …**
+Die Vervollständigung dieses Satzes ist die Grundlage der Prioritätenfestlegung. Er legt die klare Erwartung fest, dass es am Ende nur einen einzigen wirklich wichtigen Aspekt gibt. Diese Leistung ist höchstwahrscheinlich der Höhepunkt bei der Umsetzung vieler Ziele (z. B. Einführung eines neuen Produkts, Rebranding Ihres Unternehmens, Eintritt in einen neuen Markt usw.).
 
-**Teil 3: Die Mannschaft wird ihr Ziel bis...**
-Wenn Sie diesen Satz vervollständigen, beginnen Sie wirklich, Ihre strategischen Säulen zu setzen. Dies sind wahrscheinlich die wichtigsten Ziele auf höchster Ebene, die erreicht werden müssen, um das Endergebnis zu fördern.
+**Teil 3: Das Team wird sein Ziel erreichen, indem es …**
+Indem Sie diesen Satz vervollständigen, legen Sie Ihre strategischen Säulen definitiv fest. Dies sind wahrscheinlich die wichtigsten Ziele auf höchster Ebene, die erreicht werden müssen, um das Endergebnis zu fördern.
 
-**Teil 4: Unsere Betriebsbeschränkungen beinhalten ...**
-In der Abfassung dieser Erklärung werden die wichtigsten Erfolgsindikatoren, die Art und Weise, wie Sie Ihren Fortschritt messen, und die Ergebnisse aufgeführt, die erzielt werden müssen, um eine erfolgreiche Leistung zu prüfen. Definieren Sie, welche Herausforderungen und Risiken Ihr Team berücksichtigen sollte. Die Identifizierung dieser Einschränkungen hilft Ihnen bei der Entscheidung, ob das Ziel ein &quot;Go&quot;ist oder nicht.
+**Teil 4: Unsere betrieblichen Beschränkungen umfassen …**
+Mit dieser Erklärung zeigen Sie die Schlüsselindikatoren für den Erfolg auf, wie Sie Ihren Fortschritt messen werden und welche Ergebnisse erreicht werden müssen, um als erfolgreich zu gelten. Definieren Sie, welche Herausforderungen und Risiken Ihr Team berücksichtigen sollte. Die Identifizierung dieser Einschränkungen hilft Ihnen bei der Entscheidung, ob das Ziel erreichbar oder nicht erreichbar ist.

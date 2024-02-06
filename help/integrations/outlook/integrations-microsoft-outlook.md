@@ -1,6 +1,6 @@
 ---
 title: Installieren Sie die [!UICONTROL Microsoft Outlook] Add-in
-description: Erfahren Sie, wie Sie die [!UICONTROL Microsoft Outlook-Add-in]
+description: Erfahren Sie, wie Sie das [!UICONTROL Microsoft Outlook-Add-in installieren]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -12,12 +12,12 @@ exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 96%
 
 ---
 
-# Installieren des Microsoft Outlook-Add-Ins
+# Installieren des Microsoft Outlook-Add-ins
 
 In diesem Video lernen Sie Folgendes:
 
@@ -27,12 +27,12 @@ In diesem Video lernen Sie Folgendes:
 
 >[!IMPORTANT]
 >
->Wenn Sie das Workfront-Add-in nicht finden können, wie im Video beschrieben, muss Ihre IT-Abteilung möglicherweise erst bestimmte Einrichtungsarbeiten durchführen. Detaillierte Anweisungen finden Sie unter [Einrichten von Adobe Workfront für Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
+>Wenn Sie das Workfront-Add-in nicht wie im Video beschrieben finden können, muss Ihre IT-Abteilung möglicherweise zunächst einige Einrichtungsarbeiten vornehmen. Detaillierte Anweisungen finden Sie unter [Einrichten von Adobe Workfront für Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=de).
 
-## Integrieren des Microsoft Outlook-Kalenders in den [!DNL Workfront] Startskalender
+## Integrieren des Microsoft Outlook-Kalenders mit dem [!DNL Workfront]-Startseitenkalender
 
-Sie können die [!DNL Workfront] [!UICONTROL Startseitenkalender] -Einstellungen, um Folgendes zu tun:
+Sie können die Einstellungen des [!DNL Workfront]-[!UICONTROL Startseitenkalenders] konfigurieren, um Folgendes zu tun:
 
-* Integration in eine webbasierte Version von [!DNL Outlook] in Cloud-gehostet [!DNL Office 365] oder [!DNL Outlook Live]. Sie können alle Ereignisse aus Ihrem [!DNL Outlook] Kalender sowie alle Kalender, die Sie in Ihrem Kalender auswählen, wie z. B. Geburtstage und Feiertage [!DNL Workfront] [!UICONTROL Startseitenkalender].
+* Integration mit einer Web-basierten Version von [!DNL Outlook] in [!DNL Office 365] oder [!DNL Outlook Live] auf der Cloud. Sie können alle Ereignisse Ihres [!DNL Outlook]-Kalenders und aller verknüpften Kalender, die Sie auswählen, wie z. B. Geburtstags- und Feiertagskalender, in Ihrem [!DNL Workfront]-[!UICONTROL Startseitenkalender] anzeigen.
 
-* Helfen Sie Ihnen, Ihre Arbeitslast anhand der verfügbaren Arbeitszeiten in der Zuordnungsleiste zu verfolgen.
+* Hilfe beim Vergleich Ihres Arbeitspensums mit Ihren verfügbaren Arbeitsstunden auf der Zuordnngsleiste.

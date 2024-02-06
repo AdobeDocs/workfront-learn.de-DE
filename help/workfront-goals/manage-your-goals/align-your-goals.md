@@ -1,6 +1,6 @@
 ---
-title: Ziele abstimmen
-description: Erfahren Sie, wie Sie in der [!UICONTROL Zielausrichtung] Seite in [!DNL Goals].
+title: Ausrichten Ihrer Ziele
+description: Erfahren Sie, wie Sie auf der Seite [!UICONTROL Zielausrichtung] in [!DNL   Goals] navigieren.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -12,44 +12,44 @@ exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 0%
+source-wordcount: '493'
+ht-degree: 100%
 
 ---
 
-# Ziele abstimmen
+# Ausrichten Ihrer Ziele
 
-## Ziele zwischen Einzelpersonen, Teams und dem Unternehmen abstimmen
+## Zielausrichtung zwischen Einzelpersonen, Teams und dem Unternehmen
 
-Nachdem Sie Ihre Ziele in erstellt und aktiviert haben, [!DNL Workfront Goals], stellen wir sicher, dass sie aufeinander abgestimmt sind. Die Zielausrichtung ist ein wichtiger Bestandteil des Zielmanagements. Wenn Sie den Lernpfad &quot;Workfront Goals, Part 1: Set a vision and strategy&quot;noch nicht abgeschlossen haben, empfehlen wir Ihnen, diese zunächst zu übernehmen, bevor Sie fortfahren.
+Nachdem Sie Ihre Ziele in [!DNL Workfront Goals] erstellt und aktiviert haben, müssen Sie sicherstellen, dass sie aufeinander abgestimmt sind. Die Ausrichtung von Zielen ist ein wichtiger Bestandteil des Ziel-Managements. Wenn Sie den Lernpfad „Workfront-Ziele, Teil 1: Festlegen einer Vision und Strategie“ noch nicht abgeschlossen haben, empfehlen wir Ihnen, diesen zuerst zu absolvieren, bevor Sie fortfahren.
 
 <!--Insert link to LP 1, above -->
 
-Verwenden Sie den Abschnitt Zielausrichtung , um:
+Verwenden Sie den Abschnitt „Zielausrichtung“, um:
 
-* Anzeigen von Zielen, die zu Ihnen oder Ihrer Organisation gehören.
-* Zeigt die Zielhierarchie an und zeigt ausgerichtete untergeordnete Ziele an.
-* Öffnen Sie das Ziel, um seine Fortschrittsindikatoren anzuzeigen.
+* Sich die Ziele anzusehen, die Ihnen oder Ihrem Unternehmen zugewiesen wurden.
+* Die Zielhierarchie und ausgerichtete Unterziele anzuzeigen.
+* Öffnen Sie das Ziel, um seine Fortschrittsindikatoren zu sehen.
 
-Die Ziele aufeinander abzustimmen bedeutet, dass alle von oben nach unten an der Arbeit arbeiten, die dieselben Initiativen vorantreiben. Die Visualisierung ist ein wichtiger Teil der direkten Ausrichtung jedes Top-Unternehmensziels auf die Abteilungen-, Team- und individuelle Ebene. Silos werden reduziert, indem Teams funktionsübergreifend ausgerichtet werden. Alignment schafft Klarheit bezüglich des Zwecks aller und verbindet die Organisation mit dem, was wirklich zählt.
+Wenn die Ziele aufeinander abgestimmt sind, bedeutet dies, dass alle Mitarbeitenden von oben nach unten dieselben Initiativen vorantreiben. Die Visualisierung verdeutlicht, wie sich jedes oberste Unternehmensziel direkt auf die Ebene der Abteilungen, Teams und Einzelpersonen auswirkt. Silos werden abgebaut, indem die Teams funktionsübergreifend zusammenarbeiten. Die Ausrichtung schafft Klarheit über die Aufgaben jedes und jeder Einzelnen und zeigt dem Unternehmen auf, was wirklich wichtig ist.
 
-Denken Sie bei der Ausrichtung Ihrer Unternehmensziele daran, durch Einfachheit Klarheit und Fokus zu schaffen. Wenn Sie mit der Ausrichtung kämpfen, liegt das wahrscheinlich daran, dass Sie versuchen, Ziele zu erzwingen, die von Natur aus nicht miteinander verbunden sind. Wenn Sie sich festgehalten fühlen, besuchen Sie einfach die Top-Unternehmensziele, dann die Gruppen- und Teamziele und entscheiden Sie, welche die wichtigsten bleiben. Beseitigen Sie alles, was redundant erscheint oder das nicht mit der Vision Ihres Unternehmens übereinstimmt.
+Denken Sie bei der Ausrichtung Ihrer Unternehmensziele daran, dass sie durch Einfachheit Klarheit und Fokus schaffen sollen. Wenn Sie Schwierigkeiten mit der Ausrichtung haben, liegt das wahrscheinlich daran, dass Sie versuchen, Ziele zu verbinden, die von Natur aus nicht miteinander verbunden sind. Wenn Sie das Gefühl haben, nicht weiterzukommen, gehen Sie einfach noch einmal die wichtigsten Unternehmensziele durch, dann die Gruppen- und Team-Ziele, und entscheiden Sie, welche Ziele am wichtigsten sind und beibehalten werden sollten. Beseitigen Sie alles, was redundant erscheint oder nicht mit der Vision Ihres Unternehmens übereinstimmt.
 
-Nachdem die Top-Level-Ziele festgelegt und überprüft wurden, liegt es an den einzelnen Mitwirkenden und Teammitgliedern, Ziele zu erstellen, die von dieser Ebene kaskadiert werden, um gezieltere Ziele festzulegen. Der Umfang der einzelnen Ziele wird enger sein.
+Nachdem die Ziele auf oberster Ebene festgelegt und überprüft worden sind, liegt es an den einzelnen Mitwirkenden und Team-Mitgliedern, Ziele zu erstellen, die von dieser Ebene aus kaskadenartig weitergeführt werden, um die Zielfestlegung zu verfeinern. Der Umfang der einzelnen Ziele wird enger sein.
 
 <!-- Pro-tips graphic -->
 
-Beachten Sie Folgendes, bevor Sie Ziele in [!DNL Workfront]:
+Hier sind einige Dinge zu beachten, bevor Sie Ihre Ziele in [!DNL Workfront] abgleichen:
 
-* Halten Sie es einfach. Ermitteln Sie die wichtigsten Prioritäten für das Unternehmen im Moment und legen Sie Ziele fest, die dies unterstützen.
-* Beginnen Sie mit maximal 3-5 Unternehmenszielen.
+* Halten Sie sie einfach. Ermitteln Sie die wichtigsten Prioritäten für das Unternehmen und legen Sie Ziele fest, die diese unterstützen.
+* Beginnen Sie mit maximal 3–5 Unternehmenszielen.
 * Denken Sie immer daran, dass Ziele spezifisch sein und eine Zeitbegrenzung haben müssen.
-* Erzwingen Sie keine Ausrichtung. Da die Ausrichtung den Fortschritt beeinflusst, richten Sie Ziele nur aus, wenn dies erforderlich ist. Ein häufiges Missverständnis beim Ausrichten von Zielen besteht darin, dass Sie jede einzelne innerhalb Ihrer Organisation ausrichten müssen. Die Ziele einer Organisationseinheit müssen möglicherweise nicht an eine andere Einheit angeglichen werden, obwohl alle Einheiten in irgendeiner Weise an die Gesamtvision des Unternehmens angepasst werden sollten.
-* Weisen Sie persönliche Verantwortung zu. Sie können eine komplexe Hierarchie erstellen, wenn Sie Ziele ausrichten. Versuchen Sie, das letzte Ziel in der Hierarchie einem einzelnen Beitragenden zuzuweisen. True Ziel-Hierarchie bedeutet, dass Sie einzelne Mitwirkende auf der letzten Ebene jedes Zweigs der Zielausrichtung haben, sodass sie den Fortschritt in ihren eigenen Zielen aktualisieren können, wodurch der übergeordnete Team- oder Gruppenzielfortschritt aktualisiert werden kann. Diese Informationen tragen zur Erreichung der wichtigsten Unternehmensziele bei.
+* Erzwingen Sie die Ausrichtung nicht künstlich. Da sich die Ausrichtung auf den Fortschritt auswirkt, sollten Sie die Ziele nur dann ausrichten, wenn dies notwendig ist. Ein weit verbreiteter Irrglaube in Bezug auf die Ausrichtung von Zielen ist, dass Sie jedes einzelne Ziel innerhalb Ihres Unternehmens ausrichten müssen. Die Ziele einer Organisationseinheit müssen möglicherweise nicht auf eine andere Einheit abgestimmt werden, auch wenn alle Einheiten in irgendeiner Weise an die Gesamtvision des Unternehmens angepasst werden sollten.
+* Übertragen Sie persönliche Verantwortung. Sie können eine komplexe Hierarchie erstellen, wenn Sie Ihre Ziele aufeinander abstimmen. Versuchen Sie, das letzte Ziel in der Hierarchie einer einzelnen Person zuzuweisen. Echte Zielhierarchie bedeutet, dass die einzelnen Mitwirkenden auf der letzten Ebene jedes Zweigs der Zielausrichtung stehen, sodass sie den Fortschritt ihrer eigenen Ziele aktualisieren können, wodurch wiederum der Fortschritt des übergreifenden Team- oder Gruppenziels aktualisiert werden kann. Diese Informationen tragen zur Erreichung der obersten Unternehmensziele bei.
 
 In diesem Video lernen Sie Folgendes:
 
-* Ziele mithilfe eines Bottom-up- und eines Top-Down-Ansatzes ausrichten
-* Navigieren Sie zum [!UICONTROL Zielausrichtung] Abschnitt
+* Zielausrichtung mit einem Bottom-up- und einem Top-down-Ansatz
+* Navigieren Sie zum Abschnitt [!UICONTROL Zielausrichtung]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

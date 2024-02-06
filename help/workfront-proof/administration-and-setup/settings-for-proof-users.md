@@ -1,6 +1,6 @@
 ---
-title: Einstellungen für Testversand-Benutzer
-description: Erfahren Sie, wie Sie bestimmen, [!DNL  Workfront] -Benutzer erhalten eine Testlizenz und passen dann die Benutzereinstellungen in beiden [!DNL Workfront] und die Backend-Einstellungen.
+title: Einstellungen für Korrekturabzugsbenutzende
+description: Erfahren Sie, wie Sie bestimmen, welche [!DNL  Workfront] -Benutzende eine Proofing-Lizenz erhalten, und passen Sie dann die Benutzereinstellungen in [!DNL Workfront] und in den Backend-Einstellungen an.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -14,20 +14,20 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 63%
 
 ---
 
-# Einstellungen für Testversand-Benutzer
+# Einstellungen für Korrekturabzugsbenutzende
 
-Bevor Sie mit der Erstellung von Benutzern in [!DNL  Workfront], ist es Best Practice, Ihre globalen [!DNL Workfront] und die Testversandsystemeinstellungen abgeschlossen sind. Einige dieser Einstellungen gelten für die Benutzerprofile bei ihrer Erstellung. Wenn Sie diese Einstellungen jedoch nicht vor der Erstellung eines Benutzers erhalten haben, können Sie sie in jedem Benutzerprofil bearbeiten.
+Bevor Sie mit der Erstellung von Benutzern in [!DNL  Workfront], ist es Best Practice, Ihre globalen [!DNL Workfront] und die Testversandsystemeinstellungen abgeschlossen sind. Einige dieser Einstellungen gelten für die Benutzerprofile, sobald sie erstellt werden. Wenn Sie diese Einstellungen jedoch nicht vor der Erstellung eines Benutzers erhalten haben, können Sie sie in jedem Benutzerprofil bearbeiten.
 
 
 In diesem Video lernen Sie Folgendes:
 
-* Bestimmen, welche Benutzer eine Testlizenz erhalten
-* Anpassen der Testversand-Benutzereinstellungen in [!DNL  Workfront]
-* Anpassen der Testversand-Benutzereinstellungen in den Back-End-Setups für Testsendungen
+* Bestimmen, welche Benutzenden eine Korrekturabzugs-Lizenz erhalten
+* Anpassen der Korrekturabzugs-Benutzereinstellungen in [!DNL  Workfront]
+* Anpassen der Korrekturabzugs-Benutzereinstellungen in der Backend-Einrichtung für das Proofing
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on)
 

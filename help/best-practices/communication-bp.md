@@ -1,6 +1,6 @@
 ---
-title: Best Practice - Kommunikation
-description: Erfahren Sie mehr über Best Practices-Empfehlungen von Adobe Workfront-Experten zum Einrichten und Verwalten von Kommunikationsbenachrichtigungen in Workfront.
+title: Best Practice – Kommunikation
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten und Verwalten von Kommunikationsbenachrichtigungen in Workfront empfehlen.
 feature: Work Management
 role: Admin, Leader, User
 level: Beginner
@@ -9,45 +9,45 @@ exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
 workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 0%
+ht-degree: 85%
 
 ---
 
-# Best Practice - Kommunikation
+# Best Practice – Kommunikation
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine „Best Practice“ für Adobe Workfront?
 
-Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des „Warum“ vertraut zu machen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
+Die Frage „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Best Practices bei der Kommunikation
+## Best Practices zur Kommunikation
 
 * Verwenden Sie Ihre Workflows, um die erforderlichen Benachrichtigungen zu bestimmen.
 
-* Erstellen Sie einen Hinweis -Bericht mit Aufforderung an Benutzer, mühelos nach Kommentaren/Aktualisierungen in einem Projekt zu suchen.
+* Erstellen Sie einen Notizbericht mit Eingabeaufforderungen für Benutzende, damit sie einfach nach Kommentaren/Aktualisierungen innerhalb eines Projekts suchen können.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Warum sind das Best Practices?
 
 **Best Practice**
 
 Verwenden Sie Ihre Workflows, um die erforderlichen Benachrichtigungen zu bestimmen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Die schrittweise Durchsicht Ihrer Workflows erleichtert die Identifizierung der Kommunikationspunkte und die Sicherstellung, dass die richtigen Benachrichtigungen aktiviert sind. Dadurch werden die Benachrichtigungen dahingehend priorisiert, wie Ihre Organisation bereits arbeitet, sodass Spam und Kommunikationsfehler vermieden werden.
+Wenn Sie Ihre Workflows Schritt für Schritt durchgehen, ist es einfacher, die Kommunikationspunkte zu identifizieren und sicherzustellen, dass die richtigen Benachrichtigungen aktiviert sind. Dadurch werden die Benachrichtigungen auf die Arbeitsweise Ihres Unternehmens abgestimmt und Spam oder Kommunikationsfehler vermieden.
 
 Anweisungen zum Einrichten von Ereignisbenachrichtigungen finden Sie unter [Einrichten von Ereignisbenachrichtigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
 
@@ -59,17 +59,17 @@ Anweisungen zum Verwalten von Ereignisbenachrichtigungen finden Sie unter [In-Ap
 
 **Best Practice**
 
-Erstellen Sie einen Hinweis -Bericht mit Aufforderung an Benutzer, mühelos nach Kommentaren/Aktualisierungen in einem Projekt zu suchen.
+Erstellen Sie einen Notizbericht mit Eingabeaufforderungen für Benutzende, damit sie einfach nach Kommentaren/Aktualisierungen innerhalb eines Projekts suchen können.
 
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn ein Projekt viele Aktualisierungs-Threads enthält, kann es schwierig sein, ein bestimmtes Update zu finden, insbesondere weil Strg/Befehl F nicht in den Threads sucht. Ein Hinweis -Bericht ermöglicht es, alle Updates einfach auf Grundlage Ihrer Eingabeaufforderungsoptionen zu scannen, ohne jeden Thread öffnen zu müssen. Häufige Eingabeaufforderungsoptionen wären:
+Wenn Sie viele Aktualisierungs-Threads in einem Projekt haben, kann es schwierig sein, eine bestimmte Aktualisierung zu finden, insbesondere weil Strg/Befehlstaste+F keine Suche innerhalb der Threads ermöglicht. Ein Notizbericht ermöglicht es, alle Aktualisierungen auf der Grundlage Ihrer Eingabeaufforderungen zu überprüfen, ohne jeden Thread öffnen zu müssen. Übliche Eingabeaufforderungsoptionen könnten sein:
 
-* Audittext
-* Text
-* Name des Inhabers
+* Audit-Text
+* Notiztext
+* Name der Eigentümerin bzw. des Eigentümers
 * Eingabedatum
 
 Eine schrittweise Anleitung zum Erstellen eines Berichts mit Eingabeaufforderungen finden Sie unter [Aufgabenbericht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) Tutorial und führen Sie dann die folgende Aktivität aus.

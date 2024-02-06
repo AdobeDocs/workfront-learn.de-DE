@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Systemeinstellungen
-description: Erfahren Sie, wie Sie globale Einstellungen festlegen, Asset-Optionen festlegen, Ordnereinstellungen festlegen, Download-Regeln festlegen und Berichte und Prüfprotokolle anzeigen können. [!UICONTROL WORKFRONT DAM].
+description: Erfahren Sie, wie Sie globale Einstellungen vornehmen, Asset-Optionen festlegen, Ordnereinstellungen einrichten, Download-Regeln definieren und Berichte und Prüfprotokolle in [!UICONTROL Workfront DAM] anzeigen können.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,7 +13,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 In diesem Video lernen Sie Folgendes:
 
-* Globale Einstellungen festlegen
+* Festlegen globaler Einstellungen
 * Festlegen von Optionen, die sich auf Assets auswirken
-* Festlegen von Einstellungen mit Auswirkungen auf Ordner
-* Regeln für Downloads festlegen
+* Festlegen von Einstellungen, die sich auf Ordner auswirken
+* Definieren von Regeln für Downloads
 * Anzeigen von Berichten und Prüfprotokollen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on)

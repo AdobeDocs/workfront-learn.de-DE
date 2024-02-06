@@ -1,6 +1,6 @@
 ---
-title: Anleitung zu Filtern
-description: Erfahren Sie, wie Sie in den Modulen unter einen Filter zwischen den beiden Modulen hinzufügen. [!DNL Adobe Workfront Fusion].
+title: Exemplarische Vorgehensweise für Filter
+description: Erfahren Sie, wie Sie in den Modulen in [!DNL Adobe Workfront Fusion]einen Filter zwischen zwei Modulen hinzufügen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,18 +12,18 @@ exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '226'
+ht-degree: 100%
 
 ---
 
-# Anleitung zu Filtern
+# Exemplarische Vorgehensweise für Filter
 
-Fügen Sie mithilfe der zuvor erstellten exemplarischen Anleitung &quot;Über die grundlegende Zuordnung hinaus&quot;einen Filter zwischen den beiden Modulen in den Modulen hinzu, um nur Projekte mit einer roten Projektfarbe in der Projektliste zu erstellen.
+Fügen Sie mithilfe der zuvor erstellten exemplarischen Vorgehensweise „Über grundlegende Zuordnung hinaus“ einen Filter zwischen den beiden Modulen in den Modulen hinzu, um nur Projekte mit einer roten Projektfarbe in der Projektliste zu erstellen.
 
 ![Ein Bild des Fusion-Szenarios](assets/understand-the-basics-2.png)
 
-## Anleitung zu Filtern
+## Exemplarische Vorgehensweise für Filter
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
@@ -35,20 +35,20 @@ In diesem Video lernen Sie Folgendes:
 
 >[!TIP]
 >
->Eine schrittweise Anleitung zum Abschließen der exemplarischen Vorgehensweise finden Sie im Abschnitt [Anleitung zu Filtern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) Übung.
+>Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung der [exemplarischen Vorgehensweise für Filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=de).
 
-## Ihre Wendung
+## Sie sind dran
 
 >[!NOTE]
 >
->Übungen und Herausforderungen sind optional und nicht erforderlich, um eine Fusion-Schulung abzuschließen.
+>Die Übungen und Herausforderungen sind optional und nicht notwendig, um die Fusion-Schulung abzuschließen.
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 
-Ändern Sie den Filter, den Sie während der Anleitung der Filter erstellt haben, um nur Projekte zuzulassen, die &quot;Gelb&quot;und die Konfidenzbewertung kleiner als 100 sind oder das Wort &quot;Phase&quot;im Projektnamen enthalten und das geplante Anfangsdatum 2021 ist. Benennen Sie den Filter &quot;Übungsfilter&quot;.
+Ändern Sie den Filter, den Sie während der exemplarischen Vorgehensweise für Filter erstellt haben, um nur Projekte zuzulassen, die „gelb“ sind und eine Konfidenzbewertung kleiner als 100 haben oder das Wort „Phase“ im Projektnamen enthalten und deren geplantes Startdatum im Jahr 2021 liegt. Nennen Sie den Filter „Übungsfilter“.
 
-**Herausforderung:** Versuchen Sie, einen Filter zu erstellen, der nur den Durchlauf von Projekten mit gleichmäßiger Konfidenzbewertung ermöglicht. Benötigen Sie einen Hinweis? Schau dir die mathematischen Formeln an.
+**Herausforderung:** Versuchen Sie, einen Filter zu erstellen, der nur Filter mit einer geraden Zahl als Konfidenzbewertung durchlässt. Benötigen Sie einen Tipp? Ziehen Sie mathematische Formeln heran.
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)

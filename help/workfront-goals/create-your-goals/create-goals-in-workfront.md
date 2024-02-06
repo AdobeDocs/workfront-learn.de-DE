@@ -1,6 +1,6 @@
 ---
-title: Ziele erstellen
-description: Erfahren Sie, wie Sie Ziele in erstellen [!DNL Workfront Goals] drei verschiedene Optionen verwenden.
+title: Erstellen von Zielen
+description: Erfahren Sie, wie Sie mithilfe von drei verschiedenen Optionen Ziele in [!DNL Workfront Goals] erstellen können.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -12,86 +12,86 @@ doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '884'
-ht-degree: 0%
+source-wordcount: '885'
+ht-degree: 100%
 
 ---
 
-# Ziele erstellen
+# Erstellen von Zielen
 
-In [!DNL Workfront Goals], können Führungskräfte und Unternehmensführungsteams den Fortschritt der gesamten Organisation auf jeder Ebene bis hin zum Einzelnen sehen. [!DNL Workfront Goals] bietet die Sichtbarkeit, um wichtige praktische Einblicke zu erhalten, um die höchsten Prioritäten voranzubringen, gefährdete Ziele zu identifizieren, Probleme in Echtzeit zu diagnostizieren und proaktiv zu Kurs-Korrektheit.
+Unter [!DNL Workfront Goals] können Führungskräfte und Unternehmensleitungs-Teams den Fortschritt der gesamten Organisation auf jeder Ebene bis hin zur Einzelperson verfolgen. [!DNL Workfront Goals] bietet wichtige praktische Einblicke, um die höchsten Prioritäten voranzubringen, gefährdete Ziele zu identifizieren, Probleme in Echtzeit zu diagnostizieren und den Kurs proaktiv zu korrigieren.
 
-[!DNL Workfront Goals] ermöglicht es einzelnen Mitarbeitern auch zu sehen, wie ihre Arbeit zum Gesamtbild beiträgt. Arbeit ist sinnvoller, wenn Einzelne sehen können, wo ihre Arbeit wichtig ist.
+[!DNL Workfront Goals] zeigt den einzelnen Mitwirkenden auch an, wie ihre Arbeit zum großen Ganzen beiträgt. Arbeit ist sinnvoller, wenn die einzelnen Mitwirkenden sehen können, wo sie mit ihrer Arbeit einen wichtigen Beitrag leisten.
 
-Es gibt 3 Möglichkeiten, Ziele mit zu erstellen [!DNL Workfront]:
+Es gibt drei Möglichkeiten, Ziele mit [!DNL Workfront] zu erstellen:
 
-## Neues Ziel erstellen
+## Ein Ziel von Grund auf neu erstellen
 
-Beachten Sie Folgendes beim Erstellen von neuen Zielen:
+Beachten Sie Folgendes beim Erstellen neuer Ziele von Grund auf:
 
-* Alle Mitglieder der Organisation sollten dieselben Zeitrahmen auswählen, wenn sie ähnliche Ziele oder Ziele erstellen, die aufeinander abgestimmt sind.
-* Der Status des neuen Ziels befindet sich immer im Status Entwurf , bis Sie es durch Hinzufügen einer Aktivität, eines Projekts oder eines Ergebnisses aktivieren.
+* Alle Mitglieder der Organisation sollten dieselben Zeitrahmen auswählen, wenn sie ähnliche oder aufeinander abgestimmte Ziele erstellen.
+* Das neue Ziel befindet sich immer im Status „Entwurf“, bis Sie es durch Hinzufügen einer Aktivität, eines Projekts oder eines Ergebnisses aktivieren.
 
 In diesem Video lernen Sie Folgendes:
 
-* Navigieren Sie zum [!UICONTROL Zielliste] Abschnitt zum Hinzufügen eines neuen Ziels
+* Navigieren zum Abschnitt [!UICONTROL Zielliste], um ein neues Ziel hinzuzufügen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
 
-## Vorhandenes Ziel kopieren
+## Ein vorhandenes Ziel kopieren
 
-Nehmen wir an, es ist das Ende eines Quartals und Sie möchten ein vorhandenes Ziel für den nächsten Zeitraum neu erstellen. Oder vielleicht haben Sie das Ziel nicht erreicht und müssen in den nächsten Zeitraum hineinreichen. Was ist die beste Option, um dieses Ziel zu erreichen? Sie möchten ein vorhandenes Ziel kopieren und ändern.
+Nehmen wir an, sie möchten am Quartalsende ein bestehendes Ziel für den nächsten Zeitraum neu erstellen. Oder vielleicht haben Sie das Ziel nicht erreicht und müssen es auf den nächsten Zeitraum ausdehnen. Wie lässt sich dieses Ziel am besten erreichen? Sie möchten ein bestehendes Ziel kopieren und ändern.
 
-Das Kopieren eines vorhandenen Ziels ist auch dann nützlich, wenn mehrere Teammitglieder ähnliche Ziele haben und Sie für jedes dieser Ziele ein Ziel erstellen müssen.
+Das Kopieren eines bestehenden Ziels ist auch dann sinnvoll, wenn mehrere Team-Mitglieder ähnliche Ziele haben und Sie für jedes von ihnen ein Ziel erstellen müssen.
 
 Beachten Sie vor dem Kopieren von Zielen Folgendes:
 
 * Alle Informationen aus dem ursprünglichen Ziel werden kopiert, mit Ausnahme des Zielzeitraums.
-* Sie können die Ergebnisse eines vorhandenen Ziels kopieren und sie werden in das neue Ziel übertragen.
+* Sie können die Ergebnisse eines vorhandenen Ziels kopieren, wodurch sie in das neue Ziel übertragen werden.
 * Kopierte Ergebnisse werden standardmäßig demselben Eigentümer zugewiesen.
 * Sie können den Fortschritt des vorhandenen Ziels nicht in ein neues Ziel kopieren.
-* Sie können die Aktivitäten eines Ziels nicht kopieren, wenn Sie ein Ziel kopieren.
+* Beim Kopieren eines Ziels können Sie die damit verbundenen Aktivitäten nicht mit kopieren.
 
-### Kopieren eines Ziels
+### Wie man ein Ziel kopiert
 
-1. Klicken Sie auf einen Zielnamen, um die **[!UICONTROL Zieldetails]** Bedienfeld.
-1. Klicken Sie auf das 3-Punkt-Symbol neben dem Zielnamen und wählen Sie dann **[!UICONTROL Kopieren]**.
+1. Klicken Sie auf einen Zielnamen, um das Fenster **[!UICONTROL Zieldetails]** zu öffnen.
+1. Klicken Sie auf die drei Punkte neben dem Zielnamen und dann auf **[!UICONTROL Kopieren]**.
 1. Aktualisieren Sie eine der folgenden Informationen für das kopierte Ziel:
-   * **Zielname**—Dies ist der Name des neuen Ziels. Die Standardeinstellung ist &quot;Kopie von&quot;, gefolgt vom Namen des ursprünglichen Ziels.
-   * **Zeitraum**—Der Zeitraum, in dem Sie das Ziel erreichen möchten. Wählen Sie einen Zeitraum aus dem Dropdown-Menü aus oder klicken Sie auf Benutzerdefinierte Datumswerte definieren , um einen benutzerdefinierten Zeitraum anzugeben. Der Standardzeitraum ist immer das aktuelle Quartal.
-   * **Inhaber**—Der Eigentümer des Ziels. Dabei kann es sich um einen Benutzer, ein Team, eine Gruppe oder ein Unternehmen handeln. Die Standardeinstellung ist der Eigentümer des ursprünglichen Ziels.
-   * **Beschreibung**—Zusätzliche Informationen zum Ziel.
+   * **Zielname** – Dies ist der Name des neuen Ziels. Der Standardname ist „Kopie von“, gefolgt vom Namen des ursprünglichen Ziels.
+   * **Zeitraum** – Der Zeitraum, in dem Sie das Ziel erreichen wollen. Wählen Sie einen Zeitraum aus dem Dropdown-Menü aus oder klicken Sie auf „Benutzerdefinierte Daten definieren“, um einen benutzerdefinierten Zeitraum anzugeben. Der Standardzeitraum ist immer das aktuelle Quartal.
+   * **Eigentümer** – Der Eigentümer des Ziels. Dies kann eine Person, ein Team, eine Gruppe oder ein Unternehmen sein. Standardmäßig ist es der Eigentümer des ursprünglichen Ziels.
+   * **Beschreibung** – Zusätzliche Informationen zum Ziel.
 
-1. Überprüfen Sie die **[!UICONTROL Ergebnisse kopieren]** , wenn dem ursprünglichen Ziel Ergebnisse hinzugefügt wurden und Sie sie in das neue Ziel kopieren möchten. Die Ergebnisse des kopierten Ziels haben denselben Eigentümer, dieselben Namen und die gemessenen Werte wie die Ergebnisse des ursprünglichen Ziels.
+1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Ergebnisse kopieren]**, wenn zum ursprünglichen Ziel Ergebnisse hinzugefügt wurden und Sie diese in das neue Ziel kopieren möchten. Die Ergebnisse des kopierten Ziels haben dieselben Eigentümer, Namen und Messwerte wie die Ergebnisse des ursprünglichen Ziels.
 
-1. Klicks **[!UICONTROL Ziel kopieren]**. Das kopierte Ziel wird mit dem Status Entwurf gespeichert.
+1. Klicken Sie auf **[!UICONTROL Ziel kopieren]**. Das kopierte Ziel wird mit dem Status „Entwurf“ gespeichert.
 
-   ![Ein Bild der [!UICONTROL Zieldetails] Bedienfeld in [!DNL Workfront Goals] mit dem [!UICONTROL Kopieren] option](assets/03-workfront-goals-copy-a-goal.png)
+   ![Ein Bild des Fensters [!UICONTROL Zieldetails] in [!DNL Workfront Goals] mit der Option [!UICONTROL Kopieren]](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Klicken Sie auf das 3-Punkt-Symbol und wählen Sie  **[!UICONTROL Aktivieren]**, wodurch der Zielstatus auf Aktiv aktualisiert wird. Das Ziel muss über eine zugehörige Aktivität oder ein zugehörigen Ergebnis verfügen, um &quot;aktiviert&quot;zu können.
+1. Klicken Sie auf die drei Punkte und dann auf **[!UICONTROL Aktivieren]**, um den Status des Ziels auf „Aktiv“ zu setzen. Das Ziel muss mit einer Aktivität oder einem Ergebnis verbunden sein, damit es „aktiviert“ wird.
 
-Wenn Sie ein Ziel kopiert haben, das in einem früheren Zeitraum nicht erreicht wurde, und im folgenden Zeitraum daran weiter arbeiten möchten, gehen Sie wie folgt vor:
+Wenn Sie ein Ziel kopiert haben, das in einem früheren Zeitraum nicht abgeschlossen wurde, und im folgenden Zeitraum weiter daran arbeiten möchten, gehen Sie wie folgt vor:
 
-1. Navigieren Sie zum ursprünglichen Ziel im **[!UICONTROL Zielliste]**.
-1. Fügen Sie dem Ziel eine Aktualisierung hinzu, um anzugeben, dass es kopiert und ein aktuelleres Ziel erstellt wurde.
-1. Schließen Sie das ursprüngliche Ziel, um die während des ursprünglichen Zeitraums erzielten Fortschritte beizubehalten. Klicken Sie auf das 3-Punkt-Symbol neben dem Zielnamen und wählen Sie **[!UICONTROL Schließen]** aus dem Menü.
-1. Aktualisieren Sie die [!UICONTROL Anfänglich] -Wert des neuen Ergebnisses, das mit der **[!UICONTROL Target]** -Wert des vorherigen Ergebnisses, sodass Ihr neuer Zielfortschritt mit der Berechnung ab dem im vorherigen Zeitraum erreichten Punkt beginnt.
+1. Navigieren Sie zum ursprünglichen Ziel in der **[!UICONTROL Zielliste]**.
+1. Fügen Sie eine Aktualisierung zum Ziel hinzu, um anzugeben, dass es kopiert und ein aktuelleres Ziel erstellt wurde.
+1. Schließen Sie das ursprüngliche Ziel, um die während des ursprünglichen Zeitraums erzielten Fortschritte beizubehalten. Klicken Sie auf die drei Punkte neben dem Zielnamen und dann im Menü auf **[!UICONTROL Schließen]**.
+1. Aktualisieren Sie den [!UICONTROL Ausgangswert] des neuen Ergebnisses entsprechend des **[!UICONTROL Zielwerts]** des vorherigen Ergebnisses, sodass Ihr neuer Zielfortschritt mit der Berechnung ab dem im vorherigen Zeitraum erreichten Punkt beginnt.
 
 ## Konvertieren eines Ergebnisses oder einer Aktivität in ein Ziel
 
-Die letzte Option zum Erstellen von Zielen in [!DNL Workfront Goals] ist, indem die Ergebnisse und/oder Aktivitäten eines vorhandenen Ziels in ein anderes Ziel konvertiert werden. Das konvertierte Ergebnis/die konvertierte Aktivität wird zum untergeordneten Ziel des ursprünglichen Ziels.
+Die letzte Möglichkeit zur Erstellung von Zielen in [!DNL Workfront Goals] besteht darin, die Ergebnisse und/oder Aktivitäten eines bestehenden Ziels in ein anderes Ziel zu konvertieren. Das konvertierte Ergebnis/die konvertierte Aktivität wird zum untergeordneten Ziel des ursprünglichen Ziels.
 
-Dies ist unter Umständen der Fall, wenn ein Ergebnis/eine Aktivität größer als erwartet ist und es von Vorteil wäre, das Ergebnis/die Aktivität in ein tatsächliches Ziel selbst zu konvertieren. Stellen Sie sich dies als von unten nach oben gerichteten Ansatz zur Ausrichtung von Zielen vor.
+Dies kann der Fall sein, wenn ein Ergebnis/eine Aktivität einen größeren Umfang hat als erwartet und es von Vorteil wäre, das Ergebnis/die Aktivität in ein eigenes Ziel umzuwandeln. Stellen Sie sich dies wie einen von unten nach oben gerichteten Ansatz zur Ausrichtung von Zielen vor.
 
 Beachten Sie Folgendes, bevor Sie ein Ergebnis oder eine Aktivität in ein Ziel konvertieren:
 
 * Das konvertierte Ergebnis oder die Aktivität wird zum untergeordneten Ziel des ursprünglichen Ziels und die beiden Ziele werden aufeinander abgestimmt.
-* Das neu erstellte Ziel wird zum einzigen Fortschrittsindikator für das ursprüngliche Ziel, wenn keine zusätzlichen Ergebnisse oder Aktivitäten für das ursprüngliche Ziel vorhanden sind. Sie müssen dem untergeordneten Ziel Ergebnisse und Aktivitäten hinzufügen, um den Fortschritt verfolgen zu können.
-* Das Konvertieren eines Ergebnisses oder einer Aktivität in ein Ziel ist unumkehrbar. Nach der Konvertierung kann das neue untergeordnete Ziel nie wieder ein Ergebnis oder eine Aktivität für das übergeordnete Ziel werden.
+* Das neu erstellte Ziel wird zur einzigen Fortschrittsanzeige für das ursprüngliche Ziel, wenn es keine zusätzlichen Ergebnisse oder Aktivitäten für das ursprüngliche Ziel gibt. Sie müssen zum untergeordneten Ziel Ergebnisse und Aktivitäten hinzufügen, um den Fortschritt verfolgen zu können.
+* Die Konvertierung eines Ergebnisses oder einer Tätigkeit in ein Ziel kann nicht rückgängig gemacht werden. Nach der Konvertierung kann das neue untergeordnete Ziel nie wieder zu einem Ergebnis oder einer Aktivität für das übergeordnete Ziel werden.
 
 In diesem Video lernen Sie Folgendes:
 
-* Aktivität hinzufügen und in ein abgestimmtes Ziel konvertieren
+* Eine Aktivität hinzufügen und in ein abgestimmtes Ziel konvertieren
 
 >[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
 

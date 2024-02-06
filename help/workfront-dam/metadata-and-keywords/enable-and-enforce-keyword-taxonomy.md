@@ -1,6 +1,6 @@
 ---
-title: Aktivieren und Erzwingen der Schlüsselworttaxonomie
-description: Erfahren Sie, wie Sie die Taxonomie für Suchbegriffe aktivieren und durchsetzen, wenn Benutzer eigene Suchbegriffe eingeben und Suchfacetten einrichten können in [!UICONTROL WORKFRONT DAM].
+title: Aktivieren und Durchsetzen der Schlüsselwort-Taxonomie
+description: Erfahren Sie, wie Sie die Schlüsselwort-Taxonomie aktivieren und durchsetzen, wann Benutzende ihre eigenen Schlüsselwörter eingeben können, und wie Sie Suchfacetten in [!UICONTROL Workfront DAM] einrichten.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,17 +13,17 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Aktivieren und Erzwingen der Schlüsselworttaxonomie
+# Aktivieren und Durchsetzen der Schlüsselwort-Taxonomie
 
 In diesem Video lernen Sie Folgendes:
 
-* Zugriff auf die Suchbegrifftaxonomie gewähren
-* Erzwingen der Verwendung der Keyword-Taxonomie
-* Wann [!UICONTROL WORKFRONT DAM] Benutzer können ihre eigenen Suchbegriffe eingeben
+* Gewähren des Zugriffs auf die Schlüsselwort-Taxonomie
+* Durchsetzen der Verwendung der Schlüsselwort-Taxonomie
+* Verstehen, wann Benutzende von [!UICONTROL Workfront DAM] ihre eigenen Schlüsselwörter eingeben können
 * Einrichten von Suchfacetten
 
 >[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on)

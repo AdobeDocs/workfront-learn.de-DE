@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie mehr über die Vorteile von Testsendungen
-description: Erfahren Sie, was Testversand ist und welche Vorteile die Verwendung digitaler Testsendungen in [!DNL  Workfront].
+title: Erfahren Sie mehr über die Vorteile von Proofing
+description: Erfahren Sie, was Proofing ist und welche Vorteile die Verwendung von digitalem Proofing in [!DNL  Workfront]bietet.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -14,27 +14,27 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erfahren Sie mehr über die Vorteile von Testsendungen
+# Erfahren Sie mehr über die Vorteile von Proofing
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Was ist Testversand?
-* Vorteile der Verwendung digitaler Testsendungen in [!DNL Workfront]
+* Was ist Proofing?
+* Vorteile der Verwendung von digitalem Proofing in [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on)
 
-## Testen der Terminologie
+## Proofing-Terminologie
 
-Bevor Sie sich in die Testversandeinstellungen eintauchen in [!DNL  Workfront]kennen, lernen Sie die verwendete evidenzspezifische Terminologie kennen. Diese Begriffe werden in diesem Tutorial häufig verwendet.
+Bevor Sie in die Proofing-Einstellungen in [!DNL  Workfront] eintauchen, machen Sie sich mit der für das Proofing verwendeten Terminologie vertraut. Diese Begriffe werden in diesem Tutorial häufig verwendet.
 
-* **Nachweis —** Digitale Version einer Datei, die überprüft, markiert und genehmigt werden kann [!DNL Workfront's] Testversand-Viewer.
-* **Testversand-Workflow —** Erstellen, Weiterleiten und Verwalten eines Testversands innerhalb von [!DNL Workfront]. Die Schritte, die zum Ausführen dieser Aktionen ausgeführt werden.
-* **Testvorlage oder automatisierte Workflow-Vorlage —** Vorformatierte Workflow-Schritte, die schnell auf einen Testversand angewendet werden können. Beinhaltet Validierungsverantwortliche, Genehmiger, Testversandrollen, E-Mail-Warnungen und Termine.
-* **Testversandrolle —** Definiert, was ein Benutzer mit einem Testversand tun kann (z. B. Kommentar, Markup, Genehmigung usw.)
-* **Email alert** Benachrichtigung, wenn der Testversand aktiv ist.
-* **Verwender von Testsendungen —** Jemand mit einer [!DNL Workfront] Planen oder arbeiten Sie Lizenzen, die digitale Testsendungen hochladen, überprüfen, genehmigen, verwalten usw.
+* **Korrekturabzug:** Digitale Version einer Datei, die im [!DNL Workfront's] Korrekturabzug-Viewer überprüft, markiert und genehmigt werden kann.
+* **Korrekturabzug-Workflow:** Das Erstellen, Weiterleiten und Verwalten eines Korrekturabzugs innerhalb von [!DNL Workfront]. Die Schritte, die zur Durchführung dieser Aktionen erforderlich sind.
+* **Korrekturabzugsvorlage oder automatisierte Workflow-Vorlage:** Vorformatierte Workflow-Schritte, die schnell auf einen Korrekturabzug angewendet werden können. Beinhaltet Validierungsverantwortliche, genehmigende Personen, Korrekturabzugsrollen, E-Mail-Warnhinweise und Fristen.
+* **Korrekturabzugsrolle:** Definiert, was Benutzende mit einem Korrekturabzug tun können (z. B. Kommentieren, Markup, Genehmigen usw.)
+* **E-Mail-Warnhinweis:** Benachrichtigung bei Aktivitäten mit dem Korrekturabzug.
+* **Benutzende von Korrekturabzügen:** Personen mit einer [!DNL Workfront]-Lizenz zum Planen oder Arbeiten, die digitale Korrekturabzüge hochladen, überprüfen, genehmigen, verwalten usw. können.
 

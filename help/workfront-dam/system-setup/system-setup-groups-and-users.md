@@ -1,6 +1,6 @@
 ---
 title: Einrichten von Gruppen und Benutzern
-description: Erfahren Sie, wie Sie Ordner, Gruppen und Benutzer in [!UICONTROL WORKFRONT DAM]. Machen Sie sich mit den Benutzerrollentypen und gewähren Sie Berechtigungen für Ordner.
+description: Erfahren Sie, wie Sie Ordner, Gruppen und Benutzende in [!UICONTROL Workfront DAM] erstellen. Machen Sie sich mit den Typen von Benutzerrollen und dem Gewähren von Berechtigungen für Ordner vertraut.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,7 +13,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 88%
 
 ---
 
@@ -21,43 +21,43 @@ ht-degree: 0%
 
 In diesem Video lernen Sie Folgendes:
 
-* Erfahren Sie, wie sich Gruppenkonfigurationen auf den Zugriff auf Assets auswirken
-* Erstellen von Ordnern, Gruppen und Benutzern in einer bestimmten Reihenfolge
-* Typen von Benutzerrollen verstehen
-* Berechtigungen für Ordner gewähren
-* Gruppen erstellen und bearbeiten
-* Benutzer hinzufügen und bearbeiten
+* Erfahren Sie, wie sich Gruppen-Setups auf den Zugriff auf Assets auswirken
+* Erstellen von Ordnern, Gruppen und Benutzenden in einer bestimmten Reihenfolge
+* Verstehen von Typen von Benutzerrollen
+* Gewähren von Berechtigungen für Ordner
+* Erstellen und Bearbeiten von Gruppen
+* Hinzufügen und Bearbeiten von Benutzenden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
 
-## Gruppen und Benutzer - Überblick
+## Überprüfen von Gruppen und Benutzenden
 
 Während der Konfiguration [!UICONTROL WORKFRONT DAM] -System, ist es wichtig, die Rollen zu berücksichtigen, die Benutzer und Gruppen in der großen Übersicht spielen.
 
-Gruppen steuern den Zugriff auf Asset-Ordner in [!UICONTROL WORKFRONT DAM]. Gruppeneinstellungen steuern auch, was Benutzer mit den Assets tun können (Anzeigen, Herunterladen, Bearbeiten usw.) sie haben Zugriff.
+Gruppen steuern den Zugriff auf Asset-Ordner in [!UICONTROL Workfront DAM]. Gruppeneinstellungen steuern auch, was Benutzende mit den Assets tun können, auf die sie Zugriff haben (Anzeigen, Herunterladen, Bearbeiten usw.).
 
 Beim Erstellen von Gruppen ist es wichtig zu beachten, auf welche Asset-Ordner die Mitglieder dieser Gruppe Zugriff in benötigen [!UICONTROL WORKFRONT DAM].
 
-Benutzer sind Personen, die sich bei anmelden [!UICONTROL WORKFRONT DAM]. Ein Benutzer kann auf nichts in [!UICONTROL WORKFRONT DAM] , es sei denn, sie sind einer Gruppe zugewiesen. Je nach Bedarf können Benutzer mehreren Gruppen angehören.
+Benutzende sind Personen, die sich bei [!UICONTROL Workfront DAM] anmelden können. Benutzende können auf nichts in [!UICONTROL Workfront DAM] zugreifen, es sei denn, sie sind einer Gruppe zugewiesen. Je nach Bedarf können Benutzende mehreren Gruppen angehören.
 
 ## Standardgruppen
 
-Es gibt zwei Standardgruppen [!UICONTROL WORKFRONT DAM]. Alle Benutzer gehören automatisch zu diesen Gruppen, je nachdem, ob sie [!UICONTROL WORKFRONT DAM] Anmeldedaten. Sie können keine Benutzer zu diesen Gruppen hinzufügen oder daraus entfernen:
+Es gibt zwei Standardgruppen in [!UICONTROL Workfront DAM]. Alle Benutzenden gehören automatisch zu einer dieser beiden Gruppen, je nachdem, ob sie sich bei [!UICONTROL Workfront DAM] anmelden können oder nicht. Sie können keine Benutzenden zu diesen Gruppen hinzufügen oder daraus entfernen:
 
-* **Gastgruppe**—Wird verwendet, um den Zugriff für einen anonymen Benutzer zu steuern. Dies kann eine Person ohne Anmeldeinformationen oder ein Benutzer sein, der derzeit nicht angemeldet ist.
-* **Protokolliert**-In-Gruppe - Alle angemeldeten Benutzer gehören dieser Gruppe an.
+* **Gastgruppe** – Wird verwendet, um den Zugriff für anonyme Benutzende zu steuern. Dies kann eine Person ohne Anmeldeinformationen oder eine Person sein, die derzeit nicht angemeldet ist.
+* Gruppe **Angemeldet** – Alle angemeldeten Benutzenden gehören dieser Gruppe an.
 
-Die Administratorgruppe und ihre Einstellungen sind ebenfalls standardmäßig vorhanden. Sie können dieser Gruppe Benutzer hinzufügen, die Einstellungen können jedoch nicht angepasst werden.
+Die Admingruppe und ihre Einstellungen sind ebenfalls standardmäßig vorhanden. Sie können dieser Gruppe Benutzende hinzufügen, die Einstellungen können jedoch nicht angepasst werden.
 
-## Rollenarten
+## Rollentypen
 
-Bei der Erstellung von Gruppen wird ihnen ein Rollentyp zugewiesen. Der Rollentyp bestimmt, welcher Teil der [!UICONTROL WORKFRONT DAM] Systembenutzer erhalten bei der Anmeldung eine [!UICONTROL WORKFRONT DAM] selbst oder [!UICONTROL Brand Connect].
+Bei der Erstellung von Gruppen wird diesen ein Rollentyp zugewiesen. Der Rollentyp bestimmt, welchen Teil von [!UICONTROL Workfront DAM] die Systembenutzenden bei der Anmeldung erhalten – [!UICONTROL Workfront DAM] selbst oder [!UICONTROL Brand Connect].
 
-Es stehen drei Rollentypen zur Verfügung mit [!UICONTROL WORKFRONT DAM] Lizenzen:
+Mit einer Lizenz für [!UICONTROL Workfront DAM] stehen drei Rollentypen zur Verfügung:
 
-* **[!UICONTROL Brand Portal]**—Diese Benutzer haben nur Zugriff auf [!UICONTROL Brand Connect], wo sie genehmigte Assets anzeigen und herunterladen können.
-* **[!UICONTROL Mitarbeiter]**—Diese Benutzer können auf [!UICONTROL WORKFRONT DAM] und [!UICONTROL Brand Connect]. Sie verfügen über vollständige Zugriffsrechte auf Assets und Ordner - Ansicht, Download, Upload, Bearbeiten, Verschieben und Löschen.
-* **[!UICONTROL Administrator]**—Systemadministratoren haben Zugriff auf alles in [!UICONTROL Brand Connect] und [!UICONTROL WORKFRONT DAM]und die Möglichkeit, die globalen Systemeinstellungen für jedes System festzulegen. Sie können auch auf Assets zugreifen, die abgelaufen sind oder als inaktiv festgelegt wurden.
+* **[!UICONTROL Brand Portal]** – Diese Benutzenden haben nur Zugriff auf [!UICONTROL Brand Connect], wo sie genehmigte Assets anzeigen und herunterladen können.
+* **[!UICONTROL Mitwirkende]** – Diese Benutzenden können auf [!UICONTROL Workfront DAM] und [!UICONTROL Brand Connect] zugreifen. Sie verfügen über vollständige Zugriffsrechte auf Assets und Ordner – Ansicht, Download, Upload, Bearbeiten, Verschieben und Löschen.
+* **[!UICONTROL Administrator]** – Systemadmins haben Zugriff auf alles in [!UICONTROL Brand Connect] und [!UICONTROL Workfront DAM] und die Möglichkeit, die globalen Systemeinstellungen für jedes System festzulegen. Sie können auch auf Assets zugreifen, die abgelaufen sind oder als inaktiv festgelegt wurden.
 
 <!-- 
 Learn more graphic & documentation article link, below

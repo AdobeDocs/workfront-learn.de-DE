@@ -14,13 +14,13 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 89%
 
 ---
 
 # Überprüfen der Aufgaben während des Fluges
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Zugriff auf die Aufgaben im Flugdiagramm
 * So ermitteln Sie schnell, welche Aufgaben in einem Projekt noch nicht abgeschlossen wurden
@@ -29,21 +29,21 @@ In diesem Video erfahren Sie:
 
 ## Daten auf Aufgabenebene
 
-Die Aufgaben im Flugdiagramm ermöglichen es Ihnen, einen Drilldown in die Aufgaben eines bestimmten Projekts durchzuführen, um zu sehen, wie viel Arbeit für jede aktive Aufgabe abgeschlossen wurde und wie die Aufgaben planmäßig ablaufen. In der Grafik erfahren Sie, welche Aufgaben in einem Projekt abgeschlossen werden müssen und wie hoch der Prozentsatz der Fertigstellung dieser Aufgaben ist.
+Mit dem Diagramm „Aufgaben im Flug“ können Sie die Aufgaben eines bestimmten Projekts aufschlüsseln, um zu sehen, wie viel Arbeit für jede aktive Aufgabe erledigt wurde und wie gut die Aufgaben im Zeitplan liegen. In der Grafik erfahren Sie, welche Aufgaben in einem Projekt abgeschlossen werden müssen und wie hoch der Prozentsatz der Fertigstellung dieser Aufgaben ist.
 
 Anhand dieser Informationen können Sie Folgendes feststellen:
 
-* Woran die Leute arbeiten.
-* Welche Aufgaben könnten ein Projekt gefährden?
-* Wie nah eine Aufgabe am Ende ist.
-* Mit wem du über eine bestimmte Aufgabe reden musst.
+* Woran die Personen arbeiten.
+* Welche Aufgaben ein Projekt gefährden könnten.
+* Wie nah eine Aufgabe an der Fertigstellung ist.
+* Mit wem Sie über eine bestimmte Aufgabe reden müssen.
 
-![Ein Bild, das eine Aufgabe im Flugdiagramm mit Zahlen zu den unten beschriebenen Bereichen anzeigt](assets/section-2-11.png)
+![Ein Bild, das eine Aufgabe im Flugdiagramm mit Zahlen zu den Bereichen anzeigt, die in den folgenden Aufzählungspunkten beschrieben werden](assets/section-2-11.png)
 
 Im Diagramm sehen Sie Folgendes:
 
 1. Aufgabennamen auf der linken Seite.
 1. Daten unten.
 1. Die dunkelblaue Farbe in einer Aufgabenleiste gibt an, wie viel Arbeit für eine Aufgabe abgeschlossen wurde.
-1. Die hellblaue Farbe in einer Aufgabenleiste gibt an, wie viel Arbeit für eine Aufgabe ausgeführt werden muss.
-1. Die Zahl auf der rechten Seite der Taskleiste zeigt den Prozentsatz der Fertigstellung der Aufgabe an.
+1. Die hellblaue Farbe in einer Aufgabenleiste gibt an, wie viel Arbeit für eine Aufgabe noch ausgeführt werden muss.
+1. Die Zahl auf der rechten Seite der Aufgabenleiste zeigt den Prozentsatz der Fertigstellung der Aufgabe an.

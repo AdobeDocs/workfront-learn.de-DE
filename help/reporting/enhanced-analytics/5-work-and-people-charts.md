@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu Arbeits- und Personendiagrammen
-description: In [!UICONTROL Verbesserte Analytics], Arbeitsdiagramme zeigen Aktivitäten aus der Projekt- und Aufgabenperspektive an, während Personendiagramme Aktivitäten aus der Perspektive eines Startseiten-Teams zeigen.
+title: Informationen zu Arbeits- und Mitarbeiterdiagrammen
+description: Die Arbeitsdiagramme in der [!UICONTROL erweiterten Analyse] zeigen Aktivitäten auf Projekt- und Aufgabenebene an, während Mitarbeiterdiagramme Aktivitäten aus der Perspektive eines Stamm-Teams zeigen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -13,19 +13,19 @@ exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 4%
+ht-degree: 94%
 
 ---
 
-# Grundlegendes zu Arbeits- und Personendiagrammen
+# Informationen zu Arbeits- und Mitarbeiterdiagrammen
 
-Arbeitsdiagramme zeigen Aktivitäten aus der Projekt- und Aufgabenperspektive an, während People-Diagramme Aktivitäten aus der Perspektive eines Heimteams zeigen.
+Arbeitsdiagramme zeigen Aktivitäten auf Projekt- und Aufgabenebene an, während Mitarbeiterdiagramme Aktivitäten aus der Perspektive eines Stamm-Teams zeigen.
 
-Wählen Sie im Menü des linken Bedienfelds den Typ der Analytics-Diagramme aus, die Sie anzeigen möchten - Arbeits- oder People-Diagramme.
+Wählen Sie im Menü des linken Bedienfelds den Typ der Analysediagramme aus, die Sie anzeigen möchten – Arbeits- oder Mitarbeiterdiagramme.
 
 ## Arbeitsdiagramme
 
-![Ein Bild, das die [!UICONTROL Analytics] in der [!DNL Workfront Classic]](assets/section-1-1.png)
+![Ein Bild der Suche nach [!UICONTROL Analyse]-Funktionen in [!DNL Workfront Classic]](assets/section-1-1.png)
 
 Wenn Sie in die Arbeitsdiagramme gehen, sehen Sie standardmäßig Folgendes:
 
@@ -34,16 +34,16 @@ Wenn Sie in die Arbeitsdiagramme gehen, sehen Sie standardmäßig Folgendes:
 1. Projektaktivität
 1. Projekt-Treemap (oben nicht angezeigt)
 
-Die Absprünge und Aufgaben in den Flugdiagrammen werden angezeigt, wenn Sie einen Drilldown in die Daten durchführen.
+Der Burndown und die Aufgaben in den Flugdiagrammen werden angezeigt, wenn Sie einen Daten-Drilldown durchführen.
 
-* Klicken Sie in der Ansicht Flugplan auf ein Projekt, und darunter wird eine Abbildungsansicht für dieses Projekt angezeigt.
-* Klicken Sie in der Treemap-Ansicht auf ein Projekt. Darunter erscheinen dann sowohl eine Niederlassung als auch eine Aufgaben in der Flugansicht.
+* Klicken Sie in der Flugplan-Ansicht auf ein Projekt, um darunter eine Burndown-Ansicht dieses Projekts anzuzeigen.
+* Klicken Sie in der Treemap-Ansicht auf ein Projekt, um darunter einen Burndown sowie die Aufgaben in der Flugansicht anzuzeigen.
 
-## Volksdiagramme
+## Mitarbeiterdiagramme
 
-![Ein Bild, das die [!UICONTROL Analytics] in der [!DNL Workfront Classic]](assets/section-1-2.png)
+![Ein Bild mit der Suche nach der [!UICONTROL Analyse]-Funktion in [!DNL Workfront Classic]](assets/section-1-2.png)
 
-Personendiagramme bestehen aus:
+Mitarbeiterdiagramme bestehen aus:
 
 1. Aktivität nach Team
 1. Ressourcenkapazität

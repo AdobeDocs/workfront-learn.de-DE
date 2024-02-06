@@ -1,6 +1,6 @@
 ---
 title: Anpassen [!UICONTROL WORKFRONT DAM]
-description: Erfahren Sie, wie Sie [!UICONTROL WORKFRONT DAM] durch Erstellen von Wasserzeichen und Anpassen der [!UICONTROL DAM] Anmeldefenster, Branding der Benutzeroberfläche und mehr.
+description: Erfahren Sie, wie Sie [!UICONTROL Workfront DAM] durch Erstellen von Wasserzeichen, Anpassen des [!UICONTROL DAM]-Anmeldefensters, Branding der Benutzeroberfläche und mehr anpassen können.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,7 +13,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 91%
 
 ---
 
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 In diesem Video lernen Sie Folgendes:
 
-* Wasserzeichen erstellen
-* Anpassen der [!UICONTROL WORKFRONT DAM] Anmeldungsfenster
-* Markieren Sie die Benutzeroberfläche mit Ihren Farben und Ihrem Logo.
-* Anpassen von aus gesendeten E-Mails [!UICONTROL WORKFRONT DAM]
+* Erstellen von Wasserzeichen
+* Anpassen des [!UICONTROL Workfront DAM]-Anmeldefensters
+* Branding der Benutzeroberfläche mit Ihren Farben und Ihrem Logo
+* Anpassen von aus [!UICONTROL Workfront DAM] gesendeten E-Mails
 * Festlegen von Regeln für das Herunterladen von Assets
-* In-App-Benachrichtigungen steuern
-* Plan für Einrichtung und Wartung [!UICONTROL WORKFRONT DAM]
+* Steuern von In-App-Benachrichtigungen
+* Plan für Einrichtung und Wartung von [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on)

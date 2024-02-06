@@ -1,6 +1,6 @@
 ---
-title: Suchen nach Arbeitszuweisungen in [!UICONTROL Startseite]
-description: Erfahren Sie, wie Sie eingehende und vorhandene Aufgaben finden, die Ihnen zugewiesen sind in [!UICONTROL  ]. Überprüfen Sie dann die Zuweisungsinformationen.
+title: Suchen von Arbeitsaufträgen auf der [!UICONTROL Startseite]
+description: Erfahren Sie, wie Sie die Ihnen zugewiesene eingehende und existierende Arbeit in [!UICONTROL  ] suchen können. Überprüfen Sie dann die Zuweisungsinformationen.
 feature: Work Management
 type: Tutorial
 role: User
@@ -13,11 +13,11 @@ doc-type: video
 source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 63%
 
 ---
 
-# Suchen Sie die zugewiesene Arbeit in [!DNL Workfront] [!UICONTROL Startseite]
+# Suchen Ihrer zugewiesenen Arbeit auf der [!DNL Workfront]-[!UICONTROL Startseite]
 
 
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 In diesem Video lernen Sie Folgendes:
 
-* Eingehende und vorhandene Arbeitszuweisungen suchen
+* Suchen von eingehenden und bestehenden Arbeitsaufträgen
 * Überprüfen von Zuweisungsinformationen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Brand Portal verstehen
-description: Erfahren Sie, wie Sie in auf die Brand Portal zugreifen können. [!UICONTROL WORKFRONT DAM], erstellen Sie Ordner, legen Sie Ablaufdaten für einzelne Assets fest und bearbeiten Sie die Asset-Einstellungen.
+description: Erfahren Sie, wie Sie auf das Brand Portal in [!UICONTROL Workfront DAM] zugreifen, Ordner erstellen, Verfallsdaten für einzelne Assets festlegen und Asset-Einstellungen bearbeiten können.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,7 +13,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '229'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 In diesem Video lernen Sie Folgendes:
 
-* Zugriff auf Brand Portal
+* Zugriff auf das Brand Portal
 * Erstellen von Ordnern und Festlegen von Ordnereinstellungen
 * Festlegen des Ablaufdatums für einzelne Assets
-* Asset-Einstellungen bearbeiten
+* Bearbeiten von Asset-Einstellungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on)
 
 ## Asset-Ordner
 
-Ordner dienen mehreren Zwecken in [!UICONTROL WORKFRONT DAM]. Erstens sind sie ein Mittel zum Organisieren von Assets. Zweitens werden sie verwendet, um verschiedenen Benutzergruppen Zugriff auf die Assets in den Ordnern zu gewähren.
+Ordner erfüllen in [!UICONTROL Workfront DAM] mehrere Zwecke. Erstens sind sie ein Mittel zur Organisation von Assets. Zweitens werden sie verwendet, um verschiedenen Benutzergruppen Zugriff auf die Assets innerhalb der Ordner zu gewähren.
 
-Einige Benutzer durchsuchen die Ordner, um nach gewünschten Assets zu suchen, anstatt nach ihnen zu suchen. Eine logische, durchdachte Ordnerstruktur leitet diese Benutzer an den richtigen Ort. Einige [!UICONTROL WORKFRONT DAM] -Kunden organisieren Ordner nach Abteilung, Dateityp, Asset-Betreff, Produkt, Ereignis oder Workflow. Aber was für eine Organisation funktioniert, funktioniert vielleicht nicht für eine andere.
+Einige der Benutzenden werden die Ordner durchstöbern, um die gewünschten Assets zu finden, anstatt die Suchfunktion zu verwenden. Eine logische, durchdachte Ordnerstruktur führt diese Benutzenden an die richtige Stelle. Einige [!UICONTROL Workfront DAM]-Kundinnen und -Kunden organisieren Ordner nach Abteilung, Dateityp, Asset-Thema, Produkt, Ereignis oder Workflow. Aber was für die eine Organisation funktioniert, muss nicht unbedingt auch für eine andere gelten.
 
-Bei Ordnern wird Benutzern auch der Zugriff auf Assets gewährt. Benutzer sind in Gruppen unterteilt, und dann erhalten Gruppen Zugriff auf die Ordner. Die Berechtigungen für Ordner können je nach Gruppe variieren - nur Ansicht, Assets hochladen, Assets herunterladen, Assets bearbeiten usw.
+Mithilfe von Ordnern wird den Benutzenden auch der Zugriff auf Assets gewährt. Die Benutzenden werden in Gruppen eingeteilt, und die Gruppen erhalten die Berechtigung zum Zugriff auf die Ordner. Die Berechtigungen für Ordner können je nach Gruppe variieren – nur Ansicht, Hochladen von Assets, Herunterladen von Assets, Bearbeiten von Assets usw.
 
-Beachten Sie beim Erstellen von Ordnern und verschachtelten Ordnern die Gruppen und Benutzer, die auf die Assets in den Ordnern zugreifen müssen. Die Struktur von Gruppen kann sich auf die Art und Weise auswirken, wie Sie Ordner organisieren. Außerdem kann sich die Organisation von Ordnern auf die Erstellung von Gruppen auswirken.
+Denken Sie bei der Erstellung von Ordnern und verschachtelten Ordnern an die Gruppen und Benutzenden, die auf die Assets in den Ordnern zugreifen sollen. Die Struktur von Gruppen kann sich auf die Art und Weise auswirken, wie Sie Ordner organisieren, und die Organisation von Ordnern kann sich ihrerseits auf die Erstellung von Gruppen auswirken.

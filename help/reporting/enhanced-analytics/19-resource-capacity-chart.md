@@ -1,5 +1,5 @@
 ---
-title: Grafik zur Ressourcenkapazität
+title: Grundlegendes zum Diagramm zur Ressourcenkapazität
 description: Erfahren Sie, wie das Diagramm "Ressourcenkapazität"in [!UICONTROL Verbesserte Analytics] zeigt die Anzahl der geplanten Stunden, die einem Heimteam innerhalb des gefilterten Zeitraums zugewiesen wurden, in Bezug auf die insgesamt verfügbaren Stunden des Teams.
 activity: use
 team: Technical Marketing
@@ -13,44 +13,44 @@ exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 0%
+ht-degree: 92%
 
 ---
 
-# Grafik zur Ressourcenkapazität
+# Grundlegendes zum Diagramm zur Ressourcenkapazität
 
-Das Diagramm Ressourcenkapazität zeigt die Anzahl der geplanten Stunden, die einem Heimteam innerhalb des gefilterten Zeitraums zugewiesen wurden, in Bezug auf die insgesamt verfügbaren Stunden des Teams.
+Das Diagramm zur Ressourcenkapazität zeigt die Anzahl der geplanten Stunden, die einem Stamm-Team innerhalb des gefilterten Zeitraums zugewiesen wurden, im Vergleich zu den insgesamt verfügbaren Stunden des Teams.
 
-Dieser Vergleich kann Ihnen dabei helfen festzustellen, ob Sie dem Team nicht genügend Arbeit zuweisen oder ob bei ihnen möglicherweise ein hoher Arbeitsaufwand auftritt. Klicken Sie auf einen Teamnamen, und es wird ein Diagramm zur Teamkapazität mit weiteren Details zur Teamkapazität für den gefilterten Zeitraum angezeigt.
+Anhand dieses Vergleichs können Sie feststellen, ob Sie dem Team zu wenig Arbeit zuteilen oder ob es aufgrund der hohen Arbeitsbelastung möglicherweise unter Burnout leidet. Wenn Sie auf einen Team-Namen klicken, wird ein Diagramm mit den Team-Kapazitäten angezeigt, das weitere Einzelheiten über die Kapazität des Teams für den gefilterten Zeitraum enthält.
 
 Anhand dieser Informationen können Sie Folgendes feststellen:
 
-* Wenn ein Heimteam überzugewiesen oder nicht zugewiesen wurde.
-* Welche Heimteams stehen zur Arbeit zur Verfügung.
+* ob einem Stamm-Team zu viel oder zu wenig zugeteilt wurde.
+* welche Stamm-Teams für die Arbeit zur Verfügung stehen.
 
-![Ein Bild mit einem Diagramm zur Ressourcenkapazität mit Zahlen zu Bereichen, die in den nachstehenden Aufzählungszeichen beschrieben werden](assets/section-3-2.png)
+![Ein Bild, das ein Diagramm zur Ressourcenkapazität mit Zahlen zu den Bereichen anzeigt, die in den folgenden Aufzählungspunkten beschrieben werden](assets/section-3-2.png)
 
 Im Diagramm sehen Sie die folgenden Schlüsseldetails:
 
-1. Die Namen der Heimteams sind links.
-1. Stunden sind am unteren Ende. Dies ist die X-Achse des Diagramms und berechnet den in den oben aufgeführten Teams angezeigten Stundenbereich.
-1. Der Kreis zeigt die Anzahl der geplanten Stunden an, die der Startseite zugewiesen sind.
-1. Die vertikale Zeile zeigt die Gesamtanzahl der Stunden an, die für das Startseiten-Team verfügbar sind.
+1. Die Namen der Stamm-Teams stehen auf der linken Seite.
+1. Die Stunden stehen unten. Dies ist die x-Achse des Diagramms und entspricht dem Stundenbereich, der in den Teams oben angezeigt wird.
+1. Der Kreis zeigt die Anzahl der dem Stamm-Team zugewiesenen geplanten Stunden an.
+1. Die vertikale Linie zeigt die Gesamtzahl der für das Stamm-Team verfügbaren Stunden an.
 
-## Navigieren zum Diagramm
+## Wie Sie zum Diagramm navigieren
 
-1. Klicken Sie auf [!UICONTROL Personen] im linken Bereich.
-1. Verwenden Sie die [!UICONTROL Filter] , um ein oder mehrere Heimteams zu untersuchen.
-1. Sie werden die [!UICONTROL Ressourcenkapazität] Diagramm unter dem Diagramm für Teamaktivitäten angezeigt.
+1. Klicken Sie auf die Registerkarte [!UICONTROL Personen] im linken Bedienfeld.
+1. Verwenden Sie den [!UICONTROL Filter], um ein oder mehrere Stamm-Teams zu untersuchen.
+1. Das Diagramm zur [!UICONTROL Ressourcenkapazität] wird unter dem Diagramm der Team-Aktivitäten angezeigt.
 
-## Verwendung der Grafik
+## Verwendung des Diagramms
 
-Sie müssen Filter hinzufügen und einen Datumsbereich auswählen, um Daten in den Diagrammen im [!UICONTROL Verbesserte Analyse] Workfront. Wenn Sie zuvor Filter hinzugefügt haben, sind diese aktiv, bis Sie sie entfernen.
+Sie müssen Filter hinzufügen und einen Datumsbereich auswählen, um Daten in den Diagrammen im Bereich der [!UICONTROL erweiterten Analyse] in Workfront anzuzeigen. Wenn Sie zuvor Filter hinzugefügt haben, bleiben diese aktiv, bis Sie sie entfernen.
 
 ![Ein Bild mit einem Diagramm zur Ressourcenkapazität](assets/section-3-3.png)
 
-Im Diagramm &quot;Ressourcenkapazität&quot;haben Sie folgende Möglichkeiten:
+Auf dem Diagramm zur Ressourcenkapazität können Sie Folgendes tun:
 
-* Bewegen Sie den Mauszeiger über die Startseite, um zu sehen, wie viele Stunden noch geplant werden können, wie viele Stunden das Startseiten-Team voraussichtlich abschließen wird und wie viele Stunden insgesamt gearbeitet wurden (gekennzeichnet als &quot;over&quot;, &quot;under&quot;oder &quot;kapazität&quot;).
-* Exportieren Sie die Diagrammdaten mithilfe der Exportschaltfläche oben rechts im Diagramm.
-* Klicken Sie auf den Namen des Startseiten-Teams, um das Diagramm zur Teamkapazität zu öffnen. Wenn Sie auf einen kleineren Zeitrahmen im Diagramm zur Teamkapazität hineinzoomen, werden die Daten aktualisiert, die im Diagramm Ressourcenkapazität angezeigt werden.
+* den Mauszeiger über die Zeile des Stamm-Teams bewegen, um zu sehen, wie viele Stunden noch geplant werden können, wie viele Stunden für das Stamm-Team geplant sind und die Gesamtzahl der geleisteten Stunden (gekennzeichnet als „über“, „unter“ oder „Kapazität erreicht“).
+* die Diagrammdaten mithilfe der Exportschaltfläche oben rechts im Diagramm exportieren.
+* auf den Namen des Stamm-Teams klicken, um das Diagramm zur Team-Kapazität zu öffnen. Wenn Sie im Diagramm der Team-Kapazität auf einen kleineren Zeitrahmen zoomen, werden die Daten im Diagramm zur Ressourcenkapazität aktualisiert.

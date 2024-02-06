@@ -1,6 +1,6 @@
 ---
-title: Best Practice - Benutzerspezifische Berichte
-description: Erfahren Sie mehr über Best Practices-Empfehlungen von Adobe Workfront-Experten zur Einrichtung, Verwaltung und Verwendung benutzerdefinierter Workfront-Berichte.
+title: Best Practice – Benutzerdefinierte Berichte
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden benutzerdefinierter Workfront-Berichte empfehlen.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
@@ -9,34 +9,34 @@ exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '620'
-ht-degree: 0%
+ht-degree: 84%
 
 ---
 
-# Best Practice - Benutzerspezifische Berichte
+# Best Practice – Benutzerdefinierte Berichte
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine „Best Practice“ für Adobe Workfront?
 
-Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des „Warum“ vertraut zu machen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
+Die Frage „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Best Practices für benutzerdefinierte Berichte
+## Benutzerdefinierte Berichte – Best Practices
 
-* Erwägen Sie die Verwendung von Berichtsaufforderungen zur Eingrenzung der Ergebnisse eines Berichts, anstatt mehrere, ähnliche Berichte zu erstellen oder komplexe Filterstrukturen in einem Bericht zu erstellen.
+* Erwägen Sie die Verwendung von Berichtsaufforderungen, um die Ergebnisse eines Berichts einzugrenzen, anstatt mehrere ähnliche Berichte zu erstellen oder komplizierte Filterstrukturen in einem Bericht zu erstellen.
 
-* Beschleunigen Sie die Berichterstellung, indem Sie einen ähnlichen vorhandenen Bericht kopieren, aus dem Sie Ihren neuen Bericht erstellen können.
+* Beschleunigen Sie die Berichterstellung, indem Sie einen ähnlichen bereits vorhandenen Bericht kopieren, um daraus Ihren neuen Bericht zu erstellen.
 
-* Verwenden Sie nutzerbasierte Platzhalter, um dynamische Berichte zu erstellen, sodass der Benutzer, der den Bericht anzeigt, die für ihn relevanten Informationen sieht.
+* Verwenden Sie benutzerbasierte Platzhalter, um dynamische Berichte zu erstellen, damit die Person, die den Bericht betrachtet, die für sie relevanten Informationen sieht.
 
 * Erstellen Sie Ansichten, die eine Inline-Bearbeitung ermöglichen.
 
@@ -44,21 +44,21 @@ Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der a
 </br>
 
 
-## Warum sind diese Best Practices?
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Erwägen Sie die Verwendung von Berichtsaufforderungen zur Eingrenzung der Ergebnisse eines Berichts, anstatt mehrere, ähnliche Berichte zu erstellen oder komplexe Filterstrukturen in einem Bericht zu erstellen.
+Erwägen Sie die Verwendung von Berichtsaufforderungen, um die Ergebnisse eines Berichts einzugrenzen, anstatt mehrere ähnliche Berichte zu erstellen oder komplizierte Filterstrukturen in einem Bericht zu erstellen.
 
 
-**Deshalb**
+**Das sind die Gründe**
 
-Reduzieren Sie die Anzahl der Berichte, die Sie erstellen müssen, und erweitern Sie die Verwendung der von Ihnen erstellten Berichte, indem Sie Eingabeaufforderungen einschließen, insbesondere zu den häufig ausgeführten Berichten.
+Verringern Sie die Anzahl der Berichte, die Sie erstellen müssen, und erhöhen Sie den Nutzen der erstellten Berichte, indem Sie Eingabeaufforderungen einbeziehen, insbesondere für häufig verwendete Berichte.
 
-Mithilfe von Eingabeaufforderungen können Sie im Moment Filterzusätze für einen Bericht vornehmen, ohne die Filtereinstellungen des Berichts zu bearbeiten. Sie haben beispielsweise einen Bericht, der Aufgaben eines bestimmten Status sucht, die einem bestimmten Team zugewiesen sind. Fügen Sie diesem &quot;einfachen&quot;Bericht Eingabeaufforderungen hinzu, mit denen Sie den Zeitrahmen für die Fälligkeitsdaten der Aufgaben eingrenzen, nur Aufgaben anzeigen, an die Dokumente angehängt sind, oder Aufgaben mit einem bestimmten benutzerdefinierten Formular identifizieren können.
+Mithilfe von Eingabeaufforderungen können Sie im Moment Filterzusätze für einen Bericht vornehmen, ohne die Filtereinstellungen des Berichts zu bearbeiten. Sie haben zum Beispiel einen Bericht, der nach Aufgaben mit einem bestimmten Status sucht, die einem bestimmten Team zugeordnet sind. Fügen Sie diesem &quot;einfachen&quot;Bericht Eingabeaufforderungen hinzu, mit denen Sie den Zeitrahmen für die Fälligkeitsdaten der Aufgaben eingrenzen, nur Aufgaben anzeigen, an die Dokumente angehängt sind, oder Aufgaben mit einem bestimmten benutzerdefinierten Formular identifizieren können.
 
 
-**Hinweis**: Bei einigen Benutzern sind Eingabeaufforderungen möglicherweise verwirrend. Wenn ja, könnten mehrere Berichte mit klaren Titeln eine bessere Lösung für sie sein.
+**Hinweis**: Einige Benutzende finden die Eingabeaufforderungen möglicherweise verwirrend. In diesem Fall können mehrere Berichte mit eindeutigen Titeln eine bessere Lösung sein.
 
 
 </br>
@@ -66,9 +66,9 @@ Mithilfe von Eingabeaufforderungen können Sie im Moment Filterzusätze für ein
 
 **Best Practice**
 
-Beschleunigen Sie die Berichterstellung, indem Sie einen ähnlichen vorhandenen Bericht kopieren, aus dem Sie Ihren neuen Bericht erstellen können.
+Beschleunigen Sie die Berichterstellung, indem Sie einen ähnlichen bereits vorhandenen Bericht kopieren, um daraus Ihren neuen Bericht zu erstellen.
 
-**Deshalb**
+**Das sind die Gründe**
 
 Dies spart nicht nur Zeit, sondern stellt sicher, dass der neue Bericht die Filter, Ansichten oder Gruppierungen enthält, die Sie aus dem ursprünglichen Bericht benötigen.
 
@@ -77,11 +77,11 @@ Dies spart nicht nur Zeit, sondern stellt sicher, dass der neue Bericht die Filt
 
 **Best Practice**
 
-Verwenden Sie nutzerbasierte Platzhalter, um dynamische Berichte zu erstellen, sodass der Benutzer, der den Bericht anzeigt, die für ihn relevanten Informationen sieht.
+Verwenden Sie benutzerbasierte Platzhalter, um dynamische Berichte zu erstellen, damit die Person, die den Bericht betrachtet, die für sie relevanten Informationen sieht.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Benutzerbasierte Platzhalter machen Berichte flexibler, sodass Berichtsautoren einen einzelnen Bericht erstellen können, der für mehrere Benutzer freigegeben werden kann. Benutzerbasierte Platzhalter bieten nicht nur benutzerdefinierte, personalisierte Informationen für den angemeldeten Benutzer, der den benutzerspezifischen Bericht anzeigt, sondern können auch die Anzahl der Berichte reduzieren, die erstellt und gepflegt werden müssen.
+Benutzerbasierte Platzhalter machen Berichte flexibler und ermöglichen es denen, die sie verfassen, einen einzigen Bericht zu erstellen, der für mehrere Benutzende freigegeben werden kann. Mit benutzerbasierten Platzhaltern erhalten Sie nicht nur benutzerdefinierte, personalisierte Informationen für die angemeldete Person, die den benutzerdefinierten Bericht anzeigt, sondern Sie können auch die Anzahl der zu erstellenden und zu pflegenden Berichte reduzieren.
 
 </br>
 </br>
@@ -92,6 +92,6 @@ Anweisungen zur Verwendung benutzerbasierter Platzhalter in Berichten finden Sie
 
 Erstellen Sie Ansichten, die eine Inline-Bearbeitung ermöglichen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Bei der Inline-Bearbeitung können Benutzer Informationen über ein Element direkt in einem Bericht oder einer Liste ändern. Dies spart Zeit, da Benutzer das Objekt nicht öffnen müssen, um bei der Aktualisierung mehrerer Elemente Änderungen vorzunehmen oder vom Objekt zum Objekt zu springen. Stellen Sie sicher, dass Benutzer wissen, dass die Inline-Bearbeitung bequem und schnell ist (zwei Dinge, die zur Übernahme von Workfront durch die Benutzer beitragen).
+Mit der Inline-Bearbeitung können Benutzende Informationen zu einem Element direkt in einem Bericht oder einer Liste ändern. Dies spart Zeit, da Benutzer das Objekt nicht öffnen müssen, um bei der Aktualisierung mehrerer Elemente Änderungen vorzunehmen oder vom Objekt zum Objekt zu springen. Stellen Sie sicher, dass die Benutzenden wissen, dass die Inline-Bearbeitung bequem und schnell ist (zwei Aspekte, die die Akzeptanz der Workfront-Benutzenden steigert).

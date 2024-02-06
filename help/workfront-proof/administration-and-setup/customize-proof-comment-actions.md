@@ -1,6 +1,6 @@
 ---
-title: Aktionen für Testversand-Kommentare anpassen
-description: Erfahren Sie, wie Aktionen für Testversand-Kommentare verwendet werden können. Erfahren Sie, wie Sie Aktionsbeschriftungen für die Testfunktion von einrichten und anpassen.
+title: Anpassen von Korrekturabzugskommentaraktionen
+description: Erfahren Sie, wie Aktionen auf Korrekturabzugskommentare angewendet werden können. Erfahren Sie, wie Sie Aktionsbeschriftungen für die Testfunktion in Workfront einrichten und anpassen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -14,21 +14,21 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 75%
 
 ---
 
-# Aktionen für Testversand-Kommentare anpassen
+# Anpassen von Korrekturabzugskommentaraktionen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Was für eine Aktion ist
-* Verwendung von Aktionen in Kommentaren
+* Was eine Aktion ist
+* Verwenden von Aktionen in Kommentaren
 * Anpassen von Aktionsbeschriftungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on)
 
-## Ihre Wendung
+## Sie sind dran
 
-Sehen Sie sich die von Ihnen erstellten Testversand-Workflows an und besprechen Sie die Diskussionen mit den Teams, die mithilfe von Überprüfungs- und Genehmigungs-Workflows diskutiert wurden. Werden Maßnahmen erforderlich sein? Aktualisieren Sie in diesem Fall die Dokumente, in denen Sie die Workflows aufgezeichnet haben, und schließen Sie die Aktionen ein.
+Sehen Sie sich die von Ihnen erstellten Testversand-Workflows an und besprechen Sie die Diskussionen mit den Teams, die mithilfe von Überprüfungs- und Genehmigungs-Workflows diskutiert wurden. Werden Aktionen erforderlich sein? Aktualisieren Sie in diesem Fall die Dokumente, in denen Sie die Workflows aufgezeichnet haben, und schließen Sie die Aktionen ein.
 

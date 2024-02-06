@@ -1,6 +1,6 @@
 ---
-title: Digitale Arbeit überprüfen und genehmigen
-description: Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme, Dokumente und Testsendungen in [!DNL Workfront Home].
+title: Überprüfen und Genehmigen digitaler Arbeiten
+description: Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme, Dokumente und Korrekturabzüge in [!DNL Workfront Home]finden und erteilen können.
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -14,25 +14,25 @@ doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Digitale Arbeit überprüfen und genehmigen
+# Überprüfen und Genehmigen digitaler Arbeiten
 
 In diesem Video lernen Sie Folgendes:
 
-* Suchen nach Genehmigungen in [!DNL Workfront Home]
-* Genehmigen von Projekten, Aufgaben und Problemen
-* Validierungen für Dokumente vornehmen
-* Vornehmen von Genehmigungen für Testsendungen
+* Finden von Genehmigungen in [!DNL Workfront Home]
+* Erteilen von Genehmigungen für Projekte, Aufgaben und Probleme
+* Erteilen von Genehmigungen für Dokumente
+* Erteilen von Genehmigungen für Korrekturabzüge
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
 
 >[!NOTE]
 >
->Dokumente, Testsendungen und Arbeitselemente (Projekte, Aufgaben und Probleme), für die eine Genehmigung erforderlich ist, können in Projekten und benutzerdefinierten Berichten zusätzlich zu [!DNL Workfront Home].
+>Dokumente, Korrekturabzüge und Arbeitselemente (Projekte, Aufgaben und Probleme), die genehmigt werden müssen, finden sich neben [!DNL Workfront Home] auch in Projekten und benutzerdefinierten Berichten.
 
 
 

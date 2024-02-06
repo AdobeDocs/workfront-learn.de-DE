@@ -1,5 +1,5 @@
 ---
-title: Maßnahmen ergreifen, um Aktualisierungen vorzunehmen
+title: Ergreifen von Maßnahmen, um Aktualisierungen vorzunehmen
 description: Erfahren Sie, wie Sie im Flugdiagramm unter "Aufgaben"Aktualisierungen vornehmen. [!UICONTROL Verbesserte Analytics].
 activity: use
 feature: Reports and Dashboards
@@ -14,14 +14,14 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 64%
 
 ---
 
-# Maßnahmen ergreifen, um Aktualisierungen vorzunehmen
+# Ergreifen von Maßnahmen, um Aktualisierungen vorzunehmen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* So nehmen Sie Aktualisierungen innerhalb der Aufgaben im Flugdiagramm vor
+* Vornehmen von Aktualisierungen aus dem Diagramm „Aufgaben im Flug“
 
 >[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on)

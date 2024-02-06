@@ -1,6 +1,6 @@
 ---
-title: Best Practice - Filter, Ansichten und Gruppierungen
-description: Erfahren Sie mehr über Best Practices-Empfehlungen von Adobe Workfront-Experten zum Einrichten, Verwalten und Verwenden von Workfront-Filtern, -Ansichten und -Gruppierungen.
+title: Best Practice – Filter, Ansichten und Gruppierungen
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Workfront-Filtern, -Ansichten und -Gruppierungen empfehlen.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
@@ -9,49 +9,49 @@ exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
 source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '785'
-ht-degree: 0%
+ht-degree: 70%
 
 ---
 
-# Best Practice - Filter, Ansichten und Gruppierungen
+# Best Practice – Filter, Ansichten und Gruppierungen
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine „Best Practice“ für Adobe Workfront?
 
-Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des „Warum“ vertraut zu machen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
+Die Frage „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
 ## Best Practices für Filter, Ansichten und Gruppierungen
 
-* Reduzieren Sie die Anzahl der benutzerspezifischen Berichte, die Sie durch die Nutzung von Filtern, Ansichten und Gruppierungen auf einer Objektliste erstellen, um die benötigten Daten abzurufen.
+* Reduzieren Sie durch die Nutzung von Filtern, Ansichten und Gruppierungen die Anzahl der benutzerspezifischen Berichte, die Sie auf einer Objektliste erstellen, um die benötigten Daten abzurufen.
 
-* Verwenden Sie die Listensteuerelemente in Layoutvorlagen, um nicht benötigte Filter, Ansichten und Gruppierungen für häufig verwendete Objekte (Projekte, Aufgaben, Programme usw.) auszublenden.
+* Verwenden Sie die Listensteuerelemente in Layout-Vorlagen, um nicht benötigte Filter, Ansichten und Gruppierungen für häufig verwendete Objekte (Projekte, Aufgaben, Programme usw.) auszublenden.
 
 * Geben Sie benutzerdefinierte Filter, Ansichten und Gruppierungen frei, die für die Workflows und Prozesse Ihres Unternehmens relevant sind, und zwar über die Listensteuerelemente der Layoutvorlagen.
 
-* Verwenden Sie beim Erstellen von Filtern für den Projektstatus, den Aufgabenstatus oder den Problemstatus (Objekt)>>Status entspricht dem Feld-Quell-/Feldnamen mit dem Gleichheitsmodifikator und nicht mit dem Feld Projekt >>Status-Feldquelle/-Feldnamen.
+* Verwenden Sie beim Erstellen von Filtern für den Projekt-, den Aufgaben- oder den Problemstatus die Option (Objekt)>>„Status entspricht der Feldquelle/dem Feldnamen“ mit dem Gleichheitsmodifikator, nicht Projekt>>„Status Feldquelle/Feldname“.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Reduzieren Sie die Anzahl der benutzerspezifischen Berichte, die Sie durch die Nutzung von Filtern, Ansichten und Gruppierungen auf einer Objektliste erstellen, um die benötigten Daten abzurufen.
+Reduzieren Sie durch die Nutzung von Filtern, Ansichten und Gruppierungen die Anzahl der benutzerspezifischen Berichte, die Sie auf einer Objektliste erstellen, um die benötigten Daten abzurufen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Die Erstellung von einmaligen Nutzungsberichten für jedes Datensegment, das Sie sehen möchten, ist zeitaufwendig und führt zu einer Optimierung des Workfront-Systems.
+Die Erstellung von einmaligen Nutzungsberichten für jedes Datensegment, das Sie sehen möchten, ist zeitaufwendig und füllt das Workfront-System unnötig.
 
 Anweisungen zum Erstellen von Berichten mit Eingabeaufforderungen finden Sie im Kapitel &quot;Einrichtung und Verwendung von Berichtsaufforderungen&quot;im [Grundlegendes zu Berichtseinstellungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) Video.
 
@@ -62,9 +62,9 @@ Anweisungen zum Erstellen von Berichten mit benutzerdefinierten Eingabeaufforder
 
 **Best Practice**
 
-Verwenden Sie die Listensteuerelemente in Layoutvorlagen, um nicht benötigte Filter, Ansichten und Gruppierungen für häufig verwendete Objekte (Projekte, Aufgaben, Programme usw.) auszublenden.
+Verwenden Sie die Listensteuerelemente in Layout-Vorlagen, um nicht benötigte Filter, Ansichten und Gruppierungen für häufig verwendete Objekte (Projekte, Aufgaben, Programme usw.) auszublenden.
 
-**Deshalb**
+**Das sind die Gründe**
 
 Weniger ist mehr. Das Ausblenden von Filter-, Anzeige- und Gruppierungslisten-Optionen, die für die täglichen Workflows Ihrer Benutzer nicht relevant sind, führt zu einer Verkleinerung der Listen, wodurch Benutzer schneller das benötigten finden können.
 
@@ -77,11 +77,11 @@ Anweisungen zum Ausblenden von Filtern, Ansichten oder Gruppierungen mit Layoutv
 
 Geben Sie benutzerdefinierte Filter, Ansichten und Gruppierungen frei, die für die Workflows und Prozesse Ihres Unternehmens relevant sind, und zwar über die Listensteuerelemente der Layoutvorlagen.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn Sie Filter, Ansichten und Gruppierungen erstellt haben, die Informationen zu den täglichen Prozessen der Benutzer anzeigen, ist es einfach, diese über die Layoutvorlagen freizugeben. Dadurch wird sichergestellt, dass jede zugewiesene Layout-Vorlage über Filter-, Ansicht- und Gruppierungsoptionen verfügt, die für ihre Workflows relevant sind.
+Wenn Sie Filter, Ansichten und Gruppierungen erstellt haben, die Informationen zu den täglichen Prozessen der Benutzer anzeigen, ist es einfach, diese über die Layoutvorlagen freizugeben. Dadurch wird sichergestellt, dass jede zugewiesene Layout-Vorlage über die Filter-, Ansicht- und Gruppierungsoptionen verfügt, die für ihre Workflows relevant sind.
 
-Das Anpassen der Informationen, die Sie Ihren Benutzern über die Layoutvorlagen anzeigen möchten, ist außerdem zeitsparend für System- und Gruppenadministratoren, da sie nicht jeden Filter, jede Ansicht und jede Gruppierungsoption einzeln freigeben müssen.
+Das Anpassen der Informationen, die Sie Ihren Benutzenden über die Layout-Vorlagen anzeigen möchten, ist außerdem zeitsparend für System- und Gruppenadmins, da sie nicht jeden Filter, jede Ansicht und jede Gruppierungsoption einzeln freigeben müssen.
 
 Anweisungen zum Freigeben von Filtern, Ansichten oder Gruppierungen für Layoutvorlagen finden Sie unter [Berichtslisten mit Layoutvorlagen anpassen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
 
@@ -90,10 +90,10 @@ Anweisungen zum Freigeben von Filtern, Ansichten oder Gruppierungen für Layoutv
 
 **Best Practice**
 
-Verwenden Sie beim Erstellen von Filtern für den Projektstatus, den Aufgabenstatus oder den Problemstatus (Objekt)>>Status entspricht dem Feld-Quell-/Feldnamen mit dem Gleichheitsmodifikator und nicht mit dem Feld Projekt >>Status-Feldquelle/-Feldnamen.
+Verwenden Sie beim Erstellen von Filtern für den Projekt-, den Aufgaben- oder den Problemstatus die Option (Objekt)>>„Status entspricht der Feldquelle/dem Feldnamen“ mit dem Gleichheitsmodifikator, nicht Projekt>>„Status Feldquelle/Feldname“.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Mithilfe von (Objekt)>>Gleich mit schließen Sie alle benutzerdefinierten Status ein, denen dieser spezifische Status im Feld Gleich mit in den Statuskonfigurationen zugewiesen ist. Beim Einrichten des Filters unter (Objekt) > Status > Gleich müssen Sie hingegen bestimmte Status für den Filter auswählen. Dies könnte eine Wartungsaufgabe darstellen, wenn Sie diese neuen Status in verschiedenen Filtern berücksichtigen müssen. Jeder Filter muss geöffnet und mit dem neuen Status aktualisiert werden.
+Mithilfe von (Objekt)>>Gleich mit schließen Sie alle benutzerdefinierten Status ein, denen dieser spezifische Status im Feld Gleich mit in den Statuskonfigurationen zugewiesen ist. Die Einrichtung des Filters als (Objekt)>>„Status“ > „Gleich“ erfordert hingegen, dass Sie bestimmte Statuten für den Filter auswählen. Dies könnte eine Herausforderung für die Wartung darstellen, wenn Sie diese neuen Status in verschiedenen Filtern berücksichtigen müssen. Jeder Filter muss nämlich geöffnet und mit dem neuen Status aktualisiert werden.
 
-Wenn Sie beispielsweise alle aktuellen Projekte sehen möchten, können Sie Ihren Filter so einrichten, dass er Projekt > Status > Gleich > Aktuell liest. Wenn jedoch jemand einen benutzerdefinierten Status namens &quot;Aktiv&quot;hinzufügt und ihn mit &quot;Aktuell&quot;gleicht, findet dieser Filter keine Projekte mit dem Status &quot;Aktiv&quot;. Wenn Sie jedoch Projekt > Status entspricht > Gleich > Aktuell verwenden, sucht der Filter Objekte mit dem Status Aktuell oder Aktiv, da beide im Feld Gleicht mit über Aktuelles verfügen.
+Wenn Sie z. B. alle aktuellen Projekte sehen möchten, können Sie Ihren Filter so einrichten, dass er Projekt>>„Status“ > „Gleich“ > „Aktuell“ lautet. Wenn jedoch jemand einen benutzerdefinierten Status namens &quot;Aktiv&quot;hinzufügt und ihn mit &quot;Aktuell&quot;gleicht, findet dieser Filter keine Projekte mit dem Status &quot;Aktiv&quot;. Wenn Sie jedoch Projekt>> „Status entspricht“ > „Gleich“ > „Aktuell“ verwenden, sucht der Filter Objekte mit dem Status „Aktuell“ oder „Aktiv“, da beide im Feld „Entspricht” den Eintrag „Aktuell” enthalten.

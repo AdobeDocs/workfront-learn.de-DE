@@ -1,5 +1,5 @@
 ---
-title: Detaillierte Navigation
+title: Tiefere Einblicke in die Navigation
 description: Erfahren Sie, wie schnell Sie sehen können, wie viel Zeit Mitarbeiter für jedes Projekt in einsetzen. [!UICONTROL Verbesserte Analytics].
 activity: use
 feature: Reports and Dashboards
@@ -14,33 +14,33 @@ exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 92%
 
 ---
 
-# Detaillierte Navigation
+# Tiefere Einblicke in die Navigation
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* So können Sie schnell erkennen, wie viel Zeit Mitarbeiter für jedes Projekt einsetzen
+* Wie Sie schnell erkennen können, wie viel Zeit Mitarbeitende für jedes Projekt aufwenden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on)
 
-## Überprüfungszeit für Projekte
+## Für Projekte aufgewendete Überprüfungszeit
 
-Mit der Projekt-Treemap können Sie verstehen, wie viel Zeit Benutzer für ein Projekt haben. Kästchen stellen Projekte dar. Die Größe des Kästchens zeigt an, wie viel Zeit für das Projekt im Vergleich zu anderen Projekten verbracht wurde. Je größer die Kiste, desto mehr Zeit verbringen Sie.
+Mit der Projekt-Treemap können Sie verstehen, wie viel Zeit Benutzende einem Projekt gewidmet haben. Kästchen stellen Projekte dar. Die Größe des Kästchens zeigt an, wie viel Zeit für das Projekt im Vergleich zu anderen Projekten aufgewendet wurde. Je größer das Kästchen, desto mehr Zeit wurde aufgewendet.
 
 Anhand dieser Informationen können Sie Folgendes feststellen:
 
 * Die Priorität der Dinge, an denen im ausgewählten Datumsbereich gearbeitet wird.
-* Wofür Benutzer Zeit verbringen.
-* Wenn sich Benutzer auf die richtigen Dinge konzentrieren.
-* Wie stark sich der Umfang eines Projekts während dieses Zeitraums bei der Auswahl eines bestimmten Projekts geändert hat.
+* Wofür Benutzende Zeit aufwenden.
+* Ob sich Benutzende auf die richtigen Dinge konzentrieren.
+* Wie stark sich der Umfang eines Projekts während dieses Zeitraums geändert hat, wenn ein bestimmtes Projekt ausgewählt ist.
 
-![Ein Bild, das eine Projekt-Treemap mit Zahlen zu Bereichen anzeigt, die in den folgenden Aufzählungszeichen beschrieben werden](assets/section-2-7.png)
+![Ein Bild, das eine Projekt-Treemap mit Zahlen zu den Bereichen anzeigt, die in den folgenden Aufzählungspunkten beschrieben werden](assets/section-2-7.png)
 
 Im Diagramm sehen Sie Folgendes:
 
-1. Projekte in der gefilterten Zeit, die mehr Stunden abgeschlossen haben, werden durch größere Kästchen und eine dunkelblaue Farbe dargestellt.
-1. Projekte in der gefilterten Zeit, die weniger Stunden abgeschlossen haben, werden durch kleinere Kisten und eine hellblaue Farbe dargestellt.
-1. Die Legende rechts neben der Grafik zeigt den Bereich der abgeschlossenen Stunden für jeden Blau-Schatten an.
+1. Projekte in der gefilterten Zeit, für die mehr Stunden aufgewendet wurden, werden durch größere Kästchen und eine stärker dunkelblaue Farbe dargestellt.
+1. Projekte in der gefilterten Zeit, für die weniger Stunden aufgewendet wurden, werden durch kleinere Kästchen und eine stärker hellblaue Farbe dargestellt.
+1. Die Legende rechts neben dem Diagramm zeigt für jeden Blauton den Bereich der aufgewendeten Stunden an.

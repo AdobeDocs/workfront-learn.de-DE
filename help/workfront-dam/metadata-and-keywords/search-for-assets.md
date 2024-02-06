@@ -1,6 +1,6 @@
 ---
 title: Suchen nach Assets mithilfe von Metadaten-Keywords
-description: Erfahren Sie, wie Sie mithilfe von Metadaten und Keywords nach Assets suchen, Metadaten und Keywords verwalten und festlegen. [!UICONTROL WORKFRONT DAM] Best Practices.
+description: Erfahren Sie, wie Sie mithilfe von Metadaten und Schlüsselwörtern nach Assets suchen, die Pflege von Metadaten und Schlüsselwörtern planen und Best Practices zu [!UICONTROL Workfront DAM] einrichten.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,7 +13,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 80%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 In diesem Video lernen Sie Folgendes:
 
-* Suchen nach Assets mithilfe von Metadaten und Keywords
-* Planen der Verwaltung von Metadaten und Keywords
-* Festlegen [!UICONTROL WORKFRONT DAM] Best Practices
+* Suchen nach Assets mithilfe von Metadaten und Schlüsselwörtern
+* Planen für die Pflege von Metadaten und Schlüsselwörtern
+* Etablieren von Best Practices für [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Datumsbereichen und Zeitrahmen
-description: In [!UICONTROL Verbesserte Analytics], werden Datumsbereiche mithilfe des Kalender-Widgets angegeben. Zeitrahmen werden in einem Diagramm erstellt.
+description: In der [!UICONTROL erweiterten Analyse] werden Datumsbereiche mithilfe des Kalender-Widgets angegeben. Zeitrahmen werden innerhalb eines Diagramms erstellt.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,32 +12,32 @@ jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '318'
+ht-degree: 94%
 
 ---
 
 # Grundlegendes zu Datumsbereichen und Zeitrahmen
 
-Beim Anzeigen der [!DNL Enhanced analytics] Grafiken und Datumsbereiche werden mithilfe des Kalender-Widgets angegeben. Die Zeitrahmen werden innerhalb eines Diagramms erstellt, wenn Sie klicken und ziehen, um einen bestimmten Bereich zu definieren. So können Sie die Informationen während dieses Zeitraums einzoomen und genauer betrachten.
+Beim Anzeigen der [!DNL Enhanced analytics]-Diagramme werden Datumsbereiche mithilfe des Kalender-Widgets angegeben. Die Zeitrahmen werden innerhalb eines Diagramms erstellt. Durch Klicken und Ziehen können Sie einen bestimmten Bereich definieren. So können Sie einzoomen und die Informationen während dieses Zeitraums genauer betrachten.
 
 ## Datumsbereiche
 
-Klicken Sie einfach auf ein Datum im Kalender, um ein Datum in Ihrem Bereich anzugeben, und klicken Sie dann auf ein Datum, um das andere Ende des Bereichs anzugeben. Verwenden Sie die Pfeile oben im Kalender, um zu einem anderen Monat zu navigieren, wenn Ihr Start- und Enddatum nicht im selben Monat liegt.
+Klicken Sie einfach auf ein Datum im Kalender, um ein Datum in Ihrem Bereich anzugeben, und klicken Sie dann auf ein Datum, um das andere Ende des Bereichs anzugeben. Verwenden Sie die Pfeile oben im Kalender, um zu einem anderen Monat zu navigieren, wenn Ihr Start- und Enddatum nicht im selben Monat liegen.
 
 ![Ein Bild zur Auswahl eines Datumsbereichs mithilfe des Kalender-Widgets](assets/section-1-3.png)
 
-Die Diagramme in [!DNL Analytics] zeigt standardmäßig Daten für die letzten 60 Tage und die nächsten 15 Tage an. Sie können einen neuen Datumsbereich auswählen und ihn auf alle Diagramme anwenden, während Sie [!DNL Analytics].
+Die Diagramme in [!DNL Analytics] zeigen standardmäßig Daten für die letzten 60 Tage und die nächsten 15 Tage an. Sie können einen neuen Datumsbereich auswählen und ihn auf alle Diagramme anwenden, während Sie [!DNL Analytics].
 
-Wenn Sie die Seite aktualisieren, weg navigieren oder sich von Workfront abmelden/anmelden, wird der Datumsbereich auf den Standardwert zurückgesetzt.
+Wenn Sie die Seite aktualisieren, von ihr weg navigieren oder sich von Workfront abmelden/anmelden, wird der Datumsbereich auf den Standardwert zurückgesetzt.
 
 ## Zeitrahmen
 
-Klicken Sie auf einen gewünschten Bereich einer Timeline und ziehen Sie ihn um, um einen Zeitrahmen-Filter zu erstellen. Dieser Zeitraum gilt nun für alle Diagramme im Arbeitsbereich und wird neben allen anderen Filtern in der Filterleiste angezeigt. Ziehen Sie die Bereiche in ein Diagramm, um den Zeitraum zu aktualisieren. Um den Zeitrahmen-Filter zu entfernen, bewegen Sie einfach den Mauszeiger in der Filterleiste darauf und klicken Sie auf das X, das angezeigt wird.
+Klicken Sie auf einen gewünschten Bereich einer Zeitleiste und ziehen Sie ihn umher, um einen Zeitrahmen-Filter zu erstellen. Dieser Zeitrahmen gilt nun für alle Diagramme im Arbeitsbereich und wird neben allen anderen Filtern in der Filterleiste angezeigt. Sie können ein Diagramm genauer betrachten, indem Sie auf Bereiche klicken und diese verschieben, um den Zeitrahmen zu aktualisieren. Um den Zeitrahmen-Filter zu entfernen, bewegen Sie einfach den Mauszeiger in der Filterleiste darüber und klicken Sie auf das X, das angezeigt wird.
 
-![Bild, das durch Klicken und Ziehen einen Datumsbereich auswählt](assets/section-1-4.png)
+![Ein Bild, das zeigt, wie durch Klicken und Ziehen ein Datumsbereich ausgewählt wird](assets/section-1-4.png)
 
-Wenn Sie die Seite aktualisieren, weg navigieren oder sich von Workfront abmelden, wird der Zeitrahmen entfernt und der Datumsbereich zurückgesetzt.
+Wenn Sie die Seite aktualisieren, von ihr weg navigieren oder sich von Workfront abmelden, wird der Zeitrahmen entfernt und der Datumsbereich zurückgesetzt.
 
 >[!NOTE]
 >

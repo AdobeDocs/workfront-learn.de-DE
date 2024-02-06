@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu geplanten Stunden- und Daueransichten
-description: In den Diagrammen für die Verteilung und die Projekt-Treemap können Sie die Informationen nach geplanten Stunden oder Dauer anzeigen.
+title: Grundlegendes zu den Ansichten „Geplante Stunden“ und „Dauer“
+description: In den Burndown- und Projekt-Treemap-Diagrammen können Sie Informationen nach geplanten Stunden oder Dauer anzeigen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zu geplanten Stunden- und Daueransichten
+# Grundlegendes zu den Ansichten „Geplante Stunden“ und „Dauer“
 
-In den Diagrammen für die Verteilung und die Projekt-Treemap können Sie die Informationen nach geplanten Stunden oder Dauer anzeigen, je nachdem, was Sie für Ihre Workfront-Umgebung genauer halten.
+In den Burndown- und Projekt-Treemap-Diagrammen können Sie Informationen nach geplanten Stunden oder Dauer anzeigen, abhängig davon, was Sie für Ihre Workfront-Umgebung als genauer erachten.
 
-![Ein Bild, das eine geplante Stunde anstelle der Dauer auswählt](assets/section-1-5.png)
+![Ein Bild mit der Auswahl von „Geplante Stunden“ statt „Dauer“](assets/section-1-5.png)
 
 
 
-Die Standardeinstellung ist &quot;Geplante Stunden&quot;. Wenn Sie zu &quot;Dauer&quot;wechseln, bleibt dies bei der Navigation von [!DNL Analytics] und zurück und zwischen Workfront-Anmeldungen.
+Die Standardeinstellung ist „Geplante Stunden“. Wenn Sie zu „Dauer“ wechseln, bleibt diese Auswahl beim Verlassen von und Zurückkehren zu [!DNL Analytics] und zwischen Workfront-Anmeldungen erhalten.
 
-## Was bedeuten Kastengröße und Farbschatten?
+## Welche Bedeutung haben die Größe der Kästchen und Farbschattierungen?
 
-Kleinere, hellere blaue Kästchen zeigen weniger Stunden an, während größere Kisten und dunklere blaue Schattierungen mehr Stunden im Vergleich anzeigen. Weitere Informationen finden Sie unter [Grundlegendes zur Projekt-Treemap-Visualisierung](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
+Kleinere, hellblaue Kästchen stehen für weniger Stunden, größere Kästchen und dunklere Blauschattierungen im Vergleich dazu für mehr Stunden. Weitere Informationen finden Sie unter [Grundlegendes zur Treemap-Visualisierung eines Projekts](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=de).

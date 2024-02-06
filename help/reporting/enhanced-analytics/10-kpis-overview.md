@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu KPIs
-description: Erfahren Sie, wie Sie aus den KPI-Daten Nutzen ziehen können, was in der Gegenwart geschieht, sowie Trends aus der Vergangenheit.
+description: Erfahren Sie, wie Sie aus den KPI-Daten Nutzen ziehen können, indem diese Aufschluss über die Gegenwart sowie Trends aus der Vergangenheit geben.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -14,22 +14,22 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zu KPIs
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* So erhalten Sie einen Wert aus den KPI-Daten
+* So ziehen Sie einen Nutzen aus den KPI-Daten
 
 >[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on)
 
-## KPIs vergleichen
+## Vergleichen von KPIs
 
-KPIs bieten nicht nur wertvolle Informationen darüber, was in der Gegenwart geschieht, sondern geben Benutzern die Möglichkeit, Aktivitätsänderungen im Laufe der Zeit oder den Unterschied zwischen Portfolios, Programmen, Projekteigentümern oder anderen verwendeten Filtern zu vergleichen.
+KPIs bieten nicht nur wertvolle Informationen darüber, was in der Gegenwart geschieht, sondern geben Benutzenden auch die Möglichkeit, Aktivitätsänderungen im Laufe der Zeit oder den Unterschied zwischen Portfolios, Programmen, Projektinhaberinnen und -inhabern oder anderen verwendeten Filtern zu vergleichen.
 
-![Ein Bild, das zwei Browser-Registerkarten nebeneinander anzeigt](assets/section-2-0.png)
+![Ein Bild, das zwei Browser-Registerkarten nebeneinander zeigt](assets/section-2-0.png)
 
-Sie können beispielsweise Analysen in zwei Browserregisterkarten abrufen, um KPIs zu vergleichen.
+Sie können beispielsweise Analysen in zwei Browser-Registerkarten abrufen, um KPIs zu vergleichen.

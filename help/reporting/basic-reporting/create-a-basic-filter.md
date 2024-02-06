@@ -1,6 +1,6 @@
 ---
-title: Basisfilter erstellen
-description: Erfahren Sie, was ein Filter ist, wie Sie einen Filter erstellen und wie Sie ihn für andere Benutzer in Workfront freigeben können. Lernen Sie auch, das neue Filtererlebnis zu verwenden.
+title: Erstellen eines einfachen Filters
+description: Erfahren Sie, was ein Filter ist, wie Sie einen Filter erstellen und wie Sie einen Filter in Workfront für andere Benutzerinnen und Benutzer freigeben. Lernen Sie außerdem, das neue Filtererlebnis zu verwenden.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -14,28 +14,28 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 2%
+ht-degree: 91%
 
 ---
 
-# Basisfilter erstellen
+# Erstellen eines einfachen Filters
 
 Erstellen Sie einen einfachen Filter im Legacy-Filtererlebnis.
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Filter in Workfront
-* Erstellen und Ändern von Filtern
-* Freigeben eines Filters für andere Workfront-Benutzer
+* Was ein Filter in Workfront ist
+* Wie ein Filter erstellt und abgeändert wird
+* Wie ein Filter für andere Workfront-Benutzerinnen und -Benutzer freigegeben wird
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on)
 
-## Das neue Filtererlebnis
+## Grundlegendes zum neuen Filtererlebnis
 
 In diesem Video lernen Sie Folgendes:
 
-* Neue Filtererfahrung aktivieren und deaktivieren
-* Filter erstellen und bearbeiten
+* Aktivieren und Deaktivieren des neuen Filtererlebnisses
+* Erstellen und Bearbeiten von Filtern
 * Filter stapeln
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on)

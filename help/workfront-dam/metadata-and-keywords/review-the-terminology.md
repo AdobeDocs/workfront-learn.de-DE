@@ -1,6 +1,6 @@
 ---
 title: Überprüfen der Metadatenterminologie
-description: Erfahren Sie mehr darüber, was Metadaten sind, welche Fragen bei der Entwicklung einer Metadatenstrategie gestellt werden müssen und mehr dazu in [!UICONTROL WORKFRONT DAM].
+description: Erfahren Sie, was Metadaten sind, welche Fragen Sie sich bei der Entwicklung einer Metadatenstrategie stellen sollten und vieles mehr in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,18 +13,18 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Überprüfen der Metadatenterminologie
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Was sind Metadaten und woher sie stammen?
-* Welche Fragen beim Entwickeln einer Metadatenstrategie zu stellen sind
-* Unterschiede zwischen Keywords und Metadaten
-* Vorteile einer Schlüsselworttaxonomie
-* Suchen nach Assets mithilfe von Metadaten und Keywords
+* Was Metadaten sind und woher sie kommen
+* Welche Fragen Sie sich bei der Entwicklung einer Metadatenstrategie stellen sollten
+* Unterschiede zwischen Schlüsselwörtern und Metadaten
+* Nutzen einer Schlüsselwort-Taxonomie
+* Suchen nach Assets mithilfe von Metadaten und Schlüsselwörtern
 
 >[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on)

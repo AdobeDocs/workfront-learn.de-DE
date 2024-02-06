@@ -1,6 +1,6 @@
 ---
-title: Anforderungswarteschlangen verstehen
-description: Erfahren Sie, wie Anforderungswarteschlangen in strukturiert sind. [!DNL  Workfront] und wie eine Anfrage gesendet wird.
+title: Grundlegendes zu Anfragewarteschlangen
+description: Erfahren Sie, wie die Anfragewarteschlangen in [!DNL  Workfront] aufgebaut sind und wie Sie eine Anfrage einreichen.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -14,47 +14,47 @@ doc-type: video
 source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 0%
+ht-degree: 63%
 
 ---
 
-# Anforderungswarteschlangen verstehen
+# Grundlegendes zu Anfragewarteschlangen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Senden einer Anfrage über eine [!DNL  Workfront] Anforderungswarteschlange
-* Struktur von Anforderungswarteschlangen
+* Struktur von Anfragewarteschlangen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## Automatische Speicherung von Anfrageentwürfen
 
-Wenn Sie mit dem Ausfüllen eines Anfrageformulars beginnen, [!DNL Workfront] speichert einen Entwurf automatisch, nachdem Sie die [!UICONTROL Betreff] -Feld. Das bedeutet, dass Sie keine Daten verlieren, wenn Sie von der [!UICONTROL Anforderungen] -Bereich verwenden, um etwas Anderes zu tun, oder wenn Sie mitten in Ihrer Anfrage anhalten müssen, um weitere Informationen zu sammeln.
+Wenn Sie mit dem Ausfüllen eines Anfrageformulars beginnen, speichert [!DNL Workfront] automatisch einen Entwurf, nachdem Sie das Feld [!UICONTROL Betreff] ausgefüllt haben. Das bedeutet, dass Sie keine Daten verlieren, wenn Sie von der [!UICONTROL Anforderungen] -Bereich verwenden, um etwas Anderes zu tun, oder wenn Sie mitten in Ihrer Anfrage anhalten müssen, um weitere Informationen zu sammeln.
 
 Oben im Fenster wird ein Hinweis darauf angezeigt, dass der Entwurf gespeichert wurde. [!DNL Workfront] speichert einen Entwurf Ihrer Anfrage, auch wenn die erforderlichen Felder noch nicht ausgefüllt sind.
 
-![Bild eines Anforderungsentwurfs erstellen](assets/queue-mgt-make-a-request-draft-1.png)
+![Bild der Erstellung eines Anfrageentwurfs](assets/queue-mgt-make-a-request-draft-1.png)
 
-Wenn Sie bereit sind, die Anfrage zu senden, suchen Sie sie im [!UICONTROL Entwürfe] Registerkarte. Klicken Sie auf den Namen, um ihn zu öffnen und das Formular auszufüllen. Klicken Sie anschließend auf [!UICONTROL Anfrage absenden] wenn Sie fertig sind.
+Wenn Sie bereit sind, die Anfrage zu senden, suchen Sie sie im [!UICONTROL Entwürfe] Registerkarte. Klicken Sie auf den Namen, um sie zu öffnen und das Formular fertig auszufüllen. Klicken Sie anschließend auf [!UICONTROL Anfrage absenden] wenn Sie fertig sind.
 
-![Bild des Aufrufs eines Anforderungsentwurfs](assets/queue-mgt-make-a-request-draft-2.png)
+![Bild zum Aufrufen eines Anfrageentwurfs](assets/queue-mgt-make-a-request-draft-2.png)
 
-## Ihre Wendung
+## Sie sind dran
 
-Lassen Sie uns kurz die Informationen überprüfen, die Ihnen gerade präsentiert wurden.
+Nehmen wir uns eine Minute Zeit, um die Informationen, die Sie gerade erhalten haben, noch einmal durchzugehen.
 
-**Frage:** Wie stellt man eine Anforderung in Workfront? Führen Sie die Schritte in der richtigen Reihenfolge auf.
+**Frage:** Wie erstellt man eine Anfrage in Workfront? Führen Sie die Schritte in der richtigen Reihenfolge auf.
 
-* Wählen Sie den gewünschten Anfragetyp aus
-* Klicken Sie auf Anfrage senden
-* Füllen Sie die Informationen auf dem Formular aus
-* Klicken Sie auf &quot;Neue Anforderung&quot;
-* Navigieren zum Anforderungsbereich
+* Die gewünschte Anfrageart auswählen
+* Auf „Anfrage absenden“ klicken
+* Die Informationen im Formular ausfüllen
+* Auf „Neue Anfrage“ klicken
+* Zum Anfragebereich navigieren
 
 
-**Antwort:** Navigieren Sie zum Anforderungsbereich > Klicken Sie auf Neue Anforderung > Wählen Sie den Anfragetyp aus, den Sie erstellen müssen > Füllen Sie die Informationen im Formular aus > Klicken Sie auf Anfrage senden .
+**Antwort:** Zum Anfragebereich navigieren > auf „Neue Anfrage“ klicken > die gewünschte Anfrageart auswählen > die Informationen im Formular ausfüllen > auf „Anfrage absenden“ klicken
 
-**Frage:** Eine Anfrage ist wirklich eine ...
+**Frage:** Eine Anfrage ist eigentlich ein …
 
 **Antwort:** Problem
 

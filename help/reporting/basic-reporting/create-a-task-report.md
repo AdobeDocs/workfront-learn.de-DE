@@ -1,5 +1,5 @@
 ---
-title: Aufgabenbericht erstellen
+title: Erstellen eines Aufgabenberichts
 description: In diesem Video erfahren Sie, wie Sie einen Aufgabenbericht mit einem komplexen Filter in Workfront erstellen und die von Ihnen erstellten Berichte finden. Aktivität – einen Notizbericht mit Eingabeaufforderungen erstellen.
 activity: use
 feature: Reports and Dashboards
@@ -14,89 +14,89 @@ doc-type: video
 source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
 source-wordcount: '794'
-ht-degree: 6%
+ht-degree: 47%
 
 ---
 
-# Aufgabenbericht erstellen
+# Erstellen eines Aufgabenberichts
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Erstellen eines Aufgabenberichts mit einem komplexen Filter
-* So finden Sie die erstellten Berichte
+* Suchen nach den von Ihnen erstellten Berichten
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## Aktivität 1: Erstellen eines Berichts mit Eingabeaufforderungen
 
-Erstellen Sie einen Hinweis -Bericht, mit dem Sie nach Benutzerhinweisen (d. h. Kommentaren oder Aktualisierungen) oder Systemnotizen suchen können, die auf dem Inhalt der Notiz, dem Autor, dem Eintragsdatum, dem Projektnamen oder dem Audittyp basieren. Nennen Sie den Bericht &quot;Notizsuche&quot;.
+Erstellen Sie einen Notizbericht, mit dem Sie nach Benutzernotizen (d. h. Kommentaren oder Aktualisierungen) oder Systemnotizen auf Grundlage des Inhalts, der Autorin oder des Autors, des Eingabedatums, des Projektnamens oder der Überprüfungsart suchen können. Nennen Sie den Bericht &quot;Notizsuche&quot;.
 
-Bei Verwendung der Eingabeaufforderung Text notieren durchsucht dieser Bericht in Aktualisierungs-Threads, um schnell alle zu extrahieren, die die in den Eingabeaufforderungen angegebenen Kriterien erfüllen. Wenn Sie den Bericht ausführen, müssen Sie nicht jede Eingabeaufforderung ausfüllen, nur die, die Ihnen wichtig sind. Die leeren werden automatisch ignoriert.
+Bei Verwendung der Eingabeaufforderung für den Notiztext sucht dieser Bericht in den Aktualisierungs-Threads, um schnell alle zu extrahieren, die den in den Eingabeaufforderungen angegebenen Kriterien entsprechen. Wenn Sie den Bericht ausführen, müssen Sie nicht jede Eingabeaufforderung ausfüllen, nur die, die Ihnen wichtig sind. Leere Felder werden automatisch ignoriert.
 
 Die Ansicht sollte Spalten für Folgendes enthalten:
 
-* Notizentext
-* Text prüfen
+* Notiztext
+* Audit-Text
 * Eingabedatum
-* Inhaber: Name
+* Eigentümer: Name
 * Prüfungstyp
 * Aufgabenname
 * Name des Problems
 
-Lassen Sie die Registerkarte Filter leer.
+Lassen Sie die Registerkarte „Filter“ leer.
 
-Gruppe für den Projektnamen.
+Gruppe zum Projektnamen.
 
-Fügen Sie Aufforderungen für Folgendes ein:
+Schließen Sie Aufforderungen zu Folgendem ein:
 
-* Text prüfen
-* Notizentext
-* Name des Inhabers
+* Audit-Text
+* Notiztext
+* Name der Eigentümerin bzw. des Eigentümers
 * Eingabedatum
 * Projektname
 * Prüfungstyp
 
 ## Antwort zu Aktivität 1
 
-1. Auswählen **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]**.
-1. Klicken Sie auf **[!UICONTROL Neuer Bericht]** Menü und wählen Sie **[!UICONTROL Hinweis]**.
-1. In **[!UICONTROL Spalten (Ansicht)]** Richten Sie Ihre Spalten so ein, dass Folgendes enthalten ist:
+1. Wählen Sie **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]** aus.
+1. Klicken Sie auf das Menü **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Notiz]**.
+1. Unter **[!UICONTROL Spalten (Ansicht)]** können Sie Ihre Spalten einrichten:
 
-   ![Ein Bild des Bildschirms zur Erstellung von Berichtsspalten für Anmerkungen](assets/note-report-columns.png)
+   ![Ein Screenshot des Bildschirms zum Erstellen von Spalten für Notizberichte](assets/note-report-columns.png)
 
-   * [!UICONTROL Hinweis] > [!UICONTROL Hinweis: Text]
-   * [!UICONTROL Hinweis] > [!UICONTROL Audit-Text]
-   * [!UICONTROL Hinweis] > [!UICONTROL Datum der Einsendung]
-   * [!UICONTROL Inhaber] > [!UICONTROL Name]
-   * [!UICONTROL Hinweis] > [!UICONTROL Audittyp]
+   * [!UICONTROL Notiz] > [!UICONTROL Notiztext]
+   * [!UICONTROL Notiz] > [!UICONTROL Prüftext]
+   * [!UICONTROL Notiz] > [!UICONTROL Eingabedatum]
+   * [!UICONTROL Eigentümer] > [!UICONTROL Name]
+   * [!UICONTROL Notiz] > [!UICONTROL Prüfungstyp]
    * [!UICONTROL Aufgabe] > [!UICONTROL Name]
    * [!UICONTROL Problem] > [!UICONTROL Name]
 
-1. Wählen Sie die **[!UICONTROL Datum der Einsendung]** und ändern Sie die **[!UICONTROL Nach Absteigend sortieren]**.
-1. Im **[!UICONTROL Gruppierungen]** -Registerkarte, legen Sie für den Bericht eine Gruppierung nach [!UICONTROL Projekt] > [!UICONTROL Name].
+1. Wählen Sie die Spalte **[!UICONTROL Eingabedatum]** und ändern Sie die Option **[!UICONTROL Absteigend sortieren]**.
+1. Legen Sie auf der Registerkarte **[!UICONTROL Gruppierungen]** fest, dass der Bericht nach [!UICONTROL Projekt] > [!UICONTROL Name] gruppiert werden soll.
 
-   ![Ein Bild des Bildschirms zur Erstellung von Berichtsgruppen für Anmerkungen](assets/note-report-groupings.png)
+   ![Ein Screenshot des Bildschirms zum Erstellen von Notizberichtsgruppierungen](assets/note-report-groupings.png)
 
-1. Urlaub [!UICONTROL Filter] leer.
+1. Lassen Sie das Feld [!UICONTROL Filter] leer.
 1. Öffnen **[!UICONTROL Berichtseinstellungen]** und benennen Sie den Bericht &quot;Notizsuche&quot;.
 1. Im [!UICONTROL Beschreibung] -Feld ein, z. B. &quot;Suchen Sie basierend auf dem ausgewählten Audittyp und anderen Eingabeaufforderungen nach System- oder Benutzernotizen. Systemnotizen werden in der Spalte &quot;Audit Text&quot;und Benutzerhinweise in der Spalte Hinweis Text angezeigt.&quot;
 
-   ![Ein Bild des Bildschirms zur Erstellung der Berichtseinstellungen für Anmerkungen](assets/note-report-report-options.png)
+   ![Ein Screenshot des Bildschirms zum Erstellen von Notizberichtseinstellungen](assets/note-report-report-options.png)
 
-1. Auswählen **[!UICONTROL Registerkarte &quot;Details&quot;]** sodass sie beim Laden des Berichts angezeigt wird.
-1. Stellen Sie den Bericht so ein, dass 200 Elemente angezeigt werden, wenn der Bericht in ein Dashboard aufgenommen wird.
-1. Klicks **[!UICONTROL Berichtsaufforderungen]** und fügen Sie Folgendes hinzu:
+1. Wählen Sie die Registerkarte **[!UICONTROL Details]**, damit sie beim Laden des Berichts angezeigt wird.
+1. Richten Sie den Bericht so ein, dass 200 Elemente angezeigt werden, wenn der Bericht in ein Dashboard aufgenommen wird.
+1. Klicken Sie auf **[!UICONTROL Berichteingabeaufforderungen]** und fügen Sie Folgendes hinzu:
 
-   ![Ein Bild des Bildschirms zur Erstellung von Meldeberichten](assets/note-report-report-prompts.png)
+   ![Ein Screenshot des Bildschirms zum Erstellen von Notizberichts-Eingabeaufforderungen](assets/note-report-report-prompts.png)
 
-   * [!UICONTROL Hinweis] > [!UICONTROL Audit-Text]
-   * [!UICONTROL Hinweis] > [!UICONTROL Hinweis: Text]
-   * [!UICONTROL Inhaber] > [!UICONTROL Name]
-   * [!UICONTROL Hinweis] > [!UICONTROL Datum der Einsendung]
+   * [!UICONTROL Notiz] > [!UICONTROL Prüftext]
+   * [!UICONTROL Notiz] > [!UICONTROL Notiztext]
+   * [!UICONTROL Eigentümer] > [!UICONTROL Name]
+   * [!UICONTROL Notiz] > [!UICONTROL Eingabedatum]
    * [!UICONTROL Projekt] > [!UICONTROL Name]
-   * [!UICONTROL Hinweis] > [!UICONTROL Audittyp]
+   * [!UICONTROL Notiz] > [!UICONTROL Prüfungstyp]
 
-1. Aktivieren Sie das Kontrollkästchen für **[!UICONTROL Anzeigen von Eingabeaufforderungen in Dashboards]**.
+1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Eingabeaufforderungen in Dashboards anzeigen]**.
 1. Speichern und schließen Sie den Bericht.
 
 ## Aktivität 2: Erstellen eines Feedback-Berichts für das Admin-Team
@@ -152,9 +152,9 @@ Filtern Sie nach der ID des Anforderungswarteschlangenprojekts, in dem sich die 
 
 ## Antwort zu Aktivität 2
 
-1. Auswählen **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]**.
+1. Wählen Sie **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]** aus.
 1. Klicken Sie auf **[!UICONTROL Neuer Bericht]** Menü und wählen Sie **[!UICONTROL Problem]**.
-1. In **[!UICONTROL Spalten (Ansicht)]** Richten Sie Ihre Spalten so ein, dass Folgendes enthalten ist:
+1. Unter **[!UICONTROL Spalten (Ansicht)]** können Sie Ihre Spalten einrichten:
 
    ![Ein Bild des Bildschirms zur Erstellung von Spalten in Problemberichten](assets/task-report-activity-2-1.png)
 
@@ -170,7 +170,7 @@ Filtern Sie nach der ID des Anforderungswarteschlangenprojekts, in dem sich die 
    * [!UICONTROL Problem] > [!UICONTROL Zuweisungen]
    * [!UICONTROL Problem] > [!UICONTROL Status]
 
-1. Wählen Sie die **[!UICONTROL Datum der Einsendung]** und ändern Sie die **[!UICONTROL Nach Absteigend sortieren]**.
+1. Wählen Sie die Spalte **[!UICONTROL Eingabedatum]** und ändern Sie die Option **[!UICONTROL Absteigend sortieren]**.
 1. Im **[!UICONTROL Gruppierungen]** -Registerkarte, legen Sie für den Bericht eine Gruppierung nach **[!UICONTROL Problem] > [!UICONTROL Prozesstyp]**.
 
    ![Ein Bild des Bildschirms zur Erstellung von Problemberichtsgruppen](assets/task-report-activity-2-2.png)

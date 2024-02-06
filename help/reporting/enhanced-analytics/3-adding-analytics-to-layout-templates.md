@@ -1,6 +1,6 @@
 ---
 title: Hinzufügen von Analysen zu Layoutvorlagen
-description: Erfahren Sie, wie System- und Gruppenadministratoren Zugriff auf Analytics gewähren.
+description: Erfahren Sie, wie System- und Gruppenadmins Zugriff auf Analytics gewähren.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c1062c7f19c623a149710a13d2b980f45b117147
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

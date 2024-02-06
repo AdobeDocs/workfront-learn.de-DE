@@ -14,15 +14,15 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 51%
 
 ---
 
 # Detailliertere Nutzung von Zeitrahmen und zusätzlichen Diagrammen
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* So schlüsseln Sie ein Projekt im Flugplan-Diagramm auf, um die Verteilung der Aufschlüsselung und der Aufgaben im Flugdiagramm anzuzeigen
-* So erstellen Sie einen Zeitrahmen-Filter zum Vergrößern in einem Datumsbereich
+* So schlüsseln Sie ein Projekt im Flugplan-Diagramm auf, um den Burndown-Chart und die Aufgaben im Flugdiagramm anzuzeigen
+* So erstellen Sie einen Zeitrahmen-Filter zum Vergrößern eines Datumsbereichs
 
 >[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on)

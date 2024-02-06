@@ -1,6 +1,6 @@
 ---
 title: Metadaten verstehen
-description: Erfahren Sie mehr darüber, was im Abschnitt [!UICONTROL WORKFRONT DAM] Administrator, Teil 2 Metadaten- und Keywords-Kurs.
+description: 'Erfahren Sie, was im Kurs [!UICONTROL Workfront DAM] für Administrierende, Teil 2: Metadaten und Schlüsselwörter behandelt wird.'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -12,21 +12,21 @@ exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '125'
+ht-degree: 96%
 
 ---
 
 # Metadaten verstehen
 
-Metadaten sind alle Daten, die zum Beschreiben eines Assets verwendet werden. Metadatenfelder haben einen Namen, und Benutzer können die Informationen in vielen dieser Felder bearbeiten oder ändern. Einige Metadatenfelder werden von der Anwendung oder dem Gerät ausgefüllt, von der das Asset stammt, und können nicht bearbeitet werden.
+Metadaten sind alle Daten, die zur Beschreibung eines Assets verwendet werden. Metadatenfelder haben einen Namen, und Benutzende können die Informationen in vielen dieser Felder bearbeiten oder ändern. Einige Metadatenfelder werden von der Anwendung oder dem Gerät, von dem das Asset stammt, ausgefüllt und können nicht bearbeitet werden.
 
-Schlüsselwörter sind eine Untergruppe von Metadaten. Suchbegriffe sind in der Regel allgemeine, beschreibende Begriffe zum Inhalt des Assets. Diese Informationen werden dem Asset hinzugefügt, häufig manuell nach dem Hochladen.
+Schlüsselwörter sind eine Teilmenge der Metadaten. Schlüsselwörter sind in der Regel allgemeine, beschreibende Begriffe zum Inhalt des Assets. Diese Informationen werden dem Asset hinzugefügt, häufig manuell nach dem Hochladen.
 
-Die Verwendung konsistenter Metadaten und Keywords erhöht die Suchbarkeit Ihrer Assets in [!UICONTROL WORKFRONT DAM].
+Die Verwendung konsistenter Metadaten und Schlüsselwörter erhöht die Durchsuchbarkeit Ihrer Assets in [!UICONTROL Workfront DAM].
 
 In diesem Video werden Sie:
 
-* Hier erhalten Sie eine Einführung in die [!UICONTROL WORKFRONT DAM] Kurs
+* Hier erhalten Sie eine Einführung in den [!UICONTROL Workfront DAM]-Kurs
 
 >[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12&learn=on)

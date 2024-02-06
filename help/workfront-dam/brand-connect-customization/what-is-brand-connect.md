@@ -1,6 +1,6 @@
 ---
 title: Was ist [!UICONTROL Brand Connect]?
-description: Erfahren Sie mehr darüber, was im Abschnitt [!UICONTROL WORKFRONT DAM] Administrator, Teil 3 Brand Connect-Anpassungskurs.
+description: 'Erfahren Sie mehr über den Inhalt des Kurses [!UICONTROL Workfront DAM] Admin, Teil 3: Brand Connect-Anpassung.'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -12,16 +12,16 @@ exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 83%
 
 ---
 
 # Was ist [!UICONTROL Brand Connect]?
 
-[!UICONTROL Brand Connect] ist der Teil von [!UICONTROL WORKFRONT DAM] dass Ihre Endbenutzer darauf zugreifen können, genehmigte Unternehmens-Assets zu finden und herunterzuladen. Diese Benutzer sind häufig interne Benutzer, die Assets angefordert haben oder nach einem Firmenlogo suchen.
+[!UICONTROL Brand Connect] ist der Teil von [!UICONTROL Workfront DAM], auf den Ihre Endbenutzenden zugreifen, um nach freigegebenen Firmen-Assets zu suchen und sie herunterzuladen. Diese Personen sind häufig interne Benutzende, die Assets angefordert haben oder z. B. nach einem Firmenlogo suchen.
 
-[!UICONTROL Brand Connect] Benutzern wird die [!UICONTROL Brand Portal] Rollentyp und sind Mitglieder eines [!UICONTROL Brand Portal] hinzugefügt. Sie sehen nur die Ordner und Assets, die in veröffentlicht wurden. [!UICONTROL Brand Connect] und dass ihre Gruppe Zugriffsberechtigungen besitzt. Erfahren Sie mehr über das Einrichten von Benutzern in Workfront DAM Administrator: System-Setup.
+[!UICONTROL Brand Connect]-Benutzende haben den Rollentyp [!UICONTROL Brand Portal] und sind Mitglieder einer [!UICONTROL Brand Portal]-Gruppe. Sie sehen nur die Ordner und Assets, die in [!UICONTROL Brand Connect] veröffentlicht sind und für die ihre Gruppe Zugriffsrechte hat. In Workfront DAM Admin: Systemeinrichtung erfahren Sie mehr darüber, wie Sie Benutzende einrichten.
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
@@ -29,7 +29,7 @@ Das Erscheinungsbild des Unternehmens anpassen [!UICONTROL Brand Portal] um Benu
 
 In diesem Video werden Sie:
 
-* Hier erhalten Sie eine Einführung in die [!UICONTROL Brand Connect] Kurs
+* Eine Einführung in den [!UICONTROL Brand Connect]-Kurs erhalten
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 
