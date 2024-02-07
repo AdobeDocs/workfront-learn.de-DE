@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 47%
+source-wordcount: '922'
+ht-degree: 40%
 
 ---
 
@@ -26,6 +26,18 @@ In diesem Video lernen Sie Folgendes:
 * Suchen nach den von Ihnen erstellten Berichten
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+
+
+>[!TIP]
+>
+>Brechen Sie Ihre Spatulas aus und mischen Sie Ihre Schüsseln und bereiten Sie sich darauf vor, die &quot;Rezepte&quot; in unserem [Adobe Workfront Customer Reporting-Cookie](/help/assets/workfront-customer-reporting-cookbook.pdf). Im Inneren finden Sie Schritt-für-Schritt-Anweisungen für 10 Berichte, die Ihnen heute in Ihrer Umgebung zur Verfügung stehen.
+><br><br>
+>Wir haben Lieblingsberichte von Kunden gesammelt und in einem kleinen, leicht verdaulichen Kochbuch zusammengestellt, in dem Sie Ihre Workfront-Küche wieder ausprobieren können.
+><br><br>
+>Diese 10 Berichte stammen von Kunden, die genau wie Sie sind. Verteilen wir uns über Branchen, Abteilungen, Teams, Positionen und alle in verschiedenen Unternehmen, schulden wir Ihnen ein großes Dankeschön an die unglaublichen Kunden, die einen ihrer Lieblingsberichte teilen. Einige Berichte sind einfach (aber unglaublich nützlich) und einige sind komplexer, um Ihre Berichterstellung auf die nächste Ebene zu bringen.
+
+
 
 ## Aktivität 1: Erstellen eines Berichts mit Eingabeaufforderungen
 
