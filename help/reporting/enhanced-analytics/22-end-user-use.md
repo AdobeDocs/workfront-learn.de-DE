@@ -1,5 +1,5 @@
 ---
-title: Anwendungsfall für Endbenutzer verstehen
+title: Grundlegendes zu einem Endbenutzer-Anwendungsfall
 description: Erfahren Sie in , wie Endbenutzer Flugpläne, Niederlassungen und Aufgaben in Flugdiagrammen verwenden können. [!UICONTROL Verbesserte Analytics].
 activity: use
 feature: Reports and Dashboards
@@ -9,19 +9,20 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8712
+recommendations: noDisplay,noCatalog
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 64%
 
 ---
 
-# Anwendungsfall für Endbenutzer verstehen
+# Grundlegendes zu einem Endbenutzer-Anwendungsfall
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Verwendung von Flugplan, Niederlassung und Aufgaben durch Endbenutzer in Flugdiagrammen
+* Verwendung von Flugplänen, Burndown-Charts und Aufgaben durch Endbenutzende in Flugdiagrammen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on)
