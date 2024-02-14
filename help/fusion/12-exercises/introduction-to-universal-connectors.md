@@ -1,5 +1,5 @@
 ---
-title: Einführung in universelle Connectoren
+title: Einführung in die universelle Connector-Übung
 description: Erfahren Sie mehr über die Arbeit mit universellen REST-Connectoren und mit den zurückgegebenen Daten.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11042
 thumbnail: KT11042.png
+recommendations: noDisplay,noCatalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '585'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '602'
+ht-degree: 98%
 
 ---
 
-# Einführung in universelle Connectoren
+# Einführung in die universelle Connector-Übung
 
 Erfahren Sie mehr über die Arbeit mit universellen REST-Connectoren und mit den zurückgegebenen Daten.
 

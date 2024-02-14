@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 74%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 Wenn Sie vor der Erstellung das Thema Automatisierung durchdenken, können Sie Strategien implementieren, um das Ausmaß der erforderlichen Überarbeitung oder die Anzahl der erforderlichen Iterationen zu minimieren.
 
-Sie sparen die meiste Zeit, indem Sie einen klaren Anwendungsfall definieren, der durch ein bestimmtes Ereignis ausgelöst wird. Wenn Sie sich nicht frühzeitig Zeit nehmen, um die richtige Richtung sicherzustellen, werden Sie am Ende mit komplexen oder ineffizienten Szenarien konfrontiert.
+Sie sparen die meiste Zeit, indem Sie einen klaren Anwendungsfall definieren, der durch ein bestimmtes Ereignis ausgelöst wird. Wenn Sie sich nicht frühzeitig Zeit nehmen, um sicherzustellen, dass Sie in die richtige Richtung gehen, werden Sie mit komplexen oder ineffizienten Szenarien enden.
 
 In diesem Video lernen Sie Folgendes:
 

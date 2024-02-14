@@ -1,5 +1,5 @@
 ---
-title: Erkunden von Durchläufen, Zyklen und Bündeln
+title: Übungen zu Läufen, Zyklen und Bundles
 description: Erfahren Sie, wie sich Durchläufe, Zyklen und Bündel verhalten und den Ausführungsverlauf eines Szenarios nutzen.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11050
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '325'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 96%
 
 ---
 
-# Erkunden von Durchläufen, Zyklen und Bündeln
+# Übungen zu Läufen, Zyklen und Bundles
 
 Erfahren Sie, wie sich Durchläufe, Zyklen und Bündel verhalten und den Ausführungsverlauf eines Szenarios nutzen.
 

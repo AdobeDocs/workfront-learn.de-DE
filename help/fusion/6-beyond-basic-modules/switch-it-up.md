@@ -1,6 +1,6 @@
 ---
-title: Alles nach oben
-description: Erfahren Sie, was Switch-Funktionen und Switch-Module sind und wann eine Switch-Funktion im Vergleich zu einem Switch-Modul verwendet wird in [!DNL Adobe Workfront Fusion].
+title: Switch-Funktion
+description: Erfahren Sie, was Switch-Funktionen und Switch-Module sind und wann man in [!DNL Adobe Workfront Fusion]eine Switch-Funktion im Gegensatz zu einem Switch-Modul verwendet.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,19 +9,20 @@ role: User
 level: Beginner
 jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Alles nach oben
+# Switch-Funktion
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
-* Welche Funktionen und Module wechseln und wie unterscheiden sie sich?
-* Verwendung einer Switch-Funktion oder eines Switch-Moduls
+* Was Switch-Funktionen und -Module sind und worin sie sich unterscheiden
+* Wann eine Switch-Funktion und wann ein Switch-Modul verwendet wird
 
 >[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)

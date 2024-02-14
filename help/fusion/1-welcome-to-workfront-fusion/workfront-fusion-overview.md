@@ -8,17 +8,18 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '413'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 74%
 
 ---
 
 # Workfront Fusion-Schulung – Übersicht
 
-Jeder Abschnitt von Workfront Fusion enthält mehrere Tutorials, wobei jedes Tutorial Konzepte vorstellt, die Sie verstehen müssen, bevor Sie mit dem nächsten Tutorial fortfahren können. Die meisten Konzepte lassen sich mithilfe einer Übung mit einer exemplarischen Vorgehensweise leicht nachvollziehen.
+Jeder Abschnitt zu Workfront Fusion enthält mehrere Tutorials, wobei jedes Tutorial Konzepte enthält, die Sie verstehen müssen, bevor Sie zum nächsten Tutorial übergehen. Die meisten Konzepte lassen sich mithilfe einer Übung mit einer exemplarischen Vorgehensweise leicht nachvollziehen.
 
 Die Videos zeigen Ihnen, wie Sie die einzelnen Übungen durchlaufen, was in der Regel zur Erstellung eines neuen Workfront Fusion-Szenarios führt. Anschließend können Sie die Übung in Ihrer eigenen Workfront Fusion-Umgebung abschließen und zu Ihrer eigenen Szenario-Sammlung hinzufügen.
 
@@ -38,7 +39,7 @@ Fordern Sie eine Praxisumgebung an, indem Sie [dieses Formular](https://forms.of
 
 ### Zugreifen auf Workfront Fusion zum Üben
 
-Workfront bietet keine Workfront Fusion-Testläufe an. Um die Übungen zu absolvieren, fordern Sie bei der für Workfront Fusion verantwortlichen Person Ihres Unternehmens Zugriff auf Workfront Fusion an.
+Workfront bietet keine Workfront Fusion-Testläufe an. Wenn Sie die Tutorials absolvieren möchten, fordern Sie vom Workfront Fusion-Administrator Ihres Unternehmens Zugriff auf Workfront Fusion an.
 
 ### Schritt-für-Schritt-Anleitungen für die Durchführung der Übungen mit exemplarischen Vorgehensweisen
 
@@ -48,11 +49,11 @@ Es gibt Schritt-für-Schritt-Anleitungen für die Durchführung der Übungen mit
 
 Im Anschluss an einige der Übungen mit exemplarischen Vorgehensweisen werden praktische Übungen und Aufgaben angeboten.
 
-Es gibt eine Reihe verschiedener Möglichkeiten, die praktischen Übungen zu lösen. Die Absicht ist, Sie dazu herauszufordern, ein Szenarioziel zu erreichen, ohne Schritten zu folgen oder die „richtige Antwort“ zu kennen, denn genau das werden Sie tun müssen, wenn Sie in Ihrem Unternehmen ein Szenario aufbauen.
+Es gibt eine Reihe verschiedener Möglichkeiten, die praktischen Übungen zu lösen. Es ist beabsichtigt, Sie zu ersuchen, ein Szenario-Ziel zu erreichen, ohne Schritte zu unternehmen oder die &quot;richtige Antwort&quot;zu erhalten, da dies genau das ist, was Sie tun müssen, wenn Sie ein Szenario in Ihrem Unternehmen erstellen.
 
 Die praktische Übung steht im Zusammenhang mit der Aktivität der exemplarischen Vorgehensweise.
 
-Die Herausforderungen richten sich an diejenigen, die etwas ausprobieren wollen, das andere Konzepte, die sie gelernt haben, mit einbezieht.
+Die Herausforderungen sind für diejenigen, die etwas ausprobieren wollen, das andere Konzepte beinhaltet, die sie gelernt haben.
 
 ### Hilfe erhalten
 

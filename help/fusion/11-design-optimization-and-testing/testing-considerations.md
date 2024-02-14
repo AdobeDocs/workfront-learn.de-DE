@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '325'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '316'
+ht-degree: 98%
 
 ---
 
@@ -40,7 +41,7 @@ Ihr Testziel ist es, sicherzustellen, dass die Anforderungen eingehalten werden,
 Beachten Sie diese Richtlinien, um sicherzustellen, dass Ihre Tests konsistent sind und alle wesentlichen Elemente erfassen.
 
 * Bestimmen Sie anhand der Anforderungen, welche Testdaten benötigt werden. In der Regel basieren die effizientesten Tests auf klar definierten und dokumentierten Anforderungen.
-* Planen und kommunizieren Sie, wie Sie die für die Prüfung der Tiefe, Breite, Komplexität und Belastung erforderlichen Daten generieren. Vermeiden Sie, nur den „Königsweg“ zu testen. Denken Sie an all die Möglichkeiten, wie Benutzende mit den Automatisierungen interagieren können, und an das breite Spektrum der Daten, die verarbeitet werden können.
+* Planen und kommunizieren Sie, wie Sie die für die Prüfung der Tiefe, Breite, Komplexität und Belastung erforderlichen Daten generieren. Vermeiden Sie nur Tests vom Typ &quot;Happy Path&quot;. Denken Sie an all die Möglichkeiten, wie Benutzende mit den Automatisierungen interagieren können, und an das breite Spektrum der Daten, die verarbeitet werden können.
 * Berücksichtigen Sie die erforderlichen Ein- und Ausgangsdaten zwischen verbundenen Systemen. Überprüfen Sie die Ein- und Ausgabe in diesen Systemen, nicht nur in Workfront Fusion.
 
 Priorisieren Sie den Testvorgang während des gesamten Lebenszyklus Ihrer Workfront Fusion-Implementierung. Überlegen Sie beim Entwurf, wie Sie testen können, ob die Entwurfsentscheidungen den Anforderungen entsprechen. Überlegen Sie, wie unerwartete Daten zu Fehlern führen könnten, und fügen Sie während der Erstellung eine entsprechende Fehlerbehandlung hinzu. Planen Sie während der kontinuierlichen Tests eine Iteration durch praktikable Prototypen.

@@ -1,5 +1,5 @@
 ---
-title: Datenstrukturen
+title: Datenstruktur-Übung
 description: Wandeln Sie Daten aus einer Quelldatei in eine Zieldatei um. (Sollte zwischen 60 und 160 Zeichen lang sein, ist jedoch 58 Zeichen lang)
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11054
 thumbnail: KT11054.png
+recommendations: noDisplay,noCatalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '1048'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '1079'
+ht-degree: 99%
 
 ---
 
-# Datenstrukturen
+# Datenstruktur-Übung
 
 Wandeln Sie Daten aus einer Quelldatei in eine Zieldatei um.
 

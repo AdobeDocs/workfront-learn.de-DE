@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 67%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 ## Übersicht
 
-Mit dem Szenario „Einführung in die Iteration“, das Sie in der letzten exemplarischen Vorgehensweise erstellt haben, aggregieren Sie die geplanten Stunden für jede Arbeitsaufgabe im Projekt und senden Sie sich eine E-Mail mit diesen Informationen zu.
+Mit dem Szenario &quot;Einführung in die Iteration&quot;, das Sie in der letzten exemplarischen Vorgehensweise erstellt haben, aggregieren Sie die geplanten Stunden für jede Arbeitsaufgabe im Projekt und senden Sie sich eine E-Mail mit diesen Informationen.
 
 ![Ein Bild des Fusion-Szenarios](assets/iteration-and-aggregation-2.png)
 
@@ -31,9 +32,6 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on)
 
->[!TIP]
->
->Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Exemplarische Vorgehensweise zur Aggregation](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=de).
 
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:

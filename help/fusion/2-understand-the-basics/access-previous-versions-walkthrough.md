@@ -1,6 +1,6 @@
 ---
 title: Anleitung zum Zugriff auf frühere Versionen
-description: Erfahren Sie, wie Sie frühere Versionen wiederherstellen können, nachdem Sie Änderungen an Ihrem Szenario vorgenommen und in [!DNL Adobe Workfront Fusion]gespeichert haben.
+description: Erfahren Sie, wie Sie frühere Versionen wiederherstellen können, nachdem Sie Änderungen an Ihrem Szenario vorgenommen und in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '295'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 86%
 
 ---
 
@@ -33,9 +34,6 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 >
 >Nach dem Speichern des Szenarios ist eine neue Version unter dem Menü mit drei Punkten verfügbar, falls Sie in Zukunft darauf zugreifen müssen. Zuvor gespeicherte Szenario-Versionen sind nur für 60 Tage verfügbar. Wenn Sie zu Prüfzwecken über die 60 Tage hinaus auf frühere Versionen zugreifen müssen, empfiehlt Workfront, einen Entwurf Ihres Szenarios zu speichern und an einem vereinbarten Speicherort zu archivieren.
 
->[!TIP]
->
->Schritt-für-Schritt-Anweisungen zur exemplarischen Vorgehensweise finden Sie in der Übung [Anleitung zum Zugriff auf frühere Versionen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=de).
 
 ## Zu Ihrer Terminologie hinzufügen
 
