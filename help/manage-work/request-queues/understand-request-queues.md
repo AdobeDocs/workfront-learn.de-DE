@@ -12,9 +12,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 63%
 
 In diesem Video lernen Sie Folgendes:
 
-* Senden einer Anfrage über eine [!DNL  Workfront] Anforderungswarteschlange
+* Übermitteln einer Anfrage über eine [!DNL  Workfront]-Anfrage-Warteschlange
 * Struktur von Anfragewarteschlangen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## Automatische Speicherung von Anfrageentwürfen
 
-Wenn Sie mit dem Ausfüllen eines Anfrageformulars beginnen, speichert [!DNL Workfront] automatisch einen Entwurf, nachdem Sie das Feld [!UICONTROL Betreff] ausgefüllt haben. Das bedeutet, dass Sie keine Daten verlieren, wenn Sie von der [!UICONTROL Anforderungen] -Bereich verwenden, um etwas Anderes zu tun, oder wenn Sie mitten in Ihrer Anfrage anhalten müssen, um weitere Informationen zu sammeln.
+Wenn Sie mit dem Ausfüllen eines Anfrageformulars beginnen, speichert [!DNL Workfront] automatisch einen Entwurf, nachdem Sie das Feld [!UICONTROL Betreff] ausgefüllt haben. Das bedeutet, dass Sie keine Daten verlieren, wenn Sie den Bereich [!UICONTROL Anfragen] verlassen müssen, um etwas anderes zu tun, oder wenn Sie mitten in Ihrer Anfrage eine Pause einlegen müssen, um weitere Informationen zu sammeln.
 
-Oben im Fenster wird ein Hinweis darauf angezeigt, dass der Entwurf gespeichert wurde. [!DNL Workfront] speichert einen Entwurf Ihrer Anfrage, auch wenn die erforderlichen Felder noch nicht ausgefüllt sind.
+Am oberen Rand des Fensters wird angezeigt, dass der Entwurf gespeichert wurde. [!DNL Workfront] speichert einen Entwurf Ihrer Anfrage, auch wenn die erforderlichen Felder noch nicht ausgefüllt sind.
 
 ![Bild der Erstellung eines Anfrageentwurfs](assets/queue-mgt-make-a-request-draft-1.png)
 
-Wenn Sie bereit sind, die Anfrage zu senden, suchen Sie sie im [!UICONTROL Entwürfe] Registerkarte. Klicken Sie auf den Namen, um sie zu öffnen und das Formular fertig auszufüllen. Klicken Sie anschließend auf [!UICONTROL Anfrage absenden] wenn Sie fertig sind.
+Wenn Sie bereit sind, die Anfrage abzusenden, finden Sie sie auf der Registerkarte [!UICONTROL Entwürfe]. Klicken Sie auf den Namen, um sie zu öffnen und das Formular fertig auszufüllen. Klicken Sie anschließend auf [!UICONTROL Anfrage absenden], wenn Sie fertig sind.
 
 ![Bild zum Aufrufen eines Anfrageentwurfs](assets/queue-mgt-make-a-request-draft-2.png)
 
