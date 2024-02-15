@@ -11,9 +11,9 @@ jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '289'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -38,13 +38,13 @@ Im Folgenden finden Sie einige Best Practices, die Ihnen bei den ersten Schritte
 * Fügen Sie Nutzungsbedingungen für rechtsverwaltete Assets hinzu, um Missbrauch zu verhindern.
 * Fügen Sie zu Ihren Assets Metadaten hinzu, sobald Sie sie hochladen.
 * Implementieren Sie vordefinierte Dropdown-Menüs für häufig verwendete Daten, um Inkonsistenzen zu vermeiden.
-* Ermitteln Sie Mitarbeiter, die für das Hinzufügen von Metadaten zur Metadatenstrategie Ihres Unternehmens verantwortlich sind.
-* Kommunizieren Sie Ihre Metadatenanforderungen an externe Anbieter (z. B. &quot;Fotos müssen mit den bereits hinzugefügten Nutzungsbedingungen, Gutschriften und Standortmetadaten gesendet werden&quot;).
+* Informieren Sie die Mitwirkenden, die für das Hinzufügen von Metadaten verantwortlich sind, über die Metadatenstrategie Ihres Unternehmens.
+* Teilen Sie externen Anbietern Ihre Anforderungen an die Metadaten mit (z. B. „Fotos müssen zusammen mit den bereits hinzugefügten Metadaten zu Nutzungsbedingungen, Credits und Standort eingereicht werden“).
 * Führen Sie regelmäßige Prüfungen durch, um sicherzustellen, dass Metadaten ordnungsgemäß hinzugefügt werden.
 
 ## Entwickeln einer Metadatenstrategie
 
-Sehen Sie sich Ihren Asset-Workflow an, wenn Sie die Metadatenstrategie Ihres Unternehmens entwickeln. Ihre [!DNL Workfront]-Beraterin oder Ihr -Berater kann Ihnen bei der Beantwortung der folgenden wichtigen Fragen helfen:
+Beachten Sie Ihren Asset-Workflow bei der Entwicklung der Metadatenstrategie Ihres Unternehmens. Ihre [!DNL Workfront]-Beraterin oder Ihr -Berater kann Ihnen bei der Beantwortung der folgenden wichtigen Fragen helfen:
 
 * Wer ist für das Hinzufügen von Metadaten verantwortlich?
 * Welche Metadaten sind erforderlich? Was ist optional?
