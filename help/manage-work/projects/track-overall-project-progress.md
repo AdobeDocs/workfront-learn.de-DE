@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ Der Wert [!UICONTROL Prozent abgeschlossen] basiert auf dem Gesamtfortschritt de
 
 >[!NOTE]
 >
->Eine globale Systemeinstellung wirkt sich darauf aus, wie der prozentuale Abschluss des Projekts berechnet wird, entweder auf der Grundlage von Dauern oder geplanten Stunden der Aufgaben.
+>Eine globale Systemeinstellung wirkt sich darauf aus, wie die prozentuale Abschlussrate des Projekts berechnet wird, entweder auf der Grundlage von Dauern oder auf geplanten Stunden der Aufgaben.
 
-Das Projekt [!UICONTROL Bedingung] wird als &quot;Gesundheit des Projektplans&quot;bezeichnet. Es gibt eine Reihe von Faktoren, die bei der Berechnung des Zustands zu berücksichtigen sind. [!DNL Workfront] betrachtet das [!UICONTROL geplante Abschlussdatum] und das [!UICONTROL voraussichtliche Abschlussdatum] sowie den kritischen Pfad, um zu berechnen, ob das Projekt [!UICONTROL im Zeitplan] liegt, [!UICONTROL gefährdet] ist oder [!UICONTROL in Schwierigkeiten] ist.
+Der [!UICONTROL Projektzustand] wird als der „Gesundheitszustand des Projektzeitplans“ bezeichnet. Es gibt eine Reihe von Faktoren, die bei der Berechnung des Zustands zu berücksichtigen sind. [!DNL Workfront] betrachtet das [!UICONTROL geplante Abschlussdatum] und das [!UICONTROL voraussichtliche Abschlussdatum] sowie den kritischen Pfad, um zu berechnen, ob das Projekt [!UICONTROL im Zeitplan] liegt, [!UICONTROL gefährdet] ist oder [!UICONTROL in Schwierigkeiten] ist.
 
 ![Projekt-Header, der den [!UICONTROL Zustand]](assets/planner-fund-condition.png) anzeigt
 
