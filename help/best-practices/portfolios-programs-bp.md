@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10916
 exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
 source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '388'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -49,8 +49,8 @@ Wenn Sie Portfolios und Programme verwenden, können Sie weitere Workfront-Tools
 
 Darüber hinaus können Sie zusätzliche Tools einsetzen, wie z. B. den Nutzungsbericht, mit dem Sie verstehen können, wie und wo Benutzende arbeiten, oder den Portfolio-Optimizer, der es Ihnen erleichtert, Projekte zu priorisieren und sie auf die allgemeinen Unternehmensziele und -strategien abzustimmen.
 
-Informationen zum Filtern einer Projektliste nach einem bestimmten Portfolio finden Sie unter &quot;Aktivität 1 - Alle Projekte im Marketing-Portfolio&quot;in [Basisfilteraktivitäten erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+Weitere Informationen zum Filtern einer Liste von Projekten nach einem bestimmten Portfolio finden Sie unter „Aktivität 1 – Alle Projekte im Marketing-Portfolio“ unter [Aktivitäten zum Erstellen eines einfachen Filters](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html?lang=de).
 
-Informationen zum Nutzungsbericht finden Sie im Artikel [Verfolgen von Fortschritt, Kosten und Umsatz mit dem Nutzungsbericht](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+Weitere Informationen zum Auslastungsbericht finden Sie in dem Artikel [Verfolgen von Fortschritt, Kosten und Umsatz mit dem Auslastungsbericht](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=de#track-progress-cost-and-revenue-with-the-utilization-report).
 
-Weitere Informationen zu Portfolio Optimizer finden Sie unter [Portfolio Optimizer verwenden, um Arbeit zu priorisieren und zu verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Weitere Informationen über den Portfolio-Optimizer finden Sie unter [Verwendung des Portfolio-Optimizers, um Arbeit zu priorisieren und zu verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=de).
