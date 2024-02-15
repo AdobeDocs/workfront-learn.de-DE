@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Richten Sie Ihre [!DNL  Workfront]-Projekte mithilfe einer Projektvorlage schnel
 1. Vorgänger
 1. Arbeitsaufträge
 
-Sobald alles eingestellt ist, ändern Sie den Projektstatus in „Aktuell“, um das Projekt live zu schalten. Im Laufe des Projekts möchten Sie die bereits geleistete Arbeit, die auftretenden Probleme, die zu beantwortenden Fragen und vieles mehr im Auge behalten. Denken Sie einfach daran: Sie können alle diese Informationen in [!DNL Workfront]finden und verwalten.
+Sobald alles eingestellt ist, ändern Sie den Projektstatus in „Aktuell“, um das Projekt live zu schalten. Während das Projekt voranschreitet, sollten Sie den Überblick über die geleistete Arbeit, auftretende Probleme, zu beantwortende Fragen und vieles mehr behalten. Denken Sie einfach daran: Sie können alle diese Informationen in [!DNL Workfront]finden und verwalten.
 
 <!---
 footer urls for the LP
