@@ -12,9 +12,9 @@ jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -30,5 +30,5 @@ In diesem Video lernen Sie Folgendes:
 
 ## Sie sind dran
 
-Sehen Sie sich die von Ihnen erstellten Testversand-Workflows an und besprechen Sie die Diskussionen mit den Teams, die mithilfe von Überprüfungs- und Genehmigungs-Workflows diskutiert wurden. Werden Aktionen erforderlich sein? Aktualisieren Sie in diesem Fall die Dokumente, in denen Sie die Workflows aufgezeichnet haben, und schließen Sie die Aktionen ein.
+Schauen Sie sich die bereits erstellten Korrekturabzug-Workflows an und denken Sie über die Diskussionen nach, die Sie mit den Teams geführt haben, die Überprüfungs- und Genehmigungs-Workflows verwenden. Werden Aktionen erforderlich sein? Aktualisieren Sie in diesem Fall die Dokumente, in denen Sie die Workflows aufgezeichnet haben, und schließen Sie die Aktionen ein.
 
