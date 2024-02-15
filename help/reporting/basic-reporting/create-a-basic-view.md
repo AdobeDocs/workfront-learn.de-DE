@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '826'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -132,12 +132,12 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Ansicht der Dauertypen und A
 
 ## Aktivität 4: Erstellen einer aktiven Statusansicht einer Projektvorlage
 
-Wer Projektvorlagen verwaltet, weiß, dass er den aktiven Status (True oder False) jeder Vorlage in einer Liste sehen kann. Noch besser - das Feld kann in Zeilen bearbeitet werden!
+Jeder, der Projektvorlagen verwaltet, wird es schätzen, den aktiven Status („True“ oder „False“) der einzelnen Vorlagen in einer Liste zu sehen. Noch besser – das Feld kann inline bearbeitet werden!
 
-Erstellen Sie eine Projektvorlagenansicht mit dem Namen &quot;Standard+aktiver Status&quot;mit den folgenden Spalten:
+Erstellen Sie eine Projektvorlagenansicht namens „Standard+aktiver Status“ mit den folgenden Spalten:
 
 * [!UICONTROL Name]
-* [!UICONTROL Inhaber]
+* [!UICONTROL Besitzer bzw. Besitzerin]
 * [!UICONTROL Dauer]
 * [!UICONTROL Geplante Stunden]
 * [!UICONTROL Geplante Kosten]
@@ -148,10 +148,10 @@ Erstellen Sie eine Projektvorlagenansicht mit dem Namen &quot;Standard+aktiver S
 
 ## Antwort zu Aktivität 4
 
-![Ein Bild des Bildschirms, um eine aktive Statusansicht einer Projektvorlage anzuzeigen](assets/view-activity-4.png)
+![Ein Bild des Bildschirms zur Anzeige einer aktiven Statusansicht der Projektvorlage](assets/view-activity-4.png)
 
-1. Wechseln Sie in einer Projektvorlagenliste zum **[!UICONTROL Ansicht]** Dropdown-Menü und wählen Sie **[!UICONTROL Neue Ansicht]**.
-1. Benennen Sie Ihre Ansicht mit &quot;Standard+aktiver Status&quot;.
+1. Wechseln Sie in einer Projektvorlagenliste zum Dropdown-Menü **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Neue Ansicht]**.
+1. Nennen Sie Ihre Ansicht „Standard+aktiver Status“.
 1. Klicken Sie auf **[!UICONTROL Spalte hinzufügen]**.
-1. Im [!UICONTROL In dieser Spalte anzeigen] Geben Sie &quot;is&quot;ein und wählen Sie dann &quot;Is Active&quot;unter dem [!UICONTROL Vorlage] -Feldquelle.
-1. Klicks **[!UICONTROL Ansicht speichern]**.
+1. Geben Sie in das Feld [!UICONTROL In dieser Spalte anzeigen] „ist“ ein und wählen Sie dann „Ist aktiv“ unter der Feldquelle [!UICONTROL Vorlage].
+1. Klicken Sie auf **[!UICONTROL Ansicht speichern]**.
