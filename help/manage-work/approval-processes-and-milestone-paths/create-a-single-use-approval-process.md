@@ -12,9 +12,9 @@ jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '279'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,5 +36,5 @@ In diesem Video erfahren Sie, wie Sie ein einmaliges Genehmigungsverfahren für 
 >
 >Sie können eine einmalige Genehmigung für Projekte und Probleme auf die gleiche Weise einrichten, wie es im Video für Aufgaben beschrieben wird.
 >
->Wenn Sie automatische Problemgenehmigungen einrichten möchten, können diese nur mithilfe eines globalen Genehmigungsverfahrens für Probleme durchgeführt und in einem Warteschlangen-Thema angewendet werden. Informationen dazu finden Sie unter [Erstellen einer Anfrage-Warteschlange](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html).
+>Wenn Sie automatische Problemgenehmigungen einrichten möchten, können diese nur mithilfe eines globalen Genehmigungsverfahrens für Probleme durchgeführt und in einem Warteschlangen-Thema angewendet werden. Informationen dazu finden Sie unter [Erstellen einer Anfrage-Warteschlange](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html?lang=de).
 
