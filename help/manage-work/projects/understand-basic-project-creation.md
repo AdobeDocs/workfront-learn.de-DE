@@ -12,15 +12,15 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zur Projekterstellung
 
-In diesem Video erfahren Sie:
+In diesem Video lernen Sie Folgendes:
 
 * Vier Schritte zum Einrichten und Ausführen eines Projekts
 * Die Definition eines Projekts in [!DNL Workfront]
@@ -28,7 +28,7 @@ In diesem Video erfahren Sie:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Holen Sie sich Ihre [!DNL  Workfront] Projekte mithilfe einer Projektvorlage schnell erstellen und ausführen. Anschließend planen Sie Ihr Projekt, indem Sie sich zunächst auf diese fünf Bereiche konzentrieren:
+Verwenden Sie eine Projektvorlage, um Ihre [!DNL  Workfront]-Projekte schnell einzurichten und auszuführen. Dann planen Sie Ihr Projekt, indem Sie sich zunächst auf diese fünf Felder konzentrieren:
 
 1. Aufgaben
 1. Dauer
@@ -36,4 +36,4 @@ Holen Sie sich Ihre [!DNL  Workfront] Projekte mithilfe einer Projektvorlage sch
 1. Vorgänger
 1. Arbeitsaufträge
 
-Sobald alles festgelegt ist, ändern Sie den Projektstatus in Aktuell , um das Projekt live zu stellen. Im Laufe des Projekts möchten Sie die bereits geleistete Arbeit, die auftretenden Probleme, die zu beantwortenden Fragen und vieles mehr im Auge behalten. Denken Sie einfach daran ... Sie können alle diese Informationen finden und verwalten in [!DNL Workfront]!
+Sobald alles eingestellt ist, ändern Sie den Projektstatus in „Aktuell“, um das Projekt live zu schalten. Während das Projekt voranschreitet, sollten Sie den Überblick über die geleistete Arbeit, auftretende Probleme, zu beantwortende Fragen und vieles mehr behalten. Denken Sie einfach daran: Sie können alle diese Informationen in [!DNL Workfront]finden und verwalten.
