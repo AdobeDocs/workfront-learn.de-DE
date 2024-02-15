@@ -1,5 +1,5 @@
 ---
-title: Best Practice - Business Case und Portfolio Optimizer
+title: Best Practice – Business-Case und Portfolio-Optimizer
 description: Bevor Sie zu einer agilen Methodik wechseln, sollten Sie sich einige Ratschläge und Fragen ansehen.
 feature: Strategic Planning
 role: Admin, Leader, User
@@ -7,64 +7,64 @@ level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best Practice - Business Case und Portfolio Optimizer
+# Best Practice – Business-Case und Portfolio-Optimizer
 
-## Was ist eine Adobe Workfront-Best Practice?
+## Was ist eine „Best Practice“ für Adobe Workfront?
 
-Best Practices sind Richtlinien, die einen effektiven, effizienten Handlungsweg darstellen, von Ihnen und den Benutzern in Ihrem Unternehmen einfach übernommen werden und in Ihrem gesamten Unternehmen erfolgreich repliziert werden können.
+Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
-Beachten Sie bei der Überprüfung dieser Empfehlungen, dass einige Workfront-Best Practices universell sind, während andere genauer auf das Thema eingehen können. Verwenden Sie diese Best Practices als Framework, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
+Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Practices von Workfront universell sind, während andere eher themenspezifisch sind. Verwenden Sie diese Best Practices als Rahmen, um die Einrichtung und Verwendung Ihrer Workfront-Systeme zu unterstützen.
 
-## Auf dieser Seite navigieren
+## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des &quot;Warum&quot;vertraut zu machen.
+Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des „Warum“ vertraut zu machen.
 
-Die &quot;Warum sind diese Best Practices?&quot; -Bereich, der sich hinter der allgemeinen Liste befindet, detaillierter über einige der Best Practices und darüber, warum sie als Prozess, Tool usw. betrachtet werden, sollten Sie eine Implementierung mit Ihrer Workfront-Instanz in Erwägung ziehen.
-
-</br>
-</br>
-
-## Best Practices für Business Case und Portfolio Optimizer
-
-* Verwenden Sie den Geschäftsfall vor oder zu Beginn Ihres Projekts.
-
-* Schätzen und passen Sie wichtige Projektinformationen wie Kosten, Ausrichtung, Nettowert, Risiko und ROI im Geschäftsfall an.
+Die Frage „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
 
-## Warum sind diese Best Practices?
+## Best Practices für Business-Case und Portfolio-Optimizer
+
+* Verwenden Sie den Business-Case vor oder zu Beginn Ihres Projekts.
+
+* Schätzen Sie wichtige Projektinformationen wie Kosten, Ausrichtung, Nettowert, Risiko und ROI im Business-Case ab und passen Sie sie an.
+
+</br>
+</br>
+
+## Warum sind das Best Practices?
 
 **Best Practice**
 
-Verwenden Sie den Geschäftsfall vor oder zu Beginn Ihres Projekts.
+Verwenden Sie den Business-Case vor oder zu Beginn Ihres Projekts.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Durch die Verwendung eines Geschäftsszenarios vor dem Projektstart oder sogar zu Beginn Ihres Projekts können Sie wirklich vorhersehen, was dieses Projekt benötigt - Ressourcen (sowohl menschlich als auch nicht menschlich), Budget und Zeitrahmen - und wie potenzielle Risiken, die auftreten könnten, gemindert werden können, bevor sie auftreten.
+Die Verwendung eines Business-Case vor Projektbeginn oder sogar zu Beginn des Projekts ermöglicht es Ihnen, genau zu antizipieren, was für das Projekt benötigt wird – Ressourcen (sowohl personelle als auch nicht-personelle), Budget, Zeitrahmen – und wie Sie potenzielle Risiken abmildern können, bevor sie auftreten.
 
-Außerdem erhalten Sie die Möglichkeit, Interessengruppen zu zeigen, wie Ihr Projekt zu Abteilungen-, Regional- und/oder Unternehmenszielen beiträgt.
+Außerdem haben Sie die Möglichkeit, den Beteiligten zu zeigen, inwiefern Ihr Projekt zu den Zielen der Abteilung, der Region und/oder des Unternehmens beiträgt.
 
-Anweisungen zur Verwendung des Geschäftsfalls finden Sie unter [Geschäftsfall verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Anweisungen zur Verwendung des Business-Cases finden Sie unter [Grundlegendes zum Business-Case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=de).
 
 </br>
 </br>
 
 **Best Practice**
 
-Schätzen und passen Sie wichtige Projektinformationen wie Kosten, Ausrichtung, Nettowert, Risiko und ROI im Geschäftsfall an.
+Schätzen Sie wichtige Projektinformationen wie Kosten, Ausrichtung, Nettowert, Risiko und ROI im Business-Case ab und passen Sie sie an.
 
-**Deshalb**
+**Das sind die Gründe**
 
-Wenn Sie sicherstellen, dass diese Informationen dem Projekt &quot;Echtzeit&quot;entsprechen, können Sie die Punktfunktion im Portfolio Optimizer genau verwenden, um die Priorität der aufgelisteten Projekte zu bestimmen. Der Portfolio Optimizer ist ein hervorragendes Tool, um sicherzustellen, dass Ihre Projekte effizient priorisiert und auf die Strategie und den Wert Ihres Unternehmens abgestimmt werden.
+Indem Sie sich vergewissern, dass diese Informationen so nah wie möglich an dem „realen“ Projekt liegen, können Sie die Bewertungsfunktion im Portfolio-Optimizer präzise nutzen, um die Priorität der aufgelisteten Projekte zu bestimmen. Der Portfolio-Optimizer ist ein hervorragendes Tool, um sicherzustellen, dass Ihre Projekte effizient priorisiert und auf die Strategie und den Wert Ihres Unternehmens abgestimmt werden.
 
-Anweisungen zur Verwendung des Geschäftsfalls finden Sie unter [Geschäftsfall verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Anweisungen zur Verwendung des Business-Cases finden Sie unter [Grundlegendes zum Business-Case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=de).
 
-Anweisungen zur Verwendung des Portfolio Optimizer finden Sie unter [Portfolio Optimizer verwenden, um Arbeit zu priorisieren und zu verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Anweisungen zur Verwendung des Portfolio-Optimizers finden Sie unter [Verwenden des Portfolio-Optimizers, um Arbeit zu priorisieren und zu verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=de).
 
