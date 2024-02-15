@@ -11,9 +11,9 @@ jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '586'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Ein traditioneller Rhythmus für einen lang-/kurzfristigen Planungszyklus kann 1
 
 Berücksichtigen Sie diese Konzepte bei der Festlegung des geeigneten Rhythmus für Ihr Unternehmen.
 
-* Im heutigen Geschäftsumfeld sind interne und externe Faktoren volatiler und ändern sich häufig. Um diese Faktoren strategisch anzugehen, sollten Überprüfungen und Anpassungen der kurzfristigen Ziele mindestens alle 3 Monate vorgenommen werden.
+* Im heutigen Geschäftsumfeld sind interne und externe Faktoren weniger beständig und ändern sich häufig. Um diese Faktoren strategisch anzugehen, sollten Überprüfungen und Anpassungen der kurzfristigen Ziele mindestens alle 3 Monate vorgenommen werden.
 
 * Bei jeder Überprüfung sollte man sich Zeit nehmen, um über vergangene Leistungen und Anstrengungen nachzudenken und den zukünftigen Weg des Unternehmens zu bewerten. Fragen Sie sich und Ihre Teams: Sind wir noch auf dem richtigen Weg?
 
