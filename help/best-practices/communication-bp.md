@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -49,9 +49,9 @@ Verwenden Sie Ihre Workflows, um die erforderlichen Benachrichtigungen zu bestim
 
 Wenn Sie Ihre Workflows Schritt für Schritt durchgehen, ist es einfacher, die Kommunikationspunkte zu identifizieren und sicherzustellen, dass die richtigen Benachrichtigungen aktiviert sind. Dadurch werden die Benachrichtigungen auf die Arbeitsweise Ihres Unternehmens abgestimmt und Spam oder Kommunikationsfehler vermieden.
 
-Anweisungen zum Einrichten von Ereignisbenachrichtigungen finden Sie unter [Einrichten von Ereignisbenachrichtigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+Anweisungen zum Einrichten von Ereignisbenachrichtigungen finden Sie unter [Einrichten von Ereignisbenachrichtigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=de).
 
-Anweisungen zum Verwalten von Ereignisbenachrichtigungen finden Sie unter [In-App- und E-Mail-Ereignisbenachrichtigungen verwalten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+Anweisungen zum Verwalten von Ereignisbenachrichtigungen finden Sie unter [Verwalten von In-App- und E-Mail-Ereignisbenachrichtigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=de).
 
 </br>
 </br>
@@ -72,5 +72,5 @@ Wenn Sie viele Aktualisierungs-Threads in einem Projekt haben, kann es schwierig
 * Name der Eigentümerin bzw. des Eigentümers
 * Eingabedatum
 
-Eine schrittweise Anleitung zum Erstellen eines Berichts mit Eingabeaufforderungen finden Sie unter [Aufgabenbericht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) Tutorial und führen Sie dann die folgende Aktivität aus.
+Eine schrittweise Anleitung zum Erstellen eines Notizberichts mit Eingabeaufforderungen finden Sie in der Anleitung [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=de). Führen Sie anschließend die folgende Aktivität aus.
 
