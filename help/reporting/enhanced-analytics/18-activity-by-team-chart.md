@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zur Aktivität nach Team-Diagramm
-description: Das Diagramm "Aktivität nach Team"in [!UICONTROL Verbesserte Analytics] gibt Ihnen Aufschluss darüber, wie die Teams Ihrer Organisation ihre Zeit in Workfront verbringen.
+description: Anhand des Diagramms „Aktivität nach Team“ in der [!UICONTROL erweiterten Analyse] können Sie nachvollziehen, wie die Stamm-Teams in Ihrem Unternehmen ihre Zeit in Workfront verbringen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10045
 recommendations: noDisplay,noCatalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
