@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zum Anwendungsfall „KPI-Vergleiche“
-description: Erfahren Sie, wie Sie KPIs in [!UICONTROL Verbesserte Analytics] aus dem aktuellen Datumsbereich in einen vorherigen Datumsbereich wechseln und wie KPIs mit zwei verschiedenen Filtern verglichen werden.
+description: Erfahren Sie, wie Sie in der [!UICONTROL erweiterten Analyse] KPIs vom aktuellen Datumsbereich mit einem früheren Datumsbereich vergleichen und wie Sie KPIs mit zwei verschiedenen Filtern vergleichen können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

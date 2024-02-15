@@ -1,6 +1,6 @@
 ---
-title: Detailliertere Nutzung von Zeitrahmen und zusätzlichen Diagrammen
-description: Erfahren Sie im Flugplan-Diagramm, wie Sie ein Projekt detaillierter aufschlüsseln können, damit das Niederschlagsdiagramm und die Aufgaben im Flugdiagramm im Abschnitt [!UICONTROL Verbesserte Analytics].
+title: Tiefere Einblicke zu Zeitrahmen und zusätzlichen Diagrammen
+description: Erfahren Sie, wie Sie ein Projekt im Flugplan-Diagramm aufschlüsseln, damit der Burndown-Chart und die Aufgaben im Flugdiagramm in der [!UICONTROL erweiterten Analyse] erscheinen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -15,11 +15,11 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
-# Detailliertere Nutzung von Zeitrahmen und zusätzlichen Diagrammen
+# Tiefere Einblicke zu Zeitrahmen und zusätzlichen Diagrammen
 
 In diesem Video lernen Sie Folgendes:
 

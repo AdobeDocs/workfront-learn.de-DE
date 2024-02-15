@@ -14,7 +14,7 @@ exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Die erweiterte Analyse zeigt Ihnen, wie Ihre Teams und Projekte in Workfront vor
 
 Um die erweiterte Analyse von Workfront optimal zu nutzen, müssen Sie sicherstellen, dass Ihre Teams Daten eingeben und bestimmte Felder so genau wie möglich aktualisieren.
 
-Wenn wir den Begriff &quot;Team&quot;in Analytics verwenden, beziehen wir uns auf &quot;Heimteams&quot;. Workfront-Benutzende können mehreren Teams angehören, aber nur Teil eines einzigen Stamm-Teams sein. Die in den Personendiagrammen verwendeten Teams bestehen nur aus Benutzenden, für die das entsprechende Team als ihr Stamm-Team zugewiesen ist.
+Wenn wir den Begriff „Team“ in Analytics verwenden, beziehen wir uns auf „Stamm-Teams“. Workfront-Benutzende können mehreren Teams angehören, aber nur Teil eines einzigen Stamm-Teams sein. Die in den Personendiagrammen verwendeten Teams bestehen nur aus Benutzenden, für die das entsprechende Team als ihr Stamm-Team zugewiesen ist.
 
 Für einen guten Start sollten Sie sicherstellen, dass alle Projektvorlagen über genaue geplante Stunden und Zeiträume verfügen, die allen Aufgaben zugewiesen sind.
 

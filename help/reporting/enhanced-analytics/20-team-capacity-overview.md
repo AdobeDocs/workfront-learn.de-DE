@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zur Team-Kapazität
-description: Erfahren Sie mehr über das Diagramm zur Teamkapazität in [!UICONTROL Verbesserte Analytics] zeigt an, wann ein Heimteam überzugewiesen oder unterzugewiesen wurde.
+description: Erfahren Sie, wie das Team-Kapazitätsdiagramm in der [!UICONTROL erweiterten Analyse] anzeigt, wann ein Stamm-Team über- oder unterbelegt war.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -14,7 +14,7 @@ exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '390'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 

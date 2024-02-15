@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zur Navigation und Überprüfung der Projektaktivität
-description: Erfahren Sie, wie Sie Projekte anhand von angemeldeten Benutzern, Änderungen des Aufgabenstatus und abgeschlossenen Aufgaben vergleichen. [!UICONTROL Verbesserte Analytics].
+description: Erfahren Sie, wie Sie Projekte anhand von angemeldeten Benutzenden, Änderungen des Aufgabenstatus und abgeschlossenen Aufgaben in der [!UICONTROL erweiterten Analyse] vergleichen können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

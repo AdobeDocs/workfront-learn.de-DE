@@ -14,7 +14,7 @@ exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '318'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Klicken Sie einfach auf ein Datum im Kalender, um ein Datum in Ihrem Bereich anz
 
 ![Ein Bild zur Auswahl eines Datumsbereichs mithilfe des Kalender-Widgets](assets/section-1-3.png)
 
-Die Diagramme in [!DNL Analytics] zeigen standardmäßig Daten für die letzten 60 Tage und die nächsten 15 Tage an. Sie können einen neuen Datumsbereich auswählen und ihn auf alle Diagramme anwenden, während Sie [!DNL Analytics].
+Die Diagramme in [!DNL Analytics] zeigen standardmäßig Daten für die letzten 60 Tage und die nächsten 15 Tage an. Sie können einen neuen Datumsbereich auswählen und ihn auf alle Diagramme anwenden, während Sie [!DNL Analytics] verwenden.
 
 Wenn Sie die Seite aktualisieren, von ihr weg navigieren oder sich von Workfront abmelden/anmelden, wird der Datumsbereich auf den Standardwert zurückgesetzt.
 

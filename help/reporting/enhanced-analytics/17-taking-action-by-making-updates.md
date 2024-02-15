@@ -1,6 +1,6 @@
 ---
 title: Ergreifen von Maßnahmen, um Aktualisierungen vorzunehmen
-description: Erfahren Sie, wie Sie im Flugdiagramm unter "Aufgaben"Aktualisierungen vornehmen. [!UICONTROL Verbesserte Analytics].
+description: Erfahren Sie, wie Sie Aktualisierungen aus dem Diagramm „Aufgaben im Flug“ unter [!UICONTROL Erweiterte Analyse] vornehmen können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

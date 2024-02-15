@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen von Analysen zu Layoutvorlagen
+title: Hinzufügen von Analytics zu Layout-Vorlagen
 description: Erfahren Sie, wie System- und Gruppenadmins Zugriff auf Analytics gewähren.
 activity: use
 feature: Reports and Dashboards
@@ -15,15 +15,15 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# Hinzufügen von Analysen zu Layoutvorlagen
+# Hinzufügen von Analytics zu Layout-Vorlagen
 
-In diesem Video erfahren Sie, wie System- und Gruppenadministratoren Zugriff auf [!UICONTROL Analytics] in Workfront.
+In diesem Video erfahren Sie, wie System- und Gruppenadmins Zugriff auf [!UICONTROL Analytics] in Workfront gewähren können.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
-Jeder mit einer Workfront-Lizenz (in [!UICONTROL Workfront Business] Pläne oder höher) können [!UICONTROL Analytics] nachdem sie der Layoutvorlage hinzugefügt wurde, werden sie zugewiesen. Sie sehen jedoch nur die Projekte und Benutzerinformationen, wenn dies von Ihrer Workfront-Zugriffsebene und den Freigabeberechtigungen für bestimmte Projekte und Benutzer erlaubt ist.
+Jede Person mit einer Workfront-Lizenz (in [!UICONTROL Workfront Business]-Abos oder höher) kann auf [!UICONTROL Analytics] zugreifen, sobald es der ihr zugewiesenen Layout-Vorlage hinzugefügt wurde. Sie können die Projekte und Benutzerinformationen jedoch nur sehen, wenn Ihre Workfront-Zugriffsebene und die Freigabeberechtigungen in Bezug auf bestimmte Projekte und Benutzende dies zulassen.

@@ -14,7 +14,7 @@ exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Wählen Sie im Menü des linken Bedienfelds den Typ der Analysediagramme aus, di
 
 ![Ein Bild der Suche nach [!UICONTROL Analyse]-Funktionen in [!DNL Workfront Classic]](assets/section-1-1.png)
 
-Wenn Sie in die Arbeitsdiagramme gehen, sehen Sie standardmäßig Folgendes:
+In den Arbeitsdiagrammen sehen Sie standardmäßig Folgendes:
 
 1. KPI-Statistiken
 1. Flugplan

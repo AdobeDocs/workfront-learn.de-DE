@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zum Zugriff auf und zur Überprüfung der Dropdownliste
-description: Erfahren Sie, wie Sie auf das Aufschlüsselungsdiagramm zugreifen und die Beziehung zwischen den verbleibenden Stunden, dem Projektzustand und der Projektgeschwindigkeit in [!UICONTROL Verbesserte Analytics].
+title: Grundlegendes zum Zugriff auf und zur Überprüfung des Burndown-Charts
+description: Erfahren Sie in der [!UICONTROL erweiterten Analyse], wie Sie auf den Burndown-Chart zugreifen und die Beziehung zwischen verbleibenden Stunden, Projektzustand und Projektgeschwindigkeit verstehen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zur Beratung
-description: Erfahren Sie, wie Sie mithilfe von Empfehlungen für eine effizientere Funktionsweise Ihres Unternehmens aussprechen können. [!UICONTROL Verbesserte Analytics] in Workfront.
+description: Erfahren Sie, wie Sie mithilfe der [!UICONTROL erweiterten Analyse] in Workfront Empfehlungen aussprechen können, die Ihrem Unternehmen helfen, effizienter zu arbeiten.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 

@@ -6,7 +6,7 @@ feature-set: Workfront
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '2408'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -149,7 +149,7 @@ ht-degree: 94%
       + [Grundlegendes zu den Einstellungen für eine Flussanfrage](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Erstellen einer Anfrage-Warteschlange](manage-work/request-queues/create-a-request-queue.md)
       + [Erstellen eines Anfrageflusses](manage-work/request-queues/create-a-request-flow.md)
-      + [Erstellen einer Feedback-Anforderungswarteschlange für Systemadministratoren](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
+      + [Erstellen einer Feedback-Anfrage-Warteschlange für Systemadmins](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Antworten auf häufig gestellte Fragen zu Anfrage-Warteschlangen](manage-work/request-queues/request-queue-faq.md)
 
    + Portfolios {#portfolios}
@@ -170,7 +170,7 @@ ht-degree: 94%
       + [Freigeben einer Projektvorlage](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Ein bestehendes Projekt kopieren](manage-work/manage-projects/copy-an-existing-project.md)
       + [Deaktivieren einer Projektvorlage](manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [Bearbeiten des Projektteams in einer Projektvorlage](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [Bearbeiten des Projekt-Teams in einer Projektvorlage](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + Projektzeitleisten {#project-timelines}
       + [Grundlegendes zu Projektzeitleisten](manage-work/project-timelines/understand-project-timelines.md)
@@ -205,7 +205,7 @@ ht-degree: 94%
       + [Erstellen einer einfachen Ansicht](reporting/basic-reporting/create-a-basic-view.md)
       + [Hinzufügen von grundlegenden bedingten Formatierungen zu einer Ansicht](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Erstellen eines einfachen Filters](reporting/basic-reporting/create-a-basic-filter.md)
-      + [Basisfilteraktivitäten erstellen](reporting/basic-reporting/create-a-basic-filter-activity.md)
+      + [Erstellen einer einfachen Filteraktivität](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Erstellen eines einfachen Berichts](reporting/basic-reporting/create-a-simple-report.md)
       + [Erstellen eines Aufgabenberichts](reporting/basic-reporting/create-a-task-report.md)
       + [Bericht kopieren](reporting/basic-reporting/copy-a-report.md)
@@ -343,10 +343,10 @@ ht-degree: 94%
       + [Verwenden von Adobe Workfront-Plug-ins zur Integration mit Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Integration konfigurieren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=de)
+      + [Konfigurieren der Integration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=de)
       + [Zuordnen von Metadaten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=de)
       + [Senden von Dokumenten und Verknüpfen von Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=de)
-      + [Verlaufsverlauf verwalten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=de)
+      + [Verwalten des Versionsverlaufs](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=de)
 
    + G Suite {#g-suite-integrations}
       + [Verbessern des Arbeitsablaufs mit der G Suite-Integration](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -495,8 +495,8 @@ ht-degree: 94%
       + [Einstellungen für Korrekturabzugsbenutzende](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + Korrekturabzüge hochladen {#upload-proofs}
-      + [Was ist eine Testversion?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [Wer lädt die Testversandversionen hoch](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Was eine Korrekturabzugsversion bedeutet](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [Wer die Korrekturabzugsversionen hochlädt](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Umwandeln eines Dokuments in einen Korrekturabzug](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Anzeigen und Vergleichen von Korrekturabzugsversionen](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [Hochladen einer Korrekturabzugsversion](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -589,7 +589,7 @@ ht-degree: 94%
 + Agile {#agile}
 
    + Scrum {#scrum}
-      + [Erstellen eines Scrum-agile-Teams](agile/create-a-scrum-agile-team.md)
+      + [Erstellen eines agilen Scrum-Teams](agile/create-a-scrum-agile-team.md)
       + [Verwalten von Arbeiten als Scrum-Team](agile/manage-work-scrum-team.md)
       + [Aufbauen des Rückstands](agile/gooming-the-backlog.md)
       + [Planen und Erstellen einer Iteration](agile/plan-and-create-an-iteration.md)

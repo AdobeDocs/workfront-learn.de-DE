@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zum Diagramm zur Ressourcenkapazität
-description: Erfahren Sie, wie das Diagramm "Ressourcenkapazität"in [!UICONTROL Verbesserte Analytics] zeigt die Anzahl der geplanten Stunden, die einem Heimteam innerhalb des gefilterten Zeitraums zugewiesen wurden, in Bezug auf die insgesamt verfügbaren Stunden des Teams.
+description: Erfahren Sie, wie das Diagramm zur Ressourcenkapazität in der [!UICONTROL erweiterten Analyse] die Anzahl der geplanten Stunden, die einem Stamm-Team innerhalb des gefilterten Zeitraums zugewiesen wurden, im Vergleich zu den insgesamt verfügbaren Stunden des Teams anzeigt.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -14,7 +14,7 @@ exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
