@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '620'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Erwägen Sie die Verwendung von Berichtsaufforderungen, um die Ergebnisse eines 
 
 Verringern Sie die Anzahl der Berichte, die Sie erstellen müssen, und erhöhen Sie den Nutzen der erstellten Berichte, indem Sie Eingabeaufforderungen einbeziehen, insbesondere für häufig verwendete Berichte.
 
-Mithilfe von Eingabeaufforderungen können Sie im Moment Filterzusätze für einen Bericht vornehmen, ohne die Filtereinstellungen des Berichts zu bearbeiten. Sie haben zum Beispiel einen Bericht, der nach Aufgaben mit einem bestimmten Status sucht, die einem bestimmten Team zugeordnet sind. Fügen Sie diesem &quot;einfachen&quot;Bericht Eingabeaufforderungen hinzu, mit denen Sie den Zeitrahmen für die Fälligkeitsdaten der Aufgaben eingrenzen, nur Aufgaben anzeigen, an die Dokumente angehängt sind, oder Aufgaben mit einem bestimmten benutzerdefinierten Formular identifizieren können.
+Mit Eingabeaufforderungen können Sie in einem Bericht den Filter „im Moment“ hinzuzufügen, ohne die Filtereinstellungen des Berichts zu bearbeiten. Sie haben zum Beispiel einen Bericht, der nach Aufgaben mit einem bestimmten Status sucht, die einem bestimmten Team zugeordnet sind. Fügen Sie zu diesem „Basisbericht“ Eingabeaufforderungen hinzu, mit denen Sie den Zeitrahmen für die Fälligkeitsdaten der Aufgaben eingrenzen, nur die Aufgaben mit angehängten Dokumenten anzeigen oder Aufgaben mit einem bestimmten angehängten benutzerdefinierten Formular herausfiltern können.
 
 
 **Hinweis**: Einige Benutzende finden die Eingabeaufforderungen möglicherweise verwirrend. In diesem Fall können mehrere Berichte mit eindeutigen Titeln eine bessere Lösung sein.
@@ -86,7 +86,7 @@ Benutzerbasierte Platzhalter machen Berichte flexibler und ermöglichen es denen
 </br>
 </br>
 
-Anweisungen zur Verwendung benutzerbasierter Platzhalter in Berichten finden Sie unter [Erstellen von Filtern mit benutzerdefinierten Platzhaltern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
+Anweisungen zur Verwendung benutzerbasierter Platzhalter in Berichten finden Sie unter [Erstellen von Filtern mit benutzerdefinierten Platzhaltern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=de).
 
 **Best Practice**
 
@@ -94,4 +94,4 @@ Erstellen Sie Ansichten, die eine Inline-Bearbeitung ermöglichen.
 
 **Das sind die Gründe**
 
-Mit der Inline-Bearbeitung können Benutzende Informationen zu einem Element direkt in einem Bericht oder einer Liste ändern. Dies spart Zeit, da Benutzer das Objekt nicht öffnen müssen, um bei der Aktualisierung mehrerer Elemente Änderungen vorzunehmen oder vom Objekt zum Objekt zu springen. Stellen Sie sicher, dass die Benutzenden wissen, dass die Inline-Bearbeitung bequem und schnell ist (zwei Aspekte, die die Akzeptanz der Workfront-Benutzenden steigert).
+Mit der Inline-Bearbeitung können Benutzende Informationen zu einem Element direkt in einem Bericht oder einer Liste ändern. Dies spart Zeit, da die Benutzenden das Objekt nicht öffnen müssen, um Änderungen vorzunehmen, oder von Objekt zu Objekt springen müssen, um mehrere Elemente zu aktualisieren. Stellen Sie sicher, dass die Benutzenden wissen, dass die Inline-Bearbeitung bequem und schnell ist (zwei Aspekte, die die Akzeptanz der Workfront-Benutzenden steigert).
