@@ -1,6 +1,6 @@
 ---
 title: 'Informationen zu Aktionen: Mauszeiger bewegen, Klicken und Ziehen sowie Hereinklicken'
-description: Erfahren Sie, wie Sie weitere Informationen erhalten, indem Sie den Mauszeiger über ein Diagramm bewegen, einen Zeitrahmen für ein Diagramm erstellen und zusätzliche Diagramme anzeigen, alles in [!UICONTROL Verbesserte Analytics].
+description: Erfahren Sie, wie Sie in der [!UICONTROL erweiterten Analyse] weitere Informationen erhalten, indem Sie den Mauszeiger über ein Diagramm bewegen, einen Zeitrahmen für ein Diagramm erstellen und zusätzliche Diagramme anzeigen können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
