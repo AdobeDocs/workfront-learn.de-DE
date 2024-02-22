@@ -2,7 +2,7 @@
 title: Grundlegendes zur Projekterstellung
 description: Erfahren Sie mehr über die vier Schritte zum Einrichten und Ausführen eines Projekts, die Definition eines Projekts und die drei häufigsten Methoden zum Erstellen eines Projekts.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
