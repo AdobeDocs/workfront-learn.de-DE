@@ -1,6 +1,6 @@
 ---
 title: Anleitung zum Zugriff auf frühere Versionen
-description: Erfahren Sie, wie Sie frühere Versionen wiederherstellen können, nachdem Sie Änderungen an Ihrem Szenario vorgenommen und in [!DNL Adobe Workfront Fusion].
+description: Erfahren Sie, wie Sie frühere Versionen wiederherstellen können, nachdem Sie Änderungen an Ihrem Szenario vorgenommen und in  [!DNL Adobe Workfront Fusion] gespeichert haben.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,9 +12,9 @@ exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
