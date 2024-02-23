@@ -1,5 +1,5 @@
 ---
-title: Übung bei Dev-Tools
+title: Übung zum Entwickler-Tool
 description: Verbessern Sie Ihre Möglichkeiten, Fehler in einem Szenario zu beheben, und vereinfachen Sie komplexe Konfigurationen mit dem Entwickler-Tool.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11057.png
 recommendations: noDisplay,noCatalog
 exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '624'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Übung bei Dev-Tools
+# Übung zum Entwickler-Tool
 
 Verbessern Sie Ihre Möglichkeiten, Fehler in einem Szenario zu beheben, und vereinfachen Sie komplexe Konfigurationen mit dem Entwickler-Tool.
 
