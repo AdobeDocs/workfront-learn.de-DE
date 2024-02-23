@@ -12,9 +12,9 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 5fa3bbf2fb4763e63beeb7ac640cc93ccf54fed5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '922'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -31,9 +31,9 @@ In diesem Video lernen Sie Folgendes:
 
 >[!TIP]
 >
->Brechen Sie Ihre Spatulas aus und mischen Sie Ihre Schüsseln und bereiten Sie sich darauf vor, die &quot;Rezepte&quot; in unserem [Adobe Workfront Customer Reporting-Cookie](/help/assets/workfront-customer-reporting-cookbook.pdf). Im Inneren finden Sie Schritt-für-Schritt-Anweisungen für 10 Berichte, die Ihnen heute in Ihrer Umgebung zur Verfügung stehen.
->Wir haben Lieblingsberichte von Kunden gesammelt und in einem kleinen, leicht verdaulichen Kochbuch zusammengestellt, in dem Sie Ihre Workfront-Küche wieder ausprobieren können.
->Diese 10 Berichte stammen von Kunden, die genau wie Sie sind. Verteilen wir uns über Branchen, Abteilungen, Teams, Positionen und alle in verschiedenen Unternehmen, schulden wir Ihnen ein großes Dankeschön an die unglaublichen Kunden, die einen ihrer Lieblingsberichte teilen. Einige Berichte sind einfach (aber unglaublich nützlich) und einige sind komplexer, um Ihre Berichterstellung auf die nächste Ebene zu bringen.
+>Holen Sie Ihre Spachtel und Rührschüsseln hervor und machen Sie sich bereit, die „Rezepte“ in unserem [Adobe Workfront Customer Reporting-Kochbuch](/help/assets/workfront-customer-reporting-cookbook.pdf) auszuprobieren. Darin finden Sie Schritt-für-Schritt-Anweisungen für 10 Berichte, die Ihnen heute in Ihrer Umgebung zur Verfügung stehen.
+>Wir haben Lieblingsberichte von Kundinnen und Kunden gesammelt und in einem kleinen, leicht verdaulichen Kochbuch zusammengestellt, in dem Sie Ihre Workfront-Küche wieder ausprobieren können.
+>Diese 10 Berichte stammen von Kundinnen und Kunden, die genau wie Sie sind. Verteilt auf verschiedene Branchen, Abteilungen, Teams, Positionen und alle in verschiedenen Unternehmen, schulden wir den unglaublichen Kundinnen und Kunden, die einen ihrer Lieblingsberichte geteilt haben, ein riesiges Dankeschön. Einige Berichte sind einfach (aber unglaublich nützlich) und einige sind komplexer, um Ihre Berichterstellung auf die nächste Ebene zu bringen.
 
 
 
