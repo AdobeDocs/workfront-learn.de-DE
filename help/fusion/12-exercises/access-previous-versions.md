@@ -1,6 +1,6 @@
 ---
-title: Auf frühere Versionen zugreifen
-description: Erfahren Sie, wie Sie zu einer früheren Version eines [!UICONTROL Fusion] Szenario.
+title: Übung zum Zugriff auf frühere Versionen
+description: Erfahren Sie, wie Sie zu einer früheren Version eines [!UICONTROL Fusion]-Szenarios zurückkehren können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,13 +12,13 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# Auf frühere Versionen zugreifen
+# Übung zum Zugriff auf frühere Versionen
 
 Erfahren Sie, wie Sie zu einer früheren Version eines Szenarios zurückkehren können.
 
