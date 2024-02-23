@@ -12,9 +12,9 @@ exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 67%
 
 ## Übersicht
 
-Mit dem Szenario &quot;Einführung in die Iteration&quot;, das Sie in der letzten exemplarischen Vorgehensweise erstellt haben, aggregieren Sie die geplanten Stunden für jede Arbeitsaufgabe im Projekt und senden Sie sich eine E-Mail mit diesen Informationen.
+Mit dem Szenario „Einführung in die Iteration“, das Sie in der letzten exemplarischen Vorgehensweise erstellt haben, aggregieren Sie die geplanten Stunden für jede Arbeitsaufgabe im Projekt und senden Sie sich eine E-Mail mit diesen Informationen zu.
 
 ![Ein Bild des Fusion-Szenarios](assets/iteration-and-aggregation-2.png)
 
