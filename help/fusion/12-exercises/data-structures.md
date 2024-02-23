@@ -1,5 +1,5 @@
 ---
-title: Datenstruktur-Übung
+title: Übung zu Datenstrukturen
 description: Wandeln Sie Daten aus einer Quelldatei in eine Zieldatei um. (Sollte zwischen 60 und 160 Zeichen lang sein, ist jedoch 58 Zeichen lang)
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11054.png
 recommendations: noDisplay,noCatalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1079'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Datenstruktur-Übung
+# Übung zu Datenstrukturen
 
 Wandeln Sie Daten aus einer Quelldatei in eine Zieldatei um.
 
