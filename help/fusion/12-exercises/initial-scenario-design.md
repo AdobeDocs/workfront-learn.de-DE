@@ -1,5 +1,5 @@
 ---
-title: Initialszenario
+title: Übung zu ursprünglichem Szenario-Design
 description: Hier erhalten Sie einige grundlegende Navigationstipps für die erste Anmeldung bei Workfront Fusion sowie die Erstellung Ihres ersten Szenarios.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11038.png
 recommendations: noDisplay,noCatalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '983'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Initialszenario
+# Übung zu ursprünglichem Szenario-Design
 
 Hier erhalten Sie einige grundlegende Navigationstipps für die erste Anmeldung bei Workfront Fusion sowie die Erstellung Ihres ersten Szenarios.
 
