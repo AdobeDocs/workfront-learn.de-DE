@@ -1,5 +1,5 @@
 ---
-title: Routerübungen
+title: Übung zu Routern
 description: Machen Sie sich mit der Wichtigkeit von Routern vertraut und erfahren Sie, wie sie zur bedingten Verarbeitung verschiedener Module verwendet werden können.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11043.png
 recommendations: noDisplay,noCatalog
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '755'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Routerübungen
+# Übung zu Routern
 
 Machen Sie sich mit der Wichtigkeit von Routern vertraut und erfahren Sie, wie sie zur bedingten Verarbeitung verschiedener Module verwendet werden können.
 
