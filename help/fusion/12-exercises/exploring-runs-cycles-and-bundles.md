@@ -1,5 +1,5 @@
 ---
-title: Übungen zu Läufen, Zyklen und Bundles
+title: Übung zum Kennenlernen von Durchläufen, Zyklen und Bündeln
 description: Erfahren Sie, wie sich Durchläufe, Zyklen und Bündel verhalten und den Ausführungsverlauf eines Szenarios nutzen.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Übungen zu Läufen, Zyklen und Bundles
+# Übung zum Kennenlernen von Durchläufen, Zyklen und Bündeln
 
 Erfahren Sie, wie sich Durchläufe, Zyklen und Bündel verhalten und den Ausführungsverlauf eines Szenarios nutzen.
 
