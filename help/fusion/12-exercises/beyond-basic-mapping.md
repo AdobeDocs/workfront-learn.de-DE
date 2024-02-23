@@ -1,5 +1,5 @@
 ---
-title: Über die grundlegende Mapping-Übung hinaus
+title: Übung zu Aspekten über die grundlegende Zuordnung hinaus
 description: Erfahren Sie, wie Sie Felder, die an ein Modul gesendet werden, mit den Formeln des Zuordnungsfelds bearbeiten und konvertieren können.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11039.png
 recommendations: noDisplay,noCatalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Über die grundlegende Mapping-Übung hinaus
+# Übung zu Aspekten über die grundlegende Zuordnung hinaus
 
 Erfahren Sie, wie Sie Felder, die an ein Modul gesendet werden, mit den Formeln des Zuordnungsfelds bearbeiten und konvertieren können.
 
