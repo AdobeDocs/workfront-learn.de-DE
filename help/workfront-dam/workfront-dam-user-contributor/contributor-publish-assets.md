@@ -1,5 +1,5 @@
 ---
-title: Veröffentlichen von Assets in [!UICONTROL Brand Connect]
+title: Veröffentlichen von Assets als Mitwirkende
 description: Erfahren Sie, wie Sie Assets und Ordner in [!UICONTROL Brand Connect] in [!UICONTROL Workfront DAM] veröffentlichen.
 activity: use
 feature: Digital Content and Documents
@@ -10,27 +10,27 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 60%
 
 ---
 
-# Mitwirkende: Assets veröffentlichen
+# Veröffentlichen von Assets als Mitwirkende
 
 ## Vorbereiten der Veröffentlichung von Assets
 
-Das Veröffentlichen eines Assets oder Ordners in [!UICONTROL Brand Connect] bietet einer größeren Zielgruppe die Möglichkeit, auf genehmigte Assets zuzugreifen. Möglicherweise haben viele Personen in Ihrer Organisation keinen Zugriff auf [!UICONTROL Workfront DAM], aber Zugriff auf [!UICONTROL Brand Connect].
+Das Veröffentlichen eines Assets oder Ordners in [!UICONTROL Brand Connect] bietet einer größeren Zielgruppe die Möglichkeit, auf genehmigte Assets zuzugreifen. Es ist möglich, dass viele Mitarbeiter in Ihrer Organisation keinen Zugriff auf [!UICONTROL WORKFRONT DAM] , erhält jedoch Zugriff auf [!UICONTROL Brand Connect].
 
-Assets sollten erst dann veröffentlicht werden, wenn sie endgültig sind. Beispielsweise sollten Sie keinen groben Entwurf einer Broschüre in [!UICONTROL Brand Connect] veröffentlichen, da sie sonst verteilt werden könnte, bevor sie fertiggestellt ist.
+Assets sollten erst veröffentlicht werden, wenn sie endgültig sind. Sie möchten beispielsweise keinen groben Entwurf einer Broschüre in [!UICONTROL Brand Connect], andernfalls könnte sie verteilt werden, bevor sie fertig gestellt ist.
 
 Bevor Sie ein Asset in [!UICONTROL Brand Connect] veröffentlichen, sollten Sie einige der folgenden Schritte ausführen:
 
 * Platzieren Sie ein Asset in einem bestimmten Ordner.
-* Bearbeiten Sie die Metadaten und Schlüsselwörter eines Assets.
+* Bearbeiten Sie die Metadaten und Keywords eines Assets.
 * Laden Sie eine neue Version eines Assets hoch.
-* Legen Sie den Status eines Assets oder Ordners auf [!UICONTROL Aktiv] fest.
+* Status eines Assets oder Ordners festlegen [!UICONTROL Aktiv].
 * Vergewissern Sie sich, dass das Asset nicht abgelaufen ist.
 * Überwachen Sie das Asset, damit Sie Benachrichtigungen erhalten, wenn Änderungen daran vorgenommen werden.
 

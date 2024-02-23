@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu Lightboxes in [!UICONTROL Workfront DAM]
+title: Grundlegendes zu Lightboxes als Mitwirkende
 description: Erfahren Sie, wie Sie in [!UICONTROL Workfront DAM] Lightboxes erstellen und verwenden.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '139'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '142'
+ht-degree: 91%
 
 ---
 
-# Mitwirkende: Lightboxes
+# Grundlegendes zu Lightboxes als Mitwirkende
 
 In diesem Video lernen Sie Folgendes:
 
@@ -31,6 +31,6 @@ In diesem Video lernen Sie Folgendes:
 
 ## Ordner im Vergleich zu Lightboxes
 
-Ordner werden zum Speichern und Organisieren von Assets verwendet. Der Zugriff auf Assets wird anhand von Ordnern gewährt. Es ist möglich, dass es mehr Ordner in [!UICONTROL Workfront DAM] gibt, als Sie sehen.
+Ordner werden zum Speichern und Organisieren von Assets verwendet. Der Zugriff auf Assets wird anhand von Ordnern gewährt. Es ist möglich, dass weitere Ordner in [!UICONTROL WORKFRONT DAM] als Sie sehen.
 
 Lightboxes sind ein Tool in [!UICONTROL Workfront DAM], das Sie verwenden können, um die Assets, die Sie benötigen, zu sammeln und zu organisieren. Sie können eine einzelne Lightbox für sich selbst erstellen oder eine Lightbox für jede Aufgabe erstellen, an der Sie arbeiten. Sie sehen nur die von Ihnen erstellten Lightboxes, es sei denn, eine andere Person gibt eine Lightbox für Sie frei oder lädt Sie ein, zusammen an einer Lightbox zu arbeiten.

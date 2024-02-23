@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 97%
 
 ---
@@ -24,9 +24,9 @@ ht-degree: 97%
 >
 >Voraussetzungen:
 >
->* Grundlegendes zu Reporting-Elementen
->* Grundlegendes zu Reporting-Komponenten
->* Erstellen einer einfachen Gruppierung
+>* [Grundlegendes zu Reporting-Elementen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=de)
+>* [Grundlegendes zu Reporting-Komponenten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=de)
+>* [Eine einfache Gruppierung erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=de)
 
 >[!TIP]
 >

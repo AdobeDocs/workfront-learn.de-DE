@@ -1,6 +1,6 @@
 ---
-title: Suchen und Organisieren von Assets in [!UICONTROL Workfront DAM]
-description: Erfahren Sie, wie Sie in [!UICONTROL Workfront DAM] nach Assets suchen, in Ordnern suchen, Suchergebnisse optimieren, Metadaten und Schlüsselwörter als Suchfilter verwenden und vieles mehr erledigen.
+title: Grundlegendes zur Asset-Suche als Mitwirkende
+description: Erfahren Sie, wie Sie nach Assets suchen, in Ordnern suchen, Suchergebnisse optimieren, Metadaten und Keywords als Suchfilter in [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
-# Mitwirkende: Suchen nach Assets
+# Grundlegendes zur Asset-Suche als Mitwirkende
 
 In diesem Video lernen Sie Folgendes:
 
@@ -34,7 +34,7 @@ In diesem Video lernen Sie Folgendes:
 
 Bei einer einfachen Suche wird nach Dateinamen, Metadatenfeldern, Schlüsselwörter und Asset-Inhalt (je nach Asset-Typ) gesucht. Der Ordnername wird nicht einbezogen.
 
-Die meisten Suchergebnisse sind exakte Treffer. Eine Ausnahme von dieser Regel für exakte Treffer besteht, wenn [!UICONTROL Workfront DAM] das Dateinamenfeld durchsucht. [!UICONTROL Workfront DAM] gibt eine teilweise Übereinstimmung mit dem Dateinamen zurück, anstatt nur exakte Treffer für den Dateinamen.
+Die meisten Suchergebnisse sind exakte Treffer. Eine Ausnahme von dieser &quot;exakten Übereinstimmung&quot;-Regel ist, wenn die Variable [!UICONTROL WORKFRONT DAM] durchsucht das Dateinamenfeld. [!UICONTROL Workfront DAM] gibt eine teilweise Übereinstimmung mit dem Dateinamen zurück, anstatt nur exakte Treffer für den Dateinamen.
 
 ## Verwenden von Operatoren beim Suchen
 
@@ -58,8 +58,8 @@ Schließen Sie die Wörter in doppelte Anführungszeichen ein, um einen genauen 
 
 ### Negativer Operator
 
-Wenn Sie ein Wort aus den Suchergebnissen ausschließen möchten, setzen Sie ein Minuszeichen (-) vor das Wort. Achten Sie darauf, dass zwischen dem Minuszeichen und dem Wort kein Leerzeichen steht. Um beispielsweise Assets auszuschließen, die in den Metadaten das Wort „Turm“ enthalten, können Sie Ihre Suche als „Paris -Turm“ festlegen.
+Wenn Sie ein Wort aus den Suchergebnissen ausschließen möchten, setzen Sie ein Minuszeichen (-) vor das Wort. Achten Sie darauf, dass sich zwischen dem Minuszeichen und dem Wort kein Leerzeichen befindet. Um z. B. Assets auszuschließen, die das Wort „Turm“ in den Metadaten enthalten, könnte Ihre Suche „Paris -Turm“ lauten.
 
 ### Operator für leere Felder
 
-Um nach Assets zu suchen, die in einem bestimmten Metadatenfeld keine Informationen enthalten, geben Sie das Feld, das Sie suchen möchten, in diesem Format ein: ?[xxxxx]. Wenn Sie beispielsweise Assets suchen möchten, denen keine Schlüsselwörter zugewiesen sind, geben Sie „?[Schlüsselwort]“ im Suchfeld ein.
+Um nach Assets zu suchen, die in einem bestimmten Metadatenfeld keine Informationen enthalten, geben Sie das Feld, das Sie suchen möchten, in diesem Format ein: ?[xxxxx]. Wenn Sie beispielsweise nach Assets suchen möchten, denen keine Schlüsselwörter zugewiesen sind, geben Sie „?“ ein[Schlüsselwort]“ im Suchfeld ein.

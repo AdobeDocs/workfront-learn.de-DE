@@ -1,5 +1,5 @@
 ---
-title: Arbeiten mit Assets in [!UICONTROL Workfront DAM]
+title: Arbeiten mit Assets als Mitwirkende
 description: Erfahren Sie, wie Sie in [!UICONTROL Workfront DAM] mit Assets arbeiten können.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8995
 doc-type: video
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '50'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
 
-# Mitwirkende: Arbeit mit Assets
+# Arbeiten mit Assets als Mitwirkende
 
 In diesem Video lernen Sie Folgendes:
 
