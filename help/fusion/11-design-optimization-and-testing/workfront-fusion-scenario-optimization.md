@@ -12,15 +12,15 @@ exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '160'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 # Szenario-Optimierung in Workfront Fusion
 
-Was ist &quot;Szenariooptimierung&quot; und was können Sie tun, um Ihre Szenarien zu optimieren?
+Was ist die „Szenario-Optimierung“ und was können Sie tun, um Ihre Szenarien zu optimieren?
 
 Die Szenario-Optimierung ist eine Fähigkeit, deren Entwicklung Zeit und Hingabe erfordert. Ihr erster Versuch, ein Szenario für ein Geschäftsergebnis zu erstellen, sollte nicht Ihr letzter bleiben. Die Szenarien sollten vom ersten Tag an bis zum Beginn der Integration wiederholt werden. Selbst nach dem Start sollten Szenarien überprüft und während ihrer gesamten Lebensdauer aktualisiert werden, um mit Unternehmens- und Verhaltensänderungen Schritt zu halten.
 
