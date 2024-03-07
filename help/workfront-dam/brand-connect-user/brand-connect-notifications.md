@@ -1,5 +1,5 @@
 ---
-title: Brand Connect-Benachrichtigungen verstehen
+title: Grundlegendes zu Brand Connect-Benachrichtigungen
 description: Erfahren Sie, wie Sie in Brand Connect In-App-Benachrichtigungen anzeigen, Ihre Benachrichtigungseinstellungen ändern und ein [!UICONTROL Workfront DAM]-Adressbuch erstellen.
 activity: use
 feature: Digital Content and Documents
@@ -11,13 +11,13 @@ jira: KT-8988
 exl-id: a7f79d27-c9e1-4a27-9757-a3bf6299b794
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# Brand Connect-Benachrichtigungen verstehen
+# Grundlegendes zu Brand Connect-Benachrichtigungen
 
 In diesem Video lernen Sie Folgendes:
 

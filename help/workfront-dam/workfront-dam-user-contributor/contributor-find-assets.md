@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zur Asset-Suche als Mitwirkende
-description: Erfahren Sie, wie Sie nach Assets suchen, in Ordnern suchen, Suchergebnisse optimieren, Metadaten und Keywords als Suchfilter in [!UICONTROL WORKFRONT DAM].
+description: Erfahren Sie, wie Sie in [!UICONTROL Workfront DAM] nach Assets suchen, in Ordnern suchen, Suchergebnisse optimieren sowie Metadaten und Schlüsselwörter als Suchfilter verwenden.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ In diesem Video lernen Sie Folgendes:
 
 Bei einer einfachen Suche wird nach Dateinamen, Metadatenfeldern, Schlüsselwörter und Asset-Inhalt (je nach Asset-Typ) gesucht. Der Ordnername wird nicht einbezogen.
 
-Die meisten Suchergebnisse sind exakte Treffer. Eine Ausnahme von dieser &quot;exakten Übereinstimmung&quot;-Regel ist, wenn die Variable [!UICONTROL WORKFRONT DAM] durchsucht das Dateinamenfeld. [!UICONTROL Workfront DAM] gibt eine teilweise Übereinstimmung mit dem Dateinamen zurück, anstatt nur exakte Treffer für den Dateinamen.
+Die meisten Suchergebnisse sind exakte Treffer. Eine Ausnahme von dieser Regel für „exakte Treffer“ besteht, wenn [!UICONTROL Workfront DAM] das Dateinamenfeld durchsucht. [!UICONTROL Workfront DAM] gibt eine teilweise Übereinstimmung mit dem Dateinamen zurück, anstatt nur exakte Treffer für den Dateinamen.
 
 ## Verwenden von Operatoren beim Suchen
 

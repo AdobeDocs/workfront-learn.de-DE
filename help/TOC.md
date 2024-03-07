@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2405'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -269,7 +269,7 @@ ht-degree: 99%
       + [Reifegrad des Ressouren-Managements](manage-resources/resource-management/resource-management-maturity.md)
       + [Einstellungen des Ressourcen-Managements für Projekte](manage-resources/resource-management/settings-for-projects.md)
       + [Ressourcen-Management-Einstellungen für Benutzende](manage-resources/resource-management/settings-for-users.md)
-      + [Ressourcen-Mgmt-Setups, Workload-Balancer und Nutzungsprotokoll](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [Setups des Ressourcen-Managements, Workload Balancer und Nutzungsbericht](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + Workload-Balancer {#workload-balancer}
       + [Suchen des Workload Balancer](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -558,7 +558,7 @@ ht-degree: 99%
       + [Grundlegendes zur Asset-Verwaltung als Mitwirkende](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Grundlegendes zur Asset-Suche als Mitwirkende](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Grundlegendes zu Lightboxes als Mitwirkende](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [Best Practices für Metadaten und Keywords](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [Best Practices für Metadaten und Schlüsselwörter](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Arbeiten mit Assets als Mitwirkende](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Senden von Dateien als Mitwirkende](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Veröffentlichen von Assets als Mitwirkende](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -638,7 +638,7 @@ ht-degree: 99%
    + [Systemleistung und -wartung](best-practices/system-performance-maintenance-bp.md)
    + [Erstellen von Textmodusberichten](best-practices/test-mode-reporting-bp.md)
    + [Planen und Verwalten von Zeitleisten](best-practices/timeline-planning-management-bp.md)
-   + [Timesheets und Protokollierungszeit](best-practices/timesheets-logging-time-bp.md)
+   + [Arbeitszeittabellen und Protokollierungszeit](best-practices/timesheets-logging-time-bp.md)
    + [Nutzung](best-practices/utilization-bp.md)
    + [Workfront-Ziele](best-practices/workfront-goals-bp.md)
    + [Workload-Balancer](best-practices/workload-balancer-bp.md)

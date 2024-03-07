@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Jetzt können Sie einen Link zum [!UICONTROL Workfront DAM]-Element [!DNL Workfr
    ![Ein Bild der Option [!UICONTROL Aus Workfront DAM] im Dropdown-Menü [!UICONTROL Neu hinzufügen] ](assets/01-contributor-from-workfront-dam.png)
 1. Im Fenster wird eine Liste der Dateien und Ordner angezeigt, auf die Sie in [!UICONTROL Workfront DAM] zugreifen können.
 
-1. Suchen Sie das Asset, nach dem Sie suchen, und aktivieren Sie das Kontrollkästchen daneben. Die Standardansicht ist eine Liste, Sie können jedoch mit den Symbolen oben rechts im Fenster zu einer Miniaturansicht wechseln.
+1. Suchen Sie nach dem gewünschten Asset und markieren Sie das Kontrollkästchen daneben. Die Standardansicht ist eine Liste, Sie können jedoch mit den Symbolen oben rechts im Fenster zu einer Miniaturansicht wechseln.
 
    ![Ein Bild ausgewählter Assets in einem Popup-Fenster](assets/02-contributor-select-files-in-dam.png)
 

@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '446'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -39,11 +39,11 @@ Bevor Sie sich diese Tutorials ansehen, sollten Sie über Folgendes verfügen:
 * Ein gutes Verständnis der Objekte, die Sie in Berichte aufnehmen möchten.
 * Ein gutes Verständnis für die Verwendung benutzerdefinierter Formulare, insbesondere berechneter benutzerdefinierter Felder.
 * Den Lizenztyp [!UICONTROL Planen] mit aktivierten Berechtigungen zum Erstellen von Berichten und Filtern.
-* Sie hätten diese Kurse absolvieren sollen:
-   * [[!UICONTROL Grundlegende Berichterstellungselemente]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=de)
-   * [[!UICONTROL Benutzerdefinierte Berichte und Dashboards erstellen]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=de)
+* Sie sollten diese Kurse durchgearbeitet haben:
+   * [[!UICONTROL Grundlegende Reporting-Elemente]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=de)
+   * [[!UICONTROL Erstellen von benutzerdefinierten Berichten und Dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=de)
    * [[!UICONTROL Erstellen von Zwischenfiltern]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=de)
-* Sie hätten auch diese Tutorials absolvieren sollen:
+* Sie sollten auch diese Tutorials bereits angesehen haben:
    * [[!UICONTROL Grundlegendes zum Textmodus für Ansichten]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=de)
    * [[!UICONTROL Grundlegendes zum Textmodus für Gruppierungen]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=de)
 

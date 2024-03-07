@@ -11,9 +11,9 @@ jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 60%
 
 ## Vorbereiten der Veröffentlichung von Assets
 
-Das Veröffentlichen eines Assets oder Ordners in [!UICONTROL Brand Connect] bietet einer größeren Zielgruppe die Möglichkeit, auf genehmigte Assets zuzugreifen. Es ist möglich, dass viele Mitarbeiter in Ihrer Organisation keinen Zugriff auf [!UICONTROL WORKFRONT DAM] , erhält jedoch Zugriff auf [!UICONTROL Brand Connect].
+Das Veröffentlichen eines Assets oder Ordners in [!UICONTROL Brand Connect] bietet einer größeren Zielgruppe die Möglichkeit, auf genehmigte Assets zuzugreifen. Möglicherweise haben viele Personen in Ihrer Organisation keinen Zugriff auf [!UICONTROL Workfront DAM], aber Zugriff auf [!UICONTROL Brand Connect].
 
-Assets sollten erst veröffentlicht werden, wenn sie endgültig sind. Sie möchten beispielsweise keinen groben Entwurf einer Broschüre in [!UICONTROL Brand Connect], andernfalls könnte sie verteilt werden, bevor sie fertig gestellt ist.
+Assets sollten erst dann veröffentlicht werden, wenn sie endgültig sind. Beispielsweise sollten Sie keinen groben Entwurf einer Broschüre in [!UICONTROL Brand Connect] veröffentlichen, da dieser sonst verteilt werden könnte, bevor sie fertiggestellt ist.
 
 Bevor Sie ein Asset in [!UICONTROL Brand Connect] veröffentlichen, sollten Sie einige der folgenden Schritte ausführen:
 
 * Platzieren Sie ein Asset in einem bestimmten Ordner.
-* Bearbeiten Sie die Metadaten und Keywords eines Assets.
+* Bearbeiten Sie die Metadaten und Schlüsselwörter eines Assets.
 * Laden Sie eine neue Version eines Assets hoch.
-* Status eines Assets oder Ordners festlegen [!UICONTROL Aktiv].
+* Legen Sie den Status eines Assets oder Ordners auf [!UICONTROL Aktiv] fest.
 * Vergewissern Sie sich, dass das Asset nicht abgelaufen ist.
 * Überwachen Sie das Asset, damit Sie Benachrichtigungen erhalten, wenn Änderungen daran vorgenommen werden.
 

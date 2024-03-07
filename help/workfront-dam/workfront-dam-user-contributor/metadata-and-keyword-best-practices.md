@@ -1,5 +1,5 @@
 ---
-title: Best Practices für Metadaten und Keywords
+title: Best Practices für Metadaten und Schlüsselwörter
 description: Erfahren Sie, wie Sie mithilfe von Metadaten und Schlüsselwörtern in [!UICONTROL Workfront DAM] Assets beschreiben und die Durchsuchbarkeit Ihrer Unternehmens-Assets verbessern können.
 activity: use
 team: Technical Marketing
@@ -10,21 +10,21 @@ level: Beginner
 jira: KT-10107
 exl-id: ad5a19a7-556a-4b38-9cc4-7e29e5afe1de
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '579'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Best Practices für Metadaten und Keywords
+# Best Practices für Metadaten und Schlüsselwörter
 
 ## Best Practices für Metadaten
 
 Metadaten sind alle Daten, die zur Beschreibung eines Assets verwendet werden. Metadatenfelder haben einen Namen, und Benutzende können die Informationen in vielen dieser Felder bearbeiten oder ändern. Einige Metadatenfelder werden von der Anwendung oder dem Gerät, von dem das Asset stammt, ausgefüllt und können nicht bearbeitet werden.
 
-Die Verwendung konsistenter Metadaten verbessert die Suchbarkeit der Assets Ihres Unternehmens. Außerdem behalten die aus [!UICONTROL Workfront DAM] heruntergeladenen Assets ihre Metadaten, was eine weitere Schutzschicht für Ihre Assets darstellt, wenn sie [!UICONTROL Workfront DAM] verlassen.
+Die Verwendung einheitlicher Metadaten verbessert die Durchsuchbarkeit Ihrer Unternehmens-Assets. Außerdem behalten die aus [!UICONTROL Workfront DAM] heruntergeladenen Assets ihre Metadaten, was eine weitere Schutzschicht für Ihre Assets darstellt, wenn sie [!UICONTROL Workfront DAM] verlassen.
 
-Im Folgenden finden Sie einige Best Practices, die Ihnen bei den Metadatenbemühungen Ihres Unternehmens helfen:
+Im Folgenden finden Sie einige Best Practices, die Ihr Unternehmen bei den Bemühungen um Metadaten unterstützen können:
 
 * Fügen Sie zu Ihren Assets zur Identifizierung außerhalb von [!UICONTROL Workfront DAM] immer Eigentums- oder Credit-Informationen hinzu.
 * Fügen Sie Nutzungsbedingungen für rechtsverwaltete Assets hinzu, um Missbrauch zu verhindern.
@@ -36,7 +36,7 @@ Im Folgenden finden Sie einige Best Practices, die Ihnen bei den Metadatenbemüh
 
 ## Metadatenstrategie
 
-Ihr Unternehmen hat wahrscheinlich eine Metadatenstrategie entwickelt. Wenn Sie Assets in hochladen [!UICONTROL WORKFRONT DAM]sollten Sie sich mit dem Prozess Ihres Unternehmens in Bezug auf Folgendes vertraut machen:
+Ihr Unternehmen hat wahrscheinlich eine Metadatenstrategie entwickelt. Wenn Sie Assets auf [!UICONTROL Workfront DAM] hochladen, sollten Sie sich über die folgenden Prozesse in Ihrem Unternehmen informieren:
 
 * Wer ist für das Hinzufügen von Metadaten zuständig?
 * Welche Metadaten sind erforderlich?
@@ -48,7 +48,7 @@ Ihr Unternehmen hat wahrscheinlich eine Metadatenstrategie entwickelt. Wenn Sie 
 
 Schlüsselwörter sind eine Teilmenge der Metadaten. Schlüsselwörter sind in der Regel allgemeine, beschreibende Begriffe zum Inhalt des Assets. Diese Informationen werden dem Asset hinzugefügt, häufig manuell nach dem Hochladen. Alle Schlüsselwörter werden in ein Feld (mit der Bezeichnung „Schlüsselwörter“) eingegeben. Ein Foto des Eiffelturms in Paris kann zum Beispiel Schlüsselwörter wie Wahrzeichen, Tourismus oder Lichter enthalten.
 
-Suchbegriffe sind durchsuchbar. Daher ist es wichtig, dass Suchbegriffe in Assets konsistent eingegeben werden.
+Da Schlüsselwörter durchsuchbar sind, ist es wichtig, dass sie auf konsistente Weise in die Assets eingegeben werden.
 
 Ihr Unternehmen kann eine Schlüsselwort-Taxonomie implementieren, d. h. eine kontrollierte Liste von Schlüsselwörtern, aus der Sie bei der Bearbeitung eines Assets in [!UICONTROL Workfront DAM] auswählen können.
 

@@ -11,9 +11,9 @@ jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '460'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -38,8 +38,8 @@ Ein Teil Ihres Arbeitsablaufs kann die Verwaltung mehrerer Versionen – oder Ru
 
 Das System ermöglicht eine automatische Asset-Versionskontrolle, wenn eine Datei mit dem Namen einer bereits bestehenden Datei in denselben Ordner hochgeladen wird. Wenden Sie sich an Ihre Systemadmins, um zu prüfen, ob diese Funktion aktiviert wurde.
 
-Wenn die automatische Versionskontrolle aktiviert ist, wird ein Asset nur dann in die Version geladen, wenn es in den Ordner geladen wird, der das Original-Asset enthält. Beide Assets müssen denselben Dateinamen haben. Wenn das Asset in einen anderen Ordner geladen wird, wird das Asset als neue Datei eingefügt.
-Wenn die Versionskontrolle nicht aktiviert ist, wird eine Datei mit demselben Namen wie eine vorhandene Datei als neue Datei hochgeladen, unabhängig davon, in welchem Ordner sie gespeichert ist. Dies kann dazu führen, dass sich zwei Assets mit demselben Namen im selben Ordner befinden.
+Wenn die automatische Versionskontrolle aktiviert ist, wird ein Asset nur dann versioniert, wenn es in den Ordner mit dem Original-Asset geladen wird. Beide Assets müssen denselben Dateinamen haben. Wenn das Asset in einen anderen Ordner geladen wird, wird das Asset als neue Datei eingefügt.
+Wenn die Versionskontrolle nicht aktiviert ist, wird eine Datei mit dem Namen einer bereits vorhandenen Datei als neue Datei hochgeladen, unabhängig davon, in welchem Ordner sie abgelegt ist. Dies kann dazu führen, dass sich zwei Assets mit demselben Namen im selben Ordner befinden.
 
 Sie können auch manuell Versionen eines bestimmten Assets hochladen. Klicken Sie auf das Bearbeitungssymbol für das Asset und wählen Sie **[!UICONTROL Neue Version hochladen]**.
 
