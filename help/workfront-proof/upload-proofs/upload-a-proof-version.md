@@ -11,10 +11,10 @@ thumbnail: 336096.png
 jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
+workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 
 ## Hochladen einer Version aus dem Proofing-Viewer
 
-Wenn Sie einen Korrekturabzug im Proofing-Viewer geöffnet haben, können Sie direkt über das Menü „Version“ mit dem Hochladen einer Version beginnen. Klicken Sie auf den Link [!UICONTROL Neue Version], der direkt zur Seite [!UICONTROL Neue Version hochladen] führt, und schließen Sie den Upload ab.
+Wenn Sie einen Korrekturabzug im Proofing-Viewer geöffnet haben, können Sie direkt über das Menü „Version“ mit dem Hochladen einer Version beginnen. Klicken Sie auf [!UICONTROL Neue Version] Link, der direkt zum &quot;[!UICONTROL eine neue Version hochladen]&quot;und schließen Sie den Upload ab.
 
 ![Ein Bild des Proofing-Viewers mit dem erweiterten Versionsmenü in der linken oberen Ecke und dem hervorgehobenen Link [!UICONTROL Neue Version].](assets/upload-version-from-viewer.png)
 
@@ -37,9 +37,9 @@ Wenn Sie einen Korrekturabzug im Proofing-Viewer geöffnet haben, können Sie di
 
 >[!IMPORTANT]
 >
->Vergessen Sie nicht, Ihre Kolleginnen und Kollegen daran zu erinnern, dass Sie ihnen im Rahmen Ihrer Workfront-Schulung einen Korrekturabzug schicken.
+>Vergessen Sie nicht, Ihre Mitarbeitenden daran zu erinnern, Ihnen im Rahmen Ihrer Workfront-Schulung einen Korrekturabzug zu schicken.
 
-Suchen Sie einen Korrekturabzug, den Sie in Workfront hochgeladen haben. Laden Sie eine neue Version dieses Korrekturabzugs hoch, weisen Sie eine neue Workflow-Vorlage zu oder nehmen Sie Änderungen am bestehenden Workflow vor.
+Suchen Sie einen Testversand, den Sie in Workfront hochgeladen haben. Laden Sie eine neue Version dieses Korrekturabzugs hoch, weisen Sie eine neue Workflow-Vorlage zu oder nehmen Sie Änderungen am bestehenden Workflow vor.
 
 <!--
 ### Learn more 
