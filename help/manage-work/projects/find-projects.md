@@ -1,6 +1,6 @@
 ---
 title: Suchen von Projekten
-description: Hier erfahren Sie, wie Sie schnell und einfach Projekte finden.
+description: Erfahren Sie, wie Sie schnell und einfach Projekte suchen.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
@@ -13,15 +13,15 @@ jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
 source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '27'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
 # Suchen von Projekten
 
-In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte finden können.
+In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte suchen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on)
 

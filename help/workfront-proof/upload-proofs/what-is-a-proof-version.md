@@ -1,6 +1,6 @@
 ---
 title: Was ist eine Korrekturabzugsversion?
-description: Erfahren Sie, wie Sie mithilfe der Workfront-Testfunktionen den Prüfungs- und Genehmigungsprozess für mehrere Iterationen einer Datei verwalten können.
+description: Entdecken Sie, wie Versionen Ihnen dabei helfen, mit den Proofing-Funktionen von Workfront den Überprüfungs- und Genehmigungsprozess über mehrere Iterationen einer Datei hinweg zu verwalten.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -11,20 +11,20 @@ thumbnail: what-is-a-proof-version.png
 jira: KT-10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
 source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
 # Was ist eine Korrekturabzugsversion?
 
-Die Testing-Funktionen von Workfront helfen Ihrem Unternehmen bei der Verwaltung des Prüfungs- und Genehmigungsprozesses für mehrere Iterationen einer Datei mithilfe von Versionen.
+Die Proofing-Funktionen von Workfront helfen Ihrem Unternehmen dabei, mithilfe von Versionen den Überprüfungs- und Genehmigungsprozess über mehrere Iterationen einer Datei zu verwalten.
 
-Eine grundlegende Definition einer Version ist eine überarbeitete Kopie eines Korrekturabzugs. So wurde beispielsweise das Design für den Stand Ihres Unternehmens auf der Benutzerkonferenz unter Verwendung der Testfunktionen von Workfront erstmals überprüft und genehmigt. Die Korrekturen wurden vorgenommen, und die aktualisierte Datei steht zur Überprüfung bereit.
+Eine grundlegende Definition einer Version ist eine überarbeitete Kopie eines Korrekturabzugs. Beispiel: Das Design für den Stand Ihres Unternehmens auf der Benutzerkonferenz hat den ersten Überprüfungs- und Genehmigungsprozess mit den Proofing-Funktionen von Workfront durchlaufen. Die Korrekturen wurden vorgenommen, und die aktualisierte Datei steht zur Überprüfung bereit.
 
 Die neue Datei kann Workfront als Version der Originaldatei hinzugefügt werden.
 
-Dadurch wird die Version auf der Originaldatei &quot;gestapelt&quot;, wobei ein Verlauf der Revisionen beibehalten wird und gleichzeitig sichergestellt wird, dass Sie die neueste Iteration der Arbeit anzeigen. Mit dem Testversand-Viewer von Workfront können Sie auch die neueste Version mit einer früheren Dateiversion vergleichen.
+Dadurch wird die Version über der Originaldatei „gestapelt“, sodass der Überarbeitungsverlauf erhalten bleibt und gleichzeitig sichergestellt wird, dass Sie die neueste Iteration der Arbeit sehen. Im Proofing-Viewer von Workfront können Sie auch die neueste Version mit einer früheren Version der Datei vergleichen.
 
-Beginnen wir mit der Überprüfung und dem Vergleich von Testversandversionen.
+Beginnen wir mit der Überprüfung und dem Vergleich von Korrekturabzugsversionen.
