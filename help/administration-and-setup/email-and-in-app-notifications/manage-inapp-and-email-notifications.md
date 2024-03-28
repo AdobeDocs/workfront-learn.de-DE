@@ -12,7 +12,7 @@ thumbnail: 10095.jpeg
 jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 100%
 
@@ -94,7 +94,7 @@ Insbesondere für Projekt-Managerinnen und -Manager:
 * [!UICONTROL Ein Projekt, an dem ich mitarbeite, ist jetzt aktiv]
 * [!UICONTROL Ein Projekt, das in meinem Besitz ist, ist in Verzug geraten]
 * [!UICONTROL Ein Problem wird einem Projekt in meinem Besitz hinzugefügt]
-* [!UICONTROL Eine Meilensteinaufgabe für ein Projekt, für das ich verantwortlich bin, ist abgeschlossen]
+* [!UICONTROL Meilensteinaufgabe ist für ein Projekt, für das ich verantwortlich bin, abgeschlossen]
 
 
 <!---
