@@ -1,5 +1,5 @@
 ---
-title: Überblick über Portfolios
+title: Portfolios verstehen
 description: Erfahren Sie, welche Portfolios es in Workfront gibt und wie sie Ihnen dabei helfen können, Projekte zu priorisieren und sie miteinander zu vergleichen.
 activity: use
 team: Technical Marketing
@@ -7,18 +7,18 @@ feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 100%
+source-wordcount: '585'
+ht-degree: 74%
 
 ---
 
-# Überblick über Portfolios
+# Portfolios verstehen
 
 Führungskräfte haben oft die schwierige Aufgabe, zu ermitteln, welche Projekte am besten dafür geeignet wären, die Ziele des Unternehmens zu erreichen. Das bedeutet, ein aktuelles oder potenzielles Projekt anhand von Kriterien zu beurteilen, die für diese Ziele wichtig sind. Diese Kriterien können Dinge wie die Anzahl der benötigten Ressourcen, die Höhe der Kosten im Vergleich zu den Einnahmen des Projekts und/oder die Anzahl der mit dem Projekt verbundenen Risiken umfassen. Mit diesen Informationen können Führungskräfte entscheiden, welche Projekte durchgeführt werden sollten und wann.
 
@@ -51,6 +51,26 @@ Wenn ein Portfolio erstellt wird, hat nur die Person Zugriff darauf, die das Por
 Öffnen Sie das Portfolio, klicken Sie auf das Menü mit den drei Punkten und wählen Sie dann **[!UICONTROL Freigeben]** aus. Fügen Sie die Personen, Teams, Aufgabengebiete, Gruppen oder Unternehmen hinzu, die Zugriff haben sollten. Bestimmen Sie dann, welche Zugriffsart jeweils vergeben werden soll – „Verwalten“ oder „Anzeigen“.
 
 ![Ein Bild der Option [!UICONTROL Freigeben] in einem [!DNL Workfront]Portfolio](assets/04-portfolio-management11.png)
+
+## Erstellen eines Portfolios
+
+Um ein Portfolio zu erstellen, klicken Sie auf **[!UICONTROL Portfolios]** im Hauptmenü.
+
+![Ein Bild des Hauptmenüs ](assets/create-portfolio-1.png)
+
+Klicken Sie im Bereich Portfolios auf **[!UICONTROL Neues Portfolio]**.
+
+![Ein Bild des Bildbereichs &quot;Portfolios&quot; ](assets/create-portfolio-2.png)
+
+Benennen Sie das Portfolio und klicken Sie auf **[!UICONTROL Neues Projekt]** , um ein Projekt zum Portfolio hinzuzufügen. Sie können ein neues Projekt auf verschiedene Weise erstellen, genau wie Sie es über die **[!UICONTROL Projekte]** Bereich. Jedes neue Projekt, das Sie von hier aus erstellen, gehört zu diesem Portfolio. Sie können auch auf **[!UICONTROL Vorhandenes Projekt]** , um ein vorhandenes Projekt(e) aus einer Liste auszuwählen.
+
+![Ein Bild des neuen Projektmenüs ](assets/create-portfolio-3.png)
+
+## Erstellen eines Programms in einem Portfolio
+
+Wählen Sie die **[!UICONTROL Programme]** Registerkarte und klicken Sie dann auf **[!UICONTROL Neues Programm]** , um ein neues Programm in diesem Portfolio zu erstellen, oder klicken Sie auf **[!UICONTROL Bestehendes Programm]** bestehende Programme aus anderen Portfolios zu stehlen.
+
+![Ein Bild des neuen Programmmenüs ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

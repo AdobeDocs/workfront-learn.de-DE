@@ -3,10 +3,10 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '2405'
-ht-degree: 100%
+source-wordcount: '2404'
+ht-degree: 99%
 
 ---
 
@@ -153,7 +153,7 @@ ht-degree: 100%
       + [Antworten auf häufig gestellte Fragen zu Anfrage-Warteschlangen](manage-work/request-queues/request-queue-faq.md)
 
    + Portfolios {#portfolios}
-      + [Überblick über Portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Portfolios verstehen](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Grundlegendes zum [!UICONTROL Business-Case]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Verwenden des [!UICONTROL Portfolio-Optimizers], um Prioritäten zu setzen und Arbeit zu verwalten](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -242,7 +242,7 @@ ht-degree: 100%
    + Erweiterte Analyse {#enhanced-analytics}
       + [Ein Moment mit dem Produkt für die [!UICONTROL erweiterte Analyse]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Erste Schritte mit der [!UICONTROL erweiterten Analyse]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Hinzufügen von [!UICONTROL Analysen] zu Layout-Vorlagen](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [Zugriff [!UICONTROL Verbesserte Analytics]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Grundlegendes zur einfachen Navigation](reporting/enhanced-analytics/4-basic-navigation.md)
       + [Grundlegendes zu Arbeits- und Personendiagrammen](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [Grundlegendes zu Filtern](reporting/enhanced-analytics/6-filters-overview.md)
