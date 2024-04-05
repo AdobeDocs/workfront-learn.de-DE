@@ -7,14 +7,15 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '453'
-ht-degree: 100%
+source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+workflow-type: tm+mt
+source-wordcount: '454'
+ht-degree: 91%
 
 ---
 
@@ -45,10 +46,10 @@ Die Projektseite ist mit vielen Funktionen ausgestattet, die Ihnen bei der Verwa
 8. **[!UICONTROL Zustand]:** Der [!UICONTROL Zustand] ist eine visuelle Darstellung des Projektfortschritts. [!DNL Workfront] kann den [!UICONTROL Zustand] automatisch auf Grundlage des Fortschrittsstatus der Aufgaben im Projekt konfigurieren. Der [!UICONTROL Zustand] kann auch manuell über die Projektdetails eingestellt werden.
 9. **[!UICONTROL Status]:** Der [!UICONTROL Status] zeigt an, wo sich das Projekt im Prozess befindet: Ist das Projekt noch in der Planung, wird es bearbeitet oder ist die gesamte Arbeit im Projekt abgeschlossen.
 10. **[!UICONTROL Neue Aufgabe]:** Klicken Sie auf diese Option, um eine neue Aufgabe im Projekt zu erstellen. Die Aufgabe wird am Ende der Liste generiert.
-11. **[!UICONTROL Exportieren]:** Exportiert den Projektplan in eine PDF-, Tabellenkalkulations- oder tabulatorgetrennte Datei.
+11. **[!UICONTROL Export]:** Exportieren Sie die Aufgabenliste oder die ausgewählten Aufgaben in eine PDF-, Tabellen- oder tabulatorgetrennte Datei.
 12. **Menü des linken Bedienfelds**: Über das linke Bedienfeld können Sie zu verschiedenen Projektinformationen navigieren. Klicken Sie auf das Symbol, um das Fenster zu verkleinern, wenn Sie etwas mehr Platz auf Ihrem Bildschirm benötigen. Ziehen Sie die Symbole per Drag-and-Drop so, dass Ihnen die Reihenfolge ein effizientes Arbeiten ermöglicht. Die Ihnen angezeigten Optionen werden von Ihren [!DNL Workfront] Systemadmins festgelegt.
 13. **Aufgabenliste:** Die Aufgabenliste zeigt alle Aufgaben an, aus denen sich Ihr Projektplan zusammensetzt. Die für jede Aufgabe angezeigten Informationen werden durch die ausgewählte Ansicht bestimmt.
-14. **Bedienfeld „Zusammenfassung“:** Klicken Sie auf das Symbol, um das Bedienfeld „Zusammenfassung“ zu öffnen oder zu schließen, das einen schnellen Überblick über die Informationen zur ausgewählten Aufgabe bietet.
+14. **Zusammenfassungsbereich:** Im Zusammenfassungsfenster erhalten Sie einen schnellen Überblick über Informationen zur ausgewählten Aufgabe. Klicken Sie auf das Symbol, um es zu öffnen oder zu schließen.
 
 <!---
 learn more:
