@@ -12,10 +12,10 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 91%
+source-wordcount: '475'
+ht-degree: 87%
 
 ---
 
@@ -34,7 +34,7 @@ In diesem Video lernen Sie Folgendes:
 
 Die Projektseite ist mit vielen Funktionen ausgestattet, die Ihnen bei der Verwaltung Ihrer Arbeit helfen. Wenden Sie sich an Ihre Systemadmins, wenn Sie eine Option benötigen, die in Ihrer [!DNL Workfront]-Instanz nicht sichtbar ist. Hier sind einige der wichtigsten Funktionen der Projektseite, die Sie sich merken sollten.
 
-![Projektseite](assets/project-page-graphic-for-planner.png)
+![Screenshot der Projektseite](assets/project-page-graphic-for-planner-v2.png)
 
 1. **Breadcrumb-Pfad:** Navigieren Sie durch die Programm- und Portfoliohierarchie hinter dem Projekt.
 2. **Objekttyp:** Die Anzeige des Objekttyps auf der Anmeldeseite hilft Ihnen zu erkennen, was Sie in [!DNL Workfront] sehen. Der Begriff „Projekt“ kann von Ihren [!DNL Workfront] Systemadmins angepasst werden.
@@ -50,10 +50,5 @@ Die Projektseite ist mit vielen Funktionen ausgestattet, die Ihnen bei der Verwa
 12. **Menü des linken Bedienfelds**: Über das linke Bedienfeld können Sie zu verschiedenen Projektinformationen navigieren. Klicken Sie auf das Symbol, um das Fenster zu verkleinern, wenn Sie etwas mehr Platz auf Ihrem Bildschirm benötigen. Ziehen Sie die Symbole per Drag-and-Drop so, dass Ihnen die Reihenfolge ein effizientes Arbeiten ermöglicht. Die Ihnen angezeigten Optionen werden von Ihren [!DNL Workfront] Systemadmins festgelegt.
 13. **Aufgabenliste:** Die Aufgabenliste zeigt alle Aufgaben an, aus denen sich Ihr Projektplan zusammensetzt. Die für jede Aufgabe angezeigten Informationen werden durch die ausgewählte Ansicht bestimmt.
 14. **Zusammenfassungsbereich:** Im Zusammenfassungsfenster erhalten Sie einen schnellen Überblick über Informationen zur ausgewählten Aufgabe. Klicken Sie auf das Symbol, um es zu öffnen oder zu schließen.
+15. **Weitere Aufgaben hinzufügen** Klicken Sie hier , um mithilfe der Inline-Bearbeitung am unteren Rand der Aufgabenliste eine weitere Aufgabe hinzuzufügen.
 
-<!---
-learn more:
-simplified left navigation
-edit projects
-new toolbar for lists
---->
