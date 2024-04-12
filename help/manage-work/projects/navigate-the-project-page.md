@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 87%
+ht-degree: 95%
 
 ---
 
@@ -46,10 +46,10 @@ Die Projektseite ist mit vielen Funktionen ausgestattet, die Ihnen bei der Verwa
 8. **[!UICONTROL Zustand]:** Der [!UICONTROL Zustand] ist eine visuelle Darstellung des Projektfortschritts. [!DNL Workfront] kann den [!UICONTROL Zustand] automatisch auf Grundlage des Fortschrittsstatus der Aufgaben im Projekt konfigurieren. Der [!UICONTROL Zustand] kann auch manuell über die Projektdetails eingestellt werden.
 9. **[!UICONTROL Status]:** Der [!UICONTROL Status] zeigt an, wo sich das Projekt im Prozess befindet: Ist das Projekt noch in der Planung, wird es bearbeitet oder ist die gesamte Arbeit im Projekt abgeschlossen.
 10. **[!UICONTROL Neue Aufgabe]:** Klicken Sie auf diese Option, um eine neue Aufgabe im Projekt zu erstellen. Die Aufgabe wird am Ende der Liste generiert.
-11. **[!UICONTROL Export]:** Exportieren Sie die Aufgabenliste oder die ausgewählten Aufgaben in eine durch PDF, Tabelle oder Tabulatoren getrennte Datei.
+11. **[!UICONTROL Exportieren]:** Exportieren Sie die Aufgabenliste oder ausgewählte Aufgaben in eine PDF-, Tabellenkalkulations- oder tabulatorgetrennte Datei.
 12. **Menü des linken Bedienfelds**: Über das linke Bedienfeld können Sie zu verschiedenen Projektinformationen navigieren. Klicken Sie auf das Symbol, um das Fenster zu verkleinern, wenn Sie etwas mehr Platz auf Ihrem Bildschirm benötigen. Ziehen Sie die Symbole per Drag-and-Drop so, dass Ihnen die Reihenfolge ein effizientes Arbeiten ermöglicht. Die Ihnen angezeigten Optionen werden von Ihren [!DNL Workfront] Systemadmins festgelegt.
 13. **Aufgabenliste:** Die Aufgabenliste zeigt alle Aufgaben an, aus denen sich Ihr Projektplan zusammensetzt. Die für jede Aufgabe angezeigten Informationen werden durch die ausgewählte Ansicht bestimmt.
-14. **Bedienfeld Zusammenfassung:** Das Bedienfeld Zusammenfassung bietet einen schnellen Einblick in Informationen zur ausgewählten Aufgabe. Klicken Sie auf das Symbol, um es zu öffnen oder zu schließen.
-15. **Weitere Aufgaben hinzufügen** Klicken Sie hier, um mithilfe der Inline-Bearbeitung eine weitere Aufgabe am Ende der Aufgabenliste hinzuzufügen.
+14. **Zusammenfassungsfeld:** Das Zusammenfassungsfeld bietet einen schnellen Überblick über Informationen zur ausgewählten Aufgabe. Klicken Sie zum Öffnen oder Schließen auf das Symbol.
+15. **Weitere Aufgaben hinzufügen** Klicken Sie hier , um mithilfe der Inline-Bearbeitung am unteren Rand der Aufgabenliste eine weitere Aufgabe hinzuzufügen.
 
 
