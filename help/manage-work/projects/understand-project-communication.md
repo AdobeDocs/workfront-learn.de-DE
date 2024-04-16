@@ -9,12 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-05-05T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 79%
 
 ---
 
@@ -35,3 +36,10 @@ In diesem Video erfahren Sie, wie Sie mit allen Projekt-Stakeholdern kommunizier
 >Um den im Video gezeigten Bericht zur Notizensuche zu erstellen, sehen Sie sich die Aktivität im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=de) an.
 >
 >Um den Bericht zur Notizensuche zu Ihrem Projektbedienfeld hinzuzufügen, sehen Sie sich die Aktivität im Tutorial [Erstellen von Dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=de) an.
+
+## Empfohlene Tutorials zu diesem Thema
+
+* [Erste Schritte bei der Projektverwaltung](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Projekte suchen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Projekt freigeben](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [Grundlegendes zum Projektteam](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)

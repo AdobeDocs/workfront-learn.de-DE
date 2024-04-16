@@ -8,12 +8,13 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '1223'
-ht-degree: 100%
+source-wordcount: '1252'
+ht-degree: 97%
 
 ---
 
@@ -127,3 +128,10 @@ Keine Sorge, Sie müssen nicht bei jedem Projekt, das Sie in [!DNL  Workfront] e
    So gibt es beispielsweise Personen, die zwar Zugang zu dem Projekt haben, aber die Finanzinformationen nicht sehen sollten. So können Sie die Option „Finanzen anzeigen“ für sie deaktivieren.
 
    Die Zugriffseinstellungen können in der Vorlage festgelegt werden.
+
+## Empfohlene Tutorials zu diesem Thema
+
+* [Grundlegendes zur Projekterstellung](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [Navigieren zur Projektseite](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Vier Möglichkeiten zum Erstellen eines Projekts](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Erste Schritte bei der Projektplanung](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)

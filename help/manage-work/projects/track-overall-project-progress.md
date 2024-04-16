@@ -8,12 +8,13 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '203'
-ht-degree: 100%
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '231'
+ht-degree: 87%
 
 ---
 
@@ -38,7 +39,13 @@ Der [!UICONTROL Projektzustand] wird als der „Gesundheitszustand des Projektze
 >Ob der Projektzustand automatisch durch [!DNL Workfront] oder manuell von einer Person mit Verwaltungsrechten für das Projekt definiert wird, wird von der Einstellung [!UICONTROL Zustandstyp] im Abschnitt [!UICONTROL Übersicht] der Seite [!UICONTROL Projektdetails] gesteuert.
 
 <!---
-learn more urls
 Project percent complete overview
 Overview of project condition and condition type
 --->
+
+## Empfohlene Tutorials zu diesem Thema
+
+* [Erste Schritte bei der Projektverwaltung](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Verstehen Sie die [!UICONTROL Gantt] Ansicht](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Verstehen Sie die [!UICONTROL Board] Ansicht](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
