@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 72%
+ht-degree: 77%
 
 ---
 
@@ -51,7 +51,7 @@ Die Projektseite ist mit vielen Funktionen ausgestattet, die Ihnen bei der Verwa
 12. **Menü des linken Bedienfelds**: Über das linke Bedienfeld können Sie zu verschiedenen Projektinformationen navigieren. Klicken Sie oben auf das Symbol Aufgabe , um das Bedienfeld zu reduzieren, wenn Sie etwas mehr Platz auf dem Bildschirm benötigen. Ziehen Sie die Symbole per Drag-and-Drop so, dass Ihnen die Reihenfolge ein effizientes Arbeiten ermöglicht. Die Ihnen angezeigten Optionen werden von Ihren [!DNL Workfront] Systemadmins festgelegt.
 13. **Aufgabenliste:** Die Aufgabenliste zeigt alle Aufgaben an, aus denen sich Ihr Projektplan zusammensetzt. Die für jede Aufgabe angezeigten Informationen werden durch die ausgewählte Ansicht bestimmt.
 14. **Zusammenfassungsfeld:** Das Zusammenfassungsfeld bietet einen schnellen Überblick über Informationen zur ausgewählten Aufgabe. Klicken Sie auf das Symbol für das Sammelfenster, um es zu öffnen oder zu schließen.
-15. **Weitere Aufgaben hinzufügen** Klicken Sie hier , um mithilfe der Inline-Bearbeitung am unteren Rand der Aufgabenliste eine weitere Aufgabe hinzuzufügen.
+15. **Weitere Aufgaben hinzufügen** Klicken Sie hier, um mithilfe der Inline-Bearbeitung eine weitere Aufgabe unten in der Aufgabenliste hinzuzufügen.
 
 ## Empfohlene Tutorials zu diesem Thema
 
