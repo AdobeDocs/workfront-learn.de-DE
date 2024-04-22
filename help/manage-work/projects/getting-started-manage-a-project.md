@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-04-22T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 87%
+source-wordcount: '211'
+ht-degree: 77%
 
 ---
 
@@ -41,7 +42,7 @@ Unabhängig davon, wie Sie ein Projekt verwalten, können Sie:
 * Mit Ihren Interessengruppen kommunizieren.
 * Die Siege auf dem Weg feiern.
 
-Letztlich besteht Ihre Hauptaufgabe darin, das Projekt zum erfolgreichen Abschluss zu bringen. [!DNL Workfront] kann Ihnen dabei helfen, die geleistete Arbeit über die Projektzeitleiste zu überwachen, Filter, Ansichten und Gruppierungen, Aktualisierungen und Berichte zu verwenden … und vieles mehr.
+Letztlich besteht Ihre Hauptaufgabe darin, das Projekt zum erfolgreichen Abschluss zu bringen. Adobe Workfront kann Ihnen dabei helfen, die geleistete Arbeit über die Timeline des Projekts zu überwachen, Filter, Ansichten und Gruppierungen, Aktualisierungen, Berichte ... und mehr.
 
 <!---
 learn more urls
