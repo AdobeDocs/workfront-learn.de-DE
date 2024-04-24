@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 60%
+ht-degree: 72%
 
 ---
 
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Projekt live stellen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [Projekte suchen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Projekt freigeben](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Grundlegendes zum Projektteam](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [Projektkommunikation verstehen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [Live-Schalten eines Projekts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
+* [Suchen von Projekten](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Freigeben eines Projekts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [Informationen zum Projekt-Team](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [Grundlegendes zur Projektkommunikation](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
