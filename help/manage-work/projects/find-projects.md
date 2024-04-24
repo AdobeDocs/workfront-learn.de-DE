@@ -14,9 +14,9 @@ jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte suchen.
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erste Schritte bei der Projektverwaltung](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Projekt freigeben](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Grundlegendes zum Projektteam](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [Projektkommunikation verstehen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [Erste Schritte bei der Projektverwaltung](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Freigeben eines Projekts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [Informationen zum Projekt-Team](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [Grundlegendes zur Projektkommunikation](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)

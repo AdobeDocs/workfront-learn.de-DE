@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Weitere Informationen finden Sie online im Artikel [Erste Schritte mit dem Gantt
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erste Schritte bei der Projektverwaltung](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Gesamten Projektfortschritt verfolgen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Verstehen Sie die [!UICONTROL Board] Ansicht](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Erste Schritte bei der Projektverwaltung](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Nachverfolgen des gesamten Projektfortschritts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
+* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Grundlegendes zur [!UICONTROL Pinnwand]-Ansicht](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

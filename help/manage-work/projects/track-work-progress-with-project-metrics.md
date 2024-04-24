@@ -13,9 +13,9 @@ jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -34,8 +34,8 @@ Sie können das gesamte Dashboard der Projektmetriken mit der Schaltfläche [!UI
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erste Schritte bei der Projektverwaltung](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Gesamten Projektfortschritt verfolgen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Verstehen Sie die [!UICONTROL Gantt] Ansicht](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
-* [Verstehen Sie die [!UICONTROL Board] Ansicht](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Erste Schritte bei der Projektverwaltung](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Nachverfolgen des gesamten Projektfortschritts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
+* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Grundlegendes zur [!UICONTROL Gantt]-Ansicht](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Verstehen der [!UICONTROL Pinnwand]-Ansicht](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
