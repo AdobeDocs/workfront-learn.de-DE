@@ -11,22 +11,22 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
-workflow-type: ht
-source-wordcount: '152'
+exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '151'
 ht-degree: 100%
 
 ---
 
 # Erstellen einer Feedback-Anfrage-Warteschlange für Systemadmins
 
->[!IMPORTANT]
->
->Voraussetzungen:
+>[!PREREQUISITES]
 >
 >* [Erstellen einer Anfrage-Warteschlange](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=de)
 >* [Erstellen eines Anfrageflusses](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=de)
 >* Oder Sie können bereits eine Anfrage-Warteschlange erstellen, die eine Routing-Regel und ein benutzerdefiniertes Formular verwendet.
+
 
 In diesem Video lernen Sie Folgendes:
 
