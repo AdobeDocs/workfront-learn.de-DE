@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte bei der Projektverwaltung
-description: Erfahren Sie, wie Sie den Projektfortschritt überwachen, im Drilldown-Verfahren Aufgabendetails anzeigen und mit Interessenträgern kommunizieren können.
+description: Erfahren Sie, wie Sie den Projektfortschritt überwachen, zum Anzeigen von Aufgabendetails Drilldowns durchführen und mit Stakeholdern kommunizieren.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -14,9 +14,9 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '213'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 72%
 In diesem Video lernen Sie Folgendes:
 
 * Überwachen des Projektfortschritts
-* Aufschlüsseln, um Aufgabendetails anzuzeigen
-* Kommunikation mit Interessengruppen
+* Durchführen von Drilldowns zum Anzeigen von Aufgabendetails
+* Kommunizieren mit Stakeholdern
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
@@ -43,7 +43,7 @@ Unabhängig davon, wie Sie ein Projekt verwalten, können Sie:
 * Mit Ihren Interessengruppen kommunizieren.
 * Die Siege auf dem Weg feiern.
 
-Letztlich besteht Ihre Hauptaufgabe darin, das Projekt zum erfolgreichen Abschluss zu bringen. Adobe Workfront kann Ihnen dabei helfen, die geleistete Arbeit über die Timeline des Projekts zu überwachen, Filter, Ansichten und Gruppierungen, Aktualisierungen, Berichte ... und mehr.
+Letztlich besteht Ihre Hauptaufgabe darin, das Projekt zum erfolgreichen Abschluss zu bringen. Adobe Workfront kann Ihnen dabei helfen, die geleistete Arbeit über die Projektzeitleiste zu überwachen, Filter, Ansichten, Gruppierungen, Aktualisierungen und Berichte zu verwenden … und vieles mehr.
 
 <!---
 learn more urls
