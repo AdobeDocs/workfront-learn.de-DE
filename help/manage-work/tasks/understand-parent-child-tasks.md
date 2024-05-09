@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu über- und untergeordneten Aufgaben
-description: Erfahren Sie, wie Aufgaben in einem  [!DNL  Workfront] -Projekt über eine Beziehung zwischen über- und untergeordneten Elementen strukturiert werden.
+description: Erfahren Sie, wie Aufgaben mithilfe einer übergeordneten/untergeordneten Beziehung in einem Workfront-Projekt strukturiert sind.
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 68%
 
 ---
 
@@ -26,18 +27,9 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)
 
+## Empfohlene Tutorials zu diesem Thema
 
-## Ändern einer Aufgabe in eine Unteraufgabe und Rückgängigmachen dieser Änderung
-
-Die Schaltflächen **Einrückung** und **Ausrückung** werden verwendet, um eine Aufgabe in eine Unteraufgabe oder von einer Unteraufgabe in eine Nicht-Unteraufgabe zu ändern.
-
-![Ein Bild der Schaltflächen „Einrückung“ und „Ausrückung.“](assets/indent-and-outdent.png)
-
-Wählen Sie „[!UICONTROL Watermark Design]“ aus, und klicken Sie auf die Schaltfläche **Einrückung**. „[!UICONTROL Watermark Design]“ wird zu einer Unteraufgabe unter „[!UICONTROL Conceptual Mockups]“, was zu einer übergeordneten Aufgabe wird.
-
-![Ein Bild der Verwendung der Schaltfläche „Einrückung.“](assets/indent.png)
-
-Wählen Sie „[!UICONTROL Watermark Design]“ aus, wenn es sich um eine Unteraufgabe handelt, und klicken Sie auf die Schaltfläche **Ausrückung**. „[!UICONTROL Watermark Design]“ wird zu einer Standardaufgabe auf der gleichen Ebene wie „[!UICONTROL Conceptual Mockups]“.
-
-![Ein Bild zur Verwendung der Schaltfläche „Ausrückung.“](assets/outdent.png)
+* [Erstellen von Aufgaben](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks)
+* [Arbeiten mit Aufgaben](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
+* [Zuweisen von Aufgaben aus dem Projektplan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
 

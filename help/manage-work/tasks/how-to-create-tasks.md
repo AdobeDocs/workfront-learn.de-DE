@@ -7,12 +7,13 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-05-15T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 100%
+source-wordcount: '61'
+ht-degree: 90%
 
 ---
 
@@ -24,3 +25,9 @@ In diesem Video lernen Sie Folgendes:
 * Einige praktische Tastaturbefehle zum Erstellen von Aufgaben
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)
+
+## Empfohlene Tutorials zu diesem Thema
+
+* [Grundlegendes zu über- und untergeordneten Aufgaben](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
+* [Arbeiten mit Aufgaben](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
+* [Zuweisen von Aufgaben aus dem Projektplan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
