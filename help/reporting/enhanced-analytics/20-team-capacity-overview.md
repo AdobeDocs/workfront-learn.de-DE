@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '390'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '385'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +42,7 @@ Im Diagramm sehen Sie Folgendes:
 
 1. Klicken Sie auf die Registerkarte [!UICONTROL Personen] im linken Bedienfeld.
 1. Verwenden Sie den [!UICONTROL Filter], um ein oder mehrere Stamm-Teams zu untersuchen.
-1. Das Team-Kapazitäts-Diagramm erscheint unter dem Diagramm zur [!UICONTROL Ressourcenkapazität].
+1. Daraufhin wird das Diagramm zur Teamkapazität angezeigt.
 
 ## Verwendung des Diagramms
 

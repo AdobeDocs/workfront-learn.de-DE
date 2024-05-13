@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '307'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ Wenn Sie in bestimmte Bereiche eines Diagramms klicken, werden zusätzliche Diag
 * **Projektaktivität** – Klicken Sie auf den Projektnamen, um das Diagramm zu erweitern und die Projektaktivität nach Benutzenden anzuzeigen.
 * **Projekt-Treemap** – Klicken Sie auf ein Projektfeld, um das Burndown und die Aufgaben in den Flugdiagrammen anzuzeigen.
 * **Aktivität nach Team** – Klicken Sie auf den Team-Namen, um das Diagramm zu erweitern und die Aktivität nach Benutzenden anzuzeigen.
-* **Ressourcenkapazität** – Klicken Sie auf den Team-Namen, um das Team-Kapazitäts-Diagramm anzuzeigen.
 
 ## Was bedeuten dunklere und hellere Farbtöne in Bezug auf die Team-Aktivität?
 
