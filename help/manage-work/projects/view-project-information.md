@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ In diesem Video erfahren Sie, wie Sie mit Filtern, Ansichten und Gruppierungen F
 
 * Informationen auf Projektebene
 * Informationen auf Aufgabenebene
-* Informationen auf Ausgabestufe
+* Informationen auf Problemebene
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
 
