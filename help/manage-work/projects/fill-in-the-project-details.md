@@ -11,9 +11,9 @@ level: Beginner
 recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '1252'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '1248'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Keine Sorge, Sie müssen nicht bei jedem Projekt, das Sie in [!DNL  Workfront] e
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Grundlegendes zur Projekterstellung](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [Navigieren der Projektseite](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
-* [Vier Möglichkeiten zum Erstellen eines Projekts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [Erste Schritte bei der Projektplanung](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)
+* [Grundlegendes zur Projekterstellung](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Navigieren der Projektseite](/help/manage-work/projects/navigate-the-project-page.md)
+* [Vier Möglichkeiten zum Erstellen eines Projekts](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Erste Schritte bei der Projektplanung](/help/manage-work/projects/getting-started-plan-a-project.md)

@@ -12,10 +12,10 @@ jira: KT-8776
 recommendations: noDisplay,noCatalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 92%
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ In diesem Video lernen Sie Folgendes:
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Lernen des Sequenzierens von Aufgaben](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [Grundlegendes zu geplanten Stunden](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [Wissenswertes über Arbeitsaufwand](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
+* [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)
 

@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '92'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ Weitere Informationen finden Sie online im Artikel [Erste Schritte mit dem Gantt
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erste Schritte bei der Projektverwaltung](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Nachverfolgen des gesamten Projektfortschritts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Grundlegendes zur [!UICONTROL Pinnwand]-Ansicht](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Erste Schritte bei der Projektverwaltung](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Nachverfolgen des gesamten Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
+* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Grundlegendes zur [!UICONTROL Pinnwand]-Ansicht](/help/manage-work/projects/understand-the-board-view.md)
