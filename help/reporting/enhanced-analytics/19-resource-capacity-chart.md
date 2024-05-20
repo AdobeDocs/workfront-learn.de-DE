@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zum Diagramm zur Ressourcenkapazität
-description: Diese Funktion wurde aus [!UICONTROL Verbesserte Analytics] zum 11. April 2024.
+description: Diese Funktion wurde zum 11. April 2024 aus der [!UICONTROL erweiterten Analyse] entfernt.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -13,13 +13,13 @@ hidefromtoc: true
 recommendations: noDisplay,noCatalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zum Diagramm zur Ressourcenkapazität
 
-Diese Funktion wurde aus [!UICONTROL Verbesserte Analytics] zum 11. April 2024.
+Diese Funktion wurde zum 11. April 2024 aus der [!UICONTROL erweiterten Analyse] entfernt.
 
