@@ -1,6 +1,6 @@
 ---
 title: Arbeiten mit Aufgaben
-description: Erfahren Sie, wie Sie bestehende Aufgaben bearbeiten, Aufgaben hinzufügen und löschen und die Aufgabenreihenfolge für ein Projekt in Workfront ändern.
+description: Erfahren Sie, wie Sie in Workfront bestehende Aufgaben bearbeiten, Aufgaben hinzufügen und löschen und die Aufgabenreihenfolge für ein Projekt ändern.
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
