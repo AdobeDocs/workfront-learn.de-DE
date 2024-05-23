@@ -13,19 +13,19 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 36%
+source-wordcount: '99'
+ht-degree: 35%
 
 ---
 
 # Zuweisen von Aufgaben aus dem Projektplan
 
-In diesem Video lernen Sie Folgendes:
+In diesem Video werden Sie:
 
-* Zuweisen einer Aufgabe mithilfe der Inline-Bearbeitung
-* So weisen Sie derselben Person mehrere Aufgaben zu
+* Erfahren Sie, wie Sie eine Aufgabe mithilfe der Inline-Bearbeitung zuweisen
+* Erfahren Sie, wie Sie derselben Person mehrere Aufgaben zuweisen.
 * den Wert von Auftragsrollen beim Zuweisen von Aufgaben verstehen
 * den Wert von Projektvorlagen beim Zuweisen von Aufgaben verstehen
 * Den Wert der Zuweisung von Aufgaben zu Teams verstehen
