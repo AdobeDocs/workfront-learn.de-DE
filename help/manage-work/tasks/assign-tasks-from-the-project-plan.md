@@ -1,6 +1,6 @@
 ---
 title: Zuweisen von Aufgaben aus dem Projektplan
-description: Erfahren Sie, wie Sie eine Benutzerin oder einen Benutzer mithilfe der Inline-Bearbeitung in einem  [!DNL  Workfront] -Projekt einer Aufgabe zuweisen können.
+description: Erfahren Sie, wie Sie Aufgaben in einem Adobe Workfront-Projekt mithilfe von Inline-Bearbeitung, Massenbearbeitung, Auftragsrollen und Teams zuweisen.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 36%
 
 ---
 
@@ -23,7 +24,11 @@ ht-degree: 100%
 
 In diesem Video lernen Sie Folgendes:
 
-* Zuweisung einer Benutzerin oder eines Benutzers zu einer Aufgabe mit Inline-Bearbeitung
+* Zuweisen einer Aufgabe mithilfe der Inline-Bearbeitung
+* So weisen Sie derselben Person mehrere Aufgaben zu
+* den Wert von Auftragsrollen beim Zuweisen von Aufgaben verstehen
+* den Wert von Projektvorlagen beim Zuweisen von Aufgaben verstehen
+* Den Wert der Zuweisung von Aufgaben zu Teams verstehen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
