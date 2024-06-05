@@ -1,6 +1,6 @@
 ---
 title: Zuweisen von Aufgaben aus dem Projektplan
-description: Erfahren Sie, wie Sie Aufgaben in einem Adobe Workfront-Projekt mithilfe von Inline-Bearbeitung, Massenbearbeitung, Auftragsrollen und Teams zuweisen.
+description: Erfahren Sie, wie Sie Aufgaben in einem Adobe Workfront-Projekt mithilfe von Inline-Bearbeitung, Massenbearbeitung, Aufgabengebieten und Teams zuweisen.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
 source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 35%
 
 In diesem Video werden Sie:
 
-* Erfahren Sie, wie Sie eine Aufgabe mithilfe der Inline-Bearbeitung zuweisen
-* Erfahren Sie, wie Sie derselben Person mehrere Aufgaben zuweisen.
-* den Wert von Auftragsrollen beim Zuweisen von Aufgaben verstehen
-* den Wert von Projektvorlagen beim Zuweisen von Aufgaben verstehen
-* Den Wert der Zuweisung von Aufgaben zu Teams verstehen
+* erfahren, wie Sie eine Aufgabe mithilfe der Inline-Bearbeitung zuweisen
+* erfahren, wie Sie derselben Person mehrere Aufgaben zuweisen
+* verstehen, wie wichtig Aufgabengebiete beim Zuweisen von Aufgaben sind
+* verstehen, wie wichtig Projektvorlagen beim Zuweisen von Aufgaben sind
+* verstehen, wie wichtig das Zuweisen von Aufgaben zu Teams ist
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
