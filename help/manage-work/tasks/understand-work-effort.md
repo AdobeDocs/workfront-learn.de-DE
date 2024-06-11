@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zum [!UICONTROL Arbeitsaufwand]
-description: Erfahren Sie, wie Sie [!UICONTROL Arbeitsaufwand] , um eine grobe Schätzung der geplanten Stunden in Ihrer Projekt-Timeline zu erhalten.
+description: Erfahren Sie, wie Sie die Funktion [!UICONTROL Arbeitsaufwand] verwenden können, um eine schnelle Schätzung der geplanten Stunden in Ihrem Projektzeitplan zu erhalten.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: 8a0c7dd171659460233379fb5f986d7b8341c6d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 47%
 
 In diesem Video lernen Sie Folgendes:
 
-* Was ist Arbeit und wie kann sie Ihnen bei der Verwaltung von Projekten helfen?
-* Nutzung der Arbeitsleistung
-* So erstellen Sie eine Aufgabenansicht für Arbeitsaufwand
+* Allgemeines über die Funktion „Arbeitsaufwand“ und wie sie Sie beim Verwalten von Projekten unterstützt
+* Verwenden der Funktion „Arbeitsaufwand“
+* Erstellen einer Aufgabenansicht für „Arbeitsaufwand“
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
 
