@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu geplanten Stunden
-description: Erfahren Sie, was geplante Stunden sind, warum geplante Stunden für Ihr Projekt wichtig sind und wie geplante Stunden zu Aufgaben hinzugefügt werden können.
+description: Erfahren Sie, was geplante Stunden sind, warum geplante Stunden für Ihr Projekt wichtig sind und wie geplante Stunden zu Aufgaben hinzugefügt werden.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 45%
+ht-degree: 70%
 
 ---
 

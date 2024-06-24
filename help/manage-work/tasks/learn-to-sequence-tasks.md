@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 76%
 
 In diesem Video lernen Sie Folgendes:
 
-* Was ein Vorgänger in Workfront ist
+* Beschreibung von Vorgängern in Workfront
 * Erstellen einer Zeitleiste mithilfe von Zeiträumen und Vorgängern
 * So sequenzieren Vorgänger Aufgaben in einem Projekt
-* Wie sich das Festlegen eines Aufgabenstartdatums auf die Aufgabenbegrenzung auswirkt
-* Eingabe von Vorgängern
+* Auswirkungen der Einrichtung eines Startdatums für Aufgaben auf die Aufgabenbeschränkung
+* Eingeben von Vorgängern
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
