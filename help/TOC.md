@@ -3,8 +3,8 @@ user-guide-description: Workfront-Tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
-workflow-type: ht
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
 source-wordcount: '2404'
 ht-degree: 100%
 
@@ -141,7 +141,6 @@ ht-degree: 100%
       + [Aktualisieren einer Anfrage](manage-work/issues-requests/update-a-request.md)
       + [Konvertieren eines Problems/einer Anfrage in ein Projekt](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Überprüfen und Genehmigen digitaler Arbeiten](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Problembericht](manage-work/issues-requests/report-on-issues.md)
 
    + Anfrage-Warteschlangen {#request-queues}
@@ -160,6 +159,7 @@ ht-degree: 100%
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
       + [Schaffung eines einmaligen Genehmigungsverfahrens](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Anhängen und Bearbeiten vorhandener Genehmigungsprozesse](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [Überprüfen und Genehmigen digitaler Arbeiten](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegieren von Aufgaben, Problemen und Genehmigungen](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Anwenden von Meilensteinen](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [Anzeigen von Meilensteinen](manage-work/approval-processes-and-milestone-paths/view-milestones.md)

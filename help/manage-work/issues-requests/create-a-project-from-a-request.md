@@ -9,11 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: ht
-source-wordcount: '416'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '431'
 ht-degree: 100%
 
 ---
@@ -58,3 +59,9 @@ Wenn Sie ein benutzerdefiniertes Formular in eine Projektvorlage aufnehmen, wird
 Um die Effizienz Ihrer Arbeit zu erhöhen und die Konvertierung von Problemen in einer schnelllebigen Umgebung zu vereinfachen, können Sie ein Problem in eine Aufgabe oder ein Projekt aus einer beliebigen Problemliste in einem Projekt, Bericht oder Dashboard konvertieren. Wählen Sie einfach ein Problem aus und klicken Sie dann auf das 3-Punkte-Menü, das angezeigt wird.
 
 ![Ein Bild eines Projektbildschirms mit Konvertierungsoptionen für Probleme](assets/convert-from-a-list.png)
+
+## Empfohlene Tutorials zu diesem Thema
+
+* [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Umgang mit ungeplanten Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
+

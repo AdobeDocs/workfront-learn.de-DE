@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
+recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -34,6 +35,11 @@ In diesem Video lernen Sie Folgendes:
 >
 >Dokumente, Korrekturabzüge und Arbeitselemente (Projekte, Aufgaben und Probleme), die genehmigt werden müssen, finden sich neben [!DNL Workfront Home] auch in Projekten und benutzerdefinierten Berichten.
 
+## Empfohlene Tutorials zu diesem Thema
+
+* [Schaffung eines einmaligen Genehmigungsverfahrens](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Anhängen und Bearbeiten vorhandener Genehmigungsprozesse](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [Delegieren von Aufgaben, Problemen und Genehmigungen](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!---

@@ -9,11 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -33,3 +34,12 @@ Sie erfahren, wie Sie folgende Stellen nach diesen Anfragen durchsuchen.
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
 
 Wenn Sie lernen möchten, wie man benutzerdefinierte Berichte erstellt und in ein Dashboard einfügt, besuchen Sie den Kurs [Erstellen von einfachen Berichten](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html?lang=de).
+
+## Empfohlene Tutorials zu diesem Thema
+
+* [Grundlegendes zu Anfragewarteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
+* [Anfrage stellen](/help/manage-work/issues-requests/make-a-request.md)
+* [Aktualisieren einer Anfrage](/help/manage-work/issues-requests/update-a-request.md)
+* [Konvertieren eines Problems/einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+
