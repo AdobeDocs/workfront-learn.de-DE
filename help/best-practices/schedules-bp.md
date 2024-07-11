@@ -6,16 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '536'
-ht-degree: 100%
+source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
+workflow-type: tm+mt
+source-wordcount: '554'
+ht-degree: 67%
 
 ---
 
 # Best Practice – Zeitpläne
 
-## Was ist eine Best Practice für Adobe Workfront?
+## Was ist eine „Best Practice“ für Adobe Workfront?
 
 Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
@@ -23,9 +23,9 @@ Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Pr
 
 ## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
+Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des „Warum“ vertraut zu machen.
 
-Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
+Die Frage „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
@@ -36,7 +36,10 @@ Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden
 
 * Die Gesamtarbeitszeit an jedem Arbeitstag des Zeitplans sollte der Anzahl der Stunden an einem Tag entsprechen, die in den globalen Projektvoreinstellungen angegeben sind.
 
-* Fügen Sie eine Erinnerung zum Kalender der Systemadmins von Adobe Workfront hinzu, um Zeitpläne jedes Jahr zu einem bestimmten Zeitpunkt zu aktualisieren.
+* Fügen Sie eine Erinnerung zum Kalender des Adobe Workfront-Systemadministrators hinzu, um Zeitpläne jedes Jahr zu einem bestimmten Zeitpunkt zu aktualisieren.
+
+
+Anweisungen zum Erstellen und Verwalten von Schemas finden Sie in der [Erstellen und Verwalten von Zeitplänen](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) Tutorial.
 
 </br>
 </br>
@@ -61,7 +64,7 @@ Separate Zeitpläne können erforderlich sein, wenn:
 
 * Sie Teilzeitmitarbeitende haben, die weniger als 40 Stunden pro Woche arbeiten.
 
-* die Mitarbeitenden keine standardmäßigen acht Stunden von Montag bis Freitag arbeiten, wie etwa Mitarbeitende, die nur am Wochenende oder vier 10-Stunden-Tage pro Woche arbeiten.
+* Die Arbeitnehmer arbeiten nicht die 8 Stunden am Tag, Montag bis Freitag, wie Wochenende oder diejenigen, die vier 10-Stunden-Tage arbeiten.
 
 </br>
 </br>
@@ -74,9 +77,9 @@ Die Gesamtarbeitszeit an jedem Arbeitstag des Zeitplans sollte der Anzahl der St
 
 **Das sind die Gründe**
 
-Wenn die Gesamtarbeitszeit nicht übereinstimmt, kann dies zu scheinbar falschen Datums- und Uhrzeitberechnungen in Ihrer Projektzeitleiste und Ihren Berichten führen.
+Wenn die Gesamtarbeitszeit nicht übereinstimmt, kann dies zu scheinbar falschen Datums- und Uhrzeitberechnungen in Ihrer Projekt-Timeline und Ihren Berichten führen.
 
-Wenn die Systemeinstellung beispielsweise acht Stunden pro Tag beträgt und der einem Projekt zugewiesene Zeitplan nur sieben Arbeitsstunden pro Tag umfasst, werden Sie feststellen, dass die Ausführung einer Aufgabe mit einer Dauer von einem Tag mehr als einen Tag in Anspruch nimmt, da versucht wird, die acht Stunden darin unterzubringen.
+Wenn die Systemeinstellung beispielsweise acht Stunden pro Tag beträgt und der einem Projekt zugewiesene Zeitplan nur sieben Arbeitsstunden pro Tag umfasst, werden Sie feststellen, dass die Ausführung einer Aufgabe mit einer Dauer von einem Tag mehr als einen Tag in Anspruch nimmt, da versucht wird, sie in die acht Stunden einzupassen.
 
 **Hinweis**: Die globalen Projekteinstellungen des Systems finden Sie unter „Setup“ > „Projekteinstellungen“ > „Zeitleistenberechnungen“ > „Typische Stunden pro Arbeitstag“.
 
@@ -86,8 +89,8 @@ Wenn die Systemeinstellung beispielsweise acht Stunden pro Tag beträgt und der 
 
 **Best Practice**
 
-Fügen Sie eine Erinnerung zum Kalender der Systemadmins von Adobe Workfront hinzu, um Zeitpläne jedes Jahr zu einem bestimmten Zeitpunkt zu aktualisieren.
+Fügen Sie eine Erinnerung zum Kalender des Adobe Workfront-Systemadministrators hinzu, um Zeitpläne jedes Jahr zu einem bestimmten Zeitpunkt zu aktualisieren.
 
 **Das sind die Gründe**
 
-Aktualisieren Sie die Zeitpläne in Ihrer Workfront-Instanz mit gesetzlichen Feiertagen, Unternehmensfeiertagen und anderen Tagen, an denen Benutzerinnen und Benutzer nicht arbeiten. Führen Sie dies jedes Jahr zu einem bestimmten Zeitpunkt durch, entweder am Ende des Jahres oder sobald die Feiertagspläne von der Personalabteilung bekannt gegeben werden, sodass Projekt-Timelines, Ressourcenplanung usw. die genaue Verfügbarkeit der Benutzenden wiedergeben.
+Aktualisieren Sie die Zeitpläne in Ihrer Workfront-Instanz mit nationalen Feiertagen, Firmenferien und anderen Tagen, an denen Benutzer nicht arbeiten. Führen Sie dies jedes Jahr zu einem bestimmten Zeitpunkt durch, entweder am Ende des Jahres oder sobald die Feiertagspläne von der Personalabteilung bekannt gegeben werden, sodass Projekt-Timelines, Ressourcenplanung usw. die genaue Verfügbarkeit der Benutzenden wiedergeben.
