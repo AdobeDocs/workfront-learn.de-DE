@@ -10,8 +10,8 @@ level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '320'
+workflow-type: tm+mt
+source-wordcount: '321'
 ht-degree: 100%
 
 ---
@@ -34,7 +34,7 @@ Ein Beispiel: Ein Team möchte die Projektrisiken anhand von Problemen verfolgen
 Die Problemtypen werden systemweit umbenannt, sodass die Änderung für alle Benutzenden gilt.
 
 1. Klicken Sie auf **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** im linken Menüfeld.
+1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** im linken Menübereich.
 1. Wählen Sie **[!UICONTROL Status]**.
 1. Wählen Sie die Registerkarte **[!UICONTROL Probleme]**.
 1. Stellen Sie sicher, dass das Menü oben rechts auf [!UICONTROL Systemstatus] eingestellt ist.

@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Finden von selbst eingereichten Anfragen
 * Aktualisieren Sie das Zusammenfassungsfenster
 * Anforderungsseite öffnen
-* Aktualisieren einer Anforderung im [!UICONTROL Updates] panel
+* Aktualisieren einer Anforderung im Bedienfeld [!UICONTROL Aktualisierungen]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 

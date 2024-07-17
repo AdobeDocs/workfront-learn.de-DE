@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 jira: KT-10030
 exl-id: c8f5677f-8d9d-4d1a-a1e3-d1a438878213
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ Sie können einen vorhandenen Status bearbeiten, um den Namen, die zugewiesenen 
 ![Problemstatusliste mit hervorgehobener Option [!UICONTROL Bearbeiten]](assets/admin-fund-edit-issue-status.png)
 
 1. Klicken Sie auf **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
+1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** im linken Menübereich.
 1. Wählen Sie **[!UICONTROL Status]**.
 1. Wählen Sie die Registerkarte **[!UICONTROL Probleme]** und vergewissern Sie sich, dass [!UICONTROL Systemstatus] in der oberen rechten Ecke angezeigt wird.
 1. Wählen Sie **[!UICONTROL Primäre Liste]**, um die Status für alle Problemtypen zu sehen. Hier können Sie einen Problemstatus erstellen oder ändern.

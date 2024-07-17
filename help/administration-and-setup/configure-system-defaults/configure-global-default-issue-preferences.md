@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ Diese Einstellungen steuern, was mit einem Problem passiert, wenn es in [!DNL Wo
 Voreinstellungen-Fenster ![[!UICONTROL Aufgaben und Probleme] mit hervorgehobenem Abschnitt [!UICONTROL Probleme]](assets/admin-fund-issue-prefs-converting.png)
 
 1. Klicken Sie auf **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
+1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
 1. Wählen Sie **[!UICONTROL Aufgaben und Probleme]**.
 1. Scrollen Sie zum Abschnitt **[!UICONTROL Probleme]**.
 1. Wählen Sie die gewünschten Optionen.
@@ -108,7 +108,7 @@ Bevor Sie diese Einstellungen ändern, besprechen Sie Anforderungen für Workflo
 Das Voreinstellungsfenster ![[!UICONTROL Aufgaben und Probleme], mit Hervorhebung des Abschnitts [!UICONTROL Wenn eine Person einem PROBLEM zugeteilt wird]](assets/admin-fund-issue-prefs-access-1.png)
 
 1. Klicken Sie auf **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
+1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
 1. Wählen Sie **[!UICONTROL Aufgaben und Probleme]** aus.
 1. Scrollen Sie zum Abschnitt **[!UICONTROL Zugriff]** und suchen Sie die Option „[!UICONTROL Wenn eine Person einem PROBLEM zugeteilt wird]“.
 1. Legen Sie den Freigabezugriff für das Problem selbst fest – [!UICONTROL Anzeigen], [!UICONTROL Mitwirken] oder [!UICONTROL Verwalten]. [!DNL Workfront] empfiehlt, die erweiterten Optionen unverändert zu lassen.

@@ -1,5 +1,5 @@
 ---
-title: Portfolios verstehen
+title: Grundlegendes zu Portfolios
 description: Erfahren Sie, welche Portfolios es in Workfront gibt und wie sie Ihnen dabei helfen können, Projekte zu priorisieren und sie miteinander zu vergleichen.
 activity: use
 team: Technical Marketing
@@ -14,11 +14,11 @@ exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
-# Portfolios verstehen
+# Grundlegendes zu Portfolios
 
 Führungskräfte haben oft die schwierige Aufgabe, zu ermitteln, welche Projekte am besten dafür geeignet wären, die Ziele des Unternehmens zu erreichen. Das bedeutet, ein aktuelles oder potenzielles Projekt anhand von Kriterien zu beurteilen, die für diese Ziele wichtig sind. Diese Kriterien können Dinge wie die Anzahl der benötigten Ressourcen, die Höhe der Kosten im Vergleich zu den Einnahmen des Projekts und/oder die Anzahl der mit dem Projekt verbundenen Risiken umfassen. Mit diesen Informationen können Führungskräfte entscheiden, welche Projekte durchgeführt werden sollten und wann.
 
@@ -52,25 +52,25 @@ Wenn ein Portfolio erstellt wird, hat nur die Person Zugriff darauf, die das Por
 
 ![Ein Bild der Option [!UICONTROL Freigeben] in einem [!DNL Workfront]Portfolio](assets/04-portfolio-management11.png)
 
-## Erstellen eines Portfolios
+## Erstellen von Portfolios
 
-Um ein Portfolio zu erstellen, klicken Sie auf **[!UICONTROL Portfolios]** im Hauptmenü.
+Um ein Portfolio zu erstellen, klicken Sie im Hauptmenü auf **[!UICONTROL Portfolios]**.
 
 ![Ein Bild des Hauptmenüs ](assets/create-portfolio-1.png)
 
-Klicken Sie im Bereich Portfolios auf **[!UICONTROL Neues Portfolio]**.
+Klicken Sie im Bereich „Portfolios“ auf **[!UICONTROL Neues Portfolio]**.
 
-![Ein Bild des Bildbereichs &quot;Portfolios&quot; ](assets/create-portfolio-2.png)
+![Ein Bild des Bereichs „Portfolios“ ](assets/create-portfolio-2.png)
 
-Benennen Sie das Portfolio und klicken Sie auf **[!UICONTROL Neues Projekt]** , um ein Projekt zum Portfolio hinzuzufügen. Sie können ein neues Projekt auf verschiedene Weise erstellen, genau wie Sie es über die **[!UICONTROL Projekte]** Bereich. Jedes neue Projekt, das Sie von hier aus erstellen, gehört zu diesem Portfolio. Sie können auch auf **[!UICONTROL Vorhandenes Projekt]** , um ein vorhandenes Projekt(e) aus einer Liste auszuwählen.
+Benennen Sie das Portfolio und klicken Sie auf **[!UICONTROL Neues Projekt]**, um dem Portfolio ein Projekt hinzuzufügen. Es gibt verschiedene Möglichkeiten, ein neues Projekt zu erstellen, ebenso wie Sie sie im Bereich **[!UICONTROL Projekte]** haben. Neue Projekte, die Sie hier erstellen, gehören zu diesem Portfolio. Sie können auch auf **[!UICONTROL Vorhandenes Projekt]** klicken, um bereits vorhandene Projekte aus einer Liste auszuwählen.
 
-![Ein Bild des neuen Projektmenüs ](assets/create-portfolio-3.png)
+![Ein Bild des Menüs „Neues Projekt“ ](assets/create-portfolio-3.png)
 
 ## Erstellen eines Programms in einem Portfolio
 
-Wählen Sie die **[!UICONTROL Programme]** Registerkarte und klicken Sie dann auf **[!UICONTROL Neues Programm]** , um ein neues Programm in diesem Portfolio zu erstellen, oder klicken Sie auf **[!UICONTROL Bestehendes Programm]** bestehende Programme aus anderen Portfolios zu stehlen.
+Wählen Sie die Registerkarte **[!UICONTROL Programme]** und klicken Sie auf **[!UICONTROL Neues Programm]**, um ein neues Programm in diesem Portfolio zu erstellen. Sie können auch auf **[!UICONTROL Vorhandenes Programm]** klicken, um vorhandene Programme aus anderen Portfolios zu stehlen.
 
-![Ein Bild des neuen Programmmenüs ](assets/create-portfolio-4.png)
+![Ein Bild des Menüs „Neues Programm“ ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

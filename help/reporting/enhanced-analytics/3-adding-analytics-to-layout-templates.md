@@ -1,6 +1,6 @@
 ---
-title: Zugriff [!UICONTROL Verbesserte Analytics]
-description: Erfahren Sie, wie System- und Gruppenadministratoren Zugriff gewähren auf [!UICONTROL Verbesserte Analytics] über eine Layout-Vorlage.
+title: Zugriff auf die [!UICONTROL erweiterte Analyse]
+description: Erfahren Sie, wie System- und Gruppenadmins über eine Layout-Vorlage Zugriff auf die [!UICONTROL erweiterte Analyse] gewähren.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -16,18 +16,18 @@ doc-type: video
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
 
-# Zugriff auf Enhanced Analytics
+# Zugriff auf die erweiterte Analyse
 
-Wie die meisten anderen Funktionen in Workfront greifen Sie auf [!UICONTROL Verbesserte Analytics] aus dem Hauptmenü. Aber [!UICONTROL Analytics] ist nicht standardmäßig im Hauptmenü.
+Ebenso wie bei den meisten anderen Funktionen in Workfront erfolgt der Zugriff auf die [!UICONTROL erweiterte Analyse] über das Hauptmenü. Die Option [!UICONTROL Analyse] ist jedoch nicht standardmäßig im Hauptmenü enthalten.
 
 ![Ein Bild des Hauptmenüs ](assets/analytics-on-main-menu.png)
 
-Wenn Sie ihn dort nicht sehen, muss er von Ihrem System- oder Gruppenadministrator für Sie hinzugefügt werden. Dies erfolgt in einer Layout-Vorlage. Im folgenden Video wird erläutert, wie.
+Falls die Option dort nicht angezeigt wird, muss sie von System- oder Gruppenadmins für Sie hinzugefügt werden. Dies erfolgt in einer Layout-Vorlage. Die Vorgehensweise wird im folgenden Video erklärt.
 
 
 ## Hinzufügen von Analytics zu Layout-Vorlagen

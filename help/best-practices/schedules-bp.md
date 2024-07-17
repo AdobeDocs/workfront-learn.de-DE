@@ -39,7 +39,7 @@ Die Frage „Warum sind das Best Practices?“ nach der Übersichtsliste finden 
 * Fügen Sie eine Erinnerung zum Kalender des Adobe Workfront-Systemadministrators hinzu, um Zeitpläne jedes Jahr zu einem bestimmten Zeitpunkt zu aktualisieren.
 
 
-Anweisungen zum Erstellen und Verwalten von Schemas finden Sie in der [Erstellen und Verwalten von Zeitplänen](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) Tutorial.
+Anweisungen zum Erstellen und Verwalten von Zeitplänen finden Sie im Tutorial [Erstellen und Verwalten von Zeitplänen](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) .
 
 </br>
 </br>
