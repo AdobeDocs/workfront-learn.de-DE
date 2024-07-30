@@ -1,6 +1,6 @@
 ---
 title: Konvertieren eines Problems/einer Anfrage in ein Projekt
-description: Erfahren Sie, wie Sie die Konvertierung von einer Anforderung zum Projekt starten, die entsprechende Projektvorlage auswählen und die Konvertierung abschließen.
+description: Erfahren Sie, wie Sie die Konvertierung von einer Anfrage in ein Projekt initiieren, die entsprechende Projektvorlage auswählen und die Konvertierung abschließen.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 67%
 
 In diesem Video lernen Sie Folgendes:
 
-* Konvertierung von Anforderung zu Projekt starten
+* Initiieren der Konvertierung von einer Anfrage in ein Projekt
 * Auswählen der entsprechenden Projektvorlage
 * Abschließen der Konvertierung von Anfrage zu Projekt
 

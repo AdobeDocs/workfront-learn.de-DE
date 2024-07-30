@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
 source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '554'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -36,10 +36,10 @@ Die Frage „Warum sind das Best Practices?“ nach der Übersichtsliste finden 
 
 * Die Gesamtarbeitszeit an jedem Arbeitstag des Zeitplans sollte der Anzahl der Stunden an einem Tag entsprechen, die in den globalen Projektvoreinstellungen angegeben sind.
 
-* Fügen Sie eine Erinnerung zum Kalender des Adobe Workfront-Systemadministrators hinzu, um Zeitpläne jedes Jahr zu einem bestimmten Zeitpunkt zu aktualisieren.
+* Fügen Sie eine Erinnerung zum Kalender der Systemadmins von Adobe Workfront hinzu, um Zeitpläne jedes Jahr zu einem bestimmten Zeitpunkt zu aktualisieren.
 
 
-Anweisungen zum Erstellen und Verwalten von Zeitplänen finden Sie im Tutorial [Erstellen und Verwalten von Zeitplänen](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) .
+Anweisungen zum Erstellen und Verwalten von Zeitplänen finden Sie im Tutorial [Erstellen und Verwalten von Zeitplänen](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
 
 </br>
 </br>
@@ -64,7 +64,7 @@ Separate Zeitpläne können erforderlich sein, wenn:
 
 * Sie Teilzeitmitarbeitende haben, die weniger als 40 Stunden pro Woche arbeiten.
 
-* Die Arbeitnehmer arbeiten nicht die 8 Stunden am Tag, Montag bis Freitag, wie Wochenende oder diejenigen, die vier 10-Stunden-Tage arbeiten.
+* die Mitarbeitenden keine standardmäßigen acht Stunden von Montag bis Freitag arbeiten, wie etwa Mitarbeitende, die nur am Wochenende oder vier 10-Stunden-Tage pro Woche arbeiten.
 
 </br>
 </br>
@@ -77,9 +77,9 @@ Die Gesamtarbeitszeit an jedem Arbeitstag des Zeitplans sollte der Anzahl der St
 
 **Das sind die Gründe**
 
-Wenn die Gesamtarbeitszeit nicht übereinstimmt, kann dies zu scheinbar falschen Datums- und Uhrzeitberechnungen in Ihrer Projekt-Timeline und Ihren Berichten führen.
+Wenn die Gesamtarbeitszeit nicht übereinstimmt, kann dies zu scheinbar falschen Datums- und Uhrzeitberechnungen in Ihrer Projektzeitleiste und Ihren Berichten führen.
 
-Wenn die Systemeinstellung beispielsweise acht Stunden pro Tag beträgt und der einem Projekt zugewiesene Zeitplan nur sieben Arbeitsstunden pro Tag umfasst, werden Sie feststellen, dass die Ausführung einer Aufgabe mit einer Dauer von einem Tag mehr als einen Tag in Anspruch nimmt, da versucht wird, sie in die acht Stunden einzupassen.
+Wenn die Systemeinstellung beispielsweise acht Stunden pro Tag beträgt und der einem Projekt zugewiesene Zeitplan nur sieben Arbeitsstunden pro Tag umfasst, werden Sie feststellen, dass die Ausführung einer Aufgabe mit einer Dauer von einem Tag mehr als einen Tag in Anspruch nimmt, da versucht wird, die acht Stunden darin unterzubringen.
 
 **Hinweis**: Die globalen Projekteinstellungen des Systems finden Sie unter „Setup“ > „Projekteinstellungen“ > „Zeitleistenberechnungen“ > „Typische Stunden pro Arbeitstag“.
 
@@ -89,8 +89,8 @@ Wenn die Systemeinstellung beispielsweise acht Stunden pro Tag beträgt und der 
 
 **Best Practice**
 
-Fügen Sie eine Erinnerung zum Kalender des Adobe Workfront-Systemadministrators hinzu, um Zeitpläne jedes Jahr zu einem bestimmten Zeitpunkt zu aktualisieren.
+Fügen Sie eine Erinnerung zum Kalender der Systemadmins von Adobe Workfront hinzu, um Zeitpläne jedes Jahr zu einem bestimmten Zeitpunkt zu aktualisieren.
 
 **Das sind die Gründe**
 
-Aktualisieren Sie die Zeitpläne in Ihrer Workfront-Instanz mit nationalen Feiertagen, Firmenferien und anderen Tagen, an denen Benutzer nicht arbeiten. Führen Sie dies jedes Jahr zu einem bestimmten Zeitpunkt durch, entweder am Ende des Jahres oder sobald die Feiertagspläne von der Personalabteilung bekannt gegeben werden, sodass Projekt-Timelines, Ressourcenplanung usw. die genaue Verfügbarkeit der Benutzenden wiedergeben.
+Aktualisieren Sie die Zeitpläne in Ihrer Workfront-Instanz mit gesetzlichen Feiertagen, Unternehmensfeiertagen und anderen Tagen, an denen Benutzende nicht arbeiten. Führen Sie dies jedes Jahr zu einem bestimmten Zeitpunkt durch, entweder am Ende des Jahres oder sobald die Feiertagspläne von der Personalabteilung bekannt gegeben werden, sodass Projekt-Timelines, Ressourcenplanung usw. die genaue Verfügbarkeit der Benutzenden wiedergeben.

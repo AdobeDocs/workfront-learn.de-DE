@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
 source-git-commit: e2a8ab1d8139008c145f584c8c2181a082d1923b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 71%
 In diesem Video lernen Sie Folgendes:
 
 * Finden von selbst eingereichten Anfragen
-* Aktualisieren Sie das Zusammenfassungsfenster
-* Anforderungsseite öffnen
-* Aktualisieren einer Anforderung im Bedienfeld [!UICONTROL Aktualisierungen]
+* Vornehmen von Aktualisierungen im Bedienfeld „Zusammenfassung“
+* Öffnen der Anfrageseite
+* Aktualisieren einer Anfrage im Bedienfeld [!UICONTROL Aktualisierungen]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 
