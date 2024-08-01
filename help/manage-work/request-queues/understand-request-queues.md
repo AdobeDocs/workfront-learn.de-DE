@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Anfragewarteschlangen
-description: Erfahren Sie, was eine Anforderungswarteschlange ist, wie eine Anforderung über eine Anforderungswarteschlange gesendet wird und wie Anforderungswarteschlangen strukturiert sind.
+description: Erfahren Sie, was eine Anfrage-Warteschlange ist, wie eine Anfrage über eine Anfrage-Warteschlange gesendet wird und wie Anfrage-Warteschlangen strukturiert sind.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -14,9 +14,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: 79365fbcd031ca3d65100574c8bef27929c8ffe6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 50%
 
 In diesem Video lernen Sie Folgendes:
 
-* Was ist eine Anforderungswarteschlange?
-* Senden einer Anforderung über eine Anforderungswarteschlange
+* Informationen zu Anfrage-Warteschlangen
+* Senden einer Anfrage über eine Anfrage-Warteschlange
 * Struktur von Anfragewarteschlangen
 
 
