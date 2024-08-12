@@ -2,9 +2,9 @@
 title: Workfront-Tutorials
 description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen sollen, die Funktionen und Einstellungen von Workfront besser zu verstehen.  Dazu gehört eine Sammlung von Best Practices, kuratierten Übungen und anderen Ressourcen, die Ihnen und Ihrem Unternehmen dabei helfen, Workfront erfolgreich zu nutzen.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
@@ -22,17 +22,6 @@ See other user landing pages to get ideas.
 
 -->
 
-<div id="whats-new-section">
-
-## Was ist neu?
-
-Entdecken Sie die neuesten Aktualisierungen der Tutorials zu jeder Workfront-Produktversion. Hier sehen Sie, was mit der neuesten Version aktualisiert wurde:
-
-* Die Symbole für „Favoriten“ und „Favoritenliste“ wurden in der oberen Workfront-Navigationsleiste getrennt. Eine kurze Zusammenfassung der einzelnen Funktionen finden Sie in der Anleitung <a href="/help/manage-work/projects/find-projects.md">Nach Projekten suchen</a>.
-
-* Konfigurieren Sie ein benutzerdefiniertes Formular für die Arbeit mit mehreren Objekttypen. Eine Anleitung dazu finden Sie im Tutorial <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">Erstellen und Freigeben eines benutzerdefinierten Formulars</a>.
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
