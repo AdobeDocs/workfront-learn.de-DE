@@ -1,19 +1,22 @@
 ---
-user-guide-description: Projekte auf mittlerer Ebene
-role: User
-level: Intermediate
-feature-set: Workfront
-source-git-commit: 2f1894535fd7c9509cfd0926c3b2f1de0a367de3
+user-guide-title: Projekte auf mittlerer Ebene
+user-guide-description: Verschaffen Sie sich ein tiefes Verständnis der verschiedenen Projektmanagement-Tools in Workfront sowie einiger Promotion-Tipps und Best Practices.
+breadcrumb-title: Projekte auf mittlerer Ebene
+solution: Workfront
+sub-product: Work Management
+index: y
+source-git-commit: ca218d2e86f45417b2165330f66057d50fd3d989
 workflow-type: tm+mt
-source-wordcount: '21'
-ht-degree: 71%
+source-wordcount: '45'
+ht-degree: 28%
 
 ---
 
 
+
 # Projekte auf mittlerer Ebene {#intermediate-level-projects}
 
-+ Zwischenprojekte {#intermediate-projects}
++ [Übersicht über Zwischenprojekte](overview.md)
    + [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
    + [Grundlegendes zu projektübergreifenden Vorgängern](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
    + [Erweiterte Vorgänger](/help/manage-work/intermediate-projects/advanced-predecessors.md)
