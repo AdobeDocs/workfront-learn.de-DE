@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu den Einstellungen für einen Anforderungsfluss
-description: Erfahren Sie mehr über Anforderungsflüsse und wie Sie einen mit Routing-Regeln, Themengruppen und Warteschlangenthemen erstellen.
+title: Grundlegendes zu den Einstellungen für einen Anfragefluss
+description: Erfahren Sie mehr über Anfrageflüsse und deren Erstellung mit Routing-Regeln, Themengruppen und Warteschlangenthemen.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -14,13 +14,13 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zu den Einstellungen für einen Anforderungsfluss
+# Grundlegendes zu den Einstellungen für einen Anfragefluss
 
 In diesem Video lernen Sie Folgendes:
 

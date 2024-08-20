@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2407'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -146,7 +146,7 @@ ht-degree: 99%
    + Anfrage-Warteschlangen {#request-queues}
       + [Grundlegendes zu Anfragewarteschlangen](manage-work/request-queues/understand-request-queues.md)
       + [Erstellen einer Anfrage-Warteschlange](manage-work/request-queues/create-a-request-queue.md)
-      + [Grundlegendes zu den Einstellungen für einen Anforderungsfluss](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Grundlegendes zu den Einstellungen für einen Anfragefluss](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Erstellen eines Anfrageflusses](manage-work/request-queues/create-a-request-flow.md)
       + [Erstellen einer Feedback-Anfrage-Warteschlange für Systemadmins](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Antworten auf häufig gestellte Fragen zu Anfrage-Warteschlangen](manage-work/request-queues/request-queue-faq.md)
