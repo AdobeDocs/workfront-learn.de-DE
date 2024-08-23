@@ -5,10 +5,10 @@ breadcrumb-title: Übersicht über Projekte auf mittlerer Ebene
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 4de19871b69d3d1eec2793065046072dec0ae5c1
+source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
@@ -17,7 +17,8 @@ ht-degree: 0%
 # Übersicht über Projekte auf mittlerer Ebene {#intermediate-level-projects}
 
 + [Übersicht über Projekte auf mittlerer Ebene](overview.md)
-+ [ Grundlegendes zu und Verwalten von Dauer- und Aufgabenbeschränkungen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints)
-+ [Verstehen projektübergreifender Vorgänger](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors)
-+ [Erweiterte Vorgänger](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/advanced-predecessors)
++ Projekte auf mittlerer Ebene {#intermediate-level-projects}
+   + [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](understand-and-manage-duration-types-and-task-constraints.md)
+   + [Grundlegendes zu projektübergreifenden Vorgängern](understand-cross-project-predecessors.md)
+   + [Erweiterte Vorgänger](advanced-predecessors.md)
 
