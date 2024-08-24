@@ -5,10 +5,10 @@ breadcrumb-title: Übersicht über Portfolios
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 32%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 0%
 # Übersicht über die Projektfinanzen für Administratoren {#project-finances-for-administrators}
 
 + [Übersicht über die Projektfinanzen für Administratoren](overview.md)
-+ [Leistungsmetriken verstehen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)
-+ [Einrichten der standardmäßigen Umsätze und Kosten von Aufgaben](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults)
-+ [Einrichten von Wechselkursen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates)
-+ [Einrichten von Ausgabentypen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types)
-+ [Finanzzugang verstehen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access)
++ Projektfinanzierung für Administratoren {#project-finances-for-administrators}
+   + [Verstehen von Leistungsmetriken](understand-performance-metrics.md)
+   + [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](set-up-task-revenue-and-cost-defaults.md)
+   + [Einrichten von Wechselkursen](set-up-exchange-rates.md)
+   + [Einrichten von Ausgabentypen](set-up-expense-types.md)
+   + [Informationen zum Finanzzugriff](understand-financial-access.md)
 
 

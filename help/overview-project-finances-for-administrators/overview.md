@@ -12,7 +12,7 @@ jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 23%
@@ -37,8 +37,8 @@ System- oder Gruppenadministratoren, die Finanzierungen in Workfront einrichten 
 
 ## Tutorials
 
-* [Verstehen von Leistungsmetriken](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
-* [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)
-* [Informationen zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)
+* [Verstehen von Leistungsmetriken](understand-performance-metrics.md)
+* [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](set-up-task-revenue-and-cost-defaults.md)
+* [Einrichten von Wechselkursen](set-up-exchange-rates.md)
+* [Einrichten von Ausgabentypen](set-up-expense-types.md)
+* [Informationen zum Finanzzugriff](understand-financial-access.md)
