@@ -1,14 +1,14 @@
 ---
 user-guide-title: Übersicht über die Projektfinanzen für Benutzer
 user-guide-description: Erfahren Sie, wie Sie aktuelle und vorgeschlagene Projekte basierend auf ihren Kosten, ihrem Wert, ihren Risiken und der Ausrichtung an den Zielen Ihrer Organisation priorisieren.
-breadcrumb-title: Übersicht über Portfolios
+breadcrumb-title: Übersicht über die Projektfinanzen für Benutzer
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 28%
+source-wordcount: '55'
+ht-degree: 27%
 
 ---
 

@@ -7,12 +7,12 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 49%
@@ -40,47 +40,47 @@ Standardlizenzbenutzer, die Projekte erstellen oder verwalten.
 
 ### Projektvorlagen
 
-* [Erstellen einer Projektvorlage und Informationen über Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Erstellen eines Projekts direkt aus einer Vorlage](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Freigeben einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Erstellen einer Projektvorlage und Informationen über Blueprints](create-a-project-template.md)
+* [Erstellen eines Projekts direkt aus einer Vorlage](create-a-project-directly-from-a-template.md)
+* [Freigeben einer Projektvorlage](share-a-project-template.md)
 * [Ein bestehendes Projekt kopieren](/help/manage-work/manage-projects/copy-an-existing-project.md)
-* [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Deaktivieren einer Projektvorlage](deactivate-a-project-template.md)
+* [Bearbeiten des Projekt-Teams in einer Projektvorlage](edit-the-project-team-in-a-project-template.md)
 
 
 ### Erstellen und Verwenden von Genehmigungsprozessen
 
-* [Schaffung eines einmaligen Genehmigungsverfahrens](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Informationen zu gruppenspezifischen Genehmigungsprozessen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Anhängen und Bearbeiten vorhandener Genehmigungsprozesse](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
-* [Überprüfen und Genehmigen digitaler Arbeiten](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-* [Grundlegendes zu Aktualisierungen und Benachrichtigungen](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
-* [Delegieren von Aufgaben, Problemen und Genehmigungen](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Schaffung eines einmaligen Genehmigungsverfahrens](create-a-single-use-approval-process.md)
+* [Informationen zu gruppenspezifischen Genehmigungsprozessen](group-specific-approval-processes.md)
+* [Anhängen und Bearbeiten vorhandener Genehmigungsprozesse](attach-and-edit-existing-approval-processes.md)
+* [Überprüfen und Genehmigen digitaler Arbeiten](review-and-approve-digital-work.md)
+* [Grundlegendes zu Aktualisierungen und Benachrichtigungen](understand-updates-and-notifications.md)
+* [Delegieren von Aufgaben, Problemen und Genehmigungen](delegate-approvals.md)
 
 
 ### Erstellen und Verwenden von Meilensteinen
 
-* [Erstellen von Meilensteinen](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Anwenden von Meilensteinen](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-* [Anzeigen von Meilensteinen](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Erstellen von Meilensteinen](creating-milestones.md)
+* [Anwenden von Meilensteinen](apply-milestones.md)
+* [Anzeigen von Meilensteinen](view-milestones.md)
 
 
 ### Arbeiten mit Problemen
 
-* [Umgang mit ungeplanten Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Anfrage stellen](/help/manage-work/issues-requests/make-a-request.md)
-* [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
-* [Problemzuweisungen verwalten](/help/manage-work/issues-requests/manage-issue-assignments.md)
-* [Aktualisieren einer Anfrage](/help/manage-work/issues-requests/update-a-request.md)
-* [Konvertieren eines Problems/einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Problembericht](/help/manage-work/issues-requests/report-on-issues.md)
+* [Umgang mit ungeplanten Arbeiten](handle-unplanned-work.md)
+* [Anfrage stellen](make-a-request.md)
+* [Suchen und Verwalten von Anfragen](find-requests.md)
+* [Problemzuweisungen verwalten](manage-issue-assignments.md)
+* [Aktualisieren einer Anfrage](update-a-request.md)
+* [Konvertieren eines Problems/einer Anfrage in ein Projekt](create-a-project-from-a-request.md)
+* [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](convert-issues-to-other-work-items.md)
+* [Problembericht](report-on-issues.md)
 
 
 ### Projektzeitleisten
 
-* [Grundlegendes zu Projektzeitleisten](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-* [Verfolgen des Fortschritts über die Projektzeitleiste](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Grundlegendes zu Projektzeitleisten](understand-project-timelines.md)
+* [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](understand-task-dates-and-progress-status.md)
+* [Verfolgen des Fortschritts über die Projektzeitleiste](track-work-progress-from-the-project-timeline.md)
 
 

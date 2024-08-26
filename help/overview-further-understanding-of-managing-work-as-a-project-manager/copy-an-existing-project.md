@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10155
-exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
+hide: true
 source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -28,5 +28,6 @@ Navigieren Sie zu dem Projekt, das Sie kopieren möchten, und klicken Sie auf di
 Im Fenster „Projekt kopieren“ können Sie den Titel und den Status ändern sowie eine Reihe von Daten löschen, die mit dem Projekt verbunden sind, z. B. Zuordnungen, Dokumente und benutzerdefinierte Daten.
 
 ![Projektoptionen kopieren](assets/copy-existing-02.png)
+
 
 Wenn Sie Zuordnungen löschen oder den Status auf „Planung“ setzen, wird verhindert, dass das kopierte Projekt direkt nach dem Kopieren Benachrichtigungen über Aufgabenzuordnungen versendet.
