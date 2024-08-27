@@ -1,63 +1,45 @@
 ---
 title: Erstellen einer benutzerdefinierten Kalenderübersicht
-description: Jetzt
+description: Mit einem benutzerdefinierten Kalender können Sie Daten und Informationen direkt aus Projekten, Aufgaben und Problemen in einem Kalenderformat anzeigen.
 feature: Reports and Dashboards
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
-jira: KT-
+last-substantial-update: 2024-08-26T00:00:00Z
+jira: KT-10662
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
+source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 63%
+source-wordcount: '116'
+ht-degree: 22%
 
 ---
 
 
 # Erstellen einer benutzerdefinierten Kalenderübersicht {#overview}
 
-Jetzt
+Mit einem benutzerdefinierten Kalender können Sie Daten und Informationen direkt aus Projekten, Aufgaben und Problemen in einem Kalenderformat anzeigen.
 
 >[!PREREQUISITES]
 >
->* Gutes Verständnis der Verwendung von Workfront
->* Standardlizenztyp mit Berechtigungen zum Erstellen von Projekten aktiviert
->* [Erste Schritte mit Workfront für Projektmanager - Überblick](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners&amp;lang=de)
+>* Grundlegendes zur Verwendung von Workfront
+>* Standardlizenztyp mit aktivierten Berechtigungen zum Erstellen von Berichten und Filtern
+>* [Übersicht über grundlegende Berichterstellungselemente](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting&amp;lang=de)
 
 
 ## Zielgruppe
 
-Standardlizenzbenutzer, die Projekte erstellen oder verwalten.
+* Standardlizenzbenutzer, die benutzerdefinierte Kalender erstellen möchten
+* Jeder Benutzer, der wissen möchte, was benutzerdefinierte Kalender können
 
 ## Tutorials
 
-### Projekt verwalten
+* [Verstehen der Schnittstelle für Kalenderberichte](tour-of-the-interface.md)
+* [Erstellen eines benutzerdefinierten Kalenderberichts](creating-custom-calendars.md)
+* [Informationen zu den zusätzlichen Optionen für Kalenderberichte](additional-calendar-options.md)
+* [Sie sind an der Reihe, einen Kalenderbericht zu erstellen](your-turn-to-create-a-calendar.md)
 
-* [Erste Schritte bei der Projektverwaltung](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Suchen von Projekten](/help/manage-work/projects/find-projects.md)
-* [Freigeben eines Projekts](/help/manage-work/projects/share-a-project.md)
-* [Informationen zum Projekt-Team](/help/manage-work/projects/understand-the-project-team.md)
-* [Grundlegendes zur Projektkommunikation](/help/manage-work/projects/understand-project-communication.md)
-* [Anzeigen von Projektinformationen](/help/manage-work/projects/view-project-information.md)
-* [Nachverfolgen des gesamten Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
-* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Grundlegendes zur [!UICONTROL Gantt]-Ansicht](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Grundlegendes zur [!UICONTROL Pinnwand]-Ansicht](/help/manage-work/projects/understand-the-board-view.md)
-
-
-### Schließen eines Projekts
-
-* [Ändern des Projektstatus in „abgeschlossen“](/help/manage-work/projects/change-the-project-status.md)
-* [Schließen von Aufgaben und Problemen](/help/manage-work/close-a-project/close-tasks-and-issues.md)
-* [Abschließen von Genehmigungen](/help/manage-work/close-a-project/complete-approvals.md)
-* [Hochladen von Assets](/help/manage-work/close-a-project/upload-assets.md)
-* [Aufzeichnen der gelernten Lektionen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Aufzeichnen und Überprüfen der Stunden](/help/manage-work/close-a-project/log-and-review-hours.md)
-* [Aktualisierung und Überprüfung der Finanzen](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Schließen einer Projektaktivität](/help/manage-work/close-a-project/close-a-project-activity.md)
