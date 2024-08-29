@@ -12,10 +12,10 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 1%
+source-wordcount: '796'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ Erfahren Sie, wie Sie Meilensteinpfade erstellen, Meilensteine auf Aufgaben anwe
 * [Meilensteine anwenden](apply-milestones.md) - Erfahren Sie, wie Sie einen Meilensteinpfad auf ein Projekt anwenden und wichtige Aufgaben als Meilensteinschritte innerhalb des Projekts verknüpfen.
 * [Meilensteine anzeigen](view-milestones.md) - Erfahren Sie, wie Sie Meilensteine in einem Adobe Workfront-Projekt anzeigen und die Meilensteinansicht im Projektbereich verwenden.
 
+
 ## Arbeiten mit Problemen
 
 Erfahren Sie, wie Sie ungeplante Arbeiten mit Problemen verarbeiten, Probleme in andere Arbeitselemente konvertieren, Problemzuweisungen verwalten und Probleme melden können.
@@ -86,13 +87,6 @@ Erfahren Sie, wie Sie ungeplante Arbeiten mit Problemen verarbeiten, Probleme in
 * [Konvertieren eines Problems/einer Anforderung in eine Aufgabe](convert-issues-to-other-work-items.md) - Erfahren Sie, wie Sie ein Problem in eine Aufgabe konvertieren.
 * [Problembericht](report-on-issues.md) - Erfahren Sie, wie Sie einen Problembericht mit aufgelösten Objekten und einen Projektbericht mit konvertierten Probleminformationen erstellen.
 
-## Projektzeitleisten
-
-Erfahren Sie, wie Sie Projekte planen und ihren Fortschritt verfolgen können.
-
-* [Projektzeitpläne verstehen](understand-project-timelines.md) - Erfahren Sie, wie Sie Projekte von einem Start- oder einem Abschlussdatum an planen. Erfahren Sie anschließend, wie sich Dauer, Vorgänger und Aufgabenbeschränkungen auf den Projektplan auswirken.
-* [Verstehen Sie die Datentypen und den Fortschrittsstatus](understand-task-dates-and-progress-status.md) - Erfahren Sie, wie Sie eine Ansicht auswählen, um die verschiedenen Datentypen in Workfront zu vergleichen, und wie Sie das Fortschrittsstatusfeld verwenden.
-* [Fortschritt aus der Projekt-Timeline verfolgen](track-work-progress-from-the-project-timeline.md) - Erfahren Sie, wie Sie den Fortschritt der Arbeit über die Projekt-Timeline mit Prozentangaben, Abschluss, Status, Zuweisungen und Aufgabenbegrenzungen verfolgen.
 
 ## Tiefer gravieren
 

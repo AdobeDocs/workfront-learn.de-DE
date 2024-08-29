@@ -2,14 +2,14 @@
 user-guide-title: Verwalten von Arbeit - Zwischenergebnis
 user-guide-description: Sobald Sie die Grundlagen der Projekterstellung, -planung und -verwaltung gelernt haben, sollten Sie mehr wissen, um Workfront optimal zu nutzen.
 feature: Work Management
-breadcrumb-title: Weitere Informationen zum Verwalten der Arbeit als Projektmanager - Überblick
+breadcrumb-title: Verwalten von Arbeit - Zwischenergebnis
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 65%
+source-wordcount: '180'
+ht-degree: 64%
 
 ---
 
@@ -49,11 +49,6 @@ ht-degree: 65%
       + [Konvertieren eines Problems/einer Anfrage in ein Projekt](create-a-project-from-a-request.md)
       + [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](convert-issues-to-other-work-items.md)
       + [Problembericht](report-on-issues.md)
-
-   + Projektzeitleisten {#project-timelines}
-      + [Grundlegendes zu Projektzeitleisten](understand-project-timelines.md)
-      + [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](understand-task-dates-and-progress-status.md)
-      + [Verfolgen des Fortschritts über die Projektzeitleiste](track-work-progress-from-the-project-timeline.md)
 
    + Graben tiefer {#digging-deeper}
       + [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](understand-and-manage-duration-types-and-task-constraints.md)
