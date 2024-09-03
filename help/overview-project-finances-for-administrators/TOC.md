@@ -1,22 +1,22 @@
 ---
-user-guide-title: Übersicht über die Projektfinanzen für Administratoren
-user-guide-description: Erfahren Sie, wie Sie aktuelle und vorgeschlagene Projekte basierend auf ihren Kosten, ihrem Wert, ihren Risiken und der Ausrichtung an den Zielen Ihrer Organisation priorisieren.
-breadcrumb-title: Übersicht über die Projektfinanzen für Administratoren
+user-guide-title: Projektfinanzierung für Admins
+user-guide-description: Erfahren Sie, wie Sie systemweite finanzielle Einstellungen einrichten, um eine einheitliche Rechnungsstellung und Berichterstellung für Ihr Unternehmen zu gewährleisten.
+breadcrumb-title: Projektfinanzierung für Admins
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 31%
+source-wordcount: '57'
+ht-degree: 63%
 
 ---
 
 
 
-# Übersicht über die Projektfinanzen für Administratoren {#project-finances-for-administrators}
+# Projektfinanzierung für Admins {#project-finances-for-administrators}
 
-+ [Übersicht über die Projektfinanzen für Administratoren](overview.md)
++ [Projektfinanzierung für Admins](overview.md)
 + Projektfinanzierung für Administratoren {#project-finances-for-administrators}
    + [Verstehen von Leistungsmetriken](understand-performance-metrics.md)
    + [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](set-up-task-revenue-and-cost-defaults.md)
