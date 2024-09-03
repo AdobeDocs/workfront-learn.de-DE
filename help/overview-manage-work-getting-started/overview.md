@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 4%
@@ -42,7 +42,6 @@ Erfahren Sie, was ein Projekt in Adobe Workfront ist, wie Sie es einrichten und 
 * [Erfahren Sie vier Möglichkeiten zum Erstellen eines Projekts](understand-other-ways-to-create-projects.md) - Erfahren Sie, wie Sie ein Projekt aus einer Vorlage erstellen, ein Projekt von Grund auf neu erstellen, ein vorhandenes Projekt kopieren oder eine [!DNL Microsoft Project] -Datei importieren.
 * [Füllen Sie die Projektdetails aus](fill-in-the-project-details.md) - Erfahren Sie, welche Projektdetailfelder Adobe Workfront empfiehlt, Sie beim Erstellen eines Projekts auszufüllen.
 * [Navigieren Sie zur Projektseite](navigate-the-project-page.md) - Erfahren Sie, wie Sie die Details eines Projekts anzeigen, welche Informationen in der Aufgabenliste angezeigt werden, wo Dokumente hochgeladen werden und wie der Aktualisierungsverlauf angezeigt wird.
-
 
 ## Projekt planen
 
@@ -76,7 +75,6 @@ Erfahren Sie, wie Sie Projektarbeit verfolgen und mit Interessenträgern kommuni
 * [Fortschritt aus der Projekt-Timeline verfolgen](track-work-progress-from-the-project-timeline.md) - Erfahren Sie, wie Sie den Fortschritt der Arbeit über die Projekt-Timeline mit Prozentangaben, Abschluss, Status, Zuweisungen und Aufgabenbegrenzungen verfolgen.
 * [Verstehen Sie die Ansicht [!UICONTROL Gantt]](understand-the-gantt-view.md) - Erfahren Sie, wie Sie das Diagramm [!UICONTROL Gantt] des Projekts und das Diagramm [!UICONTROL Gantt] der Aufgabe verwenden.
 * [Verstehen Sie die Ansicht [!UICONTROL Pinnwand]](understand-the-board-view.md) - Erfahren Sie, wo Sie die Pinnwand finden und wie Sie sie verwenden können.
-
 
 ## Schließen eines Projekts
 

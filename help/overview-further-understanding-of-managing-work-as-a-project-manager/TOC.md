@@ -1,23 +1,24 @@
 ---
-user-guide-title: Verwalten von Arbeit - Zwischenergebnis
+user-guide-title: Weitere Informationen zum Verwalten der Arbeit als Projektmanager - Überblick
 user-guide-description: Sobald Sie die Grundlagen der Projekterstellung, -planung und -verwaltung gelernt haben, sollten Sie mehr wissen, um Workfront optimal zu nutzen.
 feature: Work Management
-breadcrumb-title: Verwalten von Arbeit - Zwischenergebnis
+breadcrumb-title: Weitere Informationen zum Verwalten der Arbeit als Projektmanager - Überblick
 solution: Workfront
 sub-product: Work Management
 index: y
 source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '216'
+ht-degree: 55%
 
 ---
 
 
-# Verwalten von Arbeit - Zwischenergebnis {#manage-work-intermediate}
 
-+ [Verwalten von Arbeit - Zwischenergebnis](overview.md)
-+ Arbeit verwalten - Zwischenspeicher {#manage-work-intermediate}
+# Weitere Informationen zum Verwalten der Arbeit als Projektmanager - Überblick {#further-understanding-of-managing-work-as-a-project-manager}
+
++ [Weitere Informationen zum Verwalten der Arbeit als Projektmanager - Überblick](overview.md)
++ Weitere Informationen zum Verwalten der Arbeit als Projektmanager {#further-understanding-of-managing-work-as-a-project-manager}
    + Projektvorlagen {#project-templates}
       + [Erstellen einer Projektvorlage und Informationen über Blueprints](create-a-project-template.md)
       + [Erstellen eines Projekts direkt aus einer Vorlage](create-a-project-directly-from-a-template.md)
@@ -49,7 +50,9 @@ ht-degree: 64%
       + [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](convert-issues-to-other-work-items.md)
       + [Problembericht](report-on-issues.md)
 
-   + Graben tiefer {#digging-deeper}
-      + [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](understand-and-manage-duration-types-and-task-constraints.md)
-      + [Grundlegendes zu projektübergreifenden Vorgängern](understand-cross-project-predecessors.md)
-      + [Erweiterte Vorgänger](advanced-predecessors.md)
+   + Projektzeitleisten {#project-timelines}
+      + [Grundlegendes zu Projektzeitleisten](understand-project-timelines.md)
+      + [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](understand-task-dates-and-progress-status.md)
+      + [Verfolgen des Fortschritts über die Projektzeitleiste](track-work-progress-from-the-project-timeline.md)
+
+

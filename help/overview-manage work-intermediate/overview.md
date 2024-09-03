@@ -12,7 +12,7 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -52,7 +52,6 @@ Erfahren Sie, wie Sie Projektvorlagen erstellen und verwenden.
 * [Deaktivieren einer Projektvorlage](deactivate-a-project-template.md) - Erfahren Sie, wie Sie eine Projektvorlage aktivieren und deaktivieren.
 * [Bearbeiten des Projektteams in einer Projektvorlage](edit-the-project-team-in-a-project-template.md) - Erfahren Sie, wie Sie verhindern können, dass unbeabsichtigt **Nicht**-Projektteams in ein Vorlagenprojektteam aufgenommen werden, und wie Sie das Vorlagenprojektteam bearbeiten.
 
-
 ## Erstellen und Verwenden von Genehmigungsprozessen
 
 Erfahren Sie, wie Sie Genehmigungsprozesse erstellen, sie an Workflows anhängen, digitale Arbeiten überprüfen und Genehmigungen delegieren.
@@ -64,7 +63,6 @@ Erfahren Sie, wie Sie Genehmigungsprozesse erstellen, sie an Workflows anhängen
 * [Aktualisierungen und Benachrichtigungen verstehen](understand-updates-and-notifications.md) - Erfahren Sie, wie Sie Aktualisierungen zu Genehmigungsanfragen vornehmen und Ihre Benachrichtigungen finden.
 * [Aufgaben, Probleme und Genehmigungen delegieren](delegate-approvals.md) - Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeitpläne an einen anderen Adobe Workfront-Benutzer delegieren.
 
-
 ## Erstellen und Verwenden von Meilensteinen
 
 Erfahren Sie, wie Sie Meilensteinpfade erstellen, Meilensteine auf Aufgaben anwenden und Meilensteinberichte anzeigen.
@@ -72,7 +70,6 @@ Erfahren Sie, wie Sie Meilensteinpfade erstellen, Meilensteine auf Aufgaben anwe
 * [Meilensteine erstellen](creating-milestones.md) - Erfahren Sie, was Meilensteinpfade sind, wie Meilensteinpfade erstellt werden und wie Meilensteinschritte zu einem Projekt hinzugefügt werden.
 * [Meilensteine anwenden](apply-milestones.md) - Erfahren Sie, wie Sie einen Meilensteinpfad auf ein Projekt anwenden und wichtige Aufgaben als Meilensteinschritte innerhalb des Projekts verknüpfen.
 * [Meilensteine anzeigen](view-milestones.md) - Erfahren Sie, wie Sie Meilensteine in einem Adobe Workfront-Projekt anzeigen und die Meilensteinansicht im Projektbereich verwenden.
-
 
 ## Arbeiten mit Problemen
 
@@ -86,7 +83,6 @@ Erfahren Sie, wie Sie ungeplante Arbeiten mit Problemen verarbeiten, Probleme in
 * [Konvertieren eines Problems/einer Anforderung in ein Projekt](create-a-project-from-a-request.md) - Erfahren Sie, wie Sie die Konvertierung von einer Anforderung in ein Projekt starten und die entsprechende Projektvorlage auswählen.
 * [Konvertieren eines Problems/einer Anforderung in eine Aufgabe](convert-issues-to-other-work-items.md) - Erfahren Sie, wie Sie ein Problem in eine Aufgabe konvertieren.
 * [Problembericht](report-on-issues.md) - Erfahren Sie, wie Sie einen Problembericht mit aufgelösten Objekten und einen Projektbericht mit konvertierten Probleminformationen erstellen.
-
 
 ## Tiefer gravieren
 
