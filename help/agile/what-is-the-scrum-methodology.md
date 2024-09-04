@@ -7,12 +7,11 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: true
-hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '774'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
@@ -22,7 +21,7 @@ Die Scrum-Methode umfasst das Flexibilitätsmodell, unterscheidet sich aber von 
 
 ## Übersicht über das Scrum-Team
 
-Wenn Sie entscheiden, ob Sie auf Scrum umsteigen wollen, müssen Sie die Struktur Ihrer Teams prüfen, um zu sehen, ob sie problemlos auf die neue Methode übertragen werden können. Ein Scrum-Team besteht aus drei Arten von Mitgliedern: einem Produkteigentümer, einem Scrum Master und den Team-Mitgliedern.
+Wenn Sie entscheiden, ob Sie zu Scrum wechseln möchten, müssen Sie sich die Struktur Ihrer Teams ansehen, um zu sehen, ob sie einfach zur neuen Methodik übertragen werden können. Ein Scrum-Team besteht aus drei Arten von Mitgliedern: einem Produkteigentümer, einem Scrum Master und den Team-Mitgliedern.
 
 ![Scrum-Team-Mitglieder](assets/scrumteammembers-01.png)
 
@@ -43,7 +42,7 @@ Ein Team ist in der Regel funktionsübergreifend und hat Mitglieder mit vielen v
 
 ## Zusammenarbeit im Scrum-Team
 
-Sobald Sie diese Hauptakteurinnen und -akteure versammelt haben, werden sie einem neuen Arbeitsstil folgen, um ihre Arbeit zu erledigen und der Kundschaft ein Produkt zu liefern. Auch hier wird im Vergleich zur traditionellen oder Wasserfall-Methode nicht mehr ein linearer Prozess verfolgt, bei dem ein Plan für ein Endprodukt erstellt wird und dann die Schritte oder Phasen durchlaufen werden, die für die Lieferung dieses Produkts erforderlich sind. Stattdessen erstellen Scrum-Teams zunächst einen Rückstand.
+Nachdem Sie diese wichtigen Player zusammengestellt haben, folgen sie einem neuen Arbeitsablauf, um ihre Arbeit zu erledigen und ein Produkt an den Kunden zu liefern. Auch hier wird im Vergleich zur traditionellen oder Wasserfall-Methode nicht mehr ein linearer Prozess verfolgt, bei dem ein Plan für ein Endprodukt erstellt wird und dann die Schritte oder Phasen durchlaufen werden, die für die Lieferung dieses Produkts erforderlich sind. Stattdessen erstellen Scrum-Teams zunächst einen Rückstand.
 
 
 
@@ -66,13 +65,13 @@ Sobald sie ihre Haupt-Storys erstellt haben, müssen sie ihren Rückstand aufber
 
 ### Iterationsplanung
 
-Nachdem der Rückstand erstellt und priorisiert wurde, muss die Iteration geplant werden. (Viele Unternehmen verwenden die Begriffe „Sprint“ und „Iteration“ synonym). Das Team entscheidet anhand der als einsatzbereit angesehenen Storys, welche Storys abgeschlossen werden sollen. Das Team weist Arbeitsaufträge zu und entscheidet über die Dauer der Iteration.
+Nachdem der Rückstand vergrößert und priorisiert wurde, ist es an der Zeit, die Iteration zu planen. (Viele Organisationen verwenden das Wort &quot;sprint&quot;und &quot;iteration&quot;synonym.) Das Team entscheidet anhand der als einsatzbereit angesehenen Storys, welche Storys abgeschlossen werden sollen. Das Team weist Arbeitsaufträge zu und entscheidet über die Dauer der Iteration.
 
 
 
 ### Ausführen der Iteration
 
-Nun ist es an der Zeit, die Iteration auszuführen. Die Team-Mitglieder beginnen mit ihrer Arbeit wie ein herkömmliches Team, führen aber jetzt eine schnelle, tägliche Besprechung durch, das „Standup-Meeting“.
+Jetzt ist es Zeit, die Iteration auszuführen. Die Team-Mitglieder beginnen mit ihrer Arbeit wie ein herkömmliches Team, führen aber jetzt eine schnelle, tägliche Besprechung durch, das „Standup-Meeting“.
 
 Die Team-Mitglieder stehen bei diesem kurzen Treffen buchstäblich auf (Standup) und beantworten drei Fragen:
 
@@ -87,7 +86,7 @@ Diese Treffen sorgen dafür, dass alle Beteiligten auf demselben Stand sind und 
 
 ## Verwendung eines Burndown-Diagramms und eines Storyboards zur Verfolgung des Fortschritts
 
-Bei der Beantwortung der drei Hauptfragen in den Standups ist es wichtig, dass das Team seine Fortschritte auf dem Weg zum Abschluss der Iteration überwacht und verfolgt. Auf diese Weise können sie feststellen, ob sie sich schnell genug durch ihre Storys bewegen, um am Ende der Iteration alle Features pünktlich zu liefern. Im Scrum-Prozess gibt es zwei Komponenten, um dies zu tun.
+Da ein Team die drei Hauptfragen in seinen Konstanten beantwortet, ist es wichtig, dass sie ihren Fortschritt hin zum Abschluss der Iteration überwachen und verfolgen. Auf diese Weise können sie feststellen, ob sie sich schnell genug durch ihre Storys bewegen, um am Ende der Iteration alle Features pünktlich zu liefern. Im Scrum-Prozess gibt es zwei Komponenten, um dies zu tun.
 
 
 ### Storyboard
