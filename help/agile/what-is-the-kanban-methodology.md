@@ -9,9 +9,9 @@ thumbnail: what-is-kanban.jpeg
 hide: true
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
 source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Die wichtigsten Beteiligten in einem Kanban-Team sind denen in einem Scrum-Team 
 
 Es gibt viele Möglichkeiten, Ihre Kanban-Tafel zu gestalten. Die Teams arbeiten mit einer Tafel mit einer beliebigen Anzahl von Spalten. Jede Spalte stellt den Status der durchgeführten Arbeit dar.
 
-Im vereinfachtesten Gremium könnte die erste Spalte &quot;zu tun&quot;lauten, die zweite &quot;Gestartet&quot;und die dritte &quot;vollständig&quot;.
+Im einfachsten Fall könnte die erste Spalte „Zu erledigen“, die zweite „In Bearbeitung“ und die dritte „Abgeschlossen“ heißen.
 
 ![Wandtafel und Haftnotizen](assets/agile4-01.png)
 
@@ -42,13 +42,13 @@ Viele Unternehmen haben ihre eigenen Begriffe für die Spaltennamen oder listen 
 
 ## Priorisierung
 
-Die Team-Mitglieder arbeiten mit einer Person zusammen, die Produkte oder Projekte verwaltet, um sicherzustellen, dass die Storys im Rückstand und in anderen Statusspalten priorisiert werden und die Arbeit weiter auf die Fertigstellung zusteuert. Der Produktmanager ist weiterhin dafür verantwortlich, dass die Stimme des Kunden gehört und das Produkt in die richtige Richtung bewegt wird.
+Die Team-Mitglieder arbeiten mit einer Person zusammen, die Produkte oder Projekte verwaltet, um sicherzustellen, dass die Storys im Rückstand und in anderen Statusspalten priorisiert werden und die Arbeit weiter auf die Fertigstellung zusteuert. Die Produkt-Managerin bzw. der Produkt-Manager ist nach wie vor dafür verantwortlich, dass die Stimme der Kundschaft gehört wird und sich das Produkt in die richtige Richtung entwickelt.
 
 ![Kanban-Whiteboard](assets/agile4-03.png)
 
 ## Begrenzung laufender Arbeiten
 
-Ein einzigartiger Aspekt von Kanban ist, dass die Teams eine Kapazitätsgrenze für die Anzahl der Storys haben, die sie zu einem bestimmten Zeitpunkt bearbeiten können. Teams wählen eine bestimmte Anzahl von Geschichten, die sie bereit sind, in ihren Spalten &quot;zu tun&quot; und &quot;In Bearbeitung&quot; zu haben, und sie gehen nicht über diese Anzahl, um einen Burnout zu verhindern. Sobald eine Geschichte auf &quot;abgeschlossen&quot;verschoben wurde, wird eine Meldung aus dem Rückstand in der Spalte &quot;zu erledigen&quot;platziert.
+Ein einzigartiger Aspekt von Kanban ist, dass die Teams eine Kapazitätsgrenze für die Anzahl der Storys haben, die sie zu einem bestimmten Zeitpunkt bearbeiten können. Die Teams wählen eine bestimmte Anzahl von Storys aus, die ihre Spalten „Zu erledigen“ und „In Bearbeitung“ enthalten dürfen, und überschreiten diese Zahl nicht, um einen Burnout zu vermeiden. Sobald eine Story den Status „Abgeschlossen“ erreicht hat, nimmt eine Story aus dem Rückstand ihren Platz in der Spalte „Zu erledigen“ ein.
 
 ## Kontinuierliche Verbesserung
 

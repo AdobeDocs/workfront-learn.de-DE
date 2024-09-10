@@ -9,9 +9,9 @@ thumbnail: benefits-of-agile.png
 hide: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
 source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ Wie der Name schon sagt, ermöglicht es die agile Methodik den Teams, die Richtu
 
 ![Agiler Arbeitsstrom](assets/agile-work-stream.png)
 
-## Transparenz in die Arbeit eines Teams
+## Transparenz bezüglich der Arbeit eines Teams
 
-Agile Teams verwenden tägliche Treffen, die &quot;Standups&quot;genannt werden, um sicherzustellen, dass das Team sich weiterhin auf die priorisierte Liste der zu entwickelnden Funktionen oder Produkte konzentriert. Sie sind nicht mehr verwirrt, weil sie nicht wissen, woran die anderen in ihrem Team arbeiten. Sie führen regelmäßige Berichte darüber, was das Team am Vortag erreicht hat, welche Probleme/Hindernisse möglicherweise gelöst werden müssen und woran sie an diesem Tag arbeiten wollen.
+Agile-Teams nutzen tägliche Besprechungen, die sogenannten Standups, um sicherzustellen, dass sich das Team auf die nach Prioritäten geordnete Liste der zu entwickelnden Funktionen oder Produkte konzentriert. Sie sind nicht mehr verwirrt, weil sie nicht wissen, woran die anderen in ihrem Team arbeiten. Sie führen regelmäßige Berichte darüber, was das Team am Vortag erreicht hat, welche Probleme/Hindernisse möglicherweise gelöst werden müssen und woran sie an diesem Tag arbeiten wollen.
 
 
 
