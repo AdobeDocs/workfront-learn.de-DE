@@ -9,10 +9,10 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: e9a4f2bcd39e2598ff540bb4f300e891e817e939
+source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 50%
+source-wordcount: '709'
+ht-degree: 48%
 
 ---
 
@@ -49,6 +49,10 @@ Wenn Sie eine Anforderung aus der Anforderungswarteschlange öffnen, können Sie
 **Kann ich die Informationen von einem benutzerdefinierten Anfrageformular in ein benutzerdefiniertes Projektformular übertragen?**
 
 Ja. Wenn Sie ein benutzerdefiniertes Formular erstellen, wählen Sie sowohl [!UICONTROL Projekt] als auch [!UICONTROL Problem] als die Objekttypen aus. Sie können auch ein benutzerdefiniertes Projekt-Formular bearbeiten, um den Objekttyp &quot;Problem&quot;einzuschließen und umgekehrt.
+
+![Bild, das die Auswahl von 2 Objekttypen beim Erstellen eines benutzerdefinierten Formulars anzeigt](assets/faq-image-1.png)
+
+![Bild, das die Auswahl von 2 Objekttypen beim Bearbeiten eines benutzerdefinierten Formulars anzeigt](assets/faq-image-2.png)
 
 Hängen Sie das benutzerdefinierte Formular an die Anfrage an. Wenn Sie die Anfrage in ein Projekt umwandeln, wird das benutzerdefinierte Formular automatisch an das neue Projekt angehängt und die in Feldern enthaltenen Werte werden sowohl in der Anfrage als auch in den benutzerdefinierten Formularen des Projekts angezeigt.
 
