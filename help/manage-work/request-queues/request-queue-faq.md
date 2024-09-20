@@ -12,7 +12,7 @@ exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
 source-wordcount: '709'
-ht-degree: 48%
+ht-degree: 96%
 
 ---
 
@@ -28,7 +28,7 @@ Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
 **Ich habe Benutzenden Zugriff auf die Warteschlange gewährt, aber jetzt können sie auch das Projekt für die Anfrage-Warteschlange sehen. Warum?**
 
-In der Liste &quot;Wer kann dieser Warteschlange Anforderungen hinzufügen?&quot; Wenn Sie &quot;Personen mit Zugriff auf dieses Projekt&quot;auswählen, können alle Personen, denen Sie Anzeigerechte gewähren, um die Anforderungswarteschlange zu verwenden, auch die Anforderungswarteschlange in einer Projektliste anzeigen. Um dies zu vermeiden, verwenden Sie die Option &quot;Personen in der Firma dieses Projekts&quot;oder die Option &quot;Personen in der Gruppe dieses Projekts&quot;.
+Wenn Sie in der Liste „Wer kann dieser Warteschlange Anfragen hinzufügen?“ die Option „Benutzer mit Ansichtszugriff auf dieses Projekt“ auswählen, können alle Personen, denen Sie Ansichtszugriff gewähren, um die Anfrage-Warteschlange zu verwenden, auch die Anfrage-Warteschlange in einer Projektliste sehen. Um dies zu vermeiden, verwenden Sie die Option „Personen im Unternehmen dieses Projekts“ oder die Option „Personen in der Gruppe dieses Projekts“.
 
 **Kann ich eine Anfrage in ein Projekt umwandeln?**
 
@@ -44,11 +44,11 @@ Diese Tutorials zeigen Ihnen Folgendes:
 
 Sie können das Feld [!UICONTROL Suchen] in der Navigationsleiste verwenden, oder Sie finden die Anfrage-Warteschlange im Bereich [!UICONTROL Projekte] aufgelistet.
 
-Wenn Sie eine Anforderung aus der Anforderungswarteschlange öffnen, können Sie im Bereich &quot;Breadcrumbs&quot;auf den Projektnamen klicken.
+Wenn Sie eine Anfrage aus der Anfrage-Warteschlange öffnen, können Sie im Bereich „Breadcrumbs“ auf den Projektnamen klicken.
 
 **Kann ich die Informationen von einem benutzerdefinierten Anfrageformular in ein benutzerdefiniertes Projektformular übertragen?**
 
-Ja. Wenn Sie ein benutzerdefiniertes Formular erstellen, wählen Sie sowohl [!UICONTROL Projekt] als auch [!UICONTROL Problem] als die Objekttypen aus. Sie können auch ein benutzerdefiniertes Projekt-Formular bearbeiten, um den Objekttyp &quot;Problem&quot;einzuschließen und umgekehrt.
+Ja. Wenn Sie ein benutzerdefiniertes Formular erstellen, wählen Sie sowohl [!UICONTROL Projekt] als auch [!UICONTROL Problem] als die Objekttypen aus. Sie können auch ein benutzerdefiniertes Projekt-Formular bearbeiten, um den Objekt-Typ „Problem“ einzuschließen und umgekehrt.
 
 ![Bild, das die Auswahl von 2 Objekttypen beim Erstellen eines benutzerdefinierten Formulars anzeigt](assets/faq-image-1.png)
 
@@ -75,11 +75,11 @@ Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
 
-**Ist es empfehlenswert, einen benutzerdefinierten Status der Anforderungswarteschlange zu erstellen?**
+**Ist es empfehlenswert, einen benutzerdefinierten Status der Anfrage-Warteschlange zu erstellen?**
 
-Einige Kunden erstellen einen benutzerdefinierten Status der Anforderungswarteschlange, der mit &quot;Aktuell&quot;übereinstimmt. Sie können dann einen Bericht ausführen, der alle Anforderungswarteschlangen anzeigt, oder Anforderungswarteschlangen einfach aus einem Bericht ausschließen. Dies hat zwar den Vorteil, benutzerfreundlicher zu sein als die Verwendung von **Warteschlange>>Ist öffentlich>>Nicht gleich>>Keine**, hat aber den Nachteil, dass Benutzer, die Anfragewarteschlangen erstellen, die Verwendung vergessen, da der aktuelle Status ebenso funktioniert und im Großteil des Trainings-Materials angezeigt wird. Aus diesem Grund entscheiden sich viele Kunden dafür, den benutzerdefinierten Status der Anforderungswarteschlange nicht zu verwenden.
+Einige Kundinnen und Kunden erstellen einen benutzerdefinierten Status der Anfrage-Warteschlange, der mit „Aktuell“ übereinstimmt. Sie können dann einen Bericht ausführen, der alle Anfrage-Warteschlangen anzeigt, oder Anfrage-Warteschlangen einfach aus einem Bericht ausschließen. Dies hat zwar den Vorteil, benutzerfreundlicher zu sein als die Verwendung von **Warteschlange>>Ist öffentlich>>Nicht gleich>>Keine**. Gleichzeitig hat es aber den Nachteil, dass Benutzende, die Anfrage-Warteschlangen erstellen, die Verwendung möglicherweise vergessen, da der aktuelle Status ebenso funktioniert und im Großteil des Trainings-Materials angezeigt wird. Aus diesem Grund entscheiden sich viele Kundinnen und Kunden dazu, den benutzerdefinierten Status der Anfrage-Warteschlange nicht zu verwenden.
 
-Wenn Sie jedoch bereits den Status &quot;Anforderungswarteschlange&quot;in Ihrem Unternehmen verwenden und nur sicherstellen möchten, dass dieser ordnungsgemäß verwendet wird (oder Fälle korrigieren, in denen er nicht vorhanden ist), können Sie den Bericht &quot;**Aktive Anforderungswarteschlangen**&quot;erstellen, der im Video oben beschrieben wird, und den Filter für &quot;**Projekt>>Status entspricht>>Gleich>>Aktuell**&quot;in &quot;**Projekt>>Status>>Gleich&quot;>&quot;ändern. Aktuell**. Dadurch werden alle aktiven Anforderungswarteschlangen angezeigt, die den aktuellen Status anstelle des gewünschten Status der Anforderungswarteschlange verwenden. Wählen Sie alle angezeigten Projekte aus und führen Sie eine Massenbearbeitung durch, um die Status in die Anforderungswarteschlange zu ändern.
+Wenn Sie jedoch in Ihrem Unternehmen bereits den Status „Anfrage-Warteschlange“ verwenden und nur sicherstellen möchten, dass dieser ordnungsgemäß verwendet wird (oder Fälle korrigieren möchten, in denen dies nicht so ist), können Sie den Bericht **Aktive Anfrage-Warteschlangen** erstellen, der im Video oben beschrieben wird, und den Filter für **Projekt>>Status entspricht>>Gleich>>Aktuell** in **Projekt>>Status>>Gleich>>Aktuell** ändern. Dadurch werden alle aktiven Anfrage-Warteschlangen angezeigt, die den Status „Aktuell“ anstelle des von Ihnen gewünschten Status der Anfrage-Warteschlange verwenden. Wählen Sie alle angezeigten Projekte aus und führen Sie eine Massenbearbeitung durch, um die Status in „Anfrage-Warteschlangen“ zu ändern.
 
 ## Empfohlene Tutorials zu diesem Thema
 
