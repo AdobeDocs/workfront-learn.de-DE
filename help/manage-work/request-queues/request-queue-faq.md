@@ -10,9 +10,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '709'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -50,9 +50,9 @@ Wenn Sie eine Anfrage aus der Anfrage-Warteschlange öffnen, können Sie im Bere
 
 Ja. Wenn Sie ein benutzerdefiniertes Formular erstellen, wählen Sie sowohl [!UICONTROL Projekt] als auch [!UICONTROL Problem] als die Objekttypen aus. Sie können auch ein benutzerdefiniertes Projekt-Formular bearbeiten, um den Objekt-Typ „Problem“ einzuschließen und umgekehrt.
 
-![Bild, das die Auswahl von 2 Objekttypen beim Erstellen eines benutzerdefinierten Formulars anzeigt](assets/faq-image-1.png)
+![Bild, das zeigt, wie 2 Objekttypen beim Erstellen eines benutzerdefinierten Formulars ausgewählt werden](assets/faq-image-1.png)
 
-![Bild, das die Auswahl von 2 Objekttypen beim Bearbeiten eines benutzerdefinierten Formulars anzeigt](assets/faq-image-2.png)
+![Bild, das zeigt, wie 2 Objekttypen beim Bearbeiten eines benutzerdefinierten Formulars ausgewählt werden](assets/faq-image-2.png)
 
 Hängen Sie das benutzerdefinierte Formular an die Anfrage an. Wenn Sie die Anfrage in ein Projekt umwandeln, wird das benutzerdefinierte Formular automatisch an das neue Projekt angehängt und die in Feldern enthaltenen Werte werden sowohl in der Anfrage als auch in den benutzerdefinierten Formularen des Projekts angezeigt.
 
