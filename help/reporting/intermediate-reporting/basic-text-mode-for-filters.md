@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +47,11 @@ In diesem Video lernen Sie Folgendes:
 ## Aufgabe – Aufgaben herausfiltern, die ich als „Fertig mit meinem Teil“ markiert habe
 
 Der folgende Textmodus schließt Aufgaben aus, bei denen Benutzende „Fertig mit meinem Teil“ markiert haben. Sie müssen lediglich einen Aufgabenfilter erstellen, beliebige Filterregeln hinzufügen, dann in den Textmodus wechseln und den unten stehenden Code nach einem beliebigen Textmodus einfügen, der im Filter angezeigt wird.
+
+
+>[!WARNING]
+>
+> Dies ist nicht für die Verwendung in Kalenderfiltern vorgesehen.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## Aufgabe – Alle Aufgaben anzeigen, die ich anderen zugewiesen habe
 
 Erstellen Sie einen Aufgabenbericht mit den von Ihnen gewünschten Filtern, gehen Sie dann auf die Registerkarte „Filter“ und klicken Sie auf „Zum Textmodus wechseln“. Fügen Sie diesen Code zu dem bereits vorhandenen hinzu:
+
+>[!WARNING]
+> 
+> Dies ist nicht für die Verwendung in Kalenderfiltern vorgesehen.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN

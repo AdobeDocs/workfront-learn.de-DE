@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '2420'
+source-wordcount: '2414'
 ht-degree: 99%
 
 ---
@@ -156,7 +156,6 @@ ht-degree: 99%
 
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
       + [Erstellen eines globalen und eines einmaligen Genehmigungsprozesses](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [Anhängen und Bearbeiten vorhandener Genehmigungsprozesse](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Überprüfen und Genehmigen digitaler Arbeiten](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegieren von Aufgaben, Problemen und Genehmigungen](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Anwenden von Meilensteinen](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
