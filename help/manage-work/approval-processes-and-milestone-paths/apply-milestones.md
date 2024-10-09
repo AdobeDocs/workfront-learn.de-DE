@@ -1,6 +1,6 @@
 ---
 title: Anwenden von Meilensteinen
-description: Lernen Sie, wie Sie Meilensteinpfade auf ein  [!DNL  Workfront] -Projekt anwenden und Schlüsselaufgaben als Meilensteinschritte innerhalb des Projekts zuordnen können.
+description: Erfahren Sie, wie Sie Meilensteinpfade auf ein Projekt anwenden und wichtige Aufgaben als Meilensteinschritte innerhalb des Projekts zuordnen.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -9,13 +9,14 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '85'
+ht-degree: 68%
 
 ---
 
@@ -31,5 +32,10 @@ In diesem Video lernen Sie Folgendes:
 
 >[!TIP]
 >
->Informationen zum Erstellen einer Meilensteinansicht finden Sie in der Aktivität „Meilensteinansicht“ unter [Erstellen einer Basisansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=de).
+>Informationen zum Erstellen einer Meilensteinansicht finden Sie in der Aktivität „Meilensteinansicht“ unter [Erstellen einer Basisansicht](/help/reporting/basic-reporting/create-a-basic-view.md).
 
+## Empfohlene Tutorials zu diesem Thema
+
+* [Anzeigen von Meilensteinen](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Erstellen von Meilensteinen](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Meilensteinansichtsaktivität in Erstellen einer einfachen Ansicht](/help/reporting/basic-reporting/create-a-basic-view.md)
