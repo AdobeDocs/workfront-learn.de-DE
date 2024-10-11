@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-08-31T00:00:00Z
+last-substantial-update: 2024-10-11T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '377'
 ht-degree: 100%
 
 ---
@@ -53,3 +54,11 @@ Wenn der Blueprint installiert wurde, können Sie auf **[!UICONTROL Mehr Details
 ![Details zur Installation eines Blueprints](assets/pt-blueprints-04.png)
 
 Wenn der Blueprint noch nicht installiert ist, können Sie dies bei Ihren Systemadmins anfordern.
+
+## Empfohlene Tutorials zu diesem Thema
+
+* [Erstellen eines Projekts direkt aus einer Vorlage](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [Freigeben einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Ein bestehendes Projekt kopieren](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

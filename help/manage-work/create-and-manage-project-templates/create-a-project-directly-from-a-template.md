@@ -8,11 +8,12 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '197'
 ht-degree: 100%
 
 ---
@@ -37,3 +38,11 @@ Im Detailfenster können Sie die Einstellungen des neuen Projekts ändern.
 
 
 ![Favorisierte Vorlagen für ein neues Projekt](assets/direct-template-03.png)
+
+## Empfohlene Tutorials zu diesem Thema
+
+* [Erstellen einer Projektvorlage und Informationen über Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Freigeben einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Ein bestehendes Projekt kopieren](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
