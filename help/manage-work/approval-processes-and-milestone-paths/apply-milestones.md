@@ -1,6 +1,6 @@
 ---
 title: Anwenden von Meilensteinen
-description: Erfahren Sie, wie Sie Meilensteinpfade auf ein Projekt anwenden und wichtige Aufgaben als Meilensteinschritte innerhalb des Projekts zuordnen.
+description: Erfahren Sie, wie Sie Meilensteinpfade auf ein Projekt anwenden und wichtige Aufgaben als Meilensteinschritte innerhalb des Projekts verknüpfen.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -14,9 +14,9 @@ jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -38,4 +38,4 @@ In diesem Video lernen Sie Folgendes:
 
 * [Anzeigen von Meilensteinen](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [Erstellen von Meilensteinen](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Meilensteinansichtsaktivität in Erstellen einer einfachen Ansicht](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [Aktivität „Meilensteinansicht“ unter „Erstellen einer Basisansicht“](/help/reporting/basic-reporting/create-a-basic-view.md)

@@ -1,6 +1,6 @@
 ---
 title: Anzeigen von Meilensteinen
-description: Erfahren Sie, wie Sie Meilensteine in einem Projekt anzeigen und die Meilensteinansicht im Bereich [!UICONTROL Projekt] verwenden.
+description: Erfahren Sie, wie Sie Meilensteine in einem Projekt anzeigen und die Ansicht „Meilensteine“ im Bereich [!UICONTROL Projekt] verwenden.
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -14,9 +14,9 @@ jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 63%
 In diesem Video lernen Sie Folgendes:
 
 * Ansicht „Meilensteine“ in einem bestimmten Projekt
-* Die Meilensteinansicht in einer Liste von Projekten lesen
+* Lesen der Meilensteinansicht in einer Liste von Projekten
 
 >[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)
 
