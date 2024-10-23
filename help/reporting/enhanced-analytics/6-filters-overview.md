@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Filtern
-description: Erfahren Sie in der [!UICONTROL erweiterten Analyse], wie Sie anhand allgemeiner Projektfilter oder mithilfe eines benutzerdefinierten Formulars einen Filter hinzufügen.
+description: Erfahren Sie, wie Sie einen Filter hinzufügen, der auf allgemeinen Projektfeldern basiert, und wie Sie einen Filter mit einem benutzerdefinierten Formular hinzufügen, alles in [!UICONTROL Verbesserte Analyse].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -12,10 +12,10 @@ jira: KT-8721
 recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

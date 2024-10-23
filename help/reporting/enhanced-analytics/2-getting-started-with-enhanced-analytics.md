@@ -1,5 +1,5 @@
 ---
-title: Erste Schritte mit der [!UICONTROL erweiterten Analyse]
+title: Erste Schritte mit [!UICONTROL Verbesserte Analyse]
 description: Lernen Sie die wichtigsten Felder kennen, die in Workfront aktualisiert werden müssen, damit Ihnen die erweiterte Analyse zeigt, wie Ihre Teams und Projekte in Workfront vorankommen.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ level: Beginner
 jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Erste Schritte mit der [!UICONTROL erweiterten Analyse]
+# Erste Schritte mit [!UICONTROL Verbesserte Analyse]
 
 Die erweiterte Analyse zeigt Ihnen, wie Ihre Teams und Projekte in Workfront vorankommen und was in früheren Projekten passiert ist, woraus Sie möglicherweise für die Planung zukünftiger Projekte lernen können.
 

@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Datumsbereichen und Zeitrahmen
-description: In der [!UICONTROL erweiterten Analyse] werden Datumsbereiche mithilfe des Kalender-Widgets angegeben. Zeitrahmen werden innerhalb eines Diagramms erstellt.
+description: In [!UICONTROL Verbesserte Analyse] werden Datumsbereiche mithilfe des Kalender-Widgets angegeben. Zeitrahmen werden innerhalb eines Diagramms erstellt.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

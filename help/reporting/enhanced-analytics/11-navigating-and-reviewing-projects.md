@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zur Navigation und Überprüfung von Projekten
-description: Erfahren Sie, wie Sie das Flugplandiagramm in der [!UICONTROL erweiterten Analyse] lesen können.
+description: Erfahren Sie, wie Sie das Diagramm für den Flugplan in [!UICONTROL Verbesserte Analyse] lesen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -12,10 +12,10 @@ jira: KT-8729
 recommendations: noDisplay,noCatalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '459'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

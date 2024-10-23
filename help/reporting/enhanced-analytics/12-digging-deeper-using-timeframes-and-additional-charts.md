@@ -1,6 +1,6 @@
 ---
 title: Tiefere Einblicke zu Zeitrahmen und zusätzlichen Diagrammen
-description: Erfahren Sie, wie Sie ein Projekt im Flugplan-Diagramm aufschlüsseln, damit der Burndown-Chart und die Aufgaben im Flugdiagramm in der [!UICONTROL erweiterten Analyse] erscheinen.
+description: Erfahren Sie, wie Sie ein Projekt im Flugplan-Diagramm weiter aufschlüsseln, damit das Niederschlagsdiagramm und die Aufgaben im Flugdiagramm in [!UICONTROL Verbesserte Analyse] angezeigt werden.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -12,10 +12,10 @@ jira: KT-8730
 recommendations: noDisplay,noCatalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
