@@ -12,15 +12,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # Ein bestehendes Projekt kopieren
 
-Manchmal brauchen Sie keine Vorlage, um ein Projekt zu erstellen, sondern müssen nur ein Projekt zur einmaligen Verwendung kopieren. Dazu benötigen Sie eine Standardlizenz mit Zugriff auf Projekte mit der Option Bearbeiten und Erstellen .
+Manchmal brauchen Sie keine Vorlage, um ein Projekt zu erstellen, sondern müssen nur ein Projekt zur einmaligen Verwendung kopieren. Dazu benötigen Sie eine Standardlizenz mit Zugriffsrechten zum Bearbeiten und Erstellen von Projekten.
 
 Navigieren Sie zu dem Projekt, das Sie kopieren möchten, und klicken Sie auf die drei Punkte neben dem Projektnamen. Wählen Sie dann „Kopieren“.
 
