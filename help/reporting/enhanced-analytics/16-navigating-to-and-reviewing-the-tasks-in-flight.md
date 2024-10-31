@@ -1,6 +1,6 @@
 ---
 title: Überprüfen der Aufgaben während des Fluges
-description: Erfahren Sie, wie Sie in [!UICONTROL Enhanced Analytics] auf die Aufgaben im Flugdiagramm zugreifen und schnell ermitteln, welche Aufgaben in einem Projekt nicht abgeschlossen wurden.
+description: Erfahren Sie, wie Sie in der [!UICONTROL erweiterten Analyse] auf die Aufgaben im Flugdiagramm zugreifen und schnell feststellen können, welche Aufgaben in einem Projekt noch nicht erledigt wurden.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '246'
+ht-degree: 100%
 
 ---
 

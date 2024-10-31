@@ -1,6 +1,6 @@
 ---
 title: Informationen zu Arbeits- und Mitarbeiterdiagrammen
-description: In [!UICONTROL Verbesserte Analyse] zeigen Arbeitsdiagramme Aktivitäten aus der Projekt- und Aufgabenperspektive an, während Diagramme für Personen Aktivitäten aus der Perspektive eines Heimteams zeigen.
+description: Die Arbeitsdiagramme in der [!UICONTROL erweiterten Analyse] zeigen Aktivitäten auf Projekt- und Aufgabenebene an, während Mitarbeiterdiagramme Aktivitäten aus der Perspektive eines Stamm-Teams zeigen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '188'
+ht-degree: 100%
 
 ---
 

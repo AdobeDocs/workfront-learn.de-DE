@@ -1,6 +1,6 @@
 ---
 title: Tiefere Einblicke in die Navigation
-description: Erfahren Sie, wie Sie in [!UICONTROL Enhanced Analytics] schnell sehen, wie viel Zeit Mitarbeiter für jedes Projekt einsetzen.
+description: Erfahren Sie, wie Sie in der [!UICONTROL erweiterten Analyse] schnell sehen können, wie viel Zeit Mitarbeitende für jedes Projekt aufwenden.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -13,9 +13,9 @@ doc-type: video
 recommendations: noDisplay,noCatalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '224'
+ht-degree: 100%
 
 ---
 
