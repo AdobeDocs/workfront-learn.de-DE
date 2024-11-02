@@ -8,13 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-11-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c874b2d05b0d95194ce15266592d473e6f18ce79
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 87%
 
 ---
 
@@ -23,11 +25,18 @@ ht-degree: 100%
 In diesem Video lernen Sie Folgendes:
 
 * Grundlegende Verwaltung der Projektzeitleisten
-* Planen von Projekten anhand des Start- oder Fertigstellungsdatums
-* Aufgabenbeschränkungen
+* Erläuterung des Zeitplanmodus
+* Erstellen einer Ansicht &quot;Task Constraint&quot;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >
->Eine ausführlichere Erläuterung zu Dauertypen und Aufgabenbeschränkungen finden Sie unter [Verstehen und Verwalten von Dauertypen und Aufgabenbeschränkungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=de).
+>Eine ausführlichere Erläuterung zu Dauertypen und Aufgabenbeschränkungen finden Sie unter [Verstehen und Verwalten von Dauertypen und Aufgabenbeschränkungen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
+
+## Empfohlene Tutorials zu diesem Thema
+
+* [Verfolgen des Fortschritts über die Projektzeitleiste](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+* [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
