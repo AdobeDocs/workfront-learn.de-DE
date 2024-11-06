@@ -6,16 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
-source-wordcount: '1179'
-ht-degree: 100%
+source-wordcount: '1182'
+ht-degree: 91%
 
 ---
 
 # Best Practice – Proofing
 
-## Was ist eine Best Practice für Adobe Workfront?
+## Was ist eine „Best Practice“ für Adobe Workfront?
 
 Best Practices sind Richtlinien, die eine effektive, effiziente Vorgehensweise darstellen, die von Ihnen und den Benutzenden in Ihrem Unternehmen leicht übernommen werden können und die sich in Ihrem Unternehmen erfolgreich wiederholen lassen.
 
@@ -23,9 +23,9 @@ Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Pr
 
 ## Navigieren auf dieser Seite
 
-Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
+Wenn Sie durch diese Seite blättern, finden Sie zunächst eine allgemeine Liste aller Best Practices für das Thema. Auf diese Weise können Sie die Empfehlungen überprüfen, ohne sich mit den Details des „Warum“ vertraut zu machen.
 
-Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
+Die Frage „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
 
 </br>
 </br>
@@ -34,7 +34,7 @@ Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden
 
 * Nehmen Sie sich die Zeit, um Vorlagen für Proofing-Workflows zu erstellen.
 
-* Deaktivieren Sie im Workfront-Setup die Einstellung „E-Mails von Workfront senden, wenn ein Korrekturabzug kommentiert wird“.
+* Deaktivieren Sie in den Workfront-Setups die Einstellung &quot;E-Mails von Workfront senden, wenn ein Kommentar zu einem Testversand abgegeben wird&quot;.
 
 * Legen Sie in Workfront die Einstellung „Benutzerrollen für Nicht-Empfänger, die einen Dokument-Korrekturabzug öffnen“ auf „Schreibgeschützt“ oder „Prüfer“ fest.
 
@@ -72,7 +72,7 @@ Vorlagen beschleunigen und optimieren nicht nur die Erstellung und Zuweisung von
 
 **Best Practice**
 
-Deaktivieren Sie im Workfront-Setup die Einstellung „E-Mails von Workfront senden, wenn ein Korrekturabzug kommentiert wird“.
+Deaktivieren Sie in den Workfront-Setups die Einstellung &quot;E-Mails von Workfront senden, wenn ein Kommentar zu einem Testversand abgegeben wird&quot;.
 
 
 
@@ -112,11 +112,7 @@ Passen Sie die Backend-Einstellungen für den Korrekturabzug an, damit Benutzend
 
 **Das sind die Gründe**
 
-Wählen Sie in den Korrekturabzugseinstellungen die Option „F j, Y, gi:a“ für Benutzende aus, die die Korrekturabzugsfristen/-zeiten im AM/PM-Format sehen möchten. Für Gebiete, in denen das 12-Stunden-Zeitformat gängig ist, sorgt dies für mehr Klarheit bei den Fristen.
-
-
-
-**Hinweis**: Diese Einstellung finden Sie im Workfront-Hauptmenü unter „Proofing“ > „Kontoeinstellungen“ > „Benutzer“. Bearbeiten Sie dort für jede Person das Feld „Datumsformat“.
+Die Standardeinstellung ist ein 24-Stunden-Uhrenformat, das für diejenigen, die nicht damit vertraut sind, verwirrend sein kann. Um das Format zu ändern, navigieren Sie zum Workfront-Hauptmenü > Testversand > Kontoeinstellungen > Benutzer. Doppelklicken Sie auf einen Benutzer, um einen auszuwählen, und bearbeiten Sie dann das Feld Datumsformat im Abschnitt Persönliche Einstellungen . Sie müssen jeden Benutzer einzeln auswählen, um ihn zu ändern.
 
 </br>
 </br>
@@ -221,7 +217,7 @@ Mit der Korrekturabzugsrolle „Genehmigende Person“ können Benutzende keine 
 
 Vermeiden Sie die Korrekturabzugs-E-Mail-Warnoption „Alle Aktivitäten“.
 
-**Begründung**
+**Das sind die Gründe**
 
 Mit dieser Option wird bei jedem Vorgang im Zusammenhang mit dem Korrekturabzug eine E-Mail-Benachrichtigung gesendet – also bei jedem Kommentar, jeder veröffentlichten Antwort, jeder Entscheidung usw. Die Empfängerin bzw. der Empfänger sieht im Grunde die Proofing-Aktivität in Echtzeit.
 
