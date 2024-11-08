@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Datumstypen und zum Fortschrittsstatus
-description: Erfahren Sie, wie Sie die verschiedenen Datumsarten in [!DNL  Workfront] anzeigen und den Fortschrittsstatus nutzen können, um den Arbeitsfortschritt zu verfolgen.
+description: Erfahren Sie mehr über geplante, prognostizierte und tatsächliche Daten und deren Verwendung bei der Berechnung des Fortschrittsstatus.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -9,12 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8782
+last-substantial-update: 2024-11-08T00:00:00Z
+recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9bf98f05ec4c3d838ea0e85423c156cc411b0169
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 53%
 
 ---
 
@@ -22,18 +24,19 @@ ht-degree: 100%
 
 In diesem Video lernen Sie Folgendes:
 
-* Auswählen einer Ansicht zum Vergleichen verschiedener Datumstypen von [!DNL Workfront's]
-* Verwenden des Fortschrittsstatus zum Verfolgen des Arbeitsfortschritts
+* Geplante, geplante und tatsächliche Daten und
+* Verwendung bei der Berechnung des Fortschrittsstatus
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Wie im Video erwähnt, ist es wichtig, dass die Benutzenden den Status von **[!UICONTROL Neu]** in **[!UICONTROL In Bearbeitung]** ändern, wenn sie eine Aufgabe beginnen, damit das [!UICONTROL tatsächliche Startdatum] korrekt ist. Falls sie dies jedoch vergessen, wenn sie die Aufgabe beginnen, können sie jederzeit zurückgehen und das [!UICONTROL tatsächliche Startdatum] bearbeiten.
+>Es ist wichtig, dass Personen den Status von **[!UICONTROL Neu]** in **[!UICONTROL Wird ausgeführt]** ändern, wenn sie eine Aufgabe starten, damit das [!UICONTROL tatsächliche Startdatum] korrekt ist. Falls sie dies jedoch vergessen, wenn sie die Aufgabe beginnen, können sie jederzeit zurückgehen und das [!UICONTROL tatsächliche Startdatum] bearbeiten.
 
 
-<!---
-Task progress status overview
-Definitions for the project, task, and issue dates within Workfront
-Project timelines
---->
+## Empfohlene Tutorials zu diesem Thema
+
+* [Grundlegendes zu Projektzeitleisten](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Verfolgen des Fortschritts über die Projektzeitleiste](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
