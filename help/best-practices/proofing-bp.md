@@ -8,9 +8,9 @@ last-substantial-update: 2024-11-06T00:00:00Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1182'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Die Frage „Warum sind das Best Practices?“ nach der Übersichtsliste finden 
 
 * Nehmen Sie sich die Zeit, um Vorlagen für Proofing-Workflows zu erstellen.
 
-* Deaktivieren Sie in den Workfront-Setups die Einstellung &quot;E-Mails von Workfront senden, wenn ein Kommentar zu einem Testversand abgegeben wird&quot;.
+* Deaktivieren Sie im Workfront-Setup die Einstellung „E-Mails von Workfront senden, wenn ein Proof kommentiert wird“.
 
 * Legen Sie in Workfront die Einstellung „Benutzerrollen für Nicht-Empfänger, die einen Dokument-Korrekturabzug öffnen“ auf „Schreibgeschützt“ oder „Prüfer“ fest.
 
@@ -73,7 +73,7 @@ Vorlagen beschleunigen und optimieren nicht nur die Erstellung und Zuweisung von
 
 **Best Practice**
 
-Deaktivieren Sie in den Workfront-Setups die Einstellung &quot;E-Mails von Workfront senden, wenn ein Kommentar zu einem Testversand abgegeben wird&quot;.
+Deaktivieren Sie im Workfront-Setup die Einstellung „E-Mails von Workfront senden, wenn ein Proof kommentiert wird“.
 
 
 
@@ -113,7 +113,7 @@ Passen Sie die Backend-Einstellungen für den Korrekturabzug an, damit Benutzend
 
 **Das sind die Gründe**
 
-Die Standardeinstellung ist ein 24-Stunden-Uhrenformat, das für diejenigen, die nicht damit vertraut sind, verwirrend sein kann. Um das Format zu ändern, navigieren Sie zum Workfront-Hauptmenü > Testversand > Kontoeinstellungen > Benutzer. Doppelklicken Sie auf einen Benutzer, um einen auszuwählen, und bearbeiten Sie dann das Feld Datumsformat im Abschnitt Persönliche Einstellungen . Sie müssen jeden Benutzer einzeln auswählen, um ihn zu ändern.
+Standardmäßig ist ein 24-Stunden-Zeitformat eingerichtet. Dies kann für Personen verwirrend sein, die nicht damit vertraut sind. Ändern Sie das Format, indem Sie im Workfront-Hauptmenü die Option „Proofing“ > „Kontoeinstellungen“ > „Benutzende“ auswählen. Doppelklicken Sie auf einen Benutzernamen, um ihn auszuwählen, und bearbeiten Sie im Abschnitt „Persönliche Einstellungen“ das Feld „Datumsformat“. Sie müssen jeden Benutzernamen einzeln auswählen, um Änderungen vorzunehmen.
 
 </br>
 </br>
