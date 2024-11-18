@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Datumstypen und zum Fortschrittsstatus
-description: Erfahren Sie mehr über geplante, prognostizierte und tatsächliche Daten und deren Verwendung bei der Berechnung des Fortschrittsstatus.
+description: Erfahren Sie mehr über geplante, voraussichtliche und tatsächliche Daten und deren Verwendung bei der Berechnung des Fortschrittsstatus.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 source-git-commit: 816fd351752ee8334f13324711d363406e4d60d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
@@ -24,14 +24,14 @@ ht-degree: 53%
 
 In diesem Video lernen Sie Folgendes:
 
-* Geplante, geplante und tatsächliche Daten und
+* Geplante, voraussichtliche und tatsächliche Daten und
 * Verwendung bei der Berechnung des Fortschrittsstatus
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Es ist wichtig, dass Personen den Status von **[!UICONTROL Neu]** in **[!UICONTROL Wird ausgeführt]** ändern, wenn sie eine Aufgabe starten, damit das [!UICONTROL tatsächliche Startdatum] korrekt ist. Falls sie dies jedoch vergessen, wenn sie die Aufgabe beginnen, können sie jederzeit zurückgehen und das [!UICONTROL tatsächliche Startdatum] bearbeiten.
+>Es ist wichtig, dass Benutzende den Status von **[!UICONTROL Neu]** in **[!UICONTROL In Bearbeitung]** ändern, wenn sie eine Aufgabe beginnen, damit das [!UICONTROL tatsächliche Startdatum] korrekt ist. Falls sie dies jedoch vergessen, wenn sie die Aufgabe beginnen, können sie jederzeit zurückgehen und das [!UICONTROL tatsächliche Startdatum] bearbeiten.
 
 
 ## Empfohlene Tutorials zu diesem Thema
