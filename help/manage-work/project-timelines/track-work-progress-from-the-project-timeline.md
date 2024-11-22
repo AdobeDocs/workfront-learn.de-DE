@@ -1,6 +1,6 @@
 ---
 title: Verfolgen des Fortschritts über die Projektzeitleiste
-description: Erfahren Sie, wie Sie den Fortschritt der Arbeit von der Projekt-Timeline aus mithilfe des Prozentsatzes für Abschluss und Fortschritt verfolgen.
+description: Erfahren Sie, wie Sie den Arbeitsfortschritt in der Projekt-Timeline anhand von „Prozent abgeschlossen“ und „Fortschrittsstatus“ verfolgen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,20 +14,20 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
 source-git-commit: 7bfb6ee5c710159f57fd5e338cd11d6d79f803ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 # Verfolgen des Fortschritts über die Projektzeitleiste
 
-Stellen Sie sicher, dass die Aufgaben so vorankommen, wie sie die Projektzeiträume erreichen sollten.
+Vergewissern Sie sich, dass Aufgaben wie beabsichtigt vorankommen, um Projektfristen einzuhalten.
 
 In diesem Video lernen Sie Folgendes:
 
 * Prozent abgeschlossen
-* Fortschritt
+* Fortschrittsstatus
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on)
 
