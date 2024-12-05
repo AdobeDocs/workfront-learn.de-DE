@@ -11,16 +11,16 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 85%
 
 ---
 
 # Informationen zu Arbeits- und Mitarbeiterdiagrammen
 
-Arbeitsdiagramme zeigen Aktivitäten auf Projekt- und Aufgabenebene an, während Mitarbeiterdiagramme Aktivitäten aus der Perspektive eines Stamm-Teams zeigen.
+Arbeitsdiagramme zeigen Aktivitäten aus der Projekt- und Aufgabenperspektive an, während das Personendiagramm die Aktivitäten aus der Perspektive eines Heimteams anzeigt.
 
 Wählen Sie im Menü des linken Bedienfelds den Typ der Analysediagramme aus, die Sie anzeigen möchten – Arbeits- oder Mitarbeiterdiagramme.
 
@@ -40,11 +40,8 @@ Der Burndown und die Aufgaben in den Flugdiagrammen werden angezeigt, wenn Sie e
 * Klicken Sie in der Flugplan-Ansicht auf ein Projekt, um darunter eine Burndown-Ansicht dieses Projekts anzuzeigen.
 * Klicken Sie in der Treemap-Ansicht auf ein Projekt, um darunter einen Burndown sowie die Aufgaben in der Flugansicht anzuzeigen.
 
-## Mitarbeiterdiagramme
+## Personendiagramm
 
-![Ein Bild mit der Suche nach der [!UICONTROL Analyse]-Funktion in [!DNL Workfront Classic]](assets/section-1-2.png)
+![Ein Bild der Suche nach [!UICONTROL Analyse]-Funktionen in [!DNL Workfront Classic]](assets/section-1-2.png)
 
-Mitarbeiterdiagramme bestehen aus:
 
-1. Aktivität nach Team
-1. Team-Aktivität
