@@ -15,7 +15,7 @@ exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 78%
 
 In diesem Video lernen Sie Folgendes:
 
-* Validierungen bei Testsendungen überprüfen
-* Validierungen von Dokumenten überprüfen
+* Überprüfen von Genehmigungen zu Korrekturabzügen
+* Überprüfen von Genehmigungen zu Dokumenten
 * Hochladen eines Dokuments
-* Schulung zum Hochladen von Testsendungen
+* Finden von Schulungen zum Hochladen von Korrekturabzügen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
