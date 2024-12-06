@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 85%
+source-wordcount: '291'
+ht-degree: 89%
 
 ---
 
@@ -40,8 +40,15 @@ Der Burndown und die Aufgaben in den Flugdiagrammen werden angezeigt, wenn Sie e
 * Klicken Sie in der Flugplan-Ansicht auf ein Projekt, um darunter eine Burndown-Ansicht dieses Projekts anzuzeigen.
 * Klicken Sie in der Treemap-Ansicht auf ein Projekt, um darunter einen Burndown sowie die Aufgaben in der Flugansicht anzuzeigen.
 
-## Personendiagramm
+## Personendiagramm - Aktivität nach Team
 
-![Ein Bild der Suche nach [!UICONTROL Analyse]-Funktionen in [!DNL Workfront Classic]](assets/section-1-2.png)
+![Ein Bild, das ein Diagramm der Aktivitäten nach Teams mit Zahlen zu den Bereichen anzeigt, die in den folgenden Aufzählungspunkten beschrieben werden](assets/section-3-1.png)
 
+Im Diagramm sehen Sie Folgendes:
+
+1. Namen der Stamm-Teams auf der linken Seite.
+1. Die Datumsangaben unten stammen aus dem ausgewählten Datumsbereich.
+1. Lila Kästchen zeigen an, dass sich die dem Projekt zugewiesenen Personen an diesem Tag angemeldet haben, wobei ein dunklerer Farbton eine höhere Anzahl von angemeldeten Personen anzeigt.
+1. Rosafarbene Kästchen zeigen an, dass Personen den Status einer Aufgabe für das Projekt an diesem Tag geändert haben, wobei ein dunklerer Farbton eine höhere Anzahl von Aufgabenstatusänderungen anzeigt.
+1. Blaue Kästchen zeigen an, dass die Personen eine Aufgabe für das Projekt abgeschlossen haben, wobei ein dunklerer Farbton eine höhere Anzahl abgeschlossener Aufgaben anzeigt.
 
