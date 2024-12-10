@@ -11,19 +11,13 @@ level: Beginner
 last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '50'
+ht-degree: 50%
 
 ---
 
 # Schließen von Aufgaben und Problemen
 
-Einer der ersten Schritte zum Schließen eines [!DNL Workfront]-Projekts ist es, sicherzustellen, dass alle Aufgaben und Probleme den Status „Abgeschlossen“ oder einen gleichwertigen Status aufweisen.
-
-Wenn das Feld [!UICONTROL Prozent abgeschlossen] in der Kopfzeile des Projekts „100 %“ anzeigt, wissen Sie, dass alle Ihre Aufgaben als 100 % abgeschlossen markiert wurden. Allerdings wird eine Aufgabe, die [!UICONTROL Abgeschlossen – Ausstehende Genehmigung] ist, immer noch als 100 % angezeigt, also vergessen Sie nicht, diese zu überprüfen. Alle Tipps zu Genehmigungen finden Sie unter [Abgeschlossene Genehmigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html?lang=de).
-
-Wenn Sie unvollständige Ausgaben haben, auch solche, die noch nicht genehmigt sind, wird neben der Registerkarte mit Problemen eine Zahl angezeigt, die die Anzahl der Probleme angibt. Wenn die Zahl Null ist, gibt es keine nicht abgeschlossenen Probleme.
-
-![Projekt, das [!UICONTROL Prozent abgeschlossen] und offene Probleme anzeigt](assets/close-tasks-and-issues.png)
+Das Tutorial zum Schließen von Aufgaben und Problemen wurde entfernt, da der Inhalt bereits zwischen &quot;Ändern des Projektstatus in abgeschlossen&quot;und &quot;Abgeschlossene Genehmigungen&quot;enthalten ist.
