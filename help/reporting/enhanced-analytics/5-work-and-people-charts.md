@@ -12,15 +12,15 @@ jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '291'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # Informationen zu Arbeits- und Mitarbeiterdiagrammen
 
-Arbeitsdiagramme zeigen Aktivitäten aus der Projekt- und Aufgabenperspektive an, während das Personendiagramm die Aktivitäten aus der Perspektive eines Heimteams anzeigt.
+Arbeitsdiagramme zeigen Aktivitäten auf Projekt- und Aufgabenebene an, während das Mitarbeiterdiagramm Aktivitäten aus der Perspektive eines Stamm-Teams zeigt.
 
 Wählen Sie im Menü des linken Bedienfelds den Typ der Analysediagramme aus, die Sie anzeigen möchten – Arbeits- oder Mitarbeiterdiagramme.
 
@@ -40,7 +40,7 @@ Der Burndown und die Aufgaben in den Flugdiagrammen werden angezeigt, wenn Sie e
 * Klicken Sie in der Flugplan-Ansicht auf ein Projekt, um darunter eine Burndown-Ansicht dieses Projekts anzuzeigen.
 * Klicken Sie in der Treemap-Ansicht auf ein Projekt, um darunter einen Burndown sowie die Aufgaben in der Flugansicht anzuzeigen.
 
-## Personendiagramm - Aktivität nach Team
+## Mitarbeiterdiagramm – Aktivität nach Team
 
 ![Ein Bild, das ein Diagramm der Aktivitäten nach Teams mit Zahlen zu den Bereichen anzeigt, die in den folgenden Aufzählungspunkten beschrieben werden](assets/section-3-1.png)
 
