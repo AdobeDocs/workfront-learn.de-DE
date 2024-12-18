@@ -10,24 +10,30 @@ role: User
 level: Beginner
 jira: KT-10135
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 58%
 
 ---
 
 # Aufzeichnen der gelernten Lektionen
 
-Einige Workfront-Kundinnen und-Kunden führen beim Abschluss eines Projekts eine Aufgabe zum Thema „Gelernte Lektionen“ durch. Diese Aufgabe kann auf unterschiedliche Weise verwendet werden.
+In diesem Video werden Sie die Vorteile von sehen:
 
-* Verwenden Sie die Aufgabe „Gelernte Lektionen“, um eine Besprechung darzustellen. Erfassen Sie Besprechungsnotizen in den Aufgabenaktualisierungen.
-* Sie können auch ein benutzerdefiniertes Formular an die Aufgabe oder das Projekt anhängen, um die benötigten Informationen zu den „gelernten Lektionen“ zu erfassen.
+* Erstellung einer Aufgabe „Erfahrungsauswertung“
+* Anhängen eines benutzerdefinierten Formulars mit „Erfahrungswerten“ an Ihr Projekt
+* Erstellen benutzerdefinierter Berichte für „Erfahrungsauswertung“
+* Erstellen eines Projekts für „Erfahrungsauswertung“
 
-Ein Vorteil des benutzerdefinierten Formulars ist, dass alle Felder berichtspflichtig sind, sodass Sie benutzerdefinierte [!DNL Workfront]-Berichte erstellen können, um diese Informationen zu überprüfen und zu verwalten und gewonnene Erkenntnisse über viele Projekttypen oder -gruppen hinweg zu ermitteln.
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-Wenn Ihr Unternehmen einen komplexeren Projektnachbearbeitungsprozess hat – mit genügend Schritten, um als eigenes Projekt zu gelten – sollten Sie am besten ein separates Projekt in [!DNL Workfront] erstellen.
+## Empfohlene Tutorials zu diesem Thema
 
-Mit dieser Methode können Sie das Projekt, das für die eigentliche erbrachte Leistung verwendet wurde, abschließen, wodurch die Berichtersellung über das abgeschlossene Projekt genauer wird. Verwenden Sie dann ein separates Nachbearbeitungsprojekt, um alle nachfolgenden Schritte zu verfolgen.
-
-Sprechen Sie mit Ihrem internen [!DNL Workfront]-Team, um mehr über den Projektnachbearbeitungsprozess in Ihrem Unternehmen zu erfahren.
+* [Ändern des Projektstatus in „abgeschlossen“](/help/manage-work/projects/change-the-project-status.md)
+* [Abschließen von Genehmigungen](/help/manage-work/close-a-project/complete-approvals.md)
+* [Hochladen von Assets](/help/manage-work/close-a-project/upload-assets.md)
+* [Aufzeichnen und Überprüfen der Stunden](/help/manage-work/close-a-project/log-and-review-hours.md)

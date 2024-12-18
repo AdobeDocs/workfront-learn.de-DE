@@ -12,10 +12,12 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8933
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
+recommendations: noDisplay,catalog
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 100%
 
 ---
 
@@ -31,5 +33,10 @@ In diesem Video lernen Sie Folgendes:
 
 >[!TIP]
 >
->Informationen zum Erstellen einer Meilensteinansicht finden Sie in der Aktivität „Meilensteinansicht“ unter [Erstellen einer Basisansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=de).
+>Informationen zum Erstellen einer Meilensteinansicht finden Sie in der Aktivität „Meilensteinansicht“ unter [Erstellen einer Basisansicht](/help/reporting/basic-reporting/create-a-basic-view.md).
 
+## Empfohlene Tutorials zu diesem Thema
+
+* [Anzeigen von Meilensteinen](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Erstellen von Meilensteinen](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Aktivität „Meilensteinansicht“ unter „Erstellen einer Basisansicht“](/help/reporting/basic-reporting/create-a-basic-view.md)

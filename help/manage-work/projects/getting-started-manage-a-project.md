@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+workflow-type: tm+mt
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
@@ -29,30 +29,6 @@ In diesem Video lernen Sie Folgendes:
 * Kommunizieren mit Stakeholdern
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
-
-## Projektverwaltung – Übersicht
-
-Mit jedem Projekt, das Sie betreuen, werden Sie eine Routine entwickeln, wann Sie Projekte überprüfen und was Sie jedes Mal überprüfen möchten. Es geht darum, über Ihre Projekte auf dem Laufenden zu bleiben und sie zum erfolgreichen Abschluss zu bringen.
-
-Jede Projekt-Managerin und jeder Projekt-Manager handhabt ihre bzw. seine Projekte ein wenig anders. Und jedes Team, jede Abteilung oder jedes Unternehmen kann unterschiedliche Projektanforderungen und -vorgaben haben.
-
-Unabhängig davon, wie Sie ein Projekt verwalten, können Sie:
-
-* Sicherstellen, dass die Arbeit rechtzeitig abgeschlossen wird.
-* Probleme und Risiken vorhersehen.
-* Mit Ihren Interessengruppen kommunizieren.
-* Die Siege auf dem Weg feiern.
-
-Letztlich besteht Ihre Hauptaufgabe darin, das Projekt zum erfolgreichen Abschluss zu bringen. Adobe Workfront kann Ihnen dabei helfen, die geleistete Arbeit über die Projektzeitleiste zu überwachen, Filter, Ansichten, Gruppierungen, Aktualisierungen und Berichte zu verwenden … und vieles mehr.
-
-<!---
-learn more urls
-3 universal principles of project management
-What is a project manager?
-Project management knowledge areas
-9 best practices for effective project management
-10 work management problems and how to solve them
---->
 
 ## Empfohlene Tutorials zu diesem Thema
 

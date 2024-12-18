@@ -1,23 +1,23 @@
 ---
-user-guide-title: Verwalten von Arbeit - Zwischenergebnis
-user-guide-description: Sobald Sie die Grundlagen der Projekterstellung, -planung und -verwaltung gelernt haben, sollten Sie mehr wissen, um Workfront optimal zu nutzen.
+user-guide-title: Arbeit verwalten - Fortgeschrittene
+user-guide-description: Sobald Sie die Grundlagen des Erstellens, Planens und Verwalten von Projekten gelernt haben, gibt es einige weitere Dinge, die Sie wissen sollten, um Workfront optimal zu nutzen.
 feature: Work Management
-breadcrumb-title: Verwalten von Arbeit - Zwischenergebnis
+breadcrumb-title: Arbeit verwalten - Fortgeschrittene
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '173'
+ht-degree: 63%
 
 ---
 
 
-# Verwalten von Arbeit - Zwischenergebnis {#manage-work-intermediate}
+# Arbeit verwalten - Fortgeschrittene {#manage-work-intermediate}
 
-+ [Verwalten von Arbeit - Zwischenergebnis](overview.md)
-+ Arbeit verwalten - Zwischenspeicher {#manage-work-intermediate}
++ [Arbeit verwalten - Fortgeschrittene](overview.md)
++ Arbeit verwalten - {#manage-work-intermediate}
    + Projektvorlagen {#project-templates}
       + [Erstellen einer Projektvorlage und Informationen über Blueprints](create-a-project-template.md)
       + [Erstellen eines Projekts direkt aus einer Vorlage](create-a-project-directly-from-a-template.md)
@@ -26,15 +26,13 @@ ht-degree: 64%
       + [Deaktivieren einer Projektvorlage](deactivate-a-project-template.md)
       + [Bearbeiten des Projekt-Teams in einer Projektvorlage](edit-the-project-team-in-a-project-template.md)
 
-   + Erstellen und Verwenden von Genehmigungsprozessen {#how-to-create-and-use-approval-processes}
-      + [Schaffung eines einmaligen Genehmigungsverfahrens](create-a-single-use-approval-process.md)
+   + So erstellen und verwenden Sie Genehmigungsprozesse {#how-to-create-and-use-approval-processes}
+      + [Erstellen eines globalen und eines einmaligen Genehmigungsprozesses](create-a-single-use-approval-process.md)
       + [Informationen zu gruppenspezifischen Genehmigungsprozessen](group-specific-approval-processes.md)
-      + [Anhängen und Bearbeiten vorhandener Genehmigungsprozesse](attach-and-edit-existing-approval-processes.md)
       + [Überprüfen und Genehmigen digitaler Arbeiten](review-and-approve-digital-work.md)
-      + [Grundlegendes zu Aktualisierungen und Benachrichtigungen](understand-updates-and-notifications.md)
       + [Delegieren von Aufgaben, Problemen und Genehmigungen](delegate-approvals.md)
 
-   + Erstellen und Verwenden von Meilensteinen {#how-to-create-and-use-milestones}
+   + So erstellen und verwenden Sie Meilensteine {#how-to-create-and-use-milestones}
       + [Erstellen von Meilensteinen](creating-milestones.md)
       + [Anwenden von Meilensteinen](apply-milestones.md)
       + [Anzeigen von Meilensteinen](view-milestones.md)
@@ -49,7 +47,7 @@ ht-degree: 64%
       + [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](convert-issues-to-other-work-items.md)
       + [Problembericht](report-on-issues.md)
 
-   + Graben tiefer {#digging-deeper}
+   + {#digging-deeper}
       + [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](understand-and-manage-duration-types-and-task-constraints.md)
       + [Grundlegendes zu projektübergreifenden Vorgängern](understand-cross-project-predecessors.md)
       + [Erweiterte Vorgänger](advanced-predecessors.md)

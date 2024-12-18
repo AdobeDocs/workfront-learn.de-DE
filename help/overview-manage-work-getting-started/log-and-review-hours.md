@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+doc-type: video
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5104c034-82cf-4993-9016-53802d562d14
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '57'
+ht-degree: 80%
 
 ---
 
 # Aufzeichnen und Überprüfen der Stunden
 
-Wenn die Erfassung der tatsächlich geleisteten Arbeitsstunden Teil des Arbeitsablaufs in Ihrem Unternehmen ist, können Sie diese Stunden im Abschnitt [!UICONTROL Stunden] (im Menü des linken Bedienfelds) im Projekt überprüfen. Hier werden alle für die einzelnen Aufgaben und das Projekt selbst erfassten Stunden angezeigt. Sie können Stunden auch über diese Seite erfassen.
+In diesem Video lernen Sie Folgendes:
 
-![Seite „Stunden“ mit Stundeneinträgen](assets/planner-fund-log-and-review-hours.png)
+* Für ein Projekt protokollierte Stunden überprüfen
+* Projektstunden genehmigen, falls erforderlich
 
->[!NOTE]
->
->Möglicherweise müssen die Stunden in Ihrem Unternehmen über [!DNL Workfront] genehmigt werden. Erkundigen Sie sich bei Ihrem internen [!DNL Workfront]-Team, welches Verfahren Sie verwenden sollen.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Empfohlene Tutorials zu diesem Thema
+
+* [Ändern des Projektstatus in „abgeschlossen“](/help/manage-work/projects/change-the-project-status.md)
+* [Abschließen von Genehmigungen](/help/manage-work/close-a-project/complete-approvals.md)
+* [Hochladen von Assets](/help/manage-work/close-a-project/upload-assets.md)
+* [Aufzeichnen der gelernten Lektionen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

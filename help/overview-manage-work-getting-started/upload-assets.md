@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # Hochladen von Assets
 
-Bevor Sie ein [!DNL Workfront]-Projekt abschließen, vergewissern Sie sich, dass alle relevanten Dateien im Abschnitt [!UICONTROL Dokumente] angehängt sind. Laden Sie diese gemäß den Richtlinien Ihres Unternehmens als Dokument oder Korrekturabzug hoch.
+In diesem Video lernen Sie Folgendes:
 
-Möglicherweise müssen Sie das Dokument oder den Korrekturabzug als Version einer vorhandenen Datei hochladen.
+* Überprüfen von Genehmigungen zu Korrekturabzügen
+* Überprüfen von Genehmigungen zu Dokumenten
+* Hochladen eines Dokuments
+* Finden von Schulungen zum Hochladen von Korrekturabzügen
 
-Wenn Ihr Unternehmen Korrekturabzug-Genehmigungen verwendet, vergewissern Sie sich mit einem kurzen Blick auf die Fortschrittssymbole, dass alle davon abgeschlossen sind.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![Dokumentseite mit den Symbolen zum Korrekturabzug-Fortschritt](assets/planner-fund-proof-progress-icons.png)
+## Empfohlene Tutorials zu diesem Thema
 
-Wenn Ihr Unternehmen Dokumentgenehmigungen verwendet, wählen Sie jedes Element in der Liste aus und überprüfen Sie jeweils die Dokumentdetails, um festzustellen, ob die Genehmigungen abgeschlossen sind.
+* [Hochladen eines Korrekturabzugs mit einem einfachen Workflow](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [Ändern des Projektstatus in „abgeschlossen“](/help/manage-work/projects/change-the-project-status.md)
+* [Abschließen von Genehmigungen](/help/manage-work/close-a-project/complete-approvals.md)
+* [Aufzeichnen der gelernten Lektionen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Aufzeichnen und Überprüfen der Stunden](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![Seitliche Zusammenfassung auf der Dokumentenseite mit Dokumentgenehmigungen](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

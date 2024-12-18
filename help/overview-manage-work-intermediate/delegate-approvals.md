@@ -1,6 +1,6 @@
 ---
 title: Delegieren von Aufgaben, Problemen und Genehmigungen
-description: Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeiterfassungen an andere Workfront-Benutzende delegieren können. Erfahren Sie auch, wie Sie Arbeitsaufträge für Aufgaben und Probleme delegieren können.
+description: Erfahren Sie, wie Sie Aufgaben- und Problemzuweisungen sowie Genehmigungen für Projekte, Aufgaben und Probleme an andere Workfront-Benutzende delegieren.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -11,60 +11,31 @@ thumbnail: 336094.png
 jira: KT-8810
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+recommendations: noDisplay,catalog
+exl-id: 2eb8c7e2-d980-409c-b06a-d44f5817648d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
 # Delegieren von Aufgaben, Problemen und Genehmigungen
 
-Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeiterfassungen an andere Workfront-Benutzende delegieren können. Erfahren Sie auch, wie Sie Arbeitsaufträge für Aufgaben und Probleme delegieren können.
-
-## Genehmigungen delegieren
-
-Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme und Zeiterfassungen an andere Benutzende delegieren können.
+Erfahren Sie, wie Sie Aufgaben- und Problemzuweisungen sowie Genehmigungen für Projekte, Aufgaben und Probleme an andere Workfront-Benutzende delegieren.
 
 In diesem Video lernen Sie Folgendes:
 
-* Genehmigungen einer anderen Person zuweisen
-* Beenden des Delegationszeitraums
-* Nach delegierten Genehmigungen suchen
+* Aktivieren der Delegierung in Setup
+* Arbeitsaufträge für Aufgaben und Probleme delegieren
+* Delegieren von Genehmigungen für Projekte, Aufgaben und Probleme
+* Ermitteln von delegierten Genehmigungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
-<!---
-learn more URLS
-Delegate approval request
---->
+## Empfohlene Tutorials zu diesem Thema
 
-## Arbeitsaufträge für Aufgaben und Probleme delegieren
+* [Einrichten von Ereignisbenachrichtigungen](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
+* [Erstellen eines globalen und eines einmaligen Genehmigungsprozesses](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Informationen zu gruppenspezifischen Genehmigungsprozessen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 
-Sie können die Ihnen zugewiesenen Aufgaben und Probleme an andere Benutzende delegieren, wenn Sie nicht im Hause sind.
-
-### So aktivieren Sie die Delegierung der Arbeitsaufträge für Aufgaben und Probleme:
-
-Bevor sie verwendet werden kann, muss die Delegierung von Aufgaben und Problemen durch Gruppen- oder Systemadmins aktiviert werden. Dies geschieht unter [!UICONTROL Setup > Projekteinstellungen > Aufgaben und Probleme > Delegierung]. Durch Aktivierung dieser Option können alle Benutzenden mit einer Überprüfungs- oder höheren Lizenz ihre zugewiesenen Aufgaben und Probleme delegieren.
-
-![Screenshot mit den [!UICONTROL Setup]-Voreinstellungen zur Delegierung](assets/delegation-1.png)
-
-### Delegieren von Arbeitsaufträgen für Aufgaben und Probleme
-
-Navigieren Sie zur [!UICONTROL Startseite] und klicken Sie auf [!UICONTROL Delegieren]. Geben Sie dann die Person, an die Sie alle Ihnen zugewiesenen Aufgaben delegieren, und den Datumsbereich an. Sie können jede Person mit einer Überprüfungs- oder höheren Lizenz benennen.
-
-![Screenshot der Registerkarte „Delegierung“ auf der [!UICONTROL Startseite]](assets/delegation-2.png)
-
-### So ermitteln Sie, ob eine Aufgabe oder ein Problem delegiert wurde:
-
-Auf der [!UICONTROL Startseite] oder in der Aufgaben- oder Problemansicht können Sie sehen, ob Aufgaben oder Probleme delegiert wurden.
-
-![Screenshot mit der delegierten Aufgabenzuweisung auf der [!UICONTROL Startseite]](assets/delegation-4.png)
-![Screenshot mit der delegierten Aufgabenzuweisung in der Aufgabenansicht](assets/delegation-3.png)
-
-### E-Mail-Benachrichtigungen zu delegierten Arbeiten
-
-Ihre Gruppen- oder Systemadmins können Sie per E-Mail-Benachrichtigungen darüber informieren, wann Sie Ihre Aufgaben und Probleme delegiert haben und wann Aufgaben und Probleme von jemand anders an Sie delegiert wurden.
-
-![Screenshot mit der E-Mail-Benachrichtigungsoption [!UICONTROL Setup] für die Delegierung](assets/delegation-5.png)
-![Screenshot einer E-Mail mit einer Arbeitsdelegierung](assets/delegation-6.png)
