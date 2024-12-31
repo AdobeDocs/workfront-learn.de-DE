@@ -1,6 +1,6 @@
 ---
 title: Projektfinanzierung für Benutzende
-description: Erfahren Sie, wie Sie Finanzinformationen für Projekte verfolgen, Kosten- und Umsatztypen festlegen und Abrechnungsraten außer Kraft setzen können.
+description: Erfahren Sie, wie Sie Finanzinformationen für Projekte verfolgen, Kosten- und Umsatztypen festlegen und Abrechnungssätze überschreiben können.
 feature: Work Management
 type: Tutorial
 role: User
@@ -20,11 +20,11 @@ ht-degree: 2%
 
 ---
 
-# Übersicht über die Projektfinanzen für Benutzer
+# Projektfinanzen für Benutzer - Übersicht
 
-Erfahren Sie, wie Sie Finanzinformationen für Projekte verfolgen, Kosten- und Umsatztypen festlegen und Abrechnungsraten außer Kraft setzen können. Dieses Tutorial richtet sich an Benutzer, die die Finanzdaten zu einem Projekt verfolgen.
+Erfahren Sie, wie Sie Finanzinformationen für Projekte verfolgen, Kosten- und Umsatztypen festlegen und Abrechnungssätze überschreiben können. Dieses Tutorial richtet sich an Benutzer, die die Finanzdaten eines Projekts nachverfolgen.
 
-Adobe Workfront ist nicht dazu gedacht, die derzeit von Ihnen verwendete Finanz- oder Rechnungssoftware zu ersetzen, kann aber Geldmengenverfolgung und -berichte bereitstellen.
+Adobe Workfront soll keine Finanz-Tracking- oder Abrechnungssoftware ersetzen, die Sie derzeit verwenden. Es kann jedoch monetäres Tracking und Reporting bereitstellen.
 
 >[!PREREQUISITES]
 >
@@ -32,6 +32,6 @@ Adobe Workfront ist nicht dazu gedacht, die derzeit von Ihnen verwendete Finanz-
 >* Standardlizenztyp mit Berechtigungen zum Bearbeiten von Finanzdaten
 
 
-* [Aktualisieren und Überprüfen von Finanzen](update-and-review-finances.md) - Erfahren Sie, wie Sie die mit einem Projekt verknüpften Finanzinformationen überprüfen.
-* [Finden Sie Finanzinformationen](find-financial-information.md) - Erfahren Sie, wie Sie Finanzinformationen zu einem Projekt finden und verstehen, woher es stammt.
-* [Mehrere Abrechnungsraten verstehen](multiple-billing-rates.md) - Erfahren Sie, wie Sie die Abrechnungsraten des Systems innerhalb eines bestimmten Projekts außer Kraft setzen.
+* [Finanzen aktualisieren und überprüfen](update-and-review-finances.md) - Erfahren Sie, wie Sie die mit einem Projekt verknüpften Finanzinformationen überprüfen.
+* [Finanz-Informationen suchen](find-financial-information.md) - Erfahren Sie, wie Sie Finanz-Informationen zu einem Projekt finden und verstehen, woher es stammt.
+* [Mehrere Abrechnungssätze verstehen](multiple-billing-rates.md) - Erfahren Sie, wie Sie Systemabrechnungssätze innerhalb eines bestimmten Projekts überschreiben.

@@ -11,7 +11,8 @@ team: Technical Marketing
 jira: KT-8948
 hide: true
 doc-type: video
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 06e6a1a3-6c40-403c-9c9d-cb2b5e178a7a
+source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 100%

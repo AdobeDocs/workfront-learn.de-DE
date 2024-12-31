@@ -12,10 +12,11 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 8ef57b1c-39fb-4c4e-852e-994ea718e91a
+source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 

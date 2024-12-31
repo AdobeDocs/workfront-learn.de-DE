@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10067
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: ded6b570-3e2a-4372-867d-a370de30dc31
+source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 95%
@@ -59,7 +60,7 @@ Der allgemeine Zugang zu Finanzdaten wird zunächst durch den [!DNL Workfront]-L
 
 ![Ein Bild mit allgemeinen Finanzdatenoptionen in einer Zugriffsebene](assets/setting-up-finances-8.png)
 
-Beachten Sie, dass die Optionen [!UICONTROL Ansicht] und [!UICONTROL Bearbeiten] zusätzliche Einstellungen für eine Lizenz vom Typ [!UICONTROL Plan] aufweisen. Klicken Sie auf das Zahnrad auf der Schaltfläche [!UICONTROL Anzeigen] für diese Optionen:
+Beachten Sie, dass die Optionen [!UICONTROL Anzeigen] und [!UICONTROL Bearbeiten] zusätzliche Einstellungen für eine [!UICONTROL Plan]-Lizenz aufweisen. Klicken Sie auf das Zahnrad auf der Schaltfläche [!UICONTROL Anzeigen] für diese Optionen:
 
 **[!UICONTROL Anzeigen]**
 

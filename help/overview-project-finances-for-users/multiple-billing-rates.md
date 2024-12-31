@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10048
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 5b1ae2c4-43bd-4382-900f-078ef84408a5
+source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 93%
@@ -21,11 +22,11 @@ ht-degree: 93%
 
 Innerhalb von [!DNL Workfront] haben Projekt-Managerinnen und -Manager die Möglichkeit, die Abrechnungstarife des Systems innerhalb eines bestimmten Projekts außer Kraft zu setzen. Früher hatte die Anwendung des neuen Abrechnungstarifs auf das Projekt nicht nur Auswirkungen auf zukünftige Stunden, sondern auch auf bereits im Projekt angemeldete Stunden.
 
-Mit der neuen Funktion für mehrere Abrechnungsraten von [!DNL Workfront] kann der Projektmanager entscheiden, welcher Zeitraum für die Anwendung eines Abrechnungskurses gelten soll. Auf diese Weise können Projekt-Managerinnen und -Manager festlegen, wann dieser Tarif wirksam werden soll, wenn ein Tarif ausgehandelt oder geändert wurde.
+Mit der neuen Funktion für mehrere Abrechnungssätze von [!DNL Workfront] kann der Projekt-Manager entscheiden, in welchem Zeitraum ein Abrechnungssatz angewendet werden soll. Auf diese Weise können Projekt-Managerinnen und -Manager festlegen, wann dieser Tarif wirksam werden soll, wenn ein Tarif ausgehandelt oder geändert wurde.
 
 ## Ändern des Abrechnungstarifs
 
-1. Rufen Sie die Landingpage des Projekts auf. Wählen Sie **[!UICONTROL Abrechnungstarife]** im linken Bedienfeld.
+1. Navigieren Sie zur Landingpage des Projekts. Wählen Sie **[!UICONTROL Abrechnungstarife]** im linken Bedienfeld.
 
    ![Ein Bild der Auswahl der [!UICONTROL Abrechnungstarife] in [!DNL Workfront]](assets/project-finances-1.png)
 

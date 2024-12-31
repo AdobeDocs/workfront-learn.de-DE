@@ -1,6 +1,6 @@
 ---
 user-guide-title: Projektfinanzierung für Benutzende
-user-guide-description: Erfahren Sie, wie Sie Finanzinformationen für Projekte verfolgen, Kosten- und Umsatztypen festlegen und Abrechnungsraten außer Kraft setzen können. Dieses Tutorial richtet sich an Benutzer, die die Finanzdaten zu einem Projekt verfolgen.
+user-guide-description: Erfahren Sie, wie Sie Finanzinformationen für Projekte verfolgen, Kosten- und Umsatztypen festlegen und Abrechnungssätze überschreiben können. Dieses Tutorial richtet sich an Benutzer, die die Finanzdaten eines Projekts nachverfolgen.
 breadcrumb-title: Projektfinanzierung für Benutzende
 solution: Workfront
 sub-product: Work Management

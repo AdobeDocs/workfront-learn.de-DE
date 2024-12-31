@@ -9,10 +9,11 @@ role: Admin
 level: Intermediate
 jira: KT-10017
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 9986469c-b02f-48ac-b71e-055473a2855b
+source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
@@ -35,4 +36,3 @@ Die Option [!UICONTROL Alle Gruppen] ist für Gruppenadmins nicht verfügbar.
 Wenn eine bestimmte Gruppe ausgewählt wird, werden nur die für diese Gruppe verfügbaren Status im Menü [!UICONTROL „Genehmigungsprozess starten, wenn der Status gesetzt ist auf“] angezeigt.
 
 Fenster ![[!UICONTROL Genehmigungsprozess bearbeiten] mit hervorgehobenem Statusfeld](assets/admin-fund-approval-processes-3.png)
-

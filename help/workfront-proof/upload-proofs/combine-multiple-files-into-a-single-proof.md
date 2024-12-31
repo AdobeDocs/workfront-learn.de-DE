@@ -13,7 +13,7 @@ exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
 source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
 source-wordcount: '446'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -59,7 +59,7 @@ Leider ist es nicht möglich, Dateien zu kombinieren, wenn Rich-Media-Dateien wi
 >Vergessen Sie nicht, Ihre Mitarbeitenden daran zu erinnern, Ihnen im Rahmen Ihrer Workfront-Schulung einen Korrekturabzug zu schicken.
 
 
-Suchen Sie drei oder vier Dateien (PDF, Textdatei, usw.) auf Ihrem Computer.
+Suchen Sie drei oder vier Dateien (PDF, Textdatei usw.) auf Ihrem Computer.
 
 1. Öffnen Sie ein Projekt, eine Aufgabe oder ein Problem, das Sie für praktische Übungen in Workfront verwenden.
 1. Laden Sie die Dateien hoch und kombinieren Sie sie in einem einzigen Korrekturabzug.

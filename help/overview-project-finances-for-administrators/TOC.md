@@ -1,6 +1,6 @@
 ---
 user-guide-title: Projektfinanzierung für Admins
-user-guide-description: Erfahren Sie, wie Sie systemweite finanzielle Einstellungen einrichten, um eine einheitliche Rechnungsstellung und Berichterstellung für Ihr Unternehmen zu gewährleisten.
+user-guide-description: Erfahren Sie, wie Sie systemweite Finanzeinstellungen festlegen, um eine einheitliche Abrechnung und Berichterstellung in Ihrer gesamten Organisation sicherzustellen.
 breadcrumb-title: Projektfinanzierung für Admins
 solution: Workfront
 sub-product: Work Management
@@ -17,7 +17,7 @@ ht-degree: 63%
 # Projektfinanzierung für Admins {#project-finances-for-administrators}
 
 + [Projektfinanzierung für Admins](overview.md)
-+ Projektfinanzierung für Administratoren {#project-finances-for-administrators}
++ Projektfinanzen für {#project-finances-for-administrators}
    + [Verstehen von Leistungsmetriken](understand-performance-metrics.md)
    + [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](set-up-task-revenue-and-cost-defaults.md)
    + [Einrichten von Wechselkursen](set-up-exchange-rates.md)

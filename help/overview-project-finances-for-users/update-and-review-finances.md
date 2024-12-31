@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10137
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 7dc12959-e512-41ae-866b-3ff7afb98f45
+source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 92%
@@ -44,7 +45,7 @@ Ein Blick auf die [!UICONTROL Finanzinformationen] in den [!UICONTROL Projektdet
 
 ![Abschnitt „Finanzen“ des Fensters [!UICONTROL Projektdetails] für ein Projekt](assets/finance-section-project-details.png)
 
-Die meisten Finanzinformationen in den [!UICONTROL Projektdetails] werden bei der Erstellung des Projekts festgelegt. Die Zahlen, die Sie hier sehen, basieren auf diesen Informationen. Wenn Sie also ein Projekt schließen, müssen Sie in den finanziellen Details nichts aktualisieren oder hinzufügen.
+Die meisten Finanzinformationen in den [!UICONTROL Projektdetails] werden bei der Erstellung des Projekts festgelegt. Die Zahlen, die Sie hier sehen, basieren auf diesen Informationen. Wenn Sie also ein Projekt schließen, müssen Sie wirklich nichts aktualisieren oder in die finanziellen Details einfügen.
 
 <!---
 learn more urls

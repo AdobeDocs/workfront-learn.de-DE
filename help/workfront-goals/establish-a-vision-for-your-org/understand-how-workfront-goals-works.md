@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu  [!DNL Workfront Goals]
+title: 'Grundlegendes zu  [!DNL Workfront Goals] '
 description: Weitere Informationen über die Artikulation des „Was“ und „Warum“ in der Planungsphase, Beispielziele und den Einflussbereich.
 activity: use
 feature: Workfront Goals,Get Started with Workfront

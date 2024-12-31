@@ -1,6 +1,6 @@
 ---
 title: Projektfinanzierung für Admins
-description: Erfahren Sie, wie Sie systemweite finanzielle Einstellungen einrichten, um eine einheitliche Rechnungsstellung und Berichterstellung für Ihr Unternehmen zu gewährleisten.
+description: Erfahren Sie, wie Sie systemweite Finanzeinstellungen festlegen, um eine einheitliche Abrechnung und Berichterstellung in Ihrer gesamten Organisation sicherzustellen.
 feature: Work Management
 type: Tutorial
 role: User
@@ -22,16 +22,16 @@ ht-degree: 4%
 
 # Projektfinanzierung für Admins
 
-Erfahren Sie, wie Sie systemweite finanzielle Einstellungen einrichten, um eine einheitliche Rechnungsstellung und Berichterstellung für Ihr Unternehmen zu gewährleisten.
+Erfahren Sie, wie Sie systemweite Finanzeinstellungen festlegen, um eine einheitliche Abrechnung und Berichterstellung in Ihrer gesamten Organisation sicherzustellen.
 
 
 >[!PREREQUISITES]
 >
 >* Grundlegendes zur Verwendung von Workfront
->* Standardlizenztyp, der als System- oder Gruppenadministrator eingerichtet wird
+>* Standard-Lizenztyp, der als System- oder Gruppenadministrator eingerichtet wird
 
-* [Leistungsmetriken verstehen](understand-performance-metrics.md) - Erfahren Sie mehr über die beiden Leistungsmetriken: Leistungsindex-Methode (PIM) und Schätzung bei Abschluss (EAC).
-* [Einrichten der Standardeinstellungen für Aufgabenumsatz und Kosten](set-up-task-revenue-and-cost-defaults.md) - Erfahren Sie, wie der Umsatztyp und der Kostentyp zur Berechnung der geplanten und tatsächlichen Finanzinformationen für eine Aufgabe verwendet werden.
-* [Einrichten von Wechselkursen](set-up-exchange-rates.md) - Erfahren Sie, wie Wechselkurse für Projekte und Berichte verwendet werden können, um Finanzinformationen in verschiedenen Währungen aus der ganzen Welt widerzuspiegeln.
-* [Einrichten von Ausgabetypen](set-up-expense-types.md) - Erfahren Sie, wie Sie vorgefertigte Ausgabetypen verwenden und neue erstellen können.
-* [Finanzzugriff verstehen](understand-financial-access.md) - Erfahren Sie, wie Administratoren mit finanziellen Zugriffsrechten steuern können, wer die in Workfront verfolgten Finanzinformationen anzeigen und bearbeiten kann.
+* [Kennzahlen verstehen](understand-performance-metrics.md) - Erfahren Sie mehr über die beiden Leistungsmetriken: Leistungsindexmethode (PIM) und Schätzung bei Abschluss (EAC).
+* [Standard für Aufgabenumsatz und Kosten einrichten](set-up-task-revenue-and-cost-defaults.md) - Erfahren Sie, wie die Umsatz- und Kostentypen zur Berechnung der geplanten und tatsächlichen Finanzinformationen für eine Aufgabe verwendet werden.
+* [Einrichten von Wechselkursen](set-up-exchange-rates.md) - Erfahren Sie, wie Wechselkurse in Projekten und Berichten verwendet werden können, um Finanzinformationen in verschiedenen Währungen aus der ganzen Welt widerzuspiegeln.
+* [Ausgabentypen einrichten](set-up-expense-types.md) - Erfahren Sie, wie Sie vorgefertigte Ausgabentypen verwenden und neue erstellen.
+* [Finanzzugriff verstehen](understand-financial-access.md) - Erfahren Sie, wie Admins mithilfe von Finanzzugriffsrechten steuern können, wer die in Workfront nachverfolgten Finanzinformationen sehen und bearbeiten kann.
