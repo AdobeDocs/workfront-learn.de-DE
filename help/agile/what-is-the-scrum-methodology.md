@@ -8,9 +8,9 @@ jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '774'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -64,7 +64,7 @@ Sobald sie ihre Haupt-Storys erstellt haben, müssen sie ihren Rückstand aufber
 
 ### Iterationsplanung
 
-Nachdem der Rückstand erstellt und priorisiert wurde, muss die Iteration geplant werden. (Viele Unternehmen verwenden die Begriffe „Sprint“ und „Iteration“ synonym.) Das Team entscheidet anhand der als einsatzbereit angesehenen Storys, welche Storys abgeschlossen werden sollen. Das Team weist Arbeitsaufträge zu und entscheidet über die Dauer der Iteration.
+Nachdem der Rückstand erstellt und priorisiert wurde, muss die Iteration geplant werden. (Viele Unternehmen verwenden die Begriffe „Sprint“ und „Iteration“ austauschbar.) Das Team entscheidet anhand von Geschichten, die als bereit gelten, welche Geschichten abgeschlossen werden sollen. Das Team weist Arbeitsaufträge zu und entscheidet über die Dauer der Iteration.
 
 
 

@@ -234,8 +234,8 @@ ht-degree: 99%
       + [Informationen zu den zusätzlichen Optionen für Kalenderberichte](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Sie sind an der Reihe, einen Kalenderbericht zu erstellen](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Verbesserte Analyse {#enhanced-analytics}
-      + [Ein Moment mit dem Produkt über [!UICONTROL Verbesserte Analyse]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+   + Erweiterte Analytics-{#enhanced-analytics}
+      + [Ein Moment mit Produkt über [!UICONTROL erweiterte Analyse]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Erste Schritte mit der [!UICONTROL erweiterten Analyse]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Zugriff auf die [!UICONTROL erweiterte Analyse]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Grundlegendes zur einfachen Navigation](/help/reporting/enhanced-analytics/4-basic-navigation.md)
@@ -580,7 +580,7 @@ ht-degree: 99%
 
 + Agile {#agile}
 
-   + Einführung in die Agile-Arbeitsverwaltung {#intro-to-agile}
+   + Einführung in Agile Work Management {#intro-to-agile}
       + [Vorteile der Verwendung von agilem Vorgehen](/help/agile/benefits-of-using-agile.md)
       + [Was ist die Scrum-Methode und wie funktioniert sie?](/help/agile/what-is-the-scrum-methodology.md)
       + [Was ist die Kanban-Methode und wie funktioniert sie?](/help/agile/what-is-the-kanban-methodology.md)

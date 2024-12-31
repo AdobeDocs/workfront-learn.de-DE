@@ -1,6 +1,6 @@
 ---
 title: Aufzeichnen der gelernten Lektionen
-description: Erfahren Sie, wie Sie beim Schließen eines Projekts von den gelernten Lektionen profitieren können.
+description: Erfahren Sie, wie Sie beim Abschluss eines Projekts von „gewonnenen Erfahrungen“ profitieren können.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -22,12 +22,12 @@ ht-degree: 36%
 
 # Aufzeichnen der gelernten Lektionen
 
-In diesem Video sehen Sie die Vorteile von:
+In diesem Video werden Sie die Vorteile von sehen:
 
-* Erstellen einer Aufgabe &quot;Lektionen gelernt&quot;
-* Benutzerdefiniertes Formular &quot;Lektionen gelernt&quot;an Ihr Projekt anhängen
-* Erstellen benutzerdefinierter Berichte zu &quot;gelernten Lektionen&quot;
-* Erstellen eines Projekts &quot;Lektionen gelernt&quot;
+* Erstellung einer Aufgabe „Erfahrungsauswertung“
+* Anhängen eines benutzerdefinierten Formulars mit „Erfahrungswerten“ an Ihr Projekt
+* Erstellen benutzerdefinierter Berichte für „Erfahrungsauswertung“
+* Erstellen eines Projekts für „Erfahrungsauswertung“
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 

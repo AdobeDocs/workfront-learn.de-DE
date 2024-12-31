@@ -1,6 +1,6 @@
 ---
 title: Aufzeichnen und Überprüfen der Stunden
-description: Zeichnen Sie ausstehende Stunden auf und überprüfen Sie die protokollierten Stunden, bevor Sie ein Projekt schließen.
+description: Notieren Sie die ausstehenden Stunden und prüfen Sie die protokollierten Stunden, bevor Sie ein Projekt schließen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -24,8 +24,8 @@ ht-degree: 60%
 
 In diesem Video lernen Sie Folgendes:
 
-* Prüfungsstunden, die bei einem Projekt protokolliert wurden
-* Projektstunden bei Bedarf genehmigen
+* Für ein Projekt protokollierte Stunden überprüfen
+* Projektstunden genehmigen, falls erforderlich
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 

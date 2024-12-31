@@ -1,7 +1,8 @@
 ---
 title: Titel
 description: Beschreibung des Artikels
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+exl-id: 812f85ef-313b-429e-9930-3b462af71506
+source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
 workflow-type: tm+mt
 source-wordcount: '8'
 ht-degree: 25%

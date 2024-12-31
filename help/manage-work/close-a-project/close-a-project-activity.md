@@ -1,6 +1,6 @@
 ---
 title: Schließen einer Projektaktivität
-description: Finden Sie ein Workfront-Projekt, mit dem Sie während Ihres Trainings gearbeitet haben, und bereiten Sie es auf das Schließen vor.
+description: Suchen Sie ein Workfront-Projekt, mit dem Sie während Ihrer Schulung gearbeitet haben, und schließen Sie es ab.
 activity: use
 feature: Work Management
 thumbnail: close-a-project-activity.png

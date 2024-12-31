@@ -1,6 +1,6 @@
 ---
 user-guide-title: Neuen Titel hinzufügen
-user-guide-description: Neue Beschreibung des Benutzerhandbuchs hinzufügen
+user-guide-description: Neue Benutzerhandbuch-Beschreibung hinzufügen
 role: User
 level: Beginner
 hide: true

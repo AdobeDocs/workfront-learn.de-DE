@@ -9,7 +9,7 @@ exl-id: 0f3fc5ba-d01a-4337-829f-def0830ddf81
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -73,4 +73,4 @@ Fügen Sie das Feld „Objekt-ID“ zu Berichten hinzu, die von Systemadmins ver
 
 **Das sind die Gründe**
 
-Systemadmins müssen sich bei der Verwendung von APIs oder anderen Integrationen häufig durch ihre ID-Nummern auf Objekte in Workfront beziehen. Fügen Sie das ID-Feld in Ansichten für die Objekte ein, an denen Sie arbeiten (Projekte, Aufgaben, Probleme, Vorlagen, benutzerdefinierte Formulare usw.), um den Zugriff und das Kopieren zu erleichtern.
+Systemadmins müssen sich bei der Verwendung von APIs oder anderen Integrationen häufig durch ihre ID-Nummern auf Objekte in Workfront beziehen. Nehmen Sie das Feld ID in die Ansichten der Objekte auf, an denen Sie arbeiten (Projekte, Aufgaben, Probleme, Vorlagen, benutzerdefinierte Formulare usw.), damit Sie leicht darauf zugreifen und sie kopieren können.

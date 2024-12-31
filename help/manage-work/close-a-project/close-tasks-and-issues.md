@@ -20,4 +20,4 @@ ht-degree: 50%
 
 # Schließen von Aufgaben und Problemen
 
-Das Tutorial zum Schließen von Aufgaben und Problemen wurde entfernt, da der Inhalt bereits zwischen &quot;Ändern des Projektstatus in abgeschlossen&quot;und &quot;Abgeschlossene Genehmigungen&quot;enthalten ist.
+Das Tutorial „Aufgaben und Probleme schließen“ wurde entfernt, da der Inhalt bereits zwischen „Projektstatus in abgeschlossen ändern“ und „Genehmigungen abschließen“ enthalten ist.
