@@ -1,6 +1,6 @@
 ---
 title: Aufzeichnen der gelernten Lektionen
-description: Erfahren Sie, wie Sie beim Abschluss eines Projekts von „gewonnenen Erfahrungen“ profitieren können.
+description: Erfahren Sie, wie Sie bei Abschluss eines Projekts „Gelernte Lektionen“ nutzen können.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,20 +14,20 @@ jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
 # Aufzeichnen der gelernten Lektionen
 
-In diesem Video werden Sie die Vorteile von sehen:
+In diesem Video lernen Sie die Vorteile folgender Möglichkeiten kennen:
 
-* Erstellung einer Aufgabe „Erfahrungsauswertung“
-* Anhängen eines benutzerdefinierten Formulars mit „Erfahrungswerten“ an Ihr Projekt
-* Erstellen benutzerdefinierter Berichte für „Erfahrungsauswertung“
-* Erstellen eines Projekts für „Erfahrungsauswertung“
+* Erstellen einer Aufgabe „Gelernte Lektionen“
+* Anhängen eines benutzerdefinierten Formulars „Gelernte Lektionen“ an Ihr Projekt
+* Erstellen benutzerdefinierter Berichte für „Gelernte Lektionen“
+* Erstellen eines Projekts „Gelernte Lektionen“
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
