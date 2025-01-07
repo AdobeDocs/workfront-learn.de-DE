@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 100%
+source-wordcount: '504'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,8 @@ In diesem Video erfahren Sie:
 >[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
 
 ## Wichtige Teile der Projektseite
+
+[Hier klicken](/help/assets/key-parts-of-the-project-page.pdf) um eine PDF dieser Seite herunterzuladen.
 
 Die Projektseite ist mit vielen Funktionen ausgestattet, die Ihnen bei der Verwaltung Ihrer Arbeit helfen. Wenden Sie sich an Ihre Systemadmins, wenn Sie eine Option benötigen, die in Ihrer [!DNL Workfront]-Instanz nicht sichtbar ist. Hier sind einige der wichtigsten Funktionen der Projektseite, die Sie sich merken sollten.
 
