@@ -1,6 +1,7 @@
 ---
 title: Limits bei Szenarien
 description: Erfahren Sie mehr über Szenario-Limits, Modul-Limits, Datei-Limits und Webhook-Limits in [!DNL Adobe Workfront Fusion].
+short-description: Da langwierige Szenarien die Geschwindigkeit Ihrer Arbeit verlangsamen können, wurde Workfront Fusion mit leistungserhaltenden Leitplanken entwickelt, die die Ausführungszeit, die Datengröße und andere Szenario-Parameter begrenzen
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '136'
+ht-degree: 79%
 
 ---
 

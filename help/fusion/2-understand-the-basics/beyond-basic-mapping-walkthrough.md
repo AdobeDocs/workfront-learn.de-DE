@@ -1,6 +1,7 @@
 ---
 title: Mehr als nur die Grundlagen der Zuordnung – Anleitung
 description: Ändern Sie einige Projektfelder in dem Szenario, das Sie zuvor mit den Formeln im Zuordnungsfenster in [!DNL Adobe Workfront Fusion]erstellt haben.
+short-description: In dieser Videoeinführung können Sie den Projektnamen, das geplante Startdatum und die Priorität von dem „anfänglichen Szenario-Design“, das Sie in der ersten exemplarischen Vorgehensweise erstellt haben, mithilfe der Formeln im Zuordnungsbereich ändern.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 100%
+source-wordcount: '295'
+ht-degree: 89%
 
 ---
 
