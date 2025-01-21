@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Portfolios
-description: Erfahren Sie, was Portfolios sind und wie sie Ihnen dabei helfen können, Ihre Projekte zu vergleichen und Prioritäten zu setzen.
+description: Erfahren Sie, was Portfolios sind und wie sie Ihnen dabei helfen können, Ihre Projekte zu vergleichen und zu priorisieren.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,9 +13,9 @@ jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: 14e43ba0c7f04e26db0b3b6d306d48e170c6bbeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 45%
 
 In diesem Video lernen Sie Folgendes:
 
-* Was sind Portfolios?
-* Wie sie Ihnen helfen können, Ihre Projekte zu vergleichen und zu priorisieren.
+* Informationen zu Portfolios.
+* Informationen dazu, wie Sie damit Projekte vergleichen und priorisieren können.
 * Erstellen eines Portfolios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops)
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Grundlegendes zum [!UICONTROL Business-Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+* [Verstehen des [!UICONTROL Business-Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
 * [Verwenden des [!UICONTROL Portfolio-Optimizers], um Prioritäten zu setzen und Arbeit zu verwalten](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
