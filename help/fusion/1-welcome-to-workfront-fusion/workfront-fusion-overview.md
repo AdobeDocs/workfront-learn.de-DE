@@ -1,7 +1,7 @@
 ---
 title: Workfront Fusion-Schulung – Übersicht
 description: Erfahren Sie mehr über das Aktivitätenbuch von Adobe Workfront Fusion und darüber, wie Sie ein Workfront-Konto für einen Testlauf erhalten.
-short-description: 'Jeder Abschnitt von Workfront Fusion enthält mehrere Tutorials. Jedes Tutorial stellt Konzepte vor, die Sie verstehen müssen, bevor Sie mit dem nächsten Tutorial fortfahren können. '
+short-description: Jeder Abschnitt von Workfront Fusion enthält mehrere Tutorials, wobei jedes Tutorial Konzepte vorstellt, die Sie verstehen müssen, bevor Sie mit dem nächsten Tutorial fortfahren können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,7 +12,7 @@ jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
 ht-degree: 100%
 
