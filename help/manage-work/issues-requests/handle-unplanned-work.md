@@ -12,7 +12,7 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie ein Problem zu protokollieren ist
 * Best Practices für das Problem-Management
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
 
 ## Empfohlene Tutorials zu diesem Thema
 

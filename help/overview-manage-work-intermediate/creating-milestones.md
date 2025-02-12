@@ -11,7 +11,7 @@ level: Intermediate
 hide: true
 doc-type: video
 exl-id: d33c1c28-63db-4c74-b310-951d091052fa
-source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen von Meilensteinpfaden
 * Hinzufügen von Meilensteinschritten zu einem Meilensteinpfad
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

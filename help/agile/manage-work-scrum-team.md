@@ -8,7 +8,7 @@ jira: KT-10872
 thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 100%
@@ -30,7 +30,7 @@ In diesem Video lernen Sie Folgendes:
 
 In diesem Video erfahren Sie, wie Sie ein Rückstand-Projekt für ein agiles Team und eine neue Story erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops)
 
 Das agile Team wird sich gemeinsam um den Rückstand kümmern. Das umfasst generell drei Punkte.
 

@@ -13,7 +13,7 @@ jira: KT-13879
 doc-type: video
 hide: true
 exl-id: 8ef57b1c-39fb-4c4e-852e-994ea718e91a
-source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
@@ -37,7 +37,7 @@ In diesem Video lernen Sie Folgendes:
 * Fehler in der Abhängigkeitsschleife
 * Abkürzungen und Best Practices
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops)
 
 Weitere Informationen zur Verwendung von Vorgängern finden Sie unter [Verwenden von Aufgabenvorgängern](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=de).
 

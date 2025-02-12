@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer einfachen Gruppierung
-description: Erfahren Sie, was eine Gruppierung ist und wie Sie eine Gruppierung erstellen und mit anderen Benutzenden in Workfront teilen können.
+title: Erstellen grundlegender Gruppierungsaktivitäten
+description: Üben Sie die Erstellung grundlegender Gruppierungen mit Schritt-für-Schritt-Anweisungen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '185'
+ht-degree: 60%
 
 ---
 
-# Erstellen einer einfachen Gruppierung
 
-In diesem Video lernen Sie Folgendes:
-
-* Was ist eine Gruppierung in Workfront?
-* Erstellen einer Gruppierung
-* Freigeben einer Gruppierung für andere Workfront-Benutzende
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## Aktivität: Erstellen einer einfachen Gruppierung
+# Aktivität: Erstellen einer einfachen Gruppierung
 
 Erstellen Sie eine Problemgruppierung, mit der in einem Bericht Anfragen verfolgt werden können, die in einer Anfrage-Warteschlange eingehen. In dieser Gruppierung lassen sich ähnliche Problem-/Anfragetypen bequem in Prioritätsgruppen anzeigen. Benennen Sie die Gruppierung „Anfrage-Warteschlange, Warteschlangenthema, Priorität“.
 

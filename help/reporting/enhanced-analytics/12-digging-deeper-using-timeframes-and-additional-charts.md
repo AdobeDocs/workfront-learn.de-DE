@@ -12,7 +12,7 @@ jira: KT-8730
 recommendations: noDisplay,catalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * So schlüsseln Sie ein Projekt im Flugplan-Diagramm auf, um den Burndown-Chart und die Aufgaben im Flugdiagramm anzuzeigen
 * So erstellen Sie einen Zeitrahmen-Filter zum Vergrößern eines Datumsbereichs
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops)

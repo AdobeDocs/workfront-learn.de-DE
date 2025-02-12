@@ -13,7 +13,7 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Warum der Projektstatus in [!UICONTROL Abgeschlossen] geändert werden muss
 * Was Sie tun können, wenn es nicht möglich ist, den Projektstatus in [!UICONTROL Abgeschlossen] zu ändern
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
 
 ## Empfohlene Tutorials zu diesem Thema
 

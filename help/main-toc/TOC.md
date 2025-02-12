@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2405'
 ht-degree: 99%
 
 ---
@@ -151,7 +151,7 @@ ht-degree: 99%
 
    + Portfolios {#portfolios}
       + [Grundlegendes zu Portfolios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Grundlegendes zum [!UICONTROL Business-Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Verstehen des [!UICONTROL Business-Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
       + [Verwenden des [!UICONTROL Portfolio-Optimizers], um Prioritäten zu setzen und Arbeit zu verwalten](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
@@ -200,6 +200,7 @@ ht-degree: 99%
       + [Erstellen einer einfachen Ansicht](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [Hinzufügen von grundlegenden bedingten Formatierungen zu einer Ansicht](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Erstellen eines einfachen Filters](/help/reporting/basic-reporting/create-a-basic-filter.md)
+      + [Grundlegendes zum neuen Filtererlebnis](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Erstellen einer einfachen Filteraktivität](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Erstellen eines einfachen Berichts](/help/reporting/basic-reporting/create-a-simple-report.md)
       + [Erstellen eines Aufgabenberichts](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -649,5 +650,5 @@ ht-degree: 99%
 
 + [Anfragen verwalten](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Grundlegendes zum Diagramm zur Ressourcenkapazität](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
-
++ [Erstellen grundlegender Gruppierungsaktivitäten](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
 

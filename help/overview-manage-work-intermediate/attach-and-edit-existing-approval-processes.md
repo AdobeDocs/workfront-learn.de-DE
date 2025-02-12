@@ -12,7 +12,7 @@ jira: KT-8963
 hide: true
 doc-type: video
 exl-id: 6a1a682c-4437-4c1b-8373-5f4d07bb9c28
-source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Vorhandenen Genehmigungsprozess verwenden
 * Bearbeiten eines vorhandenen Genehmigungsprozesses für ein bestimmtes Projekt, eine bestimmte Aufgabe oder ein bestimmtes Problem
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops)
 
 <!---
 learn more URLS

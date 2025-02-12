@@ -9,7 +9,7 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 100%
@@ -24,7 +24,7 @@ Stellen Sie sicher, dass die Person auf der Registerkarte [!UICONTROL Warteschla
 
 Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops)
 
 **Ich habe Benutzenden Zugriff auf die Warteschlange gewährt, aber jetzt können sie auch das Projekt für die Anfrage-Warteschlange sehen. Warum?**
 
@@ -62,7 +62,7 @@ Sie können auf Felder in den Feldquellen **[!UICONTROL Konvertiertes Problem]**
 
 Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops)
 
 
 **Wie lässt es sich am besten nach Anfrage-Warteschlangen in einem Bericht filtern?**
@@ -73,7 +73,7 @@ Wenn Ihr Projektfilter **Warteschlange >>Ist öffentlich>>Nicht gleich>>Keine** 
 
 Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops)
 
 **Ist es empfehlenswert, einen benutzerdefinierten Status der Anfrage-Warteschlange zu erstellen?**
 

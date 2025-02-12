@@ -12,7 +12,7 @@ jira: KT-8953
 hide: true
 doc-type: video
 exl-id: 069ff32b-0dca-4dc7-a2d8-d9d3fd26a379
-source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 100%
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Planen von Projekten anhand des Start- oder Fertigstellungsdatums
 * Aufgabenbeschränkungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
 >[!IMPORTANT]
 >

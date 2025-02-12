@@ -11,7 +11,7 @@ jira: KT-9059
 exl-id: 8f16d7e1-2eb1-400f-bdad-5d05745a0ba7
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
@@ -28,4 +28,4 @@ In diesem Video lernen Sie Folgendes:
 * Lesen von JSON und dessen Übersetzung in Daten, die in Ihren Szenarien verwendet werden sollen
 * Wie die JSON-Module beim Erstellen, Ändern und Arbeiten mit JSON verwendet werden
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on&enablevpops)

@@ -13,23 +13,23 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
 # Aufzeichnen der gelernten Lektionen
 
-In diesem Video werden Sie die Vorteile von sehen:
+In diesem Video lernen Sie die Vorteile folgender Möglichkeiten kennen:
 
-* Erstellung einer Aufgabe „Erfahrungsauswertung“
-* Anhängen eines benutzerdefinierten Formulars mit „Erfahrungswerten“ an Ihr Projekt
-* Erstellen benutzerdefinierter Berichte für „Erfahrungsauswertung“
-* Erstellen eines Projekts für „Erfahrungsauswertung“
+* Erstellen einer Aufgabe „Gelernte Lektionen“
+* Anhängen eines benutzerdefinierten Formulars „Gelernte Lektionen“ an Ihr Projekt
+* Erstellen benutzerdefinierter Berichte für „Gelernte Lektionen“
+* Erstellen eines Projekts „Gelernte Lektionen“
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops)
 
 ## Empfohlene Tutorials zu diesem Thema
 

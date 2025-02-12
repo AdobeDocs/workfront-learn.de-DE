@@ -11,7 +11,7 @@ jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Sehen Sie sich ein bestimmtes Projekt in Workfront an und dann alle Aufgaben inn
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on&enablevpops)
 
 
 

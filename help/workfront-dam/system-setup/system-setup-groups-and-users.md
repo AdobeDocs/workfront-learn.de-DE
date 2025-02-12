@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 95%
@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen und Bearbeiten von Gruppen
 * Hinzufügen und Bearbeiten von Benutzenden
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
 
 ## Überprüfen von Gruppen und Benutzenden
 

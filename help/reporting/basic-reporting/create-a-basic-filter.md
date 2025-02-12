@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines einfachen Filters
-description: Erfahren Sie, was ein Filter ist, wie Sie einen Filter erstellen und wie Sie einen Filter in Workfront für andere Benutzerinnen und Benutzer freigeben. Lernen Sie außerdem, das neue Filtererlebnis zu verwenden.
+description: Erfahren Sie, was ein Filter ist, wie Sie einen Filter erstellen und wie Sie einen Filter in Workfront für andere Benutzer freigeben.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -8,13 +8,13 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-jira: kt-8857, kt-13080
+jira: kt-8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 77%
 
 ---
 
@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie ein Filter erstellt und abgeändert wird
 * Wie ein Filter für andere Workfront-Benutzerinnen und -Benutzer freigegeben wird
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
 
 ## Grundlegendes zum neuen Filtererlebnis
 
@@ -38,4 +38,4 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen und Bearbeiten von Filtern
 * Filter stapeln
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
