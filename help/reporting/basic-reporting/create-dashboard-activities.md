@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Dashboards
-description: Erfahren Sie, wie Sie mehrere Listenberichte, Diagramme, Kalender und externe Web-Seiten in einem Dashboard in Workfront kombinieren.
+title: Dashboard-Aktivitäten erstellen
+description: Üben Sie das Erstellen von Dashboards mit schrittweisen Anweisungen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 58%
+source-wordcount: '425'
+ht-degree: 49%
 
 ---
 
-# Erstellen von Dashboards
+# Dashboard-Aktivitäten erstellen
 
-In diesem Video lernen Sie Folgendes:
-
-* Was ist ein Dashboard in Workfront?
-* Erstellen eines Dashboards
-* Suchen und Verwenden eines Dashboards
-* Freigabe eines Dashboards für andere Workfront-Benutzende
-* Ausdrucken eines Dashboards
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+Üben Sie das Erstellen von Dashboards mit schrittweisen Anweisungen.
 
 ## Aktivität 1: Dashboard erstellen
 

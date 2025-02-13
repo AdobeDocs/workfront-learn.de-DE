@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Berichten mit Diagrammen
-description: Lernen Sie, wie Diagramme die Visualisierung von Daten verbessern können und wie Diagramm-Tools in Workfront verwendet werden.
+title: Erstellen von Berichten mit Diagrammaktivitäten
+description: Üben Sie das Erstellen von Berichten mit Diagrammen mit schrittweisen Anweisungen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '314'
+ht-degree: 81%
 
 ---
 
-# Erstellen von Berichten mit Diagrammen
+# Erstellen von Berichten mit Diagrammaktivitäten
 
-In diesem Video lernen Sie Folgendes:
-
-* Wie Diagramme die Visualisierung von Daten verbessern können
-* Wie die Diagramm-Tools von Workfront verwendet werden
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+Üben Sie das Erstellen von Berichten mit Diagrammen mit schrittweisen Anweisungen.
 
 ## Aktivität 1: Hinzufügen eines Diagramms zu einem Bericht
 

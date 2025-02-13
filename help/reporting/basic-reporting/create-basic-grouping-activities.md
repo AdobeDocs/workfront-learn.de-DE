@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 60%
+source-wordcount: '201'
+ht-degree: 52%
 
 ---
 
-# Aktivität: Erstellen einer einfachen Gruppierung
+# Erstellen grundlegender Gruppierungsaktivitäten
+
+Üben Sie die Erstellung grundlegender Gruppierungen mit Schritt-für-Schritt-Anweisungen.
+
+## Aktivität 1: Erstellen einer Gruppierung für die Anfragewarteschlange
 
 Erstellen Sie eine Problemgruppierung, mit der in einem Bericht Anfragen verfolgt werden können, die in einer Anfrage-Warteschlange eingehen. In dieser Gruppierung lassen sich ähnliche Problem-/Anfragetypen bequem in Prioritätsgruppen anzeigen. Benennen Sie die Gruppierung „Anfrage-Warteschlange, Warteschlangenthema, Priorität“.
 
@@ -28,7 +32,7 @@ Gruppieren Sie den Problembericht nach:
 1. Dem Warteschlangen-Thema
 1. Der Anfragepriorität
 
-## Antwort
+## Antwort 1
 
 ![Ein Screenshot des Bildschirms zur Erstellung einer neuen Gruppierung](assets/grouping-exercise.png)
 

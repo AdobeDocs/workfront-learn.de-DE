@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines einfachen Berichts
-description: Lernen Sie, wie Sie in Workfront einen einfachen Bericht mit einem vorhandenen Filter, einer Ansicht und einer Gruppierung erstellen.
+title: Erstellen einfacher Berichtsaktivitäten
+description: Üben Sie die Erstellung einfacher Berichte mit schrittweisen Anweisungen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,22 +9,17 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8858
 thumbnail: 335153.png
-exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 79%
+source-wordcount: '225'
+ht-degree: 66%
 
 ---
 
-# Erstellen eines einfachen Berichts
+# Erstellen einfacher Berichtsaktivitäten
 
-In diesem Video lernen Sie Folgendes:
-
-* Erstellen eines einfachen Berichts unter Verwendung eines vorhandenen Filters, einer Ansicht und einer Gruppierung
-
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+Üben Sie die Erstellung einfacher Berichte mit schrittweisen Anweisungen.
 
 ## Aktivität 1: Erstellen eines einfachen Aufgabenberichts
 

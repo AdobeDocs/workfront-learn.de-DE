@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen von grundlegenden bedingten Formatierungen zu einer Ansicht
-description: Erfahren Sie, wie Sie mithilfe von Spaltenregeln die Textfarbe, die Formatierung und die Hintergrundfarben in einem Bericht oder einer Ansicht anhand der von Ihnen festgelegten Kriterien ändern können.
+title: Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansichtsaktivität
+description: Üben Sie das Hinzufügen einer grundlegenden bedingten Formatierung zu Ansichten mit schrittweisen Anweisungen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '411'
+ht-degree: 87%
 
 ---
 
-# Hinzufügen von grundlegenden bedingten Formatierungen zu einer Ansicht
+# Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansichtsaktivität
 
-Eine bedingte Formatierung erfolgt durch die Erstellung von Spaltenregeln. Spaltenregeln ermöglichen die Formatierung einer Spalte nach benutzerspezifischen Kriterien.
-
-In diesem Video lernen Sie Folgendes:
-
-* Welche bedingte Formatierung hat eine Ansicht?
-* Erstellen und Ändern einer bedingten Formatierung
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+Üben Sie das Hinzufügen einer grundlegenden bedingten Formatierung zu Ansichten mit schrittweisen Anweisungen.
 
 ## Zusammenfassung
 

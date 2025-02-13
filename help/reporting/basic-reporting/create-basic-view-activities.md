@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer einfachen Ansicht
-description: Erfahren Sie, was eine Ansicht ist, wie Sie eine Ansicht erstellen und wie Sie eine Ansicht für andere Benutzende in Workfront freigeben.
+title: Aktivitäten mit einfacher Ansicht erstellen
+description: Üben Sie das Erstellen grundlegender Ansichten mit Schritt-für-Schritt-Anweisungen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
-# Erstellen einer einfachen Ansicht
+# Aktivitäten mit einfacher Ansicht erstellen
 
-In diesem Video lernen Sie Folgendes:
-
-* Was ist eine Ansicht in Workfront?
-* Erstellen und Ändern einer Ansicht
-* So geben Sie eine Ansicht für andere Workfront-Benutzende frei
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+Üben Sie das Erstellen grundlegender Ansichten mit Schritt-für-Schritt-Anweisungen.
 
 ## Aktivität 1: Erstellen einer Aufgabenstatusansicht
 
@@ -43,7 +36,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Aufgabenstatusansicht“ mit
 * [!UICONTROL Fortschrittsstatus]
 * [!UICONTROL Status-Symbole]
 
-## Antwort 1
+## Antwort zu Aktivität 1
 
 ![Ein Screenshot des Bildschirms zum Erstellen einer Aufgabenstatusansicht](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Meilensteinansicht“ mit de
 * [!UICONTROL Prozent abgeschlossen]
 
 
-## Antwort 2
+## Antwort zu Aktivität 2
 
 ![Ein Screenshot des Bildschirms zum Erstellen einer Meilensteinansicht](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Ansicht der Dauertypen und A
 
 Ändern Sie das [!UICONTROL Feldformat] in den Spalten [!UICONTROL Beginnt am] und [!UICONTROL Fällig am], um sowohl Datum als auch Uhrzeit anzuzeigen.
 
-## Antwort 3
+## Antwort zu Aktivität 3
 
 ![Ein Screenshot des Bildschirms mit der Ansicht der Dauertypen und Aufgabenbeschränkungen](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ Erstellen Sie eine Projektvorlagenansicht namens „Standard+aktiver Status“ m
 * [!UICONTROL Ist aktiv]
 
 
-## Antwort 4
+## Antwort zu Aktivität 4
 
 ![Ein Bild des Bildschirms zur Anzeige einer aktiven Statusansicht der Projektvorlage](assets/view-activity-4.png)
 

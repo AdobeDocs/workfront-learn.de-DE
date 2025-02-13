@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines Matrix-Berichts
-description: Erfahren Sie, wann ein Matrix-Bericht nützlich sein kann und wie Sie einen Matrix-Bericht in Workfront erstellen.
+title: Erstellen von Matrixberichtsaktivitäten
+description: Üben Sie die Erstellung von Matrixberichten mit schrittweisen Anweisungen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '236'
+ht-degree: 66%
 
 ---
 
-# Erstellen eines Matrix-Berichts
+# Erstellen von Matrixberichtsaktivitäten
 
-In diesem Video lernen Sie Folgendes:
-
-* Wann ein Matrix-Bericht nützlich sein kann
-* Und wie man einen Matrix-Bericht erstellt
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+Üben Sie die Erstellung von Matrixberichten mit schrittweisen Anweisungen.
 
 ## Aktivität 1: Erstellen eines Matrixberichts
 
