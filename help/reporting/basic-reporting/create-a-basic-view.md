@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '835'
+ht-degree: 98%
 
 ---
 
@@ -29,7 +29,11 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Aktivität 1: Erstellen einer Aufgabenstatusansicht
+## Aktivitäten mit einfacher Ansicht erstellen
+
+Klicken Sie [hier](/help/assets/create-basic-view-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
+
+### Aktivität 1: Erstellen einer Aufgabenstatusansicht
 
 Als Projektmanager oder -managerin, Team-Leitung oder Ressourcen-Manager oder -Managerin möchten Sie den Fortschritt der Aufgabenarbeit verfolgen. In dieser Ansicht werden mehrere Statusindikatoren einer Aufgabe in einer Zeile der Liste oder des Berichts angezeigt.
 
@@ -43,7 +47,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Aufgabenstatusansicht“ mit
 * [!UICONTROL Fortschrittsstatus]
 * [!UICONTROL Status-Symbole]
 
-## Antwort 1
+### Antwort 1
 
 ![Ein Screenshot des Bildschirms zum Erstellen einer Aufgabenstatusansicht](assets/view-exercise.png)
 
@@ -60,7 +64,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Aufgabenstatusansicht“ mit
 
 Bewegen Sie den Mauszeiger über die einzelnen Symbole in der Spalte [!UICONTROL Statusbildsymbole], um zu sehen, was sie bedeuten. Wenn sie ausgegraut sind, bedeutet dies, dass die Aufgabe keine Notizen, Dokumente, Genehmigungsprozesse usw. hat. Wenn ein Symbol farbig angezeigt wird, ist mindestens ein Element mit der Aufgabe verknüpft. Sie können auf die Notiz- oder Dokumentsymbole klicken, um zu diesem Element zu wechseln.
 
-## Aktivität 2: Erstellen einer Meilensteinansicht
+### Aktivität 2: Erstellen einer Meilensteinansicht
 
 Wenn Sie Meilensteine verwenden, ist diese Ansicht die einfachste Möglichkeit, Meilensteine nach Namen zu sehen und sie mithilfe einer Inline-Bearbeitung hinzuzufügen oder zu bearbeiten.
 
@@ -76,7 +80,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Meilensteinansicht“ mit de
 * [!UICONTROL Prozent abgeschlossen]
 
 
-## Antwort 2
+### Antwort 2
 
 ![Ein Screenshot des Bildschirms zum Erstellen einer Meilensteinansicht](assets/view-milestone-exercise-1.png)
 
@@ -88,7 +92,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Meilensteinansicht“ mit de
 
 ![Ein Bild einer Aufgabenliste mit einer Meilensteinansicht](assets/view-milestone-exercise-2.png)
 
-## Aktivität 3: Erstellen einer Ansicht mit Dauertypen und Aufgabenbeschränkungen
+### Aktivität 3: Erstellen einer Ansicht mit Dauertypen und Aufgabenbeschränkungen
 
 Diese Ansicht ermöglicht es Ihnen, alle Dauertypen und Aufgabenbeschränkungen in Ihrem Projekt zu untersuchen und zu bearbeiten.
 
@@ -108,7 +112,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Ansicht der Dauertypen und A
 
 Ändern Sie das [!UICONTROL Feldformat] in den Spalten [!UICONTROL Beginnt am] und [!UICONTROL Fällig am], um sowohl Datum als auch Uhrzeit anzuzeigen.
 
-## Antwort 3
+### Antwort 3
 
 ![Ein Screenshot des Bildschirms mit der Ansicht der Dauertypen und Aufgabenbeschränkungen](assets/view-activity-3.png)
 
@@ -130,7 +134,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Ansicht der Dauertypen und A
 1. Wählen Sie unter der Dropdown-Auswahl zum [!UICONTROL Feldformat] [!UICONTROL „17.10.60 3:00 Uhr“].
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-## Aktivität 4: Erstellen einer aktiven Statusansicht einer Projektvorlage
+### Aktivität 4: Erstellen einer aktiven Statusansicht einer Projektvorlage
 
 Jeder, der Projektvorlagen verwaltet, wird es schätzen, den aktiven Status („True“ oder „False“) der einzelnen Vorlagen in einer Liste zu sehen. Noch besser – das Feld kann inline bearbeitet werden!
 
@@ -146,7 +150,7 @@ Erstellen Sie eine Projektvorlagenansicht namens „Standard+aktiver Status“ m
 * [!UICONTROL Ist aktiv]
 
 
-## Antwort 4
+### Antwort 4
 
 ![Ein Bild des Bildschirms zur Anzeige einer aktiven Statusansicht der Projektvorlage](assets/view-activity-4.png)
 

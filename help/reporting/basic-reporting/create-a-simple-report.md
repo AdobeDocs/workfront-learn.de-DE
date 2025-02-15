@@ -11,9 +11,9 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '255'
 ht-degree: 79%
 
 ---
@@ -26,7 +26,11 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Aktivität 1: Erstellen eines einfachen Aufgabenberichts
+## Erstellen einfacher Berichtsaktivitäten
+
+Klicken Sie [hier](/help/assets/create-simple-report-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
+
+### Aktivität 1: Erstellen eines einfachen Aufgabenberichts
 
 Sie möchten alle Ihre aktiven Aufgaben in einem einzigen Bericht verfolgen. Erstellen Sie einen Aufgabenbericht mit dem Namen „Meine aktuellen Aufgaben“ wie folgt:
 
@@ -35,7 +39,7 @@ Sie möchten alle Ihre aktiven Aufgaben in einem einzigen Bericht verfolgen. Ers
 * Filter = Meine aktuellen Aufgaben
 * Beschreibung = Unerledigte Aufgaben in aktuellen Projekten, bei denen ich die bzw. der Aufgabenverantwortliche bin, gruppiert nach Projekt.
 
-## Antwort 1
+### Antwort 1
 
 1. Rufen Sie das **[!UICONTROL Hauptmenü]** auf und wählen Sie **[!UICONTROL Berichte]** aus.
 1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Aufgabenbericht]** aus.

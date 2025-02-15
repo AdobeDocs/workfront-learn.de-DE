@@ -11,14 +11,16 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '429'
 ht-degree: 100%
 
 ---
 
 # Erstellen einer einfachen Filteraktivität
+
+Klicken Sie [hier](/help/assets/create-basic-filter-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
 ## Aktivität 1 – Alle Projekte im Marketing-Portfolio
 
@@ -26,7 +28,7 @@ In dieser Aktivität erstellen Sie einen Projektfilter mit dem Namen „Alle Pro
 
 Eine schrittweise Anleitung finden Sie weiter unten.
 
-### Antwort auf Aktivität 1
+## Antwort auf Aktivität 1
 
 ![Ein Screenshot des Bildschirms zum Erstellen eines neuen Filters](assets/basic-filter-activity-1.png)
 
@@ -49,7 +51,7 @@ Eine schrittweise Anleitung finden Sie weiter unten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
-### Antwort auf Aktivität 2
+## Antwort auf Aktivität 2
 
 ![Ein Screenshot des Bildschirms zum Erstellen eines neuen Filters](assets/basic-filter-activity-updated-6-15-21.png)
 

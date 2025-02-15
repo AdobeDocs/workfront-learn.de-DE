@@ -11,10 +11,10 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '225'
+ht-degree: 94%
 
 ---
 
@@ -28,11 +28,15 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Aktivität 1: Senden eines Berichts
+## Berichtsaktivitäten senden und freigeben
+
+Klicken Sie [hier](/help/assets/send-and-share-reports-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
+
+### Aktivität 1: Senden eines Berichts
 
 Senden Sie sich selbst jeden Montag um 5 Uhr morgens einen Bericht in Form einer Excel-Tabelle. Auf diese Weise können Sie automatisch wöchentliche Berichte erstellen, die Sie später nutzen können, um Trends zu erkennen.
 
-## Antwort 1
+### Antwort 1
 
 ![Ein Screenshot des Bildschirms zum Einrichten wiederkehrender Berichtssendungen](assets/send-a-report.png)
 

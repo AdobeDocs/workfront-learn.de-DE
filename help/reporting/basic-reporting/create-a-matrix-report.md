@@ -11,9 +11,9 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '268'
 ht-degree: 79%
 
 ---
@@ -27,13 +27,17 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Aktivität 1: Erstellen eines Matrixberichts
+## Erstellen von Matrixberichtsaktivitäten
+
+Klicken Sie [hier](/help/assets/create-matrix-report-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
+
+### Aktivität 1: Erstellen eines Matrixberichts
 
 Erstellen Sie einen Matrix-Bericht, aus dem hervorgeht, wie viele Anfragen in jedem Status vorhanden sind, sortiert nach Anfrage-Warteschlange. Dies gibt Ihnen einen schnellen Überblick über den Arbeitsaufwand, der eingeht, und wie gut Sie damit Schritt halten.
 
 Sie möchten, dass die Anfrage-Warteschlangen in den Zeilengruppierungen erscheinen. Der Status erscheint als die Spaltengruppierungen. Geben Sie dem Bericht den Namen „Anfragen nach Status und Anfrage-Warteschlange“.
 
-## Antwort 1
+### Antwort 1
 
 1. Wählen Sie **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]** aus.
 1. Klicken Sie auf die Option **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Problem]** aus.
