@@ -11,9 +11,9 @@ jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ In diesem Video lernen Sie Folgendes:
 
 Beim Konfigurieren des [!UICONTROL Workfront DAM]-Systems ist es wichtig, die Rollen zu berücksichtigen, die Benutzende und Gruppen im Gesamtbild spielen.
 
-Gruppen steuern den Zugriff auf Asset-Ordner in [!UICONTROL Workfront DAM]. Gruppeneinstellungen steuern auch, was Benutzer mit den Assets tun können (Anzeigen, Herunterladen, Bearbeiten usw.), für die sie Zugriffsberechtigungen haben.
+Gruppen steuern den Zugriff auf Asset-Ordner in [!UICONTROL Workfront DAM]. Gruppeneinstellungen steuern auch, was Benutzende mit den Assets tun können, auf die sie zugreifen dürfen (anzeigen, herunterladen, bearbeiten usw.).
 
 Beim Erstellen von Gruppen ist es wichtig zu beachten, auf welche Asset-Ordner in [!UICONTROL Workfront DAM] die Mitglieder der jeweiligen Gruppe Zugriff benötigen.
 
