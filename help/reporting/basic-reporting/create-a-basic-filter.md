@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines einfachen Filters
-description: Erfahren Sie, was ein Filter ist, wie Sie einen Filter erstellen und wie Sie einen Filter in Workfront für andere Benutzer freigeben.
+description: Erfahren Sie, was ein Filter ist, wie Sie einen Filter erstellen und wie Sie einen Filter in Workfront für andere Benutzerinnen und Benutzer freigeben.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 

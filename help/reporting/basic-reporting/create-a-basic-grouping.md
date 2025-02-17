@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 70%
+ht-degree: 95%
 
 ---
 
@@ -34,7 +34,7 @@ Klicken Sie [hier](/help/assets/create-basic-grouping-activities.pdf), um eine P
 
 ### Aktivität 1: Erstellen einer grundlegenden Gruppierung
 
-Erstellen Sie eine Problemgruppierung, mit der in einem Bericht Anfragen verfolgt werden können, die in einer Anfrage-Warteschlange eingehen. In dieser Gruppierung lassen sich ähnliche Problem-/Anfragetypen bequem in Prioritätsgruppen anzeigen. Benennen Sie die Gruppierung „Anfrage-Warteschlange, Warteschlangenthema, Priorität“.
+Erstellen Sie eine Problemgruppierung, mit der in einem Bericht Anfragen verfolgt werden können, die in einer Anfrage-Warteschlange eingehen. In dieser Gruppierung lassen sich ähnliche Problem-/Anfragetypen bequem in Prioritätsgruppen anzeigen. Weisen Sie der Gruppierung den Namen „Anfrage-Warteschlange, Warteschlangenthema, Priorität“ zu.
 
 Gruppieren Sie den Problembericht nach:
 
@@ -47,11 +47,11 @@ Gruppieren Sie den Problembericht nach:
 ![Ein Screenshot des Bildschirms zur Erstellung einer neuen Gruppierung](assets/grouping-exercise.png)
 
 1. Rufen Sie in einem Problemlistenbericht das Menü **[!UICONTROL Gruppierung]** auf und wählen Sie **[!UICONTROL Neue Gruppierung]**.
-1. Benennen Sie Ihre Gruppierung mit „Anfrage-Warteschlange, Warteschlangenthema, Priorität“.
+1. Weisen Sie der Gruppierung den Namen „Anfrage-Warteschlange, Warteschlangenthema, Priorität“ zu.
 1. Klicken Sie auf **[!UICONTROL Gruppierung hinzufügen]**.
-1. Geben Sie im Feld [!UICONTROL Zuerst nach]. Geben Sie „Projektname“ ein und wählen Sie **[!UICONTROL Name]** unter der Projektfeldquelle aus.
+1. Geben Sie im Feld [!UICONTROL Zuerst nach]. den Text „Projektname“ ein und wählen Sie für die Feldquelle „Projekt“ die Option **[!UICONTROL Name]** aus.
 1. Klicken Sie auf **[!UICONTROL Weitere Gruppierung hinzufügen]**.
-1. Geben Sie im Feld [!UICONTROL Und dann nach] „Warteschlange“ ein und wählen Sie **[!UICONTROL Name]** unter der ] &quot;[!UICONTROL &quot; aus.
+1. Geben Sie in das Feld [!UICONTROL Und dann nach] den Text „Warteschlange“ ein und wählen Sie für die Feldquelle [!UICONTROL Warteschlangenthema] die Option **[!UICONTROL Name]** aus.
 1. Klicken Sie auf **[!UICONTROL Weitere Gruppierung hinzufügen]**.
-1. Geben Sie im Feld [!UICONTROL Und dann nach] „Priorität“ ein und wählen Sie **[!UICONTROL Priorität]** unter der [!UICONTROL Problem]-Feldquelle aus.
+1. Geben Sie in das Feld [!UICONTROL Und dann nach] den Text „Priorität“ ein und wählen Sie für die Feldquelle [!UICONTROL Problem] die Option **[!UICONTROL Priorität]** aus.
 1. Klicken Sie auf **[!UICONTROL Gruppierung speichern]**
