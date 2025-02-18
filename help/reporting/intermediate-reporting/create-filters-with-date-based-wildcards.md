@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '232'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 71%
 
 ---
 
@@ -23,14 +23,19 @@ ht-degree: 100%
 In diesem Video lernen Sie Folgendes:
 
 * Verwenden datumsbasierter Platzhalter
-* Lernen Sie den Unterschied zwischen den beiden datumsbasierten Platzhaltern in Workfront kennen
+* Verstehen Sie den Unterschied zwischen den beiden datumsbasierten Platzhaltern von Workfront
 * Hinzufügen eines datumsbasierten Platzhalters zu einem Filter
 * Erstellen eines benutzerdefinierten Datums mithilfe von Platzhaltern, Attributen, Operatoren und Modifikatoren
 * Erstellen eines benutzerdefinierten Datumsbereichs mithilfe von Platzhaltern
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
-## Aktivitätsfragen
+
+## Erstellen von Filtern mit datumsbasierten Platzhalteraktivitäten
+
+Klicken Sie [hier](/help/assets/create-filters-with-date-based-wildcards-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
+
+### Aktivitätsfragen
 
 1. Wie würden Sie die Filterregel erstellen, wenn Sie nach Ausgaben suchen, deren Fälligkeitsdatum gestern oder heute ist?
 1. Wie würden Sie die Filterregel erstellen, um nach Projekten zu suchen, die letzte Woche fällig waren?
@@ -38,8 +43,8 @@ In diesem Video lernen Sie Folgendes:
 
 ![Ein Screenshot des Bildschirms zum Erstellen eines Aufgabenfilters mit einem datumsbasierten Platzhalter](assets/date-wildcard-answer-1.png)
 
-## Antworten
+### Antworten
 
 1. Filtern nach dem geplanten Fertigstellungsdatum der Ausgabe zwischen [!UICONTROL $$TODAY-1d] und [!UICONTROL $$TODAY].
 1. Filtern nach dem geplanten Fertigstellungsdatum des Projekts zwischen [!UICONTROL $$TODAYb-1w] und [!UICONTROL $$TODAYe-1w].
-1. In diesem Bericht werden die Ihnen zugewiesenen Aufgaben angezeigt, die noch nicht abgeschlossen sind (d. h. deren Fertigstellungsgrad unter 100 % liegt) und die überfällig oder heute fällig sind. Die Filterregel für das geplante Fertigstellungsdatum der Aufgaben besagt, dass nach Aufgaben mit einem Fälligkeitsdatum vor oder gleich dem heutigen Datum gesucht werden soll.
+1. Dieser Bericht findet Aufgaben, die Ihnen zugewiesen wurden und noch nicht abgeschlossen sind (d. h. einen Prozentsatz von weniger als 100 abgeschlossen haben) und die heute überfällig oder fällig sind. Die Filterregel für das geplante Abschlussdatum der Aufgaben besagt, dass Aufgaben mit einem Fälligkeitsdatum, das dem heutigen Datum entspricht oder vor diesem liegt, betrachtet werden sollen.

@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-01T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
@@ -26,14 +26,17 @@ In diesem Video lernen Sie Folgendes:
 * Überprüfen der integrierten Projektfilter, um zu sehen, wie sie erstellt wurden
 * Erstellen eines eigenen Projektfilters mit dem, was Sie gelernt haben
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
+## Grundlegendes zu integrierten Projektfilteraktivitäten
 
-## Aktivität: Erstellen eines Projektfilters
+Klicken Sie [hier](/help/assets/understand-built-in-project-filters-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
+
+### Aktivität: Erstellen eines Projektfilters
 
 Sie möchten alle aktiven Projekte sehen, für die Sie verantwortlich sind, wobei „aktiv“ bedeutet, dass der Projektstatus mit „In Planung“ oder „Aktuell“ gleichzusetzen ist. Erstellen Sie im Bereich „Projekte“ einen Projektfilter mit dem Namen „Aktive Projekte, für die ich verantwortlich bin“.
 
-## Antwort
+### Antwort
 
 Ihr Filter sollte wie folgt aussehen:
 
