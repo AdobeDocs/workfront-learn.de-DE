@@ -12,9 +12,9 @@ jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -27,17 +27,17 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Erstellen von Matrixberichtsaktivitäten
+## Aktivitäten zum Erstellen eines Matrix-Berichts
 
 Klicken Sie [hier](/help/assets/create-matrix-report-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
-### Aktivität 1: Erstellen eines Matrixberichts
+### Aktivität 1: Erstellen eines Matrix-Berichts
 
-Erstellen Sie einen Matrix-Bericht, aus dem hervorgeht, wie viele Anfragen in jedem Status vorhanden sind, sortiert nach Anfrage-Warteschlange. Dies gibt Ihnen einen schnellen Überblick über den Arbeitsaufwand, der eingeht, und wie gut Sie damit Schritt halten.
+Erstellen Sie einen Matrix-Bericht, aus dem hervorgeht, wie viele Anfragen in jedem Status vorhanden sind, sortiert nach Anfrage-Warteschlange. Dies gibt Ihnen einen schnellen Überblick über die eingehende Arbeit und darüber, wie gut Sie mit ihr Schritt halten.
 
-Sie möchten, dass die Anfrage-Warteschlangen in den Zeilengruppierungen erscheinen. Der Status erscheint als die Spaltengruppierungen. Geben Sie dem Bericht den Namen „Anfragen nach Status und Anfrage-Warteschlange“.
+Sie möchten, dass die Anfrage-Warteschlangen in den Zeilengruppierungen erscheinen. Der Status erscheint als die Spaltengruppierungen. Nennen Sie den Bericht „Anfragen nach Status und Anfrage-Warteschlange“.
 
-### Antwort 1
+### Antwort 1
 
 1. Wählen Sie **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]** aus.
 1. Klicken Sie auf die Option **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Problem]** aus.
@@ -53,6 +53,6 @@ Sie möchten, dass die Anfrage-Warteschlangen in den Zeilengruppierungen erschei
    * [!UICONTROL Projekt] > [!UICONTROL Status entspricht] > [!UICONTROL Gleich] > [!UICONTROL Aktuell]
    * [!UICONTROL Warteschlangendefinition] > [!UICONTROL Ist öffentlich] > [!UICONTROL Ungleich] > [!UICONTROL Keines] (So wissen wir, dass ein Projekt tatsächlich eine Anfrage-Warteschlange ist, indem die Warteschlangendefinition einer der öffentlichen Optionen zugewiesen wird.)
 
-1. Klicken Sie auf **[!UICONTROL Speichern + schließen]**. Geben Sie bei Aufforderung zur Eingabe eines Berichtsnamens „Anfragen nach Status und Anfrage-Warteschlange“ ein.
+1. Klicken Sie auf **[!UICONTROL Speichern + schließen]**. Wenn Sie zur Eingabe eines Berichtnamens aufgefordert werden, geben Sie „Anfragen nach Status und Anfrage-Warteschlange“ ein.
 
    ![Ein Screenshot des Bildschirms zur Erstellung eines neuen Problembericht-Filters](assets/matrix-report-filters.png)

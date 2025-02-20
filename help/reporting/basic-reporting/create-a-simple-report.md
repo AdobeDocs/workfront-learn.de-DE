@@ -12,9 +12,9 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -26,20 +26,20 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Erstellen einfacher Berichtsaktivitäten
+## Aktivitäten zum Erstellen eines einfachen Berichts
 
 Klicken Sie [hier](/help/assets/create-simple-report-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
-### Aktivität 1: Erstellen eines einfachen Aufgabenberichts
+### Aktivität 1: Erstellen eines einfachen Aufgabenberichts
 
-Sie möchten alle Ihre aktiven Aufgaben in einem einzigen Bericht verfolgen. Erstellen Sie einen Aufgabenbericht mit dem Namen „Meine aktuellen Aufgaben“ wie folgt:
+Sie möchten alle Ihre aktiven Aufgaben in einem einzigen Bericht verfolgen. Erstellen Sie einen Aufgabenbericht mit dem Namen „Meine aktuellen Aufgaben“ und verwenden Sie dabei Folgendes:
 
 * Spalten (Ansicht) = Standard
 * Gruppierungen = Projekt
 * Filter = Meine aktuellen Aufgaben
 * Beschreibung = Unerledigte Aufgaben in aktuellen Projekten, bei denen ich die bzw. der Aufgabenverantwortliche bin, gruppiert nach Projekt.
 
-### Antwort 1
+### Antwort 1
 
 1. Rufen Sie das **[!UICONTROL Hauptmenü]** auf und wählen Sie **[!UICONTROL Berichte]** aus.
 1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Aufgabenbericht]** aus.
@@ -55,10 +55,10 @@ Sie möchten alle Ihre aktiven Aufgaben in einem einzigen Bericht verfolgen. Ers
 
    ![Ein Screenshot des Bildschirms zum Erstellen von Filtern in einem Aufgabenbericht](assets/simple-task-report-filters.png)
 
-1. Öffnen Sie **[!UICONTROL Berichteinstellungen]** und benennen Sie den Bericht „Meine aktuellen Aufgaben“.
-1. Geben Sie im Feld Beschreibung „Unvollständig“ ein
-Aufgaben in aktuellen Projekten, in denen ich die Aufgabe bin
-Besitzer, gruppiert nach Projekt.“
+1. Öffnen Sie **[!UICONTROL Berichteinstellungen]** und nennen Sie den Bericht „Meine aktuellen Aufgaben“.
+1. Geben Sie in das Feld „Beschreibung“ Folgendes ein: „Unerledigte
+Aufgaben in aktuellen Projekte, bei denen ich für die 
+Aufgaben verantwortlich bin, gruppiert nach Projekt“.
 
    ![Ein Screenshot des Bildschirms mit den Berichtseinstellungen in einem Aufgabenbericht](assets/simple-task-report-report-settings.png)
 

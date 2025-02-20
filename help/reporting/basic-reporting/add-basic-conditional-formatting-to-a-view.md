@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen von grundlegenden bedingten Formatierungen zu einer Ansicht
+title: Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht
 description: Erfahren Sie, wie Sie mithilfe von Spaltenregeln die Textfarbe, die Formatierung und die Hintergrundfarben in einem Bericht oder einer Ansicht anhand der von Ihnen festgelegten Kriterien ändern können.
 activity: use
 feature: Reports and Dashboards
@@ -12,13 +12,13 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '471'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Hinzufügen von grundlegenden bedingten Formatierungen zu einer Ansicht
+# Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht
 
 Eine bedingte Formatierung erfolgt durch die Erstellung von Spaltenregeln. Spaltenregeln ermöglichen die Formatierung einer Spalte nach benutzerspezifischen Kriterien.
 
@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansichtsaktivität
+## Aktivitäten zum Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht
 
 Klicken Sie [hier](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
@@ -46,7 +46,7 @@ So erstellen Sie eine bedingte Formatierung:
    * Ersatztext
    * Symbol anzeigen
 
-### Aktivität 1: Hinzufügen einer bedingten Formatierung zu einer Ansicht
+### Aktivität 1: Hinzufügen einer grundlegenden Formatierung zu einer Ansicht
 
 Erstellen Sie eine Aufgabenansicht mit dem Namen „Standard + Fortschritt“, indem Sie diese bedingte Formatierung zur Spalte [!UICONTROL Name] der bestehenden Standardansicht hinzufügen.
 
@@ -55,7 +55,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Standard + Fortschritt“, i
 
 Auf diese Weise können Sie problematische Aufgaben erkennen, ohne die Spalte für den Fortschrittsstatus in Ihre Ansicht aufzunehmen.
 
-### Antwort 1
+### Antwort 1
 
 ![Ein Screenshot des Bildschirms zum Erstellen einer neuen Spaltenregel](assets/conditional-formatting-exercise.png)
 

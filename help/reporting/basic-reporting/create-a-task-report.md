@@ -12,9 +12,9 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Erstellen von Aufgabenberichtsaktivitäten
+## Aktivitäten zum Erstellen eines Aufgabenberichts
 
 Klicken Sie [hier](/help/assets/create-task-report-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
@@ -68,7 +68,7 @@ Schließen Sie Aufforderungen zu Folgendem ein:
 * Projektname
 * Prüfungstyp
 
-## Antwort 1
+## Antwort 1
 
 1. Wählen Sie **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]** aus.
 1. Klicken Sie auf das Menü **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Notiz]**.
@@ -162,7 +162,7 @@ Filtern Sie nach der ID des Projekts der Anfrage-Warteschlange, in dem sich die 
 
 
 
-## Antwort 2
+## Antwort 2
 
 1. Wählen Sie **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]** aus.
 1. Klicken Sie auf das Menü **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Problem]** aus.

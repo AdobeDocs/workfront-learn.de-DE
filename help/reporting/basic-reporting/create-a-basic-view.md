@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '835'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Aktivitäten mit einfacher Ansicht erstellen
+## Aktivitäten zum Erstellen einer einfachen Ansicht
 
 Klicken Sie [hier](/help/assets/create-basic-view-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
@@ -47,7 +47,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Aufgabenstatusansicht“ mit
 * [!UICONTROL Fortschrittsstatus]
 * [!UICONTROL Status-Symbole]
 
-### Antwort 1
+### Antwort 1
 
 ![Ein Screenshot des Bildschirms zum Erstellen einer Aufgabenstatusansicht](assets/view-exercise.png)
 
@@ -80,7 +80,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Meilensteinansicht“ mit de
 * [!UICONTROL Prozent abgeschlossen]
 
 
-### Antwort 2
+### Antwort 2
 
 ![Ein Screenshot des Bildschirms zum Erstellen einer Meilensteinansicht](assets/view-milestone-exercise-1.png)
 
@@ -112,7 +112,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Ansicht der Dauertypen und A
 
 Ändern Sie das [!UICONTROL Feldformat] in den Spalten [!UICONTROL Beginnt am] und [!UICONTROL Fällig am], um sowohl Datum als auch Uhrzeit anzuzeigen.
 
-### Antwort 3
+### Antwort 3
 
 ![Ein Screenshot des Bildschirms mit der Ansicht der Dauertypen und Aufgabenbeschränkungen](assets/view-activity-3.png)
 
@@ -150,7 +150,7 @@ Erstellen Sie eine Projektvorlagenansicht namens „Standard+aktiver Status“ m
 * [!UICONTROL Ist aktiv]
 
 
-### Antwort 4
+### Antwort 4
 
 ![Ein Bild des Bildschirms zur Anzeige einer aktiven Statusansicht der Projektvorlage](assets/view-activity-4.png)
 

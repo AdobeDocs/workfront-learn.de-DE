@@ -12,9 +12,9 @@ jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Erstellen grundlegender Gruppierungsaktivitäten
+## Aktivitäten zum Erstellen einer einfachen Gruppierung
 
 Klicken Sie [hier](/help/assets/create-basic-grouping-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
-### Aktivität 1: Erstellen einer grundlegenden Gruppierung
+### Aktivität 1: Erstellen einer einfachen Gruppierung
 
 Erstellen Sie eine Problemgruppierung, mit der in einem Bericht Anfragen verfolgt werden können, die in einer Anfrage-Warteschlange eingehen. In dieser Gruppierung lassen sich ähnliche Problem-/Anfragetypen bequem in Prioritätsgruppen anzeigen. Weisen Sie der Gruppierung den Namen „Anfrage-Warteschlange, Warteschlangenthema, Priorität“ zu.
 
@@ -42,7 +42,7 @@ Gruppieren Sie den Problembericht nach:
 1. Dem Warteschlangen-Thema
 1. Der Anfragepriorität
 
-### Antwort 1
+### Antwort 1
 
 ![Ein Screenshot des Bildschirms zur Erstellung einer neuen Gruppierung](assets/grouping-exercise.png)
 

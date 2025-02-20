@@ -12,9 +12,9 @@ jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '476'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -30,26 +30,26 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
-## Dashboard-Aktivitäten erstellen
+## Aktivitäten zum Erstellen eines Dashboards
 
 Klicken Sie [hier](/help/assets/create-dashboard-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
-## Aktivität 1: Dashboard erstellen
+## Aktivität 1: Erstellen eines Dashboards
 
-Erstellen Sie ein [!UICONTROL Dashboard] mit nur einem Bericht - „Notizen in diesem Projekt suchen“. Damit können Sie schnell alle Aktualisierungen eines Projekts finden, selbst wenn es Tausende von Aktualisierungen zu durchsuchen gibt. Dadurch werden die Aktualisierungs-Threads durchsucht, um schnell alle Aktualisierungen zu extrahieren, die den Kriterien entsprechen, die Sie in den Eingabeaufforderungen angeben.
+Erstellen Sie ein [!UICONTROL Dashboard] mit nur einem Bericht – „Nach Notizen in diesem Projekt suchen“. Damit können Sie schnell alle Aktualisierungen eines Projekts finden, selbst wenn es Tausende von Aktualisierungen zu durchsuchen gibt. Dadurch werden die Aktualisierungs-Threads durchsucht, um schnell alle Aktualisierungen zu extrahieren, die den Kriterien entsprechen, die Sie in den Eingabeaufforderungen angeben.
 
-Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizen suchen“ erstellen, den Sie mit der Aktivität „Notizbericht erstellen“ erstellt haben (oder verwenden Sie einen anderen Bericht, wenn Sie diese Aktivität nicht durchgeführt haben).
+Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizensuche“ erstellen, den Sie in der Aktivität „Notizbericht erstellen“ erstellt haben (oder verwenden Sie einen anderen Bericht, falls Sie diese Aktivität nicht durchgeführt haben).
 
-* Entfernen Sie die Eingabeaufforderung Projektname aus der Kopie und benennen Sie den Bericht in „Notizen in diesem Projekt suchen“ um.
-* Benennen Sie das [!UICONTROL Dashboard] mit „Search Notes“.
+* Entfernen Sie den Prompt „Projektname“ aus der Kopie und benennen Sie den Bericht in „Nach Notizen in diesem Projekt suchen“ um.
+* Weisen Sie dem [!UICONTROL Dashboard] den Namen „Notizensuche“ zu.
 * Gehen Sie auf eine beliebige Projekt-Landingpage und erstellen Sie einen benutzerdefinierten Abschnitt für ein [!UICONTROL Dashboard].
-* Beachten Sie, dass bei der Suche nach Notizen im benutzerdefinierten Abschnitt nur Notizen angezeigt werden, die in dem Projekt enthalten sind, an dem Sie sich gerade befinden.
+* Beachten Sie, dass bei der Suche nach Notizen im benutzerdefinierten Abschnitt nur Notizen angezeigt werden, die in dem Projekt enthalten sind, in dem Sie sich gerade befinden.
 
-## Antwort 1
+## Antwort 1
 
 1. Führen Sie den Bericht aus, den Sie in der Aktivität „Notizbericht erstellen“ erstellt haben.
-1. Klicken Sie auf **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Kopieren]**. [!DNL Workfront] erstellt einen neuen Bericht mit dem Namen „Notizsuche (Kopie)“.
-1. Gehen Sie zu **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Bearbeiten]**. Klicken Sie **[!UICONTROL Berichtseinstellungen]** und ändern Sie den Namen in „Notizen in diesem Projekt suchen“.
+1. Klicken Sie auf **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Kopieren]**. [!DNL Workfront] erstellt einen neuen Bericht mit dem Namen „Notizensuche (Kopie)“.
+1. Gehen Sie zu **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Bearbeiten]**. Klicken Sie auf **[!UICONTROL Berichteinstellungen]** und ändern Sie den Namen in „Nach Notizen in diesem Projekt suchen“.
 1. Klicken Sie auf [!UICONTROL Eingabeaufforderungen im Bericht] und löschen Sie die Eingabeaufforderung [!UICONTROL Projekt] > [!UICONTROL Name] aus der Liste.
 
    ![Ein Screenshot des Bildschirms zum Erstellen eines neuen Dashboards](assets/edit-report-prompts.png)
@@ -57,11 +57,11 @@ Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizen suche
 1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Eingabeaufforderungen im Dashboard anzeigen]**.
 1. Klicken Sie auf **[!UICONTROL Fertig]**, dann auf **[!UICONTROL Speichern + schließen]**. Sie sehen nun den Bildschirm [!UICONTROL Eingabeaufforderungen] des Berichts.
 
-   Als Nächstes verwenden Sie eine Verknüpfung, um ein neues Dashboard zu erstellen und diesem Bericht hinzuzufügen.
+   Als Nächstes verwenden Sie eine Abkürzung, um ein neues Dashboard zu erstellen und diesen Bericht hinzuzufügen.
 
 1. Klicken Sie auf **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Zu Dashboard hinzufügen]** > **[!UICONTROL Neues Dashboard]**.
-1. Ziehen Sie den Bericht „Suchnotizen in diesem Projekt“ in das Bedienfeld **[!UICONTROL Layout]**.
-1. Beachten Sie, dass der Name des Berichts zum Namen des Dashboards wird. Bearbeiten Sie den Namen einfach auf „Notizen suchen“.
+1. Ziehen Sie den Bericht „Nach Notizen in diesem Projekt suchen“ in das Bedienfeld **[!UICONTROL Layout]**.
+1. Beachten Sie, dass der Name des Berichts zum Namen des Dashboards wird. Ändern Sie den Namen in „Notizensuche“.
 
    ![Ein Screenshot des Bildschirms zum Erstellen eines neuen Dashboards](assets/create-dashboard.png)
 
@@ -72,7 +72,7 @@ Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizen suche
    ![Ein Screenshot des Bildschirms zum Erstellen eines neuen Dashboards](assets/add-custom-section.png)
 
 1. Öffnen Sie ein beliebiges Projekt. Klicken Sie im Menü des linken Bedienfelds auf das Symbol **[!UICONTROL Benutzerdefinierten Abschnitt hinzufügen]**.
-1. Geben Sie **[!UICONTROL Feld „Dashboard hinzufügen]** „Notizen suchen“ ein und wählen Sie das [!UICONTROL Dashboard] aus der Liste aus.
-1. Geben Sie im Feld **[!UICONTROL Benutzerdefinierter Abschnittstitel]** „Suchhinweise“ ein.
+1. Geben Sie in das Feld **[!UICONTROL Ein Dashboard hinzufügen]** den Namen „Notizensuche“ ein und wählen Sie das [!UICONTROL Dashboard] aus der Liste aus.
+1. Geben Sie in das Feld **[!UICONTROL Titel des benutzerdefinierten Abschnitts]** den Namen „Notizensuche“ ein.
 1. Klicken Sie auf **[!UICONTROL Neuen Abschnitt hinzufügen]**.
 1. Suchen Sie mithilfe des Menüs des linken Bedienfelds nach Notizen. Klicken Sie auf die Punkte links neben dem Abschnittsnamen und ziehen Sie ihn rechts unter „Aktualisierungen“.
