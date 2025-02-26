@@ -12,9 +12,9 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '433'
 ht-degree: 98%
 
 ---
@@ -43,11 +43,10 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## Grundlegendes zum Textmodus für Filteraktivitäten
+## Aktivitäten von „Grundlegendes zum Textmodus für Filter“
 
-Klicken Sie [hier](/help/assets/understand-basic-text-mode-for-filters-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
-## Aufgabe – Aufgaben herausfiltern, die ich als „Fertig mit meinem Teil“ markiert habe
+### Aufgabe – Aufgaben herausfiltern, die ich als „Fertig mit meinem Teil“ markiert habe
 
 Der folgende Textmodus schließt Aufgaben aus, bei denen Benutzende „Fertig mit meinem Teil“ markiert haben. Sie müssen lediglich einen Aufgabenfilter erstellen, beliebige Filterregeln hinzufügen, dann in den Textmodus wechseln und den unten stehenden Code nach einem beliebigen Textmodus einfügen, der im Filter angezeigt wird.
 
@@ -64,7 +63,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Aufgabe – Alle Aufgaben anzeigen, die auf meine Genehmigung warten
+### Aufgabe – Alle Aufgaben anzeigen, die auf meine Genehmigung warten
 
 ```
 approvalProcessID_Mod=notblank
@@ -73,7 +72,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Aufgabe – Alle Aufgaben anzeigen, die ich genehmigt habe
+### Aufgabe – Alle Aufgaben anzeigen, die ich genehmigt habe
 
 Erstellen Sie einen Aufgabenbericht mit den von Ihnen gewünschten Filtern, gehen Sie dann auf die Registerkarte „Filter“ und klicken Sie auf „Zum Textmodus wechseln“. Fügen Sie diesen Code zu dem bereits vorhandenen hinzu:
 
@@ -83,7 +82,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Aufgabe – Alle Aufgaben anzeigen, die mindestens einen projektübergreifenden Vorgänger haben
+### Aufgabe – Alle Aufgaben anzeigen, die mindestens einen projektübergreifenden Vorgänger haben
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -91,7 +90,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Aufgabe – Alle Aufgaben anzeigen, die ich anderen zugewiesen habe
+### Aufgabe – Alle Aufgaben anzeigen, die ich anderen zugewiesen habe
 
 Erstellen Sie einen Aufgabenbericht mit den von Ihnen gewünschten Filtern, gehen Sie dann auf die Registerkarte „Filter“ und klicken Sie auf „Zum Textmodus wechseln“. Fügen Sie diesen Code zu dem bereits vorhandenen hinzu:
 
@@ -107,7 +106,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Hier werden Ihnen alle Aufgaben angezeigt, bei denen die angemeldete Person mindestens einer der aktuell beauftragten Personen etwas zugewiesen hat. Wenn die Zuweisung einer Person durch mehrere Benutzende erfolgt ist, wird nur der Name der ersten Person, die jemanden zugewiesen hat, auf der Aufgaben-Landingpage als „Angefordert durch“ angezeigt.
 
-## Aufgabe – Alle Aufgaben anzeigen, die abgeschlossen sind – ausstehende Genehmigung
+### Aufgabe – Alle Aufgaben anzeigen, die abgeschlossen sind – ausstehende Genehmigung
 
 ```
 status=CPL:A
@@ -115,7 +114,7 @@ status_Mod=in
 ```
 
 
-## Problem – Alle Probleme anzeigen, die abgeschlossen sind mit ausstehender Genehmigung
+### Problem – Alle Probleme anzeigen, die abgeschlossen sind mit ausstehender Genehmigung
 
 ```
 status=CPL:A
@@ -123,7 +122,7 @@ status_Mod=in
 ```
 
 
-## Projekt – Alle Projekte anzeigen, die abgeschlossen sind mit ausstehender Genehmigung
+### Projekt – Alle Projekte anzeigen, die abgeschlossen sind mit ausstehender Genehmigung
 
 ```
 status=CPL:A
@@ -131,7 +130,7 @@ status_Mod=in
 ```
 
 
-## Hinweis – Alle Kommentare anzeigen, in denen ich getaggt bin
+### Hinweis – Alle Kommentare anzeigen, in denen ich getaggt bin
 
 ```
 tags:userID=$$USER.ID
@@ -139,7 +138,7 @@ tags:userID_Mod=in
 ```
 
 
-## Bericht zu „Parametern/benutzerdefiniertes Feld“ – Benutzerdefinierte Felder anzeigen, die an kein benutzerdefiniertes Formular angehängt sind (sehr nützlich bei Bereinigungen)
+### Bericht zu „Parametern/benutzerdefiniertes Feld“ – Benutzerdefinierte Felder anzeigen, die an kein benutzerdefiniertes Formular angehängt sind (sehr nützlich bei Bereinigungen)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

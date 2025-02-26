@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '925'
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,6 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Aktivitäten zum Erstellen eines Aufgabenberichts
-
-Klicken Sie [hier](/help/assets/create-task-report-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ Klicken Sie [hier](/help/assets/create-task-report-activities.pdf), um eine PDF-
 >Wir haben Lieblingsberichte von Kundinnen und Kunden gesammelt und in einem kleinen, leicht verdaulichen Kochbuch zusammengestellt, in dem Sie Ihre Workfront-Küche wieder ausprobieren können.
 >Diese 10 Berichte stammen von Kundinnen und Kunden, die genau wie Sie sind. Verteilt auf verschiedene Branchen, Abteilungen, Teams, Positionen und alle in verschiedenen Unternehmen, schulden wir den unglaublichen Kundinnen und Kunden, die einen ihrer Lieblingsberichte geteilt haben, ein riesiges Dankeschön. Einige Berichte sind einfach (aber unglaublich nützlich) und einige sind komplexer, um Ihre Berichterstellung auf die nächste Ebene zu bringen.
 
+## Aktivitäten vom Typ „Aufgabenbericht erstellen“
 
 
-## Aktivität 1: Erstellen eines Notizberichts mit Eingabeaufforderungen
+### Aktivität 1: Erstellen eines Notizberichts mit Eingabeaufforderungen
 
 Erstellen Sie einen Notizbericht, mit dem Sie nach Benutzernotizen (d. h. Kommentaren oder Aktualisierungen) oder Systemnotizen auf Grundlage des Inhalts, der Autorin oder des Autors, des Eingabedatums, des Projektnamens oder der Überprüfungsart suchen können. Nennen Sie den Bericht „Notizsuche“.
 
@@ -68,7 +66,7 @@ Schließen Sie Aufforderungen zu Folgendem ein:
 * Projektname
 * Prüfungstyp
 
-## Antwort 1
+### Antwort 1
 
 1. Wählen Sie **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]** aus.
 1. Klicken Sie auf das Menü **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Notiz]**.
@@ -111,7 +109,7 @@ Schließen Sie Aufforderungen zu Folgendem ein:
 1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Eingabeaufforderungen in Dashboards anzeigen]**.
 1. Speichern und schließen Sie den Bericht.
 
-## Aktivität 2: Erstellen eines Feedback-Berichts für das Admin-Team
+### Aktivität 2: Erstellen eines Feedback-Berichts für das Admin-Team
 
 Dieser Problembericht zeigt alle Probleme aus einer Feedback-Anfrage-Warteschlange an, die für System-Admins erstellt wurde. Wie man diese Anfrage-Warteschlange erstellt, können Sie in der Anleitung [Erstellen einer Feedback-Anfrage-Warteschlange für System-Admins](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=de) sehen.
 
@@ -162,7 +160,7 @@ Filtern Sie nach der ID des Projekts der Anfrage-Warteschlange, in dem sich die 
 
 
 
-## Antwort 2
+### Antwort 2
 
 1. Wählen Sie **[!UICONTROL Berichte]** aus dem **[!UICONTROL Hauptmenü]** aus.
 1. Klicken Sie auf das Menü **[!UICONTROL Neuer Bericht]** und wählen Sie **[!UICONTROL Problem]** aus.

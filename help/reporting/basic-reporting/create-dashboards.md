@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Dashboards
-description: Erfahren Sie, wie Sie mehrere Listenberichte, Diagramme, Kalender und externe Web-Seiten in einem Dashboard in Workfront kombinieren.
+description: In diesem Video erfahren Benutzer, wie sie Dashboards in Workfront effektiv erstellen, anpassen und verwalten können, um projektbezogene Daten zu überwachen und freizugeben.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,30 +11,34 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '627'
+ht-degree: 64%
 
 ---
 
 # Erstellen von Dashboards
 
-In diesem Video lernen Sie Folgendes:
+In diesem Video werden die folgenden wichtigen Punkte behandelt:
 
-* Was ist ein Dashboard in Workfront?
-* Erstellen eines Dashboards
-* Suchen und Verwenden eines Dashboards
-* Freigabe eines Dashboards für andere Workfront-Benutzende
-* Ausdrucken eines Dashboards
+* **Einführung in Dashboards:** Erläutert, was ein Dashboard in Workfront ist und zu welchem Zweck es als Sammlung verwandter Berichte dient. &#x200B;
+* **Erstellen eines Dashboards:** Anleitungen zum Erstellen eines neuen Dashboards durch Navigieren zum Bereich „Dashboards“, Auswählen von „Neues Dashboard“, Benennen und Auswählen eines Layouts. &#x200B;
+* **Berichte hinzufügen:** Zeigt, wie dem Dashboard verschiedene Berichte wie Projektberichte, Aufgabenberichte und Problemberichte hinzugefügt und innerhalb des ausgewählten Layouts angeordnet werden. &#x200B;
+* **Ansichten anpassen:** zeigt, wie Sie anpassen können, welche Spalten in der Dashboard-Ansicht angezeigt werden, indem Sie den Bericht bearbeiten und bestimmte Spalten auswählen, die angezeigt werden sollen. &#x200B;
+* **Hinzufügen zusätzlicher Elemente:** Erläutert, wie ein benutzerdefinierter Kalender und eine externe Seite (z. B. ein Online-Dokument) zum Dashboard hinzugefügt werden. &#x200B;
+* **Speichern und Anheften:** Anweisungen zum Speichern des Dashboards und zum Anheften für einfachen Zugriff. &#x200B;
+* **Anzeigen und Bearbeiten:** Tipps zum Anzeigen und Bearbeiten des Dashboards, einschließlich der Anpassung der Spaltensichtbarkeit, um die Anzeige zu verbessern. &#x200B;
+* **Dashboards suchen und freigeben:** Beschreibt, wie Dashboards über das Hauptmenü gefunden, zu Favoriten hinzugefügt und für andere Benutzer freigegeben werden. &#x200B;
+* **Drucken von Dashboards:** Erläutert den Prozess zum Drucken eines Dashboards. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
-## Aktivitäten zum Erstellen eines Dashboards
 
-Klicken Sie [hier](/help/assets/create-dashboard-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
+## „Dashboard erstellen“-Aktivitäten
 
-## Aktivität 1: Erstellen eines Dashboards
+### Aktivität 1: Erstellen eines Dashboards
 
 Erstellen Sie ein [!UICONTROL Dashboard] mit nur einem Bericht – „Nach Notizen in diesem Projekt suchen“. Damit können Sie schnell alle Aktualisierungen eines Projekts finden, selbst wenn es Tausende von Aktualisierungen zu durchsuchen gibt. Dadurch werden die Aktualisierungs-Threads durchsucht, um schnell alle Aktualisierungen zu extrahieren, die den Kriterien entsprechen, die Sie in den Eingabeaufforderungen angeben.
 
@@ -45,7 +49,7 @@ Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizensuche�
 * Gehen Sie auf eine beliebige Projekt-Landingpage und erstellen Sie einen benutzerdefinierten Abschnitt für ein [!UICONTROL Dashboard].
 * Beachten Sie, dass bei der Suche nach Notizen im benutzerdefinierten Abschnitt nur Notizen angezeigt werden, die in dem Projekt enthalten sind, in dem Sie sich gerade befinden.
 
-## Antwort 1
+### Antwort 1
 
 1. Führen Sie den Bericht aus, den Sie in der Aktivität „Notizbericht erstellen“ erstellt haben.
 1. Klicken Sie auf **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Kopieren]**. [!DNL Workfront] erstellt einen neuen Bericht mit dem Namen „Notizensuche (Kopie)“.

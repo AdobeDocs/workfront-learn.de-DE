@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 98%
+source-wordcount: '198'
+ht-degree: 97%
 
 ---
 
@@ -28,11 +28,10 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Erstellen benutzerdefinierter Eingabeaufforderungsaktivitäten
+## Aktivitäten vom Typ „Benutzerdefinierte Eingabeaufforderungen erstellen“
 
-Klicken Sie [hier](/help/assets/create-custom-prompts-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
 
-## Aktivität: Benutzerdefinierte Eingabeaufforderungen erstellen
+### Aktivität: Benutzerdefinierte Eingabeaufforderungen erstellen
 
 1. Erstellen Sie eine benutzerdefinierte Eingabeaufforderung, die folgende Projektstatus im Dropdown-Menü der Eingabeaufforderung anzeigt:
    * In Planung
@@ -41,7 +40,7 @@ Klicken Sie [hier](/help/assets/create-custom-prompts-activities.pdf), um eine P
    * Eingestellt
 1. Ändern Sie die Eingabeaufforderung so, dass aktuelle Projekte angezeigt werden, die in diesem Monat fällig sind.
 
-## Antworten
+### Antworten
 
 1. Ihre benutzerdefinierten Eingabeaufforderungen sollten in etwa wie folgt aussehen und folgenden Textmodus aufweisen:
 

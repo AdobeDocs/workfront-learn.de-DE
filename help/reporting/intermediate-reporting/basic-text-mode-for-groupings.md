@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '292'
 ht-degree: 97%
 
 ---
@@ -41,11 +41,9 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Grundlegendes zum Textmodus für Gruppierungsaktivitäten
+## Aktivitäten vom Typ „Grundlegendes zum Textmodus für Gruppierungen“
 
-Klicken Sie [hier](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
-
-## Aufgabe – Gruppierung nach vier übergeordneten Elementen
+### Aufgabe – Gruppierung nach vier übergeordneten Elementen
 
 Im folgenden Textmodus werden Aufgaben basierend auf bis zu vier Ebenen von übergeordneten Elementen gruppiert, wobei nicht vorhandene übergeordnete Elemente leer gelassen werden.
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![Ein Screenshot mit Projektaufgaben, die nach vier übergeordneten Elementen gruppiert sind](assets/4-parents-grouping.png)
 
 
-## Aufgabe – Gruppierung nach „Prozent abgeschlossen“
+### Aufgabe – Gruppierung nach „Prozent abgeschlossen“
 
 Der folgende Textmodus gruppiert Aufgaben danach, wie weit sie prozentual abgeschlossen sind. Aufgaben fallen bei der Gruppierung in eine der folgenden Kategorien:
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![Ein Screenshot mit Projektaufgaben, die danach gruppiert sind, wie weit sie prozentual abgeschlossen sind](assets/percent-complete-grouping.png)
 
-## Aufgabe – statusEquatesWith, dann Status
+### Aufgabe – statusEquatesWith, dann Status
 
 Im folgenden Textmodus werden Aufgaben nach „statusEquatesWith“ und dann nach Status gruppiert.
 
@@ -108,7 +106,7 @@ textmode=true
 ![Ein Screenshot mit Projektaufgaben, die nach „statusEquatesWith“ gruppiert sind](assets/status-equates-with.png)
 
 
-## Korrekturabzug-Genehmigung – Nach Projektname gruppieren
+### Korrekturabzug-Genehmigung – Nach Projektname gruppieren
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![Ein Screenshot mit Korrekturabzug-Genehmigungen, die nach Projektname gruppiert sind](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## Korrekturabzugs-Genehmigungen – Nach Dokumentname gruppieren
+### Korrekturabzugs-Genehmigungen – Nach Dokumentname gruppieren
 
 ```
 group.0.displayname=Document Name

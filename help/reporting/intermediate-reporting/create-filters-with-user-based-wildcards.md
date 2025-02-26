@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 48%
+source-wordcount: '348'
+ht-degree: 47%
 
 ---
 
@@ -40,15 +40,13 @@ In diesem Video lernen Sie Folgendes:
 >Bei der Verwendung von benutzerbasierten Platzhaltern müssen Sie immer den Filterqualifizierer „Gleich“ verwenden.
 
 
-## Erstellen von Filtern mit benutzerbasierten Platzhalteraktivitäten
-
-Klicken Sie [hier](/help/assets/create-filters-with-user-based-wildcards-activities.pdf), um eine PDF-Datei dieser Seite herunterzuladen.
+## „Erstellen von Filtern mit benutzerbasierten Platzhalteraktivitäten“
 
 ### Aktivität 1
 
 Diese Woche haben Sie etwas mehr Zeit. Sie möchten also herausfinden, ob es jemanden in Ihrem Team gibt, der Unterstützung bei seinen Aufgaben benötigen könnte. Erstellen Sie einen Aufgabenfilter , um Aufgaben zu finden, die für diese Woche fällig sind und noch nicht abgeschlossen wurden.
 
-### Antwort 1
+### Antwort 1
 
 Du bist großartig, wenn du deinen Teamkollegen hilfst! Wenn der Filter wie im folgenden Bild eingerichtet ist, finden Sie Aufgaben:
 

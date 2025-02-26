@@ -1,6 +1,6 @@
 ---
 title: Suchen und Verwalten von Anfragen
-description: Erfahren Sie, wie Sie mithilfe von Dashboards, der [!UICONTROL Startseite], dem Bereich [!UICONTROL Anforderungen] und der Seite [!UICONTROL Teams] nach eingehenden Anfragen suchen können, die über eine Anfrage-Warteschlange gestellt wurden.
+description: Das Video zur Verwaltung von Anfragen in der Workfront-Startseite zeigt, wie Filter verwendet, Team-Arbeitsaufträge verwaltet, benutzerdefinierte Berichte und Dashboards erstellt und die Bedeutung von „Mein“ in verschiedenen Kontexten erläutert werden, um die Anfrageverwaltung zu verbessern.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,31 +8,37 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-10T00:00:00Z
+last-substantial-update: 2025-02-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '350'
+ht-degree: 10%
 
 ---
 
 # Suchen und Verwalten von Anfragen
 
-In diesem Video erfahren Sie, wie Sie Anfragen finden, denen Sie zugewiesen sind, die Sie erstellt haben und die Sie verwalten.
+In diesem Video wird beschrieben, wie Sie Anfragen in Workfront finden und verwalten. &#x200B; Es umfasst vier Hauptbereiche:
 
-Sie erfahren, wie Sie folgende Stellen nach diesen Anfragen durchsuchen.
-
-* Workfront-[!UICONTROL Startseite]
-* Der Bereich [!UICONTROL Anfragen]
-* Die Seite [!UICONTROL Teams]
-* In einem benutzerdefinierten Dashboard
+* **Workfront-Startseite:** Benutzende wie Mary Smith, eine Produktionskünstlerin, können Anfragen sehen, die ihnen zugewiesen wurden. &#x200B; Joan Harris, die häufig Anfragen stellt, kann bereits abgeschlossene Anfragen finden, die auf ihre Genehmigung warten. &#x200B;
+* **Anfragebereich:** Benutzer können Anfragen filtern, um die von ihnen erstellten anzuzeigen&#x200B; Der Begriff „mein“ im Anfragebereich bezieht sich auf Probleme, die von mir, dem angemeldeten Benutzer, erstellt wurden. &#x200B;
+* **Seite „Teams“:** Benutzer können nicht zugewiesene Teamanfragen anzeigen und sich selbst oder andere zuweisen. &#x200B; Sie können auch den Workload Balancer verwenden, um Team-Zuweisungen basierend auf der aktuellen Arbeitslast zu verwalten. &#x200B;
+* **Benutzerdefinierte Berichte und Dashboards:** Benutzer können benutzerdefinierte Berichte erstellen, um Anfragen zu verfolgen, mit Kontrolle über Benennung, Filter, Ansichten und Gruppierungen. &#x200B; Dies ermöglicht eine klare Nachverfolgung von Anfragen nach Priorität, Ersteller, primärem Kontakt, Bevollmächtigtem und Status. &#x200B;
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+
+## Wichtige Erkenntnisse
+
+* **Suchen von Anfragen in der Workfront-Startseite** Benutzer können je nach Rolle die Anfragen anzeigen, die ihnen zugewiesen wurden oder die auf ihre Genehmigung warten. &#x200B;
+* **Verwenden von Filtern im Anfragebereich:** Filter wie „Meine Anfragen“ und „Meine geöffneten Anfragen“ ermöglichen es Benutzenden, die von ihnen erstellten Anfragen zu sehen. &#x200B;
+* **Anforderungen verwalten auf der Seite „Teams“:** Benutzer können nicht zugewiesene Teamanfragen sehen und sie sich selbst oder anderen zuweisen, indem sie den Workload Balancer verwenden, um die Zuweisungen von Team-Mitgliedern basierend auf ihrer aktuellen Arbeitslast zu verwalten. &#x200B;
+* **Benutzerdefinierte Berichte und Dashboards:** Benutzerinnen und Benutzer können benutzerdefinierte Berichte erstellen, um Anfragen zu verfolgen, was eine personalisierte Benennung, Filter, Ansichten und Gruppierungen ermöglicht, was die effektive Verwaltung und Priorisierung von Anfragen erleichtert. &#x200B;
+* **Verstehen von „Mein“ in Filtern** Der Begriff „mein“ auf der Startseite bezieht sich auf Probleme, die mir zugewiesen wurden. Der Begriff „my“ im Anfragebereich bezieht sich auf von mir angeforderte Probleme. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema
