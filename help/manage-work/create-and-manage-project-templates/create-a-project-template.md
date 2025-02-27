@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Projektvorlage und Informationen über [!UICONTROL Blueprints]
-description: Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage eines bestehenden Projekts erstellen können, und erfahren Sie, wie Sie mit [!UICONTROL Blueprints] Zugang zu einer Welt nützlicher Projektvorlagen erhalten, die von Workfront-Fachleuten erstellt wurden.
+description: Das Video zum Erstellen von Vorlagen in Workfront zeigt, wie Sie neue Projektvorlagen erstellen, sie für neue Projekte verwenden, vorhandene Projekte als Vorlagen speichern, vordefinierte Blueprints verwenden und Aufgabengebiete für ein effizientes Ressourcenmanagement zuweisen.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,25 +13,34 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '377'
-ht-degree: 100%
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+workflow-type: tm+mt
+source-wordcount: '640'
+ht-degree: 50%
 
 ---
 
 # Erstellen einer Projektvorlage und Informationen über [!UICONTROL Blueprints]
 
+
 Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage eines bestehenden Projekts erstellen können, und erfahren Sie, wie Sie mit [!UICONTROL Blueprints] Zugang zu einer Welt nützlicher Projektvorlagen erhalten, die von Workfront-Fachleuten erstellt wurden.
 
 ## Erstellen einer Projektvorlage
 
-In diesem Video lernen Sie Folgendes:
+* Das Video enthält eine schrittweise Anleitung zum Erstellen und Verwenden von Vorlagen für die Marketing-Videoproduktion. Zunächst wird erklärt, wie Sie eine neue Vorlage von Grund auf neu erstellen, benennen und speichern. &#x200B; Der Prozess umfasst drei Hauptschritte: das Erstellen von Aufgaben, das Einrichten der Zeitleiste mit Dauer und Vorgängern und das Zuweisen von Zuweisungen zu Aufgabengebieten anstelle von einzelnen Benutzern. &#x200B; Im Video wird das Organisieren von Aufgaben mithilfe von Eltern-Kind-Beziehungen für eine bessere Zusammenfassung und Effizienz hervorgehoben. &#x200B;
+* Nachdem die Vorlage erstellt wurde, kann sie zur Erstellung neuer Projekte verwendet werden. Das Video zeigt, wie Sie ein neues Projekt aus der Vorlage erstellen, notwendige Anpassungen vornehmen und Aufgaben hinzufügen oder die Dauer nach Bedarf ändern können. &#x200B; Außerdem erfahren Sie, wie Sie mithilfe der Funktionen für Ressourcenplanung und Planung Aufgabengebiete zu Aufgaben zuweisen. &#x200B;
+* In diesem Video wird erläutert, wie Sie ein vorhandenes Projekt als neue Vorlage speichern, um Aktualisierungen und Verbesserungen im Workflow zu ermöglichen. &#x200B; Es wird hervorgehoben, wie wichtig die Verwaltung von Vorlagen ist, um Verwirrung zu vermeiden und eine optimierte Projektausführung sicherzustellen. &#x200B;
 
-* Erstellen einer Vorlage von Grund auf
-* Erstellen einer Vorlage aus einem bestehenden Projekt
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+## Wichtige Erkenntnisse
+
+**Erstellen einer Vorlage:** Erfahren Sie, wie Sie eine neue Vorlage von Grund auf neu erstellen, indem Sie sie benennen, Aufgaben einrichten, Zeitpläne erstellen und Aufgabengebiete zuweisen. &#x200B;
+**Aufgabenorganisation:** Verwenden Sie Beziehungen zwischen übergeordneten und untergeordneten Aufgaben, um Aufgaben effizient zu organisieren und eine klare Zusammenfassung und Struktur für das Projekt bereitzustellen. &#x200B;
+**Zeitleisten-Setup** Richten Sie Aufgabenzeitleisten mithilfe von Dauer und Vorgängern ein, um den Zeitrahmen und die Reihenfolge der Aufgaben genau zu schätzen. &#x200B;
+**Rollenbasierte Zuweisungen:** Weisen Sie Aufgabengebiete Aufgabengebieten anstelle einzelnen Benutzern zu, um die Funktionen für die Ressourcenplanung und -planung effektiv zu nutzen. &#x200B;
+**Vorlagenverwaltung:** Speichern Sie bestehende Projekte als neue Vorlagen, um Verbesserungen einzubinden und Vorlagen zu verwalten, um Verwirrung zu vermeiden und eine effiziente Projektausführung sicherzustellen. &#x200B;
+
 
 ## Mit [!UICONTROL Blueprints] erstellte Vorlagen
 
