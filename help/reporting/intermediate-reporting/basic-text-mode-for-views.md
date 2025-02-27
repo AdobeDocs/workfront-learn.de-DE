@@ -385,9 +385,9 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-![Ein Screenshot mit allen Mitgliedern des Projektteams](assets/all-project-team-members.png)
+![Ein Screenshot mit allen Mitgliedern des Projekt-Teams](assets/all-project-team-members.png)
 
-### Projekt – Iteration mit den Eingabedaten aller lösbaren Probleme eines Projekts
+### Projekt – Iteration mit den entryDate aller lösbaren Probleme eines Projekts
 
 ```
 displayname=Resolvables entry date
@@ -403,7 +403,7 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![Ein Screenshot mit den Eingabedaten aller lösbaren Probleme eines Projekts](assets/resolvables-entry-date.png)
+![Ein Screenshot mit den entryDate aller lösbaren Probleme eines Projekts](assets/resolvables-entry-date.png)
 
 ### Projekt – Zeigt die Startgruppe der Person an, die die ursprüngliche Projekt-Anfrage gestellt hat
 

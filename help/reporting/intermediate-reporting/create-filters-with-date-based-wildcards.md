@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 70%
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 70%
 In diesem Video lernen Sie Folgendes:
 
 * Verwenden datumsbasierter Platzhalter
-* Verstehen Sie den Unterschied zwischen den beiden datumsbasierten Platzhaltern von Workfront
+* Lernen Sie den Unterschied zwischen den beiden datumsbasierten Platzhaltern in Workfront kennen
 * Hinzufügen eines datumsbasierten Platzhalters zu einem Filter
 * Erstellen eines benutzerdefinierten Datums mithilfe von Platzhaltern, Attributen, Operatoren und Modifikatoren
 * Erstellen eines benutzerdefinierten Datumsbereichs mithilfe von Platzhaltern
@@ -46,4 +46,4 @@ In diesem Video lernen Sie Folgendes:
 
 1. Filtern nach dem geplanten Fertigstellungsdatum der Ausgabe zwischen [!UICONTROL $$TODAY-1d] und [!UICONTROL $$TODAY].
 1. Filtern nach dem geplanten Fertigstellungsdatum des Projekts zwischen [!UICONTROL $$TODAYb-1w] und [!UICONTROL $$TODAYe-1w].
-1. Dieser Bericht findet Aufgaben, die Ihnen zugewiesen wurden und noch nicht abgeschlossen sind (d. h. einen Prozentsatz von weniger als 100 abgeschlossen haben) und die heute überfällig oder fällig sind. Die Filterregel für das geplante Abschlussdatum der Aufgaben besagt, dass Aufgaben mit einem Fälligkeitsdatum, das dem heutigen Datum entspricht oder vor diesem liegt, betrachtet werden sollen.
+1. In diesem Bericht werden die Ihnen zugewiesenen Aufgaben angezeigt, die noch nicht abgeschlossen sind (d. h. deren Fertigstellungsgrad unter 100 % liegt) und die überfällig oder heute fällig sind. Die Filterregel für das geplante Fertigstellungsdatum der Aufgaben besagt, dass nach Aufgaben mit einem Fälligkeitsdatum vor oder gleich dem heutigen Datum gesucht werden soll.
