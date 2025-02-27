@@ -12,9 +12,9 @@ jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ In einigen Tutorials erstellen Sie ein neues Szenario von Grund auf. In anderen 
 
 Um die Übungen in den Workfront Fusion-Lernpfaden zu absolvieren, benötigen Sie einen Workfront-Testlauf. Wenn Sie bereits einen Testlauf haben, empfehlen wir Ihnen einen neuen für diese Schulung.
 
-Fordern Sie eine Testfahrt an, indem Sie [dieses Formular) ](https://forms.office.com/r/f1J8HRGrNY). Wenn Sie nicht auf das Formular zugreifen können, senden Sie Ihren Namen, Ihre E-Mail-Adresse und Ihren Firmennamen an wfttstdr@adobe.com.
+Fordern Sie einen Testlauf an, indem Sie [dieses Formular](https://forms.office.com/r/f1J8HRGrNY) ausfüllen. Wenn Sie nicht auf das Formular zugreifen können, senden Sie Ihren Namen, Ihre E-Mail-Adresse und Ihren Firmennamen an wfttstdr@adobe.com.
 
 ### Zugreifen auf Workfront Fusion zum Üben
 
@@ -44,13 +44,13 @@ Workfront bietet keine Workfront Fusion-Testläufe an. Um die Übungen zu absolv
 
 ### Schritt-für-Schritt-Anleitungen für die Durchführung der Übungen mit exemplarischen Vorgehensweisen
 
-Es gibt Schritt-für-Schritt-Anweisungen zum Abschließen der meisten exemplarischen Übungen. Sie finden diese in der linken Navigationsleiste, unmittelbar nach dem Tutorial mit den exemplarischen Vorgehensweisen.
+Es gibt Schritt-für-Schritt-Anleitungen für die Durchführung der meisten Übungen mit exemplarischen Vorgehensweisen. Sie finden diese in der linken Navigationsleiste, unmittelbar nach dem Tutorial mit den exemplarischen Vorgehensweisen.
 
-### Optionale Übungen
+### Optionale praktische Übungen
 
-Übungen und Herausforderungen werden im Anschluss an einige der schrittweisen Übungen bereitgestellt.
+Im Anschluss an einige der Übungen mit exemplarischen Vorgehensweisen werden praktische Übungen und Aufgaben angeboten.
 
-Es gibt verschiedene Möglichkeiten, die Übungen zu lösen. Die Absicht ist, Sie dazu herauszufordern, ein Szenarioziel zu erreichen, ohne Schritten zu folgen oder die „richtige Antwort“ zu kennen, denn genau das werden Sie tun müssen, wenn Sie in Ihrem Unternehmen ein Szenario aufbauen.
+Es gibt eine Reihe verschiedener Möglichkeiten, die praktischen Übungen zu lösen. Die Absicht ist, Sie dazu herauszufordern, ein Szenarioziel zu erreichen, ohne Schritten zu folgen oder die „richtige Antwort“ zu kennen, denn genau das werden Sie tun müssen, wenn Sie in Ihrem Unternehmen ein Szenario aufbauen.
 
 Die praktische Übung steht im Zusammenhang mit der Aktivität der exemplarischen Vorgehensweise.
 
