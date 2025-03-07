@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer Projektvorlage und Informationen über [!UICONTROL Blueprints]
-description: Das Video zum Erstellen von Vorlagen in Workfront zeigt, wie Sie neue Projektvorlagen erstellen, sie für neue Projekte verwenden, vorhandene Projekte als Vorlagen speichern, vordefinierte Blueprints verwenden und Aufgabengebiete für ein effizientes Ressourcenmanagement zuweisen.
+title: Erstellen einer Projektvorlage und Erfahren Sie mehr über [!UICONTROL Blueprints]
+description: Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage eines bestehenden Projekts erstellen können, und erfahren Sie, wie Sie mit [!UICONTROL Blueprints] Zugang zu einer Welt nützlicher Projektvorlagen erhalten, die von Workfront-Fachleuten erstellt wurden.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 50%
+source-wordcount: '635'
+ht-degree: 54%
 
 ---
 
