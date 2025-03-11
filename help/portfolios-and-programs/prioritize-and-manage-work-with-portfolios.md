@@ -1,5 +1,5 @@
 ---
-title: Prioritäten setzen und Arbeit verwalten mit dem [!UICONTROL Portfolio-Optimizer]
+title: Den [!UICONTROL Portfolio Optimizer verstehen]
 description: Erfahren Sie, wie Sie mit [!UICONTROL Portfolio Optimizer] Projekte innerhalb eines Portfolios vergleichen und priorisieren können.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: adb11deb325b2537dabeb80461f8c9ecd059e003
+source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 49%
+source-wordcount: '65'
+ht-degree: 29%
 
 ---
 
-# Prioritäten setzen und Arbeit verwalten mit dem [!UICONTROL Portfolio-Optimizer]
+# Den [!UICONTROL Portfolio Optimizer verstehen]
 
 In diesem Video lernen Sie Folgendes:
 
