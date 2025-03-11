@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu Projektzeitleisten
+title: Projektzeitleisten
 description: Erfahren Sie, wie Sie Aufgaben zuweisen, Gantt-Diagramme und Funktionen für kritische Pfade verwenden, Projekte über Ansichten überwachen, Aufgaben effizient planen und Begrenzungen für eine optimale Projektplanung anwenden.
 activity: use
 feature: Work Management
@@ -13,18 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b50279a97388bda48a8e134432415d084b6aec42
+source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 7%
+source-wordcount: '701'
+ht-degree: 6%
 
 ---
 
 # Grundlegendes zu Projektzeitleisten
 
-* Das Video bietet einen Überblick über die Projektplanung und -verwaltung mit Workfront. Es wird erläutert, wie übergeordnete Aufgaben mehrere Unteraufgaben gruppieren, die Aufgabengebieten und später Benutzern mit den erforderlichen Kenntnissen zugewiesen werden. &#x200B; Vorgänger geben sequenzielle Beziehungen zwischen Aufgaben an, während Aufgaben ohne Vorgänger parallel ausgeführt werden können. &#x200B; Das Gantt-Diagramm bietet eine visuelle Zeitleiste, und die Funktion Kritischer Pfad zeigt Aufgaben auf, die das Projekt verzögern könnten, wenn sie verrutschen. &#x200B;
-* In diesem Video werden auch verschiedene Ansichten in Workfront erläutert, z. B. die Standardansicht für „Planung“ und die Statusansicht für die Überwachung des Fortschritts, die Kennzeichnungen für den Fortschritt, Kommentare, Dokumente, Probleme, Genehmigungen, den kritischen Pfad und Meilensteine enthält. Die letzten Aktivitäten können verfolgt werden, um Aktualisierungen und Notizen anzuzeigen. &#x200B;
-* Die Planung kann ab einem Start- oder Abschlussdatum erfolgen, wobei Workfront die entsprechenden Termine anhand der Aufgabendauer und der Vorgänger berechnet. &#x200B; In diesem Video wird empfohlen, für kritische Abschlussdaten ein Startdatum zu planen, um etwas Zeit zu sparen. &#x200B; Aufgabenbeschränkungen wie „So bald wie möglich“ und „So spät wie möglich“ werden ebenfalls behandelt und zeigen, wie sich diese auf die Aufgabenplanung auswirken. &#x200B; Es können benutzerdefinierte Ansichten erstellt werden, um Aufgabenbeschränkungen anzuzeigen. &#x200B;
+Was Sie lernen werden:
+
+* Verschaffen Sie sich einen Überblick über Projektplanung und -management mit Workfront. Erfahren Sie, wie übergeordnete Aufgaben mehrere Unteraufgaben gruppieren, die Aufgabengebieten und später Benutzern mit den erforderlichen Kenntnissen zugewiesen werden. Vorgänger geben sequenzielle Beziehungen zwischen Aufgaben an, während Aufgaben ohne Vorgänger parallel ausgeführt werden können. Das Gantt-Diagramm bietet eine visuelle Zeitleiste, und die Funktion Kritischer Pfad zeigt Aufgaben auf, die das Projekt verzögern könnten, wenn sie verrutschen.
+* Verschiedene Ansichten in Workfront, z. B. die Standardansicht für Planung und die Statusansicht für die Überwachung des Fortschritts, die Kennzeichnungen für den Fortschritt, Kommentare, Dokumente, Probleme, Genehmigungen, kritischen Pfad und Meilensteine enthält. Die letzten Aktivitäten können verfolgt werden, um Aktualisierungen und Notizen anzuzeigen.
+* Die Planung kann ab einem Start- oder Abschlussdatum erfolgen, wobei Workfront die entsprechenden Termine anhand der Aufgabendauer und der Vorgänger berechnet. In diesem Video wird empfohlen, für kritische Abschlussdaten ein Startdatum zu planen, um etwas Zeit zu sparen. Aufgabenbeschränkungen wie „So bald wie möglich“ und „So spät wie möglich“ werden ebenfalls behandelt und zeigen, wie sich diese auf die Aufgabenplanung auswirken. Es können benutzerdefinierte Ansichten erstellt werden, um Aufgabenbeschränkungen anzuzeigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
