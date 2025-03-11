@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Dashboards
-description: In diesem Video erfahren Benutzer, wie sie Dashboards in Workfront effektiv erstellen, anpassen und verwalten können, um projektbezogene Daten zu überwachen und freizugeben.
+description: In diesem Video erfahren Benutzende, wie sie Dashboards in Workfront effektiv erstellen, anpassen und verwalten können, um projektbezogene Daten zu überwachen und freizugeben.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
 source-wordcount: '627'
-ht-degree: 64%
+ht-degree: 68%
 
 ---
 
