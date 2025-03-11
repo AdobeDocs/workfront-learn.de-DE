@@ -1,6 +1,6 @@
 ---
-title: Suchen und Verwalten von Anfragen
-description: Das Video zur Verwaltung von Anfragen in der Workfront-Startseite zeigt, wie Filter verwendet, Team-Arbeitsaufträge verwaltet, benutzerdefinierte Berichte und Dashboards erstellt und die Bedeutung von „Mein“ in verschiedenen Kontexten erläutert werden, um die Anfrageverwaltung zu verbessern.
+title: Anforderungen suchen und verwalten
+description: Erfahren Sie, wie Sie Filter verwenden, Team-Arbeitsaufträge verwalten, benutzerdefinierte Berichte und Dashboards erstellen und die Bedeutung von _my_ in verschiedenen Kontexten klären, um eine effektive Anfragenverwaltung zu ermöglichen.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: b5daeb5775dff69b7f6fe92813ad3ec603b9f8ee
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 10%
+source-wordcount: '342'
+ht-degree: 9%
 
 ---
 
