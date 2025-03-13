@@ -1,6 +1,6 @@
 ---
 title: Suchen von Projekten
-description: Erfahren Sie, wie Sie schnell und einfach Projekte suchen.
+description: Vereinfachen Sie das Projekt-Management mit Filtern, Such-Tools, zuletzt verwendeten Listen, Favoriten, angehefteten Projekten und benutzerdefinierten Berichten oder Dashboards, um den schnellen und organisierten Zugriff auf Projekte zu ermöglichen.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '47'
-ht-degree: 100%
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 21%
 
 ---
 
@@ -25,6 +25,15 @@ ht-degree: 100%
 In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte suchen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
+
+## Wichtige Erkenntnisse
+
+**Filter und Suchoptionen:** Verwenden Sie Filter und Suchwerkzeuge, einschließlich der erweiterten Suche, um bestimmte Projekte schnell anhand von Namen, Beschreibungen oder benutzerdefinierten Datenfeldern zu finden. &#x200B;
+**Liste Zuletzt angezeigt** Zuletzt angezeigte Projekte werden automatisch in der Liste Zuletzt angezeigt. Dort können bis zu 20 Projekte für den Schnellzugriff angezeigt werden. &#x200B;
+**Favoriten** Markieren Sie Projekte als Favoriten, indem Sie auf das Sternsymbol klicken. &#x200B; Die Favoriten bleiben verfügbar, bis sie manuell entfernt werden, was sie ideal für häufig aufgerufene Projekte macht. &#x200B;
+**Projekte anheften** Projekte anheften, um sie leicht zugänglich zu machen. &#x200B; Angeheftete Projekte bleiben sichtbar, bis Sie sie entfernen.
+**Benutzerdefinierte Berichte und Dashboards:** Erstellen Sie benutzerdefinierte Berichte und Dashboards, um alle relevanten Projekte effizient zu organisieren und darauf zuzugreifen. &#x200B;
+
 
 ## Empfohlene Tutorials zu diesem Thema
 

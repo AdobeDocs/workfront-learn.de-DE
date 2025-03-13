@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte bei der Projektverwaltung
-description: Erfahren Sie, wie Sie den Projektfortschritt überwachen, zum Anzeigen von Aufgabendetails Drilldowns durchführen und mit Stakeholdern kommunizieren.
+description: Verfolgen Sie den Projektfortschritt effektiv mit Berichten, verwalten Sie Abhängigkeiten über Gantt-Ansichten, überwachen Sie Aufgaben und Genehmigungen, verbessern Sie die Team-Kommunikation und sorgen Sie für reibungslose Workflows mit häufigen Aktualisierungen.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,22 +13,27 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+workflow-type: tm+mt
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
 # Erste Schritte bei der Projektverwaltung
 
-In diesem Video lernen Sie Folgendes:
-
-* Überwachen des Projektfortschritts
-* Durchführen von Drilldowns zum Anzeigen von Aufgabendetails
-* Kommunizieren mit Stakeholdern
+Das Video bietet einen Überblick über die Verwaltung eines Projekts, nachdem sein Status in „Aktuell“ geändert wurde&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+
+## Wichtige Erkenntnisse
+
+* **Fortschrittsüberwachung:** Projekte mit dem Status „Aktuell“ werden in Berichten angezeigt, sodass Manager den Fortschritt verfolgen können (planmäßig, in Verzug oder überfällig). &#x200B;
+* **Projektübergreifende Abhängigkeiten:** Abhängigkeiten können in der Projekt-Gantt-Ansicht verwaltet und angezeigt werden. Außerdem stehen Optionen für die Aufschlüsselung zur Verfügung, um detaillierte Einblicke zu erhalten. &#x200B;
+* **Aufgaben- und Genehmigungsverwaltung:** Verwenden Sie die Registerkarten Status und Genehmigungen , um den Abschluss von Aufgaben und ausstehende Genehmigungen zu verfolgen und über Kommentare zu kommunizieren. &#x200B;
+* **Team-Kommunikation:** Senden Sie mit der Funktion „Alle aktualisieren“ problemlos Aktualisierungen an alle Team-Mitglieder und führen Sie ein Protokoll der Diskussionen im Projekt. &#x200B;
+* **Häufige Updates:** Mitarbeiter sollten den Aufgabenstatus täglich aktualisieren, um ein reibungsloses Projektmanagement und eine genaue Nachverfolgung zu gewährleisten. &#x200B;
+
 
 ## Empfohlene Tutorials zu diesem Thema
 
