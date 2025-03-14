@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '176'
 ht-degree: 17%
 
 ---
@@ -28,10 +28,10 @@ Das Video bietet einen Überblick über die Verwaltung eines Projekts, nachdem s
 
 ## Wichtige Erkenntnisse
 
-* **Fortschrittsüberwachung:** Projekte mit dem Status „Aktuell“ werden in Berichten angezeigt, sodass Manager den Fortschritt verfolgen können (planmäßig, in Verzug oder überfällig). &#x200B;
-* **Projektübergreifende Abhängigkeiten:** Abhängigkeiten können in der Projekt-Gantt-Ansicht verwaltet und angezeigt werden. Außerdem stehen Optionen für die Aufschlüsselung zur Verfügung, um detaillierte Einblicke zu erhalten. &#x200B;
-* **Aufgaben- und Genehmigungsverwaltung:** Verwenden Sie die Registerkarten Status und Genehmigungen , um den Abschluss von Aufgaben und ausstehende Genehmigungen zu verfolgen und über Kommentare zu kommunizieren. &#x200B;
-* **Team-Kommunikation:** Senden Sie mit der Funktion „Alle aktualisieren“ problemlos Aktualisierungen an alle Team-Mitglieder und führen Sie ein Protokoll der Diskussionen im Projekt. &#x200B;
+* **Fortschrittsüberwachung:** Projekte mit dem Status „Aktuell“ werden in Berichten angezeigt, sodass Manager den Fortschritt verfolgen können (planmäßig, in Verzug oder überfällig).
+* **Projektübergreifende Abhängigkeiten:** Abhängigkeiten können in der Projekt-Gantt-Ansicht verwaltet und angezeigt werden. Außerdem stehen Optionen für die Aufschlüsselung zur Verfügung, um detaillierte Einblicke zu erhalten.
+* **Aufgaben- und Genehmigungsverwaltung:** Verwenden Sie die Registerkarten Status und Genehmigungen , um den Abschluss von Aufgaben und ausstehende Genehmigungen zu verfolgen und über Kommentare zu kommunizieren.
+* **Team-Kommunikation:** Senden Sie mit der Funktion „Alle aktualisieren“ problemlos Aktualisierungen an alle Team-Mitglieder und führen Sie ein Protokoll der Diskussionen im Projekt.
 * **Häufige Updates:** Mitarbeiter sollten den Aufgabenstatus täglich aktualisieren, um ein reibungsloses Projektmanagement und eine genaue Nachverfolgung zu gewährleisten. &#x200B;
 
 

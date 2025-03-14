@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 21%
@@ -28,11 +28,11 @@ In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte suchen.
 
 ## Wichtige Erkenntnisse
 
-**Filter und Suchoptionen:** Verwenden Sie Filter und Suchwerkzeuge, einschließlich der erweiterten Suche, um bestimmte Projekte schnell anhand von Namen, Beschreibungen oder benutzerdefinierten Datenfeldern zu finden. &#x200B;
-**Liste Zuletzt angezeigt** Zuletzt angezeigte Projekte werden automatisch in der Liste Zuletzt angezeigt. Dort können bis zu 20 Projekte für den Schnellzugriff angezeigt werden. &#x200B;
-**Favoriten** Markieren Sie Projekte als Favoriten, indem Sie auf das Sternsymbol klicken. &#x200B; Die Favoriten bleiben verfügbar, bis sie manuell entfernt werden, was sie ideal für häufig aufgerufene Projekte macht. &#x200B;
-**Projekte anheften** Projekte anheften, um sie leicht zugänglich zu machen. &#x200B; Angeheftete Projekte bleiben sichtbar, bis Sie sie entfernen.
-**Benutzerdefinierte Berichte und Dashboards:** Erstellen Sie benutzerdefinierte Berichte und Dashboards, um alle relevanten Projekte effizient zu organisieren und darauf zuzugreifen. &#x200B;
+* **Filter und Suchoptionen:** Verwenden Sie Filter und Suchwerkzeuge, einschließlich der erweiterten Suche, um bestimmte Projekte schnell anhand von Namen, Beschreibungen oder benutzerdefinierten Datenfeldern zu finden. &#x200B;
+* **Liste Zuletzt angezeigt** Zuletzt angezeigte Projekte werden automatisch in der Liste Zuletzt angezeigt. Dort können bis zu 20 Projekte für den Schnellzugriff angezeigt werden. &#x200B;
+* **Favoriten** Markieren Sie Projekte als Favoriten, indem Sie auf das Sternsymbol klicken. &#x200B; Die Favoriten bleiben verfügbar, bis sie manuell entfernt werden, was sie ideal für häufig aufgerufene Projekte macht. &#x200B;
+* **Projekte anheften** Projekte anheften, um sie leicht zugänglich zu machen. &#x200B; Angeheftete Projekte bleiben sichtbar, bis Sie sie entfernen.
+* **Benutzerdefinierte Berichte und Dashboards:** Erstellen Sie benutzerdefinierte Berichte und Dashboards, um alle relevanten Projekte effizient zu organisieren und darauf zuzugreifen. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema
