@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 6%
@@ -59,21 +59,16 @@ In diesem Video wird die Flexibilität von Workfront beim Erstellen von Projekte
 
 ## Wichtige Erkenntnisse
 
-
-**Vorlagen vereinfachen die Projekterstellung:**
-Die Verwendung einer Vorlage wird dringend empfohlen, da sie wichtige Details wie Aufgaben, Formulare und Freigabeoptionen voreinstellen kann, was Zeit und Aufwand spart. &#x200B;
-
-**Favoritenvorlagen für den Schnellzugriff:**
-Favoritenvorlagen ermöglichen es Benutzenden, den Auswahlprozess zu umgehen und direkt ein Projekt zu erstellen, wodurch der Workflow optimiert wird. &#x200B;
-
-**Das Erstellen von Projekten von Grund auf bietet Flexibilität:**
-Während die Erstellung eines Projekts von Grund auf manuell erfolgt, ermöglicht sie die Anpassung aller Details, die sich ideal für einfache oder private Projekte eignen. &#x200B;
-
-**Durch Kopieren von Projekten sparen Sie Zeit:**
-Beim Kopieren eines vorhandenen Projekts werden Struktur und Einstellungen repliziert, einschließlich Optionen zum Ändern oder Ausschließen bestimmter Elemente. &#x200B;
-
-**Importieren von MS Project-Dateien für die Transition:**
-Workfront unterstützt den Import von MS Project-Dateien (die als XML gespeichert werden), sodass Benutzer laufende Projekte umstellen können, obwohl einige Daten (z. B. Kommentare, Meilensteine) nicht übertragen werden. &#x200B;
+* **Vorlagen vereinfachen die Projekterstellung:**
+* Die Verwendung einer Vorlage wird dringend empfohlen, da sie wichtige Details wie Aufgaben, Formulare und Freigabeoptionen voreinstellen kann, was Zeit und Aufwand spart. &#x200B;
+* **Favoritenvorlagen für den Schnellzugriff:**
+* Favoritenvorlagen ermöglichen es Benutzenden, den Auswahlprozess zu umgehen und direkt ein Projekt zu erstellen, wodurch der Workflow optimiert wird. &#x200B;
+* **Das Erstellen von Projekten von Grund auf bietet Flexibilität:**
+* Während die Erstellung eines Projekts von Grund auf manuell erfolgt, ermöglicht sie die Anpassung aller Details, die sich ideal für einfache oder private Projekte eignen. &#x200B;
+* **Durch Kopieren von Projekten sparen Sie Zeit:**
+* Beim Kopieren eines vorhandenen Projekts werden Struktur und Einstellungen repliziert, einschließlich Optionen zum Ändern oder Ausschließen bestimmter Elemente. &#x200B;
+* **Importieren von MS Project-Dateien für die Transition:**
+* Workfront unterstützt den Import von MS Project-Dateien (die als XML gespeichert werden), sodass Benutzer laufende Projekte umstellen können, obwohl einige Daten (z. B. Kommentare, Meilensteine) nicht übertragen werden. &#x200B;
 
 
 

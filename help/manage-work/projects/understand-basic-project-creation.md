@@ -13,18 +13,17 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 8%
+source-wordcount: '243'
+ht-degree: 11%
 
 ---
 
 # Grundlegendes zur Projekterstellung
 
-* In diesem Video wird erläutert, wie Sie ein Projekt von Grund auf neu erstellen und verwalten. &#x200B; Sie beginnt mit der Erstellung eines neuen Projekts, dem Umbenennen des Ziels und der Festlegung eines Ziels mit einer Beschreibung, einem Startdatum und einem Zielabschluss. Projekte können in Aufgaben unterteilt werden, bei denen es sich um geplante Arbeiten mit geschätzten Laufzeiten und Zuweisungen handelt. &#x200B; Aufgaben können mithilfe von Vorgängern sequenziert werden und der Projektstatus kann auf „Aktuell“ gesetzt werden, um das Team zu benachrichtigen und es in Berichte aufzunehmen. &#x200B;
-* In diesem Video wird auch die Handhabung unerwarteter Probleme behandelt, bei denen es sich um ungeplante Arbeiten handelt. &#x200B; Probleme können in Aufgaben konvertiert, in ein anderes Projekt verschoben oder als „Wird nicht behoben“ markiert werden, wenn sie nicht behoben werden. &#x200B; Beim Konvertieren eines Problems in eine Aufgabe wird sein Status automatisch aktualisiert, und beim Verschieben eines Problems wird der Besitz in ein anderes Projekt übertragen. Beim Hinzufügen von Aufgaben kann es erforderlich sein, die Timelines anzupassen. Aber überlappende Aufgaben können dazu beitragen, das ursprüngliche Abschlussdatum beizubehalten. &#x200B;
-* Ein Projekt wird als abgeschlossen betrachtet, wenn alle Aufgaben abgeschlossen und Probleme behoben sind. &#x200B; Anfänger sollten mit einfachen Projekten beginnen, sich auf grundlegende Einstellungen wie Dauer und Vorgänger konzentrieren und später erweiterte Projektverwaltungsfunktionen erkunden. &#x200B;
+In diesem Video wird erläutert, wie Sie ein Projekt von Grund auf neu erstellen und verwalten. &#x200B; Sie beginnt mit der Erstellung eines neuen Projekts, dem Umbenennen des Ziels und der Festlegung eines Ziels mit einer Beschreibung, einem Startdatum und einem Zielabschluss. Projekte können in Aufgaben unterteilt werden, bei denen es sich um geplante Arbeiten mit geschätzten Laufzeiten und Zuweisungen handelt. &#x200B; Aufgaben können mithilfe von Vorgängern sequenziert werden und der Projektstatus kann auf „Aktuell“ gesetzt werden, um das Team zu benachrichtigen und es in Berichte aufzunehmen. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
 

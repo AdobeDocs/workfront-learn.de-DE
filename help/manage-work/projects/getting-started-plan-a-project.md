@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 12%
+source-wordcount: '273'
+ht-degree: 14%
 
 ---
 
 # Erste Schritte bei der Projektplanung
 
-* Das Video bietet Anleitungen zum effektiven Planen eines Projekts in Workfront. &#x200B; Es wird betont, wie wichtig es ist, eine solide Grundlage zu schaffen, um sicherzustellen, dass das Projekt pünktlich abgeschlossen wird und erfolgreich ist. &#x200B; Zu den wichtigsten Schritten gehören das Verständnis von fünf kritischen Feldern: Aufgaben, Zuweisungen, Dauer, geplante Stunden und Vorgänger. &#x200B; Diese Felder ermöglichen eine schnelle und genaue Anpassung des Projektplans. &#x200B;
-* Bevor Sie Änderungen vornehmen, stellen Sie sicher, dass der Projektstatus auf „Planung“ festgelegt ist, um unnötige Benachrichtigungen an das Team zu vermeiden. &#x200B; Verwenden Sie die Standardansicht oder die angepassten Ansichten, um sich auf wichtige Informationen zu konzentrieren. &#x200B; Legen Sie das Startdatum des Projekts genau fest, um sicherzustellen, dass es realistisch ist und der Verfügbarkeit des Teams entspricht.
-* Das Video hebt die Bedeutung realistischer Zeitpläne, der Verfügbarkeit von Teams und einer präzisen Planung hervor, um eine solide Grundlage für den Projekterfolg zu schaffen. &#x200B;
+Das Video bietet Anleitungen zum effektiven Planen eines Projekts in Workfront. &#x200B; Es wird betont, wie wichtig es ist, eine solide Grundlage zu schaffen, um sicherzustellen, dass das Projekt pünktlich abgeschlossen wird und erfolgreich ist. &#x200B; Zu den wichtigsten Schritten gehören das Verständnis von fünf kritischen Feldern: Aufgaben, Zuweisungen, Dauer, geplante Stunden und Vorgänger. &#x200B; Diese Felder ermöglichen eine schnelle und genaue Anpassung des Projektplans. &#x200B;
+
+Das Video hebt die Bedeutung realistischer Zeitpläne, der Verfügbarkeit von Teams und einer präzisen Planung hervor, um eine solide Grundlage für den Projekterfolg zu schaffen. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 

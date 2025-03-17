@@ -12,7 +12,7 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 10%
@@ -27,11 +27,11 @@ In diesem Video wird die Funktion „Board View“ in Workfront erläutert, die 
 
 ## Wichtige Erkenntnisse
 
-**Board-Ansicht - Übersicht:** Die Board-Ansicht in Workfront bietet eine Kanban-ähnliche Oberfläche zum Anzeigen und Verwalten von Projektaufgaben, die eine Alternative zur herkömmlichen Task-Listenansicht bietet. &#x200B;
-**Aufgabenverwaltung:** Aufgaben können innerhalb von Spalten oder zwischen Spalten sortiert, gruppiert und verschoben werden, wobei Statusaktualisierungen beim Verschieben von Aufgaben automatisch angewendet werden. &#x200B;
-**Aufgabenerstellung:** neue Karten können direkt in der Pinnwand-Ansicht erstellt werden, wodurch neue Aufgaben im Projekt erstellt werden. &#x200B; Diese Aufgaben können sofort bearbeitet und zugewiesen werden. &#x200B;
-**Anpassung:** Spalten und Karten in der Pinnwand-Ansicht können entsprechend den Projektanforderungen konfiguriert werden, was die Flexibilität bei der Aufgabenorganisation erhöht. &#x200B;
-**Integration mit Aufgabenliste:** Änderungen, die in der Pinnwand-Ansicht vorgenommen wurden, wie z. B. Aufgabenstatusaktualisierungen oder die Erstellung neuer Aufgaben, werden in der Aufgabenlistenansicht angezeigt, um eine nahtlose Integration zwischen Ansichten sicherzustellen. &#x200B;
+* **Board-Ansicht - Übersicht:** Die Board-Ansicht in Workfront bietet eine Kanban-ähnliche Oberfläche zum Anzeigen und Verwalten von Projektaufgaben, die eine Alternative zur herkömmlichen Task-Listenansicht bietet. &#x200B;
+* **Aufgabenverwaltung:** Aufgaben können innerhalb von Spalten oder zwischen Spalten sortiert, gruppiert und verschoben werden, wobei Statusaktualisierungen beim Verschieben von Aufgaben automatisch angewendet werden. &#x200B;
+* **Aufgabenerstellung:** neue Karten können direkt in der Pinnwand-Ansicht erstellt werden, wodurch neue Aufgaben im Projekt erstellt werden. &#x200B; Diese Aufgaben können sofort bearbeitet und zugewiesen werden. &#x200B;
+* **Anpassung:** Spalten und Karten in der Pinnwand-Ansicht können entsprechend den Projektanforderungen konfiguriert werden, was die Flexibilität bei der Aufgabenorganisation erhöht. &#x200B;
+* **Integration mit Aufgabenliste:** Änderungen, die in der Pinnwand-Ansicht vorgenommen wurden, wie z. B. Aufgabenstatusaktualisierungen oder die Erstellung neuer Aufgaben, werden in der Aufgabenlistenansicht angezeigt, um eine nahtlose Integration zwischen Ansichten sicherzustellen. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema

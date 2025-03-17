@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Dashboards
-description: In diesem Video erfahren Benutzende, wie sie Dashboards in Workfront effektiv erstellen, anpassen und verwalten können, um projektbezogene Daten zu überwachen und freizugeben.
+description: Organisieren und zeigen Sie Projektdaten mit Workfront-Dashboards an, die für ein nahtloses Projektmanagement und die Zusammenarbeit angepasst, aufgerufen, freigegeben und gedruckt werden können.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,29 +11,27 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 64%
+source-wordcount: '635'
+ht-degree: 62%
 
 ---
 
 # Erstellen von Dashboards
 
-In diesem Video werden die folgenden wichtigen Punkte behandelt:
-
-* **Einführung in Dashboards:** Erläutert, was ein Dashboard in Workfront ist und zu welchem Zweck es als Sammlung verwandter Berichte dient. &#x200B;
-* **Erstellen eines Dashboards:** Anleitungen zum Erstellen eines neuen Dashboards durch Navigieren zum Bereich „Dashboards“, Auswählen von „Neues Dashboard“, Benennen und Auswählen eines Layouts. &#x200B;
-* **Berichte hinzufügen:** Zeigt, wie dem Dashboard verschiedene Berichte wie Projektberichte, Aufgabenberichte und Problemberichte hinzugefügt und innerhalb des ausgewählten Layouts angeordnet werden. &#x200B;
-* **Ansichten anpassen:** zeigt, wie Sie anpassen können, welche Spalten in der Dashboard-Ansicht angezeigt werden, indem Sie den Bericht bearbeiten und bestimmte Spalten auswählen, die angezeigt werden sollen. &#x200B;
-* **Hinzufügen zusätzlicher Elemente:** Erläutert, wie ein benutzerdefinierter Kalender und eine externe Seite (z. B. ein Online-Dokument) zum Dashboard hinzugefügt werden. &#x200B;
-* **Speichern und Anheften:** Anweisungen zum Speichern des Dashboards und zum Anheften für einfachen Zugriff. &#x200B;
-* **Anzeigen und Bearbeiten:** Tipps zum Anzeigen und Bearbeiten des Dashboards, einschließlich der Anpassung der Spaltensichtbarkeit, um die Anzeige zu verbessern. &#x200B;
-* **Dashboards suchen und freigeben:** Beschreibt, wie Dashboards über das Hauptmenü gefunden, zu Favoriten hinzugefügt und für andere Benutzer freigegeben werden. &#x200B;
-* **Drucken von Dashboards:** Erläutert den Prozess zum Drucken eines Dashboards. &#x200B;
-
+Das Video bietet eine umfassende Anleitung zum Verständnis und zur Verwendung von Dashboards in Workfront.
+&#x200B;Es wird erläutert, dass ein Dashboard eine Sammlung von Berichten ist, mit denen Benutzende verknüpfte Daten an einem Ort organisieren und anzeigen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+
+## Wichtige Erkenntnisse
+
+**Dashboards in Workfront:** Ein Dashboard ist eine Berichtssammlung, mit der Benutzende verwandte Daten wie Projekte, Aufgaben und Probleme in einer zentralen Ansicht organisieren und anzeigen können. &#x200B;
+**Erstellen von Dashboards:** Dashboards können angepasst werden, indem ein Layout ausgewählt, Berichte, benutzerdefinierte Kalender oder externe Seiten hinzugefügt und für eine optimale Anzeige angeordnet werden. &#x200B; Benutzer können auch anpassen, welche Spalten in nebeneinander angezeigten Berichten im Dashboard angezeigt werden. &#x200B;
+**Zugriff auf Dashboards:** Dashboards finden Sie unter „Meine Dashboards“, „Freigegebene Dashboards“ oder „Alle Dashboards“ im Bereich Dashboards. &#x200B; Häufig verwendete Dashboards können angeheftet oder zu den Favoriten hinzugefügt werden, um einen schnellen Zugriff zu ermöglichen. &#x200B;
+**Freigabe von Dashboards:** Dashboards können über das Menü „Dashboard-Aktionen“ für andere Workfront-Benutzende freigegeben werden, einschließlich aller Berichte innerhalb des Dashboards. &#x200B;
+**Druck-Dashboards:**-Dashboards können direkt über das Menü „Dashboard-Aktionen“ gedruckt werden, wodurch die Freigabe physischer Kopien der Daten erleichtert wird. &#x200B;
 
 
 ## „Dashboard erstellen“-Aktivitäten

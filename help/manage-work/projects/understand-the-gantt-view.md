@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 12%
@@ -46,11 +46,11 @@ Weitere Informationen finden Sie online im Artikel [Erste Schritte mit dem Gantt
 
 ## Wichtige Erkenntnisse
 
-**Übersicht:** Gantt-Diagramme bieten einen umfassenden Überblick über Aufgaben, Projekte und Portfolios, sodass Beziehungen und die gemeinsame Nutzung von Ressourcen in allen Projekten leicht verständlich sind. &#x200B;
-**Fortschrittsverfolgung:** Fortschrittsstatusanzeigen (grün, gelb, rot und hellblau) helfen bei der Überwachung von Projekt- und Aufgabenzeitplänen, wobei der Status „termingerecht“, „gefährdet“, „verzögert“ oder „verspätet“ hervorgehoben wird. &#x200B;
-**Meilenstein-Management:** Meilensteindiamanten und -linien markieren visuell wichtige Abschlussdaten und helfen so bei der Verfolgung des Meilensteinfortschritts innerhalb von Projekten. &#x200B;
-**Vorgänger-Insights** Projekt- und aufgabenspezifische Vorgänger können einfach überprüft werden, um sicherzustellen, dass Abhängigkeiten klar und verwaltbar sind. &#x200B;
-**Anpassungsoptionen** Benutzer können tatsächliche Termine, voraussichtliche Termine, Baselines, Zuweisungen und mehr anzeigen und die Ansicht des Gantt-Diagramms an ihre spezifischen Anforderungen anpassen.
+* **Übersicht:** Gantt-Diagramme bieten einen umfassenden Überblick über Aufgaben, Projekte und Portfolios, sodass Beziehungen und die gemeinsame Nutzung von Ressourcen in allen Projekten leicht verständlich sind. &#x200B;
+* **Fortschrittsverfolgung:** Fortschrittsstatusanzeigen (grün, gelb, rot und hellblau) helfen bei der Überwachung von Projekt- und Aufgabenzeitplänen, wobei der Status „termingerecht“, „gefährdet“, „verzögert“ oder „verspätet“ hervorgehoben wird. &#x200B;
+* **Meilenstein-Management:** Meilensteindiamanten und -linien markieren visuell wichtige Abschlussdaten und helfen so bei der Verfolgung des Meilensteinfortschritts innerhalb von Projekten. &#x200B;
+* **Vorgänger-Insights** Projekt- und aufgabenspezifische Vorgänger können einfach überprüft werden, um sicherzustellen, dass Abhängigkeiten klar und verwaltbar sind. &#x200B;
+* **Anpassungsoptionen** Benutzer können tatsächliche Termine, voraussichtliche Termine, Baselines, Zuweisungen und mehr anzeigen und die Ansicht des Gantt-Diagramms an ihre spezifischen Anforderungen anpassen.
 
 
 ## Empfohlene Tutorials zu diesem Thema

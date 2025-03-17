@@ -12,10 +12,10 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 6%
+source-wordcount: '357'
+ht-degree: 7%
 
 ---
 
@@ -24,22 +24,22 @@ ht-degree: 6%
 In diesem Video wird erläutert, wie Sie Projekte in Workfront effektiv freigeben können, um sicherzustellen, dass Stakeholder und Mitarbeiter über die erforderliche Sichtbarkeit und den erforderlichen Zugriff verfügen. &#x200B; Workfront vereinfacht die Freigabe durch die automatische Zuweisung geeigneter Zugriffsrechte auf der Grundlage von Rollen:
 
 **Automatische Freigabe:**
-* Projektersteller verfügen über verwaltete Rechte zum Anzeigen und Bearbeiten des Projekts, der Aufgaben und der Probleme. &#x200B;
-* Benutzer, denen Aufgaben zugewiesen wurden, erhalten Ansichtsrechte für das gesamte Projekt und Mitwirkende-Rechte für ihre Aufgaben. &#x200B;
-* Projektsponsoren können das Projekt anzeigen, Ressourcenmanager können es verwalten, aber nicht löschen. &#x200B;
+* Projektersteller verfügen über verwaltete Rechte zum Anzeigen und Bearbeiten des Projekts, der Aufgaben und der Probleme.
+* Benutzer, denen Aufgaben zugewiesen wurden, erhalten Ansichtsrechte für das gesamte Projekt und Mitwirkende-Rechte für ihre Aufgaben.
+* Projektsponsoren können das Projekt anzeigen, Ressourcenmanager können es verwalten, aber nicht löschen.
 
 **Manuelle Freigabe:**
-* Projekte können für Einzelpersonen, Teams, Aufgabengebiete, Gruppen oder Unternehmen freigegeben werden. &#x200B;
-* Zu den Best Practices gehören die Erstellung von Teams, die die gemeinsame Nutzung im Auge haben, und die Verwendung von Portfolios oder Programmen, um Berechtigungen für mehrere Projekte zu erben. &#x200B;
+* Projekte können für Einzelpersonen, Teams, Aufgabengebiete, Gruppen oder Unternehmen freigegeben werden.
+* Zu den Best Practices gehören die Erstellung von Teams, die die gemeinsame Nutzung im Auge haben, und die Verwendung von Portfolios oder Programmen, um Berechtigungen für mehrere Projekte zu erben.
 
 **Massenfreigabe und Vorlagenfreigabe:**
 * Die Massenbearbeitung ermöglicht die Freigabe von Anpassungen für mehrere Projekte. &#x200B;
 * Freigabeeinstellungen können in Projektvorlagen vorkonfiguriert werden, um Zeit zu sparen. &#x200B;
 
 **Systemstandardwerte:**
-* Systemadministratoren oder Gruppenadministratoren können die Standardeinstellungen für die Freigabe ändern, z. B. den Team-Mitgliedern, die Aufgaben zugewiesen sind, Mitwirkende-Rechte gewähren. &#x200B;
+* Systemadministratoren oder Gruppenadministratoren können die Standardeinstellungen für die Freigabe ändern, z. B. den Team-Mitgliedern, die Aufgaben zugewiesen sind, Mitwirkende-Rechte gewähren.
 
-Im Video wird der Schwerpunkt auf die Verwendung von Teams und Vorlagen für eine effiziente Freigabeverwaltung gelegt und die Rolle von Administratoren beim Anpassen der Freigabevoreinstellungen hervorgehoben. &#x200B;
+Im Video wird der Schwerpunkt auf die Verwendung von Teams und Vorlagen für eine effiziente Freigabeverwaltung gelegt und die Rolle von Administratoren beim Anpassen der Freigabevoreinstellungen hervorgehoben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
 

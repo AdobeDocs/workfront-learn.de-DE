@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 11%
@@ -29,11 +29,11 @@ In diesem Video wird erläutert, wie Sie den Projektfortschritt mithilfe von Pro
 
 ## Wichtige Erkenntnisse
 
-**Zugriff auf Projektmetriken:** Navigieren Sie im linken Bereich Ihres Projekts zur Registerkarte „Metriken“, um den Fortschritt zu verfolgen. &#x200B; Möglicherweise müssen Sie nach unten scrollen und auf „Weitere anzeigen“ klicken, um sie zu finden. &#x200B;
-**Key Performance Indicators (KPIs):** KPI-Bereich zeigt abgeschlossene, unvollständige und überfällige Aufgaben an. &#x200B; Durch Klicken auf die Indikatoren können Sie bestimmte Aufgaben anzeigen. &#x200B;
-**Aufgaben- und Problemdiagramme:** Diagramme gruppieren Aufgaben oder Probleme nach Status oder Priorität und zeigen das Verhältnis von abgeschlossen zu unvollständig an. &#x200B; Wenn Sie den Mauszeiger über Spalten bewegen, werden Mengen angezeigt. &#x200B;
-**Metriken nach Verantwortlichem:** Aufgaben nach Verantwortlichem auf der Grundlage ihres Status (abgeschlossen, unvollständig, bevorsteht oder überfällig). &#x200B; Voreinstellungen werden für zukünftige Besuche gespeichert. &#x200B;
-**Metriken exportieren:** Exportieren Sie die Seite mit den Metriken als PNG-Datei, indem Sie auf die Schaltfläche Exportieren in der rechten oberen Ecke des Bildschirms klicken. &#x200B;
+* **Zugriff auf Projektmetriken:** Navigieren Sie im linken Bereich Ihres Projekts zur Registerkarte „Metriken“, um den Fortschritt zu verfolgen. &#x200B; Möglicherweise müssen Sie nach unten scrollen und auf „Weitere anzeigen“ klicken, um sie zu finden. &#x200B;
+* **Key Performance Indicators (KPIs):** KPI-Bereich zeigt abgeschlossene, unvollständige und überfällige Aufgaben an. &#x200B; Durch Klicken auf die Indikatoren können Sie bestimmte Aufgaben anzeigen. &#x200B;
+* **Aufgaben- und Problemdiagramme:** Diagramme gruppieren Aufgaben oder Probleme nach Status oder Priorität und zeigen das Verhältnis von abgeschlossen zu unvollständig an. &#x200B; Wenn Sie den Mauszeiger über Spalten bewegen, werden Mengen angezeigt. &#x200B;
+* **Metriken nach Verantwortlichem:** Aufgaben nach Verantwortlichem auf der Grundlage ihres Status (abgeschlossen, unvollständig, bevorsteht oder überfällig). &#x200B; Voreinstellungen werden für zukünftige Besuche gespeichert. &#x200B;
+* **Metriken exportieren:** Exportieren Sie die Seite mit den Metriken als PNG-Datei, indem Sie auf die Schaltfläche Exportieren in der rechten oberen Ecke des Bildschirms klicken. &#x200B;
 
 
 
