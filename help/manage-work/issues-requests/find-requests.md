@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 14%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 9%
 
 In diesem Video wird beschrieben, wie Sie Anfragen in Workfront finden und verwalten. &#x200B; Es umfasst vier Hauptbereiche:
 
-* **Workfront-Startseite:** Benutzende wie Mary Smith, eine Produktionskünstlerin, können Anfragen sehen, die ihnen zugewiesen wurden. &#x200B; Joan Harris, die häufig Anfragen stellt, kann bereits abgeschlossene Anfragen finden, die auf ihre Genehmigung warten. &#x200B;
-* **Anfragebereich:** Benutzer können Anfragen filtern, um die von ihnen erstellten anzuzeigen&#x200B; Der Begriff „mein“ im Anfragebereich bezieht sich auf Probleme, die von mir, dem angemeldeten Benutzer, erstellt wurden. &#x200B;
-* **Seite „Teams“:** Benutzer können nicht zugewiesene Teamanfragen anzeigen und sich selbst oder andere zuweisen. &#x200B; Sie können auch den Workload Balancer verwenden, um Team-Zuweisungen basierend auf der aktuellen Arbeitslast zu verwalten. &#x200B;
-* **Benutzerdefinierte Berichte und Dashboards:** Benutzer können benutzerdefinierte Berichte erstellen, um Anfragen zu verfolgen, mit Kontrolle über Benennung, Filter, Ansichten und Gruppierungen. &#x200B; Dies ermöglicht eine klare Nachverfolgung von Anfragen nach Priorität, Ersteller, primärem Kontakt, Bevollmächtigtem und Status. &#x200B;
+* Workfront – Startseite
+* Anfragebereich
+* Seite Teams&#x200B;
+* Benutzerdefinierte Berichte und Dashboards
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)

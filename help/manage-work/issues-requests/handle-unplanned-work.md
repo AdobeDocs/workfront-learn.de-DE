@@ -1,6 +1,6 @@
 ---
 title: Umgang mit ungeplanten Arbeiten
-description: Erfahren Sie, wie Sie ungeplante Arbeiten mit Adobe Workfront handhaben.
+description: Verbessern Sie das Projektmanagement in Workfront, indem Sie Probleme effektiv verfolgen und beheben, Protokollierungstools verwenden, Best Practices implementieren, die Kommunikation fördern und Probleme nahtlos in Aufgaben für eine optimierte Ausführung umwandeln.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,22 +12,28 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '63'
-ht-degree: 100%
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+workflow-type: tm+mt
+source-wordcount: '264'
+ht-degree: 12%
 
 ---
 
 # Umgang mit ungeplanten Arbeiten
 
-In diesem Video lernen Sie Folgendes:
+In dem Video wird die Bedeutung der Kommunikation im Projektmanagement hervorgehoben und die Rolle von Themen als Schlüsselinstrument zur Erleichterung der Kommunikation hervorgehoben. &#x200B; Darin wird der Unterschied zwischen Aktualisierungen und Problemen erläutert und darauf hingewiesen, dass Probleme besser für Aufgaben geeignet sind, die zugewiesen, verfolgt und gelöst werden müssen, bevor ein Projekt abgeschlossen werden kann. &#x200B; Das Video enthält eine schrittweise Anleitung zum Protokollieren von Problemen. &#x200B;
 
-* Wann ein Problem zu protokollieren ist
-* Wie ein Problem zu protokollieren ist
-* Best Practices für das Problem-Management
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+
+## Wichtige Erkenntnisse
+
+* **Probleme vs. Aktualisierungen:** Verwenden Sie Probleme für Aufgaben, die vor dem Abschluss des Projekts zugewiesen, verfolgt und gelöst werden müssen, da sie im Vergleich zu Aktualisierungen einfacher zu überwachen und zu organisieren sind. &#x200B;
+* **Probleme protokollieren:** Probleme können auf Aufgaben- oder Projektebene über die Registerkarte „PROBLEME“ protokolliert werden. &#x200B; Es können Prioritäten festgelegt und E-Mail-Benachrichtigungen für Zuweisungen und Aktualisierungen konfiguriert werden.
+* **Best Practices für das Problem-Management:** Probleme häufig überwachen, benutzerdefinierte Berichte zur Steigerung der Effizienz erstellen und klare Erklärungen für ungelöste Probleme liefern, um wiederholte Fragen zu vermeiden und einen historischen Datensatz zu erstellen. &#x200B;
+* **Kommunikation fördern:** Dankbarkeit bei den Antworten zeigen, um Teammitglieder zu ermutigen, Probleme zu protokollieren und effektiv zu kommunizieren, und so ein reibungsloseres Projektmanagement sicherzustellen. &#x200B;
+* **Probleme in Aufgaben konvertieren:** Probleme können in Aufgaben konvertiert und in die Projektzeitleiste integriert werden, um eine bessere Planung und Ausführung zu ermöglichen. &#x200B;
+
 
 ## Empfohlene Tutorials zu diesem Thema
 

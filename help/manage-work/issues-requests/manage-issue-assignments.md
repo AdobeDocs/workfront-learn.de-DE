@@ -1,6 +1,6 @@
 ---
 title: Problemzuweisungen verwalten
-description: Erfahren Sie, wie Sie ein Problem einer einzelnen Person, mehreren Personen oder einem Team zuweisen, damit das Problem gelöst wird.
+description: Verwalten Sie Probleme in Workfront effektiv, indem Sie die Inline-Bearbeitung und den Workload Balancer für Zuweisungen verwenden, den Fortschritt verfolgen und aktualisieren, den Problemstatus ändern und teamspezifische Workflows einhalten, um eine nahtlose Projektausführung zu gewährleisten.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,10 +12,10 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 25%
 
 ---
 
@@ -31,6 +31,15 @@ In diesem Video lernen Sie Folgendes:
 * Den Status des Problems aktualisieren
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops)
+
+## Wichtige Erkenntnisse
+
+* **Probleme zuweisen:** Verwenden Sie die Inline-Bearbeitung im Feld „Arbeitsaufträge“, um Probleme Benutzern oder Teams zuzuweisen, und stellen Sie sicher, dass Sie auf „Speichern“ klicken, nachdem Sie Arbeitsaufträge erteilt haben. &#x200B; Team-Leads können mit dem Workload Balancer Aufgaben zuweisen, indem sie sie per Drag-and-Drop in den Kalender der Team-Mitglieder ziehen. &#x200B;
+* **Zugewiesene Probleme suchen:** Ihnen zugewiesenen Probleme werden auf der Startseite in der Arbeitsliste angezeigt, die gefiltert werden kann. &#x200B; Vom Team zugewiesene Probleme werden im Abschnitt „Teamanfrage“ angezeigt, in dem die Team-Mitglieder Aufgaben annehmen oder neu zuweisen können. &#x200B; Diese Probleme werden auch im Workload Balancer angezeigt, um die Anzeige zu verbessern. &#x200B;
+* **Aktualisieren des Fortschritts:** Stellen Sie Aktualisierungen bereit und protokollieren Sie Stunden zu Problemen, um einen Überblick über den Arbeitsfortschritt zu erhalten. &#x200B; Verwenden Sie die Funktion „Name“, um Kommentare an bestimmte Benutzer oder Teams weiterzuleiten. &#x200B; Benachrichtigungen werden für Kommentare gesendet, aber nicht für protokollierte Stunden oder Statusänderungen. &#x200B;
+* **Problemstatus ändern:** Aktualisieren Sie den Problemstatus, um den Fortschritt anzuzeigen, z. B. „Wird bearbeitet“ oder „Abgeschlossen“. &#x200B; Ungelöste Probleme verhindern, dass zugehörige Aufgaben und Projekte als abgeschlossen markiert werden. &#x200B;
+* **Team-spezifische Workflows:** Befolgen Sie die spezifischen Workflows und Systemkonfigurationen Ihres Unternehmens, um Probleme effektiv zu verwalten. &#x200B;
+
 
 ## Empfohlene Tutorials zu diesem Thema
 
