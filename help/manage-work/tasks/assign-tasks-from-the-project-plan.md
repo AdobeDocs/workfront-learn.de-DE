@@ -1,6 +1,6 @@
 ---
 title: Zuweisen von Aufgaben aus dem Projektplan
-description: Erfahren Sie, wie Sie Aufgaben in einem Adobe Workfront-Projekt mithilfe von Inline-Bearbeitung, Massenbearbeitung, Aufgabengebieten und Teams zuweisen.
+description: Vereinfachen Sie Aufgabenzuweisungen in Workfront durch Inline-Bearbeitung, Massenbearbeitung, Aufgabengebiete für das Ressourcenmanagement, Teamzuweisungen für die Zusammenarbeit und Ressourcenkapazitätsberechnungen für eine effiziente Projektplanung.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -13,33 +13,28 @@ jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '226'
+ht-degree: 13%
 
 ---
 
 # Zuweisen von Aufgaben aus dem Projektplan
 
-In diesem Video werden Sie:
+In diesem Video werden verschiedene Methoden zum Zuweisen von Aufgaben in einem Projektplan erläutert. Der Schwerpunkt liegt auf der Verwendung von Tools wie Filtern, Vorlagen und Ressourcenverwaltungsfunktionen zur Optimierung der Aufgabenzuweisung und Optimierung von Projekt-Workflows.
 
-* erfahren, wie Sie eine Aufgabe mithilfe der Inline-Bearbeitung zuweisen
-* erfahren, wie Sie derselben Person mehrere Aufgaben zuweisen
-* verstehen, wie wichtig Aufgabengebiete beim Zuweisen von Aufgaben sind
-* verstehen, wie wichtig Projektvorlagen beim Zuweisen von Aufgaben sind
-* verstehen, wie wichtig das Zuweisen von Aufgaben zu Teams ist
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
-<!---
-learn more urls:
-Notifications: Information about work assigned to me
-Assign tasks
-Personal time overview
-Make smart assignments
-Modify multiple user assignments in a task list
---->
+## Wichtige Erkenntnisse
+
+* **Inline-Bearbeitung für Schnellzuweisungen** Einfaches Zuweisen von Aufgaben durch Eingabe eines Namens und Auswahl aus einer Liste, mit Funktion für automatische Textvervollständigung für eine schnellere Auswahl. &#x200B;
+* **Massenbearbeitung für Effizienz:** Weisen Sie derselben Person mehrere Aufgaben zu, indem Sie Aufgaben auswählen, die Massenbearbeitung verwenden und den Namen aus der Liste auswählen. &#x200B;
+* **Aufgabengebiete für optimierte Zuweisungen:** Sie Aufgabengebiete, um Aufgabenzuweisungen zu erleichtern, insbesondere mit Projektvorlagen. &#x200B; Aufgabengebiete werden für das Ressourcen-Management und die Kapazitätsplanung separat erfasst. &#x200B;
+* **Team-Arbeitsaufträge für Collaboration:** Weisen Sie Teams Aufgaben zu, indem Sie den Team-Namen auswählen, der mit einem Team-Symbol angezeigt wird. &#x200B; Teammitglieder können Aufgaben selbst zuweisen oder Teamleiter können sie neu zuweisen und dabei den Team-Namen für die Berichterstellung beibehalten. &#x200B;
+* **Ressourcenmanagement-Integration:** Aufgabengebiete und Team-Arbeitsaufträge unterstützen Ressourcenkapazitäts- und Verfügbarkeitsberechnungen und verbessern so die Projektplanung und -ausführung. &#x200B;
+
 
 ## Empfohlene Tutorials zu diesem Thema
 

@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu geplanten Stunden
-description: Erfahren Sie, was geplante Stunden sind, warum geplante Stunden für Ihr Projekt wichtig sind und wie geplante Stunden zu Aufgaben hinzugefügt werden.
+description: Optimieren Sie die Projektplanung in Workfront, indem Sie geplante Stunden nutzen, um die Dauer zu schätzen, Ressourcen zu verwalten, die Zeit zu verfolgen, Verweise auf die Vergangenheit zu nutzen und Zuweisungen zu optimieren.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -13,23 +13,30 @@ last-substantial-update: 2024-06-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '219'
+ht-degree: 13%
 
 ---
 
 # Grundlegendes zu geplanten Stunden
 
-In diesem Video lernen Sie Folgendes:
+In diesem Video wird das Konzept der geplanten Stunden erläutert, bei denen es sich um Schätzungen der für die Durchführung von Aufgaben erforderlichen Zeit handelt.
+Geplante Stunden sind für das Ressourcenmanagement in Workfront von entscheidender Bedeutung, da sie dabei helfen, eine zu hohe oder zu niedrige Ressourcenzuweisung zu identifizieren.
+Sie helfen auch dabei, die für Aufgaben aufgewendete Zeit zu verfolgen, zukünftige Schätzungen zu verbessern und die Erwartungen mit den Mitarbeitern zu klären.
 
-* Was geplante Stunden in Workfront sind
-* Warum geplante Stunden für Ihr Projekt wichtig sind
-* Wie Sie geplante Stunden schätzen
-* Wie Sie geplante Stunden zu Aufgaben hinzufügen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+
+
+## Wichtige Erkenntnisse
+
+* **Wichtigkeit der geplanten Stunden:** Die geplanten Stunden helfen, die Aufgabendauer zu schätzen, die Ressourcenzuweisung zu verwalten und die Besuchszeit zu verfolgen, und verbessern so die zukünftige Projektplanung. &#x200B;
+* **Präzise Schätztipps:** Sie lange Aufgaben in kleinere Teilaufgaben auf, verfolgen Sie die Zeit effektiv und dokumentieren Sie Änderungen oder Probleme, um die geplanten Stundenschätzungen zu verfeinern. &#x200B;
+* **Ressourcenverwaltung:** Workfront verwendet geplante Stunden, um zu viele oder zu wenige Ressourcen zuzuordnen und so effiziente Aufgabenzuweisungen sicherzustellen. &#x200B;
+* **Historischer Verweis:** Abgeschlossene Projekte sollten als Referenzen für die zukünftige Planung beibehalten werden, insbesondere für Aufgaben, die neuen Mitarbeitern zugewiesen werden. &#x200B;
+* **Benutzerfreundlichkeit:** geplanten Stunden können mit der Inline-Bearbeitung hinzugefügt oder bearbeitet werden, und die Stunden der übergeordneten Aufgabe werden automatisch durch Addieren von Teilaufgaben berechnet. &#x200B; Es wird empfohlen, geplante Stunden in Projektvorlagen einzubeziehen. &#x200B;
 
 
 ## Empfohlene Tutorials und Artikel zu diesem Thema

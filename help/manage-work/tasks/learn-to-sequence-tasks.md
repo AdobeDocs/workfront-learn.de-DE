@@ -1,6 +1,6 @@
 ---
 title: Informationen zum Sequenzieren von Aufgaben
-description: Erfahren Sie, was ein Vorgänger ist und inwiefern er die Reihenfolge der Aufgaben in einem Projekt bestimmt. Lernen Sie, mithilfe von Zeiträumen und Vorgängern eine Zeitleiste zu erstellen.
+description: Optimieren Sie das Projektmanagement, indem Sie die Aufgabenreihenfolge mit Vorgängern definieren, Zeitleisten anhand von Dauer festlegen, Sequenzen mithilfe von Vorlagen vereinfachen, manuelle Einschränkungen vermeiden und Fähigkeiten durch Übung verfeinern.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -13,34 +13,29 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '220'
+ht-degree: 10%
 
 ---
 
 # Informationen zum Sequenzieren von Aufgaben
 
-In diesem Video lernen Sie Folgendes:
+In diesem Video wird erläutert, wie Aufgaben in Workfront mithilfe von Vorgängern und Laufzeiten sequenziert werden können, um Projektzeitleisten effektiv zu verwalten.
+Das Video zeigt, wie Vorgänger für neue Aufgaben festgelegt werden, um eine sequenzielle Reihenfolge und genaue Startdaten sicherzustellen.
+&#x200B;Er betont, wie wichtig es ist, mit den Vorgängern zu praktizieren, um deren Auswirkungen auf die Projektzeitpläne zu verstehen, und empfiehlt die Verwendung von Laufzeiten und Vorgängern für eine effiziente Projektplanung.
 
-* Beschreibung von Vorgängern in Workfront
-* Erstellen einer Zeitleiste mithilfe von Zeiträumen und Vorgängern
-* So sequenzieren Vorgänger Aufgaben in einem Projekt
-* Auswirkungen der Einrichtung eines Startdatums für Aufgaben auf die Aufgabenbeschränkung
-* Eingeben von Vorgängern
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
-<!---
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
---->
+## Wichtige Erkenntnisse
+
+* **Vorgänger Aufgabenreihenfolge definieren:** Vorgänger legen die Aufgabensequenz fest, um sicherzustellen, dass bestimmte Aufgaben abgeschlossen werden, bevor andere beginnen können, was für den Projekterfolg entscheidend ist. &#x200B;
+* **Dauer wirkt sich auf Timelines aus:** Aufgabendauer legt den Zeitrahmen für die Arbeit fest und passt Start- und Abschlussdaten an, wodurch ein kaskadierender Effekt auf abhängige Aufgaben entsteht. &#x200B;
+* **Vorlagen vereinfachen die Einrichtung:** Vorgänger und Einschränkungen können in Projektvorlagen vordefiniert werden, wodurch der Prozess der Verwaltung von Aufgabensequenzen optimiert wird. &#x200B;
+* **Manuelle Anpassungen wirken sich auf Beschränkungen aus** Durch das manuelle Festlegen bestimmter Datumswerte werden die kaskadierenden Aktualisierungen überschrieben, die durch Änderungen an der Dauer oder an den Vorgängern verursacht werden. &#x200B;
+* **Übung verbessert die Kenntnisse:** Das Üben mit Vorgängern und Dauer hilft, die Projektmanagementfähigkeiten zu verfeinern, und sorgt für eine bessere Kontrolle über Zeitpläne.
 
 ## Empfohlene Tutorials zu diesem Thema
 
