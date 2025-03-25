@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zur Projekterstellung
-description: Erfahren Sie, wie Sie Projekte effizient erstellen, verwalten und abschließen, mit unerwarteten Problemen umgehen und für Einsteiger freundliche Tipps zur Beherrschung wichtiger Projektmanagement-Funktionen finden. ​
+description: 'Erfahren Sie, wie Sie Projekte effizient erstellen, verwalten und abschließen, mit unerwarteten Problemen umgehen und wertvolle anfängliche Tipps zum Umgang mit wichtigen Projekt-Management-Funktionen finden. '
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 11%
+ht-degree: 21%
 
 ---
 
