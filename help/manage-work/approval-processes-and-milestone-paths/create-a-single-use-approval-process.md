@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines globalen und eines einmaligen Genehmigungsprozesses
-description: Erfahren Sie, wie Sie einen globalen und einen einmaligen Genehmigungsprozess für ein Projekt, eine Aufgabe oder ein Problem erstellen.
+description: Verbessern Sie Genehmigungs-Workflows, indem Sie sowohl globale als auch einmalige Genehmigungsprozesse für Aufgaben, Projekte oder Probleme nutzen, mehrstufige Genehmigungen implementieren und die Effizienz durch Wiederverwendbarkeit in Projektvorlagen fördern.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,26 +9,33 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-last-substantial-update: 2024-09-24T00:00:00Z
+last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '442'
-ht-degree: 100%
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 25%
 
 ---
 
 # Erstellen eines globalen und eines einmaligen Genehmigungsprozesses
 
-Genehmigungsverfahren für Projekte, Aufgaben und Probleme ermöglichen es der Projekt-Managerin oder dem Projekt-Manager, sich von Fachleuten bestätigen zu lassen, dass die Arbeit richtig gemacht wurde, bevor es weitergeht. Die Projekt-Managerin bzw. der Projekt-Manager kann einen Genehmigungsprozess für jede Situation erstellen (dies wird als einmaliger Genehmigungsprozess bezeichnet) oder aus einer Liste von möglicherweise zuvor erstellten Genehmigungsprozessen wählen, um gängige Bedürfnisse zu erfüllen (diese werden als globale oder vorhandene Genehmigungsprozesse bezeichnet).
-
-In beiden Instanzen wird die genehmigende Person, wenn sich der Objektstatus in einen im Genehmigungsverfahren festgelegten Status ändert, auf verschiedene Weise benachrichtigt, um die Arbeit zu überprüfen und sie zu genehmigen oder abzulehnen. Da es sein kann, dass das gesamte Projekt bis zur Genehmigung pausiert wird, sollten sich die Genehmigenden schon im Voraus darüber im Klaren sein, dass sie möglicherweise um eine Genehmigung ersucht werden. Sind genehmigende Personen aus irgendeinem Grund abwesend, können sie dann ihre Genehmigungen an qualifizierte Vertretende delegieren. Siehe [Delegieren von Aufgaben, Problemen und Genehmigungen](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md) für Details.
-
-In diesem Video erfahren Sie, wie Sie einen globalen und einen einmaligen Genehmigungsprozess für ein Projekt, eine Aufgabe oder ein Problem erstellen.
+In diesem Video wird erläutert, wie Sie Genehmigungsprozesse für Projekte, Aufgaben oder Probleme erstellen und verwalten und dabei zwischen globalen und einmaligen Genehmigungsprozessen unterscheiden können.
+Das Video zeigt das Erstellen von Genehmigungsprozessen, das Festlegen von Genehmigern, das Konfigurieren von Status und die Verwendung von Phasen für Genehmigungen mit mehreren Ebenen.
+&#x200B;Es unterstreicht die Flexibilität von sowohl globalen als auch einmaligen Prozessen für die effektive Verwaltung von Aufgabengenehmigungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+
+## Wichtige Erkenntnisse
+
+* **Arten von Genehmigungsprozessen:** Es gibt zwei Arten: globale Genehmigungsprozesse (freigegeben für Aufgaben, Projekte oder Probleme) und einmalige Genehmigungsprozesse (spezifisch für eine einzelne Aufgabe, ein einzelnes Projekt oder ein einzelnes Problem).
+* **Globale Genehmigungsprozesse:** Diese werden im Abschnitt Einrichtung > Prozesse > Genehmigungen erstellt und können durch bestimmte Status ausgelöst werden. &#x200B; Sie können mehrere genehmigende Personen oder gestaffelte Genehmigungen enthalten.
+* **Genehmigungsprozess für den einmaligen Gebrauch:** Diese sind objektspezifisch und können nicht freigegeben werden. &#x200B; Sie können von Grund auf neu erstellt werden oder indem ein globaler Genehmigungsprozess bearbeitet und konvertiert wird.
+* **Mehrstufige Genehmigungen:** Genehmigungsprozesse können mehrere genehmigende Personen gleichzeitig oder in Phasen enthalten, sodass sequenzielle Genehmigungen sichergestellt sind, bevor die nächste genehmigende Person benachrichtigt wird.
+* **Wiederverwendbarkeit:** einmalige Genehmigungsprozesse können mit Aufgaben, Projekten oder Problemen kopiert oder in Projektvorlagen eingefügt werden, was eine einfache projektübergreifende Replikation ermöglicht.
+
 
 >[!TIP]
 >
@@ -38,17 +45,6 @@ In diesem Video erfahren Sie, wie Sie einen globalen und einen einmaligen Genehm
 >
 >Sie können eine einmalige Genehmigung für Projekte und Probleme auf die gleiche Weise einrichten, wie es im Video für Aufgaben beschrieben wird.
 
-## Anwenden automatischer Problemgenehmigungen in einer Anfrage-Warteschlange
-
-Wenn Sie automatische Problemgenehmigungen in einer Anfrage-Warteschlange einrichten möchten, kann dies nur mithilfe eines globalen Genehmigungsprozesses für Probleme durchgeführt und auf ein [!UICONTROL Warteschlangen-Thema] angewendet werden. 
-
-Wählen Sie beim Erstellen oder Bearbeiten eines [!UICONTROL Warteschlangen-Themas] im Feld **[!UICONTROL Standardgenehmigung]** den globalen Genehmigungsprozess aus.
-
-![Bild, das zeigt, wie ein standardmäßiger Genehmigungsprozess für ein Warteschlangen-Thema ausgewählt wird](assets/automatic-issue-approval-1.png)
-
-Möglicherweise müssen Sie den Problem-Genehmigungsprozess bearbeiten, um sicherzustellen, dass der Problemstatus nicht auf **[!UICONTROL Vorheriger Status]** gesetzt ist, wenn die Genehmigung abgelehnt wird. Der Grund dafür ist, dass der vorherige Status **[!UICONTROL Neu]** lautet. Dies ist auch der Status, der den Genehmigungsprozess auslöst und deshalb bei der Genehmigung angezeigt wird. Um Verwirrung zu vermeiden, wenn die Genehmigung eines Problems abgelehnt wird, sollten Sie den Status auf einen Wert wie **[!UICONTROL Lässt sich nicht lösen]** oder einen benutzerdefinierten, zu diesem Zweck erstellten Status stellen.
-
-![Bild, das die Änderung des Status anzeigt, der verwendet werden soll, wenn das Problem abgelehnt wird](assets/automatic-issue-approval-2.png)
 
 
 ## Empfohlene Tutorials zu diesem Thema
@@ -56,4 +52,5 @@ Möglicherweise müssen Sie den Problem-Genehmigungsprozess bearbeiten, um siche
 * [Delegieren von Aufgaben, Problemen und Genehmigungen](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Informationen zu gruppenspezifischen Genehmigungsprozessen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Erstellen eines Anfrageflusses](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Anfragegenehmigungsprozess in einer Anfragewarteschlange anwenden](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 
