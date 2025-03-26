@@ -1,6 +1,6 @@
 ---
 title: Überprüfen und Genehmigen digitaler Arbeiten
-description: Erfahren Sie, wie Sie Genehmigungen für Projekte, Aufgaben, Probleme, Dokumente und Korrekturabzüge in [!DNL Workfront Home]finden und erteilen können.
+description: Vereinfachen Sie Genehmigungs-Workflows mit zentralisierter Verwaltung im Widget „Warten auf meine Genehmigung“, flexiblen Überprüfungsoptionen, detaillierten Genehmigungsoptionen für Korrekturabzüge und klaren Kommentaren für effiziente Kommunikation und Aktualisierungen.
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -12,23 +12,34 @@ jira: KT-8808
 recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+workflow-type: tm+mt
+source-wordcount: '383'
+ht-degree: 12%
 
 ---
 
 # Überprüfen und Genehmigen digitaler Arbeiten
 
-In diesem Video lernen Sie Folgendes:
+In diesem Video wird erläutert, wie Sie digitale Arbeiten mit dem Widget „Warten auf meine Genehmigung“ im Bereich Startseite überprüfen und genehmigen können. &#x200B; Es umfasst fünf Arten von Genehmigungen:
 
-* Finden von Genehmigungen in [!DNL Workfront Home]
-* Erteilen von Genehmigungen für Projekte, Aufgaben und Probleme
-* Erteilen von Genehmigungen für Dokumente
-* Erteilen von Genehmigungen für Korrekturabzüge
+* **Projektbestätigung:** können direkt im Bereich Startseite genehmigt oder abgelehnt werden, mit der Option, Kommentare hinzuzufügen. &#x200B; Klicken Sie zur detaillierten Überprüfung auf den Projektnamen, um auf dessen Details zuzugreifen. &#x200B; Genehmigungen, die innerhalb des Projekts vorgenommen werden, fordern nicht zur Eingabe von Kommentaren auf, sondern ermöglichen die Eingabe optionaler Kommentare.
+* **Aufgabengenehmigung:** Ähnlich wie bei der Projektgenehmigung können Sie die Aufgabe überprüfen, indem Sie auf ihren Namen klicken, oder sie direkt mit einem Kommentar genehmigen/ablehnen.
+* **Problemgenehmigung:** Funktioniert wie Aufgaben-/Projektgenehmigung, mit der Option, die Genehmigung zu überspringen, ohne einen Kommentar hinzuzufügen.
+* **Korrekturabzug-Genehmigung:** Navigieren Sie zum Korrekturabzug, um ihn zu überprüfen und spezifische Kommentare hinzuzufügen. &#x200B; Zu den Genehmigungsoptionen gehören „Genehmigen“, „Mit Änderungen genehmigt“, „Änderungen erforderlich“ oder „Nicht relevant“.
+* **Dokumentgenehmigung:** Dokumente ohne Korrekturabzüge können weiterhin genehmigt oder abgelehnt werden. &#x200B; Wenn Änderungen erforderlich sind, beschreiben Sie diese in einem Kommentar, ähnlich wie „Mit Änderungen genehmigt“ in der Korrekturabzugsgenehmigung.
+
+Das Video betont die Flexibilität bei der Überprüfung und Genehmigung von Arbeiten mit Optionen zum Hinzufügen von Kommentaren und zum Angeben von Änderungen nach Bedarf. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+
+## Wichtige Erkenntnisse
+
+* **Zentrale Validierungsverwaltung:** Über das Widget „Warten auf meine Genehmigung“ im Bereich Startseite können Sie auf alle Elemente zugreifen, die auf Genehmigung warten. &#x200B;
+* **Flexible Überprüfungsoptionen** Sie können direkt im Bereich Startseite genehmigen oder ablehnen oder auf den Elementnamen klicken, um die Details zu überprüfen, bevor Sie eine Entscheidung treffen. &#x200B;
+* **Kommentaroptionen:** Hinzufügen von Kommentaren ist optional, wird aber aus Gründen der Klarheit empfohlen. &#x200B; Genehmigungen, die im Bereich Startseite vorgenommen wurden, werden zur Eingabe von Kommentaren aufgefordert, Genehmigungen, die innerhalb des Elements erteilt wurden, jedoch nicht. &#x200B;
+* **Besonderheiten der Korrekturabzugs-Genehmigung:** Genehmigungen von Korrekturabzügen bieten mehrere Optionen, einschließlich „Mit Änderungen genehmigt“, „Änderungen erforderlich“ und „Nicht relevant“, was ein detailliertes Feedback ermöglicht. &#x200B;
+* **Umgang mit Änderungen:** Bei Dokumenten oder Korrekturabzügen, die Änderungen erfordern, können Sie die Änderungen in Kommentaren angeben und so eine klare Kommunikation für die erneute Übermittlung oder Aktualisierung sicherstellen. &#x200B;
 
 
 >[!NOTE]
