@@ -1,6 +1,6 @@
 ---
 title: Ein bestehendes Projekt kopieren
-description: Erfahren Sie, wie Sie eine Kopie eines vorhandenen Projekts erstellen.
+description: Einfaches Duplizieren von Projekten durch die Verwendung der Option „Kopieren“ im Drei-Punkte-Menü, Umbenennen und Festlegen des Status auf „Planung“, Kopieren benutzerdefinierter Daten und Formulare und separates Übertragen von Problemen über die Registerkarte „Probleme“ für maßgeschneiderte Projekteinstellungen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,29 +8,35 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+doc-type: video
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 9%
 
 ---
 
 # Ein bestehendes Projekt kopieren
 
-Manchmal brauchen Sie keine Vorlage, um ein Projekt zu erstellen, sondern müssen nur ein Projekt zur einmaligen Verwendung kopieren. Dazu benötigen Sie eine Standardlizenz mit Zugriffsrechten zum Bearbeiten und Erstellen von Projekten.
+In diesem Video wird erläutert, wie Sie ein Projekt kopieren, anstatt eine Vorlage zu verwenden. &#x200B; Um ein Projekt zu kopieren, öffnen Sie das gewünschte Projekt, klicken Sie auf das Dreipunkt-Menü neben dem Projektnamen und wählen Sie „Kopieren“ &#x200B; Im Fenster Projekt kopieren können Sie das Projekt umbenennen und seinen Status ändern, in der Regel in „Planung“, um zu vermeiden, dass Benachrichtigungen an zugewiesene Benutzer gesendet werden. &#x200B; Sie können auswählen, ob Zuweisungen, Fortschritt, benutzerdefinierte Daten usw. kopiert werden &#x200B;
+Klicken Sie zum Abschluss auf „Projekt kopieren“ &#x200B;
+Probleme können während dieses Vorgangs nicht direkt kopiert werden, da sie nicht als geplante Arbeit betrachtet werden. &#x200B; Um Probleme zu kopieren, gehen Sie zur Registerkarte „Probleme“, wählen Sie die gewünschten Probleme aus und verwenden Sie die Option „Kopieren nach“, um sie in das neue Projekt zu übertragen. &#x200B;
 
-Navigieren Sie zu dem Projekt, das Sie kopieren möchten, und klicken Sie auf die drei Punkte neben dem Projektnamen. Wählen Sie dann „Kopieren“.
 
-![Menüoption „Projekt kopieren“](assets/copy-existing-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
 
-Im Fenster „Projekt kopieren“ können Sie den Titel und den Status ändern sowie eine Reihe von Daten löschen, die mit dem Projekt verbunden sind, z. B. Zuordnungen, Dokumente und benutzerdefinierte Daten.
+## Wichtige Erkenntnisse
 
-![Optionen von „Projekt kopieren“](assets/copy-existing-02.png)
+* **Kopieren eines Projekts:** Öffnen Sie das Projekt, klicken Sie auf das Dreipunkt-Menü neben dem Projektnamen und wählen Sie „Kopieren“ aus, um es zu duplizieren. &#x200B;
+* **Projekteinstellungen anpassen:** Benennen Sie das Projekt um und ändern Sie seinen Status in „Planung“, um zu vermeiden, dass Benachrichtigungen an zugewiesene Benutzer gesendet werden.
+* **Selektives Kopieren** Sie können auswählen, ob Zuweisungen, Fortschritt oder benutzerdefinierte Daten kopiert werden sollen. &#x200B; Wenn Sie diese Optionen deaktivieren, können Sie sie im neuen Projekt anpassen.
+* **Umgang mit benutzerdefinierten Daten:** Wenn benutzerdefinierte Daten deaktiviert sind, werden Formulare ohne ihre Daten kopiert. &#x200B; Lassen Sie das Kontrollkästchen aktiviert, um sowohl Formulare als auch deren Daten zu kopieren. &#x200B;
+* **Probleme werden separat kopiert** Probleme werden beim Duplizieren des Projekts nicht kopiert. &#x200B; Um sie zu kopieren, gehen Sie zur Registerkarte „Probleme“, wählen Sie die gewünschten Probleme aus und verwenden Sie die Option „Kopieren nach“, um sie in das neue Projekt zu übertragen. &#x200B;
 
-Wenn Sie Zuordnungen löschen oder den Status auf „Planung“ setzen, wird verhindert, dass das kopierte Projekt direkt nach dem Kopieren Benachrichtigungen über Aufgabenzuordnungen versendet.
 
 ## Empfohlene Tutorials zu diesem Thema
 

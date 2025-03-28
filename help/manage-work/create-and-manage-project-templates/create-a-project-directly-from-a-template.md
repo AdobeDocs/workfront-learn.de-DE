@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 20%
@@ -28,11 +28,11 @@ In diesem Video wird erläutert, wie Sie ein Projekt aus einer Vorlage erstellen
 
 ## Wichtige Erkenntnisse
 
-**Vorlagenzugriff** Sie benötigen Berechtigungen zum Öffnen einer Vorlage, um daraus ein Projekt zu erstellen. &#x200B;
-**Option für den Tastaturbefehl** Die Verwendung einer Vorlage kann eine praktische Verknüpfung sein, anstatt ein Projekt von Grund auf neu zu starten. &#x200B;
-**Dreipunkt-Menü:** Öffnen Sie die Vorlage und wählen Sie „Projekt erstellen“ aus dem Dreipunkt-Menü. &#x200B;
-**Projektdetails bearbeiten** Nach Auswahl von „Projekt erstellen“ können Sie die Projektdetails bearbeiten, bevor Sie den Vorgang abschließen. &#x200B;
-**Erstellung abschließen:** Klicken Sie auf „Projekt erstellen“, wenn Sie bereit sind, den Prozess abzuschließen. &#x200B;
+* **Vorlagenzugriff** Sie benötigen Berechtigungen zum Öffnen einer Vorlage, um daraus ein Projekt zu erstellen. &#x200B;
+* **Option für den Tastaturbefehl** Die Verwendung einer Vorlage kann eine praktische Verknüpfung sein, anstatt ein Projekt von Grund auf neu zu starten. &#x200B;
+* **Dreipunkt-Menü:** Öffnen Sie die Vorlage und wählen Sie „Projekt erstellen“ aus dem Dreipunkt-Menü. &#x200B;
+* **Projektdetails bearbeiten** Nach Auswahl von „Projekt erstellen“ können Sie die Projektdetails bearbeiten, bevor Sie den Vorgang abschließen. &#x200B;
+* **Erstellung abschließen:** Klicken Sie auf „Projekt erstellen“, wenn Sie bereit sind, den Prozess abzuschließen. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema
