@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Projekts direkt aus einer Vorlage
-description: Erfahren Sie, wie Sie ein Projekt erstellen, indem Sie mit einer bereits erstellten Vorlage beginnen.
+description: Erstellen Sie Projekte direkt aus Vorlagen, indem Sie Zugriffsrechte sicherstellen, das Dreipunkt-Menü verwenden, um „Projekt erstellen“ auszuwählen, die Projektdetails nach Bedarf bearbeiten und den Prozess für eine effiziente Einrichtungsalternative abschließen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,36 +8,32 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+doc-type: video
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 20%
 
 ---
 
 # Erstellen eines Projekts direkt aus einer Vorlage
 
-Wenn Sie gerade an einer Vorlage arbeiten und ein Projekt mit dieser Vorlage erstellen möchten, klicken Sie auf das 3-Punkte-Menü neben dem Namen der Vorlage. Wählen Sie dann „Projekt erstellen“.
+In diesem Video wird erläutert, wie Sie ein Projekt aus einer Vorlage erstellen. &#x200B; Wenn Sie berechtigt sind, eine Vorlage zu öffnen, können Sie sie als Verknüpfung zum Erstellen eines Projekts verwenden. &#x200B; Öffnen Sie dazu die Vorlage, greifen Sie auf das Dreipunkt-Menü zu und wählen Sie „Projekt erstellen“ &#x200B; Dadurch gelangen Sie zu einem Bildschirm, auf dem Sie die Projektdetails bearbeiten können. &#x200B; Klicken Sie abschließend auf „Projekt erstellen“. &#x200B;
 
-![Option „Projekt erstellen“ im Menü](assets/direct-template-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
 
-Im Detailfenster können Sie die Einstellungen des neuen Projekts ändern.
+## Wichtige Erkenntnisse
 
-![Seite zur Projekterstellung](assets/direct-template-02.png)
+**Vorlagenzugriff** Sie benötigen Berechtigungen zum Öffnen einer Vorlage, um daraus ein Projekt zu erstellen. &#x200B;
+**Option für den Tastaturbefehl** Die Verwendung einer Vorlage kann eine praktische Verknüpfung sein, anstatt ein Projekt von Grund auf neu zu starten. &#x200B;
+**Dreipunkt-Menü:** Öffnen Sie die Vorlage und wählen Sie „Projekt erstellen“ aus dem Dreipunkt-Menü. &#x200B;
+**Projektdetails bearbeiten** Nach Auswahl von „Projekt erstellen“ können Sie die Projektdetails bearbeiten, bevor Sie den Vorgang abschließen. &#x200B;
+**Erstellung abschließen:** Klicken Sie auf „Projekt erstellen“, wenn Sie bereit sind, den Prozess abzuschließen. &#x200B;
 
->[!NOTE]
->
->Um mit dieser Methode ein Projekt zu erstellen, benötigen Sie Zugriff auf den Vorlagenbereich in Workfront. Wenn Sie nicht auf Vorlagen zugreifen können, können Sie weiterhin eine Vorlage verwenden, um ein Projekt aus dem Projektbereich oder beim Konvertieren eines Problems/einer Aufgabe zu erstellen.
-
->[!TIP]
->
->Wenn es eine Vorlage gibt, die Sie häufig verwenden, fügen Sie sie zu Ihren Favoriten hinzu! Die Vorlage wird im Menü „Neues Projekt“ aufgelistet und erscheint außerdem im Menü „Favoriten“ in der Navigationsleiste.
-
-
-![Favorisierte Vorlagen für ein neues Projekt](assets/direct-template-03.png)
 
 ## Empfohlene Tutorials zu diesem Thema
 

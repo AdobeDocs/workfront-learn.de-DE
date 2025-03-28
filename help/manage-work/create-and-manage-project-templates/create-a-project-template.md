@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 54%
@@ -35,11 +35,11 @@ Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage ein
 
 ## Wichtige Erkenntnisse
 
-**Erstellen einer Vorlage:** Erfahren Sie, wie Sie eine neue Vorlage von Grund auf neu erstellen, indem Sie sie benennen, Aufgaben einrichten, Zeitpläne erstellen und Aufgabengebiete zuweisen. &#x200B;
-**Aufgabenorganisation:** Verwenden Sie Beziehungen zwischen übergeordneten und untergeordneten Aufgaben, um Aufgaben effizient zu organisieren und eine klare Zusammenfassung und Struktur für das Projekt bereitzustellen. &#x200B;
-**Zeitleisten-Setup** Richten Sie Aufgabenzeitleisten mithilfe von Dauer und Vorgängern ein, um den Zeitrahmen und die Reihenfolge der Aufgaben genau zu schätzen. &#x200B;
-**Rollenbasierte Zuweisungen:** Weisen Sie Aufgabengebiete Aufgabengebieten anstelle einzelnen Benutzern zu, um die Funktionen für die Ressourcenplanung und -planung effektiv zu nutzen. &#x200B;
-**Vorlagenverwaltung:** Speichern Sie bestehende Projekte als neue Vorlagen, um Verbesserungen einzubinden und Vorlagen zu verwalten, um Verwirrung zu vermeiden und eine effiziente Projektausführung sicherzustellen. &#x200B;
+* **Erstellen einer Vorlage:** Erfahren Sie, wie Sie eine neue Vorlage von Grund auf neu erstellen, indem Sie sie benennen, Aufgaben einrichten, Zeitpläne erstellen und Aufgabengebiete zuweisen. &#x200B;
+* **Aufgabenorganisation:** Verwenden Sie Beziehungen zwischen übergeordneten und untergeordneten Aufgaben, um Aufgaben effizient zu organisieren und eine klare Zusammenfassung und Struktur für das Projekt bereitzustellen. &#x200B;
+* **Zeitleisten-Setup** Richten Sie Aufgabenzeitleisten mithilfe von Dauer und Vorgängern ein, um den Zeitrahmen und die Reihenfolge der Aufgaben genau zu schätzen. &#x200B;
+* **Rollenbasierte Zuweisungen:** Weisen Sie Aufgabengebiete Aufgabengebieten anstelle einzelnen Benutzern zu, um die Funktionen für die Ressourcenplanung und -planung effektiv zu nutzen. &#x200B;
+* **Vorlagenverwaltung:** Speichern Sie bestehende Projekte als neue Vorlagen, um Verbesserungen einzubinden und Vorlagen zu verwalten, um Verwirrung zu vermeiden und eine effiziente Projektausführung sicherzustellen. &#x200B;
 
 
 ## Mit [!UICONTROL Blueprints] erstellte Vorlagen
