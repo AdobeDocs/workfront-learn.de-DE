@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Dashboards
-description: Organisieren und zeigen Sie Projektdaten mit Workfront-Dashboards an, die für ein nahtloses Projektmanagement und die Zusammenarbeit angepasst, aufgerufen, freigegeben und gedruckt werden können.
+description: Organisieren Sie Projektdaten mit Workfront-Dashboards und zeigen Sie diese an. Diese Daten können für nahtloses Projekt-Management und die Zusammenarbeit angepasst, aufgerufen, freigegeben und gedruckt werden.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '635'
-ht-degree: 62%
+ht-degree: 65%
 
 ---
 
