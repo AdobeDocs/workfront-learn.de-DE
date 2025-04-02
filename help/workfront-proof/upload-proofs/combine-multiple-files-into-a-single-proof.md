@@ -10,10 +10,10 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
+source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 97%
+source-wordcount: '453'
+ht-degree: 92%
 
 ---
 
@@ -30,12 +30,13 @@ Lösung: Eine Person lädt alle PDFs hoch und fasst sie beim Hochladen zu einem 
 Um Korrekturabzüge zusammenzufassen:
 
 1. Öffnen Sie den Abschnitt [!UICONTROL Dokumente] des Projekts, der Aufgabe oder des Problems, woran der Korrekturabzug angehängt werden soll.
-2. Ziehen Sie die Dateien per Drag -and-Drop in den Upload-Bereich oder navigieren Sie dorthin. [!DNL Workfront] unterstützt die Kombination von bis zu 50 Dateien.
-3. Aktivieren Sie die Option [!UICONTROL Alle kompatiblen Dateien zu einem einzigen Korrekturabzug zusammenfassen].
-4. Geben Sie einen Namen für den kombinierten Korrekturabzug ein. Dies ist erforderlich.
-5. Falls gewünscht, können Sie die Reihenfolge, in der die Dateien kombiniert werden sollen, per Drag-and-Drop in der Upload-Liste ändern.
-6. Fügen Sie Empfängerinnen und Empfänger für Korrekturabzüge hinzu, setzen Sie eine Frist usw.
-7. Klicken Sie auf [!UICONTROL Korrekturabzug erstellen], um den Upload abzuschließen.
+1. Klicken Sie **Neu hinzufügen > Korrekturabzug**.
+1. Ziehen Sie die Dateien per Drag -and-Drop in den Upload-Bereich oder navigieren Sie dorthin. [!DNL Workfront] unterstützt die Kombination von bis zu 50 Dateien.
+1. Aktivieren **unter &quot;** Korrekturabzug“ die Option „Alle kompatiblen Dateien in einem Korrekturabzug kombinieren“.
+1. Geben Sie einen Namen für den kombinierten Korrekturabzug ein. Dies ist erforderlich.
+1. Falls gewünscht, können Sie die Reihenfolge, in der die Dateien kombiniert werden sollen, per Drag-and-Drop in der Upload-Liste ändern.
+1. Fügen Sie Empfängerinnen und Empfänger für Korrekturabzüge hinzu, setzen Sie eine Frist usw.
+1. Klicken Sie auf [!UICONTROL Korrekturabzug erstellen], um den Upload abzuschließen.
 
 ![Ein Bild des Fensters [!UICONTROL Neuer Korrekturabzug], in dem die Liste der hochgeladenen Dateien und der Abschnitt [!UICONTROL Einzelner Korrekturabzug] hervorgehoben wurde.](assets/combine-proofs.png)
 
