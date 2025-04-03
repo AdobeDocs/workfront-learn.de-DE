@@ -12,9 +12,9 @@ jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '348'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ In diesem Video lernen Sie Folgendes:
 >Bei der Verwendung von benutzerbasierten Platzhaltern müssen Sie immer den Filterqualifizierer „Gleich“ verwenden.
 
 
-## „Erstellen von Filtern mit benutzerbasierten Platzhalteraktivitäten“
+## Aktivitäten zum Erstellen von Filtern mit benutzerbasierten Platzhaltern
 
 ### Aktivität 1
 

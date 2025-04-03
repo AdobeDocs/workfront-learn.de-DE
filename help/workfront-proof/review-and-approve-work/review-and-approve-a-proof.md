@@ -12,9 +12,9 @@ jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
 source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '727'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -47,13 +47,13 @@ Wenn Sie bereit sind, mit der Überprüfung zu beginnen, brauchen Sie nur auf di
 
 ### Öffnen eines Korrekturabzugs über die [!UICONTROL Startseite]
 
-Wenn Sie in [!DNL Workfront] arbeiten und gebeten wurden, einen Korrekturabzug zu genehmigen, finden Sie einen Arbeitsauftrag im Widget [!UICONTROL Meine Genehmigungen] von [!DNL Workfront][!UICONTROL Startseite].
+Wenn Sie in [!DNL Workfront] arbeiten und aufgefordert wurden, einen Korrekturabzug zu genehmigen, finden Sie dazu einen Arbeitsauftrag im Widget [!UICONTROL Meine Genehmigungen] auf der [!DNL Workfront]-[!UICONTROL Startseite].
 
-![Ein Bild des Widgets [!UICONTROL Meine Genehmigungen] in [!DNL Workfront] [!UICONTROL Startseite].](assets/open-proof-from-home.png)
+![Ein Bild des Widgets [!UICONTROL Meine Genehmigungen] auf der [!DNL Workfront]-[!UICONTROL Startseite].](assets/open-proof-from-home.png)
 
-Bitte beachten Sie, dass Korrekturabzüge nur dann auf der [!DNL Workfront] [!UICONTROL Startseite] angezeigt werden, wenn Sie für die Genehmigung zuständig sind. Wenn Sie gerade aufgefordert wurden, nur den Korrekturabzug zu überprüfen, wird er nicht in [!DNL Workfront]Startseite[!UICONTROL  angezeigt].
+Bitte beachten Sie, dass Korrekturabzüge nur dann auf der [!DNL Workfront] [!UICONTROL Startseite] angezeigt werden, wenn Sie für die Genehmigung zuständig sind. Wenn Sie gerade erst aufgefordert wurden, nur den Korrekturabzug zu überprüfen, wird er nicht auf der [!DNL Workfront]-[!UICONTROL Startseite] angezeigt.
 
-Klicken Sie auf den [!UICONTROL Zum Korrekturabzug gehen], um ihn in der Korrekturabzugsansicht zu öffnen.
+Klicken Sie auf den Link [!UICONTROL Korrekturabzug öffnen], um ihn im Proofing-Viewer zu öffnen.
 
 Je nach den Korrektur- und Projekt-Workflows in Ihrem Unternehmen sehen Sie auf der [!DNL Workfront] [!UICONTROL Startseite] möglicherweise eine Aufgabenzuweisung anstelle einer Korrekturabzugs-Genehmigungsanfrage. Öffnen Sie in diesem Fall den Korrekturabzug über den Abschnitt [!UICONTROL Dokumente] der Aufgabe selbst (Anweisungen siehe unten).
 

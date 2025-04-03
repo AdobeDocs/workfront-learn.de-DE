@@ -12,9 +12,9 @@ jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ In diesem Video werden Sie:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
-## Aktivitäten von „Integrierte Aufgabenfilter“
+## Aktivitäten: Grundlegendes zu integrierten Aufgabenfiltern
 
 
 ### Aktivität: Einen Aufgabenbericht erstellen
