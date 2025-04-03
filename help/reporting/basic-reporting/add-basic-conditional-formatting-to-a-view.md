@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '464'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -43,7 +43,7 @@ So erstellen Sie eine bedingte Formatierung:
    * Ersatztext
    * Symbol anzeigen
 
-## Aktivitäten vom Typ „Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht“
+## Aktivitäten zum Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht
 
 ### Aktivität 1: Hinzufügen einer grundlegenden Formatierung zu einer Ansicht
 

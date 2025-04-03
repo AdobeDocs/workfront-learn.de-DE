@@ -15,7 +15,7 @@ exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ Das Video betont die Bedeutung von Business Cases für genaue Vergleiche und bie
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
 * **Abschließen von Business Cases für faire Vergleiche:** Stellen Sie sicher, dass alle Projekte abgeschlossene und eingereichte Business Cases haben, bevor Sie sie im Portfolio-Optimierungs-Tool vergleichen, um fehlende Daten und ungenaue Auswertungen zu vermeiden. &#x200B;
 * **Projekte nach Status filtern** Verwenden Sie Filter, um sich auf bestimmte Projektstatus zu konzentrieren (z. B. angefordert, genehmigt, aktuell), um Vergleiche zu optimieren und Entscheidungen zu treffen. &#x200B;

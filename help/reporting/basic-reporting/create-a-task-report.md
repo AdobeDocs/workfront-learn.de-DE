@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '925'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Aktivitäten vom Typ „Aufgabenbericht erstellen“
+## Aktivitäten zum Erstellen eines Aufgabenberichts
 
 >[!TIP]
 >

@@ -16,13 +16,13 @@ exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 14%
+ht-degree: 83%
 
 ---
 
 # Suchen und Verwalten von Anfragen
 
-In diesem Video wird beschrieben, wie Sie Anfragen in Workfront finden und verwalten. &#x200B; Es umfasst vier Hauptbereiche:
+In diesem Video wird beschrieben, wie Sie Anfragen in Workfront finden und verwalten. Es umfasst vier Hauptbereiche:
 
 * Workfront – Startseite
 * Anfragebereich
@@ -32,13 +32,13 @@ In diesem Video wird beschrieben, wie Sie Anfragen in Workfront finden und verwa
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Suchen von Anfragen in der Workfront-Startseite** Benutzer können je nach Rolle die Anfragen anzeigen, die ihnen zugewiesen wurden oder die auf ihre Genehmigung warten. &#x200B;
-* **Verwenden von Filtern im Anfragebereich:** Filter wie „Meine Anfragen“ und „Meine geöffneten Anfragen“ ermöglichen es Benutzenden, die von ihnen erstellten Anfragen zu sehen. &#x200B;
-* **Anforderungen verwalten auf der Seite „Teams“:** Benutzer können nicht zugewiesene Teamanfragen sehen und sie sich selbst oder anderen zuweisen, indem sie den Workload Balancer verwenden, um die Zuweisungen von Team-Mitgliedern basierend auf ihrer aktuellen Arbeitslast zu verwalten. &#x200B;
-* **Benutzerdefinierte Berichte und Dashboards:** Benutzerinnen und Benutzer können benutzerdefinierte Berichte erstellen, um Anfragen zu verfolgen, was eine personalisierte Benennung, Filter, Ansichten und Gruppierungen ermöglicht, was die effektive Verwaltung und Priorisierung von Anfragen erleichtert. &#x200B;
-* **Verstehen von „Mein“ in Filtern** Der Begriff „mein“ auf der Startseite bezieht sich auf Probleme, die mir zugewiesen wurden. Der Begriff „my“ im Anfragebereich bezieht sich auf von mir angeforderte Probleme. &#x200B;
+* **Suchen von Anfragen auf der Workfront-Startseite:** Benutzende können je nach Rolle die Anfragen anzeigen, die ihnen zugewiesen wurden oder die auf ihre Genehmigung warten. 
+* **Verwenden von Filtern im Anfragebereich:** Filter wie „Meine Anfragen“ und „Meine geöffneten Anfragen“ ermöglichen es Benutzenden, die von ihnen erstellten Anfragen zu sehen. 
+* **Auf der Teams-Seite Anfragen verwalten:** Benutzende können nicht zugewiesene Team-Anfragen sehen und sie sich selbst oder anderen zuweisen, indem sie mit dem Workload Balancer Zuweisungen von Team-Mitgliedern je nach ihrer aktuellen Arbeitslast verwalten. 
+* **Benutzerdefinierte Berichte und Dashboards:** Benutzende können zur effektiven Verwaltung und Priorisierung von Anfragen benutzerdefinierte Berichte erstellen, um Anfragen zu verfolgen, was eine personalisierte Benennung, Filterung, Ansichten und Gruppierungen ermöglicht. 
+* **Grundlegendes zu „Meine“ in Filtern:** Der Begriff „meine“ auf der Startseite bezieht sich auf Probleme, die mir zugewiesen wurden. Der Begriff „meine“ im Anfragebereich bezieht sich auf von mir angefragte Probleme. 
 
 
 ## Empfohlene Tutorials zu diesem Thema
