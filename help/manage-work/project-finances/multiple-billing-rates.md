@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu mehrfachen Abrechnungstarifen
-description: Erfahren Sie, wie Sie die Abrechnungsrtarife des Systems innerhalb eines Projekts überschreiben.
+description: Anpassen und Verwalten der Abrechnungssätze für Aufgabengebiete auf Projektebene.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,49 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 100%
+source-wordcount: '173'
+ht-degree: 10%
 
 ---
 
+
 # Grundlegendes zu mehrfachen Abrechnungstarifen
 
-Innerhalb von [!DNL Workfront] haben Projekt-Managerinnen und -Manager die Möglichkeit, die Abrechnungstarife des Systems innerhalb eines bestimmten Projekts außer Kraft zu setzen. Früher hatte die Anwendung des neuen Abrechnungstarifs auf das Projekt nicht nur Auswirkungen auf zukünftige Stunden, sondern auch auf bereits im Projekt angemeldete Stunden.
+In diesem Video wird erläutert, wie Sie Abrechnungssätze für Aufgabengebiete innerhalb eines Projekts verwalten und anpassen. &#x200B;Es betont die Flexibilität bei der Festlegung mehrerer Abrechnungssätze für dieselbe Aufgabenstellung und stellt genaue zeitbasierte Anpassungen sicher. &#x200B;
 
-Mit der neuen Funktion von [!DNL Workfront] für mehrere Abrechnungstarife kann die Projektleitung entscheiden, für welchen Zeitraum ein Abrechnungstarif gelten soll. Auf diese Weise können Projekt-Managerinnen und -Manager festlegen, wann dieser Tarif wirksam werden soll, wenn ein Tarif ausgehandelt oder geändert wurde.
 
-## Ändern des Abrechnungstarifs
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
 
-1. Rufen Sie die Landingpage des Projekts auf. Wählen Sie **[!UICONTROL Abrechnungstarife]** im linken Bedienfeld.
+## Die wichtigsten Punkte
 
-   ![Ein Bild der Auswahl der [!UICONTROL Abrechnungstarife] in [!DNL Workfront]](assets/project-finances-1.png)
 
-1. Klicken Sie auf der Registerkarte **[!UICONTROL Abrechnungstarife]** auf die Schaltfläche **[!UICONTROL Abrechnungstarif hinzufügen]**. Wählen Sie **[!UICONTROL Neuer Abrechnungstarif]** aus dem Dropdown-Menü aus.
+* **Standard-Abrechnungssatz:** Der Systemadministrator legt für jedes Aufgabengebiet einen Standard-Abrechnungssatz fest, der jedoch für einzelne Projekte angepasst werden kann. &#x200B;
+* **Flexibilität bei Abrechnungssätzen:** Sie können mehrere Abrechnungssätze für dieselbe Funktion innerhalb eines Projekts erstellen, um maßgeschneiderte Anpassungen zu ermöglichen. &#x200B;
+* **Zeitspezifische Sätze:** Abrechnungssätze können für bestimmte Zeiträume festgelegt werden, indem Start- und Enddaten hinzugefügt werden, um eine genaue Anwendung der Sätze in verschiedenen Phasen des Projekts sicherzustellen. &#x200B;
+* **Einfache Anpassung:** Änderungen an Abrechnungssätzen sind unkompliziert - wählen Sie das Aufgabengebiet aus, geben Sie den neuen Satz ein und speichern Sie die Aktualisierungen direkt auf der Registerkarte „Abrechnungssätze“. &#x200B;
 
-   ![Bild der Auswahl eines [!UICONTROL neuen Abrechnungstarifs] in [!DNL Workfront]](assets/project-finances-2.png)
+## Empfohlene Tutorials zu diesem Thema
 
-1. Das Dialogfeld [!UICONTROL Neuer Abrechnungstarif] wird angezeigt. Wählen Sie in der Dropdown-Liste **[!UICONTROL Aufgabengebiet]** das Aufgabengebiet, auf das der neue Abrechnungstarif angewendet werden soll.
+* [Suchen von Finanzinformationen](/help/manage-work/project-finances/find-financial-information.md)
+* [Finanzen aktualisieren](/help/manage-work/project-finances/update-and-review-finances.md)
+&lt;!—* [Verstehen mehrerer Abrechnungssätze](/help/manage-work/project-finances/multiple-billing-rates.md)—>
 
-   ![Ein Bild der Auswahl von Aufgabengebieten in einem neuen Abrechnungstarif in [!DNL Workfront]](assets/project-finances-3.png)
-
-1. Sobald das Aufgabengebiet ausgewählt ist, erscheinen die Felder [!UICONTROL Standardabrechnungstarif] und [!UICONTROL Abrechnungstarif 1]. Geben Sie den neuen Abrechnungstarif in das Feld [!UICONTROL Abrechnungstarif 1] ein. Wenn dieser Abrechnungstarif für das gesamte Projekt gilt (vergangene, aktuelle und zukünftige protokollierte Stunden), klicken Sie auf die Schaltfläche **[!UICONTROL Speichern]**.
-
-   ![Ein Bild vom Speichern eines neuen Abrechnungstarifs, der für das gesamte Projekt in [!DNL Workfront]](assets/project-finances-5.png) gilt
-
-1. Wenn der neue Abrechnungstarif nur für einen bestimmten Zeitraum gilt, klicken Sie auf die Schaltfläche **[!UICONTROL Abrechnungstarif hinzufügen]**. Die Felder [!UICONTROL Abrechnungstarif 1 Enddatum] und [!UICONTROL Abrechnungstarif 2] erscheinen. Geben Sie das Enddatum für [!UICONTROL Abrechnungstarif 1] ein. Sie können kein Startdatum für [!UICONTROL Abrechnungstarif 1] eingeben, weil das System davon ausgeht, dass er zu Beginn des Projekts begonnen hat.
-
-   ![Ein Bild zur Erstellung eines neuen Abrechnungstarifs, der für einen bestimmten Zeitraum gilt, beginnend mit dem Beginn des Projekts in [!DNL Workfront]](assets/project-finances-6.png)
-
-1. Wenn dies nicht der Fall ist:
-
-   * Geben Sie den Standardabrechnungstarif für [!UICONTROL Abrechnungstarif 1] ein.
-   * Wählen Sie das Enddatum für [!UICONTROL Abrechnungstarif 1] aus ([!UICONTROL Standardabrechnungstarif]).
-   * Das Startdatum für [!UICONTROL Abrechnungstarif 2] wird automatisch auf den folgenden Tag eingestellt, nachdem [!UICONTROL Abrechnungstarif 1] endet.
-   * Geben Sie den gewünschten Abrechnungstarif in den Abschnitt [!UICONTROL Abrechnungstarif 2] ein.
-   * Fügen Sie nach Bedarf weitere Abrechnungstarife hinzu, indem Sie auf die Schaltfläche **[!UICONTROL Tarif hinzufügen]** klicken.
-   * Klicken Sie abschließend auf **[!UICONTROL Speichern]**.
-   * Alle Abrechnungstarife werden in der Registerkarte [!UICONTROL Abrechnungstarife] im Projekt angezeigt.
-
-   ![Ein Bild der Erstellung neuer Abrechnungstarife, die für verschiedene Zeiträume in [!DNL Workfront]](assets/project-finances-7.png) gelten

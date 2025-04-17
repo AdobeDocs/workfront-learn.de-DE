@@ -1,6 +1,6 @@
 ---
-title: Aktualisierung und Überprüfung der Finanzen
-description: Erfahren Sie, wie Sie die Finanzinformationen zu einem Projekt in [!DNL  Workfront]überprüfen können.
+title: Finanzen aktualisieren
+description: Optimieren Sie die Kostennachverfolgung und Abrechnung, indem Sie Sätze definieren, Aufgaben Kosten- und Umsatztypen zuweisen, Ausgaben verwalten und Rechnungsnachweise erstellen. Workfront übernimmt nicht die eigentliche Abrechnung.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,45 +10,58 @@ role: User
 level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 100%
+source-wordcount: '361'
+ht-degree: 3%
 
 ---
 
-# Aktualisierung und Überprüfung der Finanzen
 
-Wenn Ihre Organisation [!DNL Workfront] verwendet, um Finanzinformationen zu einem Projekt zu erfassen, kann die Überprüfung von Ausgaben und die Erstellung von Abrechnungs-Datensätzen Teil des Prozesses zum Abschluss eines Projekts sein.
+# Finanzen aktualisieren
 
->[!NOTE]
->
->Viele [!DNL Workfront]-Kundinnen und -Kunden wickeln ihre Ausgaben und Projektfinanzen in einem Drittsystem anstelle von [!DNL Workfront] ab. Sie haben also möglicherweise unterschiedliche Verfahren oder Richtlinien für die Aktualisierung und Überprüfung von Finanzinformationen vor Abschluss eines Projekts.
+Dieses Video bietet eine detaillierte Anleitung zum Nachverfolgen von Zeit und Kosten sowie zum Erstellen von Rechnungsnachweisen für Client-Projekte. &#x200B; Zu den wichtigsten Punkten gehören:
+
+**Tracking von Zeit und Ausgaben:**
+Verfolgen Sie die Zeit, die mit der Arbeit an einem Projekt verbracht wurde, und die Projektausgaben, um Kunden Rechnungen zu stellen. &#x200B;
+Stellen Sie sicher, dass die Benutzer die Kosten und Abrechnungssätze in ihren Profilen oder Aufgabengebieten festgelegt haben. &#x200B;
+
+**Aufgabeneinrichtung:**
+Weisen Sie den Aufgaben die entsprechenden Kosten- und Umsatztypen zu. &#x200B;
+Zu den Kostentypen gehören stündlich festgelegte Benutzer, stündlich Benutzer (basierend auf Benutzerprofil) und stündlich Funktion (basierend auf dem Aufgabengebiet des Aufgabenbesitzers).
+
+**Kostenverwaltung:**
+Erstellen Sie Ausgaben auf Projektebene über die Registerkarte „Ausgaben“. &#x200B;
+Kosten dem Projekt oder den Aufgaben zuweisen, als fakturierbar oder rückerstattungsfähig markieren. &#x200B;
+
+**Rechnungsnachweise:**
+Erstellen Sie Rechnungsnachweise auf Projektebene, um fakturierbare Elemente (Stunden, Ausgaben, Einnahmen) zu verfolgen. &#x200B;
+Abrechnungsfähige Stunden und Ausgaben zum Rechnungsnachweis hinzufügen.
+Aktualisieren Sie den Status des Rechnungsnachweises und das Fakturierungsdatum nach der Fakturierung von Clients. &#x200B;
+
+**Schlussbemerkungen:**
+Workfront verfolgt fakturierbare Elemente, verarbeitet jedoch nicht die tatsächliche Fakturierung. Die Benutzer müssen ihre eigenen Abrechnungssysteme verwenden. &#x200B;
+
+In diesem Video wird die Bedeutung einer ordnungsgemäßen Einrichtung und Verfolgung hervorgehoben, um die Abrechnungsprozesse für Kunden zu optimieren. &#x200B;
+
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+
+## Die wichtigsten Punkte
 
 
-## Ausgaben
+* **Kosten und Abrechnungssätze einrichten:** Stellen Sie sicher, dass Benutzer oder Aufgabengebiete die Kosten und Abrechnungssätze in ihren Profilen definiert haben, um Projektausgaben genau zu verfolgen. &#x200B;
+* **Aufgaben Kosten- und Umsatztypen zuweisen:** Aufgaben sollten über geeignete Kosten- und Umsatztypen verfügen (z. B. Feststündlich, Benutzer stündlich, Funktion stündlich), um fakturierbare Beträge korrekt zu berechnen. &#x200B;
+* **Projektausgaben verwalten:** Verwenden Sie die Registerkarte „Ausgaben“, um Ausgaben als fakturierbar oder erstattungsfähig zu erstellen und zu kategorisieren, um eine genaue Verfolgung sicherzustellen. &#x200B;
+* **Rechnungsnachweise erstellen und aktualisieren:** Rechnungsnachweise helfen beim Nachverfolgen abrechnungsfähiger Stunden, Ausgaben und Einnahmen. &#x200B; Fügen Sie dem Datensatz Artikel hinzu, aktualisieren Sie den Status und erfassen Sie Rechnungsdaten nach der Rechnungsstellung. &#x200B;
+* **Externe Abrechnungssysteme verwenden:** Workfront verfolgt abrechnungsfähige Posten, verarbeitet aber keine tatsächliche Abrechnung; die Benutzer müssen sich für die Kundenabrechnung auf ihre eigenen Abrechnungssysteme verlassen. &#x200B;
 
-Ausgaben können für einzelne Aufgaben oder das gesamte Projekt erfasst werden. Unabhängig davon, zu welchem Posten die Ausgabe protokolliert wird, können Sie alle Ausgaben im Abschnitt [!UICONTROL Ausgaben] des Projekts anzeigen.
 
-Abschnitt ![[!UICONTROL Ausgaben] eines Projekts](assets/expense-section.png)
+## Empfohlene Tutorials zu diesem Thema
 
-## Abrechnungs-Datensätze
+* [Finanz-Informationen suchen](/help/manage-work/project-finances/find-financial-information.md)
+&lt;!—* [Finanzen aktualisieren](/help/manage-work/project-finances/update-and-review-finances.md)—>
+* [Grundlegendes zu mehrfachen Abrechnungstarifen](/help/manage-work/project-finances/multiple-billing-rates.md)
 
-Rechnungsnachweise werden in [!DNL Workfront] verwendet, um abrechenbare Stunden, abrechenbare Ausgaben, abrechenbare Einnahmen und zusätzliche abrechenbare Beträge in einem einzigen Datensatz und Betrag zusammenzufassen. Oftmals werden diese von [!DNL Workfront] in ein Rechnungs- oder Buchhaltungssystem eines Drittanbieters exportiert.
-
-Sie müssen Zugriff auf die Finanzdaten in [!DNL Workfront] haben, um Abrechnungs-Datensätze erstellen und anzeigen zu können.
-
-## Finanzdetails
-
-Ein Blick auf die [!UICONTROL Finanzinformationen] in den [!UICONTROL Projektdetails] zeigt Ihnen die tatsächlichen Zahlen für Nutzen, Einnahmen und Kosten.
-
-![Abschnitt „Finanzen“ des Fensters [!UICONTROL Projektdetails] für ein Projekt](assets/finance-section-project-details.png)
-
-Die meisten Finanzinformationen in den [!UICONTROL Projektdetails] werden bei der Erstellung des Projekts festgelegt. Die Zahlen, die Sie hier sehen, basieren auf diesen Informationen. Wenn Sie also ein Projekt abschließen, müssen Sie in der Regel nichts mehr in den Finanzdetails aktualisieren oder ergänzen.
-
-<!---
-learn more urls
-Create billing records
-Manage project expenses
-Project finances
---->

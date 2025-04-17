@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
+source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
 workflow-type: tm+mt
-source-wordcount: '2432'
-ht-degree: 97%
+source-wordcount: '2430'
+ht-degree: 94%
 
 ---
 
@@ -11,7 +11,7 @@ ht-degree: 97%
 # Workfront-Tutorials {#tutorials-workfront}
 
 + [Workfront-Tutorials](home.md)
-+ Administration und Setup {#administration-and-setup}
++ Administration und Einrichtung {#administration-and-setup}
    + Organisations-Setup {#organizational-setup}
       + [Erstellen von Teams](/help/administration-and-setup/organizational-setup/user-organization-teams.md)
       + [Erstellen von Gruppen und Untergruppen](/help/administration-and-setup/organizational-setup/user-organization-groups.md)
@@ -21,10 +21,10 @@ ht-degree: 97%
       + [Erstellen und Verwalten von Aufgabengebieten](/help/administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Anmelden als eine andere Benutzerin bzw. ein anderer Benutzer](/help/administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
 
-   + Verwalten von gelöschten Elementen {#manage-deleted-items}
+   + Gelöschte Elemente verwalten {#manage-deleted-items}
       + [Wiederherstellen von Objekten aus dem Papierkorb](/help/administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
-   + Konfigurieren von Systemstandardwerten {#configure-system-defaults}
+   + Systemstandardeinstellungen konfigurieren {#configure-system-defaults}
       + [Erstellen und Verwalten von Objektstatus](/help/administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Grundlegendes zu Standard-Problemtypen](/help/administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Erstellen eines Problemstatus](/help/administration-and-setup/configure-system-defaults/create-an-issue-status.md)
@@ -58,7 +58,7 @@ ht-degree: 97%
       + [Einrichten automatischer Erinnerungen](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
       + [Abonnieren von Arbeitselementen](/help/administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
 
-   + Erstellen und Verwalten von Benutzenden {#create-and-manage-users}
+   + Benutzer erstellen und verwalten {#create-and-manage-users}
       + [Benutzer hinzufügen](/help/administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
       + [Ändern von Benutzerinformationen](/help/administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [Wann und wie Benutzende deaktiviert oder gelöscht werden](/help/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
@@ -102,7 +102,7 @@ ht-degree: 97%
       + [Erstellen eines IF-Textausdrucks](/help/custom-data/calculated-expressions/create-an-if-text-expression.md)
       + [Informationen zu berechneten Feldausdrücken](/help/custom-data/calculated-expressions/things-to-know-about-expressions.md)
 
-+ Verwalten von Arbeit {#manage-work}
++ Arbeit verwalten {#manage-work}
    + Projekte {#projects}
       + [Grundlegendes zur Projekterstellung](/help/manage-work/projects/understand-basic-project-creation.md)
       + [Navigieren der Projektseite](/help/manage-work/projects/navigate-the-project-page.md)
@@ -183,8 +183,8 @@ ht-degree: 97%
       + [Aufzeichnen und Überprüfen der Stunden](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + Projektfinanzierung für Benutzende {#project-finances-users}
-      + [Aktualisierung und Überprüfung der Finanzen](/help/manage-work/project-finances/update-and-review-finances.md)
       + [Suchen von Finanzinformationen](/help/manage-work/project-finances/find-financial-information.md)
+      + [Finanzen aktualisieren](/help/manage-work/project-finances/update-and-review-finances.md)
       + [Grundlegendes zu mehrfachen Abrechnungstarifen](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + Zwischenprojekte {#intermediate-projects}
@@ -193,8 +193,8 @@ ht-degree: 97%
       + [Erweiterte Vorgänger](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ Berichterstellung {#reporting}
-   + Einfache Berichte {#basic-reporting}
++ Bericht- erstellung {#reporting}
+   + Grundlegende Berichterstellung {#basic-reporting}
       + [Grundlegendes zu Reporting-Elementen](/help/reporting/basic-reporting/reporting-elements.md)
       + [Grundlegendes zu Reporting-Komponenten](/help/reporting/basic-reporting/reporting-components.md)
       + [Erstellen einer einfachen Gruppierung](/help/reporting/basic-reporting/create-a-basic-grouping.md)
@@ -212,7 +212,7 @@ ht-degree: 97%
       + [Senden und Freigeben von Berichten](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [Grundlegendes zu Berichtseinstellungen](/help/reporting/basic-reporting/report-settings.md)
 
-   + Zwischenberichterstellung {#intermediate-reporting}
+   + Zwischenberichterstattung {#intermediate-reporting}
       + [Erstellen von Filtern mit benutzerbasierten Platzhaltern](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [Erstellen von Filtern mit datumsbasierten Platzhaltern](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [Erstellen von OR-Anweisungen in Filtern](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
@@ -236,7 +236,7 @@ ht-degree: 97%
       + [Informationen zu den zusätzlichen Optionen für Kalenderberichte](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Sie sind an der Reihe, einen Kalenderbericht zu erstellen](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Erweiterte Analytics-{#enhanced-analytics}
+   + Erweiterte Analyse {#enhanced-analytics}
       + [Ein Moment mit Produkt über [!UICONTROL erweiterte Analyse]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Erste Schritte mit der [!UICONTROL erweiterten Analyse]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Zugriff auf die [!UICONTROL erweiterte Analyse]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
@@ -260,13 +260,13 @@ ht-degree: 97%
       + [Grundlegendes zur Beratung](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
 
 + Verwalten von Ressourcen {#manage-resources}
-   + Ressourcen-Management {#resource-management}
+   + Ressourcenverwaltung {#resource-management}
       + [Reifegrad des Ressouren-Managements](/help/manage-resources/resource-management/resource-management-maturity.md)
       + [Einstellungen des Ressourcen-Managements für Projekte](/help/manage-resources/resource-management/settings-for-projects.md)
       + [Ressourcen-Management-Einstellungen für Benutzende](/help/manage-resources/resource-management/settings-for-users.md)
       + [Setups des Ressourcen-Managements, Workload Balancer und Nutzungsbericht](/help/manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
-   + Workload-Balancer {#workload-balancer}
+   + Workload Balancer {#workload-balancer}
       + [Suchen des Workload Balancer](/help/manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [Filtern des Workload Balancer](/help/manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Anzeigen von Benutzerzuweisungen im Workload Balancer](/help/manage-resources/workload-balancer/view-user-allocations.md)
@@ -281,7 +281,7 @@ ht-degree: 97%
       + [Anzeigen nach Aufgabengebiet](/help/manage-resources/resource-planning/view-by-job-role/view-by-job-role.md)
       + [Anzeigen nach Projekt](/help/manage-resources/resource-planning/view-by-project/view-by-project.md)
 
-   + Kalender für persönliche Ausfallzeiten {#personal-time-off-calendar}
+   + Persönlicher Urlaubskalender {#personal-time-off-calendar}
       + [Warum sollten Sie den Kalender für Ausfallzeiten benutzen?](/help/manage-resources/pto/why-use-time-off-calendar.md)
       + [Wie sich Ausfallzeiten auf Projektzeitleisten auswirken](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Verwalten der Ausfallzeiten anderer Benutzender](/help/manage-resources/pto/manage-other-users-time-off.md)
@@ -299,7 +299,7 @@ ht-degree: 97%
       + [Veröffentlichen eines Szenarios](/help/manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Workfront-Ziele {#workfront-goals}
-   + Erstellen einer Vision für Ihre Organisation {#establish-a-vision-and-strategy}
+   + Eine Vision für Ihre Organisation erstellen {#establish-a-vision-and-strategy}
       + [Grundlegendes zur Funktionsweise von Workfront-Zielen](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [Verstehen, wie Workfront-Ziele in Ihren Arbeitszyklus passen](/help/workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [Erstellen einer Vision und Strategie für Ihre Organisation](/help/workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
@@ -307,31 +307,31 @@ ht-degree: 97%
       + [Zusammenarbeit an Unternehmens- und Organisationszielen](/help/workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [Abstimmen von Gruppen und Teams auf die Strategie](/help/workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
-   + Erstellen Ihrer Ziele {#create-goals}
+   + Ziele erstellen {#create-goals}
       + [[!UICONTROL Workfront-Ziele] – Übersicht](/help/workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [Einrichten von [!UICONTROL Workfront-Zielen] für Ihre Organisation](/help/workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [Gewähren von Zugriff auf Ziele für ausgewählte Benutzende](/help/workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [Erstellen einer Layout-Vorlage für Benutzende von [!UICONTROL Workfront-Zielen]](/help/workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [Erstellen von Zielen](/help/workfront-goals/create-your-goals/create-goals-in-workfront.md)
 
-   + Aktivieren Ihrer Ziele {#activate-goals}
+   + Ziele aktivieren {#activate-goals}
       + [Aktivieren von Zielen](/help/workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [Aktivieren durch Ausrichtung eines Ziels an einem anderen](/help/workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Hinzufügen eines Ergebnisses zu einem Ziel](/help/workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
       + [Hinzufügen einer Aktivität und eines Projekts zu einem Ziel](/help/workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
 
-   + Verwalten Ihrer Ziele {#manage-goals}
+   + Ziele verwalten {#manage-goals}
       + [Ausrichten Ihrer Ziele](/help/workfront-goals/manage-your-goals/align-your-goals.md)
       + [Entfernen der Zielausrichtung](/help/workfront-goals/manage-your-goals/remove-goal-alignment.md)
       + [Aktualisieren des Fortschritts der Ergebnisse und Aktivitäten](/help/workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [Schließen eines Ziels nach Abschluss](/help/workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
 
-   + Überwachen Ihrer Ziele {#monitor-goals}
+   + Ziele überwachen {#monitor-goals}
       + [Grundlegendes zum Abschnitt „Diagramme“](/help/workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
       + [Berechnen des Zielfortschritts](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Kommunizieren des Zielstatus](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
-+ Workfront-{#workfront-planning}
++ Workfront Planning {#workfront-planning}
    + [Planung zu Ihrer Instanz hinzufügen](/help/workfront-planning/add-planning-to-your-instance.md)
    + [Arbeitsbereich erstellen](/help/workfront-planning/create-a-workspace.md)
    + [Datensatztyp erstellen und verwalten](/help/workfront-planning/create-and-manage-a-record-type.md)
@@ -353,7 +353,7 @@ ht-degree: 97%
       + [Verbessern des Arbeitsablaufs mit der G Suite-Integration](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Schaffen von Sichtbarkeit mit der  [!DNL Jira] -Integration](/help/integrations/jira/jira.md)
+      + [Schaffen von Sichtbarkeit durch die  [!DNL Jira] -Integration](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installieren des Microsoft Outlook-Add-ins](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -375,7 +375,7 @@ ht-degree: 97%
       + [Vornehmen von Genehmigungen über [!UICONTROL Slack]](/help/integrations/slack/make-approvals-through-slack.md)
       + [Durchsuchen von Workfront über [!UICONTROL Slack]](/help/integrations/slack/search-workfront-through-slack.md)
 
-+ Fusion {#fusion}
++ Verschmelzung {#fusion}
    + Willkommen bei Workfront Fusion {#welcome-to-workfront-fusion}
       + [Einführung und Technologiestrategie](/help/fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [Anmelden als eine neue Benutzerin bzw. ein neuer Benutzer](/help/fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
@@ -383,7 +383,7 @@ ht-degree: 97%
       + [Einrichten der Übungsdateien für Workfront Fusion](/help/fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
       + [Hauptkonzepte](/help/fusion/1-welcome-to-workfront-fusion/core-concepts.md)
 
-   + Verstehen der Grundlagen {#understand-the-basics}
+   + Grundlagen {#understand-the-basics}
       + [Anleitung zum anfänglichen Szenario-Design](/help/fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
       + [Übung zu ursprünglichem Szenario-Design](/help/fusion/12-exercises/initial-scenario-design.md)
       + [Zuordnungsfenster und Formeleditor](/help/fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
@@ -466,11 +466,11 @@ ht-degree: 97%
       + [Informationen zu unvollständigen Ausführungen](/help/fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
       + [Exemplarische Vorgehensweise zu unvollständigen Ausführungen](/help/fusion/9-troubleshooting-and-error-handling/incomplete-executions-walkthrough.md)
 
-   + Workfront Fusion-Administration {#workfront-fusion-administration}
+   + Administration von Workfront Fusion {#workfront-fusion-administration}
       + [Informationen zu Organisations-Teams und Benutzenden](/help/fusion/10-workfront-fusion-administration/understand-organizations-teams-and-users.md)
       + [Anleitung für die Verwaltung](/help/fusion/10-workfront-fusion-administration/administration-walkthrough.md)
 
-   + Design-Optimierung und -Tests {#design-optimization-and-testing}
+   + Design-Optimierung und Tests {#design-optimization-and-testing}
       + [Definieren verschiedener Anwendungsfälle und Suche nach dem besten Ansatz](/help/fusion/11-design-optimization-and-testing/define-distinct-use-cases-and-find-the-best-approach.md)
       + [Szenario-Optimierung in Workfront Fusion](/help/fusion/11-design-optimization-and-testing/workfront-fusion-scenario-optimization.md)
       + [Zugänglichkeit und Klarheit](/help/fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
@@ -495,7 +495,7 @@ ht-degree: 97%
       + [Einrichten der Standardeinstellungen für ein Korrekturabzugskonto](/help/workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [Einstellungen für Korrekturabzugsbenutzende](/help/workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
-   + Korrekturabzüge hochladen {#upload-proofs}
+   + Hochladen von Testsendungen {#upload-proofs}
       + [Was eine Korrekturabzugsversion bedeutet](/help/workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [Wer die Korrekturabzugsversionen hochlädt](/help/workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Umwandeln eines Dokuments in einen Korrekturabzug](/help/workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
@@ -509,14 +509,14 @@ ht-degree: 97%
       + [Hochladen per Drag-and-Drop](/help/workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
       + [Kombinieren mehrerer Dateien zu einem einzigen Korrekturabzug](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
-   + Korrekturabzug-Workflows {#proof-workflows}
+   + Korrekturabzugs-Workflows {#proof-workflows}
       + [Grundlegendes zu Korrekturabzug-Workflows als Teil von Projektzeitleisten](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [Bearbeiten eines Korrekturabzug-Workflows](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [Erstellen von Vorlagengruppen, um automatisierte Workflow-Vorlagen zu organisieren](/help/workfront-proof/administration-and-setup/create-template-groups.md)
       + [Erstellen einer automatisierten Workflow-Vorlage](/help/workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [Bearbeiten einer automatisierten Workflow-Vorlage](/help/workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
 
-   + Überprüfen und Genehmigen von Arbeiten {#review-and-approve-work-for-proof}
+   + Arbeit überprüfen und genehmigen {#review-and-approve-work-for-proof}
       + [Navigieren im Korrekturabzugs-Viewer](/help/workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
       + [Überprüfen und Genehmigen eines Korrekturabzugs](/help/workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
       + [Überprüfen und Beantworten von Korrekturabzugskommentaren](/help/workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
@@ -527,7 +527,7 @@ ht-degree: 97%
       + [Verfolgen des Korrekturabzugfortschritts](/help/workfront-proof/review-and-approve-work/track-proof-progress.md)
 
 + Workfront DAM {#workfront-dam-program}
-   + Systemeinrichtung {#system-setup}
+   + System-Setup {#system-setup}
       + [Grundlegendes zu  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Grundlegendes zu Systemeinstellungen](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Grundlegendes zu [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
@@ -536,7 +536,7 @@ ht-degree: 97%
       + [Konfigurieren der Integration in Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Anpassen [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
-   + Metadaten und Schlüsselwörter {#metadata-and-keywords}
+   + Metadaten und Keywords {#metadata-and-keywords}
       + [Metadaten verstehen](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
       + [Aktivieren und Durchsetzen der Schlüsselwort-Taxonomie](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
       + [Überprüfen der Metadatenterminologie](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
@@ -554,7 +554,7 @@ ht-degree: 97%
       + [Anpassen der Darstellung von [!UICONTROL Brand Connect]](/help/workfront-dam/brand-connect-customization/customize-the-appearance-of-brand-connect.md)
       + [Anpassen des Looks von [!UICONTROL Brand Connect]](/help/workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
 
-   + Workfront DAM-Benutzer: Mitwirkende {#workfront-dam-contributor}
+   + Workfront DAM-Benutzende: Mitwirkende {#workfront-dam-contributor}
       + [Grundlegendes zu [!UICONTROL Workfront DAM] als Mitwirkende](/help/workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
       + [Grundlegendes zur Asset-Verwaltung als Mitwirkende](/help/workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Grundlegendes zur Asset-Suche als Mitwirkende](/help/workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
@@ -589,7 +589,7 @@ ht-degree: 97%
 
 + Agile {#agile}
 
-   + Einführung in Agile Work Management {#intro-to-agile}
+   + Einführung in das agile Arbeits-Management {#intro-to-agile}
       + [Vorteile der Verwendung von agilem Vorgehen](/help/agile/benefits-of-using-agile.md)
       + [Was ist die Scrum-Methode und wie funktioniert sie?](/help/agile/what-is-the-scrum-methodology.md)
       + [Was ist die Kanban-Methode und wie funktioniert sie?](/help/agile/what-is-the-kanban-methodology.md)
