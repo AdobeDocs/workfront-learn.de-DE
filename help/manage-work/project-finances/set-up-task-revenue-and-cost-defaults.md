@@ -1,6 +1,6 @@
 ---
 title: Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben
-description: Erfahren Sie, wie die Umsatz- und Kostenarten verwendet werden, um die Plan- und Ist-Finanzinformationen für eine Aufgabe zu berechnen.
+description: Erfahren Sie, wo die Umsatztypen und Kostentypen verwendet werden und wie Sie die Systemstandardwerte einrichten.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,43 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 16%
 
 ---
 
+
 # Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben
 
-Die Umsatzart und die Kostenart werden zur Berechnung der Plan- und Ist-Finanzinformationen für eine Aufgabe verwendet. Standardinformationen für jede dieser Aufgaben können systemweit festgelegt werden, sodass sie für jede neu erstellte Aufgabe gelten. Die Informationen können für einzelne Projekte geändert oder in Projektvorlagen festgelegt werden.
+Erfahren Sie, wo die Umsatztypen und Kostentypen verwendet werden und wie Sie die Systemstandardwerte einrichten.
 
-**Es stehen fünf Standardumsatzarten zur Verfügung:**
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
 
-* Nicht fakturierbar
-* Benutzer pro Stunde
-* Stundensatz nach Funktion
-* Festgelegt pro Stunde
-* Festeinnahmen
+## Die wichtigsten Punkte
 
-**Und es stehen vier Standardkostenarten zur Verfügung:**
+* **Anzeigen von Kosten- und Umsatzdaten:** Auf Kosten- und Umsatzdetails für Aufgaben kann durch Öffnen der Aufgabe, Auswählen von Aufgabendetails und Scrollen zum Abschnitt „Finanzen“ zugegriffen werden. &#x200B;
+* **Standardwerte für Aufgaben festlegen** Systemadministratoren können Standardkosten und -umsatztypen für Projektmanager festlegen, indem sie zu „Setup > Projektvoreinstellungen > Aufgaben und Probleme“ navigieren. &#x200B;
+* **Standard für allgemeinen Umsatztyp:** „Funktion ‚Stündlich‘&quot; ist ein typischer Standard für den Umsatztyp, sodass protokollierte Zeit als potenziell fakturierbar erfasst werden kann, wenn der Benutzer ein Aufgabengebiet mit einer Umsatzrate hat. &#x200B;
+* **Auswirkungen der Einstellungen für den Umsatz:** Wenn der Umsatztyp auf „Nicht fakturierbar“ eingestellt ist, wird für die Aufgabe kein Umsatz erfasst. &#x200B;
+* **Standardkostenart:** wird häufig „Benutzer pro Stunde“ als Standardkostenart verwendet, wobei zur effizienten Nachverfolgung Kostendaten direkt aus dem Benutzerprofil abgerufen werden. &#x200B;
 
-* Keine Kosten
-* Festgelegt pro Stunde
-* Benutzer pro Stunde
-* Stundensatz nach Funktion
 
->[!NOTE]
->
->Wenn die Umsatz- oder Kostenarten auf „Nicht fakturierbar“ bzw. „Keine Kosten“ eingestellt sind, werden keine Umsatz- und Kostenschätzungen für die Aufgabe erstellt. Daher trägt die Arbeit an der Aufgabe nicht zu den Einnahmen oder Kosten auf Projektebene bei.
+## Empfohlene Tutorials zu diesem Thema
 
-## Festlegen von Standardwerten für Umsatz und Kosten
-
-Wählen Sie im Hauptmenü **[!UICONTROL Einrichtung]**.
-
-1. Klicken Sie auf **[!UICONTROL Projektvoreinstellungen]** im Menü im linken Bereich.
-1. Klicken Sie dann auf **[!UICONTROL Aufgaben und Probleme]**.
-1. Wählen Sie im Abschnitt [!UICONTROL Voreinstellungen für neue Aufgabe] die gewünschte [!UICONTROL Umsatzart] und [!UICONTROL Kostenart] aus.
-1. Klicken Sie anschließend auf „Speichern“.
-
-![Ein Bild zur Einrichtung der Standardwerte für Umsatz und Kosten](assets/setting-up-finances-3.png)
+* [Verstehen von Leistungsmetriken](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Informationen zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)

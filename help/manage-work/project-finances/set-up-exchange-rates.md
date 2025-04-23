@@ -1,6 +1,6 @@
 ---
 title: Einrichten von Wechselkursen
-description: Lernen Sie, wie man in Projekten und Berichten Wechselkurse verwendet, um Finanzinformationen in verschiedenen Währungen aus aller Welt darzustellen.
+description: Passen Sie Währungseinstellungen mit flexibler Wechselkursverwaltung, globaler Anpassung und manuellen Eingabemöglichkeiten für eine genaue Finanzverfolgung an.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,37 +10,34 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '277'
+ht-degree: 11%
 
 ---
 
 # Einrichten von Wechselkursen
 
-[!DNL Workfront] unterstützt verschiedene Währungen für Kundenorganisationen, die multinationale Unternehmen sind. Wechselkurse können in Projekten und Berichten verwendet werden, um Finanzinformationen in verschiedenen Währungen aus aller Welt darzustellen.
+Das Video enthält eine Anleitung zum Verwalten von Währungen im Finanzverfolgungssystem von Workfront. &#x200B; Dort wird erklärt, dass die Standardwährung der US-Dollar ist, aber zusätzliche Währungen können global oder für einzelne Projekte und Aufgabengebiete eingerichtet werden.
+Das Video betont, dass das System keine aktuellen Wechselkurse bereitstellt, sodass die Benutzer sie extern beziehen müssen. &#x200B; Nach der Festlegung werden die Wechselkurse zum Standard für Projekte oder Aufgabengebiete, werden aber nicht automatisch aktualisiert. Benutzer mit entsprechenden Berechtigungen müssen sie manuell aktualisieren. &#x200B; Nach der Einrichtung der Währungen können Benutzer neue Projekte erstellen und aus den verfügbaren Währungsoptionen auswählen, wobei die Wechselkurse für einzelne Projekte angepasst werden können. &#x200B;
 
-Die Wechselkurse werden von den Systemadmins verwaltet. Weitere Währungen können nach Bedarf für Ihr Unternehmen eingerichtet werden.
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
 
-Die Standardwährung von Workfront ist der amerikanische Dollar. Dies ist die Währung, in der Finanzinformationen standardmäßig berechnet werden. Dieser Standard kann global sowie für einzelne Projekte geändert werden.
+## Die wichtigsten Punkte
 
-## Einrichten von Währungen und Wechselkursen
+* **Standardwährung:** Die Standardwährung des Systems ist der US-Dollar, aber dies kann global oder für einzelne Projekte und Aufgabengebiete geändert werden. &#x200B;
+* **Währungen hinzufügen** Im Setup-Bereich können zusätzliche Währungen zusammen mit den Wechselkursen eingerichtet werden. &#x200B;
+* **Manuelle Wechselkursaktualisierungen:** Das System gibt keine aktuellen Wechselkurse an. Die Benutzer müssen sie extern beziehen und manuell eingeben. &#x200B;
+* **Projektspezifische Anpassung:** im Einrichtungsbereich festgelegten Wechselkurse werden als Standardwerte verwendet, Benutzende können jedoch die Wechselkurse für einzelne Projekte anpassen. &#x200B;
+* **Aktualisierungen und Berechtigungen:** Änderungen im Bereich „Setup“ aktualisieren nicht automatisch vorhandene Projekte. Die Aktualisierung von Wechselkursen für Projekte oder Aufgabengebiete erfordert entsprechende Benutzerberechtigungen.
 
-![Ein Bild zur Auswahl von Wechselkursen](assets/setting-up-finances-4.png)
+## Empfohlene Tutorials zu diesem Thema
 
-**Wählen Sie [!UICONTROL Setup] im Hauptmenü.**
-
-1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
-1. Klicken Sie auf **[!UICONTROL Wechselkurse]**.
-1. Klicken Sie dann auf die Schaltfläche **[!UICONTROL Währung hinzufügen]**.
-1. Wählen Sie die Landeswährung aus der Dropdown-Liste aus.
-1. Geben Sie den gewünschten Wechselkurs für die Währung ein.
-1. Wenn eine andere Währung als der US-Dollar die Basiswährung (Standardwährung) des [!DNL Workfront]-Systems sein soll, klicken Sie auf die Schaltfläche neben dem Währungsnamen.
-1. Klicken Sie auf **[!UICONTROL Speichern]**, nachdem Sie alle Währungen hinzugefügt haben.
-
-![Ein Bild vom Hinzufügen einer Währung zur Liste der Wechselkurse](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront aktualisiert oder verfolgt die aktuellen Marktwerte für Wechselkurse nicht. Aktualisierungen müssen, falls nötig, manuell vorgenommen werden.
+* [Verstehen von Leistungsmetriken](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Informationen zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)

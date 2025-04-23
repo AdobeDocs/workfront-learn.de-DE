@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Richten Sie Ihre [!DNL  Workfront]-Projekte mithilfe einer Projektvorlage schnel
 
 Sobald alles eingestellt ist, ändern Sie den Projektstatus in „Aktuell“, um das Projekt live zu schalten. Während das Projekt voranschreitet, sollten Sie den Überblick über die geleistete Arbeit, auftretende Probleme, zu beantwortende Fragen und vieles mehr behalten. Denken Sie einfach daran: Sie können alle diese Informationen in [!DNL Workfront]finden und verwalten.
 
-<!---
+<!--
 footer urls for the LP
 Plan a project 
 Edit projects
@@ -39,4 +39,4 @@ Task duration and duration types
 Use task predecessors 
 Modify multiple user assignments in a task list
 Notifications: Information about work assigned to me 
---->
+-->

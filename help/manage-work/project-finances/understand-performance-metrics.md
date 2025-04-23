@@ -1,6 +1,6 @@
 ---
 title: Verstehen von Leistungsmetriken
-description: Erfahren Sie, wie Sie die Leistungsmetriken verwenden – die [!UICONTROL Performance-Index-Methode] ([!UICONTROL PIM]) und [!UICONTROL Schätzung bei Abschluss] ([!UICONTROL EAC]).
+description: Entdecken Sie anpassbare Finanzleistungsmetriken mit flexiblen Berechnungsmethoden, globalen Standardwerten und Überschreibungen auf Projektebene, die es Administratoren und Projektmanagern ermöglichen, Finanzmetriken effektiv an Projektanforderungen anzupassen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,56 +10,47 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 100%
+source-wordcount: '421'
+ht-degree: 7%
 
 ---
 
 # Verstehen von Leistungsmetriken
 
-Zu den zwei Leistungsmetriken, die von Projekt-Managerinnen und -Managern verwendet werden, gehören die [!UICONTROL Performance-Index-Methode] ([!UICONTROL PIM]) und die [!UICONTROL Schätzung bei Abschluss] ([!UICONTROL EAC]). Systemweite Standardwerte können in [!DNL Workfront] festgelegt werden und gelten für neu erstellte Projekte. Die [!UICONTROL PIM] kann dann für einzelne Projekte geändert werden.
+In diesem Video werden Metriken zur finanziellen Leistung und Einstellungen für das Projekt-Management erläutert. &#x200B; Zu den wichtigsten Punkten gehören:
 
-**[!UICONTROL PIM]**
+**Übersicht über Leistungsmetriken:** Metriken wie Kostenentwicklungsindex, Zeitplan-Leistungsindex, Kostenentwicklungsindex und geschätzter Abschluss sind auf der Registerkarte „Projektdetails“ im Abschnitt „Finanzen“ verfügbar. &#x200B; Die Dokumentation für Berechnungen ist über Info-Bubble-Links zugänglich.
 
-Die Einstellungen für die [!UICONTROL PIM] steuern, wie [!DNL Workfront] andere Projektleistungsmetriken berechnet werden wie [!UICONTROL Kosten-Performance-Index] ([!UICONTROL CPI]), [!UICONTROL Kostenplan-Performance-Index] ([!UICONTROL CSI]), [!UICONTROL -Zeitplan-Performance-Index] ([!UICONTROL SPI]) und [!UICONTROL Schätzung bei Abschluss] ([!UICONTROL EAC]).
+**Performance-Index-Methode (PIM):** Der Projekt-Manager kann die Methode zur Berechnung des Cost Performance Index (CPI) und Schätzung bei Abschluss (EAC) entweder stundenbasiert (Abschluss in Stunden) oder kostenbasiert (Abschluss in Geld) auswählen. &#x200B; Systemadministratoren können die Standardmethode global festlegen, Projektmanager können sie jedoch für einzelne Projekte anpassen. &#x200B;
 
-Optionen für die [!UICONTROL PIM] sind stundenbasiert und kostenbasiert.
+**Estimate at Completion (EAC)-Berechnung:** Systemadministratoren können die Standardberechnungsmethode global festlegen, mit zwei Optionen:
+* **Datenaggregation aus Vorgängen/Teilvorgängen:** Addiert die geschätzte Anzahl abgeschlossener Vorgänge aus untergeordneten Vorgängen, aber ohne Stunden, die direkt übergeordneten Vorgängen oder der Projektebene hinzugefügt wurden. &#x200B;
+* **Auf Projektebene berechnet:** Beinhaltet Werte für „Schätzung bei Abschluss“ aus untergeordneten Aufgaben und Stunden, die direkt übergeordneten Aufgaben oder der Projektebene hinzugefügt werden. Dies ist die empfohlene Standardeinstellung. &#x200B;
 
-* **Stundenbasiert** – Workfront verwendet die geplanten Arbeitsstunden zur Berechnung des CPI und der EAC des Projekts. Die EAC des Projekts wird als Zahl in Stunden angezeigt.
-* **Kostenbasiert** – Workfront verwendet die geplanten Arbeitskosten zur Berechnung des CPI und der EAC des Projekts. EAC wird als Währungswert angezeigt. Stellen Sie bei Verwendung dieser Option sicher, dass Personen, die Aufgaben zugewiesen wurden (Benutzende und/oder Aufgabengebiete), Kostensätzen zugeordnet sind.
+Das Video hebt die Flexibilität und Kontrolle hervor, die Systemadministratoren und Projektmanagern bei der Verwaltung von Leistungsmetriken und Berechnungen zur Verfügung steht. &#x200B;
 
-**[!UICONTROL EAC]**
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
 
-[!UICONTROL EAC] stellt die voraussichtlichen Gesamtkosten Ihrer Aufgabe oder des Projekts nach Abschluss dar. Optionen werden auf Projektebene berechnet und von Aufgaben/Unteraufgaben hochgerechnet.
+## Die wichtigsten Punkte
 
-* **Auf Projektebene berechnen** – [!UICONTROL EAC] für die übergeordnete Aufgabe und das Projekt werden anhand der tatsächlichen Stunden bzw. tatsächlichen Arbeitskosten in [!UICONTROL EAC]-Formeln bestimmt. Die Berechnung umfasst die tatsächlichen Stunden/Kosten und Ausgaben, die direkt zur übergeordneten Aufgabe oder zum übergeordneten Projekt hinzugefügt werden.
-* **Aggregation von Aufgaben/Unteraufgaben** – Die [!UICONTROL EAC] für die übergeordnete Aufgabe und das übergeordnete Projekt wird durch Addieren der [!UICONTROL EAC] für jede untergeordnete Aufgabe ermittelt. Diese Berechnung schließt tatsächliche Stunden/Kosten aus, die direkt zu einer übergeordneten Aufgabe oder einem übergeordneten Projekt hinzugefügt werden.
 
-Die [!UICONTROL EAC]-Berechnungen werden in der Liste [Berechnen der Schätzung bei Abschluss (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=de) aufgeführt.
+* **Zugriff auf Leistungsmetriken:** Schlüsselmetriken wie Kostenentwicklungsindex (Cost Performance Index, CPI), Zeitplan-Leistungsindex (Schedule Performance Index, SPI) und Schätzung bei Abschluss (EAC) finden Sie auf der Registerkarte „Projektdetails“ im Abschnitt „Finanzen“. Die Dokumentation ist über Info-Bubble-Links verfügbar. &#x200B;
+* **Leistungsindexmethode:** Projektmanager können für die Berechnung von Metriken zwischen stundenbasierten und kostenbasierten Methoden wählen, während Systemadministratoren einen globalen Standard festlegen können.
+* **Optionen zur Schätzung bei Abschluss der Berechnung:** Zwei Methoden stehen zur Verfügung:
+   * Datenaggregation aus Aufgaben/Teilaufgaben (ohne Stunden, die direkt übergeordneten Aufgaben oder Projektebenen hinzugefügt werden). &#x200B;
+   * Auf Projektebene berechnet (umfasst Stunden, die direkt übergeordneten Aufgaben oder Projektebene hinzugefügt werden). Letzteres wird empfohlen. &#x200B;
+* **Globale und nicht projektbezogene Einstellungen:** Systemadministratoren können globale Standardwerte für die Leistungsindexmethode und die Schätzung bei Abschlussberechnungen festlegen, Projektmanager können jedoch die Einstellung der Leistungsindexmethode für einzelne Projekte überschreiben. &#x200B;
+* **Flexibilität bei der Verwaltung von Metriken:** Das System bietet sowohl Administratoren als auch Projektmanagern Tools, mit denen sie Leistungsmetriken effektiv anpassen und verwalten und so die Anpassungsfähigkeit an projektspezifische Anforderungen sicherstellen können.
 
-**Leistungsmetriken: Einstellungen**
+## Empfohlene Tutorials zu diesem Thema
 
-So werden Systemstandardwerte für [!UICONTROL PIM] und [!UICONTROL EAC] festgelegt:
-
-1. Wählen Sie **[!UICONTROL Setup]** aus dem Hauptmenü aus.
-1. Klicken Sie im Menü des linken Bedienfelds auf **[!UICONTROL Projektvoreinstellungen]** und dann auf **[!UICONTROL Projekte]**
-1. Suchen Sie im Abschnitt [!UICONTROL Projektstatus] die [!UICONTROL Leistungsindex-Methode]. Wählen Sie „Stundenbasiert“ oder „Kostenbasiert“ aus.
-1. Wählen Sie für [!UICONTROL Schätzung bei Abschluss] die Option „Auf Projektebene berechnen“ oder „Rollup aus Aufgaben/Unteraufgaben durchführen“ aus.
-1. Klicken Sie unten im Fenster auf **[!UICONTROL Speichern]**.
-
-![Ein Bild des Bildschirms [!UICONTROL Projektvoreinstellungen]](assets/setting-up-finances-1.png)
-
-**Festlegen von [!UICONTROL PIM] für einzelne Projekte**
-
-1. Rufen Sie die Landingpage eines Projekts auf.
-1. Klicken Sie im linken Bedienfeld auf **[!UICONTROL Projektdetails]**.
-1. Öffnen Sie den Abschnitt **[!UICONTROL Finanzen]**.
-1. Doppelklicken Sie auf den Text **[!UICONTROL Performance-Index-Methode]** unten, um ihn zu bearbeiten.
-1. Wählen Sie „Stundenbasiert“ oder „Kostenbasiert“ aus.
-1. Klicken Sie zum Beenden auf **[!UICONTROL Speichern]**.
-
-![Ein Bild des Bildschirms [!UICONTROL Projektdetails]](assets/setting-up-finances-2.png)
-
-[!UICONTROL PIM] kann für eine Projektvorlage im Abschnitt [!UICONTROL Finanzen] der Vorlagendetails festgelegt werden.
+<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
+* [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Informationen zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)

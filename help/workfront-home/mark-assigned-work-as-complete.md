@@ -11,8 +11,8 @@ thumbnail: 335104.png
 jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
@@ -34,6 +34,6 @@ In diesem Video lernen Sie Folgendes:
 * Setzen Sie das Dropdown-Menü [!UICONTROL Status] auf „Abgeschlossen“.
 * Ändern Sie die [!UICONTROL prozentuale Abschlussrate] in 100 Prozent. Dadurch wird der Status automatisch in „Abgeschlossen“ geändert.
 
-<!---
+<!--
 learn more URLs
---->
+-->

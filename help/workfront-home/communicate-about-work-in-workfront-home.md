@@ -11,8 +11,8 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
@@ -34,14 +34,14 @@ In diesem Video lernen Sie Folgendes:
 * „Taggen“ Sie andere [!UICONTROL Workfront]-Benutzende mit @name, um sicherzustellen, dass sie über die Aktualisierung informiert werden. So lässt sich am besten sicherstellen, dass bestimmte Personen die neuesten Informationen auch sehen. Sie können einzelne Personen oder ein Team in einer Aktualisierung „taggen“.
 * Wenn Sie ein Team oder eine Gruppe taggen und weiterhin innerhalb des Threads antworten, entspricht dies der berüchtigten E-Mail-Option „Allen antworten“. Beachten Sie dies, um Ärger zu vermeiden. Sie können direkt darüber oder darunter taggen, aber immer noch im Kontext des Objekts.
 
-<!---
+<!--
 paragraph below needs a hyperlink to an article
---->
+-->
 
 * Wenn Sie einer Aufgabe nicht zugewiesen sind, aber Benachrichtigungen erhalten möchten, abonnieren Sie die Aufgabe. Weitere Informationen finden Sie im Artikel „Abonnieren von Elementen in [!UICONTROL Workfront]“ im neuen [!UICONTROL Workfront]-Erlebnis.
 * Veröffentlichen Sie Aktualisierungen an einem bestimmten Wochentag, damit jeder weiß, wann sich die neuesten Informationen finden lassen.
 * Verwenden Sie die Rich-Text-Tools, um Ihre Aktualisierungen zu formatieren. Heben Sie Informationen durch Fettdruck hervor oder erstellen Sie eine leicht lesbare Zusammenfassung mit Aufzählungspunkten.
 
-<!---
+<!--
 learn more URLs
---->
+-->

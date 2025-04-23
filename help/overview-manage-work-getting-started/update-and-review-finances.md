@@ -11,7 +11,7 @@ level: Intermediate
 jira: KT-10137
 hide: true
 exl-id: 9e1ccfca-cf7b-4366-8e70-efd4d2ab5cf9
-source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 92%
@@ -20,7 +20,7 @@ ht-degree: 92%
 
 # Aktualisierung und Überprüfung der Finanzen
 
-Wenn Ihre Organisation [!DNL Workfront] verwendet, um Finanzinformationen zu einem Projekt zu erfassen, kann die Überprüfung von Ausgaben und die Erstellung von Abrechnungs-Datensätzen Teil des Prozesses zum Abschluss eines Projekts sein.
+Wenn Ihre Organisation [!DNL Workfront] verwendet, um Finanzinformationen zu einem Projekt zu erfassen, kann die Überprüfung von Ausgaben und die Erstellung von Abrechnungseinträgen Teil des Prozesses zum Abschluss eines Projekts sein.
 
 >[!NOTE]
 >
@@ -33,11 +33,11 @@ Ausgaben können für einzelne Aufgaben oder das gesamte Projekt erfasst werden.
 
 Abschnitt ![[!UICONTROL Ausgaben] eines Projekts](assets/expense-section.png)
 
-## Abrechnungs-Datensätze
+## Abrechnungseinträge
 
-Rechnungsnachweise werden in [!DNL Workfront] verwendet, um abrechenbare Stunden, abrechenbare Ausgaben, abrechenbare Einnahmen und zusätzliche abrechenbare Beträge in einem einzigen Datensatz und Betrag zusammenzufassen. Oftmals werden diese von [!DNL Workfront] in ein Rechnungs- oder Buchhaltungssystem eines Drittanbieters exportiert.
+Abrechnungseinträge werden in [!DNL Workfront] verwendet, um abrechenbare Stunden, abrechenbare Ausgaben, abrechenbare Einnahmen und zusätzliche abrechenbare Beträge in einem einzigen Eintrag und Betrag zusammenzufassen. Oftmals werden diese von [!DNL Workfront] in ein Rechnungs- oder Buchhaltungssystem eines Drittanbieters exportiert.
 
-Sie müssen Zugriff auf die Finanzdaten in [!DNL Workfront] haben, um Abrechnungs-Datensätze erstellen und anzeigen zu können.
+Sie müssen Zugriff auf die Finanzdaten in [!DNL Workfront] haben, um Abrechnungseinträge erstellen und anzeigen zu können.
 
 ## Finanzdetails
 
@@ -47,9 +47,9 @@ Ein Blick auf die [!UICONTROL Finanzinformationen] in den [!UICONTROL Projektdet
 
 Die meisten Finanzinformationen in den [!UICONTROL Projektdetails] werden bei der Erstellung des Projekts festgelegt. Die Zahlen, die Sie hier sehen, basieren auf diesen Informationen. Wenn Sie also ein Projekt schließen, müssen Sie wirklich nichts aktualisieren oder in die finanziellen Details einfügen.
 
-<!---
+<!--
 learn more urls
 Create billing records
 Manage project expenses
 Project finances
---->
+-->

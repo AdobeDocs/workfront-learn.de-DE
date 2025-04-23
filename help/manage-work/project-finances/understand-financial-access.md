@@ -1,6 +1,6 @@
 ---
 title: Informationen zum Finanzzugriff
-description: Erfahren Sie, wie Admins mit Finanz-Zugriffsrechten steuern können, wer die in Workfront verfolgten Finanzinformationen anzeigen und bearbeiten kann.
+description: Systemadministratoren steuern den Zugriff auf Finanzdaten durch anpassbare Berechtigungen und stellen so sicheres Management, Aufsicht auf Projektebene und maßgeschneiderte Freigabeoptionen für finanzielle Sichtbarkeit sicher.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,73 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '415'
-ht-degree: 100%
+source-wordcount: '233'
+ht-degree: 12%
 
 ---
 
 # Informationen zum Finanzzugriff
 
-Wenn Ihr Unternehmen Finanzdaten mit [!DNL Workfront] erfasst, sind Sie als Systemadmin dafür verantwortlich, die Zugriffsrechte für die Anzeige und Bearbeitung dieser Informationen zu schützen und zu verwalten.
+In diesem Video wird die Rolle eines Systemadministrators bei der Verwaltung des Zugriffs auf Finanzinformationen in Workfront erläutert. &#x200B; Der Administrator steuert den Zugriff über Zugriffsebenen. &#x200B;
+Das Video betont, dass Benutzer ihren finanziellen Zugriff nur für von ihnen erstellte Projekte oder für Projekte verwenden können, für die sie ihn von einer Person mit finanziellem Zugriff freigegeben haben.
 
-Zwei Dinge sind erforderlich, damit eine Person Finanzinformationen anzeigen oder bearbeiten kann:
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
 
-1. Zugriffsberechtigungen müssen in der [!UICONTROL Zugriffsebene] aktiviert sein.
-2. Die Berechtigung zur Nutzung dieser Zugriffsrechte für ein Objekt muss objektabhängig erteilt werden.
+## Die wichtigsten Punkte
 
-Beispielsweise kann einer Person die Berechtigung zum Anzeigen von Finanzdaten in ihrer Zugriffsebene gewährt werden. Sie kann jedoch nur Finanzdaten zu einer Aufgabe anzeigen, die für sie freigegeben ist und bei deren Freigabe außerdem die Finanzansicht aktiviert wurde.
+* **Rolle des Systemadministrators:** Der Systemadministrator verwaltet den Zugriff auf Finanzinformationen über Einrichtungs- und Zugriffsebenen, um die Kontrolle darüber sicherzustellen, wer Finanzdaten anzeigen oder bearbeiten kann. &#x200B;
+* **Erstellen von Zugriffsebenen:** Es kann eine Zugriffsebene erstellt werden, um Benutzern die Berechtigung zum Bearbeiten und Anzeigen von Abrechnungen, Kostensätzen, Wechselkursen und Ausgaben zu erteilen.
+* **Finanzieller Zugriff auf Projektebene:** Benutzer mit finanziellem Zugriff können Finanzdaten in von ihnen erstellten Projekten bearbeiten, andere benötigen jedoch einen expliziten Zugriff, um Finanzdaten anzuzeigen oder zu bearbeiten.
+* **Anpassbare Zugriffsfreigabe:** Der Finanzzugriff kann mit benutzerdefinierten Berechtigungen (z. B. Nur-Ansicht-Zugriff) für bestimmte Benutzer freigegeben werden, auch wenn diese allgemeine Berechtigungen zum Bearbeiten von Finanzdaten haben.
+* **Zugriffsbeschränkungen:** Benutzer können ihren finanziellen Zugriff nur für von ihnen erstellte Projekte oder für Projekte verwenden, für die sie von einer Person mit finanziellem Zugriff freigegeben wurden.
 
-So ist es möglich, dass eine Person, die qua [!UICONTROL Zugriffsebene] zum Einsehen von Finanzdaten berechtigt ist, die Finanzdaten für einige Objekte einsehen kann und für andere nicht, abhängig von den individuellen Freigabeoptionen dieser Objekte. Benutzende können jedoch Finanzen zu einem Objekt nur einsehen, wenn ihnen im Rahmen ihrer [!UICONTROL Zugriffsebene] die entsprechende Berechtigung erteilt wurde.
 
-## Einstellungen der [!UICONTROL Zugriffsebene]
+## Empfohlene Tutorials zu diesem Thema
 
-Der allgemeine Zugang zu Finanzdaten wird zunächst durch den [!DNL Workfront]-Lizenztyp gewährt.
-
-**[!UICONTROL Plan]-Lizenzen berechtigen zu Folgendem:**
-
-* Abrechnungsdatensätze verwalten
-* Funktionsbezogene Fakturierung und Kostensätze verwalten und anzeigen
-* Benutzerfakturierung und Kostensätze verwalten und anzeigen
-* Ausgaben verwalten
-* Finanzen anzeigen und bearbeiten
-
-**[!UICONTROL Arbeits]-Lizenzen berechtigen zu Folgendem:**
-
-* Ausgaben verwalten
-* Finanzen anzeigen
-
-**[!UICONTROL Überprüfungs]-Lizenzen berechtigen zu Folgendem:**
-
-* Finanzen anzeigen
-
-**Die Berechtigungen können über die [!UICONTROL Zugriffsebene] geändert werden. Die drei Optionen für den Zugriff auf Finanzdaten sind:**
-
-* [!UICONTROL Kein Zugriff] – Die Person kann keine Finanzdaten anzeigen.
-* [!UICONTROL Anzeigen] – Die Person kann die Daten überprüfen und freigeben.
-* [!UICONTROL Bearbeiten] – Die Person kann die Daten erstellen, bearbeiten, löschen und weitergeben. (Nur für eine Planlizenz verfügbar.)
-
-![Ein Bild mit allgemeinen Finanzdatenoptionen in einer Zugriffsebene](assets/setting-up-finances-8.png)
-
-Dabei ist zu beachten, dass die Optionen [!UICONTROL Anzeigen] und [!UICONTROL Bearbeiten] zusätzliche Einstellungen für eine [!UICONTROL Plan]-Lizenz enthalten. Klicken Sie auf das Zahnrad auf der Schaltfläche [!UICONTROL Anzeigen] für diese Optionen:
-
-**[!UICONTROL Anzeigen]**
-
-* Funktionsbezogene Fakturierung und Kostensätze anzeigen
-* Benutzerfakturierung und Kostensätze anzeigen
-
-![Ein Bild mit den Optionen zum Anzeigen der Finanzdaten in einer Zugriffsebene](assets/setting-up-finances-9.png)
-
-**[!UICONTROL Bearbeiten]**
-
-Diese beiden Optionen sind unter der Option [!UICONTROL Bearbeiten] verfügbar, zusammen mit:
-
-* Funktionsbezogene Fakturierung und Kostensätze bearbeiten
-* Benutzerfakturierung und Kostensätze bearbeiten
-
-![Ein Bild mit den Bearbeitungsoptionen für Finanzdaten in einer Zugriffsebene](assets/setting-up-finances-10.png)
-
->[!NOTE]
->
->Eine Person mit der Berechtigung, Ausgaben hinzuzufügen, kann auch die von ihr sowie die von ihrer direkt vorgesetzten Person hinzugefügten Ausgaben einsehen.
+* [Verstehen von Leistungsmetriken](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)

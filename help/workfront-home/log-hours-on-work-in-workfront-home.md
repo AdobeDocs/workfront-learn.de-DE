@@ -11,8 +11,8 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 
@@ -34,6 +34,6 @@ Einige Optionen zur Protokollierungszeit hängen davon ab, wie Ihre Systemadmins
 * Möglicherweise können Sie die Zeit an zukünftigen Tagen nicht protokollieren.
 * Möglicherweise müssen Sie einen Stundentyp aus dem Dropdown-Menü auswählen, damit Sie genauer angeben können, wie Sie Ihre Zeit verbracht haben. Dieser Stundentyp kann auch angeben, ob Ihre Zeit fakturierbar oder nicht fakturierbar war. Wählen Sie unbedingt den Stundentyp aus, bevor Sie Ihre Uhrzeit eingeben, indem Sie auf die Schaltfläche [!UICONTROL Protokollzeit] klicken.
 
-<!---
+<!--
 learn more URLs
---->
+-->

@@ -10,46 +10,33 @@ role: User
 level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 28%
 
 ---
 
 # Einrichten von Ausgabentypen
 
-Bei Ausgaben in [!DNL Workfront] handelt es sich um sonstige Kosten im Zusammenhang mit Projekten und anderen Arbeiten. Bei den Ausgaben kann es sich beispielsweise um Reisekosten für einen Kundenbesuch oder um den Kauf von Zubehör für ein Foto-Shooting handeln. Diese Ausgaben sollten im Rahmen des Projekts protokolliert werden, damit geplante Kosten und tatsächliche Kosten für jedes Projekt berechnet und gemeldet werden können.
+In diesem Video wird erläutert, wie Sie Ausgabentypen in Workfront verwalten, wobei der Schwerpunkt auf dem Erstellen, Verwenden und Löschen liegt.
 
-[!DNL Workfront] hat vorgefertigte Ausgabentypen, die bei der Eingabe von Ausgaben verwendet werden können. Die Standardeinstellungen können nicht gelöscht oder geändert werden, es können jedoch neue hinzugefügt werden.
 
-* Werbung
-* Beratung
-* Bewirtung
-* Allgemein
-* Materialien
-* Drucken
-* Lieferung
-* Reise
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
 
-Systemadmins können die für ihr Unternehmen benötigten Ausgabentypen hinzufügen. Diese zusätzlichen Ausgabentypen können geändert, ausgeblendet oder gelöscht werden, um die in Ihrem Unternehmen benötigten Finanzberichte zu unterstützen.
+## Die wichtigsten Punkte
 
-Projekt-Managerinnen und -Manager, Führungskräfte und andere können in [!DNL Workfront] für Aufgaben, Projekte, Programme oder Portfolios Ausgabenberichte erstellen und die einzelnen Ausgaben auf Wunsch nach Typ gruppieren. Projektfinanzierungen lassen sich durch Ausgabetypen wesentlich besser verwalten.
+* **Vordefinierte Ausgabentypen:** Workfront umfasst vordefinierte Ausgabentypen, die nicht gelöscht, ausgeblendet oder geändert werden können, um die Konsistenz im gesamten System sicherzustellen.
+* **Benutzerdefinierte Ausgabentypen:** Systemadministratoren können ihre eigenen Ausgabentypen erstellen, die bearbeitbar, löschbar und systemweit sind. Diese können berechnete Einheiten wie beispielsweise Kilometerraten enthalten.
+* **Ausgabenerstellung:** Beim Erstellen einer Ausgabe wählen Benutzende einen Ausgabentyp, geben Details (z. B. Kilometerstand) ein und das System berechnet den geplanten Betrag automatisch auf der Basis des festgelegten Satzes.
+* **Ausgabentypen löschen:** Benutzerdefinierte Ausgabentypen können nur gelöscht werden, nachdem sie in allen Fällen, in denen sie verwendet werden, ersetzt wurden. Es kann ein Bericht generiert werden, um diese Instanzen zu identifizieren.
 
-## Erstellen eines Ausgabentyps
+## Empfohlene Tutorials zu diesem Thema
 
-**Wählen Sie [!UICONTROL Einrichtung] im Hauptmenü**
-
-1. Klicken Sie auf **[!UICONTROL Ausgabentypen]** im Menü des linken Bedienfelds.
-1. Klicken Sie auf die Schaltfläche **[!UICONTROL Neuer Ausgabentyp]**.
-1. Benennen Sie den Ausgabentyp.
-1. Fügen Sie bei Bedarf eine Beschreibung hinzu.
-1. Klicken Sie auf die Schaltfläche **[!UICONTROL Speichern]**.
-
-![Ein Bild zum Erstellen eines neuen [!UICONTROL Ausgabentyps]](assets/setting-up-finances-6.png)
-
-## Verwendung von Ausgabentypen
-
-Die Ausgabenoptionen werden in der Dropdown-Liste zu **[!UICONTROL Ausgabentypen]** angezeigt, wenn Benutzende Ausgaben für ein Projekt oder eine Aufgabe in [!DNL Workfront] erstellen.
-
-![Ein Bild des Hinzufügens neuer Ausgaben](assets/setting-up-finances-7.png)
+* [Verstehen von Leistungsmetriken](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Informationen zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)

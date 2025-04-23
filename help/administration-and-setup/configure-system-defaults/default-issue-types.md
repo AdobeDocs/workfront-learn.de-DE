@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 Da jeder Problemtyp unterschiedliche Arten von Informationen erfasst, kann jeder Typ einzigartige Workflows erfordern, damit er gelöst werden kann. Passen Sie die Status für jeden Problemtyp an, damit er dem Workflow dieses Problemtyps entspricht.
 
-<!---
+<!--
 add URL in paragraph below
---->
+-->
 
 ## Standardstatus
 
@@ -42,9 +42,9 @@ Sechs weitere Status, die im Problem-Management häufig verwendet werden, sind i
 * Abschluss bestätigt
 * Kann nicht aufgelöst werden
 
-<!---
+<!--
 need URL in paragraph below
---->
+-->
 
 
 Der Status eines Problems kann in den [!UICONTROL Problemdetails] eingesehen und geändert werden. Sie können auch das Problem eines Status in der Kopfzeile der Problemseite ganz rechts ändern.
@@ -55,9 +55,9 @@ Sie können die [!UICONTROL Statusspalte] zu einer Ansicht oder zu einem benutze
 
 ![[!UICONTROL Statusspalte] in einer [!UICONTROL Ansicht]](assets/admin-fund-issue-status-view.png)
 
-<!---
+<!--
 link the bullets below to the articles
---->
+-->
 
 Sehen wir uns die Grundlagen der Status für Probleme an:
 

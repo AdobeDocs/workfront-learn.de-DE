@@ -12,10 +12,10 @@ jira: KT-8808
 recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '383'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -33,7 +33,7 @@ Das Video betont die Flexibilität bei der Überprüfung und Genehmigung von Arb
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
 * **Zentrale Validierungsverwaltung:** Über das Widget „Warten auf meine Genehmigung“ im Bereich Startseite können Sie auf alle Elemente zugreifen, die auf Genehmigung warten. &#x200B;
 * **Flexible Überprüfungsoptionen** Sie können direkt im Bereich Startseite genehmigen oder ablehnen oder auf den Elementnamen klicken, um die Details zu überprüfen, bevor Sie eine Entscheidung treffen. &#x200B;
@@ -52,11 +52,11 @@ Das Video betont die Flexibilität bei der Überprüfung und Genehmigung von Arb
 * [Delegieren von Aufgaben, Problemen und Genehmigungen](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
-<!---
+<!--
 learn more URLS
 Approving work
 Home area for Reviewers
 Guides
 Home overview for Reviewers
 Issue page overview
---->
+-->

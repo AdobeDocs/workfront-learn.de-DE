@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 [!DNL Workfront] bietet vier Problemtypen, die Ihren Benutzenden helfen, die Art des erstellten Problems zu kategorisieren. Die Standardtypen sind:
 
-* [!UICONTROL Bug-Bericht]
+* [!UICONTROL Fehlerbericht]
 * [!UICONTROL Änderungsanforderung]
 * [!UICONTROL Probleme]
 * [!UICONTROL Anfrage]
@@ -48,10 +48,10 @@ Registerkarte ![[!UICONTROL Probleme] der Seite [!UICONTROL Status] unter [!UICO
 >
 >Sie können weder weitere Problemtypen anlegen noch einen Problemtyp löschen.
 
-<!---
+<!--
 learn more URLs
 Customize default issue types
---->
+-->
 
 ## Ändern des Begriffs „Problem“ in Workfront
 
@@ -60,13 +60,13 @@ Workfront-Admins können die Funktionalität der Layout-Vorlagen verwenden, um d
 
 Fenster ![[!UICONTROL Terminologie] mit hervorgehobener Option [!UICONTROL Problem]](assets/admin-fund-issue-custom-terminology.png)
 
-<!---
+<!--
 paragraph below needs a hyperlink
---->
+-->
 
 Wie System- und Gruppenadmins Layout-Vorlagen erstellen können, erfahren Sie im Lernpfad, Grundlagen für Admins im neuen [!DNL Workfront]-Erlebnis: Teil 3 Steuerungs- und Schnittstellenerlebnis.
 
-<!---
+<!--
 learn more URLs
 Create and manage layout templates
---->
+-->
