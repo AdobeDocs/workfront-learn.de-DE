@@ -1,6 +1,6 @@
 ---
 title: Überprüfen und Genehmigen digitaler Arbeiten
-description: Vereinfachen Sie Genehmigungs-Workflows mit zentralisierter Verwaltung im Widget „Warten auf meine Genehmigung“, flexiblen Überprüfungsoptionen, detaillierten Genehmigungsoptionen für Korrekturabzüge und klaren Kommentaren für effiziente Kommunikation und Aktualisierungen.
+description: Vereinfachen Sie Genehmigungs-Workflows mithilfe eines zentralen Managements im Widget „Warten auf Genehmigung“, flexiblen Überprüfungsoptionen, detaillierten Optionen für Korrekturabzug-Genehmigungen und klaren Kommentaren, um effiziente Kommunikation und Aktualisierungen sicherzustellen.
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -15,36 +15,36 @@ doc-type: video
 source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '383'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 # Überprüfen und Genehmigen digitaler Arbeiten
 
-In diesem Video wird erläutert, wie Sie digitale Arbeiten mit dem Widget „Warten auf meine Genehmigung“ im Bereich Startseite überprüfen und genehmigen können. &#x200B; Es umfasst fünf Arten von Genehmigungen:
+In diesem Video wird beschrieben, wie Sie digitale Arbeiten mit dem Widget „Warten auf Genehmigung“ im Bereich „Startseite“ überprüfen und genehmigen. Es umfasst fünf Arten von Genehmigungen:
 
-* **Projektbestätigung:** können direkt im Bereich Startseite genehmigt oder abgelehnt werden, mit der Option, Kommentare hinzuzufügen. &#x200B; Klicken Sie zur detaillierten Überprüfung auf den Projektnamen, um auf dessen Details zuzugreifen. &#x200B; Genehmigungen, die innerhalb des Projekts vorgenommen werden, fordern nicht zur Eingabe von Kommentaren auf, sondern ermöglichen die Eingabe optionaler Kommentare.
-* **Aufgabengenehmigung:** Ähnlich wie bei der Projektgenehmigung können Sie die Aufgabe überprüfen, indem Sie auf ihren Namen klicken, oder sie direkt mit einem Kommentar genehmigen/ablehnen.
-* **Problemgenehmigung:** Funktioniert wie Aufgaben-/Projektgenehmigung, mit der Option, die Genehmigung zu überspringen, ohne einen Kommentar hinzuzufügen.
-* **Korrekturabzug-Genehmigung:** Navigieren Sie zum Korrekturabzug, um ihn zu überprüfen und spezifische Kommentare hinzuzufügen. &#x200B; Zu den Genehmigungsoptionen gehören „Genehmigen“, „Mit Änderungen genehmigt“, „Änderungen erforderlich“ oder „Nicht relevant“.
-* **Dokumentgenehmigung:** Dokumente ohne Korrekturabzüge können weiterhin genehmigt oder abgelehnt werden. &#x200B; Wenn Änderungen erforderlich sind, beschreiben Sie diese in einem Kommentar, ähnlich wie „Mit Änderungen genehmigt“ in der Korrekturabzugsgenehmigung.
+* **Projektgenehmigungen:** Sie können Aufgaben im Bereich „Startseite“ direkt genehmigen oder ablehnen und optional Kommentare hinzufügen. Klicken Sie für eine ausführliche Überprüfung auf den Projektnamen, um auf die zugehörigen Details zuzugreifen. Bei Genehmigungen, die innerhalb des Projekts vorgenommen werden, wird nicht zur Eingabe von Kommentaren aufgefordert. Es können aber optional Kommentare hinterlassen werden.
+* **Aufgabengenehmigungen:** Ähnlich wie bei Projektgenehmigungen können Sie Aufgaben überprüfen, indem Sie auf ihren Namen klicken oder sie unter Angabe eines Kommentars direkt genehmigen/ablehnen.
+* **Problemgenehmigungen:** Diese funktionieren wie Aufgaben-/Projektgenehmigungen. Dabei haben Sie die Möglichkeit, die Genehmigung zu überspringen, ohne einen Kommentar hinzuzufügen.
+* **Korrekturabzugs-Genehmigungen:** Navigieren Sie zum Korrekturabzug, um ihn zu überprüfen und spezifische Kommentare hinzuzufügen. Zu den Genehmigungsoptionen gehören „Genehmigen“, „Mit Änderungen genehmigt“, „Erforderliche Änderungen“ oder „Nicht relevant“.
+* **Dokumentgenehmigungen:** Dokumente ohne Korrekturabzüge können weiterhin genehmigt oder abgelehnt werden. Wenn Änderungen erforderlich sind, beschreiben Sie diese in einem Kommentar, ähnlich wie bei der Option „Mit Änderungen genehmigt“ im Rahmen der Genehmigung eines Korrekturabzugs.
 
-Das Video betont die Flexibilität bei der Überprüfung und Genehmigung von Arbeiten mit Optionen zum Hinzufügen von Kommentaren und zum Angeben von Änderungen nach Bedarf. &#x200B;
+Im Video wird der Schwerpunkt auf die Flexibilität bei der Überprüfung und Genehmigung von Arbeiten gelegt und hervorgehoben, dass Optionen zum Hinzufügen von Kommentaren und ggf. zum Festlegen von Änderungen verfügbar sind. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
 
 ## Die wichtigsten Punkte
 
-* **Zentrale Validierungsverwaltung:** Über das Widget „Warten auf meine Genehmigung“ im Bereich Startseite können Sie auf alle Elemente zugreifen, die auf Genehmigung warten. &#x200B;
-* **Flexible Überprüfungsoptionen** Sie können direkt im Bereich Startseite genehmigen oder ablehnen oder auf den Elementnamen klicken, um die Details zu überprüfen, bevor Sie eine Entscheidung treffen. &#x200B;
-* **Kommentaroptionen:** Hinzufügen von Kommentaren ist optional, wird aber aus Gründen der Klarheit empfohlen. &#x200B; Genehmigungen, die im Bereich Startseite vorgenommen wurden, werden zur Eingabe von Kommentaren aufgefordert, Genehmigungen, die innerhalb des Elements erteilt wurden, jedoch nicht. &#x200B;
-* **Besonderheiten der Korrekturabzugs-Genehmigung:** Genehmigungen von Korrekturabzügen bieten mehrere Optionen, einschließlich „Mit Änderungen genehmigt“, „Änderungen erforderlich“ und „Nicht relevant“, was ein detailliertes Feedback ermöglicht. &#x200B;
-* **Umgang mit Änderungen:** Bei Dokumenten oder Korrekturabzügen, die Änderungen erfordern, können Sie die Änderungen in Kommentaren angeben und so eine klare Kommunikation für die erneute Übermittlung oder Aktualisierung sicherstellen. &#x200B;
+* **Zentrales Genehmigungs-Management:** Über das Widget „Warten auf Genehmigung“ im Bereich „Startseite“ können Sie auf alle Elemente zugreifen, die noch genehmigt werden müssen. 
+* **Flexible Überprüfungsoptionen:** Sie können Aufgaben im Bereich „Startseite“ direkt genehmigen oder ablehnen oder auf den Elementnamen klicken, um die zugehörigen Details zu überprüfen, bevor Sie eine Entscheidung treffen. 
+* **Kommentaroptionen:** Kommentare können optional hinzugefügt werden. Dies wird aber empfohlen, um für Klarheit zu sorgen. Bei Genehmigungen, die im Bereich „Startseite“ vorgenommen wurden, wird zur Eingabe von Kommentaren aufgefordert, bei Genehmigungen, die innerhalb des Elements erteilt wurden, jedoch nicht. 
+* **Details zu Korrekturabzugs-Genehmigungen:** Genehmigungen von Korrekturabzügen bieten mehrere Optionen, darunter „Mit Änderungen genehmigt“, „Erforderliche Änderungen“ und „Nicht relevant“. Dies ermöglicht detailliertes Feedback. 
+* **Umgang mit Änderungen:** Bei Dokumenten oder Korrekturabzügen, für die Änderungen erforderlich sind, können Sie die Änderungen in Kommentaren angeben und so eine klare Kommunikation bei erneuten Übermittlungen oder Aktualisierungen sicherstellen. 
 
 
 >[!NOTE]
 >
->Dokumente, Korrekturabzüge und Arbeitselemente (Projekte, Aufgaben und Probleme), die genehmigt werden müssen, finden sich neben [!DNL Workfront Home] auch in Projekten und benutzerdefinierten Berichten.
+>Dokumente, Korrekturabzüge und Arbeitselemente (Projekte, Aufgaben und Probleme), die genehmigt werden müssen, finden sich nicht nur in [!DNL Workfront Home], sondern auch in Projekten und benutzerdefinierten Berichten.
 
 ## Empfohlene Tutorials zu diesem Thema
 
