@@ -13,27 +13,27 @@ jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
 # Erste Schritte bei der Projektplanung
 
-Das Video bietet Anleitungen zum effektiven Planen eines Projekts in Workfront. &#x200B; Es wird betont, wie wichtig es ist, eine solide Grundlage zu schaffen, um sicherzustellen, dass das Projekt pünktlich abgeschlossen wird und erfolgreich ist. &#x200B; Zu den wichtigsten Schritten gehören das Verständnis von fünf kritischen Feldern: Aufgaben, Zuweisungen, Dauer, geplante Stunden und Vorgänger. &#x200B; Diese Felder ermöglichen eine schnelle und genaue Anpassung des Projektplans. &#x200B;
+Das Video enthält eine Anleitung zum effektiven Planen eines Projekts in Workfront. Es wird hervorgehoben, wie wichtig das Schaffen einer soliden Grundlage ist. Diese stellt die pünktliche Fertigstellung und den Erfolg des Projekts sicher. Zu den wichtigsten Schritten gehört das Verstehen von fünf wichtigen Feldern: Aufgaben, Arbeitsaufträge, Laufzeiten, geplante Stunden und Vorgänger. Diese Felder ermöglichen eine schnelle und genaue Anpassung des Projektplans. 
 
-Das Video hebt die Bedeutung realistischer Zeitpläne, der Verfügbarkeit von Teams und einer präzisen Planung hervor, um eine solide Grundlage für den Projekterfolg zu schaffen. &#x200B;
+In diesem Video liegt der Schwerpunkt auf der Bedeutung realistischer Timelines, der Verfügbarkeit von Teams und einer präzisen Planung, um eine solide Grundlage für den Projekterfolg zu schaffen. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Konzentrieren Sie sich auf fünf Schlüsselfelder:** Verstehen Sie Aufgaben, Zuweisungen, Dauer, geplante Stunden und Vorgänger, um effiziente und genaue Änderungen an Ihrem Projektplan vorzunehmen. &#x200B;
-* **Projektstatus auf „Planung“ festlegen** Stellen Sie sicher, dass der Projektstatus auf „Planung“ festgelegt ist, um unnötige Benachrichtigungen bei der Anpassung des Plans zu vermeiden. &#x200B;
-* **Verwenden geeigneter Ansichten:** Verwenden Sie die Standardansicht oder die benutzerdefinierten Ansichten, um sich auf wesentliche Projektdetails wie Aufgaben, Dauer und Zuweisungen zu konzentrieren. &#x200B;
-* **Realistisches Startdatum auswählen:** Legen Sie ein praktisches Startdatum fest, das der Teamverfügbarkeit entspricht und unrealistische Szenarien wie Feiertage oder Wochenenden vermeidet. &#x200B;
-* **Nutzen von Planungsmodi:** Verwenden Sie den Modus „Startdatum“, um das Abschlussdatum zu berechnen, oder den Modus „Abschlussdatum“, um das Startdatum zu berechnen und sicherzustellen, dass die Timeline den Projektanforderungen entspricht. &#x200B;
+* **Schwerpunktlegung auf fünf Schlüsselfelder:** Informieren Sie sich über Aufgaben, Arbeitsaufträge, Laufzeiten, geplante Stunden und Vorgänger, um effiziente und genaue Änderungen an Ihrem Projektplan vorzunehmen. 
+* **Festlegen des Projektstatus auf „Planung“:** Stellen Sie sicher, dass der Projektstatus auf „Planung“ festgelegt ist, um unnötige Benachrichtigungen bei jedem Anpassen des Plans zu vermeiden. 
+* **Verwenden geeigneter Ansichten:** Verwenden Sie die Standardansicht oder benutzerdefinierte Ansichten, um sich auf wesentliche Projektdetails wie Aufgaben, Laufzeiten und Arbeitsaufträge zu konzentrieren. 
+* **Auswählen eines realistischen Startdatums:** Legen Sie ein umsetzbares Startdatum fest, das auf die Verfügbarkeit des Teams ausgerichtet ist und bei dem unrealistische Szenarien wie Feiertage oder Wochenenden vermieden werden.
+* **Verwenden von Planungsmodi:** Verwenden Sie den Modus „Startdatum“, um das Fertigstellungsdatum zu berechnen, oder den Modus „Fertigstellungsdatum“, um das Startdatum zu berechnen und sicherzustellen, dass die Timeline auf die Projektanforderungen ausgerichtet ist. 
 
 
 
@@ -42,7 +42,7 @@ Das Video hebt die Bedeutung realistischer Zeitpläne, der Verfügbarkeit von Te
 * [Erstellen von Aufgaben](/help/manage-work/tasks/how-to-create-tasks.md)
 * [Arbeiten mit Aufgaben](/help/manage-work/tasks/work-with-tasks.md)
 * [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Grundlegendes zu Aufgabendauern](/help/manage-work/tasks/understand-task-durations.md)
+* [Grundlegendes zu Aufgabenlaufzeiten](/help/manage-work/tasks/understand-task-durations.md)
 * [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
 * [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)

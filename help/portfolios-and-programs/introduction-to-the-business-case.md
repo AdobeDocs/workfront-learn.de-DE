@@ -1,6 +1,6 @@
 ---
-title: Verstehen des [!UICONTROL Business-Case]
-description: Erstellen Sie umfassende Business Cases in Workfront, um Projekte zu priorisieren, indem Sie detaillierte Projektinformationen, Ausgaben, Arbeits- und Risikoanalysen, Scorecards und benutzerdefinierte Formulare für ein informiertes Portfoliomanagement einschließen.
+title: Verstehen des [!UICONTROL Business-Cases]
+description: Erstellen Sie umfassende Business-Cases in Workfront, um Projekte zu priorisieren, indem Sie ausführliche Projektinformationen, Ausgaben, Arbeits- und Risikoanalysen, Scorecards und benutzerdefinierte Formulare einschließen, um ein fundiertes Portfolio-Management zu ermöglichen.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,28 +13,28 @@ role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# Verstehen des [!UICONTROL Business-Case]
+# Verstehen des [!UICONTROL Business-Cases]
 
-In diesem Video wird die Bedeutung eines Business Case im Projekt-Management erläutert. Er betont, dass die gründliche Auffüllung des Business Case den Managern hilft, Projekte zu analysieren und zu priorisieren, die um die gleichen Ressourcen konkurrieren. &#x200B; Nach Abschluss des Vorgangs ändert die Übermittlung des Business-Case den Projektstatus in „Angefordert“ und berechnet den Gesamtwert für den Vergleich im Portfolio-Optimierungs-Tool. &#x200B; Obwohl keines der Felder obligatorisch ist, verbessern detailliertere Informationen die Entscheidungsfindung. &#x200B;
+In diesem Video wird die Bedeutung eines Business-Cases für das Projekt-Management beschrieben. Es wird betont, dass Führungskräfte durch genaue Angaben im Business-Case Projekte analysieren und priorisieren können, die um dieselben Ressourcen konkurrieren. Danach ändert sich bei Übermittlung des Business-Case der Projektstatus in „Angefordert“ und im Tool „Portfolio-Optimierung“ wird das Gesamtergebnis für den Vergleich berechnet. Obwohl keines der Felder obligatorisch ist, tragen ausführlichere Informationen zu einer besseren Entscheidungsfindung bei. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-In diesem Video werden die wichtigsten Abschnitte des Business Case skizziert, darunter:
+In diesem Video werden die wichtigsten Abschnitte des Business-Cases vorgestellt, darunter:
 
-* **Projektinfo:** allgemeine Details wie der Projektsponsor und der geplante Nutzen, die den potenziellen finanziellen Gewinn aus der Fertigstellung des Projekts schätzen. &#x200B;
-* **Aufwendungen** Sonstige Kosten wie Reise- oder Standmiete, die sich auf die budgetierten Kosten und den Nettowert auswirken. &#x200B;
-* **Ressourcenbudgetierung:** Arbeitsschätzungen werden aus dem Ressourcenplaner abgerufen, sodass in Workfront Ressourcenpools eingerichtet werden müssen. &#x200B;
-* **Risiken:** Identifizieren von Risiken, Schätzen ihrer Kosten und Wahrscheinlichkeit und Berechnen ihrer Auswirkungen auf den Nettowert. &#x200B;
-* **Scorecards:** Tools, mit denen anhand vordefinierter Fragen und Werte, die von Systemadministratoren festgelegt werden, bewertet werden kann, wie gut ein Projekt mit Portfoliozielen übereinstimmt. &#x200B;
-* **Benutzerdefinierte Forms:** Optionale Formulare, die auf den Business-Case zugeschnitten sind. &#x200B;
+* **Projektinfo:** Allgemeine Details wie „Projektsponsor“ und „Geplanter Nutzen“, die den potenziellen finanziellen Vorteil durch die Fertigstellung des Projekts abschätzen. 
+* **Ausgaben:** Nicht-Arbeitskosten wie Reisekosten oder Standmieten, die sich auf die budgetierten Kosten und den Nettowert auswirken. 
+* **Ressourcenbudgetierung:** Aus dem Ressourcenplaner abgerufene Arbeitsschätzungen. Dafür müssen Ressourcen-Pools in Workfront eingerichtet werden. 
+* **Risiken:** Identifizieren von Risiken, Schätzen der damit verbundenen Kosten und Wahrscheinlichkeit und Berechnen der Auswirkungen der Risiken auf den Nettowert. 
+* **Scorecards:** Tools, mit denen anhand vordefinierter Fragen und Werte, die von Systemadmins festgelegt werden, bewertet wird, inwiefern ein Projekt den Portfoliozielen gerecht wird. 
+* **Benutzerdefinierte Formulare:** Optionale Formulare, die auf den Business-Case zugeschnitten sind. 
 
 
 ## Empfohlene Tutorials zu diesem Thema

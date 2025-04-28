@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu über- und untergeordneten Aufgaben
-description: Optimieren Sie das Projektmanagement mit Aufgaben als Grundlage, indem Sie über- und untergeordnete Strukturen, die automatische Fertigstellung übergeordneter Aufgaben, flexible Organisationstools und eine maßgeschneiderte Aufgabenstrukturierung für mehr Effizienz verwenden.
+description: Optimieren Sie das Projekt-Management mit Aufgaben als Grundlage, indem Sie über- und untergeordnete Strukturen, die automatische Fertigstellung übergeordneter Aufgaben, flexible Organisations-Tools und eine maßgeschneiderte Aufgabenstrukturierung für mehr Effizienz verwenden.
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -13,26 +13,26 @@ jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zu über- und untergeordneten Aufgaben
 
-In diesem Video wird die Aufgabenstruktur in Workfront erläutert. Aufgaben sind wesentliche Komponenten eines Projekts, die die für die Fertigstellung erforderlichen Arbeitselemente darstellen&#x200B; Im Video wird die Bedeutung der korrekten Organisation von Aufgaben als wichtiger Schritt in der Projektplanung und im Projektmanagement hervorgehoben. Es zeigt, wie Sie mit Aufgaben arbeiten können, und erläutert die Beziehungen zwischen übergeordneten und untergeordneten Aufgaben.
-&#x200B;Übergeordnete Aufgaben fungieren als Organisatoren, die das Projekt in Phasen, Phasen oder Meilensteine gruppieren, und werden nicht einzelnen Personen zugewiesen. Untergeordnete Aufgaben oder Teilaufgaben stellen verwertbare Arbeit dar, die Team-Mitgliedern zugewiesen wird.
+In diesem Video wird die Aufgabenstruktur in Workfront beschrieben. Aufgaben sind wesentliche Komponenten eines Projekts und stellen die für die Fertigstellung erforderlichen Arbeitselemente dar. Im Video wird der Schwerpunkt auf die korrekte Organisation von Aufgaben als wichtiger Schritt in der Projektplanung und im Projekt-Management gelegt. Es zeigt die ersten Schritte bei der Arbeit mit Aufgaben und erläutert die Beziehungen zwischen übergeordneten und untergeordneten Aufgaben.
+Übergeordnete Aufgaben fungieren als Organisatoren, die das Projekt in Phasen oder Meilensteine gruppieren, und werden nicht an einzelne Personen zugewiesen. Untergeordnete Aufgaben oder Unteraufgaben stellen umsetzbare Arbeit dar, die an Team-Mitglieder zugewiesen wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Aufgaben als Projekt-Backbone:** Aufgaben stellen die Arbeitselemente dar, die zum Abschließen eines Projekts erforderlich sind und sind für eine effektive Projektplanung und -verwaltung von entscheidender Bedeutung. &#x200B;
-* **hierarchische Aufgabenstruktur:** übergeordneten Aufgaben gruppieren das Projekt in Phasen, Phasen oder Meilensteinen, während untergeordnete Aufgaben (Unteraufgaben) verwertbare Arbeit darstellen, die den Team-Mitgliedern zugewiesen wird. &#x200B;
-* **Automatischer Abschluss übergeordneter Aufgaben:** Übergeordnete Aufgaben werden automatisch als „abgeschlossen“ markiert, wenn alle zugehörigen untergeordneten Aufgaben abgeschlossen sind. &#x200B;
-* **Tools für die Aufgabenorganisation:** Aufgaben können mithilfe der Schaltflächen zum Einrücken und Ausrücken organisiert werden, um hierarchische Strukturen zu erstellen. Dabei werden bis zu sieben Ebenen von hierarchischen Beziehungen zwischen übergeordneten und untergeordneten Elementen unterstützt.
-* **Flexible Aufgabenstruktur:** Projekte können eine über-/untergeordnete Struktur verwenden oder alle Aufgaben auf derselben Ebene belassen, je nach den spezifischen Anforderungen des Projekts. &#x200B;
+* **Aufgaben als Rückgrat des Projekts:** Aufgaben stellen die Arbeitselemente dar, die zum Abschließen eines Projekts erforderlich und für eine effektive Projektplanung und ein effektives Projekt-Management von entscheidender Bedeutung sind.
+* **Struktur mit über- und untergeordneten Aufgaben:** Übergeordnete Aufgaben gruppieren das Projekt in Phasen oder Meilensteine, während untergeordnete Aufgaben (Unteraufgaben) umsetzbare Arbeit darstellen, die den Team-Mitgliedern zugewiesen wird.
+* **Automatischer Abschluss übergeordneter Aufgaben:** Übergeordnete Aufgaben werden automatisch als „abgeschlossen“ markiert, wenn alle zugehörigen untergeordneten Aufgaben abgeschlossen sind.
+* **Tools für die Aufgabenorganisation:** Aufgaben können mithilfe der Schaltflächen „Einrücken“ und „Ausrücken“ organisiert werden, um hierarchische Strukturen zu erstellen. Dabei werden bis zu sieben Ebenen von Beziehungen zwischen übergeordneten und untergeordneten Elementen unterstützt.
+* **Flexible Aufgabenstruktur:** Projekte können abhängig von den spezifischen Anforderungen des Projekts eine Struktur mit über- und untergeordneten Elementen verwenden oder alle Aufgaben auf derselben Ebene belassen.
 
 
 ## Empfohlene Tutorials zu diesem Thema

@@ -1,6 +1,6 @@
 ---
-title: Verfolgen des Arbeitsfortschritts mit Projektmetriken
-description: Verfolgen Sie die Projektleistung in Workfront, indem Sie auf der Registerkarte „Metriken“ auf KPIs, Aufgaben- und Problemdiagramme, Metriken nach Verantwortlichem und Exportoptionen für eine effiziente Fortschrittsüberwachung zugreifen.
+title: Tracking des Arbeitsfortschritts mit Projektmetriken
+description: Verfolgen Sie die Projektleistung in Workfront nach, indem Sie für eine effiziente Fortschrittsüberwachung auf der Registerkarte „Metriken“ auf KPIs, Aufgaben- und Problemdiagramme, Metriken nach zugewiesener Person und Exportoptionen zugreifen.
 activity: use
 feature: Work Management
 thumbnail: 336667.jpeg
@@ -14,33 +14,33 @@ jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '338'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# Verfolgen des Arbeitsfortschritts mit Projektmetriken
+# Tracking des Arbeitsfortschritts mit Projektmetriken
 
-In diesem Video wird erläutert, wie Sie den Projektfortschritt mithilfe von Projektmetriken verfolgen. &#x200B; Es zeigt den Zugriff auf die Registerkarte „Metriken“ im linken Bereich eines Projekts, der möglicherweise einen Bildlauf und das Klicken auf „Mehr anzeigen“ erfordert. Im KPI-Bereich oben werden wichtige Leistungsindikatoren wie abgeschlossene, unvollständige und überfällige Aufgaben angezeigt. &#x200B; Benutzer können auf Indikatoren klicken, um bestimmte Aufgaben anzuzeigen und Diagramme zu verwenden, um Aufgaben oder Probleme nach Status oder Priorität zu gruppieren. &#x200B; Wenn Sie den Mauszeiger über die Spalten bewegen, werden Mengen angezeigt, und das Diagramm zeigt das Verhältnis von abgeschlossenen zu unvollständigen Aufgaben oder Problemen. &#x200B; Metriken können auch Aufgaben nach Verantwortlichem basierend auf ihrem Status (abgeschlossen, unvollständig, bevorstehende oder überfällig) anzeigen. &#x200B; Die Einstellungen zum Anzeigen von Metriken werden für zukünftige Besuche gespeichert. &#x200B; Schließlich wird im Video gezeigt, wie die Seite „Metriken“ mithilfe der Schaltfläche Exportieren als PNG-Datei exportiert wird. &#x200B;
+In diesem Video wird beschrieben, wie Sie den Projektfortschritt mithilfe von Projektmetriken nachverfolgen. Es zeigt den Zugriff auf die Registerkarte „Metriken“ im linken Panel eines Projekts. Hierzu ist möglicherweise ein Scrollen und das Klicken auf „Mehr anzeigen“ erforderlich. Oben im KPI-Bereich werden wichtige Key Performance Indicators wie abgeschlossene, unvollständige und überfällige Aufgaben angezeigt. Benutzende können auf Indikatoren klicken, um bestimmte Aufgaben anzuzeigen, und Diagramme verwenden, um Aufgaben oder Probleme nach Status oder Priorität zu gruppieren. Wenn sie den Mauszeiger über die Spalten bewegen, werden Mengen angezeigt, und das Diagramm zeigt das Verhältnis von abgeschlossenen zu unvollständigen Aufgaben oder Problemen. Metriken können außerdem Aufgaben nach zugewiesener Person basierend auf ihrem Status (abgeschlossen, unvollständig, bevorstehend oder überfällig) anzeigen. Die Einstellungen zum Anzeigen von Metriken werden für zukünftige Besuche gespeichert. Abschließend wird im Video gezeigt, wie die Seite „Metriken“ mithilfe der Schaltfläche „Exportieren“ als PNG-Datei exportiert wird. 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Zugriff auf Projektmetriken:** Navigieren Sie im linken Bereich Ihres Projekts zur Registerkarte „Metriken“, um den Fortschritt zu verfolgen. &#x200B; Möglicherweise müssen Sie nach unten scrollen und auf „Weitere anzeigen“ klicken, um sie zu finden. &#x200B;
-* **Key Performance Indicators (KPIs):** KPI-Bereich zeigt abgeschlossene, unvollständige und überfällige Aufgaben an. &#x200B; Durch Klicken auf die Indikatoren können Sie bestimmte Aufgaben anzeigen. &#x200B;
-* **Aufgaben- und Problemdiagramme:** Diagramme gruppieren Aufgaben oder Probleme nach Status oder Priorität und zeigen das Verhältnis von abgeschlossen zu unvollständig an. &#x200B; Wenn Sie den Mauszeiger über Spalten bewegen, werden Mengen angezeigt. &#x200B;
-* **Metriken nach Verantwortlichem:** Aufgaben nach Verantwortlichem auf der Grundlage ihres Status (abgeschlossen, unvollständig, bevorsteht oder überfällig). &#x200B; Voreinstellungen werden für zukünftige Besuche gespeichert. &#x200B;
-* **Metriken exportieren:** Exportieren Sie die Seite mit den Metriken als PNG-Datei, indem Sie auf die Schaltfläche Exportieren in der rechten oberen Ecke des Bildschirms klicken. &#x200B;
+* **Zugreifen auf Projektmetriken:** Navigieren Sie im linken Panel Ihres Projekts zur Registerkarte „Metriken“, um den Fortschritt nachzuverfolgen. Möglicherweise müssen Sie nach unten scrollen und auf „Mehr anzeigen“ klicken, um sie zu finden. 
+* **Key Performance Indicators (KPIs):** Im KPI-Bereich werden abgeschlossene, unvollständige und überfällige Aufgaben angezeigt. Durch Klicken auf die Indikatoren können Sie bestimmte Aufgaben anzeigen. 
+* **Aufgaben- und Problemdiagramme:** Die Diagramme gruppieren Aufgaben oder Probleme nach Status oder Priorität und zeigen das Verhältnis von abgeschlossen zu unvollständig an. Wenn Sie den Mauszeiger über Spalten bewegen, werden die entsprechenden Mengen angezeigt. 
+* **Metriken nach zugewiesener Person:** Sie können Aufgaben nach zugewiesener Person auf der Grundlage ihres Status (abgeschlossen, unvollständig, bevorstehend oder überfällig) anzeigen. Die Einstellungen werden für zukünftige Besuche gespeichert. 
+* **Exportieren von Metriken:** Sie können die Seite „Metriken“ als PNG-Datei exportieren, indem Sie in der rechten oberen Ecke des Bildschirms auf die Schaltfläche „Exportieren“ klicken. 
 
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erste Schritte bei der Projektverwaltung](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Nachverfolgen des gesamten Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
-* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Erste Schritte beim Projekt-Management](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Nachverfolgen des allgemeinen Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
+* [Tracking des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [Grundlegendes zur [!UICONTROL Gantt]-Ansicht](/help/manage-work/projects/understand-the-gantt-view.md)
 * [Grundlegendes zur [!UICONTROL Pinnwand]-Ansicht](/help/manage-work/projects/understand-the-board-view.md)

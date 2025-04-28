@@ -1,6 +1,6 @@
 ---
 title: Informationen zur [!UICONTROL Gantt]-Ansicht
-description: Maximieren Sie die Projekteffizienz mit Gantt-Diagrammen, indem Sie Übersichtsansichten, Fortschrittsverfolgung, Meilenstein-Management, Vorgänger-Insights und anpassbare Optionen zur Optimierung des Aufgaben- und Ressourcenmanagements bereitstellen.
+description: Maximieren Sie die Projekteffizienz mit Gantt-Diagrammen, die eine Gesamtübersicht, Tracking des Fortschritts, Meilenstein-Management, Erkenntnisse zu Vorgängern und anpassbare Optionen zur Optimierung des Aufgaben- und Ressourcen-Managements bieten.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,49 +13,49 @@ recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '363'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zur [!UICONTROL Gantt]-Ansicht
 
-In diesem Video wird erläutert, wie Sie mit dem Projekt-Gantt-Diagramm und dem Aufgaben-Gantt-Diagramm Aufgaben und Projekte effektiv visualisieren und verwalten können. &#x200B; Gantt-Diagramme bieten eine Übersicht über Aufgaben, Vorlagen und Projekte und werden häufig in Portfolios verwendet, um Beziehungen zwischen Projekten, insbesondere solchen, die Ressourcen gemeinsam nutzen, zu verstehen. &#x200B;
+In diesem Video wird beschrieben, wie Sie Projekte und Aufgaben mit den Gantt-Diagrammen „Projekt“ und „Aufgabe“ effektiv visualisieren und verwalten. Gantt-Diagramme liefern eine Gesamtübersicht über Aufgaben, Vorlagen und Projekte und werden häufig in Portfolios eingesetzt, um die Beziehungen zwischen Projekten nachzuvollziehen, insbesondere bei Projekten mit gemeinsamen Ressourcen. 
 
-**Zu den wichtigsten Funktionen des Projekt-Gantt-Diagramms gehören:**
+**Zu den wichtigsten Funktionen des Gantt-Diagramms „Projekt“ gehören:**
 
-* Anzeigen tatsächlicher Datumswerte (grüne Dreiecke), abgeschlossener Prozentsätze, Meilensteindiamanten, Meilensteinlinien und projektübergreifender Vorgänger&#x200B;
-* Fortschrittsstatus-Indikatoren: grün (pünktlich), gelb (gefährdet) und rot (in Schwierigkeiten).
-* Anzeige des voraussichtlichen Start- und Abschlussdatums zusammen mit dem geplanten Datum
-* Aufgaben in Projekten werden angezeigt, um einen schnellen Überblick zu erhalten.
+* Anzeigen von tatsächlichen Daten (grüne Dreiecke), Fertigstellungsgrad („Prozent abgeschlossen“), Meilenstein-Diamanten, Meilenstein-Linien und projektübergreifenden Vorgängern.
+* Fortschrittsanzeigen: grün (im Zeitplan), gelb (gefährdet) und rot (in Schwierigkeiten).
+* Anzeigen der voraussichtlichen Start- und Fertigstellungsdaten neben den geplanten Daten.
+* Anzeigen der Aufgaben innerhalb von Projekten für eine schnelle Übersicht.
 
-**Zu den wichtigsten Funktionen des Aufgaben-Gantt-Diagramms gehören:**
+**Zu den wichtigsten Funktionen des Gantt-Diagramms „Aufgabe“ gehören:**
 
-* Anzeigen der tatsächlichen Daten, Zuweisungen (Aufgabenbesitzer und Zuordnungsprozentsatz), Baselines, Commit-Datumsangaben und des Prozentsatzes der Fertigstellung.
-* Hervorheben des kritischen Pfads (rot) und Kennzeichnen von Meilensteinaufgaben mit Diamanten oder Linien.
-* Vorgänger innerhalb und zwischen Projekten werden überprüft&#x200B;
-* Fortschrittsstatusanzeigen: grün (pünktlich), gelb (hinten), hellblau (gefährdet) und rot (spät).
-* Anzeige des voraussichtlichen Termins für Aufgaben.
+* Anzeigen von tatsächlichen Daten, Arbeitsaufträge (Aufgabenbesitzende und Prozentsatz der Zuordnung), Baselines, Verpflichtungsdaten und Fertigstellungsgrad („Prozent abgeschlossen“).
+* Hervorheben des kritischen Pfads (rot) und Markieren von Meilensteinaufgaben mit Diamanten oder Linien.
+* Überprüfen von Vorgängern innerhalb von Projekten und über Projekte hinweg.
+* Fortschrittsanzeigen: grün (im Zeitplan), gelb (in Verzug), hellblau (gefährdet) und rot (verspätet).
+* Anzeigen der voraussichtlichen Daten für Aufgaben.
 
-Das Video hebt die Flexibilität von Gantt-Diagrammen hervor, sodass Benutzende Ansichten anpassen und mehrere Elemente gleichzeitig anzeigen können, um das Projekt-Management zu verbessern.
+Im Video wird der Schwerpunkt auf die Flexibilität von Gantt-Diagrammen gelegt, durch die Benutzende Ansichten anpassen und mehrere Elemente gleichzeitig anzeigen können und so ein besseres Projekt-Management ermöglicht wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
 
 Weitere Informationen finden Sie online im Artikel [Erste Schritte mit dem Gantt-Diagramm](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=de).
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Übersicht:** Gantt-Diagramme bieten einen umfassenden Überblick über Aufgaben, Projekte und Portfolios, sodass Beziehungen und die gemeinsame Nutzung von Ressourcen in allen Projekten leicht verständlich sind. &#x200B;
-* **Fortschrittsverfolgung:** Fortschrittsstatusanzeigen (grün, gelb, rot und hellblau) helfen bei der Überwachung von Projekt- und Aufgabenzeitplänen, wobei der Status „termingerecht“, „gefährdet“, „verzögert“ oder „verspätet“ hervorgehoben wird. &#x200B;
-* **Meilenstein-Management:** Meilensteindiamanten und -linien markieren visuell wichtige Abschlussdaten und helfen so bei der Verfolgung des Meilensteinfortschritts innerhalb von Projekten. &#x200B;
-* **Vorgänger-Insights** Projekt- und aufgabenspezifische Vorgänger können einfach überprüft werden, um sicherzustellen, dass Abhängigkeiten klar und verwaltbar sind. &#x200B;
-* **Anpassungsoptionen** Benutzer können tatsächliche Termine, voraussichtliche Termine, Baselines, Zuweisungen und mehr anzeigen und die Ansicht des Gantt-Diagramms an ihre spezifischen Anforderungen anpassen.
+* **Gesamtübersicht:** Gantt-Diagramme bieten einen umfassenden Überblick über Aufgaben, Projekte und Portfolios, sodass Beziehungen und die gemeinsame Nutzung von Ressourcen in Projekten leicht nachzuvollziehen sind. 
+* **Tracking des Fortschritts:** Fortschrittsanzeigen (grün, gelb, rot und hellblau) helfen bei der Überwachung der Timelines von Projekten und Aufgaben unter Verwendung der Status „Im Zeitplan“, „Gefährdet“, „In Verzug“ oder „Verspätet“. 
+* **Meilenstein-Management:** Meilenstein-Diamanten und -Linien markieren visuell wichtige Fertigstellungsdaten und helfen beim Tracking des Meilensteinfortschritts in Projekten. 
+* **Erkenntnisse zu Vorgängern:** Projektübergreifende und aufgabenspezifische Vorgänger lassen sich problemlos überprüfen, um sicherzustellen, dass Abhängigkeiten klar und beherrschbar sind. 
+* **Anpassungsoptionen:** Benutzende können tatsächliche Daten, geplante Daten, Baselines, Arbeitsaufträge usw. anzeigen und so die Gantt-Diagrammansicht an ihre individuellen Bedürfnisse anpassen.
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erste Schritte bei der Projektverwaltung](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Nachverfolgen des gesamten Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
-* [Verfolgen des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Erste Schritte beim Projekt-Management](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Nachverfolgen des allgemeinen Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
+* [Tracking des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [Grundlegendes zur [!UICONTROL Pinnwand]-Ansicht](/help/manage-work/projects/understand-the-board-view.md)

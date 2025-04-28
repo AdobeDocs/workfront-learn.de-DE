@@ -1,6 +1,6 @@
 ---
 title: Aktualisieren einer Anfrage
-description: Vereinfachen Sie die Anfrageverwaltung in Workfront, indem Sie Filter verwenden, um Anfragen zu finden, Status und Details effizient zu aktualisieren, auf vollständige Informationen zuzugreifen und eine zentralisierte Zusammenarbeit für optimierte Workflows zu fördern.
+description: Vereinfachen Sie die Verwaltung von Anfragen in Workfront, indem Sie mithilfe von Filtern nach Anfragen suchen, Status und Details effizient aktualisieren, auf vollständige Informationen zugreifen und eine zentralisierte Zusammenarbeit für optimierte Workflows fördern.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -14,28 +14,28 @@ recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
 source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '248'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 # Aktualisieren einer Anfrage
 
-In diesem Video wird erläutert, wie Anfragen in Adobe Workfront gesucht und aktualisiert werden. &#x200B; Nachdem Sie eine Anfrage gesendet haben, können Sie Informationen hinzufügen oder Fragen stellen, um sicherzustellen, dass die neuesten Details für die daran arbeitenden Personen verfügbar sind. &#x200B; &#x200B;
+In diesem Video wird beschrieben, wie Sie in Adobe Workfront Anfragen finden und verwalten. Nach dem Senden einer Anfrage können Sie Informationen hinzufügen oder Fragen stellen, um sicherzustellen, dass die neuesten Details für die daran arbeitenden Personen verfügbar sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Einfaches Auffinden von Anfragen** Verwenden Sie Filter wie „Meine geöffneten Anfragen“ oder „Meine Anfragen“ im Abschnitt „Anfragen“, um gesendete Anfragen zu finden. &#x200B; Filter anpassen, um von anderen erstellte oder abgeschlossene Anfragen anzuzeigen.
-* **Status vor der Aktualisierung überprüfen** Überprüfen Sie die Spalten „Status“ und „Konvertiert in“, um festzustellen, ob die Anfrage aufgelöst oder in eine Aufgabe/ein Projekt konvertiert wurde. &#x200B; Möglicherweise müssen stattdessen Aktualisierungen am konvertierten Element vorgenommen werden. &#x200B;
-* **Anforderungen effizient aktualisieren:** Öffnen Sie das Zusammenfassungsfenster, indem Sie die Anforderung auswählen und auf das Symbol „Zusammenfassung öffnen“ klicken. &#x200B; Fügen Sie im Feld „Neues Update starten“ Aktualisierungen hinzu, kennzeichnen Sie Benutzer mit @username und klicken Sie auf „Aktualisieren“ &#x200B;
-* **Zugriff auf vollständige Anfragedetails:** Öffnen Sie die Anfrage, indem Sie auf den Namen klicken, um detaillierte Informationen anzuzeigen, einschließlich Fortschritt, zugewiesener Benutzer, geplantes Abschlussdatum und Status. &#x200B; Verwenden Sie das linke Bedienfeld, um auf Aktualisierungen, Dokumente und Anfragedetails zuzugreifen.
-* **Zentralisierte Collaboration:** Adobe Workfront speichert alle Anfrageinformationen an einem Ort, sodass Benutzende die neuesten Informationen überprüfen, aktualisieren und effektiv zusammenarbeiten können. &#x200B;
+* **Einfaches Finden von Anfragen:** Verwenden Sie Filter wie „Meine offenen Anfragen“ oder „Meine Anfragen“ im Abschnitt „Anfragen“, um eingereichte Anfragen zu finden. Passen Sie Filter an, um von anderen Personen erstellte oder abgeschlossene Anfragen anzuzeigen.
+* **Überprüfen von Status vor der Aktualisierung:** Überprüfen Sie die Spalten „Status“ und „Konvertiert in“, um festzustellen, ob die Anfrage gelöst oder in eine Aufgabe oder ein Projekt konvertiert wurde. Möglicherweise müssen stattdessen Aktualisierungen am konvertierten Element vorgenommen werden.
+* **Effizientes Aktualisieren von Anforderungen:** Öffnen Sie das Panel „Zusammenfassungen“, indem Sie die Anfrage auswählen und auf das Symbol „Zusammenfassung öffnen“ klicken. Fügen Sie im Feld „Neues Update starten“ Aktualisierungen hinzu, taggen Sie Benutzende mit „@username“ und klicken Sie auf „Aktualisieren“.
+* **Zugriff auf vollständige Anfragedetails:** Öffnen Sie die Anfrage, indem Sie auf den Namen klicken, um detaillierte Informationen anzuzeigen, einschließlich Fortschritt, zugewiesene Person, geplantes Fertigstellungsdatum und Status. Verwenden Sie das linke Panel, um auf Aktualisierungen, Dokumente und Anfragedetails zuzugreifen.
+* **Zentralisierte Zusammenarbeit:** Adobe Workfront speichert alle Anfrageinformationen an einem Ort, sodass Benutzende die neuesten Informationen überprüfen, aktualisieren und für eine effektive Zusammenarbeit nutzen können.
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Anfrage stellen](/help/manage-work/issues-requests/make-a-request.md)
+* [Stellen einer Anfrage](/help/manage-work/issues-requests/make-a-request.md)
 * [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)

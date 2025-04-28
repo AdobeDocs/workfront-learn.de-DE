@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu Anfragewarteschlangen
-description: Optimieren Sie den Betrieb in Workfront mit zentralisierten Anfrage-Warteschlangen für Übermittlungen, effizienter Warteschlangenverwaltung und einfachem Zugriff auf gesendete Anfragen für verbesserte Projekt-Workflows.
+title: Grundlegendes zu Anfrage-Warteschlangen
+description: Optimieren Sie den Betrieb in Workfront mit zentralisierten Anfrage-Warteschlangen für Übermittlungen, effizientem Warteschlangen-Management und einfachem Zugriff auf gesendete Anfragen für verbesserte Projekt-Workflows.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -14,25 +14,25 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zu Anfragewarteschlangen
+# Grundlegendes zu Anfrage-Warteschlangen
 
-In diesem Video werden das Konzept der Anfrage-Warteschlangen in Workfront, ihr Zweck und die Art und Weise, wie Anfragen gesendet und verwaltet werden, erläutert. &#x200B; Anfrage-Warteschlangen dienen als zentraler Speicherort für die Übermittlung verschiedener Arten von Anfragen. &#x200B;
+In diesem Video werden das Konzept der Anfrage-Warteschlangen in Workfront, ihr Zweck und das Senden sowie Verwalten von Anfragen beschrieben. Anfrage-Warteschlangen dienen als zentraler Ort für die Übermittlung verschiedener Anfragetypen. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Zweck von Anfrage-Warteschlangen:** Anfrage-Warteschlangen in Workfront bieten einen zentralen Ort für die Übermittlung verschiedener Arten von Anfragen wie PTO, Software-Upgrades, Client-Vorschläge und Schulungsanforderungen.
-* **Senden einer Anfrage:** Benutzer können Anfragen senden, indem sie zum Bereich „Anfrage“ navigieren, den Anfragetyp auswählen, Felder wie Betreff, Beschreibung, optionale Felder (z. B. Dokument) ausfüllen und ein benutzerdefiniertes Formular ausfüllen. &#x200B;
-* **Anfragen als Probleme:** In Workfront wird jede Anfrage als Problem behandelt und muss mit einem Projekt verknüpft sein. &#x200B; Projekte, die ausschließlich Anfragen gewidmet sind, werden als Anfrage-Warteschlangen bezeichnet. &#x200B;
-* **Warteschlangenverwaltung:** effektive Warteschlangenverwaltung umfasst die Organisation von Anforderungen nach Typ, wodurch die erforderlichen Informationen und Zuweisungen angepasst werden, was die Effizienz verbessert. &#x200B;
-* **Auffinden gesendeter Anfragen** Gesendete Anfragen finden Sie in der Registerkarte „Problem“ der zugehörigen Anfrage-Warteschlange, indem Sie zum Bereich „Projekte“ navigieren und das entsprechende Projekt auswählen. &#x200B;
+* **Zweck von Anfrage-Warteschlangen:** Anfrage-Warteschlangen in Workfront bieten einen zentralen Ort für die Übermittlung verschiedener Anfragetypen wie PTO, Software-Upgrades, Kundenvorschläge und Schulungsanforderungen.
+* **Senden einer Anfrage:** Benutzende können Anfragen einreichen, indem sie zum Bereich „Anfrage“ navigieren, den Anfragetyp auswählen, Felder wie „Betreff“ und „Beschreibung“ sowie optionale Felder (z. B. Dokument) und ein benutzerdefiniertes Formular ausfüllen. 
+* **Anfragen als Probleme:** In Workfront wird jede Anfrage als Problem behandelt und muss mit einem Projekt verknüpft sein. Projekte, die sich ausschließlich auf Anfragen beziehen, werden als Anfrage-Warteschlangen bezeichnet. 
+* **Warteschlangen-Management:** Ein effektives Warteschlangen-Management umfasst die Organisation von Anfragen nach Typ, wodurch die erforderlichen Informationen und Arbeitsaufträge angepasst werden, was die Effizienz verbessert. 
+* **Finden gesendeter Anfragen:** Die gesendeten Anfragen finden Sie auf der Registerkarte „Problem“ der zugehörigen Anfrage-Warteschlange. Navigieren Sie hierzu zum Bereich „Projekte“ und wählen Sie das entsprechende Projekt aus. 
 
 
 ## Empfohlene Tutorials zu diesem Thema

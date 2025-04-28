@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Dashboards
-description: Organisieren Sie Projektdaten mit Workfront-Dashboards und zeigen Sie diese an. Diese Daten können für nahtloses Projekt-Management und die Zusammenarbeit angepasst, aufgerufen, freigegeben und gedruckt werden.
+description: Organisieren Sie Projektdaten mit Workfront-Dashboards und zeigen Sie diese an. Diese Daten können für ein nahtloses Projekt-Management und eine gute Zusammenarbeit angepasst, aufgerufen, freigegeben und gedruckt werden.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,26 +12,26 @@ jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '635'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # Erstellen von Dashboards
 
 Das Video bietet eine umfassende Anleitung zum Verständnis und zur Verwendung von Dashboards in Workfront.
-&#x200B;Es wird erläutert, dass ein Dashboard eine Sammlung von Berichten ist, mit denen Benutzende verknüpfte Daten an einem Ort organisieren und anzeigen können.
+Es wird erläutert, dass es sich bei einem Dashboard um eine Sammlung von Berichten handelt, mit denen Benutzende zusammengehörige Daten zentral organisieren und anzeigen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
-* **Dashboards in Workfront:** Ein Dashboard ist eine Berichtssammlung, mit der Benutzende verwandte Daten wie Projekte, Aufgaben und Probleme in einer zentralen Ansicht organisieren und anzeigen können. &#x200B;
-* **Erstellen von Dashboards:** Dashboards können angepasst werden, indem ein Layout ausgewählt, Berichte, benutzerdefinierte Kalender oder externe Seiten hinzugefügt und für eine optimale Anzeige angeordnet werden. &#x200B; Benutzer können auch anpassen, welche Spalten in nebeneinander angezeigten Berichten im Dashboard angezeigt werden. &#x200B;
-* **Zugriff auf Dashboards:** Dashboards finden Sie unter „Meine Dashboards“, „Freigegebene Dashboards“ oder „Alle Dashboards“ im Bereich Dashboards. &#x200B; Häufig verwendete Dashboards können angeheftet oder zu den Favoriten hinzugefügt werden, um einen schnellen Zugriff zu ermöglichen. &#x200B;
-* **Freigabe von Dashboards:** Dashboards können über das Menü „Dashboard-Aktionen“ für andere Workfront-Benutzende freigegeben werden, einschließlich aller Berichte innerhalb des Dashboards. &#x200B;
-* **Druck-Dashboards:**-Dashboards können direkt über das Menü „Dashboard-Aktionen“ gedruckt werden, wodurch die Freigabe physischer Kopien der Daten erleichtert wird. &#x200B;
+* **Dashboards in Workfront:** Ein Dashboard ist eine Berichtssammlung, mit der Benutzende zusammengehörige Daten wie Projekte, Aufgaben und Probleme in einer zentralen Ansicht organisieren und anzeigen können. 
+* **Erstellen von Dashboards:** Dashboards können angepasst werden, indem ein Layout ausgewählt und Berichte, benutzerdefinierte Kalender oder externe Seiten hinzugefügt und für eine optimale Anzeige angeordnet werden. Benutzende können zudem anpassen, welche Spalten in nebeneinander angezeigten Berichten im Dashboard dargestellt werden. 
+* **Zugreifen auf Dashboards:** Dashboards sind im Bereich „Dashboards“ unter „Meine Dashboards“, „Freigegebene Dashboards“ oder „Alle Dashboards“ verfügbar. Häufig verwendete Dashboards können angeheftet oder als Favoriten hinzugefügt werden, um einen schnellen Zugriff zu ermöglichen. 
+* **Freigeben von Dashboards:** Dashboards können über das Menü „Dashboard-Aktionen“ für andere Workfront-Benutzende freigegeben werden. Dazu gehören auch alle Berichte innerhalb des Dashboards. 
+* **Drucken von Dashboards:** Dashboards können direkt über das Menü „Dashboard-Aktionen“ gedruckt werden. Physische Kopien der Daten können so einfacher verteilt werden. 
 
 
 ## Aktivitäten zum Erstellen eines Dashboards
@@ -49,7 +49,7 @@ Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizensuche�
 
 ### Antwort 1
 
-1. Führen Sie den Bericht aus, den Sie in der Aktivität „Notizbericht erstellen“ erstellt haben. Haben Sie sie noch nicht erstellt? Klicken Sie hier, um die Aktivität im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) anzuzeigen.
+1. Führen Sie den Bericht aus, den Sie in der Aktivität „Notizbericht erstellen“ erstellt haben. Sie haben ihn noch nicht erstellt? Klicken Sie hier, um sich die Aktivität im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) anzusehen.
 1. Klicken Sie auf **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Kopieren]**. [!DNL Workfront] erstellt einen neuen Bericht mit dem Namen „Notizensuche (Kopie)“.
 1. Gehen Sie zu **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Bearbeiten]**. Klicken Sie auf **[!UICONTROL Berichteinstellungen]** und ändern Sie den Namen in „Nach Notizen in diesem Projekt suchen“.
 1. Klicken Sie auf [!UICONTROL Eingabeaufforderungen im Bericht] und löschen Sie die Eingabeaufforderung [!UICONTROL Projekt] > [!UICONTROL Name] aus der Liste.

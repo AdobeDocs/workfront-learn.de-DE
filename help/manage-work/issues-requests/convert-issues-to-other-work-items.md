@@ -1,6 +1,6 @@
 ---
-title: Umwandeln eines Problems oder einer Anfrage in eine Aufgabe
-description: Probleme können in Workfront mühelos in Aufgaben mit bearbeitbaren Namen, nahtlosem benutzerdefinierten Formularanhang, flexibler Projektauswahl, Konvertierungsoptionen und synchronisierten Statusaktualisierungen für optimierte Workflows konvertiert werden.
+title: Konvertieren eines Problems oder einer Anfrage in eine Aufgabe
+description: Konvertieren Sie in Workfront mühelos Probleme in Aufgaben mit bearbeitbaren Namen, nahtlosen benutzerdefinierten Formularanhängen, flexibler Projektauswahl, Konvertierungsoptionen und synchronisierten Statusaktualisierungen, um optimierte Workflows sicherzustellen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,28 +12,28 @@ recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
 source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
-# Umwandeln eines Problems oder einer Anfrage in eine Aufgabe
+# Konvertieren eines Problems oder einer Anfrage in eine Aufgabe
 
-Das Video zeigt, wie Sie ein Problem oder eine Anfrage in eine Aufgabe konvertieren.
+Im Video wird gezeigt, wie Sie ein Problem oder eine Anfrage in eine Aufgabe konvertieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Einfacher Konvertierungsprozess:** Um ein Problem/eine Anfrage in eine Aufgabe zu konvertieren, öffnen Sie das Problem, klicken Sie auf das Dreipunkt-Menü und wählen Sie „In Aufgabe konvertieren“ aus. &#x200B; Aufgabenname und Beschreibung werden standardmäßig kopiert, können jedoch bearbeitet werden. &#x200B;
-* **Auswahl des Zielprojekts** Sie können das Zielprojekt für die Aufgabe auswählen, entweder das Standardprojekt, in dem sich das Problem befindet, oder ein anderes Projekt, auf das Sie Zugriff haben. &#x200B;
-* **Automatische Formularanhänge:** Benutzerdefinierte Formulare, die mit dem Problem verknüpft sind, werden automatisch zur Aufgabe hinzugefügt, um sicherzustellen, dass alle Feldwerte nahtlos übernommen werden. &#x200B;
-* **Konversionsoptionen:** Schlüsseloptionen umfassen:
-   * Ursprüngliches Problem neben der Aufgabe aktiv halten. &#x200B;
-   * Dem Anforderer Zugriff auf die Aufgabe gewähren. &#x200B;
-   * Das geplante Abschlussdatum der Anfrage für die Aufgabe wird beibehalten. &#x200B;
-* **Verknüpfte Statusaktualisierungen:** Wenn das ursprüngliche Problem beibehalten wird, wird sein Status automatisch auf der Grundlage des Aufgabenfortschritts aktualisiert, wodurch eine Synchronisierung zwischen dem Problem und der Aufgabe sichergestellt wird. &#x200B;
+* **Einfacher Konvertierungsprozess:** Um ein Problem oder eine Anfrage in eine Aufgabe zu konvertieren, öffnen Sie das Problem, klicken Sie auf das Drei-Punkte-Menü und wählen Sie „In Aufgabe umwandeln“ aus. Der Aufgabenname und die Beschreibung werden standardmäßig kopiert, können aber bearbeitet werden. 
+* **Auswahl des Zielprojekts:** Sie können das Zielprojekt für die Aufgabe auswählen – entweder das Standardprojekt, in dem sich das Problem befindet, oder ein anderes Projekt, auf das Sie Zugriff haben. 
+* **Automatisches Anhängen von Formularen:** Benutzerdefinierte Formulare, die mit dem Problem verknüpft sind, werden automatisch zur Aufgabe hinzugefügt, sodass alle Feldwerte nahtlos übernommen werden. 
+* **Konvertierungsoptionen:** Zu den wichtigsten Optionen gehören:
+   * Aktivhaltung des ursprünglichen Problems neben der Aufgabe. 
+   * Ermöglichung des Zugriffs der anfragenden Person auf die Aufgabe. 
+   * Beibehaltung des geplanten Fertigstellungsdatums des Problems für die Aufgabe. 
+* **Verknüpfte Statusaktualisierungen:** Wenn das ursprüngliche Problem beibehalten wird, wird sein Status automatisch anhand des Fortschritts der Aufgabe aktualisiert, was eine Synchronisierung zwischen Problem und Aufgabe sicherstellt. 
 
 
 >[!NOTE]
@@ -43,6 +43,6 @@ Das Video zeigt, wie Sie ein Problem oder eine Anfrage in eine Aufgabe konvertie
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
-* [Konvertieren eines Problems/einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Umgang mit ungeplanten Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

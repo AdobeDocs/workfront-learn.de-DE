@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Anfrage-Warteschlange
-description: Erstellen Sie effiziente Workfront-Anfragewarteschlangen, indem Sie Zugriffsberechtigungen definieren, Anfragetypen und -felder anpassen, die Warteschlange aktivieren und ihre Funktionalität für eine nahtlose Projektübermittlungsverwaltung testen.
+description: Erstellen Sie in Workfront effiziente Anfrage-Warteschlangen, indem Sie Zugriffsberechtigungen definieren, Anfragetypen und Felder anpassen, die Warteschlange aktivieren und ihre Funktionalität für ein nahtloses Management der Projektübermittlung testen.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -14,29 +14,29 @@ last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
 source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 # Erstellen einer Anfrage-Warteschlange
 
-Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warteschlange in Workfront. &#x200B; Im Video wird gezeigt, wie eine Anfrage mithilfe der neu erstellten Warteschlange gesendet wird, und es wird der Prozess der Eingabe von Details und der Überprüfung der Übermittlung auf der Registerkarte „Anforderungen gesendet“ gezeigt. &#x200B;
+Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warteschlange in Workfront. Am Ende des Videos wird gezeigt, wie Sie eine Anfrage mithilfe der neu erstellten Warteschlange senden. Außerdem wird der Prozess der Eingabe von Details und der Verifizierung der Übermittlung auf der Registerkarte „Gesendete Anfragen“ gezeigt. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Anforderungswarteschlange erstellen** Beginnen Sie mit der Erstellung eines neuen Projekts und dessen Benennung, die später als Anforderungswarteschlange verwendet wird. &#x200B; Stellen Sie sicher, dass Sie das Kontrollkästchen „Als Warteschlange für Hilfeanfragen veröffentlichen“ aktivieren, um sie offiziell als Warteschlange festzulegen. &#x200B;
-* **Zugriffsberechtigungen:** Sie, wer Anfragen an die Warteschlange senden kann, indem Sie aus vier Optionen auswählen: Beliebige Personen, Projektbetrachter, Firmenmitglieder oder Gruppenmitglieder. &#x200B;
-* **Anfragetypen:** Sie die Warteschlange so an, dass bestimmte Anfragetypen wie Probleme, Fehlerberichte, Änderungsanforderungen oder allgemeine Anfragen einbezogen werden. &#x200B; Die Standardoption ist „issues“ &#x200B;
-* **Anpassbare Felder** Legen Sie zusätzliche Details wie Standardreaktionszeit, Berechtigungen und andere Warteschlangenmerkmale fest, um die Funktionalität anzupassen. &#x200B;
-* **Aktivieren der Warteschlange:** Sie die Einstellungen und legen Sie den Projektstatus auf „aktuell“ fest, um die Warteschlange zu aktivieren. &#x200B; Testen Sie die Funktionalität, indem Sie eine Anfrage senden und auf der Registerkarte „Anforderungen gesendet“ überprüfen.
+* **Erstellen einer Anfrage-Warteschlange:** Beginnen Sie mit der Erstellung eines neuen Projekts und dessen Benennung. Dieses wird später als Anfrage-Warteschlange verwendet. Stellen Sie sicher, dass Sie das Kontrollkästchen „Als Hilfeanfrage-Warteschlange veröffentlichen“ aktivieren, um es offiziell als Warteschlange zu benennen. 
+* **Zugriffsberechtigungen:** Legen Sie fest, wer Anfragen an die Warteschlange senden kann, indem Sie aus vier Optionen auswählen: jede Person, Projektbetrachtende, Firmenmitarbeiter oder Gruppenmitglieder. 
+* **Anfragetypen:** Passen Sie die Warteschlange so an, dass bestimmte Anfragetypen wie Probleme, Fehlerberichte, Änderungsanforderungen oder allgemeine Anfragen einbezogen werden. Die Standardoption ist „Probleme“.
+* **Anpassbare Felder:** Legen Sie zusätzliche Details wie Standardreaktionszeit, Berechtigungen und andere Warteschlangenmerkmale fest, um die Funktionalität anzupassen. 
+* **Live-Schalten der Warteschlange** Speichern Sie die Einstellungen und legen Sie den Projektstatus auf „aktuell“ fest, um die Warteschlange zu aktivieren. Testen Sie die Funktionalität, indem Sie eine Anfrage senden und auf der Registerkarte „Gesendete Anfragen“ überprüfen.
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Grundlegendes zu Anfragewarteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
+* [Grundlegendes zu Anfrage-Warteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
 * [Grundlegendes zu den Einstellungen für einen Anfragefluss](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Erstellen eines Anfrageflusses](/help/manage-work/request-queues/create-a-request-flow.md)
 

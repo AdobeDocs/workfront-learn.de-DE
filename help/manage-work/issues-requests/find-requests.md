@@ -1,6 +1,6 @@
 ---
-title: Anforderungen suchen und verwalten
-description: Erfahren Sie, wie Sie Filter verwenden, Team-Arbeitsaufträge verwalten, benutzerdefinierte Berichte und Dashboards erstellen und die Bedeutung von „Mein“ in verschiedenen Kontexten klären, um eine effektive Anfragenverwaltung zu ermöglichen.
+title: Suchen und Verwalten von Anfragen
+description: Erfahren Sie, wie Sie zur effektiven Verwaltung von Anfragen Filter verwenden, Team-Zuweisungen verwalten und benutzerdefinierte Berichte sowie Dashboards erstellen und was „Meine“ in verschiedenen Kontexten bedeutet.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -14,9 +14,9 @@ doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ In diesem Video wird beschrieben, wie Sie Anfragen in Workfront finden und verwa
 
 * Workfront – Startseite
 * Anfragebereich
-* Seite Teams&#x200B;
+* Teams-Seite
 * Benutzerdefinierte Berichte und Dashboards
 
 
@@ -43,9 +43,9 @@ In diesem Video wird beschrieben, wie Sie Anfragen in Workfront finden und verwa
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Grundlegendes zu Anfragewarteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
-* [Anfrage stellen](/help/manage-work/issues-requests/make-a-request.md)
+* [Grundlegendes zu Anfrage-Warteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
+* [Stellen einer Anfrage](/help/manage-work/issues-requests/make-a-request.md)
 * [Aktualisieren einer Anfrage](/help/manage-work/issues-requests/update-a-request.md)
-* [Konvertieren eines Problems/einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Konvertieren eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 

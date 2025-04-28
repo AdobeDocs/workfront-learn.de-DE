@@ -1,6 +1,6 @@
 ---
 title: Live-Schalten eines Projekts
-description: Bereiten Sie Ihr Projekt für den Launch vor, indem Sie alle wichtigen Details überprüfen, seinen Status auf „aktuell“ festlegen und Benachrichtigungen und Berichte aktivieren, um die Arbeit offiziell zu beginnen.
+description: Bereiten Sie Ihr Projekt für den Launch vor, indem Sie alle wichtigen Details überprüfen, den Status auf „Aktuell“ setzen und Benachrichtigungen und Berichte aktivieren, um die Arbeit offiziell zu beginnen.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -13,30 +13,30 @@ jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
 source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 # Live-Schalten eines Projekts
 
-In diesem Video werden die letzten Schritte zur Live-Schaltung eines Projekts durch Änderung seines Status in „aktuell“ erläutert&#x200B; Zuvor wird die Überprüfung wichtiger Projektelemente hervorgehoben, einschließlich Aufgabennamen, Dauer, geplante Stunden, Vorgänger, Start- und Abschlussdaten sowie Zuweisungen, um sicherzustellen, dass alles korrekt und ordnungsgemäß festgelegt ist. &#x200B; Sobald das Projekt live ist, erhält der Projekt-Manager Benachrichtigungen, die auf globalen und persönlichen Einstellungen basieren, und das Projekt wird in Berichten und Filtern für aktive Projekte angezeigt. &#x200B; Dies markiert den offiziellen Beginn der Arbeit. &#x200B;
+In diesem Video werden die abschließenden Schritte für das Live-Schalten eines Projekts beschrieben. Hierzu wird der Status in „Aktuell“ geändert. Es wird darauf hingewiesen, dass vorher die wichtigsten Projektelemente wie Aufgabennamen, Laufzeiten, geplante Stunden, Vorgänger, Start- und Fertigstellungsdaten und Arbeitsaufträge überprüft werden sollten, um sicherzustellen, dass alles korrekt und richtig festgelegt ist. Sobald das Projekt live ist, erhält die Projektleiterin bzw. der Projektleiter Benachrichtigungen auf der Grundlage der globalen und persönlichen Einstellungen, und das Projekt wird in Berichten und Filtern für aktive Projekte angezeigt. Dies markiert den offiziellen Beginn der Arbeiten. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Projektdetails überprüfen** Stellen Sie sicher, dass Aufgabennamen, Dauer, geplante Stunden, Vorgänger, Start- und Abschlussdaten sowie Zuweisungen korrekt sind und ordnungsgemäß festgelegt wurden. &#x200B;
-* **Projektstatus ändern:** Sie den Projektstatus in der Projekt-Kopfzeile auf „aktuell“ oder in den Details, um ihn live zu schalten. &#x200B;
-* **Benachrichtigungen empfangen:** Als Projekt-Manager erhalten Sie Benachrichtigungen basierend auf globalen und persönlichen Einstellungen, sobald das Projekt live ist. &#x200B;
-* **Aktive Projekte verfolgen** Das Projekt wird in Berichten und Filtern für Live-, aktuelle oder laufende Projekte angezeigt, wodurch die Überwachung vereinfacht wird. &#x200B;
-* **Arbeit beginnen** Wenn Sie das Projekt live schalten, beginnt die Arbeits- und Ausführungsphase offiziell. &#x200B;
+* **Überprüfen der Projektdetails:** Vergewissern Sie sich, dass Aufgabennamen, Laufzeiten, geplante Stunden, Vorgänger, Start- und Fertigstellungsdaten und Arbeitsaufträge korrekt und richtig festgelegt sind. 
+* **Ändern des Projektstatus:** Aktualisieren Sie den Projektstatus in der Projektkopfzeile oder in den Details auf „Aktuell“, um es live zu schalten.
+* **Empfangen von Benachrichtigungen:** Als Projektleiterin bzw. Projektleiter erhalten Sie Benachrichtigungen auf der Grundlage globaler und persönlicher Einstellungen, sobald das Projekt live ist. 
+* **Tracking aktiver Projekte:** Das Projekt wird in Berichten und Filtern für aktive, aktuelle oder in Arbeit befindliche Projekte angezeigt und ist so leichter zu überwachen. 
+* **Beginnen der Arbeit:** Mit der offiziellen Live-Schaltung des Projekts beginnt die Arbeits- und Ausführungsphase. 
 
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erste Schritte bei der Projektverwaltung](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Erste Schritte beim Projekt-Management](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Suchen von Projekten](/help/manage-work/projects/find-projects.md)
 * [Freigeben eines Projekts](/help/manage-work/projects/share-a-project.md)

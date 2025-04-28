@@ -1,6 +1,6 @@
 ---
-title: Den [!UICONTROL Portfolio Optimizer verstehen]
-description: Optimieren Sie das Projektmanagement in Workfront, indem Sie Business Cases für faire Vergleiche abschließen, Projekte nach Status filtern, Bewertungen dynamisch anpassen, Projekte effektiv priorisieren und die Ressourcenplanung an den Portfoliozielen ausrichten.
+title: Grundlegendes zum [!UICONTROL Portfolio-Optimizer]
+description: Optimieren Sie das Projekt-Management in Workfront, indem Sie Business-Cases für angemessene Vergleiche abschließen, Projekte nach Status filtern, Bewertungen dynamisch anpassen, Projekte effektiv priorisieren und die Ressourcenplanung an den Portfoliozielen ausrichten.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,26 +13,26 @@ role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Den [!UICONTROL Portfolio Optimizer verstehen]
+# Grundlegendes zum [!UICONTROL Portfolio-Optimizer]
 
-In diesem Video wird erläutert, wie Sie mit dem Portfolio-Optimierungs-Tool in Workfront Projekte innerhalb eines Portfolios bewerten und priorisieren können. &#x200B; Sie beginnt mit dem Einreichen eines Business-Case für ein Projekt, der Änderung seines Status in „angefordert“ und der Aktivierung von Optionen, um es zu genehmigen oder abzulehnen. &#x200B; Vor der Genehmigung können Benutzende das Projekt mithilfe des Portfolio-Optimierungs-Tools mit anderen im Portfolio vergleichen. &#x200B;
+In diesem Video wird beschrieben, wie Sie mit dem Tool „Portfolio-Optimierung“ in Workfront Projekte innerhalb eines Portfolios auswerten und priorisieren können. Es beginnt mit dem Einreichen eines Business-Cases für ein Projekt, dem Ändern seines Status in „Angefordert“ und dem Aktivieren von Optionen zum Genehmigen oder Ablehnen. Vor der Genehmigung können Benutzende das Projekt mithilfe des Tools „Portfolio-Optimierung“ mit anderen Projekten im Portfolio vergleichen. 
 
-Das Video betont die Bedeutung von Business Cases für genaue Vergleiche und bietet Schritt-für-Schritt-Anweisungen zur effektiven Optimierung und Verwaltung von Projektprioritäten. &#x200B;
+Im Video wird der Schwerpunkt auf die Bedeutung von Business-Cases für genaue Vergleiche gelegt, und es bietet schrittweise Anweisungen zur effektiven Optimierung und zum effektiven Management von Projektprioritäten. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
 
 ## Die wichtigsten Punkte
 
-* **Abschließen von Business Cases für faire Vergleiche:** Stellen Sie sicher, dass alle Projekte abgeschlossene und eingereichte Business Cases haben, bevor Sie sie im Portfolio-Optimierungs-Tool vergleichen, um fehlende Daten und ungenaue Auswertungen zu vermeiden. &#x200B;
-* **Projekte nach Status filtern** Verwenden Sie Filter, um sich auf bestimmte Projektstatus zu konzentrieren (z. B. angefordert, genehmigt, aktuell), um Vergleiche zu optimieren und Entscheidungen zu treffen. &#x200B;
-* **Optimieren Sie die Projektbewertungen:** Passen Sie die Projektbewertungen basierend auf Prioritäten wie hohem ROI oder hoher Ausrichtung an und beobachten Sie, wie sich die Bewertungen dynamisch ändern, um die Portfolioziele widerzuspiegeln. &#x200B;
-* **Projekte priorisieren und abschließen** Projekte nach Bewertung sortieren, per Drag-and-Drop verschieben oder nicht ausgewählte Projekte ausschließen. &#x200B; Definieren Sie die Prioritäten, indem Sie die Reihenfolge festlegen, mit der das in den Ansichten, Berichten und im Ressourcenplaner sichtbare Feld für die Portfoliopriorität aktualisiert wird. &#x200B;**Ressourcenplanung an Portfolio-Prioritäten ausrichten:** Aktivieren Sie die Option &quot;Portfolio-Prioritäten anzeigen“ im Ressourcenplaner, um Ressourcenplanungsprioritäten an Portfolioprioritäten auszurichten und so die Konsistenz aller Tools sicherzustellen. &#x200B;
+* **Abschließen von Business-Cases für angemessene Vergleiche:** Stellen Sie sicher, dass die Business-Cases aller Projekte abgeschlossen sind und eingereicht wurden, bevor Sie sie im Tool „Portfolio-Optimierung“ vergleichen. So vermeiden Sie fehlende Daten und ungenaue Auswertungen.
+* **Filtern von Projekten nach Status:** Verwenden Sie Filter, um sich auf bestimmte Projektstatus zu konzentrieren (z. B. „Angefordert“, „Genehmigt“, „Aktuell“), um Vergleiche und die Entscheidungsfindung zu optimieren. 
+* **Optimieren von Projektbewertungen:** Passen Sie die Projektbewertungen basierend auf Prioritäten wie einem hohem ROI oder einer hohen Ausrichtung an und beobachten Sie, wie sich die Bewertungen dynamisch ändern, um die Portfolioziele widerzuspiegeln. 
+* **Priorisieren und Abschließen von Projekten:** Sortieren Sie Projekte nach Bewertung, verschieben Sie sie per Drag-and-Drop oder schließen Sie nicht ausgewählte Projekte aus. Schließen Sie Prioritäten ab, indem Sie die Reihenfolge festlegen, mit der das in den Ansichten, Berichten und im Ressourcenplaner sichtbare Feld für die Portfoliopriorität aktualisiert wird. **Ausrichten der Ressourcenplanung auf die Portfolioprioritäten:** Aktivieren Sie die Option „Portfolioprioritäten anzeigen“ im Ressourcenplaner, um Ressourcenplanungsprioritäten an Portfolioprioritäten auszurichten und so die Konsistenz aller Tools sicherzustellen. 
 
 
 ## Empfohlene Tutorials zu diesem Thema

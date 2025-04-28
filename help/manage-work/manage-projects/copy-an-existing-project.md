@@ -1,6 +1,6 @@
 ---
-title: Ein bestehendes Projekt kopieren
-description: Einfaches Duplizieren von Projekten durch die Verwendung der Option „Kopieren“ im Drei-Punkte-Menü, Umbenennen und Festlegen des Status auf „Planung“, Kopieren benutzerdefinierter Daten und Formulare und separates Übertragen von Problemen über die Registerkarte „Probleme“ für maßgeschneiderte Projekteinstellungen.
+title: Kopieren eines bestehenden Projekts
+description: Duplizieren Sie Projekte ganz einfach durch Verwendung der Option „Kopieren“ im Drei-Punkte-Menü, Umbenennen und Festlegen des Status auf „Planung“, Kopieren benutzerdefinierter Daten und Formulare und separates Übertragen von Problemen über die Registerkarte „Probleme“ für maßgeschneiderte Projekt-Setups.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,28 +14,27 @@ jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
 source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# Ein bestehendes Projekt kopieren
+# Kopieren eines bestehenden Projekts
 
-In diesem Video wird erläutert, wie Sie ein Projekt kopieren, anstatt eine Vorlage zu verwenden. &#x200B; Um ein Projekt zu kopieren, öffnen Sie das gewünschte Projekt, klicken Sie auf das Dreipunkt-Menü neben dem Projektnamen und wählen Sie „Kopieren“ &#x200B; Im Fenster Projekt kopieren können Sie das Projekt umbenennen und seinen Status ändern, in der Regel in „Planung“, um zu vermeiden, dass Benachrichtigungen an zugewiesene Benutzer gesendet werden. &#x200B; Sie können auswählen, ob Zuweisungen, Fortschritt, benutzerdefinierte Daten usw. kopiert werden &#x200B;
-Klicken Sie zum Abschluss auf „Projekt kopieren“ &#x200B;
-Probleme können während dieses Vorgangs nicht direkt kopiert werden, da sie nicht als geplante Arbeit betrachtet werden. &#x200B; Um Probleme zu kopieren, gehen Sie zur Registerkarte „Probleme“, wählen Sie die gewünschten Probleme aus und verwenden Sie die Option „Kopieren nach“, um sie in das neue Projekt zu übertragen. &#x200B;
+In diesem Video wird beschrieben, wie Sie ein Projekt kopieren, anstatt eine Vorlage zu verwenden. Um ein Projekt zu kopieren, öffnen Sie das gewünschte Projekt, klicken Sie auf das Drei-Punkte-Menü neben dem Projektnamen und wählen Sie „Kopieren“ aus.  Im Fenster „Projekt kopieren“ können Sie das Projekt umbenennen und seinen Status ändern, in der Regel zu „Planung“. So vermeiden Sie, dass Benachrichtigungen an zugewiesene Benutzende gesendet werden. Sie können auswählen, ob Arbeitsaufträge, Fortschritt, benutzerdefinierte Daten usw. kopiert werden sollen. Klicken Sie zum Abschluss auf „Projekt kopieren“.
+Probleme können während dieses Vorgangs nicht direkt kopiert werden, da diese nicht als geplante Arbeit betrachtet werden. Navigieren Sie zum Kopieren von Problemen zur Registerkarte „Probleme“, wählen Sie die gewünschten Probleme aus und verwenden Sie die Option „Kopieren in“, um sie in das neue Projekt zu übertragen. 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Die wichtigsten Punkte
 
-* **Kopieren eines Projekts:** Öffnen Sie das Projekt, klicken Sie auf das Dreipunkt-Menü neben dem Projektnamen und wählen Sie „Kopieren“ aus, um es zu duplizieren. &#x200B;
-* **Projekteinstellungen anpassen:** Benennen Sie das Projekt um und ändern Sie seinen Status in „Planung“, um zu vermeiden, dass Benachrichtigungen an zugewiesene Benutzer gesendet werden.
-* **Selektives Kopieren** Sie können auswählen, ob Zuweisungen, Fortschritt oder benutzerdefinierte Daten kopiert werden sollen. &#x200B; Wenn Sie diese Optionen deaktivieren, können Sie sie im neuen Projekt anpassen.
-* **Umgang mit benutzerdefinierten Daten:** Wenn benutzerdefinierte Daten deaktiviert sind, werden Formulare ohne ihre Daten kopiert. &#x200B; Lassen Sie das Kontrollkästchen aktiviert, um sowohl Formulare als auch deren Daten zu kopieren. &#x200B;
-* **Probleme werden separat kopiert** Probleme werden beim Duplizieren des Projekts nicht kopiert. &#x200B; Um sie zu kopieren, gehen Sie zur Registerkarte „Probleme“, wählen Sie die gewünschten Probleme aus und verwenden Sie die Option „Kopieren nach“, um sie in das neue Projekt zu übertragen. &#x200B;
+* **Kopieren eines Projekts:** Öffnen Sie das Projekt, klicken Sie auf das Drei-Punkte-Menü neben dem Projektnamen und wählen Sie „Kopieren“ aus, um es zu duplizieren. 
+* **Anpassen von Projekteinstellungen:** Benennen Sie das Projekt um und ändern Sie seinen Status zu „Planung“, um zu vermeiden, dass Benachrichtigungen an zugewiesene Benutzende gesendet werden.
+* **Selektives Kopieren:** Sie können auswählen, ob Arbeitsaufträge, Fortschritt oder benutzerdefinierte Daten kopiert werden sollen. Wenn Sie die Auswahl für diese Optionen aufheben, können Sie sie im neuen Projekt anpassen.
+* **Umgang mit benutzerdefinierten Daten:** Wenn die Auswahl für benutzerdefinierte Daten aufgehoben ist, werden Formulare ohne ihre Daten kopiert. Lassen Sie das Kontrollkästchen aktiviert, wenn sowohl Formulare als auch deren Daten kopiert werden sollen. 
+* **Separates Kopieren von Problemen:** Probleme werden beim Duplizieren eines Projekts nicht kopiert. Um sie zu kopieren, navigieren Sie zur Registerkarte „Probleme“, wählen Sie die gewünschten Probleme aus und verwenden Sie die Option „Kopieren in“, um sie in das neue Projekt zu übertragen. 
 
 
 ## Empfohlene Tutorials zu diesem Thema

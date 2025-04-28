@@ -11,9 +11,9 @@ thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
 source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -30,9 +30,9 @@ Lösung: Eine Person lädt alle PDFs hoch und fasst sie beim Hochladen zu einem 
 Um Korrekturabzüge zusammenzufassen:
 
 1. Öffnen Sie den Abschnitt [!UICONTROL Dokumente] des Projekts, der Aufgabe oder des Problems, woran der Korrekturabzug angehängt werden soll.
-1. Klicken Sie **Neu hinzufügen > Korrekturabzug**.
+1. Klicken Sie auf **Neue hinzufügen > Korrekturabzug**.
 1. Ziehen Sie die Dateien per Drag -and-Drop in den Upload-Bereich oder navigieren Sie dorthin. [!DNL Workfront] unterstützt die Kombination von bis zu 50 Dateien.
-1. Aktivieren **unter &quot;** Korrekturabzug“ die Option „Alle kompatiblen Dateien in einem Korrekturabzug kombinieren“.
+1. Aktivieren Sie die Option „Alle kompatiblen Dateien zu einem einzigen Korrekturabzug zusammenfassen“ unter **Einzelner Korrekturabzug**.
 1. Geben Sie einen Namen für den kombinierten Korrekturabzug ein. Dies ist erforderlich.
 1. Falls gewünscht, können Sie die Reihenfolge, in der die Dateien kombiniert werden sollen, per Drag-and-Drop in der Upload-Liste ändern.
 1. Fügen Sie Empfängerinnen und Empfänger für Korrekturabzüge hinzu, setzen Sie eine Frist usw.
@@ -60,7 +60,7 @@ Leider ist es nicht möglich, Dateien zu kombinieren, wenn Rich-Media-Dateien wi
 >Vergessen Sie nicht, Ihre Mitarbeitenden daran zu erinnern, Ihnen im Rahmen Ihrer Workfront-Schulung einen Korrekturabzug zu schicken.
 
 
-Suchen Sie drei oder vier Dateien (PDF, Textdatei usw.) auf Ihrem Computer.
+Suchen Sie drei oder vier Dateien (PDF, Textdatei, usw.) auf Ihrem Computer.
 
 1. Öffnen Sie ein Projekt, eine Aufgabe oder ein Problem, das Sie für praktische Übungen in Workfront verwenden.
 1. Laden Sie die Dateien hoch und kombinieren Sie sie in einem einzigen Korrekturabzug.
