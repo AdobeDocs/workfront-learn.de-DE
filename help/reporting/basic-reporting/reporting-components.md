@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Reporting-Komponenten
-description: Lernen Sie die Schlüsselkomponenten für das Reporting kennen und wie sie bei einem Reporting-Element in Workfront verwendet werden.
+description: Die Berichtskomponenten von Workfront verfeinern die Datenvisualisierung mit objektbasierten Filtern, dynamischen Ansichten, strukturierten Gruppierungen und Platzhalterfunktionen für maßgeschneiderte Einblicke.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -11,21 +11,32 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: 83382bc990fb6e3e39a8f858d3710cce14179a95
+workflow-type: tm+mt
+source-wordcount: '533'
+ht-degree: 45%
 
 ---
 
 # Grundlegendes zu Reporting-Komponenten
 
-In diesem Video lernen Sie Folgendes:
+In diesem Video wird das Konzept der Reporting-Komponenten in Workfront erläutert, die für die Erstellung von Filtern, Ansichten und Gruppierungen unverzichtbar sind. Zu den wichtigsten Komponenten gehören:
 
-* Die Schlüsselkomponenten für Workfront-Reporting
-* Wie diese Komponenten in einem Reporting-Element verwendet werden
+* **Objekttyp:** Gibt das Workfront-Objekt an, das verarbeitet wird, z. B. ein Projekt, eine Aufgabe oder einen Stundeneintrag. &#x200B; Filter, Ansichten und Gruppierungen sind spezifisch für den Objekttyp. &#x200B;
+* **Source-Feld und Feldname:** Die Feldquelle ist das Element in Workfront, an das Informationen angehängt sind, und der Feldname ist die spezifische Information (z. B. „Beschreibung“ für ein Projekt). &#x200B;
+* **Wertfeld** Stellt den Inhalt eines Felds dar, z. B. „niedrig“, „normal“, „hoch“ oder „dringend“ für das Prioritätsfeld. &#x200B;
+* **Filterkennzeichner:** Definiert, welche Werte in einen Bericht ein- oder ausgeschlossen werden sollen, z. B. das Anzeigen von Aufgaben mit der Priorität „Hoch“. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+
+## Die wichtigsten Punkte
+
+* **Reporting-Komponenten:** Zu den Reporting-Komponenten in Workfront gehören Objekttyp, Feldquelle, Feldname, Filterqualifizierer und Wertfelder, die für die Erstellung von Filtern, Ansichten und Gruppierungen unverzichtbar sind. &#x200B;
+* **Objekttyp-Spezifität:** Filter, Ansichten und Gruppierungen sind an bestimmte Objekttypen wie Projekte, Aufgaben oder Stundeneinträge gebunden, sodass Berichte auf die relevanten Daten zugeschnitten sind. &#x200B;
+* **Filterregeln:** Filter verwenden Feldquelle, Feldnamen, Kennzeichner und Werte, um Kriterien zu definieren. &#x200B; Der Filter „Meine Projekte“ zeigt beispielsweise nur aktuelle Projekte an, bei denen der angemeldete Benutzer Teil des Projektteams ist. &#x200B;
+* **Ansichten und Gruppierungen:** Ansichten zeigen Kombinationen aus Feldquelle und Feldname in Spalten an (z. B. „Name des Inhabers„), während Gruppierungen Daten basierend auf bestimmten Kriterien organisieren (z. B. „Firmenname„). &#x200B;
+* **Platzhalterverwendung:** Platzhalter in Filtern ermöglichen eine dynamische Zuordnung, z. B. die Identifizierung angemeldeter Benutzer innerhalb eines Projektteams und eine bessere Personalisierung des Reportings. &#x200B;
 
 ## Kurzer Überblick zu Reporting-Komponenten
 
