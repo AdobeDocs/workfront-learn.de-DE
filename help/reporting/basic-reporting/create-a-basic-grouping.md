@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen einer Gruppierung
 * Freigeben einer Gruppierung für andere Workfront-Benutzende
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449824/?quality=12&learn=on&captions=ger)
 
 ## Aktivitäten zum Erstellen einer einfachen Gruppierung
 

@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Erteilen von Genehmigungen für Dokumente
 * Erteilen von Genehmigungen für Korrekturabzüge
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444955/?quality=12&learn=on&enablevpops&captions=ger)
 
 
 >[!NOTE]

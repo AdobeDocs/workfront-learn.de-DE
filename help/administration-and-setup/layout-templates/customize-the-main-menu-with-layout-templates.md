@@ -27,4 +27,4 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen von Elementen zum [!UICONTROL Hauptmenü]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432303/?quality=12&learn=on&enablevpops&captions=ger)

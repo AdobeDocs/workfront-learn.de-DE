@@ -25,7 +25,7 @@ In diesem Video werden Sie:
 * Siehe Ansicht [!UICONTROL Nach Projekt anzeigen]
 * Erfahren Sie, wie Ressourceninformationen in dieser Ansicht angezeigt werden
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432535/?quality=12&learn=on&enablevpops&captions=ger)
 
 Bei der Option „Nach Projekt anzeigen“ wird standardmäßig die Spalte „Geplant“ angezeigt, die die geschätzte Anzahl der für ein Projekt benötigten Ressourcen aus einem Business-Case abruft, wenn dieser ausgefüllt wurde. Dies bedeutet auch, dass die Spalte „Netto“ standardmäßig die Zahlen aus der Spalte „Budgetiert“ verwendet, um Ihnen mitzuteilen, wie viele Ressourcen noch übrig sind.
 

@@ -32,7 +32,7 @@ In diesem Video lernen Sie Folgendes:
 * Detaillierte und gemeinsam nutzbare Dokumentation erstellen
 * Testtiefe, -breite, -komplexität und -belastung
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418733/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Checkliste der Testüberlegungen
 

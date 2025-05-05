@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen und Ändern einer Ansicht
 * So geben Sie eine Ansicht für andere Workfront-Benutzende frei
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450247/?quality=12&learn=on&captions=ger)
 
 ## Aktivitäten zum Erstellen einer einfachen Ansicht
 

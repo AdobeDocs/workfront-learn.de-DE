@@ -30,7 +30,7 @@ In diesem Video lernen Sie Folgendes:
 * Datei-Limits
 * Webhook-Limits
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418726/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 

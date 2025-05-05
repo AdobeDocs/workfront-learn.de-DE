@@ -24,4 +24,4 @@ In diesem Video lernen Sie Folgendes:
 * Anzeigen von Assets in Brand Connect
 * Anzeigen von Daten zu einem Asset, einschließlich Metadaten und Schlüsselwörtern
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418739/?quality=12&learn=on&enablevpops&captions=ger)

@@ -33,7 +33,7 @@ Dieses Video gibt einen Überblick über die Filter, Ansichten und Gruppierungen
 
 Im Video wird der Schwerpunkt auf die Anpassung gelegt. Es enthält außerdem Links zu Tutorials für weitere Lerninhalte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453075/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Die wichtigsten Punkte
 

@@ -30,7 +30,7 @@ In diesem Video wird beschrieben, wie Sie Anfragen in Workfront finden und verwa
 * Benutzerdefinierte Berichte und Dashboards
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441663/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Die wichtigsten Punkte
 

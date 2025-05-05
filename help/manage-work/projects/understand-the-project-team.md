@@ -24,7 +24,7 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wofür das Projekt-Team verwendet werden kann und wie es verwaltet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444598/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Die wichtigsten Punkte
 

@@ -23,4 +23,4 @@ In diesem Video lernen Sie Folgendes:
 
 * Zugriff auf Ihre Aufgabenliste in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437929/?quality=12&learn=on&enablevpops&captions=ger)

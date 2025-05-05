@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen eines Aufgabenberichts mit einem komplexen Filter
 * Suchen nach den von Ihnen erstellten Berichten
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448351/?quality=12&learn=on&captions=ger)
 
 ## Aktivitäten zum Erstellen eines Aufgabenberichts
 

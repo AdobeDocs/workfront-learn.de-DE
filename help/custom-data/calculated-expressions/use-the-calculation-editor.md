@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Funktionen des Berechnungs-Editors
 * Erstellen eines ADDWEEKDAYS-Datumsausdrucks in einem berechneten Feld mit dem Berechnungs-Editor
 
->[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418632/?quality=12&learn=on&enablevpops&captions=ger)

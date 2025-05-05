@@ -27,4 +27,4 @@ In diesem Video lernen Sie Folgendes:
 * Ändern des Datumsbereichs
 * Vergleichen von KPIs mit zwei verschiedenen Filtern nebeneinander
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440256/?quality=12&learn=on&enablevpops&captions=ger)

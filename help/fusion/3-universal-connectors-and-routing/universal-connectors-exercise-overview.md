@@ -27,4 +27,4 @@ In diesem Video lernen Sie Folgendes:
 * Verbindung mit einer externen API
 * Verwenden Sie den Formeleditor, um Informationen aus einem Array zu extrahieren
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435882/?quality=12&learn=on&enablevpops&captions=ger)

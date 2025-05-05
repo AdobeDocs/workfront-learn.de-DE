@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Verwenden von Aktionen in Kommentaren
 * Anpassen von Aktionsbeschriftungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432931/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Sie sind dran
 

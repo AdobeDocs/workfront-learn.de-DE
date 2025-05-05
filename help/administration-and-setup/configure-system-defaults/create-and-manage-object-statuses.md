@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lernen Sie, wie Sie die System- und Gruppenstatus für Workfront-Objekte und -Abläufe erstellen und verwalten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451858/?learn=on&captions=ger)

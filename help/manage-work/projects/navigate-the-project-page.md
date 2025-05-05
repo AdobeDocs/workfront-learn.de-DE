@@ -33,7 +33,7 @@ Dieses Video gibt einen Überblick darüber, wie Sie auf der Projektseite in Wor
 * **Abschnitt „Dokumente“:** Ermöglicht das Hochladen und Verwalten von projektbezogenen Dateien und Korrekturabzügen. Dokumente, die an Aufgaben angehängt sind, werden bis zur Projektebene aggregiert, um einen einfachen Zugriff zu ermöglichen. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449735/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Die wichtigsten Punkte
 

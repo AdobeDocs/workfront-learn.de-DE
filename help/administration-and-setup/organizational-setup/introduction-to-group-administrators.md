@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Systemadmins Gruppenadmins nutzen können, um effizient Einstellungen zu verwalten und Gruppen mehr Kontrolle über ihre Arbeitsabläufe zu geben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439332/?quality=12&learn=on&enablevpops&captions=ger)
 
 

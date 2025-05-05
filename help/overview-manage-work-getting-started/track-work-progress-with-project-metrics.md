@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Zugreifen auf die Diagramme der Projektmetriken
 * Anpassen der Informationen in den Diagrammen
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439179/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

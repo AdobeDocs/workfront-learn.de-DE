@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Zugriff auf das Burndown-Diagramm
 * Die Beziehung zwischen den verbleibenden Stunden, der Projektbedingung und der Projektgeschwindigkeit
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438893/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Projektgeschwindigkeit verfolgen
 

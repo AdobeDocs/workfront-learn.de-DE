@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mithilfe von Layout-Vorlagen Felder zu Projektkopfzeilen hinzufügen und daraus entfernen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3422844?captions=ger)

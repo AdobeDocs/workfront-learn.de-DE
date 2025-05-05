@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 
 * Vornehmen von Aktualisierungen aus dem Diagramm „Aufgaben im Flug“
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436874/?quality=12&learn=on&enablevpops&captions=ger)

@@ -31,7 +31,7 @@ In diesem Video lernen Sie Folgendes:
 * Auswirkungen der Einrichtung eines Startdatums für Aufgaben auf die Aufgabenbeschränkung
 * Eingeben von Vorgängern
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447329/?quality=12&learn=on&enablevpops&captions=ger)
 
 <!--
 Learn more urls

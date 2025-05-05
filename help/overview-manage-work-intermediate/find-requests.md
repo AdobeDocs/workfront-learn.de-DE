@@ -33,7 +33,7 @@ Sie erfahren, wie Sie folgende Stellen nach diesen Anfragen durchsuchen.
 * In einem benutzerdefinierten Dashboard
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441663/?quality=12&learn=on&enablevpops&captions=ger)
 
 
 ## Empfohlene Tutorials zu diesem Thema

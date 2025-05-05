@@ -26,7 +26,7 @@ In diesem Video wird beschrieben, wie Sie ein Projekt kopieren, anstatt eine Vor
 Probleme können während dieses Vorgangs nicht direkt kopiert werden, da diese nicht als geplante Arbeit betrachtet werden. Navigieren Sie zum Kopieren von Problemen zur Registerkarte „Probleme“, wählen Sie die gewünschten Probleme aus und verwenden Sie die Option „Kopieren in“, um sie in das neue Projekt zu übertragen. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456047/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Die wichtigsten Punkte
 

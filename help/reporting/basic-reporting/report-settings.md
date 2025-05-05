@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Wie auf Berichtseinstellungen zugegriffen werden kann
 * Wofür einige gängige Berichtseinstellungen verwendet werden
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445872/?quality=12&learn=on&enablevpops&captions=ger)

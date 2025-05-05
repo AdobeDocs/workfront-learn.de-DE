@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Kommentare und Markierungen einer Version
 * Vergleichen der aktuellen Version mit einer früheren Version der Datei
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446905/?quality=12&learn=on&enablevpops&captions=ger)
 
 <!--
 ## Learn more

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Adobe Workfront Planning Tabellenansichten für Datensatztypen erstellen, verwalten und anpassen, um die Projektorganisation und Zusammenarbeit zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448159/?learn=on&enablevpops&captions=ger)

@@ -23,7 +23,7 @@ ht-degree: 100%
 
 In diesem Video wird die Bedeutung eines Business-Cases für das Projekt-Management beschrieben. Es wird betont, dass Führungskräfte durch genaue Angaben im Business-Case Projekte analysieren und priorisieren können, die um dieselben Ressourcen konkurrieren. Danach ändert sich bei Übermittlung des Business-Case der Projektstatus in „Angefordert“ und im Tool „Portfolio-Optimierung“ wird das Gesamtergebnis für den Vergleich berechnet. Obwohl keines der Felder obligatorisch ist, tragen ausführlichere Informationen zu einer besseren Entscheidungsfindung bei. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442853/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Die wichtigsten Punkte
 

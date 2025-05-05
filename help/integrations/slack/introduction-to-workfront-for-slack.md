@@ -23,7 +23,7 @@ In diesem Video werden Sie:
 
 * Eine Einführung dazu erhalten, was Sie in anderen Videos zum Thema „[!DNL Workfront] für [!DNL Slack]“ lernen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435924/?quality=12&learn=on&enablevpops&captions=ger)
 
 >[!NOTE]
 >

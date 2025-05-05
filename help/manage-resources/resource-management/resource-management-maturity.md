@@ -32,7 +32,7 @@ Einige von Ihnen sind jedoch auf dem Weg, das Ressourcen-Management zu beherrsch
 
 ## Die vier Reifephasen des Ressourcen-Managements
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431659/?quality=12&learn=on&enablevpops&captions=ger)
 
 
 ## Wie geht es nun weiter?

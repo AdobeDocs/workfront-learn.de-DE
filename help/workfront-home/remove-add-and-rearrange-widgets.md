@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Widgets auf der Startseite entfernen, hinzufügen und neu anordnen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448982/?quality=12&learn=on&enablevpops&captions=ger)
 
 
 >[!NOTE]

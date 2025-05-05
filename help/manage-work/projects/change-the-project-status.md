@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Warum der Projektstatus in [!UICONTROL Abgeschlossen] geändert werden muss
 * Was Sie tun können, wenn es nicht möglich ist, den Projektstatus in [!UICONTROL Abgeschlossen] zu ändern
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439367/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

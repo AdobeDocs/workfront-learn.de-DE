@@ -44,7 +44,7 @@ Jeder Schritt eines automatisierten Workflows hat seinen eigenen Bereich, in dem
 
 In diesem Video werden einige der Änderungen vorgestellt, die Sie im Bereich [!UICONTROL Workflow] vornehmen können. Eine Übersicht über diese Einstellungen finden Sie in der Aufzählung unter diesem Video.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432614/?quality=12&learn=on&enablevpops&captions=ger)
 
 Im Folgenden finden Sie eine Übersicht über die Änderungen, die Sie an der Korrekturabzug-Vorlage im Abschnitt [!UICONTROL Workflow] vornehmen können:
 

@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Finden ungelöster Aufgabengenehmigungen und Umgang damit
 * Finden ungelöster Problemgenehmigungen und Umgang damit
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439433/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

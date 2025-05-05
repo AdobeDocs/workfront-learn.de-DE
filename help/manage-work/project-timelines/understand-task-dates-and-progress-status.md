@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Geplante, voraussichtliche und tatsächliche Daten und
 * Verwendung bei der Berechnung des Fortschrittsstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436616/?quality=12&learn=on&enablevpops&captions=ger)
 
 >[!NOTE]
 >

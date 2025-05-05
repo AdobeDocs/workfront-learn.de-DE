@@ -21,4 +21,4 @@ ht-degree: 25%
 
 Erfahren Sie, wie Sie in Adobe Workfront Planning Arbeitsbereiche erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448270/?learn=on&enablevpops&captions=ger)

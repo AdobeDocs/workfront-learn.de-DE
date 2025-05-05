@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Wie Sie schnell erkennen können, wie viel Zeit Mitarbeitende für jedes Projekt aufwenden
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437808/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Für Projekte aufgewendete Überprüfungszeit
 

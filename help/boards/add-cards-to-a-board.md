@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie neue Karten oder aus bereits vorhandenen Arbeitselementen erstellte Karten zu einer Pinnwand hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423050/?quality=12&learn=on&enablevpops&captions=ger)

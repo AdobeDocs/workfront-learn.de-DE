@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Adobe Workfront Planning benutzerdefinierte Datensatztypen erstellen, importieren und verwalten, um arbeitsbezogene Elemente effizient zu organisieren und zu verfolgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448093/?learn=on&enablevpops&captions=ger)

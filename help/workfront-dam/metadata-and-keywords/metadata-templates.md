@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Einrichten einer Metadatenvorlage
 * Anwenden einer Vorlage auf einen Ordner
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419481/?quality=12&learn=on&enablevpops&captions=ger)

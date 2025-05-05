@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie Sie Spalten auf einer Pinnwand bearbeiten, hinzufügen, neu anordnen und löschen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422949/?quality=12&learn=on&enablevpops&captions=ger)

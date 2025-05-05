@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie anpassen können, welche Informationen auf einer Karte auf einer Pinnwand in der Voll- oder in der Kurzansicht angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446540/?quality=12&learn=on&enablevpops&captions=ger)

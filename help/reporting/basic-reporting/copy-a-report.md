@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 
 * So erstellen Sie schnell einen neuen Bericht durch Kopieren und Bearbeiten eines ähnlichen Berichts
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437054/?quality=12&learn=on&enablevpops&captions=ger)

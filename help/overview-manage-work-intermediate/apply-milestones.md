@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen eines Meilensteins zu einer Aufgabe
 * Best Practices für die Anwendung von Meilensteinen
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3430284/?quality=12&learn=on&enablevpops&captions=ger)
 
 >[!TIP]
 >

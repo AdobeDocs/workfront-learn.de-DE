@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Karten auf einer Pinnwand neu organisieren, kopieren, archivieren, löschen und trennen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422920/?quality=12&learn=on&enablevpops&captions=ger)

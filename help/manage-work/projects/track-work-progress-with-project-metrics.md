@@ -25,7 +25,7 @@ ht-degree: 100%
 In diesem Video wird beschrieben, wie Sie den Projektfortschritt mithilfe von Projektmetriken nachverfolgen. Es zeigt den Zugriff auf die Registerkarte „Metriken“ im linken Panel eines Projekts. Hierzu ist möglicherweise ein Scrollen und das Klicken auf „Mehr anzeigen“ erforderlich. Oben im KPI-Bereich werden wichtige Key Performance Indicators wie abgeschlossene, unvollständige und überfällige Aufgaben angezeigt. Benutzende können auf Indikatoren klicken, um bestimmte Aufgaben anzuzeigen, und Diagramme verwenden, um Aufgaben oder Probleme nach Status oder Priorität zu gruppieren. Wenn sie den Mauszeiger über die Spalten bewegen, werden Mengen angezeigt, und das Diagramm zeigt das Verhältnis von abgeschlossenen zu unvollständigen Aufgaben oder Problemen. Metriken können außerdem Aufgaben nach zugewiesener Person basierend auf ihrem Status (abgeschlossen, unvollständig, bevorstehend oder überfällig) anzeigen. Die Einstellungen zum Anzeigen von Metriken werden für zukünftige Besuche gespeichert. Abschließend wird im Video gezeigt, wie die Seite „Metriken“ mithilfe der Schaltfläche „Exportieren“ als PNG-Datei exportiert wird. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439179/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Die wichtigsten Punkte
 

@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 * Der lange Weg, um eine Aufgabe in einem Workfront-Projekt zu erstellen
 * Einige praktische Tastaturbefehle zum Erstellen von Aufgaben
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423157/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

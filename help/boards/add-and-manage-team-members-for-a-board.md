@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Einzelpersonen und Teams zu einer Pinnwand hinzufügen und entfernen können, damit diese auf Pinnwand-Informationen zugreifen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423041/?quality=12&learn=on&enablevpops&captions=ger)

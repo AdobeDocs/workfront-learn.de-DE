@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Benutzende zu Workfront hinzufügen, indem Sie eine bestehende Person kopieren, neue Benutzende in Massen importieren oder eine neue Benutzerin bzw. einen neuen Benutzer von Grund auf neu anlegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447052/?quality=12&learn=on&enablevpops&captions=ger)
 

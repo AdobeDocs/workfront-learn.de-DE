@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Anwenden eines Workflows mithilfe einer Korrekturabzugsvorlage
 * Einrichten eines von Grund auf neuen automatisierten Workflows
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453020/?quality=12&learn=on&enablevpops&captions=ger)
 
 
 

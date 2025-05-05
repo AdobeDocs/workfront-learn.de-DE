@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 * Hochladen einer Website als statischer Korrekturabzug
 * Hochladen einer Website als interaktiver Korrekturabzug
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445076/?quality=12&learn=on&enablevpops&captions=ger)
 
 
 ## Überlegungen zu interaktiven Inhalten

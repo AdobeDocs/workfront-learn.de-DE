@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Verwenden der Funktion „Arbeitsaufwand“
 * Erstellen einer Aufgabenansicht für „Arbeitsaufwand“
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447408/?quality=12&learn=on&enablevpops&captions=ger)
 
 Weitere Informationen zum [!UICONTROL Arbeitsaufwand] finden Sie im Artikel [Übersicht zum Arbeitsaufwand](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=de).
 

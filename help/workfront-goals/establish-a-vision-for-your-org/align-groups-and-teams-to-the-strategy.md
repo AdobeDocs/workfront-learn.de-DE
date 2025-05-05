@@ -24,7 +24,7 @@ In diesem Video lernen Sie Folgendes:
 * Überprüfen und Aktivieren vorgeschlagener Ziele
 * Kaskadieren und Abstimmen der vierteljährlichen Ziele
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432163/?quality=12&learn=on&enablevpops&captions=ger)
 
 <!--
 Pro-tips graphic

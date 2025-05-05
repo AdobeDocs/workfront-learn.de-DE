@@ -20,4 +20,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, welche Elemente – z. B. Datumstypen und Aufgabenbegrenzungen – beim Erstellen und Verwalten von Projektzeitleisten in [!DNL  Workfront] verwendet werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436749/?quality=12&learn=on&enablevpops&captions=ger)

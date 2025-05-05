@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 * Navigation durch Brand Connect
 * Suchen nach Assets
 
->[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418746/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Grundlegende Suchkriterien
 

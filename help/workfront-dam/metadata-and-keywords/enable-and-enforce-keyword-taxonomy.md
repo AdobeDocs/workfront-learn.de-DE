@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Verstehen, wann Benutzende von [!UICONTROL Workfront DAM] ihre eigenen Schlüsselwörter eingeben können
 * Einrichten von Suchfacetten
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419501/?quality=12&learn=on&enablevpops&captions=ger)

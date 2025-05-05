@@ -26,7 +26,7 @@ In diesem Video wird beschrieben, wie Sie Aufgaben, Probleme und Genehmigungen d
 Genehmigungen können von Benutzenden über das Widget „Warten auf Genehmigung“ delegiert werden. Die Delegierung gilt für bestehende und neue Genehmigungen innerhalb des angegebenen Zeitraums, jedoch nur für Projekte, Aufgaben und Probleme. Sie gilt nicht für Dokumente, Korrekturabzüge oder Arbeitszeittabellen. Benachrichtigungen für delegierte Aufgaben, Probleme und Genehmigungen können von Admins aktiviert werden, um sowohl die delegierende Person als auch die beauftragte Person zu informieren. Delegierte Genehmigungen werden im System gekennzeichnet, sodass ersichtlich ist, wer sie an wen delegiert hat. Aktualisierungen im Zusammenhang mit Genehmigungen werden auf der Registerkarte „Aktualisieren“ angezeigt, und die Systemaktivität kann auf der Registerkarte „Systemaktivität“ eingesehen werden. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446385/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Die wichtigsten Punkte
 

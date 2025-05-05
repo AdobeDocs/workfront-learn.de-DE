@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen von Firmen in Workfront
 * Erstellung von Firmen und Verbänden
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432854/?quality=12&learn=on&enablevpops&captions=ger)

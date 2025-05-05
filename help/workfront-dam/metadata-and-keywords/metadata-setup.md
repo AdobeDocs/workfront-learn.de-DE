@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Vorhandene Metadatenfelder verwenden
 * Benutzerdefinierte Metadatenfelder erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419517/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Best Practices für Metadaten
 
