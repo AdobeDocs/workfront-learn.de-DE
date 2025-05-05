@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
+source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2384'
 ht-degree: 94%
 
 ---
@@ -72,11 +72,11 @@ ht-degree: 94%
       + [Übernahme einer bestehenden Adobe Workfront-Instanz](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
 
    + Projektfinanzierung {#project-finances}
-      + [Verstehen von Leistungsmetriken](/help/manage-work/project-finances/understand-performance-metrics.md)
-      + [Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [Grundlegendes zu Leistungsmetriken](/help/manage-work/project-finances/understand-performance-metrics.md)
+      + [Einrichten von Standardwerten für Umsatz und Kosten von Aufgaben](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
       + [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)
-      + [Informationen zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)
+      + [Grundlegendes zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)
 
 
 + Benutzerdefinierte Daten {#custom-data}
@@ -105,7 +105,7 @@ ht-degree: 94%
 + Arbeit verwalten {#manage-work}
    + Projekte {#projects}
       + [Grundlegendes zur Projekterstellung](/help/manage-work/projects/understand-basic-project-creation.md)
-      + [Navigieren der Projektseite](/help/manage-work/projects/navigate-the-project-page.md)
+      + [Navigieren auf der Projektseite](/help/manage-work/projects/navigate-the-project-page.md)
       + [Vier Möglichkeiten zum Erstellen eines Projekts](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Ausfüllen der Projektdetails](/help/manage-work/projects/fill-in-the-project-details.md)
       + [Erste Schritte bei der Projektplanung](/help/manage-work/projects/getting-started-plan-a-project.md)
@@ -113,11 +113,11 @@ ht-degree: 94%
       + [Erste Schritte bei der Projektverwaltung](/help/manage-work/projects/getting-started-manage-a-project.md)
       + [Suchen von Projekten](/help/manage-work/projects/find-projects.md)
       + [Freigeben eines Projekts](/help/manage-work/projects/share-a-project.md)
-      + [Informationen zum Projekt-Team](/help/manage-work/projects/understand-the-project-team.md)
+      + [Grundlegendes zum Projekt-Team](/help/manage-work/projects/understand-the-project-team.md)
       + [Grundlegendes zur Projektkommunikation](/help/manage-work/projects/understand-project-communication.md)
       + [Anzeigen von Projektinformationen](/help/manage-work/projects/view-project-information.md)
       + [Nachverfolgen des gesamten Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
-      + [Verfolgen des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [Tracking des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Grundlegendes zur [!UICONTROL Gantt]-Ansicht](/help/manage-work/projects/understand-the-gantt-view.md)
       + [Grundlegendes zur [!UICONTROL Pinnwand]-Ansicht](/help/manage-work/projects/understand-the-board-view.md)
 
@@ -126,7 +126,7 @@ ht-degree: 94%
       + [Grundlegendes zu über- und untergeordneten Aufgaben](/help/manage-work/tasks/understand-parent-child-tasks.md)
       + [Arbeiten mit Aufgaben](/help/manage-work/tasks/work-with-tasks.md)
       + [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [Grundlegendes zu Aufgabendauern](/help/manage-work/tasks/understand-task-durations.md)
+      + [Grundlegendes zu Aufgabenlaufzeiten](/help/manage-work/tasks/understand-task-durations.md)
       + [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
       + [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)
@@ -137,12 +137,12 @@ ht-degree: 94%
       + [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
       + [Problemzuweisungen verwalten](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [Aktualisieren einer Anfrage](/help/manage-work/issues-requests/update-a-request.md)
-      + [Konvertieren eines Problems/einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Konvertieren eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Problembericht](/help/manage-work/issues-requests/report-on-issues.md)
 
    + Anfrage-Warteschlangen {#request-queues}
-      + [Grundlegendes zu Anfragewarteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
+      + [Grundlegendes zu Anfrage-Warteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
       + [Erstellen einer Anfrage-Warteschlange](/help/manage-work/request-queues/create-a-request-queue.md)
       + [Grundlegendes zu den Einstellungen für einen Anfragefluss](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Erstellen eines Anfrageflusses](/help/manage-work/request-queues/create-a-request-flow.md)
@@ -152,11 +152,11 @@ ht-degree: 94%
    + Portfolios {#portfolios}
       + [Grundlegendes zu Portfolios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Verstehen des [!UICONTROL Business-Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Den [!UICONTROL Portfolio Optimizer verstehen]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Grundlegendes zum [!UICONTROL Portfolio-Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
-      + [Erstellen eines globalen und eines einmaligen Genehmigungsprozesses](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [Anfragegenehmigungsprozess in einer Anfragewarteschlange anwenden](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
+      + [Erstellen eines globalen und eines Genehmigungsprozesses für einmaligen Gebrauch](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Anwenden eines Problemgenehmigungsprozesses in einer Anfrage-Warteschlange](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Überprüfen und Genehmigen digitaler Arbeiten](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegieren von Aufgaben, Problemen und Genehmigungen](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Anwenden von Meilensteinen](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
@@ -166,7 +166,7 @@ ht-degree: 94%
       + [Erstellen einer Projektvorlage und Informationen über Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Erstellen eines Projekts direkt aus einer Vorlage](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Freigeben einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [Ein bestehendes Projekt kopieren](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [Kopieren eines bestehenden Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
       + [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
@@ -184,8 +184,8 @@ ht-degree: 94%
 
    + Projektfinanzierung für Benutzende {#project-finances-users}
       + [Suchen von Finanzinformationen](/help/manage-work/project-finances/find-financial-information.md)
-      + [Finanzen aktualisieren](/help/manage-work/project-finances/update-and-review-finances.md)
-      + [Grundlegendes zu mehrfachen Abrechnungstarifen](/help/manage-work/project-finances/multiple-billing-rates.md)
+      + [Aktualisieren der Finanzen](/help/manage-work/project-finances/update-and-review-finances.md)
+      + [Grundlegendes zu mehrfachen Abrechnungssätzen](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + Zwischenprojekte {#intermediate-projects}
       + [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
@@ -575,17 +575,7 @@ ht-degree: 94%
 
 + Startseite {#home}
    + [Entfernen, Hinzufügen und Neuanordnen von Widgets auf der Startseite](/help/workfront-home/remove-add-and-rearrange-widgets.md)
-   + [Nach Ihrer Arbeit suchen](/help/workfront-home/find-your-work-in-workfront-home.md)
-   + [Organisieren Ihrer Aufgabenliste](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
-   + [Priorisieren Ihrer Arbeit](/help/workfront-home/prioritize-your-work-in-workfront-home.md)
-   + [Anzeigen des Arbeitsstatus](/help/workfront-home/indicate-work-status-in-workfront-home.md)
-   + [Kommunikation über Arbeit](/help/workfront-home/communicate-about-work-in-workfront-home.md)
-   + [Arbeitszeiterfassung](/help/workfront-home/log-hours-on-work-in-workfront-home.md)
-   + [Markieren einer zugewiesenen Arbeit als abgeschlossen](/help/workfront-home/mark-assigned-work-as-complete.md)
-   + [Genehmigen von Arbeiten auf der [!UICONTROL Startseite]](/help/workfront-home/approve-work-in-workfront-home.md)
-   + [Zusammenarbeiten mit [!UICONTROL Meine Aktualisierungen]](/help/workfront-home/collaborate-on-work-with-my-updates.md)
-   + [Überprüfen von Arbeiten in [!UICONTROL Meine Aktualisierungen] oder auf der [!UICONTROL Startseite]](/help/workfront-home/review-work-in-my-updates-or-workfront-home.md)
-   + [Grundlegendes zu Aktualisierungen und Benachrichtigungen](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
+
 
 + Agile {#agile}
 
