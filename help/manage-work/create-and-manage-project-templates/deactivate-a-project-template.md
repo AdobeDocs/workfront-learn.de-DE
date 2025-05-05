@@ -14,9 +14,9 @@ jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
 source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ In diesem Video lernen Sie Folgendes:
 
 >[!NOTE]
 >
->Wenn Sie eine Vorlage löschen, ist davon kein mit dieser Vorlage erstelltes Projekt betroffen. Gelöschte Vorlagen werden 30 Tage in den Papierkorb verschoben und können nur vom Systemadministrator wiederhergestellt werden.
+>Wenn Sie eine Vorlage löschen, ist davon kein mit dieser Vorlage erstelltes Projekt betroffen. Gelöschte Vorlagen werden für 30 Tage in den Papierkorb verschoben und können nur von der oder dem Systemadmin wiederhergestellt werden.
 
 
 

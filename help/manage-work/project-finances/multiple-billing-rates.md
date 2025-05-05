@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu mehrfachen Abrechnungstarifen
+title: Grundlegendes zu mehrfachen Abrechnungssätzen
 description: Anpassen und Verwalten der Abrechnungssätze für Aufgabengebiete auf Projektebene.
 activity: use
 team: Technical Marketing
@@ -14,16 +14,16 @@ last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Grundlegendes zu mehrfachen Abrechnungstarifen
+# Grundlegendes zu mehrfachen Abrechnungssätzen
 
-In diesem Video wird erläutert, wie Sie Abrechnungssätze für Aufgabengebiete innerhalb eines Projekts verwalten und anpassen. &#x200B;Es betont die Flexibilität bei der Festlegung mehrerer Abrechnungssätze für dieselbe Aufgabenstellung und stellt genaue zeitbasierte Anpassungen sicher. &#x200B;
+In diesem Video wird erläutert, wie Sie Abrechnungssätze für Aufgabengebiete innerhalb eines Projekts verwalten und anpassen.Das Video betont die Flexibilität bei der Festlegung mehrerer Abrechnungssätze für dasselbe Aufgabengebiet und bei der Sicherstellung präziser zeitbasierter Anpassungen.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
@@ -31,14 +31,14 @@ In diesem Video wird erläutert, wie Sie Abrechnungssätze für Aufgabengebiete 
 ## Die wichtigsten Punkte
 
 
-* **Standard-Abrechnungssatz:** Der Systemadministrator legt für jedes Aufgabengebiet einen Standard-Abrechnungssatz fest, der jedoch für einzelne Projekte angepasst werden kann. &#x200B;
-* **Flexibilität bei Abrechnungssätzen:** Sie können mehrere Abrechnungssätze für dieselbe Funktion innerhalb eines Projekts erstellen, um maßgeschneiderte Anpassungen zu ermöglichen. &#x200B;
-* **Zeitspezifische Sätze:** Abrechnungssätze können für bestimmte Zeiträume festgelegt werden, indem Start- und Enddaten hinzugefügt werden, um eine genaue Anwendung der Sätze in verschiedenen Phasen des Projekts sicherzustellen. &#x200B;
-* **Einfache Anpassung:** Änderungen an Abrechnungssätzen sind unkompliziert - wählen Sie das Aufgabengebiet aus, geben Sie den neuen Satz ein und speichern Sie die Aktualisierungen direkt auf der Registerkarte „Abrechnungssätze“. &#x200B;
+* **Standard-Abrechnungssatz:** Die bzw. der Systemadmin legt für jedes Aufgabengebiet einen Standard-Abrechnungssatz fest, der jedoch für einzelne Projekte angepasst werden kann.
+* **Flexibilität bei Abrechnungssätzen:** Sie können mehrere Abrechnungssätze für dasselbe Aufgabengebiet innerhalb eines Projekts erstellen, um maßgeschneiderte Anpassungen zu ermöglichen.
+* **Zeitspezifische Sätze:** Abrechnungssätze können für bestimmte Zeiträume festgelegt werden, indem Start- und Enddaten hinzugefügt werden, um eine präzise Anwendung der Sätze in verschiedenen Phasen des Projekts sicherzustellen.
+* **Einfache Anpassung:** Änderungen an Abrechnungssätzen sind unkompliziert – wählen Sie das Aufgabengebiet aus, geben Sie den neuen Satz ein und speichern Sie die Aktualisierungen direkt in der Registerkarte „Abrechnungssätze“.
 
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Suchen von Finanzinformationen](/help/manage-work/project-finances/find-financial-information.md)
-* [Finanzen aktualisieren](/help/manage-work/project-finances/update-and-review-finances.md)
+* [Aktualisieren der Finanzen](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 
