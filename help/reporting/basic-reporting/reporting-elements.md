@@ -24,7 +24,7 @@ In diesem Video wird erläutert, wie Sie mit den Reporting-Elementen von Workfro
 
 Das Video zeigt auch, wie Reporting-Elemente angepasst und für andere freigegeben werden können. Diese Tools ermöglichen es Benutzenden, Listenberichte an ihre Bedürfnisse anzupassen, um bessere Sichtbarkeit und Verwaltung zu erreichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447797/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Die wichtigsten Punkte
 

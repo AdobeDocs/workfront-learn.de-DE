@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 * Genehmigen oder Ablehnen einer Arbeit
 * Überprüfen eines Korrekturabzugs
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447916/?quality=12&learn=on&enablevpops&captions=ger)
 
 <!--
 learn more URLs

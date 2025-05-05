@@ -21,7 +21,7 @@ In diesem Video lernen Sie Folgendes:
 * Beenden des Delegationszeitraums
 * Nach delegierten Genehmigungen suchen
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446385/?quality=12&learn=on&enablevpops&captions=ger)
 
 <!--
 learn more URLS
