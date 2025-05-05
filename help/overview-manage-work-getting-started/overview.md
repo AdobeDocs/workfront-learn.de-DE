@@ -26,7 +26,7 @@ Beginnen Sie Ihren Workfront-Journey, indem Sie lernen, Projekte zu erstellen un
 
 In diesem Tutorial erfahren Sie, wie Sie ein Projekt erstellen, ein Projekt planen, ein Projekt verwalten und ein Projekt schließen.
 
-Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
+Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=de)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
 
 >[!PREREQUISITES]
 >

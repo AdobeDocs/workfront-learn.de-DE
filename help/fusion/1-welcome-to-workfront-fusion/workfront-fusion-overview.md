@@ -62,4 +62,4 @@ Die Schritt-für-Schritt-Anleitungen helfen Ihnen, die Übungen mit exemplarisch
 
 [Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
 
-Es gibt auch eine [Workfront Fusion 2.0-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2), wo Sie Fragen stellen können.
+Es gibt auch eine [Workfront Fusion 2.0-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=de), wo Sie Fragen stellen können.
