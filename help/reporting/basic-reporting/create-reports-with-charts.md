@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 48%
+source-wordcount: '595'
+ht-degree: 39%
 
 ---
 
@@ -78,10 +78,11 @@ Das Quartalsende naht, und Sie möchten sehen, inwieweit die kürzlich abgeschlo
    ![Ein Screenshot des Bildschirms zum Hinzufügen von Filtern zu einem Bericht](assets/chart-report-filters.png)
 
 1. Wählen Sie auf der Registerkarte **[!UICONTROL Diagramm]** die Option **[!UICONTROL Spalte]** für den Diagrammtyp aus.
-1. Wählen Sie für die [!UICONTROL linke Achse (Y)] [!UICONTROL Projekt] > [!UICONTROL Geplante Kosten].
-1. Wählen Sie für die [!UICONTROL untere Achse (X)] [!UICONTROL Projekt] > [!UICONTROL Name].
-1. Klicken Sie auf die Schaltfläche **[!UICONTROL Kombinationsdiagramm]** und wählen Sie [!UICONTROL Projekt] > [!UICONTROL Tatsächliche Kosten] im Feld **[!UICONTROL Wert]** aus.
-1. Klicken Sie auf den Pfeil neben dem Farbfeld, um die Farbe der [!UICONTROL tatsächlichen Kosten] zu ändern. Wählen Sie eine der angezeigten Farben aus oder klicken Sie auf das Feld unten rechts, um die Farbpalette aufzurufen.
+1. Wählen Sie für [!UICONTROL linke (Y) Achse] die Option [!UICONTROL Geplante Kosten].
+1. Wählen Sie für [!UICONTROL untere Achse (X] die Option [!UICONTROL Name].
+1. Klicken Sie auf **[!UICONTROL Kombinationsdiagramm]** und wählen Sie [!UICONTROL Istkosten] im Feld **[!UICONTROL Wert]** aus.
+1. Wählen Sie im Feld **[!UICONTROL Diagrammtyp]** die Option Linie aus.
+1. Klicken Sie auf das Farbfeld, um die Farbe [!UICONTROL Istkosten] zu ändern. Farbe auswählen.
 1. Klicken Sie auf **[!UICONTROL Speichern + schließen]**. Wenn Sie zur Eingabe eines Berichtnamens aufgefordert werden, nennen Sie ihn „Geplante vs. tatsächliche Kosten nach abgeschlossenem Projekt im letzten Quartal“.
 
    ![Ein Screenshot des Bildschirms zum Hinzufügen eines Diagramms zu einem Bericht](assets/chart-report-chart.png)
