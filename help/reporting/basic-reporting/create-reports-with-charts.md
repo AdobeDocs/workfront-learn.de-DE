@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Berichten mit Diagrammen
-description: Lernen Sie, wie Diagramme die Visualisierung von Daten verbessern können und wie Diagramm-Tools in Workfront verwendet werden.
+description: Diagramme verbessern die Datenvisualisierung, indem sie Dateneinblicke durch anpassbare Filter, Gruppierungen und gestapelte Spaltenformate organisieren, was die Analyse übersichtlicher und umsetzbarer macht.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,45 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
+last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '334'
-ht-degree: 100%
+source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+workflow-type: tm+mt
+source-wordcount: '613'
+ht-degree: 48%
 
 ---
 
 # Erstellen von Berichten mit Diagrammen
 
-In diesem Video lernen Sie Folgendes:
+In diesem Video wird erläutert, wie Diagramme zur effektiven Visualisierung von Daten verwendet werden können, insbesondere zur Verfolgung von Projektaufgaben. &#x200B; Es zeigt die Erstellung von zwei Berichtstypen in Workfront:
 
-* Wie Diagramme die Visualisierung von Daten verbessern können
-* Wie die Diagramm-Tools von Workfront verwendet werden
+**Bericht zu verspäteten Aufgaben nach Projekt:**
+
+* Beginnen Sie mit einem Listenbericht und wenden Sie Filter an, um in aktuellen Projekten nur unvollständige, verspätete Aufgaben anzuzeigen. &#x200B;
+* Aufgaben nach Projektname gruppieren und ein Tortendiagramm erstellen, um die Verteilung überfälliger Aufgaben auf die Projekte anzuzeigen. &#x200B;
+* Legen Sie das Diagramm als Standardregisterkarte für einfachen Zugriff fest. &#x200B;
+
+**Aufgaben nach Projekt und Fortschrittsbericht:**
+
+* Kopieren Sie den ersten Bericht und fügen Sie eine weitere Gruppierung für den Aufgabenstatus hinzu.
+* Filter entfernen, um alle Aufgaben einzubeziehen und ihren Fortschritt während der Projektausführung anzuzeigen.
+* Verwenden Sie ein gestapeltes Säulendiagramm, um die Gesamtzahl der Aufgaben pro Projekt anzuzeigen, wobei Stacks verschiedene Fortschrittsstatus darstellen.
+* Passen Sie bei Bedarf Farben an und speichern Sie den Bericht.
+
+In diesem Video wird gezeigt, wie Diagramme wie Torten- und gestapelte Säulendiagramme Einblicke in die Aufgabenverteilung und Projektleistung bieten können, sodass Benutzende Projekte vergleichen und den Aufgabenfortschritt visuell verstehen können. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+
+## Die wichtigsten Punkte
+
+* **Diagramme erhöhen die Datenklarheit**: Die Visualisierung von Daten mit Diagrammen, wie z. B. Torten- oder Spaltendiagrammen, erleichtert das Verständnis der Aufgabenverteilung und des Projektfortschritts im Vergleich zu Listenberichten. &#x200B;
+* **Nach spezifischen Einblicken filtern**: Durch die Anwendung von Filtern (z. B. unvollständige, in aktuellen Projekten in Verzug geratene Aufgaben) können Sie sich auf relevante Daten für eine zielgerichtete Analyse konzentrieren. &#x200B;
+* **Gruppierung für bessere Organisation**: Durch Gruppierung von Aufgaben nach Projektname oder Fortschrittsstatus werden die Daten effektiv organisiert, was aussagekräftige Vergleiche zwischen den Projekten ermöglicht. &#x200B;
+* **Diagrammanpassungsoptionen**: Benutzer können Diagrammtypen (z. B. Kreis, Spalte, Balken) auswählen und Farben anpassen, um sie an Voreinstellungen oder Branding anzupassen. &#x200B;
+* **Gestapelte Säulendiagramme für detaillierte**: Gestapelte Säulendiagramme bieten eine umfassende Ansicht des Aufgabenfortschritts innerhalb von Projekten, wobei sowohl die Gesamtzahl der Aufgaben als auch deren Status in einer einzigen Visualisierung angezeigt werden.
+
 
 ## Aktivitäten zum Erstellen von Berichten mit Diagrammen
 
