@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer einfachen Gruppierung
-description: Erfahren Sie, was eine Gruppierung ist und wie Sie eine Gruppierung erstellen und mit anderen Benutzenden in Workfront teilen können.
+description: Workfront-Gruppierungen verbessern die Projektorganisation, indem sie es den Benutzenden ermöglichen, Listen anhand von Elementen wie Portfolios, Programmen oder Abschlussdaten zu kategorisieren. Für effiziente Zusammenarbeit stehen anpassbare Freigabeoptionen und Verwaltungsoptionen zur Verfügung.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,24 +9,30 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
+last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 888021fa7d7160154a3a21c491c1d50c13650864
+workflow-type: tm+mt
+source-wordcount: '419'
+ht-degree: 34%
 
 ---
 
 # Erstellen einer einfachen Gruppierung
 
-In diesem Video lernen Sie Folgendes:
+In diesem Video wird erläutert, wie Sie in Workfront Gruppierungen erstellen und verwalten können, um Projektlisten effektiv zu organisieren. &#x200B; Gruppierungen sind neben Filtern und Ansichten eines der drei Hauptberichtselemente und helfen, Ergebnisse auf der Grundlage von gemeinsamen Informationen zu organisieren. &#x200B;
+In diesem Tutorial werden praktische Schritte zum Organisieren von Projektlisten beschrieben, um die tägliche Arbeit und Zusammenarbeit zu optimieren. &#x200B;
 
-* Was ist eine Gruppierung in Workfront?
-* Erstellen einer Gruppierung
-* Freigeben einer Gruppierung für andere Workfront-Benutzende
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/3449824/?quality=12&learn=on&captions=ger)
+## Die wichtigsten Punkte
+
+* **Zweck der Gruppierungen:** Gruppierungen sind ein wichtiges Berichterstellungselement in Workfront, mit dem Projektlisten auf der Grundlage gemeinsam genutzter Informationen wie Abschlussdaten, Portfolios oder Programmen organisiert werden. &#x200B;
+* **Gruppierungen erstellen** Sie können benutzerdefinierte Gruppierungen mit bis zu drei Kriterienebenen erstellen. &#x200B; Beispielsweise können Projekte zur besseren Organisation zunächst nach Portfolio und dann nach Programm gruppiert werden. &#x200B;
+* **Bearbeiten und Speichern von Gruppierungen** Integrierte Gruppierungen können nicht überschrieben werden, Sie können Änderungen jedoch als neue Gruppierung speichern. &#x200B; Benutzerdefinierte Gruppierungen sollten klare, beschreibende Namen haben, damit sie leicht identifiziert werden können. &#x200B;
+* **Gruppierungen freigeben:** Gruppierungen können für andere Benutzer freigegeben werden, wobei ihnen die standardmäßigen „Ansichtsberechtigungen“ erlauben, die Gruppierung zu verwenden und freizugeben, sie jedoch nicht zu bearbeiten. &quot;&#x200B;Verwalten“-Berechtigungen ermöglichen das Bearbeiten und Löschen. &#x200B;
+* **Gruppierungen entfernen:** Sie eine von Ihnen erstellte Gruppierung löschen, wird sie auch aus den Listen der Benutzer entfernt, für die Sie sie freigegeben haben. &#x200B; Freigegebene Gruppierungen werden für andere Benutzer im Abschnitt „Für mich freigegeben“ angezeigt. &#x200B;
 
 ## Aktivitäten zum Erstellen einer einfachen Gruppierung
 
@@ -48,9 +54,7 @@ Gruppieren Sie den Problembericht nach:
 1. Rufen Sie in einem Problemlistenbericht das Menü **[!UICONTROL Gruppierung]** auf und wählen Sie **[!UICONTROL Neue Gruppierung]**.
 1. Weisen Sie der Gruppierung den Namen „Anfrage-Warteschlange, Warteschlangenthema, Priorität“ zu.
 1. Klicken Sie auf **[!UICONTROL Gruppierung hinzufügen]**.
-1. Geben Sie im Feld [!UICONTROL Zuerst nach]. den Text „Projektname“ ein und wählen Sie für die Feldquelle „Projekt“ die Option **[!UICONTROL Name]** aus.
-1. Klicken Sie auf **[!UICONTROL Weitere Gruppierung hinzufügen]**.
-1. Geben Sie in das Feld [!UICONTROL Und dann nach] den Text „Warteschlange“ ein und wählen Sie für die Feldquelle [!UICONTROL Warteschlangenthema] die Option **[!UICONTROL Name]** aus.
-1. Klicken Sie auf **[!UICONTROL Weitere Gruppierung hinzufügen]**.
-1. Geben Sie in das Feld [!UICONTROL Und dann nach] den Text „Priorität“ ein und wählen Sie für die Feldquelle [!UICONTROL Problem] die Option **[!UICONTROL Priorität]** aus.
+1. Im Feld [!UICONTROL Gruppieren nach]. den Text „Projektname“ ein und wählen Sie für die Feldquelle „Projekt“ die Option **[!UICONTROL Name]** aus.
+1. Klicken Sie auf **[!UICONTROL Weitere Gruppierung hinzufügen]** geben Sie dann „Warteschlange“ ein und wählen Sie **[!UICONTROL Name]** unter der ] &quot;[!UICONTROL &quot; aus.
+1. Klicken Sie **[!UICONTROL Weitere Gruppierung hinzufügen]** geben Sie dann „Priorität“ ein und wählen Sie **[!UICONTROL Priorität]** unter der [!UICONTROL Problem]-Feldquelle aus.
 1. Klicken Sie auf **[!UICONTROL Gruppierung speichern]**
