@@ -2,7 +2,7 @@
 title: Grundlegendes zum Textmodus für Ansichten
 description: Erfahren Sie, was der Textmodus ist, wozu die Binnenmajuskel-Schreibweise dient, und lernen Sie einen einfachen „Plug-and-Play“-Textmodus kennen, den Sie für Ihre Ansichten in Workfront verwenden können.
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ In diesem Video lernen Sie Folgendes:
 * Was die Binnenmajuskel-Schreibweise ist
 * Einige grundlegende „Plug-and-Play“-Textmodi, die Sie in Ihren Ansichten verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3422888/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Ansichten
 

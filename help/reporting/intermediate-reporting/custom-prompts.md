@@ -2,7 +2,7 @@
 title: Erstellen benutzerdefinierter Eingabeaufforderungen
 description: Erfahren Sie, was eine benutzerdefinierte Eingabeaufforderung ist, wie Sie sie im Textmodus erstellen, und einige Beispiele, die Sie im Berichtswesen in Workfront verwenden können.
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 336822.png
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen einer benutzerdefinierten Eingabeaufforderung im Textmodus
 * Einige Beispiele, die Sie in Ihren Berichten verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3418631/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
 ## Aktivitäten zum Erstellen benutzerdefinierter Eingabeaufforderungen
 

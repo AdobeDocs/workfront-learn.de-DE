@@ -2,7 +2,7 @@
 title: Willkommen zum erweiterten Reporting
 description: Erfahren Sie, wie Sie den [!UICONTROL API-Explorer] und den Textmodus verwenden, um erweiterte Filter, Ansichten und Gruppierungen zu erstellen, die über die Funktionen der [!UICONTROL Reporting-Benutzeroberfläche] hinausgehen.
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -10,7 +10,7 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 100%
