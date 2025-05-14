@@ -41,7 +41,7 @@ In diesem Video lernen Sie Folgendes:
 * Was die Binnenmajuskel-Schreibweise ist
 * Etwas einfachen „Plug-and-Play“-Textmodus, den Sie in Ihren Berichtsfiltern verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418630/?quality=12&learn=on&captions=ger)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Filter
 
