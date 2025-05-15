@@ -39,7 +39,7 @@ Eine schrittweise Anleitung finden Sie weiter unten.
 1. Klicken Sie auf **[!UICONTROL Filterregel hinzufügen]**.
 1. Klicken Sie auf **Feld „Feld auswählen** und geben Sie die Wörter &quot;[!UICONTROL Portfolioname] ein. Wählen Sie dann[!UICONTROL Name] unter der Feldquelle [!UICONTROL Portfolio] aus.
 1. Belassen Sie den Operator [!UICONTROL Gleich] so, wie er ist.
-1. Geben Sie [!UICONTROL  Suchfeld &quot;]&quot; ein.
+1. Geben Sie [!UICONTROL &#x200B; Suchfeld &quot;]&quot; ein.
 1. Wählen Sie [!UICONTROL Marketing-Portfolio] aus, vorausgesetzt, Sie verfügen über ein Portfolio mit dem Namen, nach dem Sie filtern möchten. Wenn nicht, nutzen Sie einfach die Funktion zum automatischen Vervollständigen, um das gewünschte Portfolio zu finden.
 1. Klicken Sie auf **[!UICONTROL Filter speichern]**.
 
