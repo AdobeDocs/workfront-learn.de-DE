@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Berichten mit Diagrammen
-description: Diagramme verbessern die Datenvisualisierung, indem sie Dateneinblicke durch anpassbare Filter, Gruppierungen und gestapelte Spaltenformate organisieren, was die Analyse übersichtlicher und umsetzbarer macht.
+description: Diagramme optimieren die Datenvisualisierung, indem sie Datenerkenntnisse durch anpassbare Filter, Gruppierungen und gestapelte Säulenformate organisieren, was eine übersichtlichere und besser umsetzbare Analyse ermöglicht.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,40 +13,40 @@ last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '595'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
 # Erstellen von Berichten mit Diagrammen
 
-In diesem Video wird erläutert, wie Diagramme zur effektiven Visualisierung von Daten verwendet werden können, insbesondere zur Verfolgung von Projektaufgaben. &#x200B; Es zeigt die Erstellung von zwei Berichtstypen in Workfront:
+In diesem Video wird erläutert, wie Sie mithilfe von Diagrammen Daten auf effektive Weise visualisieren können, insbesondere zum Tracking von Projektaufgaben. Es zeigt die Erstellung von zwei Berichtstypen in Workfront:
 
-**Bericht zu verspäteten Aufgaben nach Projekt:**
+**Bericht zu in Verzug geratenen Aufgaben nach Projekt:**
 
-* Beginnen Sie mit einem Listenbericht und wenden Sie Filter an, um in aktuellen Projekten nur unvollständige, verspätete Aufgaben anzuzeigen. &#x200B;
-* Aufgaben nach Projektname gruppieren und ein Tortendiagramm erstellen, um die Verteilung überfälliger Aufgaben auf die Projekte anzuzeigen. &#x200B;
-* Legen Sie das Diagramm als Standardregisterkarte für einfachen Zugriff fest. &#x200B;
+* Beginnen Sie mit einem Listenbericht und wenden Sie Filter an, um in aktuellen Projekten nur unvollständige, in Verzug geratene Aufgaben anzuzeigen. 
+* Gruppieren Sie Aufgaben nach den Projektnamen und erstellen Sie ein Tortendiagramm, um die Verteilung in Verzug geratener Aufgaben auf die Projekte anzuzeigen. 
+* Legen Sie das Diagramm als Standardregisterkarte fest, um einfachen Zugriff zu ermöglichen. 
 
-**Aufgaben nach Projekt und Fortschrittsbericht:**
+**Bericht zu Aufgaben nach Projekt und Fortschrittsstatus:**
 
-* Kopieren Sie den ersten Bericht und fügen Sie eine weitere Gruppierung für den Aufgabenstatus hinzu.
-* Filter entfernen, um alle Aufgaben einzubeziehen und ihren Fortschritt während der Projektausführung anzuzeigen.
-* Verwenden Sie ein gestapeltes Säulendiagramm, um die Gesamtzahl der Aufgaben pro Projekt anzuzeigen, wobei Stacks verschiedene Fortschrittsstatus darstellen.
+* Kopieren Sie den ersten Bericht und fügen Sie eine weitere Gruppierung für den Fortschrittsstatus der Aufgaben hinzu.
+* Entfernen Sie Filter, um alle Aufgaben einzuschließen und ihren Fortschritt während der Projektausführung anzuzeigen.
+* Verwenden Sie ein gestapeltes Säulendiagramm, um die Gesamtzahl der Aufgaben pro Projekt anzuzeigen, wobei die einzelnen Säulen für die verschiedenen Fortschrittsstatus stehen.
 * Passen Sie bei Bedarf Farben an und speichern Sie den Bericht.
 
-In diesem Video wird gezeigt, wie Diagramme wie Torten- und gestapelte Säulendiagramme Einblicke in die Aufgabenverteilung und Projektleistung bieten können, sodass Benutzende Projekte vergleichen und den Aufgabenfortschritt visuell verstehen können. &#x200B;
+In diesem Video wird gezeigt, wie Diagramme, z. B. Torten- und gestapelte Säulendiagramme, Erkenntnisse zur Aufgabenverteilung und Projektleistung liefern und so Benutzende Projekte vergleichen und den Aufgabenfortschritt visuell nachvollziehen können. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450023/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
-* **Diagramme erhöhen die Datenklarheit**: Die Visualisierung von Daten mit Diagrammen, wie z. B. Torten- oder Spaltendiagrammen, erleichtert das Verständnis der Aufgabenverteilung und des Projektfortschritts im Vergleich zu Listenberichten. &#x200B;
-* **Nach spezifischen Einblicken filtern**: Durch die Anwendung von Filtern (z. B. unvollständige, in aktuellen Projekten in Verzug geratene Aufgaben) können Sie sich auf relevante Daten für eine zielgerichtete Analyse konzentrieren. &#x200B;
-* **Gruppierung für bessere Organisation**: Durch Gruppierung von Aufgaben nach Projektname oder Fortschrittsstatus werden die Daten effektiv organisiert, was aussagekräftige Vergleiche zwischen den Projekten ermöglicht. &#x200B;
-* **Diagrammanpassungsoptionen**: Benutzer können Diagrammtypen (z. B. Kreis, Spalte, Balken) auswählen und Farben anpassen, um sie an Voreinstellungen oder Branding anzupassen. &#x200B;
-* **Gestapelte Säulendiagramme für detaillierte**: Gestapelte Säulendiagramme bieten eine umfassende Ansicht des Aufgabenfortschritts innerhalb von Projekten, wobei sowohl die Gesamtzahl der Aufgaben als auch deren Status in einer einzigen Visualisierung angezeigt werden.
+* **Mehr Datenklarheit durch Diagramme**: Durch die Visualisierung von Daten mit Diagrammen, z. B. Torten- oder Säulendiagrammen, können sowohl die Aufgabenverteilung als auch der Projektfortschritt im Vergleich zu Listenberichten einfacher nachvollzogen werden. 
+* **Filterung nach bestimmten Erkenntnissen**: Die Anwendung von Filtern (z. B. für in aktuellen Projekten unvollständige, in Verzug geratene Aufgaben) ermöglicht es, sich für eine zielgerichtete Analyse auf relevante Daten zu konzentrieren. 
+* **Gruppierung für eine bessere Organisation**: Durch Gruppierung von Aufgaben nach dem Projektnamen oder Fortschrittsstatus werden Daten effektiv organisiert, was aussagekräftige Vergleiche zwischen den Projekten ermöglicht. 
+* **Optionen zur Diagrammanpassung**: Benutzende können Diagrammtypen (z. B. Torten-, Säulen- und Balkendiagramme) auswählen und Farben anpassen, um sie an Voreinstellungen oder das Branding anzupassen. 
+* **Gestapelte Säulendiagramme für detaillierte Erkenntnisse**: Gestapelte Säulendiagramme bieten eine umfassende Ansicht des Aufgabenfortschritts innerhalb von Projekten, wobei sowohl die Gesamtzahl der Aufgaben als auch deren Status in einer einzigen Visualisierung angezeigt werden.
 
 
 ## Aktivitäten zum Erstellen von Berichten mit Diagrammen
@@ -78,11 +78,11 @@ Das Quartalsende naht, und Sie möchten sehen, inwieweit die kürzlich abgeschlo
    ![Ein Screenshot des Bildschirms zum Hinzufügen von Filtern zu einem Bericht](assets/chart-report-filters.png)
 
 1. Wählen Sie auf der Registerkarte **[!UICONTROL Diagramm]** die Option **[!UICONTROL Spalte]** für den Diagrammtyp aus.
-1. Wählen Sie für [!UICONTROL linke (Y) Achse] die Option [!UICONTROL Geplante Kosten].
-1. Wählen Sie für [!UICONTROL untere Achse (X] die Option [!UICONTROL Name].
-1. Klicken Sie auf **[!UICONTROL Kombinationsdiagramm]** und wählen Sie [!UICONTROL Istkosten] im Feld **[!UICONTROL Wert]** aus.
-1. Wählen Sie im Feld **[!UICONTROL Diagrammtyp]** die Option Linie aus.
-1. Klicken Sie auf das Farbfeld, um die Farbe [!UICONTROL Istkosten] zu ändern. Farbe auswählen.
+1. Wählen Sie unter [!UICONTROL Linke Achse (Y)] die Option [!UICONTROL Geplante Kosten] aus.
+1. Wählen Sie unter [!UICONTROL Untere Achse (X)] die Option [!UICONTROL Name] aus.
+1. Klicken Sie auf die Schaltfläche **[!UICONTROL Kombinationsdiagramm]** und wählen Sie im Feld **[!UICONTROL Wert]** die Option [!UICONTROL Ist-Kosten] aus.
+1. Wählen Sie im Feld **[!UICONTROL Diagrammtyp]** die Option für das Liniendiagramm aus.
+1. Klicken Sie auf das Farbfeld, um die Farbe für die [!UICONTROL Ist-Kosten] zu ändern. Wählen Sie eine Farbe aus.
 1. Klicken Sie auf **[!UICONTROL Speichern + schließen]**. Wenn Sie zur Eingabe eines Berichtnamens aufgefordert werden, nennen Sie ihn „Geplante vs. tatsächliche Kosten nach abgeschlossenem Projekt im letzten Quartal“.
 
    ![Ein Screenshot des Bildschirms zum Hinzufügen eines Diagramms zu einem Bericht](assets/chart-report-chart.png)

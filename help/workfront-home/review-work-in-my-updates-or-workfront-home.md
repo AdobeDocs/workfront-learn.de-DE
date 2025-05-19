@@ -1,6 +1,6 @@
 ---
 title: Überprüfung der Arbeit in [!DNL My Updates] oder [!DNL Home]
-description: '[!DNL &#x200B; Workfront] bietet zwei Stellen für den Zugriff auf Arbeiten, die Ihnen zur Überprüfung und Genehmigung zugewiesen wurden -  [!DNL My Updates] AND [!DNL Home] '
+description: '[!DNL  Workfront] bietet zwei Stellen, an denen Sie auf die Ihnen zur Überprüfung und Genehmigung zugewiesenen Arbeiten zugreifen können –  [!DNL My Updates] und [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
@@ -13,9 +13,9 @@ exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 hide: true
 hidefromtoc: true
 source-git-commit: 76bccb731d1257fee3e3c0c20dde8efa2270a9c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '191'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
