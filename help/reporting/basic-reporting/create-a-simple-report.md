@@ -13,28 +13,28 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: 96128e92d7a84dadb8b2c8547a6e612ddb0776d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '467'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
 # Erstellen eines einfachen Berichts
 
-In diesem Video wird erläutert, wie Sie Projektberichte erstellen und anpassen können, um Daten effektiv zu analysieren. &#x200B; Zunächst wird die Bedeutung von Berichten bei der Verfolgung des Projektfortschritts, des Aufgabenabschlusses, der Budgeteinhaltung und der Identifizierung von Problemen hervorgehoben. Das Video zeigt, wie Sie mit einem Projektlistenbericht beginnen, Filter, Ansichten und Gruppierungen anpassen und aus praktischen Gründen einen benutzerdefinierten Bericht erstellen. &#x200B; &#x200B;
+In diesem Video wird erläutert, wie Sie Projektberichte erstellen und anpassen, um Daten effektiv zu analysieren. Zunächst wird die Bedeutung von Berichten bei der Verfolgung des Projektfortschritts, des Aufgabenabschlusses, der Budgeteinhaltung und der Identifizierung von Problemen hervorgehoben. Das Video zeigt, wie Sie mit einem Projektlistenbericht beginnen, Filter, Ansichten und Gruppierungen anpassen und aus praktischen Gründen einen benutzerdefinierten Bericht erstellen. 
 
-Im Video wird hervorgehoben, dass benutzerdefinierte Berichte ihre Standardeinstellungen beibehalten, aber bei der Anzeige temporäre Änderungen vorgenommen werden können. &#x200B; Berichte werden im Abschnitt „Meine Berichte“ gespeichert, während freigegebene Berichte in „Für mich freigegeben“ angezeigt werden&#x200B; Häufig verwendete Berichte können angeheftet oder als Favoriten markiert werden, um einen einfachen Zugriff zu ermöglichen. &#x200B;
+Im Video wird hervorgehoben, dass benutzerdefinierte Berichte zwar ihre Standardeinstellungen beibehalten, bei der Anzeige jedoch temporäre Änderungen vorgenommen werden können. Berichte werden im Abschnitt „Meine Berichte“ gespeichert, während freigegebene Berichte in „Für mich freigegeben“ angezeigt werden. Häufig verwendete Berichte können angeheftet oder als Favoriten markiert werden, um einen schnellen Zugriff zu ermöglichen. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
 
-* **Zweck von Berichten** Berichte helfen, den Projektfortschritt, den Aufgabenabschluss und die Budgeteinhaltung zu verfolgen und Probleme zu identifizieren, wodurch sie für ein effektives Projektmanagement unerlässlich sind.
-* **Erstellung benutzerdefinierter Berichte:** Benutzerdefinierte Berichte ermöglichen es Ihnen, bestimmte Filter, Ansichten und Gruppierungen zu speichern, um einen einfachen Zugriff zu ermöglichen, sodass Sie die Einstellungen nicht wiederholt anpassen müssen. &#x200B;
-* **Schritte zum Erstellen eines Berichts** Wählen Sie den entsprechenden Objekttyp aus, benennen Sie den Bericht, wenden Sie Filter, Ansichten und Gruppierungen an, passen Sie Spalten an und speichern Sie den Bericht. &#x200B;
-* **Temporäre vs. &#x200B; Standardeinstellungen:** Während Viewer vorübergehend Filter, Ansichten und Gruppierungen ändern können, wird der Bericht beim erneuten Öffnen immer auf die Standardeinstellungen zurückgesetzt. &#x200B;
-* **Organisieren von Berichten:** Benutzerdefinierte Berichte werden in „Meine Berichte“ gespeichert, freigegebene Berichte in „Für mich freigegeben“ und häufig verwendete Berichte können angeheftet oder als Favoriten für den Schnellzugriff markiert werden. &#x200B;
+* **Zweck von Berichten:** Berichte helfen dabei, den Projektfortschritt, den Aufgabenabschluss und die Budgeteinhaltung zu verfolgen und Probleme zu identifizieren, wodurch sie für ein effektives Projekt-Management unerlässlich sind.
+* **Erstellung benutzerdefinierter Berichte:** Benutzerdefinierte Berichte ermöglichen es Ihnen, bestimmte Filter, Ansichten und Gruppierungen zu speichern, um einen einfachen Zugriff zu ermöglichen, sodass Sie die Einstellungen nicht wiederholt anpassen müssen. 
+* **Schritte zum Erstellen eines Berichts:** Wählen Sie den entsprechenden Objekttyp aus, benennen Sie den Bericht, wenden Sie Filter, Ansichten und Gruppierungen an, passen Sie Spalten an und speichern Sie den Bericht. 
+* **Temporäre vs. Standardeinstellungen:** Während Betrachtende vorübergehend Filter, Ansichten und Gruppierungen ändern können, wird der Bericht beim erneuten Öffnen immer auf die Standardeinstellungen zurückgesetzt. 
+* **Organisieren von Berichten:** Benutzerdefinierte Berichte werden in „Meine Berichte“ gespeichert, freigegebene Berichte in „Für mich freigegeben“ und häufig verwendete Berichte können für den Schnellzugriff angeheftet oder als Favoriten markiert werden. 
 
 
 
