@@ -13,9 +13,9 @@ last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '418'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -26,15 +26,15 @@ In diesem Video lernen Sie Folgendes:
 * Wann ein Matrix-Bericht nützlich sein kann
 * Und wie man einen Matrix-Bericht erstellt
 
->[!VIDEO](https://video.tv.adobe.com/v/3448192/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
-* **Matrix-Berichtsstruktur:** Matrix-Berichte organisieren Daten in Zeilen und Spalten mit automatischen Zeilen- und Spaltensummen. &#x200B; Sie eignen sich ideal zur Verfolgung von Metriken wie Arbeitsstunden, Kosten und Umsatz. &#x200B;
-* **Einrichtung von Filtern:** Verwenden Sie Filter, um sich auf bestimmte Daten zu konzentrieren, z. B. die von Benutzenden eines bestimmten Heim-Teams im letzten Quartal geleisteten Stunden. &#x200B; Die „Besitzer - Feldquelle“ hilft bei der Identifizierung relevanter Team-Mitglieder. &#x200B;
-* **Gruppierungsoptionen:** In unserem Beispiel werden Zeilen nach „Name des Verantwortlichen“ (Person, die die Stunden bearbeitet hat) gruppiert, während Spalten nach „Datum der Stundeneingabe“ (nach Monat und Woche) gruppiert sind. &#x200B;
-* **Zusammengefasste Daten:** Spalten wie Stunden, Istkosten und Umsatz werden standardmäßig zusammengefasst, um sicherzustellen, dass die Gesamtsummen in der Matrix angezeigt werden. Diese Standardeinstellungen können bei Bedarf deaktiviert werden. &#x200B;
-* **Diagrammintegration** Matrixberichte können durch Diagramme für eine alternative Datenvisualisierung ergänzt werden, wobei dieselben Gruppierungsinformationen verwendet werden. Sie können die Registerkarte „Matrix“ oder „Diagramm“ als Standardansicht festlegen. &#x200B;
+* **Matrixberichtsstruktur:** Matrixberichte organisieren Daten in Zeilen und Spalten mit automatischen Zeilen- und Spaltensummen. Sie eignen sich ideal zur Verfolgung von Metriken wie Arbeitsstunden, Kosten und Umsatz. 
+* **Einrichtung von Filtern:** Verwenden Sie Filter, um sich auf bestimmte Daten zu konzentrieren, z. B. auf die von Benutzenden eines bestimmten Stamm-Teams im letzten Quartal geleisteten Stunden. Die Besitzerfeldquelle hilft bei der Identifizierung relevanter Team-Mitglieder. 
+* **Gruppierungsoptionen:** In unserem Beispiel werden Zeilen nach „Name des Inhabers“ (Person, die die Stunden gearbeitet hat) gruppiert, während Spalten nach dem Datum des Stundeneintrags (nach Monat und Woche) gruppiert sind. 
+* **Zusammengefasste Daten:** Spalten für Stunden, tatsächliche Kosten und Umsatz werden standardmäßig zusammengefasst, damit in der Matrix Gesamtsummen angezeigt werden. Diese Standardeinstellungen können bei Bedarf deaktiviert werden. 
+* **Diagrammintegration:** Matrixberichte können durch Diagramme für eine alternative Datenvisualisierung ergänzt werden, wobei dieselben Gruppierungsinformationen verwendet werden. Sie können die Registerkarte „Matrix“ oder „Diagramm“ als Standardansicht festlegen. 
 
 ## Aktivitäten zum Erstellen eines Matrix-Berichts
 
