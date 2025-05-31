@@ -27,4 +27,4 @@ In diesem Video lernen Sie Folgendes:
 * Ausführen eines Berichts mit den Zugriffsrechten eines bestimmten Benutzers
 * Einrichten und Verwenden von Berichtsaufforderungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445872/?quality=12&learn=on&enablevpops&captions=ger)
