@@ -9,12 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
 workflow-type: tm+mt
-source-wordcount: '983'
-ht-degree: 100%
+source-wordcount: '985'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +43,7 @@ Erstellen Sie für jede Zeile in der CSV-Datei der Projektliste ein neues Projek
    ![Ursprüngliches Szenario-Design Bild 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. Suchen Sie auf der nächsten Seite nach Workfront und wählen Sie diese Anwendung aus. Klicken Sie dann auf „Weiter“.
-1. Benennen Sie Ihr Szenario oben links im Bildschirm des Szenario-Designers in „Ursprüngliches Szenario-Design“ um
+1. Benennen Sie oben links im Bildschirm „Szenario-Designer“ Ihr Szenario in „Anfängliches Szenario-Design“ um
 1. Klicken Sie auf das leere Trigger-Modul in der Mitte des Bildschirms und wählen Sie die Workfront-App und dann das Modul „Dokument herunterladen“ aus.
 
    **Authentifizieren Sie die Verbindung des Moduls zu Ihrem Workfront-Konto.**
@@ -55,7 +56,7 @@ Erstellen Sie für jede Zeile in der CSV-Datei der Projektliste ein neues Projek
 
    ![Ursprüngliches Szenario-Design Bild 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Geben Sie die URL **Ihrer Workfront-Instanz** ein und klicken Sie auf „Weiter“.
+1. Geben Sie die URL **Ihres Testlaufwerkkontos für Workfront** ein und klicken Sie dann auf Weiter.
 
    ![Ursprüngliches Szenario-Design Bild 5](../12-exercises/assets/initial-scenario-design-5.png)
 
