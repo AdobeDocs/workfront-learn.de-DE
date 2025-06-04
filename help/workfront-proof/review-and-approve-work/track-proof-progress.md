@@ -1,6 +1,6 @@
 ---
 title: Verfolgen des Korrekturabzugfortschritts
-description: Erfahren Sie, wie Sie [!UICONTROL SOCD]-Indikatoren, den Korrekturabzugsfortschritt und Berichte verwenden können, um den Fortschritt eines Korrekturabzugs in [!DNL  Workfront]zu verfolgen.
+description: Erfahren Sie, wie Sie [!UICONTROL SOCD]-Indikatoren, den Korrekturabzugsfortschritt und Berichte verwenden können, um den Fortschritt eines Korrekturabzugs in [!DNL &#x200B; Workfront]zu verfolgen.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -27,7 +27,7 @@ Um den Korrekturabzugsfortschritt in [!DNL Workfront] anzuzeigen, müssen Sie ü
 
 Über die [!UICONTROL SOCD]-Symbole in der Liste [!UICONTROL Dokumente] erhalten Sie einen Überblick über den Fortschritt des Überprüfung- und Genehmigungsprozesses des Korrekturabzugs. Diese Symbole kennzeichnen bestimmte Aktionen, die mit dem Korrekturabzug durchgeführt werden.
 
-![Ein Bild der Liste [!UICONTROL Dokumente] in einem [!DNL  Workfront]-Projekt, wo die [!UICONTROL SOCD]-Symbolen hervorgehoben sind.](assets/manage-proofs-socd.png)
+![Ein Bild der Liste [!UICONTROL Dokumente] in einem [!DNL &#x200B; Workfront]-Projekt, wo die [!UICONTROL SOCD]-Symbolen hervorgehoben sind.](assets/manage-proofs-socd.png)
 
 Die Symbole zeigen die Arbeit an einem Korrekturabzug von dem Zeitpunkt an, an dem Sie den Korrekturabzug an die Empfänger bzw. Empfängerinnen senden, bis zu dem Zeitpunkt, an dem diese eine Entscheidung über den Korrekturabzug treffen.
 
@@ -59,9 +59,9 @@ Wenn Sie wissen möchten, wie weit die einzelnen Empfängerinnen bzw. Empfänger
 
 Der Status des Testversands basiert auf dem Status der Testversand-Empfänger des Schritts. Der gesamte Korrekturabzugs-Status ist auf der Seite [!UICONTROL Dokumente] rechts neben den [!UICONTROL SOCD]-Indikatoren ersichtlich, sodass Sie leicht erkennen können, ob Sie eine Entscheidung über den Korrekturabzug getroffen haben.
 
-![Ein Bild der Liste [!UICONTROL Dokumente] in einem [!DNL  Workfront]-Projekt, in dem der gesamte Korrekturabzugs-Status hervorgehoben ist.](assets/manage-proofs-overall-status.png)
+![Ein Bild der Liste [!UICONTROL Dokumente] in einem [!DNL &#x200B; Workfront]-Projekt, in dem der gesamte Korrekturabzugs-Status hervorgehoben ist.](assets/manage-proofs-overall-status.png)
 
-Dieser Korrekturabzugs-Status zeigt den Gesamtstatus des Korrekturabzugs an. Wenn zum Beispiel zwei Empfänger und/oder Empfängerinnen den Korrekturabzug genehmigt haben, werden ihre individuellen Status als [!UICONTROL Genehmigt] angezeigt. Der dritte Empfänger hat jedoch noch keine Entscheidung getroffen, sodass der Status dieser Person &quot;[!UICONTROL &quot; ]. Daher wird der Gesamtstatus als [!UICONTROL Ausstehend] angezeigt.
+Dieser Korrekturabzugs-Status zeigt den Gesamtstatus des Korrekturabzugs an. Wenn zum Beispiel zwei Empfänger und/oder Empfängerinnen den Korrekturabzug genehmigt haben, werden ihre individuellen Status als [!UICONTROL Genehmigt] angezeigt. Der dritte Empfänger hat jedoch noch keine Entscheidung getroffen, sodass der Status dieser Person &quot;[!UICONTROL &quot; &#x200B;]. Daher wird der Gesamtstatus als [!UICONTROL Ausstehend] angezeigt.
 
 Wenn für Ihr Unternehmen benutzerdefinierte Status konfiguriert wurden, werden diese Status verwendet. Andernfalls werden die Standardstatusoptionen von angezeigt:
 
@@ -79,11 +79,11 @@ Sie können die Berichterstellungsfunktionen von [!DNL Workfront's] auch nutzen,
 
 Ein Bericht über die Genehmigung von Korrekturabzügen hilft Ihnen, ausstehende Genehmigungen nachzuverfolgen, um sicherzustellen, dass die Fristen eingehalten werden.
 
-![Ein Bild eines Korrekturabzugs-Genehmigungsberichts in [!DNL  Workfront].](assets/proof-approval-report.png)
+![Ein Bild eines Korrekturabzugs-Genehmigungsberichts in [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Mit einem Bericht über die Dokumentversion können Sie Korrekturabzugsversionen verwalten und verfolgen.
 
-![Ein Bild eines Dokumentversionsberichts in [!DNL  Workfront].](assets/document-version-report.png)
+![Ein Bild eines Dokumentversionsberichts in [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 Wir empfehlen, mit Ihrer [!DNL Workfront]-Beraterin bzw. Ihrem -Berater zusammenzuarbeiten, um Berichte zu erstellen, die den Anforderungen Ihres Unternehmens entsprechen. Für einige der Berichte müssen Sie mit der Berichterstellung im [!DNL Workfront's]-Textmodus vertraut sein.
 
