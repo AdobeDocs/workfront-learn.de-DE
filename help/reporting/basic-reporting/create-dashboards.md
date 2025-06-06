@@ -13,9 +13,9 @@ last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 source-git-commit: eb6e0375169c5a171eee01053f9577394460fa11
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '646'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 84%
 Das Video bietet eine umfassende Anleitung zum Verständnis und zur Verwendung von Dashboards in Workfront.
 Es wird erläutert, dass es sich bei einem Dashboard um eine Sammlung von Berichten handelt, mit denen Benutzende zusammengehörige Daten zentral organisieren und anzeigen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449131/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
@@ -41,7 +41,7 @@ Es wird erläutert, dass es sich bei einem Dashboard um eine Sammlung von Berich
 
 Erstellen Sie ein [!UICONTROL Dashboard] mit nur einem Bericht – „Nach Notizen in diesem Projekt suchen“. Damit können Sie schnell alle Aktualisierungen eines Projekts finden, selbst wenn es Tausende von Aktualisierungen zu durchsuchen gibt. Dadurch werden die Aktualisierungs-Threads durchsucht, um schnell alle Aktualisierungen zu extrahieren, die den Kriterien entsprechen, die Sie in den Eingabeaufforderungen angeben.
 
-Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizen suchen“ erstellen, den Sie in der Aktivität „Notizbericht erstellen“ erstellt haben. Sie haben ihn noch nicht erstellt? Klicken Sie hier, um sich die Aktivität im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) anzusehen.
+Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizensuche“ erstellen, den Sie in der Aktivität „Notizbericht erstellen“ erstellt haben. Sie haben ihn noch nicht erstellt? Klicken Sie hier, um sich die Aktivität im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) anzusehen.
 
 * Entfernen Sie den Prompt „Projektname“ aus der Kopie und benennen Sie den Bericht in „Nach Notizen in diesem Projekt suchen“ um.
 * Weisen Sie dem [!UICONTROL Dashboard] den Namen „Notizensuche“ zu.
@@ -62,7 +62,7 @@ Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizen suche
 
    Als Nächstes verwenden Sie eine Abkürzung, um ein neues Dashboard zu erstellen und diesen Bericht hinzuzufügen.
 
-1. Klicken Sie auf **[!UICONTROL Berichtsaktionen]** und wählen Sie **[!UICONTROL Zum klassischen Dashboard hinzufügen]** > **[!UICONTROL Neues Dashboard]**.
+1. Klicken Sie auf **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Zum klassischen Dashboard hinzufügen]** > **[!UICONTROL Neues Dashboard]**.
 1. Ziehen Sie den Bericht „Nach Notizen in diesem Projekt suchen“ in das Bedienfeld **[!UICONTROL Layout]**.
 1. Beachten Sie, dass der Name des Berichts zum Namen des Dashboards wird. Ändern Sie den Namen in „Notizensuche“.
 
@@ -74,8 +74,8 @@ Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizen suche
 
    ![Ein Screenshot des Bildschirms zum Erstellen eines neuen Dashboards](assets/add-custom-section.png)
 
-1. Öffnen Sie ein beliebiges Projekt. Klicken Sie im Menü des linken Bedienfelds auf die Schaltfläche **[!UICONTROL Dashboard hinzufügen]**.
-1. Geben Sie im Feld **[!UICONTROL Dashboard auswählen]** „Notizen suchen“ ein und wählen Sie das [!UICONTROL Dashboard] aus der Liste aus.
-1. Geben Sie **[!UICONTROL Feld „Name des]**&quot; „Notizen suchen“ ein.
-1. Klicken Sie **[!UICONTROL Hinzufügen]**.
-1. Suchen Sie im Menü des linken Bedienfelds unten nach Search Notes . Klicken Sie auf die Punkte links neben dem Namen und ziehen Sie ihn nach rechts unter Updates.
+1. Öffnen Sie ein beliebiges Projekt. Klicken Sie im Menü des linken Panels auf die Schaltfläche **[!UICONTROL Dashboard hinzufügen]**.
+1. Geben Sie in das Feld **[!UICONTROL Dashboard auswählen]** den Namen „Notizensuche“ ein und wählen Sie das [!UICONTROL Dashboard] aus der Liste aus.
+1. Geben Sie in das Feld **[!UICONTROL Name der Schnellverknüpfung]** den Namen „Notizensuche“ ein.
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
+1. Suchen Sie im Menü des linken Panels nach „Notizensuche“. Klicken Sie auf die Punkte links neben dem Namen und ziehen Sie ihn nach oben bis direkt unter „Aktualisierungen“.
