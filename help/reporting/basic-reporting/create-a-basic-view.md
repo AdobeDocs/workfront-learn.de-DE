@@ -91,7 +91,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Meilensteinansicht“ mit de
 1. Wechseln Sie in einer Projektaufgabenliste zum Dropdown-Menü **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Neue Ansicht]**.
 1. Nennen Sie Ihre Ansicht „Meilensteinansicht“.
 1. Klicken Sie auf die Spalte [!UICONTROL Vorgänger], um sie auszuwählen.
-1. Klicken Sie [!UICONTROL  Feld „In dieser Spalte anzeigen] auf das Minussymbol im Feld [!UICONTROL Aufgabe >> Vorgänger], geben Sie dann &quot;[!UICONTROL Meilensteinname]&quot; ein und klicken Sie in der Liste auf [!UICONTROL Name].
+1. Klicken Sie [!UICONTROL &#x200B; Feld „In dieser Spalte anzeigen] auf das Minussymbol im Feld [!UICONTROL Aufgabe >> Vorgänger], geben Sie dann &quot;[!UICONTROL Meilensteinname]&quot; ein und klicken Sie in der Liste auf [!UICONTROL Name].
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![Ein Bild einer Aufgabenliste mit einer Meilensteinansicht](assets/view-milestone-exercise-2.png)
