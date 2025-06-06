@@ -8,26 +8,31 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '827'
-ht-degree: 100%
+source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+workflow-type: tm+mt
+source-wordcount: '974'
+ht-degree: 77%
 
 ---
 
 # Erstellen einer einfachen Ansicht
 
-In diesem Video lernen Sie Folgendes:
+In diesem Video wird erläutert, wie Sie in Workfront Ansichten erstellen und anpassen können, um bestimmte Informationen zu Elementen in einer Liste anzuzeigen, z. B. Projekte, Aufgaben, Probleme und Dokumente. &#x200B; Ansichten ermöglichen es Benutzern, Details wie Namen, Beschreibung, Status und andere Felder anzuzeigen, die für die Elemente relevant sind. &#x200B;
 
-* Was ist eine Ansicht in Workfront?
-* Erstellen und Ändern einer Ansicht
-* So geben Sie eine Ansicht für andere Workfront-Benutzende frei
+Das Video hebt die Flexibilität der Ansichten in Workfront hervor und enthält schrittweise Anweisungen zum Erstellen, Anpassen und Verwalten dieser Ansichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450247/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## Die wichtigsten Punkte
+
+* **Ansichten anpassen**: Benutzer können vorhandene Ansichten bearbeiten oder neue erstellen, indem sie Spalten hinzufügen, entfernen oder neu anordnen, um bestimmte Informationen wie Projektstatus oder Budget anzuzeigen.
+* **Inline-Bearbeitung**: Einige Felder in einer Listenansicht können direkt aktualisiert werden, ohne einzelne Elemente zu öffnen, wodurch Änderungen schneller vorgenommen werden können. &#x200B;
+* **Ansichten von Grund auf neu erstellen**: Benutzer können Ansichten für bestimmte Anforderungen entwerfen, z. B. zum Nachverfolgen des Projektzustands, indem sie relevante Spalten wie Budget, Istkosten und Fortschrittsstatus hinzufügen. &#x200B;
+* **Freigeben und Verwalten von**: Benutzerdefinierte Ansichten können für Team-Mitglieder zur Zusammenarbeit freigegeben oder entfernt werden, wenn sie nicht mehr benötigt werden.
 
 ## Aktivitäten zum Erstellen einer einfachen Ansicht
 
@@ -65,7 +70,7 @@ Bewegen Sie den Mauszeiger über die einzelnen Symbole in der Spalte [!UICONTROL
 
 ### Aktivität 2: Erstellen einer Meilensteinansicht
 
-Wenn Sie Meilensteine verwenden, ist diese Ansicht die einfachste Möglichkeit, Meilensteine nach Namen zu sehen und sie mithilfe einer Inline-Bearbeitung hinzuzufügen oder zu bearbeiten.
+Wenn Sie Meilensteine verwenden, ist diese Ansicht die einfachste Möglichkeit, Meilensteine anhand des Namens in Ihrer Aufgabenliste anzuzeigen und sie mithilfe der Inline-Bearbeitung zu einer Aufgabe hinzuzufügen oder daraus zu entfernen.
 
 Erstellen Sie eine Aufgabenansicht mit dem Namen „Meilensteinansicht“ mit den folgenden Spalten:
 
@@ -86,7 +91,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Meilensteinansicht“ mit de
 1. Wechseln Sie in einer Projektaufgabenliste zum Dropdown-Menü **[!UICONTROL Ansicht]** und wählen Sie **[!UICONTROL Neue Ansicht]**.
 1. Nennen Sie Ihre Ansicht „Meilensteinansicht“.
 1. Klicken Sie auf die Spalte [!UICONTROL Vorgänger], um sie auszuwählen.
-1. Klicken Sie im Feld [!UICONTROL In dieser Spalte anzeigen] auf das X-Symbol im Feld [!UICONTROL Aufgabe >> Vorgänger], geben Sie dann „[!UICONTROL Meilensteinname]“ ein und klicken Sie auf „[!UICONTROL Name]“ in der Liste.
+1. Klicken Sie [!UICONTROL  Feld „In dieser Spalte anzeigen] auf das Minussymbol im Feld [!UICONTROL Aufgabe >> Vorgänger], geben Sie dann &quot;[!UICONTROL Meilensteinname]&quot; ein und klicken Sie in der Liste auf [!UICONTROL Name].
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![Ein Bild einer Aufgabenliste mit einer Meilensteinansicht](assets/view-milestone-exercise-2.png)
