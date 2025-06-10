@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
+source-git-commit: 64c683bc598a811c398561b7e1895edd316c5af3
 workflow-type: tm+mt
-source-wordcount: '2274'
+source-wordcount: '2277'
 ht-degree: 94%
 
 ---
@@ -315,6 +315,7 @@ ht-degree: 94%
    + [Datensatztyp erstellen und verwalten](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [Erstellen und Verwalten von Tabellenansichten](/help/workfront-planning/create-and-manage-table-views.md)
    + [Erstellen und Verwalten von Zeitleisten-Ansichten](/help/workfront-planning/create-and-manage-timeline-views.md)
+   + [Verbinden von Datensatztypen](/help/workfront-planning/connect-record-types.md)
    + [Vorteile von Workfront Planning für UX Design-Teams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integrationen {#integrations}
