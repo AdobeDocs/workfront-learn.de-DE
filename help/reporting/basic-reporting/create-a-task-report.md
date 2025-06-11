@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Aufgabenberichts
-description: In diesem Video erfahren Sie, wie Sie einen Aufgabenbericht mit einem komplexen Filter in Workfront erstellen und die von Ihnen erstellten Berichte finden. Aktivität – einen Notizbericht mit Eingabeaufforderungen erstellen.
+description: Erfahren Sie, wie Sie einen Aufgabenbericht mit einem komplexen Filter erstellen und die in Workfront erstellten Berichte finden.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,32 +8,41 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
+last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
-workflow-type: ht
-source-wordcount: '925'
-ht-degree: 100%
+source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+workflow-type: tm+mt
+source-wordcount: '1116'
+ht-degree: 77%
 
 ---
 
 # Erstellen eines Aufgabenberichts
 
-In diesem Video lernen Sie Folgendes:
+Das Video enthält eine schrittweise Anleitung zum Erstellen eines benutzerdefinierten Berichts, um späte Aufgaben zu verfolgen, die dem angemeldeten Benutzer zugewiesen wurden. Zunächst wird erklärt, dass benutzerdefinierte Berichte erforderlich sind, wenn vorhandene Filter, Ansichten oder integrierte Berichte bestimmte Anforderungen nicht erfüllen. &#x200B; Der Bericht trägt den Namen „Verspätete Aufgaben, die mir zugewiesen wurden“ und wird aus Gründen der Klarheit mit einer Beschreibung hinzugefügt. &#x200B;
 
-* Erstellen eines Aufgabenberichts mit einem komplexen Filter
-* Suchen nach den von Ihnen erstellten Berichten
+Der resultierende Bericht hilft Benutzern, sich auf verspätete Aufgaben zu konzentrieren, bietet Einblicke in Abhängigkeiten und vereinfacht die Navigation zu den Host-Projekten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448351/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+## Die wichtigsten Punkte
+
+* **Erstellung benutzerdefinierter Berichte:** Wenn vorhandene Filter und integrierte Berichte Ihre Anforderungen nicht erfüllen, können Sie einen benutzerdefinierten Bericht von Grund auf neu erstellen, um sich auf bestimmte Daten zu konzentrieren, z. B. zugewiesene verspätete Aufgaben. &#x200B;
+* **Filtereinrichtung:** Verwenden Sie Filter, um Berichtskriterien zu definieren, einschließlich verspäteter Aufgaben, unvollständiger Aufgaben, aktueller Projekte und Aufgaben, die dem angemeldeten Benutzer zugewiesen wurden. &#x200B;
+* **Spalten für Kontext:** Fügen Sie Spalten wie „Kann beginnen“ hinzu, um Abhängigkeitsprobleme zu identifizieren, und „Projektname“ mit Hyperlinks, um die Navigation zu verwandten Projekten zu erleichtern. &#x200B;
+* **Nach Priorität sortieren** Sortieren Sie Aufgaben nach der Spalte „Fällig am“ in aufsteigender Reihenfolge, um die am häufigsten überfälligen Aufgaben oben im Bericht zu priorisieren. &#x200B;
+* **Barrierefreiheit:** Sie den Bericht, heften Sie ihn an oder markieren Sie ihn als Favoriten für den schnellen Zugriff, um eine effiziente Nachverfolgung und Verwaltung von verspäteten Aufgaben sicherzustellen.
+
 
 ## Aktivitäten zum Erstellen eines Aufgabenberichts
 
 >[!TIP]
 >
 >Holen Sie Ihre Spachtel und Rührschüsseln hervor und machen Sie sich bereit, die „Rezepte“ in unserem [Adobe Workfront Customer Reporting-Kochbuch](/help/assets/workfront-customer-reporting-cookbook.pdf) auszuprobieren. Darin finden Sie Schritt-für-Schritt-Anweisungen für 10 Berichte, die Ihnen heute in Ihrer Umgebung zur Verfügung stehen.
->Wir haben Lieblingsberichte von Kundinnen und Kunden gesammelt und in einem kleinen, leicht verdaulichen Kochbuch zusammengestellt, in dem Sie Ihre Workfront-Küche wieder ausprobieren können.
->Diese 10 Berichte stammen von Kundinnen und Kunden, die genau wie Sie sind. Verteilt auf verschiedene Branchen, Abteilungen, Teams, Positionen und alle in verschiedenen Unternehmen, schulden wir den unglaublichen Kundinnen und Kunden, die einen ihrer Lieblingsberichte geteilt haben, ein riesiges Dankeschön. Einige Berichte sind einfach (aber unglaublich nützlich) und einige sind komplexer, um Ihre Berichterstellung auf die nächste Ebene zu bringen.
+>>Wir haben Lieblingsberichte von Kundinnen und Kunden gesammelt und in einem kleinen, leicht verdaulichen Kochbuch zusammengestellt, in dem Sie Ihre Workfront-Küche wieder ausprobieren können.
+>>Diese 10 Berichte stammen von Kundinnen und Kunden, die genau wie Sie sind. Verteilt auf verschiedene Branchen, Abteilungen, Teams, Positionen und alle in verschiedenen Unternehmen, schulden wir den unglaublichen Kundinnen und Kunden, die einen ihrer Lieblingsberichte geteilt haben, ein riesiges Dankeschön. Einige Berichte sind einfach (aber unglaublich nützlich) und einige sind komplexer, um Ihre Berichterstellung auf die nächste Ebene zu bringen.
 
 
 ### Aktivität 1: Erstellen eines Notizberichts mit Eingabeaufforderungen
@@ -112,13 +121,13 @@ Schließen Sie Aufforderungen zu Folgendem ein:
 
 Dieser Problembericht zeigt alle Probleme aus einer Feedback-Anfrage-Warteschlange an, die für System-Admins erstellt wurde. Wie man diese Anfrage-Warteschlange erstellt, können Sie in der Anleitung [Erstellen einer Feedback-Anfrage-Warteschlange für System-Admins](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=de) sehen.
 
-Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=de&land=de).
+Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?land=de).
 
-Dieses benutzerdefinierte Formular sollte wie folgt erstellt werden:
+Dieses benutzerdefinierte Formular sollte die Objekttypen Projekt und Problem verwenden und wie folgt erstellt werden:
 
 Name: Admin-Prozess-Feedback
 
-1. Prozesstyp (Dropdown-Feld)
+1. Prozesstyp (Dropdown-Feld mit Einzelauswahl)
    * Zugriffsebenen
    * Genehmigungsprozess (nur global)
    * E-Mail-Benachrichtigungen
@@ -128,7 +137,7 @@ Name: Admin-Prozess-Feedback
    * Erinnerungsbenachrichtigungen
    * Anfrage-Warteschlange
 1. Prozessname (einzeiliges Textfeld)
-1. Prozessqualität (Dropdown-Feld)
+1. Prozessqualität (Dropdown-Feld mit Einzelauswahl)
    * 1 - völlig nutzlos
    * 2 - nicht sehr nützlich
    * 3 - gut, aber könnte besser sein
