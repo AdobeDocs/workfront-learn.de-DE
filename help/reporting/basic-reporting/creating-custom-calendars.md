@@ -34,5 +34,5 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen von Arbeitselementen zur Kalendergruppierung
 * Erstellen eines Ausfallzeitkalenders
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452402/?quality=12&learn=on&enablevpops&captions=ger)
 
