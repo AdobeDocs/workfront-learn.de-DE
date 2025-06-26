@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '348'
-ht-degree: 100%
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 87%
 
 ---
 
@@ -25,11 +26,11 @@ In diesem Video lernen Sie Folgendes:
 * Grundlegendes dazu, warum Platzhalter verwendet werden
 * Erstellen eines Filters mit einem benutzerbasierten Platzhalter
 
->[!VIDEO](https://video.tv.adobe.com/v/3418626/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Verwenden Sie beim Erstellen von Filtern, die sich mit Aufgaben- oder Problemzuweisungsinformationen beschäftigen, die Option „Arbeitsauftrag – Benutzer“ >> „ID-Feldquelle und -Name“.  Bei dieser Option werden alle der Aufgabe oder dem Problem zugewiesenen Benutzenden berücksichtigt, nicht nur die Person, die sie bzw. es „besitzt“ oder hauptsächlich damit betraut wurde.
+>Verwenden Sie beim Erstellen von Filtern, die sich mit Aufgaben- oder Problemzuweisungsinformationen beschäftigen, die Option „Arbeitsauftrag – Benutzer“ >> „ID-Feldquelle und -Name“.  Diese Option berücksichtigt alle Benutzer, die der Aufgabe oder dem Problem zugewiesen sind, nicht nur den „Eigentümer“ oder den primären Bevollmächtigten.
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ In diesem Video lernen Sie Folgendes:
 
 ### Aktivität 1
 
-Sie haben diese Woche etwas mehr Zeit und möchten daher herausfinden, ob es in Ihrem Team eine Person gibt, die bei ihren Arbeitsaufträgen Unterstützung gebrauchen könnte. Erstellen Sie einen Aufgabenfilter, um Aufgaben zu finden, die diese Woche fällig sind und noch nicht erledigt wurden.
+Sie haben diese Woche etwas mehr Zeit und möchten daher herausfinden, ob es in Ihrem Team eine Person gibt, die bei ihren Arbeitsaufträgen Unterstützung gebrauchen könnte. Erstellen Sie einen Aufgabenfilter , um Aufgaben zu finden, die Ihrem Haupt-Team zugewiesen sind, die in dieser Woche fällig sind und noch nicht abgeschlossen wurden.
 
 ### Antwort 1
 
