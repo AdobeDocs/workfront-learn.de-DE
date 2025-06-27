@@ -13,7 +13,7 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1116'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Das Video enthält eine schrittweise Anleitung zum Erstellen eines benutzerdefin
 
 Der daraus resultierende Bericht hilft Benutzenden, sich auf in Verzug geratene Aufgaben zu konzentrieren, bietet Informationen zu Abhängigkeiten und vereinfacht die Navigation zu den Host-Projekten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448351/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
@@ -121,7 +121,7 @@ Schließen Sie Aufforderungen zu Folgendem ein:
 
 Dieser Problembericht zeigt alle Probleme aus einer Feedback-Anfrage-Warteschlange an, die für System-Admins erstellt wurde. Wie man diese Anfrage-Warteschlange erstellt, können Sie in der Anleitung [Erstellen einer Feedback-Anfrage-Warteschlange für System-Admins](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=de) sehen.
 
-Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=de&land=de).
+Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?land=de).
 
 Dieses benutzerdefinierte Formular sollte die Objekttypen „Projekt“ und „Problem“ verwenden und folgendermaßen erstellt werden:
 
