@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines benutzerdefinierten Kalenderberichts
-description: Erfahren Sie, wie Sie einen benutzerdefinierten Kalender erstellen, der Arbeitselemente und persönliche Auszeiten anzeigt.
+description: Erfahren Sie, wie Sie einen benutzerdefinierten Kalender erstellen, in dem Arbeitselemente und persönliche Ausfallzeiten dargestellt werden.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
 source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -34,5 +34,5 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen von Arbeitselementen zur Kalendergruppierung
 * Erstellen eines Ausfallzeitkalenders
 
->[!VIDEO](https://video.tv.adobe.com/v/3452402/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops)
 

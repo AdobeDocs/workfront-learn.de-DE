@@ -12,9 +12,9 @@ thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
 source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '379'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,13 +36,13 @@ Fügen Sie eine weitere Kalendergruppe mit dem Namen „Nicht abgeschlossene Pro
 
 1. Navigieren Sie im Hauptmenü zum Bereich „Kalender“.
 1. Klicken Sie auf die Schaltfläche „Neuer Kalender“ und nennen Sie den Kalender „Meine nicht abgeschlossene Arbeit“.
-1. Klicken Sie auf Zum Kalender hinzufügen und dann auf Erweiterte Elemente hinzufügen .
+1. Klicken Sie auf die Schaltfläche „Dem Kalender hinzufügen“ und dann auf „Weitere Objekte hinzufügen“.
 1. Nennen Sie im sich öffnenden Fenster „Elemente zum Kalender hinzufügen“ die Gruppe „Nicht abgeschlossene Aufgaben“.
 1. Wählen Sie als Farbe Rot aus.
 1. Ändern Sie das Datumsfeld zu „Geplante Datumsangaben“.
 1. Legen Sie das Feld „Im Kalender dieses Feld anzeigen“ auf „Enddatum“ fest.
 1. Setzen Sie das Feld „Wenn verfügbar, zu tatsächlichen Daten wechseln“ auf „Nein“.
-1. Wählen Sie im Abschnitt „Was möchten Sie zum Kalender hinzufügen?“ auswählen. Klicken Sie dann auf die Schaltfläche Aufgaben hinzufügen .
+1. Wählen Sie im Abschnitt „Was möchten Sie zum Kalender hinzufügen?“ die Option „Aufgaben“ aus. Klicken Sie dann auf die Schaltfläche „Aufgaben hinzufügen“.
 1. Fügen Sie drei Filterregeln hinzu:
 
    * Projekt > Status entspricht > Gleich > Aktuell
@@ -53,13 +53,13 @@ Fügen Sie eine weitere Kalendergruppe mit dem Namen „Nicht abgeschlossene Pro
 
    ![Ein Screenshot des Bildschirms zum Hinzufügen von Elementen zu einem Kalender](assets/calendar-activity-1.png)
 
-1. Erstellen Sie eine zweite Gruppierung, indem Sie auf Zum Kalender hinzufügen und dann auf Erweiterte Elemente hinzufügen klicken.
+1. Erstellen Sie eine zweite Gruppierung, indem Sie auf „Dem Kalender hinzufügen“ und dann auf „Weitere Objekte hinzufügen“ klicken.
 1. Nennen Sie in dem sich öffnenden Fenster „Elemente zum Kalender hinzufügen“ die Gruppe „Nicht abgeschlossene Probleme“.
 1. Wählen Sie als Farbe Blau aus.
 1. Ändern Sie das Datumsfeld zu „Geplante Datumsangaben“.
 1. Legen Sie das Feld „Im Kalender dieses Feld anzeigen“ auf „Enddatum“ fest.
 1. Setzen Sie das Feld „Wenn verfügbar, zu tatsächlichen Daten wechseln“ auf „Nein“.
-1. Wählen Sie im Abschnitt „Was möchten Sie zum Kalender hinzufügen?“ auswählen. Klicken Sie dann auf die Schaltfläche „Probleme hinzufügen“.
+1. Wählen Sie im Abschnitt „Was möchten Sie zum Kalender hinzufügen?“ die Option „Probleme“ aus. Klicken Sie dann auf die Schaltfläche „Probleme hinzufügen“.
 1. Fügen Sie die folgenden drei Filterregeln hinzu:
 
    * Projekt > Status entspricht > Gleich > Aktuell
