@@ -35,4 +35,4 @@ In diesem Video lernen Sie Folgendes:
 * Zusammenfassungsinformationen
 * Und wie man einen Ad-hoc-Kalendereintrag erstellt
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438772/?quality=12&learn=on&enablevpops&captions=ger)
