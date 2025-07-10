@@ -13,9 +13,9 @@ jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
 source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '354'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -26,11 +26,11 @@ In diesem Video lernen Sie Folgendes:
 * Grundlegendes dazu, warum Platzhalter verwendet werden
 * Erstellen eines Filters mit einem benutzerbasierten Platzhalter
 
->[!VIDEO](https://video.tv.adobe.com/v/3418626/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Verwenden Sie beim Erstellen von Filtern, die sich mit Aufgaben- oder Problemzuweisungsinformationen beschäftigen, die Option „Arbeitsauftrag – Benutzer“ >> „ID-Feldquelle und -Name“.  Diese Option berücksichtigt alle Benutzer, die der Aufgabe oder dem Problem zugewiesen sind, nicht nur den „Eigentümer“ oder den primären Bevollmächtigten.
+>Verwenden Sie beim Erstellen von Filtern, die sich mit Aufgaben- oder Problemzuweisungsinformationen beschäftigen, die Option „Arbeitsauftrag – Benutzer“ >> „ID-Feldquelle und -Name“.  Bei dieser Option werden alle der Aufgabe oder dem Problem zugewiesenen Benutzenden berücksichtigt, nicht nur die Person, die die Aufgabe bzw. das Problem „besitzt“ oder hauptsächlich damit betraut wurde.
 
 >[!TIP]
 >
@@ -45,7 +45,7 @@ In diesem Video lernen Sie Folgendes:
 
 ### Aktivität 1
 
-Sie haben diese Woche etwas mehr Zeit und möchten daher herausfinden, ob es in Ihrem Team eine Person gibt, die bei ihren Arbeitsaufträgen Unterstützung gebrauchen könnte. Erstellen Sie einen Aufgabenfilter , um Aufgaben zu finden, die Ihrem Haupt-Team zugewiesen sind, die in dieser Woche fällig sind und noch nicht abgeschlossen wurden.
+Sie haben diese Woche etwas mehr Zeit und möchten daher herausfinden, ob es in Ihrem Team eine Person gibt, die bei ihren Arbeitsaufträgen Unterstützung gebrauchen könnte. Erstellen Sie einen Aufgabenfilter, um Aufgaben zu finden, die Ihrem Stamm-Team zugewiesen sind und die in dieser Woche fällig sind und noch nicht erledigt wurden.
 
 ### Antwort 1
 
