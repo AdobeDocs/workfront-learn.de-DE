@@ -1,6 +1,6 @@
 ---
-title: Aktivität - Erstellen eines Kalenderberichts
-description: Schritt-für-Schritt-Anweisungen zum Erstellen eines Kundenkalenders mit Ihren unvollständigen Aufgaben und Problemen.
+title: 'Aktivität: Erstellen eines Kalenderberichts'
+description: Schrittweise Anweisungen zum Erstellen eines Kundenkalenders, der Ihre nicht abgeschlossenen Aufgaben und Probleme anzeigt.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,13 +12,13 @@ thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
 source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '362'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# Aktivität - Erstellen eines Kalenderberichts
+# Aktivität: Erstellen eines Kalenderberichts
 
 Erstellen Sie einen Kundenkalender mit dem Namen „Meine nicht abgeschlossene Arbeit“.
 
