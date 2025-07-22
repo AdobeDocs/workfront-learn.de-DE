@@ -7,14 +7,15 @@ thumbnail: 336818.png
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-07-22T00:00:00Z
 team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: a3174fcd208a2483bc3728932ae4d31b2e155e6b
+workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -26,7 +27,7 @@ In diesem Video werden Sie:
 * Erfahren Sie mehr über einige nützliche Elemente zur Aufgabenberichterstellung
 * Erfahren Sie, wie Sie einen eigenen Aufgabenfilter erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/3418629/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## Aktivitäten: Grundlegendes zu integrierten Aufgabenfiltern
 
@@ -45,6 +46,6 @@ Richten Sie Ihre Spaltenansicht so ein, dass sie die Felder enthält, an denen S
 
 Sie können die Liste anhand des Namens des Teams gruppieren, das jeder Aufgabe zugewiesen ist.
 
-So sollte der Bericht aussehen:
+So könnte der Bericht aussehen:
 
 ![Ein Bild eines Aufgabenberichts](assets/opening-built-in-task-filters-2.png)
