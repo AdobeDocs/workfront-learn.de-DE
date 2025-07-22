@@ -27,7 +27,7 @@ In diesem Video werden Sie:
 * Erfahren Sie mehr über einige nützliche Elemente zur Aufgabenberichterstellung
 * Erfahren Sie, wie Sie einen eigenen Aufgabenfilter erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418629/?quality=12&learn=on&captions=ger)
 
 ## Aktivitäten: Grundlegendes zu integrierten Aufgabenfiltern
 
