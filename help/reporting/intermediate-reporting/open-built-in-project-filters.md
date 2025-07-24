@@ -8,12 +8,12 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-last-substantial-update: 2023-06-01T00:00:00Z
+last-substantial-update: 2025-07-24T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: 56fb902f05d11c0fe4058f42f4f81ff50656dd28
+workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Überprüfen der integrierten Projektfilter, um zu sehen, wie sie erstellt wurden
 * Erstellen eines eigenen Projektfilters mit dem, was Sie gelernt haben
 
->[!VIDEO](https://video.tv.adobe.com/v/3418628/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
 ## Aktivitäten: Grundlegendes zu integrierten Projektfiltern
 
