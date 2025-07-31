@@ -46,5 +46,5 @@ Workfront-Kundinnen und -Kunden verwenden gemeinhin die beiden folgenden mathema
 
 >[!NOTE]
 >
->Eine vollständige Liste der Ausdrücke und weitere Informationen zu jedem Ausdruck finden Sie auf der Dokumentationsseite [Berechnete Datenausdrücke](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) .
+>Eine vollständige Liste der Ausdrücke und weitere Informationen zu jedem Ausdruck finden Sie auf der Dokumentationsseite [Berechnete Datenausdrücke](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) .
 
