@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Datensatztypen in Workfront Planning verbinden, um Workflows zu optimieren, die Klarheit zu erhöhen und die Verantwortlichkeit und Effizienz des Teams zu verbessern. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463807/?learn=on&enablevpops&captions=ger)
 
