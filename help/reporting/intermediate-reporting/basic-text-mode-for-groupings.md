@@ -40,7 +40,7 @@ In diesem Video lernen Sie Folgendes:
 * Was die Binnenmajuskel-Schreibweise ist
 * Einige _Textmodus-Codeblöcke_ die Sie in Ihren Berichtsgruppierungen verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422897/?quality=12&learn=on&captions=ger)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Gruppierungen
 
