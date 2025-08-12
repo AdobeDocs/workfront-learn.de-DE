@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zum einfachen Textmodus für Filter
-description: Erfahren Sie, was der Textmodus ist, was die Binnenmajuskel-Schreibweise ist und welchen einfachen „Plug-and-Play“-Textmodus Sie in Ihren Berichtsfiltern in Workfront verwenden können.
+title: Grundlegendes zum Textmodus für Filter
+description: Erfahren Sie mehr über den Textmodus, Binnenmajuskeln und einige grundlegende Textmodi, die Sie in Ihren Berichtsfiltern in Workfront verwenden können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 721f246178c0a1dc396b9fe8db53a90e26246775
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 100%
+source-wordcount: '423'
+ht-degree: 90%
 
 ---
 
@@ -37,11 +37,11 @@ ht-degree: 100%
 
 In diesem Video lernen Sie Folgendes:
 
-* Was der Textmodus ist
-* Was die Binnenmajuskel-Schreibweise ist
-* Etwas einfachen „Plug-and-Play“-Textmodus, den Sie in Ihren Berichtsfiltern verwenden können
+* Textmodus
+* Camel Case
+* Einige _Textmodus-Codeblöcke_ die Sie in Ihren Berichtsfiltern verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3418630/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Filter
 
