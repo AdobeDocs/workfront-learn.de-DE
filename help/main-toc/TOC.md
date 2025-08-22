@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
+source-git-commit: 9a84c73e0915b4d29a6d8314aa0b251f103ecaad
 workflow-type: tm+mt
-source-wordcount: '2275'
-ht-degree: 94%
+source-wordcount: '2281'
+ht-degree: 95%
 
 ---
 
@@ -193,7 +193,7 @@ ht-degree: 94%
       + [Erweiterte Vorgänger](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ Bericht- erstellung {#reporting}
++ Reporting {#reporting}
    + Grundlegende Berichterstellung {#basic-reporting}
       + [Grundlegendes zu Reporting-Elementen](/help/reporting/basic-reporting/reporting-elements.md)
       + [Grundlegendes zu Reporting-Komponenten](/help/reporting/basic-reporting/reporting-components.md)
@@ -234,7 +234,7 @@ ht-degree: 94%
       + [Verstehen der Schnittstelle für Kalenderberichte](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [Erstellen eines benutzerdefinierten Kalenderberichts](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [Informationen zu den zusätzlichen Optionen für Kalenderberichte](/help/reporting/basic-reporting/additional-calendar-options.md)
-      + [Aktivität - Erstellen eines Kalenderberichts](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+      + [Aktivität: Erstellen eines Kalenderberichts](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
 
 + Verwalten von Ressourcen {#manage-resources}
@@ -316,6 +316,7 @@ ht-degree: 94%
    + [Erstellen und Verwalten von Tabellenansichten](/help/workfront-planning/create-and-manage-table-views.md)
    + [Erstellen und Verwalten von Zeitleisten-Ansichten](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [Verbinden von Datensatztypen](/help/workfront-planning/connect-record-types.md)
+   + [Erstellen eines Anfrageformulars für den Datensatztyp](/help/workfront-planning/create-a-record-type-request-form.md)
    + [Vorteile von Workfront Planning für UX Design-Teams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integrationen {#integrations}
