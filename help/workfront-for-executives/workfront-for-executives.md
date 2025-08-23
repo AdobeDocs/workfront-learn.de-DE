@@ -79,7 +79,7 @@ In diesem Video lernen Sie Folgendes:
 * Anfrage stellen
 * Ihre eingereichten Anfragen ansehen
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470919/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Elemente, die auf Ihre Genehmigung warten
 

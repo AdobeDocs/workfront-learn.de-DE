@@ -34,7 +34,7 @@ In diesem Video lernen Sie Folgendes:
 * Einen Entwurf einer Anfrage finden
 * Letzte drei Anfrage-Pfade anzeigen
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470919/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 
