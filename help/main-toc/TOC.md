@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: 9a84c73e0915b4d29a6d8314aa0b251f103ecaad
+source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
 workflow-type: tm+mt
-source-wordcount: '2281'
+source-wordcount: '2284'
 ht-degree: 95%
 
 ---
@@ -222,7 +222,8 @@ ht-degree: 95%
       + [Grundlegendes zum einfachen Textmodus für Filter](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
       + [Grundlegendes zum Textmodus für Ansichten](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
       + [Grundlegendes zum einfachen Textmodus für Gruppierungen](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-      + [Erstellen benutzerdefinierter Eingabeaufforderungen](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [Erstellen benutzerdefinierter Prompts](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [Vorhandene Filter verstehen](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + Erweiterte Berichterstellung {#advanced-reporting}
       + [Willkommen zum erweiterten Reporting](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -330,7 +331,7 @@ ht-degree: 95%
       + [Verwalten des Versionsverlaufs](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=de)
 
    + G Suite {#g-suite-integrations}
-      + [Verbessern des Arbeitsablaufs mit der G Suite-Integration](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
+      + [Verbessern des Workflows mit der G Suite-Integration](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
       + [Schaffen von Sichtbarkeit durch die  [!DNL Jira] -Integration](/help/integrations/jira/jira.md)
