@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: db1cc100b1d5d55446353dac3547ab01486f3d53
+source-git-commit: 008028af1fe9dd98c12a7a7413ed21cb65e324b2
 workflow-type: tm+mt
-source-wordcount: '2288'
+source-wordcount: '2292'
 ht-degree: 94%
 
 ---
@@ -137,6 +137,7 @@ ht-degree: 94%
       + [Anfrage stellen](/help/manage-work/issues-requests/make-a-request.md)
       + [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
       + [Problemzuweisungen verwalten](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [Den Status des Problems aktualisieren](/help/manage-work/tasks/update-the-issue-status.md)
       + [Aktualisieren einer Anfrage](/help/manage-work/issues-requests/update-a-request.md)
       + [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Konvertieren eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
