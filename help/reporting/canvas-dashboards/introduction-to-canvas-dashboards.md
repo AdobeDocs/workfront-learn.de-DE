@@ -24,4 +24,4 @@ Die Funktion „Arbeitsflächen-Dashboards“ ist eine weitere Möglichkeit, Das
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
 
-Weitere Informationen finden Sie im Artikel [Übersicht über ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) Dashboards“.
+Weitere Informationen finden Sie im Artikel [Übersicht über ](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) Dashboards“.
