@@ -26,7 +26,7 @@ In diesem Video erfahren Sie, wie Sie einen EXISTS-Filter erstellen, um Korrektu
 
 Eine ausführlichere Anleitung zur Funktionsweise von EXISTS finden Sie in der Dokumentation [Erstellen komplexer Textmodusfilter mit EXISTS-Anweisungen](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471212/?quality=12&learn=on&enablevpops&captions=ger)
 
 ## Beispiele für EXISTS-Filter
 

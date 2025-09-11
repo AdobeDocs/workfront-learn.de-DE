@@ -41,7 +41,7 @@ In diesem Video lernen Sie Folgendes:
 * Was die Binnenmajuskel-Schreibweise ist
 * Einige _Code-Blöcke für den Textmodus_, die Sie in Ihren Berichtsansichten verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470797/?quality=12&learn=on&captions=ger)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Ansichten
 

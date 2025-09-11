@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen eines benutzerdefinierten Prompts im Textmodus
 * Einige Beispiele, die Sie in Ihren Berichten verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418631/?quality=12&learn=on&captions=ger)
 
 ## Aktivitäten zum Erstellen benutzerdefinierter Prompts
 
