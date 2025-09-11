@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zum einfachen Textmodus für Gruppierungen
-description: Erfahren Sie mehr über den Textmodus, Binnenmajuskeln und einige grundlegende Textmodi, die Sie in Ihren Berichtsgruppierungen in Workfront verwenden können.
+description: Erfahren Sie mehr darüber, was der Textmodus ist, was Binnenmajuskeln sind und welche grundlegenden Textmodi Sie in Berichtsgruppierungen in Workfront verwenden können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -13,9 +13,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '287'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -38,9 +38,9 @@ In diesem Video lernen Sie Folgendes:
 
 * Was der Textmodus ist
 * Was die Binnenmajuskel-Schreibweise ist
-* Einige _Textmodus-Codeblöcke_ die Sie in Ihren Berichtsgruppierungen verwenden können
+* Einige _Code-Blöcke für den Textmodus_, die Sie in Berichtsgruppierungen verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3422897/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Gruppierungen
 

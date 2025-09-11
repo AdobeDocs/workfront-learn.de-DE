@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zum Textmodus für Ansichten
-description: Erfahren Sie mehr über den Textmodus, Binnenmajuskeln und einige grundlegende Textmodi, die Sie in Ihren Berichtsansichten in Workfront verwenden können.
+title: Grundlegendes zum einfachen Textmodus für Ansichten
+description: Erfahren Sie mehr darüber, was der Textmodus ist, was Binnenmajuskeln sind und welche grundlegenden Textmodi Sie in Ansichten in Workfront verwenden können.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -13,13 +13,13 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '651'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# Grundlegendes zum Textmodus für Ansichten
+# Grundlegendes zum einfachen Textmodus für Ansichten
 
 
 >[!PREREQUISITES]
@@ -39,9 +39,9 @@ In diesem Video lernen Sie Folgendes:
 
 * Was der Textmodus ist
 * Was die Binnenmajuskel-Schreibweise ist
-* Einige _Textmodus-Codeblöcke_ die Sie in Ihren Berichtsansichten verwenden können
+* Einige _Code-Blöcke für den Textmodus_, die Sie in Ihren Berichtsansichten verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3422888/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Ansichten
 
