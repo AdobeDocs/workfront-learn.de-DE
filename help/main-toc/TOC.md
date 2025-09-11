@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: cbfd815936733ff07d3d084952588f5e8923f3d7
+source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
 workflow-type: tm+mt
-source-wordcount: '2298'
+source-wordcount: '2306'
 ht-degree: 94%
 
 ---
@@ -126,7 +126,7 @@ ht-degree: 94%
       + [Grundlegendes zu über- und untergeordneten Aufgaben](/help/manage-work/tasks/understand-parent-child-tasks.md)
       + [Arbeiten mit Aufgaben](/help/manage-work/tasks/work-with-tasks.md)
       + [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [Aufgabenstatus aktualisieren](/help/manage-work/tasks/update-the-task-status.md)
+      + [Aktualisieren des Aufgabenstatus](/help/manage-work/tasks/update-the-task-status.md)
       + [Grundlegendes zu Aufgabenlaufzeiten](/help/manage-work/tasks/understand-task-durations.md)
       + [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
@@ -225,7 +225,7 @@ ht-degree: 94%
       + [Grundlegendes zum Textmodus für Ansichten](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
       + [Grundlegendes zum einfachen Textmodus für Gruppierungen](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [Erstellen benutzerdefinierter Prompts](/help/reporting/intermediate-reporting/custom-prompts.md)
-      + [Vorhandene Filter verstehen](/help/reporting/intermediate-reporting/understand-exists-filters.md)
+      + [Verstehen von EXISTS-Filtern](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + Erweiterte Berichterstellung {#advanced-reporting}
       + [Willkommen zum erweiterten Reporting](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -241,6 +241,7 @@ ht-degree: 94%
 
    + Dashboards für die Arbeitsfläche {#canvas-dashboards}
       + [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [Erstellen eines KPI-Berichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 
 
 + Verwalten von Ressourcen {#manage-resources}
