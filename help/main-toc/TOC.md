@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
+source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
 workflow-type: tm+mt
-source-wordcount: '2306'
+source-wordcount: '2314'
 ht-degree: 94%
 
 ---
@@ -242,6 +242,7 @@ ht-degree: 94%
    + Dashboards für die Arbeitsfläche {#canvas-dashboards}
       + [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Erstellen eines KPI-Berichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+      + [Erstellen eines Tabellenberichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 
 
 + Verwalten von Ressourcen {#manage-resources}
