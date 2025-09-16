@@ -11,10 +11,10 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '316'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ In diesem Video lernen Sie Folgendes:
 * Detaillierte und gemeinsam nutzbare Dokumentation erstellen
 * Testtiefe, -breite, -komplexität und -belastung
 
->[!VIDEO](https://video.tv.adobe.com/v/3418733/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops)
 
 ## Checkliste der Testüberlegungen
 
@@ -48,4 +48,4 @@ Priorisieren Sie den Testvorgang während des gesamten Lebenszyklus Ihrer Workfr
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

@@ -12,10 +12,10 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -45,7 +45,7 @@ Erstellen Sie einen Klon der soeben abgeschlossenen exemplarischen Vorgehensweis
 Erstellen Sie in jedem Projekt, das Sie im Rahmen der vorherigen Anleitung erstellt haben, eine Aufgabe.
 
 * Verwenden Sie „Erste Planung für ein (Projektfarben-) Projekt“ als Aufgabenname.
-* Legen Sie den geplanten Starttermin so fest, dass er mit dem geplanten Starttermin des Projekts übereinstimmt.
+* Legen Sie das geplante Startdatum so fest, dass es mit dem geplanten Starttermin des Projekts übereinstimmt.
 * Setzen Sie die Dauer auf 3 Tage und den Dauertyp auf „Berechneter Arbeitsauftrag“.
 * Legen Sie die geplanten Stunden auf 10 % der Konfidenzrate in Stunden fest.
 * Setzen Sie die Aufgabenbeschränkung auf „So bald wie möglich“.
@@ -54,4 +54,4 @@ Erstellen Sie in jedem Projekt, das Sie im Rahmen der vorherigen Anleitung erste
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

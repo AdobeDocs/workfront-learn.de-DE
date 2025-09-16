@@ -11,10 +11,10 @@ jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 ## Zu Ihrer Terminologie hinzufügen
 
-![Ein Bild eines überwachten Datensatzes und eines benutzerdefinierten Webhook-Moduls](assets/understand-the-basics-3.png)
+![Ein Bild eines überwachten Eintrags und eines benutzerdefinierten Webhook-Moduls](assets/understand-the-basics-3.png)
 
 ### Trigger-Module
 
@@ -57,4 +57,4 @@ Trigger-Module können nur als erstes Modul verwendet werden und können null, e
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=de)
+[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
