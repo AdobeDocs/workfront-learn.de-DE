@@ -1,14 +1,14 @@
 ---
-title: Erstellen eines KPI-Berichts in einem Arbeitsflächen-Dashboard
-description: Erfahren Sie, wie Sie einen KPI-Bericht in einem Arbeitsflächen-Dashboard erstellen.
+title: Hinzufügen bedingter Formatierung zu einem Canvas-Dashboard-Bericht
+description: Erfahren Sie, wie Sie einem Dashboard-Bericht eine bedingte Formatierung hinzufügen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-jira: KT-18769
-last-substantial-update: 2025-09-11T00:00:00Z
+jira: KT-18771
+last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ---
 
-# Erstellen eines KPI-Berichts in einem Arbeitsflächen-Dashboard
+# Hinzufügen bedingter Formatierung zu einem Canvas-Dashboard-Bericht
 
 >[!PREREQUISITES]
 >
@@ -31,14 +31,15 @@ Die ersten Dinge, die Sie tun müssen, bevor Sie ein Arbeitsflächen-Dashboard (
 
 [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) zeigt Ihnen Schritt für Schritt, wie Sie beide ausführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops)
 
 **Weitere Informationen finden Sie in den folgenden Hilfeartikeln:**
 [Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Erstellen eines KPI-Berichts in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Erstellen eines Tabellenberichts in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [Erstellen eines KPI-Berichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Erstellen eines Tabellenberichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
-* [Hinzufügen bedingter Formatierung zu einem Canvas-Dashboard-Bericht](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+
