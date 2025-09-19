@@ -30,7 +30,7 @@ Mit dem Szenario „Einführung in die Iteration“, das Sie in der letzten exem
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423232/?quality=12&learn=on&enablevpops&captions=ger)
 
 
 
