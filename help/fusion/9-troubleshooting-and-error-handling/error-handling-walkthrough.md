@@ -12,9 +12,9 @@ exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

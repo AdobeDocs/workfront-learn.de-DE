@@ -12,9 +12,9 @@ jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -62,4 +62,4 @@ Die Schritt-für-Schritt-Anleitungen helfen Ihnen, die Übungen mit exemplarisch
 
 [Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/de/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Es gibt auch eine [Workfront Fusion 2.0-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=de), wo Sie Fragen stellen können.
+Es gibt auch eine [Workfront Fusion 2.0-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2), wo Sie Fragen stellen können.

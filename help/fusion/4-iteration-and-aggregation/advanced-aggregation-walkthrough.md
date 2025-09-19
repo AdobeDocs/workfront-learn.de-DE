@@ -12,9 +12,9 @@ exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ Sie werden einen Schatten sehen, der jedes Segment in Ihrem Szenario von einem *
 
 Diese Übung baut auf dem auf, was Sie in der exemplarischen Vorgehensweise gelernt haben, aber die Lösung wird nicht bereitgestellt.
 
-Erstellen Sie ein neues Szenario, um alle Stunden zu summieren, die für Aufgaben in Projekten aus dem Marketing-Portfolio aufgezeichnet wurden. Senden Sie dann eine E-Mail, in der steht: „Ihr {Project Name}-Projektteam hat sich {summed hours} der gesamten {planned hours} geplanten Stunden protokolliert, sodass Sie {percentage} des Plans sind.“
+Erstellen Sie ein neues Szenario, um alle Stunden zu summieren, die für Aufgaben in Projekten aus dem Marketing-Portfolio aufgezeichnet wurden. Senden Sie dann eine E-Mail mit dem Inhalt „Ihr Projekt-Team {Project Name} hat {summed hours} der insgesamt {planned hours} geplanten Stunden verbucht, sodass {percentage} des Plans erfüllt sind.“
 
 **Herausforderung:** Versuchen Sie, nun dasselbe zu tun, aber nur für die in diesem Jahr erfassten Stunden.
 
