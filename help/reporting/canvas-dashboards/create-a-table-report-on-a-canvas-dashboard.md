@@ -32,7 +32,7 @@ Die ersten Dinge, die Sie tun müssen, bevor Sie ein Arbeitsflächen-Dashboard (
 
 [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) zeigt Ihnen Schritt für Schritt, wie Sie beide ausführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474874/?quality=12&learn=on&enablevpops&captions=ger)
 
 **Weitere Informationen finden Sie in den folgenden Hilfeartikeln:**
 [Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
