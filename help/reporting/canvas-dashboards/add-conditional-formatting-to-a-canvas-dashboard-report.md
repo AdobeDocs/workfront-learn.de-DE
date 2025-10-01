@@ -11,10 +11,11 @@ jira: KT-18771
 last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
+exl-id: 2987677b-64a3-49f4-b6a1-31008c47723f
+source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 4%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
@@ -31,15 +32,15 @@ Die ersten Dinge, die Sie tun müssen, bevor Sie ein Arbeitsflächen-Dashboard (
 
 [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) zeigt Ihnen Schritt für Schritt, wie Sie beide ausführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474984/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops)
 
 **Weitere Informationen finden Sie in den folgenden Hilfeartikeln:**
-[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Erstellen eines Tabellenberichts in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Erstellen eines Tabellenberichts in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Erstellen eines KPI-Berichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Erstellen eines Tabellenberichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
-
+* [Verwenden eines OR-Filters in einem Canvas Dashboard-Bericht](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
