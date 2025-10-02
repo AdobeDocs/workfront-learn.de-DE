@@ -12,10 +12,10 @@ last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 99%
+source-wordcount: '467'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ In diesem Video wird erläutert, wie Sie Projektberichte erstellen und anpassen,
 
 Im Video wird hervorgehoben, dass benutzerdefinierte Berichte zwar ihre Standardeinstellungen beibehalten, bei der Anzeige jedoch temporäre Änderungen vorgenommen werden können. Berichte werden im Abschnitt „Meine Berichte“ gespeichert, während freigegebene Berichte in „Für mich freigegeben“ angezeigt werden. Häufig verwendete Berichte können angeheftet oder als Favoriten markiert werden, um einen schnellen Zugriff zu ermöglichen. 
 
->[!VIDEO] (https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 

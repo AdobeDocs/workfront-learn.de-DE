@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 99%
+source-wordcount: '595'
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ In diesem Video wird erläutert, wie Sie mithilfe von Diagrammen Daten auf effek
 
 In diesem Video wird gezeigt, wie Diagramme, z. B. Torten- und gestapelte Säulendiagramme, Erkenntnisse zur Aufgabenverteilung und Projektleistung liefern und so Benutzende Projekte vergleichen und den Aufgabenfortschritt visuell nachvollziehen können. 
 
->[!VIDEO] (https://video.tv.adobe.com/v/3450023/?quality=12&learn=on&enablevpops=0&captions=ger
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 

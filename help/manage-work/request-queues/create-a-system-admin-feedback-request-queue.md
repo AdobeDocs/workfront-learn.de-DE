@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 99%
+source-wordcount: '356'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Im Video wird der Schwerpunkt auf die Wichtigkeit der Benutzerbeteiligung und Tr
 Zur weiteren Anleitung werden Links zu Tutorials für das Erstellen von Berichten und benutzerdefinierten Formularen bereitgestellt.
 
 
->[!VIDEO] (https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
@@ -47,7 +47,7 @@ Zur weiteren Anleitung werden Links zu Tutorials für das Erstellen von Berichte
 
 Informationen zum Erstellen des **Feedback-Berichts für das Admin-Team**, der im Video verwendet wird, finden Sie in der Aktivität **Erstellen eines Feedback-Berichts für das Admin-Team** im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
-Wie Sie ein benutzerdefiniertes Formular erstellen, erfahren Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=de&land=de).
+Wie Sie ein benutzerdefiniertes Formular erstellen, erfahren Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?land=de).
 
 ## Empfohlene Tutorials zu diesem Thema
 

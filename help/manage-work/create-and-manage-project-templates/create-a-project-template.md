@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 99%
+source-wordcount: '635'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage ein
 * Nachdem die Vorlage erstellt wurde, kann sie zur Erstellung neuer Projekte verwendet werden. Im Video wird gezeigt, wie Sie ein neues Projekt aus der Vorlage erstellen, notwendige Anpassungen vornehmen und Aufgaben hinzufügen oder Laufzeiten nach Bedarf ändern. Außerdem wird gezeigt, wie Sie mithilfe der Funktionen „Ressourcenplanung“ und „Planung“ Aufgabengebiete zu Aufgaben zuweisen. 
 * In diesem Video wird beschrieben, wie Sie ein vorhandenes Projekt als neue Vorlage speichern, um Aktualisierungen und Verbesserungen im Workflow zu ermöglichen. Es wird hervorgehoben, wie wichtig das Vorlagen-Management für das Vermeiden von Verwirrung und das Sicherstellen einer optimierten Projektausführung ist. 
 
->[!VIDEO] (https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
