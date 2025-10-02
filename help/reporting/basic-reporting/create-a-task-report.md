@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '1116'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Das Video enthält eine schrittweise Anleitung zum Erstellen eines benutzerdefin
 
 Der daraus resultierende Bericht hilft Benutzenden, sich auf in Verzug geratene Aufgaben zu konzentrieren, bietet Informationen zu Abhängigkeiten und vereinfacht die Navigation zu den Host-Projekten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448351/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Die wichtigsten Punkte
 
@@ -45,11 +45,11 @@ Der daraus resultierende Bericht hilft Benutzenden, sich auf in Verzug geratene 
 >>Diese 10 Berichte stammen von Kundinnen und Kunden, die genau wie Sie sind. Verteilt auf verschiedene Branchen, Abteilungen, Teams, Positionen und alle in verschiedenen Unternehmen, schulden wir den unglaublichen Kundinnen und Kunden, die einen ihrer Lieblingsberichte geteilt haben, ein riesiges Dankeschön. Einige Berichte sind einfach (aber unglaublich nützlich) und einige sind komplexer, um Ihre Berichterstellung auf die nächste Ebene zu bringen.
 
 
-### Aktivität 1: Erstellen eines Notizberichts mit Eingabeaufforderungen
+### Aktivität 1: Erstellen eines Notizberichts mit Prompts
 
 Erstellen Sie einen Notizbericht, mit dem Sie nach Benutzernotizen (d. h. Kommentaren oder Aktualisierungen) oder Systemnotizen auf Grundlage des Inhalts, der Autorin oder des Autors, des Eingabedatums, des Projektnamens oder der Überprüfungsart suchen können. Nennen Sie den Bericht „Notizsuche“.
 
-Bei Verwendung der Eingabeaufforderung für den Notiztext sucht dieser Bericht in den Aktualisierungs-Threads, um schnell alle zu extrahieren, die den in den Eingabeaufforderungen angegebenen Kriterien entsprechen. Um den Bericht auszuführen, müssen Sie nicht jede Eingabeaufforderung ausfüllen, sondern nur diejenigen, die Ihnen wichtig sind. Leere Felder werden automatisch ignoriert.
+Bei Verwendung des Prompts aus dem Notiztext sucht dieser Bericht in den Aktualisierungs-Threads, um schnell alle zu extrahieren, die den in den Prompts angegebenen Kriterien entsprechen. Um den Bericht auszuführen, müssen Sie nicht jeden Prompt ausfüllen, sondern nur diejenigen, die Ihnen wichtig sind. Leere Felder werden automatisch ignoriert.
 
 Die Ansicht sollte Spalten für Folgendes enthalten:
 
@@ -65,7 +65,7 @@ Lassen Sie die Registerkarte „Filter“ leer.
 
 Gruppe zum Projektnamen.
 
-Schließen Sie Aufforderungen zu Folgendem ein:
+Schließen Sie Prompts zu Folgendem ein:
 
 * Audit-Text
 * Notiztext
@@ -97,15 +97,15 @@ Schließen Sie Aufforderungen zu Folgendem ein:
 
 1. Lassen Sie das Feld [!UICONTROL Filter] leer.
 1. Öffnen Sie die **[!UICONTROL Berichtseinstellungen]** und nennen Sie den Bericht „Notizsuche“.
-1. Geben Sie in das Feld [!UICONTROL Beschreibung] etwas ein wie „Suche nach System- oder Benutzernotizen“ auf Grundlage des ausgewählten Prüfungstyps und anderer Aufforderungen. Systemnotizen erscheinen in der Spalte „Prüftext“ und Benutzernotizen in der Spalte „Notiztext“.
+1. Geben Sie in das Feld [!UICONTROL Beschreibung] etwas ein wie „Suche nach System- oder Benutzernotizen“ auf Grundlage des ausgewählten Prüfungstyps und anderer Prompts. Systemnotizen erscheinen in der Spalte „Prüftext“ und Benutzernotizen in der Spalte „Notiztext“.
 
    ![Ein Screenshot des Bildschirms zum Erstellen von Notizberichtseinstellungen](assets/note-report-report-options.png)
 
 1. Wählen Sie die Registerkarte **[!UICONTROL Details]**, damit sie beim Laden des Berichts angezeigt wird.
 1. Richten Sie den Bericht so ein, dass 200 Elemente angezeigt werden, wenn der Bericht in ein Dashboard aufgenommen wird.
-1. Klicken Sie auf **[!UICONTROL Berichteingabeaufforderungen]** und fügen Sie Folgendes hinzu:
+1. Klicken Sie auf **[!UICONTROL Berichts-Prompts]** und fügen Sie Folgendes hinzu:
 
-   ![Ein Screenshot des Bildschirms zum Erstellen von Notizberichts-Eingabeaufforderungen](assets/note-report-report-prompts.png)
+   ![Ein Screenshot des Bildschirms zum Erstellen von Notizberichts-Prompts](assets/note-report-report-prompts.png)
 
    * [!UICONTROL Notiz] > [!UICONTROL Prüftext]
    * [!UICONTROL Notiz] > [!UICONTROL Notiztext]
@@ -114,14 +114,14 @@ Schließen Sie Aufforderungen zu Folgendem ein:
    * [!UICONTROL Projekt] > [!UICONTROL Name]
    * [!UICONTROL Notiz] > [!UICONTROL Prüfungstyp]
 
-1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Eingabeaufforderungen in Dashboards anzeigen]**.
+1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Prompts in Dashboards anzeigen]**.
 1. Speichern und schließen Sie den Bericht.
 
 ### Aktivität 2: Erstellen eines Feedback-Berichts für das Admin-Team
 
 Dieser Problembericht zeigt alle Probleme aus einer Feedback-Anfrage-Warteschlange an, die für System-Admins erstellt wurde. Wie man diese Anfrage-Warteschlange erstellt, können Sie in der Anleitung [Erstellen einer Feedback-Anfrage-Warteschlange für System-Admins](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=de) sehen.
 
-Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=de&land=de).
+Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?land=de).
 
 Dieses benutzerdefinierte Formular sollte die Objekttypen „Projekt“ und „Problem“ verwenden und folgendermaßen erstellt werden:
 
@@ -178,7 +178,7 @@ Filtern Sie nach der ID des Projekts der Anfrage-Warteschlange, in dem sich die 
 
    * [!UICONTROL Problem] > [!UICONTROL Name]
    * [!UICONTROL Primärer Kontakt] > [!UICONTROL Name]
-      * Hinweis: Dies wird mit „Owner:Name“ als Spaltenbezeichnung angezeigt. Sie können dies in „Gemeldet von“ ändern, indem Sie auf „Erweiterte Optionen“ klicken und im Feld **Benutzerdefinierte Spaltenbeschriftung** „Gemeldet von“ eingeben.
+      * Hinweis: Dies wird mit „Inhaber:Name als Spaltenbeschriftung angezeigt. Sie können dies in „Gemeldet von“ ändern, indem Sie auf „Erweiterte Optionen“ klicken und im Feld **Benutzerdefinierte Spaltenbeschriftung** „Gemeldet von“ eingeben.
    * [!UICONTROL Problem] > [!UICONTROL Prozesstyp]
    * [!UICONTROL Problem] > [!UICONTROL Prozessname]
    * [!UICONTROL Problem] > [!UICONTROL Prozessqualität]

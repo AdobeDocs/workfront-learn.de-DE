@@ -11,8 +11,8 @@ jira: KT-9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Informieren Sie sich über die nützliche Angewohnheit, unvollständige Ausführ
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on&enablevpops=1)
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 

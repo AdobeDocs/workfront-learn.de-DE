@@ -12,8 +12,8 @@ jira: KT-8721
 recommendations: noDisplay,catalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen eines Filters mithilfe eines benutzerdefinierten Formulars
 * Tipps zum Filtern
 
->[!VIDEO](https://video.tv.adobe.com/v/3439646/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Die Personendiagramme beziehen sich auf die Stamm-Teams. Sie zeigen die Aktivit�
 
 ## Weitere Überlegungen
 
-* In den Arbeitsdiagrammen werden nur die **ersten 50 Projekte** angezeigt. Blättern Sie weiter, um weitere 50er-Gruppen zu sehen. Die vier KPIs werden jedoch für alle Projekte innerhalb des Datumsbereichs berechnet. Wenn Ihre Projektliste mehr als 50 Einträge enthält und Sie die gesamte Liste gleichzeitig anzeigen möchten, fügen Sie weitere Filter hinzu, um die richtige Projektuntergruppe zu erhalten.
+* In den Arbeitsdiagrammen werden nur die **ersten 50 Projekte** angezeigt. Blättern Sie weiter, um weitere 50er-Gruppen zu sehen. Die vier KPIs werden jedoch für alle Projekte innerhalb des Datumsbereichs berechnet. Wenn Ihre Projektliste mehr als 50 Einträge enthält und Sie die gesamte Liste gleichzeitig anzeigen möchten, fügen Sie weitere Filter hinzu, um die richtige Projektteilmenge zu erhalten.
 * Suchergebnisse werden angezeigt, nachdem Sie mindestens **drei Buchstaben** des Suchbegriffs eingegeben haben.
 * Sie können **jeden Filter nur einmal hinzufügen**. Wenn Sie z. B. „Bedingung“ hinzufügen und eine bestimmte Bedingung auswählen, können Sie das Feld „Bedingung“ nicht erneut hinzufügen, um eine andere Option auszuwählen. Sie müssen stattdessen den Filter entfernen und ihn mit allen Kriterien erneut hinzufügen. Eine Ausnahme bildet der Filter „Benutzerdefiniertes Formular“.
 * Entfernen Sie einen Filter, indem Sie oben im Fenster auf das X neben dem Filter klicken.

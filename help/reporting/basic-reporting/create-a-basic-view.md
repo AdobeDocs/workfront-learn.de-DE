@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
-workflow-type: ht
-source-wordcount: '974'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '977'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ In diesem Video wird erläutert, wie Sie in Workfront Ansichten erstellen und an
 
 Das Video hebt die Flexibilität der Ansichten in Workfront hervor und enthält schrittweise Anweisungen zum Erstellen, Anpassen und Verwalten dieser Ansichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450247/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Die wichtigsten Punkte
 
@@ -133,9 +133,9 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Ansicht der Dauertypen und A
 1. Klicken Sie erneut auf **[!UICONTROL Spalte hinzufügen]**.
 1. Geben Sie im Feld [!UICONTROL In dieser Spalte anzeigen] [!UICONTROL „Einschränkung“] ein und wählen Sie [!UICONTROL „Einschränkungsdatum“] unter der Aufgabenfeldquelle.
 1. Wählen Sie die die Spalte [!UICONTROL Beginnt am] und klicken Sie auf [!UICONTROL Erweiterte Optionen].
-1. Wählen Sie unter der Dropdown-Auswahl zum [!UICONTROL Feldformat] [!UICONTROL „17.10.60 3:00 Uhr“].
+1. Wählen Sie in [!UICONTROL  Dropdown-] „Feldformat[!UICONTROL  „10/17/60 3:00 AM“].
 1. Wählen Sie die Spalte [!UICONTROL Fällig am] und klicken Sie auf [!UICONTROL Erweiterte Optionen].
-1. Wählen Sie unter der Dropdown-Auswahl zum [!UICONTROL Feldformat] [!UICONTROL „17.10.60 3:00 Uhr“].
+1. Wählen Sie in [!UICONTROL  Dropdown-] „Feldformat[!UICONTROL  „10/17/60 3:00 AM“].
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ### Aktivität 4: Erstellen einer aktiven Statusansicht einer Projektvorlage

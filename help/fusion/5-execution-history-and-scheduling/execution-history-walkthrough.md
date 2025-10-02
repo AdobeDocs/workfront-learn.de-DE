@@ -11,8 +11,8 @@ jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops=1)
 
 
 ## Volltextsuche in der Registerkarte „Verlauf“

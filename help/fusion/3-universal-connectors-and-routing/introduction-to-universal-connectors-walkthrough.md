@@ -11,8 +11,8 @@ jira: KT-9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ Rufen Sie mithilfe eines Pokemon-Charakters in einer Tabelle die Poke-API über 
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on&enablevpops=1)
 
 ### Übungs-URLs
 

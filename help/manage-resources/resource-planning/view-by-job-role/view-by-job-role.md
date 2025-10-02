@@ -11,8 +11,8 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video werden Sie:
 * Erfahren Sie, wie Ressourceninformationen in dieser Ansicht angezeigt werden
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
 
 Bei der Option „Nach Aufgabengebiet anzeigen“ wird standardmäßig die Spalte „Budgetiert“ angezeigt, die die geschätzte Anzahl der für ein Projekt benötigten Ressourcen aus einem Business-Case bezieht, sofern dieser ausgefüllt wurde. Dies bedeutet auch, dass die Spalte „Netto“ standardmäßig die Zahlen aus der Spalte „Budgetiert“ verwendet, um Ihnen mitzuteilen, wie viele Ressourcen noch übrig sind.
 

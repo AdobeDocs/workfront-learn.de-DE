@@ -12,10 +12,10 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
-workflow-type: ht
-source-wordcount: '287'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '288'
+ht-degree: 99%
 
 ---
 
@@ -40,7 +40,7 @@ In diesem Video lernen Sie Folgendes:
 * Was die Binnenmajuskel-Schreibweise ist
 * Einige _Code-Blöcke für den Textmodus_, die Sie in Berichtsgruppierungen verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3470788/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Gruppierungen
 

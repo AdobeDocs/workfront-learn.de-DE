@@ -11,10 +11,10 @@ jira: KT-18770
 last-substantial-update: 2025-09-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
@@ -31,11 +31,11 @@ Die ersten Dinge, die Sie tun müssen, bevor Sie ein Arbeitsflächen-Dashboard (
 
 [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) zeigt Ihnen Schritt für Schritt, wie Sie beide ausführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
 
 **Weitere Informationen finden Sie in den folgenden Hilfeartikeln:**
-[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Bearbeiten von Berichtsfiltern in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Bearbeiten von Berichtsfiltern in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## Empfohlene Tutorials zu diesem Thema
 

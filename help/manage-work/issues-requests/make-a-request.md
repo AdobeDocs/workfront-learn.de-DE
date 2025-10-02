@@ -13,8 +13,8 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Das Video enthält eine detaillierte Anleitung zum Erstellen und Verwalten von Anfragen in Workfront. Es beschreibt den Prozess der Anfrageerstellung. Dazu wird zunächst im Hauptmenü die Option „Anfragen“ ausgewählt und anschließend auf die Schaltfläche „Neue Anfrage“ geklickt. Benutzende können einen Anfragetyp aus benutzerdefinierten Warteschlangen auswählen, die auf die Workflows ihrer Organisation zugeschnitten sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470919/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

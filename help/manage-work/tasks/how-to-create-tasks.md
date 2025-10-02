@@ -10,8 +10,8 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 Das Video enthält eine Anleitung zum Erstellen von Aufgaben in einem Workfront-Projekt, in der sowohl die lange Methode als auch praktische Abkürzungen behandelt werden. Der Schwerpunkt liegt auf der Flexibilität bei der Aufgabenerstellung, und es gibt Tipps für ein effizientes Aufgaben-Management.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423157/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

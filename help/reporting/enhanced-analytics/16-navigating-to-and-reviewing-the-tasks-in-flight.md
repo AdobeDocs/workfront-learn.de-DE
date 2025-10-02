@@ -12,8 +12,8 @@ jira: KT-8735
 recommendations: noDisplay,catalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Zugriff auf die Aufgaben im Flugdiagramm
 * So ermitteln Sie schnell, welche Aufgaben in einem Projekt noch nicht abgeschlossen wurden
 
->[!VIDEO](https://video.tv.adobe.com/v/3437009/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
 
 ## Daten auf Aufgabenebene
 

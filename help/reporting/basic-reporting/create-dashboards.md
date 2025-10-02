@@ -12,10 +12,10 @@ jira: KT-8862
 last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: eb6e0375169c5a171eee01053f9577394460fa11
-workflow-type: ht
-source-wordcount: '646'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '647'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 Das Video bietet eine umfassende Anleitung zum Verständnis und zur Verwendung von Dashboards in Workfront.
 Es wird erläutert, dass es sich bei einem Dashboard um eine Sammlung von Berichten handelt, mit denen Benutzende zusammengehörige Daten zentral organisieren und anzeigen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449131/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Die wichtigsten Punkte
 
@@ -39,7 +39,7 @@ Es wird erläutert, dass es sich bei einem Dashboard um eine Sammlung von Berich
 
 ### Aktivität 1: Erstellen eines Dashboards
 
-Erstellen Sie ein [!UICONTROL Dashboard] mit nur einem Bericht – „Nach Notizen in diesem Projekt suchen“. Damit können Sie schnell alle Aktualisierungen eines Projekts finden, selbst wenn es Tausende von Aktualisierungen zu durchsuchen gibt. Dadurch werden die Aktualisierungs-Threads durchsucht, um schnell alle Aktualisierungen zu extrahieren, die den Kriterien entsprechen, die Sie in den Eingabeaufforderungen angeben.
+Erstellen Sie ein [!UICONTROL Dashboard] mit nur einem Bericht – „Nach Notizen in diesem Projekt suchen“. Damit können Sie schnell alle Aktualisierungen eines Projekts finden, selbst wenn es Tausende von Aktualisierungen zu durchsuchen gibt. Dadurch werden die Aktualisierungs-Threads durchsucht, um schnell alle Aktualisierungen zu extrahieren, die den Kriterien entsprechen, die Sie in den Prompts angeben.
 
 Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizensuche“ erstellen, den Sie in der Aktivität „Notizbericht erstellen“ erstellt haben. Sie haben ihn noch nicht erstellt? Klicken Sie hier, um sich die Aktivität im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) anzusehen.
 
@@ -53,12 +53,12 @@ Erstellen Sie diesen Bericht, indem Sie eine Kopie des Berichts „Notizensuche�
 1. Führen Sie den Bericht aus, den Sie in der Aktivität „Notizbericht erstellen“ erstellt haben. Sie haben ihn noch nicht erstellt? Klicken Sie hier, um sich die Aktivität im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) anzusehen.
 1. Klicken Sie auf **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Kopieren]**. [!DNL Workfront] erstellt einen neuen Bericht mit dem Namen „Notizensuche (Kopie)“.
 1. Gehen Sie zu **[!UICONTROL Berichtaktionen]** und wählen Sie **[!UICONTROL Bearbeiten]**. Klicken Sie auf **[!UICONTROL Berichteinstellungen]** und ändern Sie den Namen in „Nach Notizen in diesem Projekt suchen“.
-1. Klicken Sie auf [!UICONTROL Eingabeaufforderungen im Bericht] und löschen Sie die Eingabeaufforderung [!UICONTROL Projekt] > [!UICONTROL Name] aus der Liste.
+1. Klicken Sie auf [!UICONTROL Berichts-Prompts] und löschen Sie den Prompt [!UICONTROL Projekt] > [!UICONTROL Name] aus der Liste.
 
    ![Ein Screenshot des Bildschirms zum Erstellen eines neuen Dashboards](assets/edit-report-prompts.png)
 
-1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Eingabeaufforderungen im Dashboard anzeigen]**.
-1. Klicken Sie auf **[!UICONTROL Fertig]**, dann auf **[!UICONTROL Speichern + schließen]**. Sie sehen nun den Bildschirm [!UICONTROL Eingabeaufforderungen] des Berichts.
+1. Aktivieren Sie das Kontrollkästchen **[!UICONTROL Berichts-Prompts im Dashboard anzeigen]**.
+1. Klicken Sie auf **[!UICONTROL Fertig]**, dann auf **[!UICONTROL Speichern + schließen]**. Sie sehen nun den Bildschirm [!UICONTROL Prompts] des Berichts.
 
    Als Nächstes verwenden Sie eine Abkürzung, um ein neues Dashboard zu erstellen und diesen Bericht hinzuzufügen.
 

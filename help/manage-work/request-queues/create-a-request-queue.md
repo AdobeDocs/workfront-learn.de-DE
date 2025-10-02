@@ -13,8 +13,8 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warteschlange in Workfront. Am Ende des Videos wird gezeigt, wie Sie eine Anfrage mithilfe der neu erstellten Warteschlange senden. Außerdem wird der Prozess der Eingabe von Details und der Verifizierung der Übermittlung auf der Registerkarte „Gesendete Anfragen“ gezeigt. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

@@ -12,8 +12,8 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Im Video wird der Schwerpunkt auf die Bedeutung einer effektiven Kommunikation f
 
 Dieses Video hebt hervor, wie Workfront die Kommunikation, das Aufgaben-Management und das Reporting vereinfacht und sicherstellt, dass alle projektbezogenen Informationen verfügbar und organisiert sind. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3436153/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

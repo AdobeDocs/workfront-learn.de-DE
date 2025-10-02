@@ -12,8 +12,8 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 100%
 
@@ -56,7 +56,7 @@ Führungskräfte können über die Navigation im linken Fenster auf die verschie
 
 Mit einem Dashboard können Führungskräfte wichtige Projekte und offene Fragen überprüfen, mit denen sich ihre Teams befassen, wie z. B. „Kosten, Einnahmen und Budgets“. Sie können auch gefährdete Projekte sehen sowie eine Liste der Punkte, die von der Geschäftsführung genehmigt werden müssen.
 
-Berichte in Workfront können dazu beitragen, die Verantwortlichkeit Ihrer Mitarbeitenden zu erhöhen. Der Schlüssel zur Nutzung von Berichten besteht darin, einen klaren Ablauf für ihre Verwendung in Ihrem Unternehmen festzulegen. Stellen Sie sicher, dass jeder weiß, welche Berichte zur Erfolgsmessung verwendet werden.
+Berichte in Workfront können dazu beitragen, die Verantwortlichkeit Ihrer Mitarbeitenden zu erhöhen. Der Schlüssel zur Nutzung von Berichten besteht darin, einen klaren Workflow für ihre Verwendung in Ihrem Unternehmen festzulegen. Stellen Sie sicher, dass jeder weiß, welche Berichte zur Erfolgsmessung verwendet werden.
 
 ![Beispiel für Berichte in einem Dashboard in Workfront ](assets/workfront-4-executives-3.png)
 
@@ -79,7 +79,7 @@ In diesem Video lernen Sie Folgendes:
 * Anfrage stellen
 * Ihre eingereichten Anfragen ansehen
 
->[!VIDEO](https://video.tv.adobe.com/v/3470919/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Elemente, die auf Ihre Genehmigung warten
 

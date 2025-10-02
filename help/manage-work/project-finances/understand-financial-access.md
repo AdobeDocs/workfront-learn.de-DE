@@ -13,8 +13,8 @@ exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 In diesem Video wird die Rolle einer bzw. eines Systemadmin bei der Verwaltung des Zugriffs auf Finanzinformationen in Workfront erläutert. Die bzw. der Admin steuert den Zugriff über Zugriffsebenen.
 Das Video betont, dass Benutzende ihren Finanzzugriff nur für Projekte verwenden können, die sie selbst erstellt haben, oder die für sie von einer Person mit Finanzzugriff freigegeben wurden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

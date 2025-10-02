@@ -12,8 +12,8 @@ jira: KT-8871
 last-substantial-update: 2025-05-30T00:00:00Z
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: cc611bf43c51dde02af715d19246cfd17bcce095
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -27,4 +27,4 @@ In diesem Video lernen Sie Folgendes:
 * Ausführen eines Berichts mit den Zugriffsrechten einer bestimmten Benutzerin bzw. eines bestimmten Benutzers
 * Einrichten und Verwenden von Berichts-Prompts
 
->[!VIDEO](https://video.tv.adobe.com/v/3445872/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)

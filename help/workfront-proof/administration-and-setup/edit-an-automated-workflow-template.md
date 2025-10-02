@@ -12,8 +12,8 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 100%
 
@@ -44,7 +44,7 @@ Jeder Schritt eines automatisierten Workflows hat seinen eigenen Bereich, in dem
 
 In diesem Video werden einige der Änderungen vorgestellt, die Sie im Bereich [!UICONTROL Workflow] vornehmen können. Eine Übersicht über diese Einstellungen finden Sie in der Aufzählung unter diesem Video.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432614/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 Im Folgenden finden Sie eine Übersicht über die Änderungen, die Sie an der Korrekturabzug-Vorlage im Abschnitt [!UICONTROL Workflow] vornehmen können:
 

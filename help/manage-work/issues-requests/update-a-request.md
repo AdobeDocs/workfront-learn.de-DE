@@ -13,8 +13,8 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 In diesem Video wird beschrieben, wie Sie in Adobe Workfront Anfragen finden und verwalten. Nach dem Senden einer Anfrage können Sie Informationen hinzufügen oder Fragen stellen, um sicherzustellen, dass die neuesten Details für die daran arbeitenden Personen verfügbar sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

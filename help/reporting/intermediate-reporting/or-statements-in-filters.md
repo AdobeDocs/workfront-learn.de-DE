@@ -12,10 +12,10 @@ jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 last-substantial-update: 2025-08-11T00:00:00Z
 doc-type: video
-source-git-commit: b3cff8f86ceeb6e79e2b88ab335b2671aa25600a
-workflow-type: ht
-source-wordcount: '320'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '321'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ In diesem Video wird erläutert, wie sich in Workfront Filter mit verschiedenen 
 Alternativ können Sie die Filterlogik in „ODER“ ändern, sodass Elemente angezeigt werden, die mindestens eine der Bedingungen erfüllen.
 Im Video wird auch das Erstellen von Filtern für Aufgaben mithilfe von Filtergruppen vorgestellt. Sie können beispielsweise zwei Gruppen erstellen: eine für unvollständige Aufgaben, die dem Kreativ-Team zugewiesen und verspätet sind, und eine weitere für unvollständige Aufgaben, die dem Kreativ-Team zugewiesen sind, aber noch nicht zugeordnet wurden. Innerhalb jeder Gruppe gilt die Logik „UND“, d. h., alle Bedingungen in der Gruppe müssen erfüllt sein. Die „ODER“-Logik zwischen Gruppen stellt sicher, dass Aufgaben, die die Bedingungen mindestens einer der beiden Gruppen erfüllen, angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470702/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## ODER-Filteraktivität
 

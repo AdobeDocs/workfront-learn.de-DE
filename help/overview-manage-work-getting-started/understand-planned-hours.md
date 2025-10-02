@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 56b8ea1a-d0cc-47ec-8d88-5f0ef204656f
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -30,12 +30,12 @@ In diesem Video lernen Sie Folgendes:
 * Wie Sie geplante Stunden schätzen
 * Wie Sie geplante Stunden zu Aufgaben hinzufügen
 
->[!VIDEO](https://video.tv.adobe.com/v/3445342/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
 
 
 ## Empfohlene Tutorials und Artikel zu diesem Thema
 
-* [Grundlegendes zu Aufgabendauern](/help/manage-work/tasks/understand-task-durations.md)
+* [Grundlegendes zu Aufgabenlaufzeiten](/help/manage-work/tasks/understand-task-durations.md)
 * [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)
 * [Überblick über Arbeitszeittabellen](https://experienceleague.adobe.com/de/docs/workfront/using/timesheets/details/timesheets-overview)

@@ -11,8 +11,8 @@ jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ In diesem Video lernen Sie Folgendes:
 * Festlegen des richtigen Designs für eine hohe Leistung
 * Infragestellen von Annahmen und optimales Beraten von Stakeholdern
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops=1)
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 

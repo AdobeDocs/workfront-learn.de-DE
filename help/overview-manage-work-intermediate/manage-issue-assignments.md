@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10071
 hide: true
 exl-id: b4999851-e066-4afb-92f4-0abd8a3b84e7
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
@@ -31,11 +31,11 @@ In diesem Video lernen Sie Folgendes:
 * Den Fortschritt bei Problemen aktualisieren
 * Den Status des Problems aktualisieren
 
->[!VIDEO](https://video.tv.adobe.com/v/3446964/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Umgang mit ungeplanten Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
 * [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
-* [Konvertieren eines Problems/einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Konvertieren eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

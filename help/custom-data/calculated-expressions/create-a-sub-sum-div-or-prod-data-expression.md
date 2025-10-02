@@ -11,10 +11,10 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '386'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '378'
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 * Funktionsweise der Ausdrücke SUB, SUM, DIV und PROD
 * Erstellen eines SUB-Datenausdrucks in einem berechneten Feld
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops=1)
 
 ## Zusätzliche Informationen: ROUND-Ausdruck
 
@@ -57,7 +57,7 @@ Der ROUND-Ausdruck enthält den Namen des Ausdrucks (ROUND) und in der Regel zwe
 
 Ein Ausdruck ist wie folgt strukturiert: ROUND(Datenpunkt, #)
 
-In dem Ausdruck, der die Differenz zwischen Soll- und Ist-Stunden berechnet, verwenden Sie diesen Ausdruck – DIV(SUB({workRequired},{actualWorkRequired}),60) – als ersten Datenpunkt. Stellen Sie dann sicher, dass die Zahl, die von diesem Ausdruck stammt, auf höchstens 2 Dezimalstellen gerundet wird.
+Verwenden Sie im Ausdruck zur Berechnung der Differenz zwischen geplanten und tatsächlichen Stunden diesen Ausdruck - DIV({workRequired},{actualWorkRequired}),60) - als ersten Datenpunkt. Stellen Sie dann sicher, dass die Zahl, die von diesem Ausdruck stammt, auf höchstens 2 Dezimalstellen gerundet wird.
 
 ![Workload Balancer mit Nutzungsbericht](assets/round03.png)
 

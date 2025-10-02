@@ -13,8 +13,8 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 In diesem Video wird beschrieben, wie Sie den Projektfortschritt mithilfe von Projektmetriken nachverfolgen. Es zeigt den Zugriff auf die Registerkarte „Metriken“ im linken Panel eines Projekts. Hierzu ist möglicherweise ein Scrollen und das Klicken auf „Mehr anzeigen“ erforderlich. Oben im KPI-Bereich werden wichtige Key Performance Indicators wie abgeschlossene, unvollständige und überfällige Aufgaben angezeigt. Benutzende können auf Indikatoren klicken, um bestimmte Aufgaben anzuzeigen, und Diagramme verwenden, um Aufgaben oder Probleme nach Status oder Priorität zu gruppieren. Wenn sie den Mauszeiger über die Spalten bewegen, werden Mengen angezeigt, und das Diagramm zeigt das Verhältnis von abgeschlossenen zu unvollständigen Aufgaben oder Problemen. Metriken können außerdem Aufgaben nach zugewiesener Person basierend auf ihrem Status (abgeschlossen, unvollständig, bevorstehend oder überfällig) anzeigen. Die Einstellungen zum Anzeigen von Metriken werden für zukünftige Besuche gespeichert. Abschließend wird im Video gezeigt, wie die Seite „Metriken“ mithilfe der Schaltfläche „Exportieren“ als PNG-Datei exportiert wird. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439179/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

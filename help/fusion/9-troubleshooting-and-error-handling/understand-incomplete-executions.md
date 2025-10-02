@@ -11,8 +11,8 @@ jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Unvollständige Ausführungen
 * Umgang mit Fehlern, die zu einer unvollständigen Ausführung führen
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops=1)
 
 ## Fehler, die zu unvollständigen Ausführungen führen
 

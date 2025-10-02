@@ -11,8 +11,8 @@ thumbnail: 335138.png
 jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen von Benutzenden zu einem bestehenden Workflow
 * Umwandeln eines vorhandenen Workflow in einen automatisierten Workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/3445461/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
 
 ## Sie sind dran
 

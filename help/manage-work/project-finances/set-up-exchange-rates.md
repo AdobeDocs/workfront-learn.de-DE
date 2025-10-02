@@ -13,8 +13,8 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 Das Video enthält eine Anleitung zum Verwalten von Währungen im Finanzverfolgungssystem von Workfront. Dort wird erklärt, dass die Standardwährung US-Dollar ist. Zusätzliche Währungen können aber global oder für einzelne Projekte und Aufgabengebiete eingerichtet werden.
 Das Video betont, dass das System keine aktuellen Wechselkurse bereitstellt, sodass Benutzende sie extern beziehen müssen. Nach der Festlegung werden die Wechselkurse zum Standard für Projekte oder Aufgabengebiete, werden aber nicht automatisch aktualisiert. Benutzende mit entsprechenden Berechtigungen müssen sie manuell aktualisieren. Nach der Einrichtung der Währungen können Benutzende neue Projekte erstellen und aus den verfügbaren Währungsoptionen auswählen, wobei die Wechselkurse für einzelne Projekte angepasst werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

@@ -9,8 +9,8 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Stellen Sie sicher, dass die Person auf der Registerkarte [!UICONTROL Warteschla
 
 Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434165/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
 
 **Ich habe Benutzenden Zugriff auf die Warteschlange gewährt, aber jetzt können sie auch das Projekt für die Anfrage-Warteschlange sehen. Warum?**
 
@@ -36,9 +36,9 @@ Ja. Sie können je nach Bedarf Probleme in Aufgaben oder Projekte umwandeln.
 
 Diese Tutorials zeigen Ihnen Folgendes:
 
-* [Konvertieren eines Problems/einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 
-* [Umwandeln eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Konvertieren eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 
 **Wo finde ich eine Anfrage-Warteschlange, um Bearbeitungen vorzunehmen?**
 
@@ -62,7 +62,7 @@ Sie können auf Felder in den Feldquellen **[!UICONTROL Konvertiertes Problem]**
 
 Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434185/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
 
 
 **Wie lässt es sich am besten nach Anfrage-Warteschlangen in einem Bericht filtern?**
@@ -73,7 +73,7 @@ Wenn Ihr Projektfilter **Warteschlange >>Ist öffentlich>>Nicht gleich>>Keine** 
 
 Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434339/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
 
 **Ist es empfehlenswert, einen benutzerdefinierten Status der Anfrage-Warteschlange zu erstellen?**
 
@@ -83,7 +83,7 @@ Wenn Sie jedoch in Ihrem Unternehmen bereits den Status „Anfrage-Warteschlange
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Grundlegendes zu Anfragewarteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
+* [Grundlegendes zu Anfrage-Warteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
 * [Erstellen einer Anfrage-Warteschlange](/help/manage-work/request-queues/create-a-request-queue.md)
 * [Grundlegendes zu den Einstellungen für einen Anfragefluss](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Erstellen eines Anfrageflusses](/help/manage-work/request-queues/create-a-request-flow.md)

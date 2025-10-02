@@ -13,8 +13,8 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
-source-git-commit: 8d50decd17d184675cb2fa2ef4a43d52740cb99f
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 In diesem Video wird beschrieben, wie Sie beim Erstellen einer Anfrage-Warteschlange einen Standardgenehmigungsprozess anwenden. Wenn eine Anfrage erstellt wird, weist sie zunächst den Status „Neu – Ausstehende Genehmigung“ auf. Außerdem wird eine Genehmigungsbenachrichtigung an die benannte genehmigende Person gesendet. Bei Genehmigung ändert sich der Status in „Neu“, sodass die zugewiesenen Personen mit der Arbeit beginnen können. Im Falle einer Ablehnung wird der Status unter Umständen aufgrund eines häufig auftretenden Fehlers im Genehmigungsprozess fälschlicherweise auf „Neu“ zurückgesetzt. 
 Dieses Video hebt hervor, dass der Genehmigungsprozess ausgelöst wird, wenn der Status auf „Neu“ festgelegt wird (Standard bei neuen Anfragen). Bei einer Ablehnung setzt das System standardmäßig den Status auf den vorherigen zurück. Für neue Anfragen ist das nicht ideal. Stattdessen sollte ein anderer Status wie „Lässt sich nicht lösen“ ausgewählt werden. In dem Video wird auch darauf hingewiesen, dass es keinen standardmäßig bereitgestellten Status „Abgelehnt“ gibt. Bei Bedarf kann dieser aber von Systemadmins erstellt werden. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3455033/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

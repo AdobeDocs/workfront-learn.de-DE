@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: ecccb7fa340f9ad8bff15a5767848ab016e00876
-workflow-type: ht
-source-wordcount: '238'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '239'
+ht-degree: 99%
 
 ---
 
@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen eines benutzerdefinierten Datums mithilfe von Platzhaltern, Attributen, Operatoren und Modifikatoren
 * Erstellen eines benutzerdefinierten Datumsbereichs mithilfe von Platzhaltern
 
->[!VIDEO](https://video.tv.adobe.com/v/3418627/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&amp;learn=on&amp;enablevpops=0
 
 
 ## Aktivitäten zum Erstellen von Filtern mit datumsbasierten Platzhaltern

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c6eedc74-c104-434d-8124-1329d4e39e25
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -29,12 +29,12 @@ In diesem Video lernen Sie Folgendes:
 * Erteilen von Genehmigungen für Dokumente
 * Erteilen von Genehmigungen für Korrekturabzüge
 
->[!VIDEO](https://video.tv.adobe.com/v/3444955/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 
 >[!NOTE]
 >
->Dokumente, Korrekturabzüge und Arbeitselemente (Projekte, Aufgaben und Probleme), die genehmigt werden müssen, finden sich neben [!DNL Workfront Home] auch in Projekten und benutzerdefinierten Berichten.
+>Dokumente, Korrekturabzüge und Arbeitselemente (Projekte, Aufgaben und Probleme), die genehmigt werden müssen, finden sich nicht nur in [!DNL Workfront Home], sondern auch in Projekten und benutzerdefinierten Berichten.
 
 ## Empfohlene Tutorials zu diesem Thema
 

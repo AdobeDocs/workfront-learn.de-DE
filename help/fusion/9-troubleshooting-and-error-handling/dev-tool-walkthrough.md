@@ -11,8 +11,8 @@ jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Installieren und verwenden Sie die verschiedenen Bereiche im Entwickler-Tool in 
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops=1)
 
 
 ## Herunterladen des Entwickler-Tools

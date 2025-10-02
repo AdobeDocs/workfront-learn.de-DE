@@ -11,8 +11,8 @@ thumbnail: 336096.png
 jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 * Hochladen einer neuen Version eines Korrekturabzugs
 * Anwenden eines Proofing-Workflows auf die Version
 
->[!VIDEO](https://video.tv.adobe.com/v/3441861/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
 
 ## Hochladen einer Version aus dem Proofing-Viewer
 

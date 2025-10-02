@@ -12,10 +12,10 @@ jira: KT-8853
 last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 888021fa7d7160154a3a21c491c1d50c13650864
-workflow-type: ht
-source-wordcount: '419'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '420'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 In diesem Video wird erläutert, wie Sie in Workfront Gruppierungen erstellen und verwalten können, um Projektlisten effektiv zu organisieren. Gruppierungen sind neben Filtern und Ansichten eines der drei Hauptberichtselemente und helfen, Ergebnisse auf der Grundlage von freigegebenen Informationen zu organisieren. 
 In diesem Tutorial werden praktische Schritte zum Organisieren von Projektlisten beschrieben, die die tägliche Arbeit und Zusammenarbeit optimieren. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449824/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Die wichtigsten Punkte
 

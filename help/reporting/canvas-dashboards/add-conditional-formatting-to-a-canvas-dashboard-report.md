@@ -12,10 +12,10 @@ last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 2987677b-64a3-49f4-b6a1-31008c47723f
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
@@ -32,11 +32,11 @@ Die ersten Dinge, die Sie tun müssen, bevor Sie ein Arbeitsflächen-Dashboard (
 
 [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) zeigt Ihnen Schritt für Schritt, wie Sie beide ausführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474984/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops=1)
 
 **Weitere Informationen finden Sie in den folgenden Hilfeartikeln:**
-[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Erstellen eines Tabellenberichts in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Erstellen eines Tabellenberichts in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Empfohlene Tutorials zu diesem Thema
 

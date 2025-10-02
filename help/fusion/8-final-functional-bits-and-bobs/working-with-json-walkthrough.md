@@ -11,8 +11,8 @@ jira: KT-9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Erstellen und Analysieren von JSON-Dateien in einem Szenario zur Unterstützung Ihrer Design-Anforderungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops=1)
 
 
 

@@ -13,7 +13,7 @@ hide: true
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: 2eb8c7e2-d980-409c-b06a-d44f5817648d
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
@@ -31,11 +31,11 @@ In diesem Video lernen Sie Folgendes:
 * Delegieren von Genehmigungen für Projekte, Aufgaben und Probleme
 * Ermitteln von delegierten Genehmigungen
 
->[!VIDEO](https://video.tv.adobe.com/v/3446385/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Einrichten von Ereignisbenachrichtigungen](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [Erstellen eines globalen und eines einmaligen Genehmigungsprozesses](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Erstellen eines globalen und eines Genehmigungsprozesses für einmaligen Gebrauch](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
 * [Informationen zu gruppenspezifischen Genehmigungsprozessen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 

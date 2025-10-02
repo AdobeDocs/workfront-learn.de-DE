@@ -11,8 +11,8 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Markieren von Benutzenden in [!DNL Workfront]-Aktualisierungen
 * Reaktion auf vorhandene Aktualisierungen
 
->[!VIDEO](https://video.tv.adobe.com/v/3445286/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
 
 ## Tipps für die Aktualisierung der Arbeit auf der [!UICONTROL Startseite]
 

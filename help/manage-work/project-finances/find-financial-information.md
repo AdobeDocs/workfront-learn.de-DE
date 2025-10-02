@@ -13,8 +13,8 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d6a69745a75e326f99b19be633ced01badabd5ec
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 In diesem Video wird erläutert, wie Sie auf Finanzinformationen für Projekte und Aufgaben zugreifen und diese verwalten können. Das Video bietet einen umfassenden Überblick über die Navigation und das Verständnis von Finanzdaten auf Projekt- und Aufgabenebene.
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

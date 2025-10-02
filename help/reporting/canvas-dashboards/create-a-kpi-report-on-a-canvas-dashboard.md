@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines KPI-Berichts in einem Arbeitsflächen-Dashboard
-description: Erfahren Sie, wie Sie einen KPI-Bericht in einem Arbeitsflächen-Dashboard erstellen.
+description: Erfahren Sie, wie Sie einen KPI-Bericht auf einem Arbeitsflächen-Dashboard erstellen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,10 +12,10 @@ last-substantial-update: 2025-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: e25e4a1a-474d-42c5-950c-0214339ac5a2
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 3%
+ht-degree: 18%
 
 ---
 
@@ -32,11 +32,11 @@ Die ersten Dinge, die Sie tun müssen, bevor Sie ein Arbeitsflächen-Dashboard (
 
 [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) zeigt Ihnen Schritt für Schritt, wie Sie beide ausführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474851/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops=1)
 
 **Weitere Informationen finden Sie in den folgenden Hilfeartikeln:**
-[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Erstellen eines KPI-Berichts in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Erstellen eines KPI-Berichts in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## Empfohlene Tutorials zu diesem Thema
 

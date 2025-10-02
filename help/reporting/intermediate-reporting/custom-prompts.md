@@ -12,10 +12,10 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 5bc402119573d7ca0f478e1ed134c2bcfee52d8f
-workflow-type: ht
-source-wordcount: '198'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '199'
+ht-degree: 99%
 
 ---
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen eines benutzerdefinierten Prompts im Textmodus
 * Einige Beispiele, die Sie in Ihren Berichten verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3418631/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Aktivitäten zum Erstellen benutzerdefinierter Prompts
 

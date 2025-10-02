@@ -12,8 +12,8 @@ jira: kt-8857
 last-substantial-update: 2025-04-30T00:00:00Z
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 In diesem Video wird erläutert, wie Sie Filter in Workfront erstellen und verwenden, um Berichte zu Listen auf Grundlage bestimmter Kriterien anzupassen. Mit Filtern können Benutzende Listen wie Aufgaben, Projekte oder Dokumente durch Definieren von Bedingungen eingrenzen. Es werden nur Elemente in der Liste angezeigt, die den Filterbedingungen entsprechen und für die angemeldete Person zugänglich sind.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

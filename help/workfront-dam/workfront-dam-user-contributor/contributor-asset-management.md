@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zur Asset-Verwaltung als Mitwirkende
-description: Erfahren Sie, wie Sie Assets in [!UICONTROL Workfront DAM] verwalten können, um Ihren Arbeitsablauf zu verbessern.
+description: Erfahren Sie, wie Sie Assets in [!UICONTROL Workfront DAM] verwalten können, um Ihren Workflow zu verbessern.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 100%
 
@@ -30,11 +30,11 @@ In diesem Video lernen Sie Folgendes:
 * Eine Metadatenvorlage auf einen Ordner anwenden
 * Ordnerberechtigungen festlegen
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops=1)
 
 ## Funktionsweise von Asset-Versionen
 
-Ein Teil Ihres Arbeitsablaufs kann die Verwaltung mehrerer Versionen – oder Runden, Überprüfungen, Iterationen, wie auch immer Sie sie nennen – eines Assets beinhalten. Sie können alle Versionen über [!UICONTROL Workfront DAM] verwalten.
+Ein Teil Ihres Workflows kann die Verwaltung mehrerer Versionen – oder Runden, Überprüfungen, Iterationen, wie auch immer Sie sie nennen – eines Assets beinhalten. Sie können alle Versionen über [!UICONTROL Workfront DAM] verwalten.
 
 Das System ermöglicht eine automatische Asset-Versionskontrolle, wenn eine Datei mit dem Namen einer bereits bestehenden Datei in denselben Ordner hochgeladen wird. Wenden Sie sich an Ihre Systemadmins, um zu prüfen, ob diese Funktion aktiviert wurde.
 

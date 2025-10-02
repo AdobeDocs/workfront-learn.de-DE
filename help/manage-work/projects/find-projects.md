@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte suchen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439557/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

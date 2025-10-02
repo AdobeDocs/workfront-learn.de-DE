@@ -12,8 +12,8 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ In diesem Video wird beschrieben, wie Sie Projekte und Aufgaben mit den Gantt-Di
 
 Im Video wird der Schwerpunkt auf die Flexibilität von Gantt-Diagrammen gelegt, durch die Benutzende Ansichten anpassen und mehrere Elemente gleichzeitig anzeigen können und so ein besseres Projekt-Management ermöglicht wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448015/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Weitere Informationen finden Sie online im Artikel [Erste Schritte mit dem Gantt-Diagramm](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=de).
 

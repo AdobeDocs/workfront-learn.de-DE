@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '803'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ Dieses Video gibt einen Überblick darüber, wie Sie auf der Projektseite in Wor
 * **Abschnitt „Dokumente“:** Ermöglicht das Hochladen und Verwalten von projektbezogenen Dateien und Korrekturabzügen. Dokumente, die an Aufgaben angehängt sind, werden bis zur Projektebene aggregiert, um einen einfachen Zugriff zu ermöglichen. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449735/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

@@ -12,8 +12,8 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 In diesem Video werden die abschließenden Schritte für das Live-Schalten eines Projekts beschrieben. Hierzu wird der Status in „Aktuell“ geändert. Es wird darauf hingewiesen, dass vorher die wichtigsten Projektelemente wie Aufgabennamen, Laufzeiten, geplante Stunden, Vorgänger, Start- und Fertigstellungsdaten und Arbeitsaufträge überprüft werden sollten, um sicherzustellen, dass alles korrekt und richtig festgelegt ist. Sobald das Projekt live ist, erhält die Projektleiterin bzw. der Projektleiter Benachrichtigungen auf der Grundlage der globalen und persönlichen Einstellungen, und das Projekt wird in Berichten und Filtern für aktive Projekte angezeigt. Dies markiert den offiziellen Beginn der Arbeiten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3438999/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

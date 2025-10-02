@@ -13,7 +13,7 @@ jira: KT-8775
 hide: true
 doc-type: video
 exl-id: 81b6fc1f-2988-4eac-8dc5-be52358724ba
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -28,10 +28,10 @@ In diesem Video lernen Sie Folgendes:
 * Möglichkeiten zum Hinzufügen und Löschen von Aufgaben
 * Ändern der Aufgabenreihenfolge
 
->[!VIDEO](https://video.tv.adobe.com/v/3448565/?quality=12&learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Grundlegendes zu über- und untergeordneten Aufgaben](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Grundlegendes zu Aufgabendauern](/help/manage-work/tasks/understand-task-durations.md)
+* [Grundlegendes zu Aufgabenlaufzeiten](/help/manage-work/tasks/understand-task-durations.md)

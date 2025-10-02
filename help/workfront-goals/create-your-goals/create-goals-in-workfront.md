@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 100%
 
@@ -36,7 +36,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Navigieren zum Abschnitt [!UICONTROL Zielliste], um ein neues Ziel hinzuzufügen
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops=1)
 
 ## Ein vorhandenes Ziel kopieren
 
@@ -93,5 +93,5 @@ In diesem Video lernen Sie Folgendes:
 
 * Eine Aktivität hinzufügen und in ein abgestimmtes Ziel konvertieren
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
 
