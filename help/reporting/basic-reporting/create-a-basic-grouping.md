@@ -24,7 +24,7 @@ ht-degree: 99%
 In diesem Video wird erläutert, wie Sie in Workfront Gruppierungen erstellen und verwalten können, um Projektlisten effektiv zu organisieren. Gruppierungen sind neben Filtern und Ansichten eines der drei Hauptberichtselemente und helfen, Ergebnisse auf der Grundlage von freigegebenen Informationen zu organisieren. 
 In diesem Tutorial werden praktische Schritte zum Organisieren von Projektlisten beschrieben, die die tägliche Arbeit und Zusammenarbeit optimieren. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0
 
 ## Die wichtigsten Punkte
 
@@ -55,6 +55,6 @@ Gruppieren Sie den Problembericht nach:
 1. Weisen Sie der Gruppierung den Namen „Anfrage-Warteschlange, Warteschlangenthema, Priorität“ zu.
 1. Klicken Sie auf **[!UICONTROL Gruppierung hinzufügen]**.
 1. Geben Sie in das Feld [!UICONTROL Gruppieren nach] den Text „Projektname“ ein und wählen Sie für die Feldquelle „Projekt“ die Option **[!UICONTROL Name]** aus.
-1. Klicken Sie auf **[!UICONTROL Weitere Gruppierung hinzufügen]**, geben Sie „Warteschlange“ ein und wählen Sie **[!UICONTROL Name]** unter der Feldquelle ]Warteschlangenthema[!UICONTROL  aus.
+1. Klicken Sie auf **[!UICONTROL Weitere Gruppierung hinzufügen]**, geben Sie „Warteschlange“ ein und wählen Sie **[!UICONTROL Name]** unter der Feldquelle Warteschlangenthema aus.
 1. Klicken Sie auf **[!UICONTROL Weitere Gruppierung hinzufügen]**, geben Sie „Priorität“ ein und wählen Sie **[!UICONTROL Priorität]** unter der Feldquelle [!UICONTROL Problem] aus.
 1. Klicken Sie auf **[!UICONTROL Gruppierung speichern]**

@@ -29,7 +29,7 @@ In diesem Video wird das Konzept der Reporting-Komponenten in Workfront beschrie
 * **Filterqualifizierer:** Definiert, welche Werte in einen Bericht ein- oder daraus ausgeschlossen werden sollen, z. B. das Anzeigen von Aufgaben mit der Priorität „Hoch“.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0
 
 ## Die wichtigsten Punkte
 

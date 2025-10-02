@@ -34,7 +34,7 @@ Im Video wird der Schwerpunkt auf die Wichtigkeit der Benutzerbeteiligung und Tr
 Zur weiteren Anleitung werden Links zu Tutorials für das Erstellen von Berichten und benutzerdefinierten Formularen bereitgestellt.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0
 
 ## Die wichtigsten Punkte
 

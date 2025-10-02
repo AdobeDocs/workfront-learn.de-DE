@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Überprüfen der integrierten Projektfilter, um zu sehen, wie sie erstellt wurden
 * Erstellen eines eigenen Projektfilters mit dem, was Sie gelernt haben
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0
 
 ## Aktivitäten: Grundlegendes zu integrierten Projektfiltern
 

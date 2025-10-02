@@ -31,7 +31,7 @@ Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage ein
 * Nachdem die Vorlage erstellt wurde, kann sie zur Erstellung neuer Projekte verwendet werden. Im Video wird gezeigt, wie Sie ein neues Projekt aus der Vorlage erstellen, notwendige Anpassungen vornehmen und Aufgaben hinzufügen oder Laufzeiten nach Bedarf ändern. Außerdem wird gezeigt, wie Sie mithilfe der Funktionen „Ressourcenplanung“ und „Planung“ Aufgabengebiete zu Aufgaben zuweisen. 
 * In diesem Video wird beschrieben, wie Sie ein vorhandenes Projekt als neue Vorlage speichern, um Aktualisierungen und Verbesserungen im Workflow zu ermöglichen. Es wird hervorgehoben, wie wichtig das Vorlagen-Management für das Vermeiden von Verwirrung und das Sicherstellen einer optimierten Projektausführung ist. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0
 
 ## Die wichtigsten Punkte
 

@@ -27,7 +27,7 @@ In diesem Video werden Sie:
 * Mehr über einige nützliche Elemente zur Problemberichterstellung erfahren
 * Lernen, wie Sie einen eigenen Problemfilter erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0
 
 
 ## Aktivitäten: Grundlegendes zu integrierten Problemfiltern

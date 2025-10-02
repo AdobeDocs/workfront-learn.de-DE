@@ -38,7 +38,7 @@ In diesem Video wird erläutert, wie Sie mithilfe von Diagrammen Daten auf effek
 
 In diesem Video wird gezeigt, wie Diagramme, z. B. Torten- und gestapelte Säulendiagramme, Erkenntnisse zur Aufgabenverteilung und Projektleistung liefern und so Benutzende Projekte vergleichen und den Aufgabenfortschritt visuell nachvollziehen können. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0
 
 ## Die wichtigsten Punkte
 
