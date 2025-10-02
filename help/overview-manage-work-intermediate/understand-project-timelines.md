@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Planen von Projekten anhand des Start- oder Fertigstellungsdatums
 * Aufgabenbeschränkungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435844/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 >[!IMPORTANT]
 >

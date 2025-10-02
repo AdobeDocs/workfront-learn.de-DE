@@ -19,4 +19,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie eine neue Iteration erstellen und Storys für eine Iteration aktivieren/deaktivieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413776/?quality=12&learn=on&enablevpops=1&captions=ger)

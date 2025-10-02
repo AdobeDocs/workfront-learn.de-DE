@@ -23,5 +23,5 @@ ht-degree: 100%
 
 Erfahren Sie, wie Benutzende steuern können, welche In-App- und E-Mail-Benachrichtigungen sie erhalten, damit sie nur relevante, hilfreiche E-Mails zu ihrer Arbeit erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442816/?quality=12&learn=on&enablevpops=1&captions=ger)
 

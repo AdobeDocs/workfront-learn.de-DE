@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Strukturieren von Aufgaben in einem [!DNL Workfront]-Projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445605/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

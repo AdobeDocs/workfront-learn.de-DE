@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen eines benutzerdefinierten Datums mithilfe von Platzhaltern, Attributen, Operatoren und Modifikatoren
 * Erstellen eines benutzerdefinierten Datumsbereichs mithilfe von Platzhaltern
 
->[!VIDEO] (https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3418627/?quality=12&learn=on&enablevpops=0&captions=ger
 
 
 ## Aktivitäten zum Erstellen von Filtern mit datumsbasierten Platzhaltern

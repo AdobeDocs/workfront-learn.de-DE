@@ -27,4 +27,4 @@ In diesem Video lernen Sie Folgendes:
 * Nutzen einer Schlüsselwort-Taxonomie
 * Suchen nach Assets mithilfe von Metadaten und Schlüsselwörtern
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419525/?quality=12&learn=on&enablevpops=1&captions=ger)

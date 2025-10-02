@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie Sie eine Projektvorlage freigeben und Rechte zur Aktivierung und Deaktivierung gewähren.
 * Wie Sie eine Projektvorlage aktivieren und deaktivieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444999/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Erfahren Sie, wie Sie eine benutzerdefinierte Ansicht erstellen, um den aktiven Status von Projektvorlagen anzuzeigen und zu bearbeiten
 

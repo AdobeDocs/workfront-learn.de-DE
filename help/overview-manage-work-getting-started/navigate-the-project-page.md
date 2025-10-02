@@ -30,7 +30,7 @@ In diesem Video erfahren Sie:
 * Wo Sie Dokumente hochladen können
 * Wie Sie den Aktualisierungsverlauf anzeigen können
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449735/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Wichtige Teile der Projektseite
 

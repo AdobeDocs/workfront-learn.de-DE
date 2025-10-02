@@ -32,7 +32,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Installieren des Microsoft Outlook-Add-ins
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431664/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 >[!IMPORTANT]
 >

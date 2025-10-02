@@ -25,7 +25,7 @@ In diesem Video wird beschrieben, wie Sie mit dem Tool „Portfolio-Optimierung�
 
 Im Video wird der Schwerpunkt auf die Bedeutung von Business-Cases für genaue Vergleiche gelegt, und es bietet schrittweise Anweisungen zur effektiven Optimierung und zum effektiven Management von Projektprioritäten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446284/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Die wichtigsten Punkte
 

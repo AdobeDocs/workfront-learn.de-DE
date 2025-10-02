@@ -30,7 +30,7 @@ In diesem Video lernen Sie Folgendes:
 * Grundlegende Informationen zu Aufgaben und Problemen
 * Best Practices für den Einstieg in die Projekterstellung
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435903/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

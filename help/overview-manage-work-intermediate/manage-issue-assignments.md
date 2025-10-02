@@ -31,7 +31,7 @@ In diesem Video lernen Sie Folgendes:
 * Den Fortschritt bei Problemen aktualisieren
 * Den Status des Problems aktualisieren
 
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446964/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

@@ -21,4 +21,4 @@ ht-degree: 80%
 
 Erfahren Sie, wie Sie in der Adobe Workfront-Planung Tabellenansichten vom Eintragstyp erstellen, verwalten und anpassen, um die Projektorganisation und Zusammenarbeit zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448159/?learn=on&enablevpops=1&captions=ger)

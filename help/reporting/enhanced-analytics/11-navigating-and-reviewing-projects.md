@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Wie man das Flugplandiagramm liest
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439023/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Flugplandiagramm
 

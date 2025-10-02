@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Starten Ihres Projekts über den Projektstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438999/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

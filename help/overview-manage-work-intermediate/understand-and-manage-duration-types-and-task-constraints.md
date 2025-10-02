@@ -32,7 +32,7 @@ In diesem Video lernen Sie Folgendes über die Laufzeittypen und Aufgabenbeschr�
 * Best Practices für ihre Verwendung
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422825/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 
 Informationen zum Erstellen einer Ansicht mit den Laufzeitentypen und Aufgabenbeschränkungen finden Sie in Aktivität „Laufzeittypen und Aufgabenbeschränkungen anzeigen“ unter [Grundansicht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=de).

@@ -55,7 +55,7 @@ Das Video enthält eine umfassende Anleitung zum Erstellen von Projekten in Work
 
 In diesem Video liegt der Schwerpunkt auf der Flexibilität von Workfront beim Erstellen von Projekten aus Vorlagen, beim Erstellen von Projekten von Grund auf sowie beim Kopieren oder Importieren, wobei auf verschiedene Benutzeranforderungen eingegangen wird. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432171/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Die wichtigsten Punkte
 

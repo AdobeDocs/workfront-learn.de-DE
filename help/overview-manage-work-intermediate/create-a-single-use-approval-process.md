@@ -27,7 +27,7 @@ In beiden Instanzen wird die genehmigende Person, wenn sich der Objektstatus in 
 
 In diesem Video erfahren Sie, wie Sie einen globalen und einen einmaligen Genehmigungsprozess für ein Projekt, eine Aufgabe oder ein Problem erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434696/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 >[!TIP]
 >

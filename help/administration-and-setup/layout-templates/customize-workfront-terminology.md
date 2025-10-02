@@ -22,4 +22,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie die Terminologie mithilfe einer Layout-Vorlage festlegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445483/?quality=12&learn=on&enablevpops=1&captions=ger)

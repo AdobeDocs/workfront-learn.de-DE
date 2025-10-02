@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Bedeutung des Status in [!DNL  Workfront]
 * Wie Sie die [!UICONTROL Arbeitsliste] filtern, um abgeschlossene Arbeiten anzuzeigen
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444294/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 
 ## Zwei weitere Möglichkeiten zum Kennzeichnen abgeschlossener Arbeiten

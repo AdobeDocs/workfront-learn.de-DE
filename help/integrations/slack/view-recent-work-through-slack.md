@@ -23,4 +23,4 @@ In diesem Video lernen Sie Folgendes:
 
 * Anzeigen der aktuellen Arbeit über [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435935/?quality=12&learn=on&enablevpops=1&captions=ger)

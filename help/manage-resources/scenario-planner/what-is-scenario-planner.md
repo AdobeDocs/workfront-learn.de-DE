@@ -30,4 +30,4 @@ In diesem Video lernen Sie Folgendes:
 * Szenario-Planung innerhalb Ihres Unternehmens
 * Zugriffseinstellungen, die für die Verwendung des [!DNL Scenario Planner] benötigt werden
 
->[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418621/?quality=12&learn=on&enablevpops=1&captions=ger)

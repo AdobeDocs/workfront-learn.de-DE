@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Möglichkeiten zum Hinzufügen und Löschen von Aufgaben
 * Ändern der Aufgabenreihenfolge
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448565/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

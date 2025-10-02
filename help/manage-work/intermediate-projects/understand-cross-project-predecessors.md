@@ -35,6 +35,6 @@ In diesem Video lernen Sie Folgendes:
 * Wie ein projektübergreifender Vorgänger erstellt wird
 * Wie projektübergreifende Vorgänger in Berichten nachverfolgt werden
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422835/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 Erfahren Sie, wie Sie **projektübergreifende Vorgänger und Nachfolger** erstellen und den Bericht **Projektübergreifende Vorgänger und Nachfolger** anzeigen, der im Video verwendet wird. Sehen Sie sich gegebenenfalls das Tutorial [Grundlegendes zum einfachen Textmodus für Ansichten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=de) an und stellen Sie sicher, dass Sie die vorausgesetzten Tutorials absolviert haben, die dort aufgeführt sind.

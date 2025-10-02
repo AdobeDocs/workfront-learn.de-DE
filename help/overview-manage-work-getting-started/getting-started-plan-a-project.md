@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie Sie mithilfe einer [!UICONTROL Ansicht] die benötigten Informationen anzeigen können
 * Festlegen des Start- oder Enddatums
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448576/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

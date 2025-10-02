@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Verwenden der Ansicht [!UICONTROL Pinnwand] 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423278/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

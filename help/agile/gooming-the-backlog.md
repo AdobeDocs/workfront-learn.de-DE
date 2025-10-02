@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Geschichten in kleinere unterteilen, Geschichten im Rückstand neu priorisieren und markieren, dass Geschichten bereit sind, in eine Iteration eingefügt zu werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413775/?quality=12&learn=on&enablevpops=1&captions=ger)

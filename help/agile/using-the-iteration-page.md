@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die Iterationsstatusleiste lesen, die Burndown-Grafik finden und lesen sowie Storys im Iterations-Storyboard anzeigen und verschieben können.
 
->[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413773/?quality=12&learn=on&enablevpops=1&captions=ger)

@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie Berichte für andere freigegeben werden
 * Was die Empfängerinnen und Empfänger in einem Workfront-Bericht sehen und was sie damit tun können
 
->[!VIDEO] (https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3447821/?quality=12&learn=on&enablevpops=0&captions=ger
 
 ## Die wichtigsten Punkte
 

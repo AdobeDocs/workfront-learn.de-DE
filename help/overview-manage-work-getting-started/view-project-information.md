@@ -28,7 +28,7 @@ In diesem Video erfahren Sie, wie Sie mit Filtern, Ansichten und Gruppierungen F
 * Informationen auf Aufgabenebene
 * Informationen auf Problemebene
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453075/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

@@ -31,7 +31,7 @@ Dieses Video enthält eine schrittweise Anleitung zum Erstellen eines Anfrageflu
 Das Video zeigt dann, wie Sie Warteschlangenthemen erstellen, die mit Routing-Regeln, Themengruppen, benutzerdefinierten Formularen, Genehmigungsprozessen und einer Standarddauer verknüpft sind.
 Schließlich wird im Video gezeigt, wie Sie das Setup testen, indem Sie eine Anfrage senden, um sicherzustellen, dass sie korrekt weitergeleitet wird.  Wenn Probleme auftreten, können Anpassungen an der Warteschlange vorgenommen werden. Im Video wird der Schwerpunkt auf die Bedeutung der Überprüfung der Struktur und Funktionalität des Anfrageflusses gelegt, um ein ordnungsgemäßes Routing und eine klare Organisation sicherzustellen.
 
->[!VIDEO] (https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3433831/?quality=12&learn=on&enablevpops=0&captions=ger
 
 ## Die wichtigsten Punkte
 

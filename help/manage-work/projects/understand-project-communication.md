@@ -32,7 +32,7 @@ Im Video wird der Schwerpunkt auf die Bedeutung einer effektiven Kommunikation f
 
 Dieses Video hebt hervor, wie Workfront die Kommunikation, das Aufgaben-Management und das Reporting vereinfacht und sicherstellt, dass alle projektbezogenen Informationen verfügbar und organisiert sind. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436153/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 >[!TIP]
 >

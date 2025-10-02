@@ -23,7 +23,7 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie ein Problem oder eine Anfrage in eine Aufgabe umwandeln.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445439/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 >[!NOTE]
 >

@@ -27,7 +27,7 @@ In diesem Video erfahren Sie, wie Sie Folgendes verwenden:
 * Das Gantt-Diagramm des Projekts
 * Das Gantt-Diagramm der Aufgabe
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448015/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 Weitere Informationen finden Sie online im Artikel [Erste Schritte mit dem Gantt-Diagramm](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=de).
 

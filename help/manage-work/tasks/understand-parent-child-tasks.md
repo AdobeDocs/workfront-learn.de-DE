@@ -24,7 +24,7 @@ ht-degree: 100%
 In diesem Video wird die Aufgabenstruktur in Workfront beschrieben. Aufgaben sind wesentliche Komponenten eines Projekts und stellen die für die Fertigstellung erforderlichen Arbeitselemente dar. Im Video wird der Schwerpunkt auf die korrekte Organisation von Aufgaben als wichtiger Schritt in der Projektplanung und im Projekt-Management gelegt. Es zeigt die ersten Schritte bei der Arbeit mit Aufgaben und erläutert die Beziehungen zwischen übergeordneten und untergeordneten Aufgaben.
 Übergeordnete Aufgaben fungieren als Organisatoren, die das Projekt in Phasen oder Meilensteine gruppieren, und werden nicht an einzelne Personen zugewiesen. Untergeordnete Aufgaben oder Unteraufgaben stellen umsetzbare Arbeit dar, die an Team-Mitglieder zugewiesen wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445605/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Die wichtigsten Punkte
 

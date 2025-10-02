@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Entfernen von Filtern, Ansichten und Gruppierungen
 * Hinzufügen von Filtern, Ansichten und Gruppierungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432919/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Festlegen von Standardeinstellungen für Listen
 

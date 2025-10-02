@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Aktualisieren eines Plans im [!DNL Scenario Planner]
 * Kopieren von Plänen im [!DNL Scenario Planner]
 
->[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418625/?quality=12&learn=on&enablevpops=1&captions=ger)

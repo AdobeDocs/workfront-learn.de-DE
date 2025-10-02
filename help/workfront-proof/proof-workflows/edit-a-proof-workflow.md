@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen von Benutzenden zu einem bestehenden Workflow
 * Umwandeln eines vorhandenen Workflow in einen automatisierten Workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445461/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Sie sind dran
 

@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie Sie vermeiden können, dass ungewollt **Nicht-Mitglieder** eines Projekt-Teams in ein Vorlagenprojekt-Team aufgenommen werden.
 * Bearbeiten des Vorlagenprojekt-Teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441559/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

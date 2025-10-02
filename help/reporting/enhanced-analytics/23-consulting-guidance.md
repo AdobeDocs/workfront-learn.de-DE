@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 
 * Empfehlungen für eine effizientere Funktionsweise Ihrer Organisation
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438838/?quality=12&learn=on&enablevpops=1&captions=ger)

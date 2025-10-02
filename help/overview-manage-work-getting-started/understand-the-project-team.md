@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Wofür das Projekt-Team verwendet werden kann und wie es verwaltet wird
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444598/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Empfohlene Tutorials zu diesem Thema
 

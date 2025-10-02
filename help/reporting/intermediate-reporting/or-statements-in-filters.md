@@ -25,7 +25,7 @@ In diesem Video wird erläutert, wie sich in Workfront Filter mit verschiedenen 
 Alternativ können Sie die Filterlogik in „ODER“ ändern, sodass Elemente angezeigt werden, die mindestens eine der Bedingungen erfüllen.
 Im Video wird auch das Erstellen von Filtern für Aufgaben mithilfe von Filtergruppen vorgestellt. Sie können beispielsweise zwei Gruppen erstellen: eine für unvollständige Aufgaben, die dem Kreativ-Team zugewiesen und verspätet sind, und eine weitere für unvollständige Aufgaben, die dem Kreativ-Team zugewiesen sind, aber noch nicht zugeordnet wurden. Innerhalb jeder Gruppe gilt die Logik „UND“, d. h., alle Bedingungen in der Gruppe müssen erfüllt sein. Die „ODER“-Logik zwischen Gruppen stellt sicher, dass Aufgaben, die die Bedingungen mindestens einer der beiden Gruppen erfüllen, angezeigt werden.
 
->[!VIDEO] (https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3470702/?quality=12&learn=on&enablevpops=0&captions=ger
 
 ## ODER-Filteraktivität
 

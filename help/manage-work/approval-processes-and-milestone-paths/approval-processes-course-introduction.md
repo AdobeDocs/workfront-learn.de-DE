@@ -20,4 +20,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Genehmigungsprozesse den Arbeitsüberprüfungsprozess vereinfachen und automatisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436446/?quality=12&learn=on&enablevpops=1&captions=ger)
