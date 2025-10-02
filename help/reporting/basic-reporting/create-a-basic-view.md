@@ -133,9 +133,9 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Ansicht der Dauertypen und A
 1. Klicken Sie erneut auf **[!UICONTROL Spalte hinzufügen]**.
 1. Geben Sie im Feld [!UICONTROL In dieser Spalte anzeigen] [!UICONTROL „Einschränkung“] ein und wählen Sie [!UICONTROL „Einschränkungsdatum“] unter der Aufgabenfeldquelle.
 1. Wählen Sie die die Spalte [!UICONTROL Beginnt am] und klicken Sie auf [!UICONTROL Erweiterte Optionen].
-1. Wählen Sie in [!UICONTROL  Dropdown-] „Feldformat[!UICONTROL  „10/17/60 3:00 AM“].
+1. Wählen Sie in [!UICONTROL &#x200B; Dropdown-] „Feldformat[!UICONTROL &#x200B; „10/17/60 3:00 AM“].
 1. Wählen Sie die Spalte [!UICONTROL Fällig am] und klicken Sie auf [!UICONTROL Erweiterte Optionen].
-1. Wählen Sie in [!UICONTROL  Dropdown-] „Feldformat[!UICONTROL  „10/17/60 3:00 AM“].
+1. Wählen Sie in [!UICONTROL &#x200B; Dropdown-] „Feldformat[!UICONTROL &#x200B; „10/17/60 3:00 AM“].
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ### Aktivität 4: Erstellen einer aktiven Statusansicht einer Projektvorlage
