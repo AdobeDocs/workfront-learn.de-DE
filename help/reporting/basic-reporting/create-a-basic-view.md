@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '976'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ In diesem Video wird erläutert, wie Sie in Workfront Ansichten erstellen und an
 
 Das Video hebt die Flexibilität der Ansichten in Workfront hervor und enthält schrittweise Anweisungen zum Erstellen, Anpassen und Verwalten dieser Ansichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450247/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
@@ -133,9 +133,9 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Ansicht der Dauertypen und A
 1. Klicken Sie erneut auf **[!UICONTROL Spalte hinzufügen]**.
 1. Geben Sie im Feld [!UICONTROL In dieser Spalte anzeigen] [!UICONTROL „Einschränkung“] ein und wählen Sie [!UICONTROL „Einschränkungsdatum“] unter der Aufgabenfeldquelle.
 1. Wählen Sie die die Spalte [!UICONTROL Beginnt am] und klicken Sie auf [!UICONTROL Erweiterte Optionen].
-1. Wählen Sie in [!UICONTROL &#x200B; Dropdown-] „Feldformat[!UICONTROL &#x200B; „10/17/60 3:00 AM“].
+1. Wählen Sie im Dropdown-Menü [!UICONTROL Feldformat] die Option [!UICONTROL „17.10.60 3:00 Uhr“].
 1. Wählen Sie die Spalte [!UICONTROL Fällig am] und klicken Sie auf [!UICONTROL Erweiterte Optionen].
-1. Wählen Sie in [!UICONTROL &#x200B; Dropdown-] „Feldformat[!UICONTROL &#x200B; „10/17/60 3:00 AM“].
+1. Wählen Sie im Dropdown-Menü [!UICONTROL Feldformat] die Option [!UICONTROL „17.10.60 3:00 Uhr“].
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ### Aktivität 4: Erstellen einer aktiven Statusansicht einer Projektvorlage

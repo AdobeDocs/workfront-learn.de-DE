@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Wann ein Matrix-Bericht nützlich sein kann
 * Und wie man einen Matrix-Bericht erstellt
 
->[!VIDEO](https://video.tv.adobe.com/v/3448192/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 
