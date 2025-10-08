@@ -11,7 +11,7 @@ jira: KT-8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ In diesem Video werden Sie:
 
 * Eine Einführung dazu erhalten, was Sie in anderen Videos zum Thema „[!DNL Workfront] für [!DNL Slack]“ lernen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435924/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

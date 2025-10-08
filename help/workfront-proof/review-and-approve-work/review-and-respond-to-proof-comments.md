@@ -12,7 +12,7 @@ jira: KT-8839
 exl-id: be205a02-2f77-4598-ae15-31463d1ce8e1
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Anzeigen von Korrekturabzugskommentare im Abschnitt [!UICONTROL Aktualisierungen]
 * Antworten auf einen Korrekturabzugskommentar im Abschnitt [!UICONTROL Aktualisierungen]
 
->[!VIDEO](https://video.tv.adobe.com/v/3438662/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops=1)

@@ -12,7 +12,7 @@ jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie den Bereich der [!UICONTROL Startseite] der Benutzenden anpassen, damit sie schnell und einfach auf Arbeit zugreifen und sie verfolgen, genehmigen und aktualisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432788/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
 
 <br>
 </br>
@@ -37,4 +37,4 @@ In diesem Video lernen Sie Folgendes:
 * Entfernen von Elementen aus der [!UICONTROL Startseite]
 * Hinzufügen von Elementen zur [!UICONTROL Startseite]
 
->[!VIDEO](https://video.tv.adobe.com/v/3432315/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)

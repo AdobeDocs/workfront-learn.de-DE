@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ In diesem Video wird beschrieben, wie Sie digitale Arbeiten mit dem Widget „Wa
 
 Im Video wird der Schwerpunkt auf die Flexibilität bei der Überprüfung und Genehmigung von Arbeiten gelegt und hervorgehoben, dass Optionen zum Hinzufügen von Kommentaren und ggf. zum Festlegen von Änderungen verfügbar sind. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3444955/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

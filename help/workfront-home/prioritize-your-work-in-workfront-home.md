@@ -12,7 +12,7 @@ jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Markieren von Arbeit als vorrangige Arbeitsaufträge
 * Filtern der [!UICONTROL Arbeitsliste], um nur vorrangige Arbeiten zu sehen
 
->[!VIDEO](https://video.tv.adobe.com/v/3438541/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)

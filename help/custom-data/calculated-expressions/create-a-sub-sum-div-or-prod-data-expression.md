@@ -12,9 +12,9 @@ jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -57,7 +57,7 @@ Der ROUND-Ausdruck enthält den Namen des Ausdrucks (ROUND) und in der Regel zwe
 
 Ein Ausdruck ist wie folgt strukturiert: ROUND(Datenpunkt, #)
 
-Verwenden Sie im Ausdruck zur Berechnung der Differenz zwischen geplanten und tatsächlichen Stunden diesen Ausdruck - DIV({workRequired},{actualWorkRequired}),60) - als ersten Datenpunkt. Stellen Sie dann sicher, dass die Zahl, die von diesem Ausdruck stammt, auf höchstens 2 Dezimalstellen gerundet wird.
+In dem Ausdruck, der die Differenz zwischen Soll- und Ist-Stunden berechnet, verwenden Sie folgenden Ausdruck als ersten Datenpunkt: DIV(SUB({workRequired},{actualWorkRequired}),60). Stellen Sie dann sicher, dass die Zahl, die von diesem Ausdruck stammt, auf höchstens 2 Dezimalstellen gerundet wird.
 
 ![Workload Balancer mit Nutzungsbericht](assets/round03.png)
 

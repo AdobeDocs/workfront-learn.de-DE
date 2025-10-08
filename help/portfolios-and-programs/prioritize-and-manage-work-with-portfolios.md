@@ -13,7 +13,7 @@ role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ In diesem Video wird beschrieben, wie Sie mit dem Tool „Portfolio-Optimierung�
 
 Im Video wird der Schwerpunkt auf die Bedeutung von Business-Cases für genaue Vergleiche gelegt, und es bietet schrittweise Anweisungen zur effektiven Optimierung und zum effektiven Management von Projektprioritäten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446284/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

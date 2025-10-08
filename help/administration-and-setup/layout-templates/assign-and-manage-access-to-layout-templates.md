@@ -12,7 +12,7 @@ jira: KT-8766
 exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Zuweisen von Layout-Vorlagen zu Benutzenden, Gruppen oder Teams
 * Steuern, wer den Zugriff auf Layout-Vorlagen verwalten kann
 
->[!VIDEO](https://video.tv.adobe.com/v/3432327/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)

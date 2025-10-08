@@ -11,7 +11,7 @@ jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Verstehen, wann Benutzende von [!UICONTROL Workfront DAM] ihre eigenen Schlüsselwörter eingeben können
 * Einrichten von Suchfacetten
 
->[!VIDEO](https://video.tv.adobe.com/v/3419501/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops=1)

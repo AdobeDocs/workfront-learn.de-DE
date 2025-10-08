@@ -14,7 +14,7 @@ jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video wird beschrieben, wie Sie ein Projekt kopieren, anstatt eine Vor
 Probleme können während dieses Vorgangs nicht direkt kopiert werden, da diese nicht als geplante Arbeit betrachtet werden. Navigieren Sie zum Kopieren von Problemen zur Registerkarte „Probleme“, wählen Sie die gewünschten Probleme aus und verwenden Sie die Option „Kopieren in“, um sie in das neue Projekt zu übertragen. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456047/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

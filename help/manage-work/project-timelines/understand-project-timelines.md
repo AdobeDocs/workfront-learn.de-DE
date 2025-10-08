@@ -14,7 +14,7 @@ jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '701'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Was Sie lernen werden:
 * Es stehen verschiedene Ansichten in Workfront zur Verfügung, z. B. die Standardansicht für die Planung und die Statusansicht für die Überwachung. Diese enthalten Flags für Fortschritt, Kommentare, Dokumente, Probleme, Genehmigungen, kritische Pfade und Meilensteine. Die letzten Aktivitäten können nachverfolgt werden, um Aktualisierungen und Notizen anzuzeigen.
 * Die Planung kann ab einem Start- oder Fertigstellungsdatum erfolgen. Workfront berechnet dabei die entsprechenden Daten anhand der Aufgabenlaufzeiten und Vorgänger. Im Video wird empfohlen, bei kritischen Fertigstellungsdaten ausgehend von einem Startdatum zu planen, um einen gewissen Spielraum zu ermöglichen. Aufgabenbeschränkungen wie „So bald wie möglich“ und „So spät wie möglich“ werden ebenfalls behandelt, einschließlich einer Beschreibung, wie sich diese auf die Aufgabenplanung auswirken. Es können benutzerdefinierte Ansichten erstellt werden, um Aufgabenbeschränkungen anzuzeigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435844/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

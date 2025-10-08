@@ -12,7 +12,7 @@ jira: KT-8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '236'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen eines Workflows beim Generieren des Korrekturabzugs
 * Hinzufügen oder Bearbeiten eines Workflows nach der Erstellung des Korrekturabzugs
 
->[!VIDEO](https://video.tv.adobe.com/v/3443478/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
 
 
 ## Wer kann Dokumente hochladen?

@@ -12,7 +12,7 @@ jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '313'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ In diesem Video werden Sie:
 * Siehe Ansicht [!UICONTROL Nach Projekt anzeigen]
 * Erfahren Sie, wie Ressourceninformationen in dieser Ansicht angezeigt werden
 
->[!VIDEO](https://video.tv.adobe.com/v/3432535/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops=1)
 
 Bei der Option „Nach Projekt anzeigen“ wird standardmäßig die Spalte „Geplant“ angezeigt, die die geschätzte Anzahl der für ein Projekt benötigten Ressourcen aus einem Business-Case abruft, wenn dieser ausgefüllt wurde. Dies bedeutet auch, dass die Spalte „Netto“ standardmäßig die Zahlen aus der Spalte „Budgetiert“ verwendet, um Ihnen mitzuteilen, wie viele Ressourcen noch übrig sind.
 

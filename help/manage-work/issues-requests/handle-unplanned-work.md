@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 Im Video wird der Schwerpunkt auf die Bedeutung der Kommunikation im Projekt-Management gelegt und die Rolle von Problemen als Schlüsselinstrumenten für eine einfachere Kommunikation hervorgehoben. Es wird der Unterschied zwischen Aktualisierungen und Problemen erklärt und darauf hingewiesen, dass Probleme besser für Arbeiten geeignet sind, die zugewiesen, nachverfolgt und gelöst werden müssen, bevor ein Projekt abgeschlossen werden kann. Das Video enthält eine schrittweise Anleitung zum Protokollieren von Problemen. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446575/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 In diesem Video wird beschrieben, wie Sie mithilfe der Funktion „Arbeitsaufwand“ in Workfront die geplanten Stunden für Aufgaben abschätzen können, wenn eine genaue Schätzung schwierig ist.
 Es zeigt, wie Sie eine benutzerdefinierte Ansicht des Arbeitsaufwands erstellen, um das Aufgaben-Management zu optimieren, indem relevante Spalten wie „Arbeitsaufwand“, „Geplante Stunden“ und „Dauer – Typ“ hinzugefügt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447408/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

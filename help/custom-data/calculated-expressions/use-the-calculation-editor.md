@@ -12,7 +12,7 @@ jira: KT-9506
 exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Funktionen des Berechnungs-Editors
 * Erstellen eines ADDWEEKDAYS-Datumsausdrucks in einem berechneten Feld mit dem Berechnungs-Editor
 
->[!VIDEO](https://video.tv.adobe.com/v/3418632/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on&enablevpops=1)

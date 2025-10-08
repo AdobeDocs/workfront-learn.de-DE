@@ -14,7 +14,7 @@ jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Hochladen eines Dokuments
 * Finden von Schulungen zum Hochladen von Korrekturabzügen
 
->[!VIDEO](https://video.tv.adobe.com/v/3440379/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

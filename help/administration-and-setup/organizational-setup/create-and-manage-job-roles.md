@@ -12,7 +12,7 @@ doc-type: video
 last-substantial-update: 2023-03-27T00:00:00Z
 exl-id: ac72827b-6a65-473a-a5ac-7d0771230d63
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Wie Sie Aufgabengebiete erstellen.
 * Wie Sie Aufgabengebiete auf Benutzende anwenden, damit sie der richtigen Arbeit zugewiesen werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452435/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops=1)

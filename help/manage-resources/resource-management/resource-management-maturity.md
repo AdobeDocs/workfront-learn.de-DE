@@ -12,7 +12,7 @@ jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '363'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Einige von Ihnen sind jedoch auf dem Weg, das Ressourcen-Management zu beherrsch
 
 ## Die vier Reifephasen des Ressourcen-Managements
 
->[!VIDEO](https://video.tv.adobe.com/v/3431659/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops=1)
 
 
 ## Wie geht es nun weiter?

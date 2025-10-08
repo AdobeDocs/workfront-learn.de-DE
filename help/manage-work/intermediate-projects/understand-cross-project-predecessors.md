@@ -13,7 +13,7 @@ jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
 ht-degree: 100%
 
@@ -35,6 +35,6 @@ In diesem Video lernen Sie Folgendes:
 * Wie ein projektübergreifender Vorgänger erstellt wird
 * Wie projektübergreifende Vorgänger in Berichten nachverfolgt werden
 
->[!VIDEO](https://video.tv.adobe.com/v/3422835/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 Erfahren Sie, wie Sie **projektübergreifende Vorgänger und Nachfolger** erstellen und den Bericht **Projektübergreifende Vorgänger und Nachfolger** anzeigen, der im Video verwendet wird. Sehen Sie sich gegebenenfalls das Tutorial [Grundlegendes zum einfachen Textmodus für Ansichten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=de) an und stellen Sie sicher, dass Sie die vorausgesetzten Tutorials absolviert haben, die dort aufgeführt sind.

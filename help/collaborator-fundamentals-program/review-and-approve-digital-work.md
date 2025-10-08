@@ -7,7 +7,7 @@ team: Technical Marketing
 jira: KT-8808
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ In diesem Video lernen Sie Folgendes:
 * Erteilen von Genehmigungen für Dokumente
 * Erteilen von Genehmigungen für Korrekturabzüge
 
->[!VIDEO](https://video.tv.adobe.com/v/3444955/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

@@ -11,7 +11,7 @@ jira: KT-8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Einrichten einer Metadatenvorlage
 * Anwenden einer Vorlage auf einen Ordner
 
->[!VIDEO](https://video.tv.adobe.com/v/3419481/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on&enablevpops=1)

@@ -12,7 +12,7 @@ jira: KT-8879
 exl-id: f4d97236-7652-4877-bca3-d935760b6dbc
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Um ihre Mitarbeitenden wirklich zu befähigen, müssen Managerinnen und Manager 
 Diese Aufgabe kann jedoch mit dem Workfront-Ressourcenplaner ein wenig leichter werden.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3437263/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops=1)

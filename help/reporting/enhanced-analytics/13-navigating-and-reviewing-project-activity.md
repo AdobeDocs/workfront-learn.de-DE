@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Vergleichen von Projekten anhand von angemeldeten Benutzenden, Änderungen des Aufgabenstatus und abgeschlossenen Aufgaben
 
->[!VIDEO](https://video.tv.adobe.com/v/3437445/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
 
 ## Vergleichen von Projektarbeit
 

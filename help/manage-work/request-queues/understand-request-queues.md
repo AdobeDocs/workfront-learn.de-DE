@@ -14,7 +14,7 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 In diesem Video werden das Konzept der Anfrage-Warteschlangen in Workfront, ihr Zweck und das Senden sowie Verwalten von Anfragen beschrieben. Anfrage-Warteschlangen dienen als zentraler Ort für die Übermittlung verschiedener Anfragetypen. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447019/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

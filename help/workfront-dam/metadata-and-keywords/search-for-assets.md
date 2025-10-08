@@ -11,7 +11,7 @@ jira: KT-8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Planen für die Pflege von Metadaten und Schlüsselwörtern
 * Etablieren von Best Practices für [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/3419473/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on&enablevpops=1)

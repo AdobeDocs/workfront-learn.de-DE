@@ -12,7 +12,7 @@ jira: KT-8757
 exl-id: 1a48aa59-ae69-4bd9-843c-8edfc0bdb517
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen von Firmen in Workfront
 * Erstellung von Firmen und Verbänden
 
->[!VIDEO](https://video.tv.adobe.com/v/3432854/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops=1)

@@ -11,7 +11,7 @@ jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Zusammenarbeiten mit einer Lightbox
 * Freigeben des Inhalts einer Lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/3432177/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
 
 ## Ordner im Vergleich zu Lightboxes
 

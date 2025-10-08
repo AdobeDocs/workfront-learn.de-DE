@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '247'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ In diesem Video wird beschrieben, wie Sie den allgemeinen Projektfortschritt mit
 
 Das Video hebt die Bedeutung regelmäßiger Aktualisierungen durch die Team-Mitglieder und eines proaktiven Problem-Managements hervor, um ein genaues Tracking und den fristgerechten Abschluss von Projekten sicherzustellen. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447419/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

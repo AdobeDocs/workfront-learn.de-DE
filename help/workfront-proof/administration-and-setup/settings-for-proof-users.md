@@ -12,7 +12,7 @@ jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Anpassen der Korrekturabzugs-Benutzereinstellungen in [!DNL  Workfront]
 * Anpassen der Korrekturabzugs-Benutzereinstellungen in der Backend-Einrichtung für das Proofing
 
->[!VIDEO](https://video.tv.adobe.com/v/3432921/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Lean More URLs

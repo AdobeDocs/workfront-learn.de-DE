@@ -11,7 +11,7 @@ level: Beginner
 exl-id: e6070383-abda-466a-b490-ed9699a4befe
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie für eine Pinnwand Spalteneinstellungen hinzufügen und bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422930/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops=1)

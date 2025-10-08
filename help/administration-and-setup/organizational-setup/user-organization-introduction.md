@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 jira: KT-8756
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ In diesem Video lernen Sie Folgendes:
 * Gruppen
 * Teams
 
->[!VIDEO](https://video.tv.adobe.com/v/3444283/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops=1)
 
 Bevor Sie mit der Benutzerorganisation in [!DNL Workfront] beginnen, sollten Sie sich mit einigen Schlüsselbegriffen vertraut machen.
 

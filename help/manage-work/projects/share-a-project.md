@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
 ht-degree: 100%
 
@@ -41,7 +41,7 @@ In diesem Video wird beschrieben, wie Sie Projekte in Workfront effektiv freigeb
 
 Im Video wird der Schwerpunkt auf die Verwendung von Teams und Vorlagen für ein effizientes Freigabe-Management gelegt und die Rolle von Admins beim Anpassen der Freigabeeinstellungen hervorgehoben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423148/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

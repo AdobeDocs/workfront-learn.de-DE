@@ -12,7 +12,7 @@ exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '316'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ In diesem Video lernen Sie Folgendes:
 * Detaillierte und gemeinsam nutzbare Dokumentation erstellen
 * Testtiefe, -breite, -komplexität und -belastung
 
->[!VIDEO](https://video.tv.adobe.com/v/3418733/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
 
 ## Checkliste der Testüberlegungen
 

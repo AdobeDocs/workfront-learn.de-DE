@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video werden Aufgabenlaufzeiten in Workfront, ihre Auswirkungen auf di
 Workfront empfiehlt die Verwendung von Laufzeiten und Vorgängern zum Erstellen von Timelines für Aufgaben statt dem manuellen Festlegen von Beschränkungen, da Einschränkungen automatische Anpassungen verhindern können.Präzise Laufzeiten sind entscheidend für eine effektive Projektplanung und ein effektives Ressourcen-Management.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449352/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 
