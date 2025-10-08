@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Grundlegendes dazu, warum Platzhalter verwendet werden
 * Erstellen eines Filters mit einem benutzerbasierten Platzhalter
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418626/?quality=12&learn=on&captions=ger)
 
 >[!TIP]
 >

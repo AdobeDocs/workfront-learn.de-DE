@@ -24,7 +24,7 @@ ht-degree: 100%
 In diesem Video wird erläutert, wie Sie in Workfront Gruppierungen erstellen und verwalten können, um Projektlisten effektiv zu organisieren. Gruppierungen sind neben Filtern und Ansichten eines der drei Hauptberichtselemente und helfen, Ergebnisse auf der Grundlage von freigegebenen Informationen zu organisieren. 
 In diesem Tutorial werden praktische Schritte zum Organisieren von Projektlisten beschrieben, die die tägliche Arbeit und Zusammenarbeit optimieren. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449824/?quality=12&learn=on&captions=ger)
 
 ## Die wichtigsten Punkte
 
