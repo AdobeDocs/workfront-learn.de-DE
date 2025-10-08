@@ -13,7 +13,7 @@ jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ In diesem Video werden Sie:
 * Erfahren Sie mehr über einige nützliche Elemente zur Aufgabenberichterstellung
 * Erfahren Sie, wie Sie einen eigenen Aufgabenfilter erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/3418629/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## Aktivitäten: Grundlegendes zu integrierten Aufgabenfiltern
 

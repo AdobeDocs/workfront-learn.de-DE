@@ -12,7 +12,7 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '464'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Welche bedingte Formatierung hat eine Ansicht?
 * Erstellen und Ändern einer bedingten Formatierung
 
->[!VIDEO](https://video.tv.adobe.com/v/3445450/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 
 ## Zusammenfassung zur bedingten Formatierung

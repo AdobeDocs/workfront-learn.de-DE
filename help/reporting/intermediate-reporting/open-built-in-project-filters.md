@@ -13,7 +13,7 @@ jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Überprüfen der integrierten Projektfilter, um zu sehen, wie sie erstellt wurden
 * Erstellen eines eigenen Projektfilters mit dem, was Sie gelernt haben
 
->[!VIDEO](https://video.tv.adobe.com/v/3418628/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
 ## Aktivitäten: Grundlegendes zu integrierten Projektfiltern
 

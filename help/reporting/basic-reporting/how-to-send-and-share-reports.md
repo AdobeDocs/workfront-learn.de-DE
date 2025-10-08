@@ -13,7 +13,7 @@ last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '354'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie Berichte für andere freigegeben werden
 * Was die Empfängerinnen und Empfänger in einem Workfront-Bericht sehen und was sie damit tun können
 
->[!VIDEO](https://video.tv.adobe.com/v/3447821/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
 ## Die wichtigsten Punkte
 

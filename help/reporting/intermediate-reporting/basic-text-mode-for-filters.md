@@ -13,7 +13,7 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '423'
 ht-degree: 100%
 
@@ -41,7 +41,7 @@ In diesem Video lernen Sie Folgendes:
 * Binnenmajuskel
 * Einige _Code-Blöcke für den Textmodus_, die Sie in Berichtsfiltern verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3418630/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Filter
 
