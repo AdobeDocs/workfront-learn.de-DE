@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen von Kommentaren zum Korrekturabzug einer statischen Website
 * Erstellen von Kommentaren zum Korrekturabzug einer interaktiven Website
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445971/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 <!--
 ## Learn more

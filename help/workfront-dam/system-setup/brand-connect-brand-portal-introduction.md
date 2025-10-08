@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Festlegen des Ablaufdatums für einzelne Assets
 * Bearbeiten von Asset-Einstellungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419544/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Asset-Ordner
 

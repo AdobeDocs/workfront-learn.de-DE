@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen benutzerdefinierter Brand Connect-Seiten
 * Anpassen von Optionen in der Navigationsleiste
 
->[!VIDEO](https://video.tv.adobe.com/v/335243/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418768/?quality=12&learn=on&enablevpops=1&captions=ger)

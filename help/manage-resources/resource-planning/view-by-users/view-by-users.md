@@ -26,4 +26,4 @@ In diesem Video werden Sie:
 * Erfahren Sie, wie Ressourceninformationen in dieser Ansicht angezeigt werden
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443815/?quality=12&learn=on&enablevpops=1&captions=ger)

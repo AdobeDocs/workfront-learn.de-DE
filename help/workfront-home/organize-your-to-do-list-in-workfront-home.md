@@ -31,7 +31,7 @@ In diesem Video lernen Sie Folgendes:
 * Identifizieren von startbereiter Arbeit
 * Akzeptieren von Arbeitsaufträgen
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445087/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 >[!NOTE]
 >

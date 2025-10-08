@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 
 * Verwendung von Flugplänen, Burndown-Charts und Aufgaben durch Endbenutzende in Flugdiagrammen
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437698/?quality=12&learn=on&enablevpops=1&captions=ger)

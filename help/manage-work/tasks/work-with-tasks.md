@@ -23,7 +23,7 @@ ht-degree: 100%
 
 Dieses Video enthält eine detaillierte Anleitung für das Aufgaben-Management in Workfront. Der Schwerpunkt liegt auf einem effizienten Aufgaben-Management, einschließlich des Bearbeitens, Löschens, Hinzufügens, Duplizierens und Umstrukturierens von Aufgaben innerhalb eines Projektplans.
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448565/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Die wichtigsten Punkte
 

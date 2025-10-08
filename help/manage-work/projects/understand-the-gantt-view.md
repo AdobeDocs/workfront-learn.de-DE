@@ -40,7 +40,7 @@ In diesem Video wird beschrieben, wie Sie Projekte und Aufgaben mit den Gantt-Di
 
 Im Video wird der Schwerpunkt auf die Flexibilität von Gantt-Diagrammen gelegt, durch die Benutzende Ansichten anpassen und mehrere Elemente gleichzeitig anzeigen können und so ein besseres Projekt-Management ermöglicht wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448015/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 Weitere Informationen finden Sie online im Artikel [Erste Schritte mit dem Gantt-Diagramm](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=de).
 

@@ -25,4 +25,4 @@ Um ihre Mitarbeitenden wirklich zu befähigen, müssen Managerinnen und Manager 
 Diese Aufgabe kann jedoch mit dem Workfront-Ressourcenplaner ein wenig leichter werden.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437263/?quality=12&learn=on&enablevpops=1&captions=ger)

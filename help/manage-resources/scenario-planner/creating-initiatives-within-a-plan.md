@@ -22,4 +22,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie in [!DNL Scenario Planner] Initiativen im Rahmen eines Plans erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335319/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418623/?quality=12&learn=on&enablevpops=1&captions=ger)

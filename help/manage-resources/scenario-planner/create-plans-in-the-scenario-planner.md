@@ -22,7 +22,7 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie mit dem [!DNL Scenario Planner] einen Plan erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418622/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Abschätzen der Informationen zum Aufgabengebiet für einen Plan
 

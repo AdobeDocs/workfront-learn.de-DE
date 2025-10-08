@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Zuweisen von Layout-Vorlagen zu Benutzenden, Gruppen oder Teams
 * Steuern, wer den Zugriff auf Layout-Vorlagen verwalten kann
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432327/?quality=12&learn=on&enablevpops=1&captions=ger)

@@ -23,7 +23,7 @@ ht-degree: 100%
 
 In diesem Video werden die abschließenden Schritte für das Live-Schalten eines Projekts beschrieben. Hierzu wird der Status in „Aktuell“ geändert. Es wird darauf hingewiesen, dass vorher die wichtigsten Projektelemente wie Aufgabennamen, Laufzeiten, geplante Stunden, Vorgänger, Start- und Fertigstellungsdaten und Arbeitsaufträge überprüft werden sollten, um sicherzustellen, dass alles korrekt und richtig festgelegt ist. Sobald das Projekt live ist, erhält die Projektleiterin bzw. der Projektleiter Benachrichtigungen auf der Grundlage der globalen und persönlichen Einstellungen, und das Projekt wird in Berichten und Filtern für aktive Projekte angezeigt. Dies markiert den offiziellen Beginn der Arbeiten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438999/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Die wichtigsten Punkte
 

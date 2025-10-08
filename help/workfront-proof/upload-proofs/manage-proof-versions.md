@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Herunterladen aller Versionen eines Korrekturabzugs
 * Löschen einer Korrekturabzugsversion
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438651/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 <!--
 ## Learn more

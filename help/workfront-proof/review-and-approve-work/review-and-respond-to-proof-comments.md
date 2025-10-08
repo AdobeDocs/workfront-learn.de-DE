@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Anzeigen von Korrekturabzugskommentare im Abschnitt [!UICONTROL Aktualisierungen]
 * Antworten auf einen Korrekturabzugskommentar im Abschnitt [!UICONTROL Aktualisierungen]
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438662/?quality=12&learn=on&enablevpops=1&captions=ger)

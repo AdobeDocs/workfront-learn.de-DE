@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Erfahren Sie mehr über den Zweck von Zeitplänen, deren Erstellung und Bearbeitung sowie zusätzliche Einstellungen, um besser bestimmen zu können, wann Arbeit geleistet werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423339/?quality=12&learn=on&enablevpops=1&captions=ger)
 

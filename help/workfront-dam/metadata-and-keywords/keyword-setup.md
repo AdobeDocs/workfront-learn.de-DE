@@ -25,7 +25,7 @@ In diesem Video werden Sie:
 * Einrichten einer Schlüsselwort-Liste
 * Erstellen und Importieren einer Schlüsselwort-Liste
 
->[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419509/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Schlüsselwörter – Best Practices
 

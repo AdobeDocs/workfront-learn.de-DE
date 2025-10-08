@@ -23,4 +23,4 @@ In diesem Video lernen Sie Folgendes:
 
 * Zuweisen von Aufgaben in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441526/?quality=12&learn=on&enablevpops=1&captions=ger)

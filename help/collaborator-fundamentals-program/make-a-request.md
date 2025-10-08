@@ -22,7 +22,7 @@ In diesem Video lernen Sie Folgendes:
 * Eingereichte Anfragen anzeigen
 * Einen Entwurf einer Anfrage finden
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470919/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Schnell und einfach auf die Pfade in der Anfrage-Warteschlange zugreifen
 

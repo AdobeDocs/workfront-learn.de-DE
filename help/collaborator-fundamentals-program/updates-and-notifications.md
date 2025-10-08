@@ -20,7 +20,7 @@ In diesem Video lernen Sie Folgendes:
 * Eigene Aktualisierungen von Validierungsanfragen
 * Nach Benachrichtigungen suchen
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440156/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 <!--
 learn more URLS

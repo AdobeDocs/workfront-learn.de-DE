@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Navigieren zum Projektdetailbereich
 * Anpassen von Projektdetailfeldern mithilfe einer Layout-Vorlage
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432905/?quality=12&learn=on&enablevpops=1&captions=ger)

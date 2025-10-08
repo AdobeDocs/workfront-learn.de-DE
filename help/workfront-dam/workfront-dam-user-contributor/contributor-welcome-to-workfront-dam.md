@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Was Sie in diesem Kurs lernen werden
 * Was [!UICONTROL Workfront DAM] ist und wie Sie es verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445708/?quality=12&learn=on&enablevpops=1&captions=ger)

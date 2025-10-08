@@ -25,7 +25,7 @@ Das Video enthält eine Anleitung zum effektiven Planen eines Projekts in Workfr
 
 In diesem Video liegt der Schwerpunkt auf der Bedeutung realistischer Timelines, der Verfügbarkeit von Teams und einer präzisen Planung, um eine solide Grundlage für den Projekterfolg zu schaffen. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448576/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Die wichtigsten Punkte
 

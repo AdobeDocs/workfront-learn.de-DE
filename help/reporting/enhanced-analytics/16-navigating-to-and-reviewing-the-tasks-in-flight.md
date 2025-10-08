@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Zugriff auf die Aufgaben im Flugdiagramm
 * So ermitteln Sie schnell, welche Aufgaben in einem Projekt noch nicht abgeschlossen wurden
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437009/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Daten auf Aufgabenebene
 

@@ -23,5 +23,5 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie festlegen, wer ein benutzerdefiniertes Feld anzeigen und/oder bearbeiten kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446551/?quality=12&learn=on&enablevpops=1&captions=ger)
 

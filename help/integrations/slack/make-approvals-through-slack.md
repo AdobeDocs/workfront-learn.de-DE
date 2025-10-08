@@ -23,4 +23,4 @@ In diesem Video lernen Sie Folgendes:
 
 * Genehmigungen über [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436370/?quality=12&learn=on&enablevpops=1&captions=ger)

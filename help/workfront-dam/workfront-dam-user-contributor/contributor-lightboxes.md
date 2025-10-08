@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Zusammenarbeiten mit einer Lightbox
 * Freigeben des Inhalts einer Lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432177/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Ordner im Vergleich zu Lightboxes
 

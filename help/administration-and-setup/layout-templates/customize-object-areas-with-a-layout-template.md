@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen von Elementen zum Menü des linken Bedienfelds
 * Neuanordnen von Elementen im Bedienfeldmenü
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432887/?quality=12&learn=on&enablevpops=1&captions=ger)

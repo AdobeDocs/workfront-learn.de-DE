@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie funktionsübergreifende Teams verwendet werden
 * Wie Teams erstellt und verknüpft werden
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432876/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Erstellen eines Teams
 

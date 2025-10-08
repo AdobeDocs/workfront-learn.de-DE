@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Verschaffen Sie sich ein besseres Verständnis dafür, was eine Pinnwand ist und wie sie Ihnen und/oder Ihrem Team bei der Bewältigung der Arbeit helfen kann. Hier erfahren Sie, wo Sie auf Pinnwände zugreifen und wie Sie eine einfache Pinnwand erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422939/?quality=12&learn=on&enablevpops=1&captions=ger)

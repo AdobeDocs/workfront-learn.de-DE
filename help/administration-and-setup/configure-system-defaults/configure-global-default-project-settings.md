@@ -30,7 +30,7 @@ In diesem Video lernen Sie Folgendes:
 * Festlegen von globalen Projektvoreinstellungen
 * Erstellen und Verwenden von Zeitplänen
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423348/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Globale und Gruppeneinstellungen für Projekte, Aufgaben und Probleme
 

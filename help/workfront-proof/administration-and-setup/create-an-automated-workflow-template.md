@@ -28,7 +28,7 @@ In diesem Video lernen Sie Folgendes:
 * Festlegen einer Frist für den Prüf- und Genehmigungsvorgang
 * Freigeben der automatisierten Workflow-Vorlage für andere
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454260/?quality=12&learn=on&enablevpops=1&captions=ger)
 
 ## Zusätzliche Optionen für die Stufenaktivierung
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, was ein Tag ist und warum es nützlich ist sowie wie Sie Tags erstellen, löschen, hinzufügen und entfernen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423030/?quality=12&learn=on&enablevpops=1&captions=ger)

@@ -25,4 +25,4 @@ In diesem Video lernen Sie Folgendes:
 * Markieren von Arbeit als vorrangige Arbeitsaufträge
 * Filtern der [!UICONTROL Arbeitsliste], um nur vorrangige Arbeiten zu sehen
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438541/?quality=12&learn=on&enablevpops=1&captions=ger)
