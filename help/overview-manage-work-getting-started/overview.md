@@ -26,7 +26,7 @@ Beginnen Sie Ihren Workfront-Journey, indem Sie lernen, Projekte zu erstellen un
 
 In diesem Tutorial erfahren Sie, wie Sie ein Projekt erstellen, ein Projekt planen, ein Projekt verwalten und ein Projekt schließen.
 
-Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=de)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
+Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=de)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
 
 >[!PREREQUISITES]
 >
@@ -37,7 +37,7 @@ Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - ](https://expe
 
 Erfahren Sie, was ein Projekt in Adobe Workfront ist, wie Sie es einrichten und ausführen und wie Sie ein Projekt am häufigsten erstellen.
 
-* [Grundlegendes zur einfachen ](understand-basic-project-creation.md): Erfahren Sie mehr über die vier Schritte zum Einrichten und Ausführen eines Projekts, die Definition eines Projekts in Adobe Workfront und die häufigsten Methoden zum Erstellen eines Projekts.
+* [Grundlegendes zur einfachen &#x200B;](understand-basic-project-creation.md): Erfahren Sie mehr über die vier Schritte zum Einrichten und Ausführen eines Projekts, die Definition eines Projekts in Adobe Workfront und die häufigsten Methoden zum Erstellen eines Projekts.
 * [Problem/Anfrage in ein Projekt konvertieren](create-a-project-from-a-request.md) - Erfahren Sie, wie Sie die Konvertierung von einer Anfrage in ein Projekt initiieren und die entsprechende Projektvorlage auswählen.
 * [Vier Möglichkeiten zum Erstellen eines Projekts](understand-other-ways-to-create-projects.md) - Erfahren Sie, wie Sie ein Projekt aus einer Vorlage erstellen, ein Projekt von Grund auf neu erstellen, ein vorhandenes Projekt kopieren oder eine [!DNL Microsoft Project]-Datei importieren.
 * [Ausfüllen der Projektdetails](fill-in-the-project-details.md) - Erfahren Sie mehr über die Projektdetailfelder, die Adobe Workfront Ihnen empfiehlt, beim Erstellen eines Projekts auszufüllen.

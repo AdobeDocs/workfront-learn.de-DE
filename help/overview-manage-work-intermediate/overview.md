@@ -38,7 +38,7 @@ Vertiefen Sie Ihre Kenntnisse, um mehr darüber zu erfahren, wie Sie Workfront o
 >
 >* Grundlegendes zur Verwendung von Workfront
 >* Standardlizenztyp mit Berechtigungen zum Erstellen von Projekten, die aktiviert sind
->* [Arbeit verwalten - Erste Schritte](https://experienceleague.adobe.com/?lang=de&recommended=Workfront-U-1-2022.1.planners&amp;lang=de)
+>* [Arbeit verwalten - Erste Schritte](https://experienceleague.adobe.com/?lang=de&recommended=Workfront-U-1-2022.1.planners&lang=de)
 
 
 ## Projektvorlagen
