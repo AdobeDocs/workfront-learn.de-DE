@@ -12,8 +12,8 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: ht
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ In diesem Video werden Sie:
 * Mehr über einige nützliche Elemente zur Problemberichterstellung erfahren
 * Lernen, wie Sie einen eigenen Problemfilter erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/3469992/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
 
 
 ## Aktivitäten: Grundlegendes zu integrierten Problemfiltern

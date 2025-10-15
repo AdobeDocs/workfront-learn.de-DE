@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-Tutorials
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
-source-wordcount: '2331'
+source-wordcount: '2339'
 ht-degree: 93%
 
 ---
@@ -242,6 +242,7 @@ ht-degree: 93%
    + Dashboards für die Arbeitsfläche {#canvas-dashboards}
       + [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Erstellen eines KPI-Berichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+      + [Erstellen eines Diagrammberichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [Erstellen eines Tabellenberichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [Hinzufügen bedingter Formatierung zu einem Canvas-Dashboard-Bericht](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
       + [Verwenden eines OR-Filters in einem Canvas Dashboard-Bericht](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

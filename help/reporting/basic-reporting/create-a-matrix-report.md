@@ -12,8 +12,8 @@ jira: KT-8861
 last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: ht
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Wann ein Matrix-Bericht nützlich sein kann
 * Und wie man einen Matrix-Bericht erstellt
 
->[!VIDEO](https://video.tv.adobe.com/v/3448192/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 
