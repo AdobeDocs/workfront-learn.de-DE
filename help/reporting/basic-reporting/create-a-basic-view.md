@@ -25,7 +25,7 @@ In diesem Video wird erläutert, wie Sie in Workfront Ansichten erstellen und an
 
 Das Video hebt die Flexibilität der Ansichten in Workfront hervor und enthält schrittweise Anweisungen zum Erstellen, Anpassen und Verwalten dieser Ansichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450247/?captions=ger&quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 
