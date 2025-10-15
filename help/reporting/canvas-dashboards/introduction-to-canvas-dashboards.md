@@ -23,7 +23,7 @@ ht-degree: 18%
 
 Die Funktion „Arbeitsflächen-Dashboards“ ist eine weitere Möglichkeit, Dashboards in Workfront zu erstellen. Es ist derzeit in der allgemeinen Beta, was bedeutet, dass alle Workfront-Kunden die Funktion verwenden können, wenn sie in der Beta-Version registriert sind. Ein Systemadministrator muss die Registrierung durchführen. In diesem Video wird gezeigt, wie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474029/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 Weitere Informationen finden Sie im Artikel [Übersicht über &#x200B;](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) Dashboards“.
 

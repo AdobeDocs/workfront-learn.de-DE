@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Welche bedingte Formatierung hat eine Ansicht?
 * Erstellen und Ändern einer bedingten Formatierung
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3445450/?captions=ger&quality=12&learn=on&enablevpops=0)
 
 
 ## Zusammenfassung zur bedingten Formatierung
