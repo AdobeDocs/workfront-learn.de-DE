@@ -13,7 +13,7 @@ last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '533'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ In diesem Video wird das Konzept der Reporting-Komponenten in Workfront beschrie
 * **Filterqualifizierer:** Definiert, welche Werte in einen Bericht ein- oder daraus ausgeschlossen werden sollen, z. B. das Anzeigen von Aufgaben mit der Priorität „Hoch“.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447030/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 

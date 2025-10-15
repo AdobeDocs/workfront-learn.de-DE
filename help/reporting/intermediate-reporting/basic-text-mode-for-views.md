@@ -13,7 +13,7 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '651'
 ht-degree: 100%
 
@@ -41,7 +41,7 @@ In diesem Video lernen Sie Folgendes:
 * Was die Binnenmajuskel-Schreibweise ist
 * Einige _Code-Blöcke für den Textmodus_, die Sie in Ihren Berichtsansichten verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3470797/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Ansichten
 

@@ -13,7 +13,7 @@ jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '354'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ In diesem Video lernen Sie Folgendes:
 * Grundlegendes dazu, warum Platzhalter verwendet werden
 * Erstellen eines Filters mit einem benutzerbasierten Platzhalter
 
->[!VIDEO](https://video.tv.adobe.com/v/3418626/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >
