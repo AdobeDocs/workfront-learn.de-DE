@@ -25,7 +25,7 @@ Das Video enthält eine schrittweise Anleitung zum Erstellen eines benutzerdefin
 
 Der daraus resultierende Bericht hilft Benutzenden, sich auf in Verzug geratene Aufgaben zu konzentrieren, bietet Informationen zu Abhängigkeiten und vereinfacht die Navigation zu den Host-Projekten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448351/?captions=ger&quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 
