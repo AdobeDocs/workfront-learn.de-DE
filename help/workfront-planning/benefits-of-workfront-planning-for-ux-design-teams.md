@@ -21,4 +21,4 @@ ht-degree: 70%
 
 Erfahren Sie, wie Workfront Planning die Effizienz des UX-Teams steigert, indem es die Projektverfolgung zentralisiert und die Designarbeit an den Geschäftszielen ausrichtet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452189/?captions=ger&learn=on&enablevpops=1)
