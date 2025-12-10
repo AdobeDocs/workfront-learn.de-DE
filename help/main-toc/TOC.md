@@ -1,8 +1,9 @@
 ---
-user-guide-description: Workfront-Tutorials
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+user-guide-title: Workfront-Tutorials
+user-guide-description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen, Workfront-Funktionen und -Einstellungen besser zu verstehen.
+source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
 workflow-type: tm+mt
-source-wordcount: '2339'
+source-wordcount: '2356'
 ht-degree: 93%
 
 ---
@@ -568,7 +569,6 @@ ht-degree: 93%
 
 
 + Agile {#agile}
-
    + Einführung in das agile Arbeits-Management {#intro-to-agile}
       + [Vorteile der Verwendung von agilem Vorgehen](/help/agile/benefits-of-using-agile.md)
       + [Was ist die Scrum-Methode und wie funktioniert sie?](/help/agile/what-is-the-scrum-methodology.md)

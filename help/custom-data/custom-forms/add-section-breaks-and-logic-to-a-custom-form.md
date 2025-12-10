@@ -3,7 +3,7 @@ title: Hinzufügen von Abschnittsumbrüchen und Logik zu einem benutzerdefiniert
 description: Erfahren Sie, wie Sie Abschnittsumbrüche hinzufügen können, um Ihre benutzerdefinierten Formularfelder zu organisieren, und wie Sie die Logiken „Überspringen“ und „Anzeigen“ verwenden, um Felder bei Bedarf verfügbar zu machen.
 feature: Custom Forms
 topic: Personalization
-role: Leader, Data Architect, Data Engineer, Admin, User
+role: Leader, Developer, Admin, User
 level: Intermediate
 doc-type: Feature Video
 duration: 0
@@ -11,8 +11,8 @@ last-substantial-update: 2024-09-23T00:00:00Z
 jira: KT-14099
 thumbnail: 3425935.jpeg
 exl-id: e9563b1d-e0e4-4d48-97b1-57f154df4ae2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 
