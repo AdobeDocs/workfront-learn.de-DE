@@ -18,5 +18,5 @@ ht-degree: 100%
 
 # Exportieren eines benutzerdefinierten Formulars als PDF
 
->[!VIDEO](https://video.tv.adobe.com/v/3477594/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3477603/?captions=ger&quality=12&learn=on&enablevpops=1)
 
