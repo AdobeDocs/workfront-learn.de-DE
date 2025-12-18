@@ -9,13 +9,14 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8811
 doc-type: video
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integration" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '208'
+source-git-commit: 67237825d4d14091c1664993a65b2658c4f700dd
+workflow-type: tm+mt
+source-wordcount: '174'
 ht-degree: 100%
 
 ---
@@ -25,7 +26,6 @@ ht-degree: 100%
 Integrieren Sie Workfront mit Creative Cloud, um die Ihnen in Adobe Workfront zugewiesenen Aufgaben zu finden und zu aktualisieren, ohne folgende Adobe Creative Cloud-Anwendungen zu verlassen:
 
 * Photoshop
-* XD
 * InDesign
 * Illustrator
 * Premiere Pro
@@ -34,12 +34,7 @@ Integrieren Sie Workfront mit Creative Cloud, um die Ihnen in Adobe Workfront zu
 Sie müssen das richtige Plug-in für die verwendete Adobe Creative Cloud-Anwendung installieren:
 
 * Informationen zu Photoshop finden Sie unter [Installieren und Öffnen von Adobe Workfront for Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=de)
-* Informationen zu XD finden Sie unter [Installieren und Öffnen von Adobe Workfront for XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=de)
 * Informationen zu InDesign, Illustrator, Premiere Pro und After Effects finden Sie unter [Installieren und Öffnen von Adobe Workfront für Design und Video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=de)
-
->[!NOTE]
->
->Für **Premiere Pro** und **After Effects** sind derzeit Video-Uploads sowie Überprüfungen und Genehmigungen in Workfront über das Plug-in nicht verfügbar.
 
 
 In diesem Video erfahren Sie, wie Sie in Ihrer Creative Cloud-App Folgendes tun:
@@ -52,4 +47,4 @@ In diesem Video erfahren Sie, wie Sie in Ihrer Creative Cloud-App Folgendes tun:
 * Zeit erfassen
 * Ihre Arbeit als abgeschlossen kennzeichnen
 
->[!VIDEO](https://video.tv.adobe.com/v/3431668/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
