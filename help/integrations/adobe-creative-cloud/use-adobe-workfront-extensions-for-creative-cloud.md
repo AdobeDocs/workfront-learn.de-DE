@@ -47,4 +47,4 @@ In diesem Video erfahren Sie, wie Sie in Ihrer Creative Cloud-App Folgendes tun:
 * Zeit erfassen
 * Ihre Arbeit als abgeschlossen kennzeichnen
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431668/?captions=ger&quality=12&learn=on&enablevpops=1)
