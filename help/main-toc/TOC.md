@@ -173,10 +173,10 @@ ht-degree: 93%
       + [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
       + [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
-   + Projektzeitleisten {#project-timelines}
-      + [Grundlegendes zu Projektzeitleisten](/help/manage-work/project-timelines/understand-project-timelines.md)
+   + Projekt-Timelines {#project-timelines}
+      + [Grundlegendes zu Projekt-Timelines](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [Verfolgen des Fortschritts über die Projektzeitleiste](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [Verfolgen des Fortschritts über die Projekt-Timeline](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Schließen eines Projekts {#close-a-project}
       + [Ändern des Projektstatus in „abgeschlossen“](/help/manage-work/projects/change-the-project-status.md)
@@ -272,7 +272,7 @@ ht-degree: 93%
 
    + Persönlicher Urlaubskalender {#personal-time-off-calendar}
       + [Warum sollten Sie den Kalender für Ausfallzeiten benutzen?](/help/manage-resources/pto/why-use-time-off-calendar.md)
-      + [Wie sich Ausfallzeiten auf Projektzeitleisten auswirken](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
+      + [Wie sich Ausfallzeiten auf Projekt-Timelines auswirken](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Verwalten der Ausfallzeiten anderer Benutzender](/help/manage-resources/pto/manage-other-users-time-off.md)
       + [Anzeigen der Ausfallzeiten bei der Zuweisung von Aufgaben](/help/manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Sichtbarkeit in Ressourcen-Management-Tools](/help/manage-resources/pto/visibility-in-resource-management-tools.md)
@@ -501,7 +501,7 @@ ht-degree: 93%
       + [Kombinieren mehrerer Dateien zu einem einzigen Korrekturabzug](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
    + Korrekturabzugs-Workflows {#proof-workflows}
-      + [Grundlegendes zu Korrekturabzug-Workflows als Teil von Projektzeitleisten](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
+      + [Grundlegendes zu Korrekturabzug-Workflows als Teil von Projekt-Timelines](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [Bearbeiten eines Korrekturabzug-Workflows](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [Erstellen von Vorlagengruppen, um automatisierte Workflow-Vorlagen zu organisieren](/help/workfront-proof/administration-and-setup/create-template-groups.md)
       + [Erstellen einer automatisierten Workflow-Vorlage](/help/workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
@@ -624,7 +624,7 @@ ht-degree: 93%
    + [Statuswerte](/help/best-practices/statuses-bp.md)
    + [Systemleistung und -wartung](/help/best-practices/system-performance-maintenance-bp.md)
    + [Erstellen von Textmodusberichten](/help/best-practices/test-mode-reporting-bp.md)
-   + [Planen und Verwalten von Zeitleisten](/help/best-practices/timeline-planning-management-bp.md)
+   + [Planen und Verwalten von Timelines](/help/best-practices/timeline-planning-management-bp.md)
    + [Arbeitszeittabellen und Protokollierungszeit](/help/best-practices/timesheets-logging-time-bp.md)
    + [Nutzung](/help/best-practices/utilization-bp.md)
    + [Workfront-Ziele](/help/best-practices/workfront-goals-bp.md)
