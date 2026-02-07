@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zum [!UICONTROL Portfolio-Optimizer]
+title: Optimieren von Projektprioritäten mit dem Portfolio-Optimierungs-Tool
 description: Optimieren Sie das Projekt-Management in Workfront, indem Sie Business-Cases für angemessene Vergleiche abschließen, Projekte nach Status filtern, Bewertungen dynamisch anpassen, Projekte effektiv priorisieren und die Ressourcenplanung an den Portfoliozielen ausrichten.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '283'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '291'
+ht-degree: 94%
 
 ---
 
-# Grundlegendes zum [!UICONTROL Portfolio-Optimizer]
+# Optimieren von Projektprioritäten mit dem Portfolio-Optimierungs-Tool
 
 In diesem Video wird beschrieben, wie Sie mit dem Tool „Portfolio-Optimierung“ in Workfront Projekte innerhalb eines Portfolios auswerten und priorisieren können. Es beginnt mit dem Einreichen eines Business-Cases für ein Projekt, dem Ändern seines Status in „Angefordert“ und dem Aktivieren von Optionen zum Genehmigen oder Ablehnen. Vor der Genehmigung können Benutzende das Projekt mithilfe des Tools „Portfolio-Optimierung“ mit anderen Projekten im Portfolio vergleichen. 
 
 Im Video wird der Schwerpunkt auf die Bedeutung von Business-Cases für genaue Vergleiche gelegt, und es bietet schrittweise Anweisungen zur effektiven Optimierung und zum effektiven Management von Projektprioritäten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446284/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

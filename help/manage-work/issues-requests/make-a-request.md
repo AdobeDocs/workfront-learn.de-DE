@@ -1,5 +1,5 @@
 ---
-title: Stellen einer Anfrage
+title: Erstellen und Verwalten von Anfragen in Workfront
 description: Verbessern Sie die Effizienz in Workfront durch optimierte Anfrageerstellung, anpassbare Workflows, automatisches Speichern von Entwürfen, Tools für Tracking und Filterung sowie die Möglichkeit, Anfragen zu kopieren und wiederzuverwenden.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '254'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '260'
+ht-degree: 95%
 
 ---
 
-# Stellen einer Anfrage
+# Erstellen und Verwalten von Anfragen in Workfront
 
 Das Video enthält eine detaillierte Anleitung zum Erstellen und Verwalten von Anfragen in Workfront. Es beschreibt den Prozess der Anfrageerstellung. Dazu wird zunächst im Hauptmenü die Option „Anfragen“ ausgewählt und anschließend auf die Schaltfläche „Neue Anfrage“ geklickt. Benutzende können einen Anfragetyp aus benutzerdefinierten Warteschlangen auswählen, die auf die Workflows ihrer Organisation zugeschnitten sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470919/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

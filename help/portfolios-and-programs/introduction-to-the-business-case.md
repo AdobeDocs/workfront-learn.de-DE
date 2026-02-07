@@ -1,5 +1,5 @@
 ---
-title: Verstehen des [!UICONTROL Business-Cases]
+title: Erstellen eines umfassenden Business Case
 description: Erstellen Sie umfassende Business-Cases in Workfront, um Projekte zu priorisieren, indem Sie ausführliche Projektinformationen, Ausgaben, Arbeits- und Risikoanalysen, Scorecards und benutzerdefinierte Formulare einschließen, um ein fundiertes Portfolio-Management zu ermöglichen.
 activity: use
 team: Technical Marketing
@@ -12,18 +12,18 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '243'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '245'
+ht-degree: 95%
 
 ---
 
-# Verstehen des [!UICONTROL Business-Cases]
+# Erstellen eines umfassenden Business Case
 
 In diesem Video wird die Bedeutung eines Business-Cases für das Projekt-Management beschrieben. Es wird betont, dass Führungskräfte durch genaue Angaben im Business-Case Projekte analysieren und priorisieren können, die um dieselben Ressourcen konkurrieren. Danach ändert sich bei Übermittlung des Business-Case der Projektstatus in „Angefordert“ und im Tool „Portfolio-Optimierung“ wird das Gesamtergebnis für den Vergleich berechnet. Obwohl keines der Felder obligatorisch ist, tragen ausführlichere Informationen zu einer besseren Entscheidungsfindung bei. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442853/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

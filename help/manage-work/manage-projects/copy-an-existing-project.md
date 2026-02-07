@@ -1,5 +1,5 @@
 ---
-title: Kopieren eines bestehenden Projekts
+title: Effizientes Kopieren eines vorhandenen Projekts
 description: Duplizieren Sie Projekte ganz einfach durch Verwendung der Option „Kopieren“ im Drei-Punkte-Menü, Umbenennen und Festlegen des Status auf „Planung“, Kopieren benutzerdefinierter Daten und Formulare und separates Übertragen von Problemen über die Registerkarte „Probleme“ für maßgeschneiderte Projekt-Setups.
 activity: use
 team: Technical Marketing
@@ -13,20 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 96%
 
 ---
 
-# Kopieren eines bestehenden Projekts
+# Effizientes Kopieren eines vorhandenen Projekts
 
 In diesem Video wird beschrieben, wie Sie ein Projekt kopieren, anstatt eine Vorlage zu verwenden. Um ein Projekt zu kopieren, öffnen Sie das gewünschte Projekt, klicken Sie auf das Drei-Punkte-Menü neben dem Projektnamen und wählen Sie „Kopieren“ aus.  Im Fenster „Projekt kopieren“ können Sie das Projekt umbenennen und seinen Status ändern, in der Regel zu „Planung“. So vermeiden Sie, dass Benachrichtigungen an zugewiesene Benutzende gesendet werden. Sie können auswählen, ob Arbeitsaufträge, Fortschritt, benutzerdefinierte Daten usw. kopiert werden sollen. Klicken Sie zum Abschluss auf „Projekt kopieren“.
 Probleme können während dieses Vorgangs nicht direkt kopiert werden, da diese nicht als geplante Arbeit betrachtet werden. Navigieren Sie zum Kopieren von Problemen zur Registerkarte „Probleme“, wählen Sie die gewünschten Probleme aus und verwenden Sie die Option „Kopieren in“, um sie in das neue Projekt zu übertragen. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456047/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

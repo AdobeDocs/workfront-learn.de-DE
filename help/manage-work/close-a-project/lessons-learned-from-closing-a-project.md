@@ -1,5 +1,5 @@
 ---
-title: Aufzeichnen der gelernten Lektionen
+title: Erfahrungen für zukünftige Projekte aufzeichnen
 description: Erfahren Sie, wie Sie bei Abschluss eines Projekts „Gelernte Lektionen“ nutzen können.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 84%
 
 ---
 
-# Aufzeichnen der gelernten Lektionen
+# Erfahrungen für zukünftige Projekte aufzeichnen
 
 In diesem Video lernen Sie die Vorteile folgender Möglichkeiten kennen:
 
@@ -29,7 +29,7 @@ In diesem Video lernen Sie die Vorteile folgender Möglichkeiten kennen:
 * Erstellen benutzerdefinierter Berichte für „Gelernte Lektionen“
 * Erstellen eines Projekts „Gelernte Lektionen“
 
->[!VIDEO](https://video.tv.adobe.com/v/3441021/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

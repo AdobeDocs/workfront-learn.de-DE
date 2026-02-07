@@ -1,5 +1,5 @@
 ---
-title: Suchen von Projekten
+title: Projekte effizient finden
 description: Vereinfachen Sie das Projekt-Management mit Filtern, Such-Tools, der Liste „Letzte“, Favoriten, angehefteten Projekten und benutzerdefinierten Berichten oder Dashboards für einen schnellen und klar organisierten Zugriff auf Projekte.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '173'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '175'
+ht-degree: 96%
 
 ---
 
-# Suchen von Projekten
+# Projekte effizient finden
 
 In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte suchen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439557/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

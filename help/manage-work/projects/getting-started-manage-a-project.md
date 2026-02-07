@@ -1,5 +1,5 @@
 ---
-title: Erste Schritte beim Projekt-Management
+title: Projekt mit aktuellem Status verwalten
 description: Verfolgen Sie den Projektfortschritt effektiv mit Berichten nach, verwalten Sie Abhängigkeiten über Gantt-Ansichten, überwachen Sie Aufgaben und Genehmigungen, verbessern Sie die Team-Kommunikation und sorgen Sie mit regelmäßigen Aktualisierungen für reibungslose Workflows.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '176'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 93%
 
 ---
 
-# Erste Schritte beim Projekt-Management
+# Projekt mit aktuellem Status verwalten
 
 Das Video gibt einen Überblick über das Management für ein Projekt, nachdem sein Status in „Aktuell“ geändert wurde.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445176/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront-Tutorials
 user-guide-description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen, Workfront-Funktionen und -Einstellungen besser zu verstehen.
-source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '2356'
-ht-degree: 93%
+source-wordcount: '2428'
+ht-degree: 84%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 93%
 
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
       + [Informationen zu gruppenspezifischen Genehmigungsprozessen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-      + [Erstellen von Meilensteinen](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+      + [Erstellen von Meilensteinpfaden und -schritten](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + Systemleistung und -wartung {#system-perfomance-and-maintenance}
       + [Übernahme einer bestehenden Adobe Workfront-Instanz](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -105,44 +105,44 @@ ht-degree: 93%
 
 + Arbeit verwalten {#manage-work}
    + Projekte {#projects}
-      + [Grundlegendes zur Projekterstellung](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [Erstellen und Verwalten eines neuen Projekts](/help/manage-work/projects/understand-basic-project-creation.md)
       + [Navigieren auf der Projektseite](/help/manage-work/projects/navigate-the-project-page.md)
-      + [Vier Möglichkeiten zum Erstellen eines Projekts](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [Ausfüllen der Projektdetails](/help/manage-work/projects/fill-in-the-project-details.md)
-      + [Erste Schritte bei der Projektplanung](/help/manage-work/projects/getting-started-plan-a-project.md)
+      + [Vier Methoden zum Erstellen eines Projekts](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [Wesentliche Projektdetails angeben](/help/manage-work/projects/fill-in-the-project-details.md)
+      + [Effektives Planen eines Projekts in Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [Live-Schalten eines Projekts](/help/manage-work/projects/take-a-project-live.md)
-      + [Erste Schritte bei der Projektverwaltung](/help/manage-work/projects/getting-started-manage-a-project.md)
-      + [Suchen von Projekten](/help/manage-work/projects/find-projects.md)
-      + [Freigeben eines Projekts](/help/manage-work/projects/share-a-project.md)
+      + [Projekt mit aktuellem Status verwalten](/help/manage-work/projects/getting-started-manage-a-project.md)
+      + [Projekte effizient finden](/help/manage-work/projects/find-projects.md)
+      + [Effektive Projektfreigabe in Workfront](/help/manage-work/projects/share-a-project.md)
       + [Grundlegendes zum Projekt-Team](/help/manage-work/projects/understand-the-project-team.md)
-      + [Grundlegendes zur Projektkommunikation](/help/manage-work/projects/understand-project-communication.md)
-      + [Anzeigen von Projektinformationen](/help/manage-work/projects/view-project-information.md)
-      + [Nachverfolgen des gesamten Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
+      + [Steigerung des Projekterfolgs durch effektive Kommunikation](/help/manage-work/projects/understand-project-communication.md)
+      + [Erkunden von Filtern, Ansichten und Gruppierungen für das Projekt-Management](/help/manage-work/projects/view-project-information.md)
+      + [Nachverfolgen des allgemeinen Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
       + [Tracking des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Grundlegendes zur [!UICONTROL Gantt]-Ansicht](/help/manage-work/projects/understand-the-gantt-view.md)
       + [Grundlegendes zur [!UICONTROL Pinnwand]-Ansicht](/help/manage-work/projects/understand-the-board-view.md)
 
    + Aufgaben {#tasks}
-      + [Erstellen von Aufgaben](/help/manage-work/tasks/how-to-create-tasks.md)
-      + [Grundlegendes zu über- und untergeordneten Aufgaben](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [Arbeiten mit Aufgaben](/help/manage-work/tasks/work-with-tasks.md)
+      + [Effizientes Erstellen von Aufgaben in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [Beziehungen zwischen übergeordneten und untergeordneten Aufgaben verstehen](/help/manage-work/tasks/understand-parent-child-tasks.md)
+      + [Effizientes Aufgabenmanagement in Workfront](/help/manage-work/tasks/work-with-tasks.md)
       + [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [Aktualisieren des Aufgabenstatus](/help/manage-work/tasks/update-the-task-status.md)
+      + [Aufgabenstatus für präzise Berichterstellung aktualisieren](/help/manage-work/tasks/update-the-task-status.md)
       + [Grundlegendes zu Aufgabenlaufzeiten](/help/manage-work/tasks/understand-task-durations.md)
-      + [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+      + [Effektives Sequenzieren von Aufgaben in Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
-      + [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)
+      + [Geschätzte Aufgabenstunden mit Work Effort](/help/manage-work/tasks/understand-work-effort.md)
 
    + Probleme/Anfragen {#issues-requests}
-      + [Umgang mit ungeplanten Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
-      + [Anfrage stellen](/help/manage-work/issues-requests/make-a-request.md)
-      + [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
-      + [Problemzuweisungen verwalten](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [Aktualisieren des Problemstatus](/help/manage-work/tasks/update-the-issue-status.md)
-      + [Aktualisieren einer Anfrage](/help/manage-work/issues-requests/update-a-request.md)
+      + [Effektives Management ungeplanter Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
+      + [Erstellen und Verwalten von Anfragen in Workfront](/help/manage-work/issues-requests/make-a-request.md)
+      + [Effizientes Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
+      + [Problemzuweisungen effektiv verwalten](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [Problemstatus effektiv aktualisieren](/help/manage-work/tasks/update-the-issue-status.md)
+      + [Aktualisieren einer Anfrage in Workfront](/help/manage-work/issues-requests/update-a-request.md)
       + [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Konvertieren eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Problembericht](/help/manage-work/issues-requests/report-on-issues.md)
+      + [Erstellen benutzerdefinierter Berichte für das Problem-Management](/help/manage-work/issues-requests/report-on-issues.md)
 
    + Anfrage-Warteschlangen {#request-queues}
       + [Grundlegendes zu Anfrage-Warteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
@@ -153,36 +153,36 @@ ht-degree: 93%
       + [Antworten auf häufig gestellte Fragen zu Anfrage-Warteschlangen](/help/manage-work/request-queues/request-queue-faq.md)
 
    + Portfolios {#portfolios}
-      + [Grundlegendes zu Portfolios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Verstehen des [!UICONTROL Business-Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Grundlegendes zum [!UICONTROL Portfolio-Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Portfolioverwaltung und -optimierung](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Erstellen eines umfassenden Business Case](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Optimieren von Projektprioritäten mit dem Portfolio-Optimierungs-Tool](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
       + [Erstellen eines globalen und eines Genehmigungsprozesses für einmaligen Gebrauch](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Anwenden eines Problemgenehmigungsprozesses in einer Anfrage-Warteschlange](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Überprüfen und Genehmigen digitaler Arbeiten](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [Delegieren von Aufgaben, Problemen und Genehmigungen](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [Anwenden von Meilensteinen](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [Anzeigen von Meilensteinen](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [Aufgaben, Probleme und Genehmigungen effektiv delegieren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+      + [Anwenden von Meilensteinpfaden auf Projekte und Aufgaben](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [Meilensteine in Ihren Projekten anzeigen](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Erstellen und Verwalten von Projektvorlagen {#create-and-manage-project-templates}
-      + [Erstellen einer Projektvorlage und Informationen über Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Erstellen einer Projektvorlage und Erkunden von Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Erstellen eines Projekts direkt aus einer Vorlage](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-      + [Freigeben einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [Kopieren eines bestehenden Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [Effektives Freigeben von Projektvorlagen](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+      + [Effizientes Kopieren eines vorhandenen Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [Bearbeiten des Projekt-Teams in einer Vorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + Projekt-Timelines {#project-timelines}
-      + [Grundlegendes zu Projekt-Timelines](/help/manage-work/project-timelines/understand-project-timelines.md)
+      + [Erkunden von Projektzeitleisten in Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [Verfolgen des Fortschritts über die Projekt-Timeline](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [Verfolgen Sie den Fortschritt mit den Statuswerten „Prozent abgeschlossen“ und „Fortschritt“](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Schließen eines Projekts {#close-a-project}
       + [Ändern des Projektstatus in „abgeschlossen“](/help/manage-work/projects/change-the-project-status.md)
-      + [Abschließen von Genehmigungen](/help/manage-work/close-a-project/complete-approvals.md)
-      + [Hochladen von Assets](/help/manage-work/close-a-project/upload-assets.md)
-      + [Aufzeichnen der gelernten Lektionen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+      + [Genehmigungen für Aufgaben und Probleme lösen](/help/manage-work/close-a-project/complete-approvals.md)
+      + [Hochladen und Verwalten von Projekt-Assets](/help/manage-work/close-a-project/upload-assets.md)
+      + [Erfahrungen für zukünftige Projekte aufzeichnen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Aufzeichnen und Überprüfen der Stunden](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + Projektfinanzierung für Benutzende {#project-finances-users}
@@ -250,7 +250,7 @@ ht-degree: 93%
 
 + Verwalten von Ressourcen {#manage-resources}
    + Ressourcenverwaltung {#resource-management}
-      + [Reifegrad des Ressouren-Managements](/help/manage-resources/resource-management/resource-management-maturity.md)
+      + [Reifegrad des Ressourcen-Managements](/help/manage-resources/resource-management/resource-management-maturity.md)
       + [Einstellungen des Ressourcen-Managements für Projekte](/help/manage-resources/resource-management/settings-for-projects.md)
       + [Ressourcen-Management-Einstellungen für Benutzende](/help/manage-resources/resource-management/settings-for-users.md)
       + [Setups des Ressourcen-Managements, Workload Balancer und Nutzungsbericht](/help/manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)

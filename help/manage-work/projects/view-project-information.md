@@ -1,5 +1,5 @@
 ---
-title: Anzeigen der Projektinformationen
+title: Filter, Ansichten und Gruppierungen für das Projektmanagement erkunden
 description: Optimieren Sie Ihre Projekt-Workflows mit anpassbaren Filtern, detaillierten Ansichten, effizienten Gruppierungen, Aufgabenmanagement-Tools und Funktionen zum Problem-Tracking für eine bessere Organisation und Übersichtlichkeit.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '417'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '427'
+ht-degree: 96%
 
 ---
 
-# Anzeigen der Projektinformationen
+# Filter, Ansichten und Gruppierungen für das Projektmanagement erkunden
 
 Dieses Video gibt einen Überblick über die Filter, Ansichten und Gruppierungen in Workfront, die den Benutzenden helfen, Projekte, Aufgaben und Probleme effizient zu verwalten und zu analysieren. Zu den wichtigsten Punkten zählen:
 
@@ -33,7 +33,7 @@ Dieses Video gibt einen Überblick über die Filter, Ansichten und Gruppierungen
 
 Im Video wird der Schwerpunkt auf die Anpassung gelegt. Es enthält außerdem Links zu Tutorials für weitere Lerninhalte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453075/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

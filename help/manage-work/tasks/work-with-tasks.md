@@ -1,5 +1,5 @@
 ---
-title: Arbeiten mit Aufgaben
+title: Effizientes Aufgabenmanagement in Workfront
 description: Optimieren Sie das Aufgaben-Management durch Inline-Bearbeitung, Papierkorb-Backups für gelöschte Aufgaben, das Hinzufügen von Strukturen mit über- und untergeordneten Elementen, Aufgabenduplizierung und intuitive Tools für die Umstrukturierung, z. B. Drag-and-Drop in Workfront.
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '207'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '211'
+ht-degree: 95%
 
 ---
 
-# Arbeiten mit Aufgaben
+# Effizientes Aufgabenmanagement in Workfront
 
 Dieses Video enthält eine detaillierte Anleitung für das Aufgaben-Management in Workfront. Der Schwerpunkt liegt auf einem effizienten Aufgaben-Management, einschließlich des Bearbeitens, Löschens, Hinzufügens, Duplizierens und Umstrukturierens von Aufgaben innerhalb eines Projektplans.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448565/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

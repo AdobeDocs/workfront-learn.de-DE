@@ -1,5 +1,5 @@
 ---
-title: Vier Möglichkeiten zum Erstellen eines Projekts
+title: Vier Methoden zum Erstellen eines Projekts
 description: Erfahren Sie, wie Sie in Workfront Projekte mithilfe von Vorlagen von Grund auf effizient erstellen können, indem Sie vorhandene Projekte kopieren oder Microsoft Project-Dateien importieren, die auf verschiedene Benutzeranforderungen zugeschnitten sind.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
-# Vier Möglichkeiten zum Erstellen eines Projekts
+# Vier Methoden zum Erstellen eines Projekts
 
 Das Video enthält eine umfassende Anleitung zum Erstellen von Projekten in Workfront mithilfe verschiedener Methoden:
 
@@ -55,7 +55,7 @@ Das Video enthält eine umfassende Anleitung zum Erstellen von Projekten in Work
 
 In diesem Video liegt der Schwerpunkt auf der Flexibilität von Workfront beim Erstellen von Projekten aus Vorlagen, beim Erstellen von Projekten von Grund auf sowie beim Kopieren oder Importieren, wobei auf verschiedene Benutzeranforderungen eingegangen wird. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432171/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Aufgaben
+title: Effizientes Erstellen von Aufgaben in Workfront
 description: Vereinfachen Sie die Aufgabenerstellung mit Optionen für die detaillierte Bearbeitung oder Inline-Bearbeitung, flexible Neupositionierung, benutzerdefinierte Ansichten für zusätzliche Felder und bestimmte Platzierungen, wie z. B. die Verwendung von „Aufgabe unten einfügen“ in Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
@@ -10,19 +10,19 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '195'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '201'
+ht-degree: 95%
 
 ---
 
-# Erstellen von Aufgaben
+# Effizientes Erstellen von Aufgaben in Workfront
 
 Das Video enthält eine Anleitung zum Erstellen von Aufgaben in einem Workfront-Projekt, in der sowohl die lange Methode als auch praktische Abkürzungen behandelt werden. Der Schwerpunkt liegt auf der Flexibilität bei der Aufgabenerstellung, und es gibt Tipps für ein effizientes Aufgaben-Management.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423157/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

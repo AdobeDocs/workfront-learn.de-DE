@@ -1,5 +1,5 @@
 ---
-title: Informationen zum Sequenzieren von Aufgaben
+title: Effektives Sequenzieren von Aufgaben in Workfront
 description: Optimieren Sie das Projekt-Management, indem Sie die Aufgabenreihenfolge mit Vorgängern definieren, Timelines anhand von Laufzeiten festlegen, Sequenzen mithilfe von Vorlagen vereinfachen, manuelle Beschränkungen vermeiden und Fähigkeiten durch praktisches Üben verfeinern.
 activity: use
 feature: Work Management
@@ -13,21 +13,21 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '220'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '222'
+ht-degree: 95%
 
 ---
 
-# Informationen zum Sequenzieren von Aufgaben
+# Effektives Sequenzieren von Aufgaben in Workfront
 
 In diesem Video wird beschrieben, wie Aufgaben in Workfront mithilfe von Vorgängern und Laufzeiten sequenziert werden können, um Projekt-Timelines effektiv zu verwalten.
 Im Video wird gezeigt, wie Vorgänger für neue Aufgaben festgelegt werden, um eine sequenzielle Reihenfolge und genaue Startdaten sicherzustellen.
 Darin wird hervorgehoben, wie wichtig das praktische Üben mit Vorgängern ist, um deren Auswirkungen auf die Projekt-Timelines zu verstehen. Für eine effiziente Projektplanung wird die Verwendung von Laufzeiten und Vorgängern empfohlen.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447329/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

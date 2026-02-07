@@ -1,5 +1,5 @@
 ---
-title: Abschließen von Genehmigungen
+title: Genehmigungen für Aufgaben und Probleme lösen
 description: Erfahren Sie, wie Sie unvollständige Genehmigungen erkennen und lösen, damit Sie Ihr Projekt abschließen können.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '65'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 85%
 
 ---
 
-# Abschließen von Genehmigungen
+# Genehmigungen für Aufgaben und Probleme lösen
 
 In diesem Video lernen Sie Folgendes:
 
 * Finden ungelöster Aufgabengenehmigungen und Umgang damit
 * Finden ungelöster Problemgenehmigungen und Umgang damit
 
->[!VIDEO](https://video.tv.adobe.com/v/3439433/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

@@ -1,5 +1,5 @@
 ---
-title: Hochladen von Assets
+title: Hochladen und Verwalten von Projekt-Assets
 description: Laden Sie Dokumente und Korrekturabzüge in das Projekt hoch, bevor Sie es schließen, um sicherzustellen, dass alle relevanten Daten mit dem Projekt verknüpft sind.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 87%
 
 ---
 
-# Hochladen von Assets
+# Hochladen und Verwalten von Projekt-Assets
 
 In diesem Video lernen Sie Folgendes:
 
@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Hochladen eines Dokuments
 * Finden von Schulungen zum Hochladen von Korrekturabzügen
 
->[!VIDEO](https://video.tv.adobe.com/v/3440379/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu Projekt-Timelines
+title: Erkunden von Projektzeitleisten in Workfront
 description: Erfahren Sie, wie Sie Aufgaben zuweisen, Gantt-Diagramme und Funktionen für kritische Pfade verwenden, Projekte über Ansichten überwachen, Aufgaben effizient planen und Einschränkungen für eine optimale Projektplanung anwenden.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '701'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '705'
+ht-degree: 98%
 
 ---
 
-# Grundlegendes zu Projekt-Timelines
+# Erkunden von Projektzeitleisten in Workfront
 
 Was Sie lernen werden:
 
@@ -28,7 +28,7 @@ Was Sie lernen werden:
 * Es stehen verschiedene Ansichten in Workfront zur Verfügung, z. B. die Standardansicht für die Planung und die Statusansicht für die Überwachung. Diese enthalten Flags für Fortschritt, Kommentare, Dokumente, Probleme, Genehmigungen, kritische Pfade und Meilensteine. Die letzten Aktivitäten können nachverfolgt werden, um Aktualisierungen und Notizen anzuzeigen.
 * Die Planung kann ab einem Start- oder Fertigstellungsdatum erfolgen. Workfront berechnet dabei die entsprechenden Daten anhand der Aufgabenlaufzeiten und Vorgänger. Im Video wird empfohlen, bei kritischen Fertigstellungsdaten ausgehend von einem Startdatum zu planen, um einen gewissen Spielraum zu ermöglichen. Aufgabenbeschränkungen wie „So bald wie möglich“ und „So spät wie möglich“ werden ebenfalls behandelt, einschließlich einer Beschreibung, wie sich diese auf die Aufgabenplanung auswirken. Es können benutzerdefinierte Ansichten erstellt werden, um Aufgabenbeschränkungen anzuzeigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435844/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
@@ -52,7 +52,7 @@ Was Sie lernen werden:
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Verfolgen des Fortschritts über die Projektzeitleiste](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Verfolgen des Fortschritts über die Projekt-Timeline](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
 * [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 

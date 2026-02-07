@@ -1,5 +1,5 @@
 ---
-title: Erstellen einer Projektvorlage und Informationen über [!UICONTROL Blueprints]
+title: Erstellen einer Projektvorlage und Erkunden von Blueprints
 description: Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage eines bestehenden Projekts erstellen können, und erfahren Sie, wie Sie mit [!UICONTROL Blueprints] Zugang zu einer Welt nützlicher Projektvorlagen erhalten, die von Workfront-Fachleuten erstellt wurden.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '635'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '633'
+ht-degree: 97%
 
 ---
 
-# Erstellen einer Projektvorlage und Informationen über [!UICONTROL Blueprints]
+# Erstellen einer Projektvorlage und Erkunden von Blueprints
 
 
 Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage eines bestehenden Projekts erstellen können, und erfahren Sie, wie Sie mit [!UICONTROL Blueprints] Zugang zu einer Welt nützlicher Projektvorlagen erhalten, die von Workfront-Fachleuten erstellt wurden.

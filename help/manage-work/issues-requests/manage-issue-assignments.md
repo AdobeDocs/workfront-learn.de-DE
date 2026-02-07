@@ -1,5 +1,5 @@
 ---
-title: Verwalten von Problemzuweisungen
+title: Problemzuweisungen effektiv verwalten
 description: Verwalten Sie Probleme in Workfront effektiv, indem Sie die Inline-Bearbeitung und den Workload Balancer für Arbeitsaufträge verwenden, den Fortschritt nachverfolgen und aktualisieren, Problemstatus ändern und teamspezifische Workflows einhalten, um eine nahtlose Projektausführung zu gewährleisten.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '289'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '291'
+ht-degree: 97%
 
 ---
 
-# Verwalten von Problemzuweisungen
+# Problemzuweisungen effektiv verwalten
 
 Die Verwaltung von Problemen ist eine wichtige Verantwortung der Projektverantwortlichen und derjenigen, die für die Bearbeitung der Probleme zugewiesen wurden.
 
@@ -30,7 +30,7 @@ In diesem Video lernen Sie Folgendes:
 * Den Fortschritt bei Problemen aktualisieren
 * Den Status des Problems aktualisieren
 
->[!VIDEO](https://video.tv.adobe.com/v/3446964/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

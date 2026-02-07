@@ -1,6 +1,6 @@
 ---
-title: Erste Schritte bei der Projektplanung
-description: Optimieren Sie die Projektplanung, indem Sie sich auf Schlüsselfelder konzentrieren, den Status auf „Planung“ festlegen, geeignete Ansichten verwenden, realistische Startdaten auswählen und Planungsmodi für genaue Zeitpläne nutzen.
+title: Effektives Planen eines Projekts in Workfront
+description: Optimieren Sie die Projektplanung, indem Sie sich auf Schlüsselfelder konzentrieren, den Status auf „Planung“ festlegen, geeignete Ansichten verwenden, realistische Startdaten auswählen und Planungsmodi für genaue Timelines nutzen.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
@@ -12,20 +12,20 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '273'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '275'
+ht-degree: 95%
 
 ---
 
-# Erste Schritte bei der Projektplanung
+# Effektives Planen eines Projekts in Workfront
 
 Das Video enthält eine Anleitung zum effektiven Planen eines Projekts in Workfront. Es wird hervorgehoben, wie wichtig das Schaffen einer soliden Grundlage ist. Diese stellt die pünktliche Fertigstellung und den Erfolg des Projekts sicher. Zu den wichtigsten Schritten gehört das Verstehen von fünf wichtigen Feldern: Aufgaben, Arbeitsaufträge, Laufzeiten, geplante Stunden und Vorgänger. Diese Felder ermöglichen eine schnelle und genaue Anpassung des Projektplans. 
 
 In diesem Video liegt der Schwerpunkt auf der Bedeutung realistischer Timelines, der Verfügbarkeit von Teams und einer präzisen Planung, um eine solide Grundlage für den Projekterfolg zu schaffen. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448576/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

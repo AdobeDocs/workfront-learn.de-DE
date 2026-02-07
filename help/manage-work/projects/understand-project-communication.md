@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zur Projektkommunikation
+title: Steigerung des Projekterfolgs durch effektive Kommunikation
 description: Verbessern Sie den Projekterfolg durch eine effektive Kommunikation mit den Stakeholdern, klare Aufgaben, zentralisierte Diskussionen, genaue Statusberichte und proaktive Problemlösungen, um die Ausrichtung und Effizienz des Projekts sicherzustellen.
 activity: use
 team: Technical Marketing
@@ -12,16 +12,17 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '398'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 97%
 
 ---
 
-# Grundlegendes zur Projektkommunikation
+# Steigerung des Projekterfolgs durch effektive Kommunikation
 
 Im Video wird der Schwerpunkt auf die Bedeutung einer effektiven Kommunikation für den Projekterfolg gelegt, und es werden Strategien beschrieben, um für Klarheit und Effizienz beim Projekt-Management zu sorgen. Zu den wichtigsten Punkten zählen:
+
 * **Kommunikation mit den Stakeholdern:** Halten Sie die Stakeholder über den Projektfortschritt, Probleme und Lösungen auf dem Laufenden.  Regelmäßige Aktualisierungen, die auf ihre Bedürfnisse zugeschnitten sind, sind unerlässlich. 
 * **Klare Aufgaben:** Stellen Sie sicher, dass die Team-Mitglieder ihre Verantwortlichkeiten verstehen, um Umfangsausweitung und Verwirrung zu vermeiden. Verwenden Sie Teilaufgaben, wenn Sie einer Aufgabe mehrere Personen zuweisen möchten. 
 * **Zentrale Kommunikation** Verwenden Sie Tools wie Workfront, um alle projektbezogenen Diskussionen an einem Ort zu speichern. Benachrichtigungen können Team-Mitgliedern dabei helfen, sich fortlaufend an Diskussionen zu beteiligen. 
@@ -32,7 +33,7 @@ Im Video wird der Schwerpunkt auf die Bedeutung einer effektiven Kommunikation f
 
 Dieses Video hebt hervor, wie Workfront die Kommunikation, das Aufgaben-Management und das Reporting vereinfacht und sicherstellt, dass alle projektbezogenen Informationen verfügbar und organisiert sind. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3436153/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zur Projekterstellung
+title: Erstellen und Verwalten eines neuen Projekts
 description: 'Erfahren Sie, wie Sie Projekte effizient erstellen, verwalten und abschließen, mit unerwarteten Problemen umgehen und wertvolle anfängliche Tipps zum Umgang mit wichtigen Projekt-Management-Funktionen finden. '
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,19 +13,19 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 100%
+source-wordcount: '249'
+ht-degree: 94%
 
 ---
 
-# Grundlegendes zur Projekterstellung
+# Erstellen und Verwalten eines neuen Projekts
 
 In diesem Video wird beschrieben, wie Sie ein Projekt von Grund auf neu erstellen und verwalten. Es beginnt mit der Erstellung eines neuen Projekts, dessen Umbenennung und der Festlegung eines Ziels mit einer Beschreibung, einem Startdatum und einem vorgesehenen Fertigstellungsdatum. Projekte können in Aufgaben unterteilt werden, bei denen es sich um geplante Arbeiten mit geschätzten Laufzeiten und Arbeitsaufträgen handelt. Aufgaben können mithilfe von Vorgängern sequenziert werden und der Projektstatus kann auf „Aktuell“ gesetzt werden, um das Team zu benachrichtigen und bei Berichten zu berücksichtigen. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435903/?captions=ger&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

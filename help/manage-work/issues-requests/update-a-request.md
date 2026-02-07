@@ -1,5 +1,5 @@
 ---
-title: Aktualisieren einer Anfrage
+title: Aktualisieren einer Anfrage in Workfront
 description: Vereinfachen Sie die Verwaltung von Anfragen in Workfront, indem Sie mithilfe von Filtern nach Anfragen suchen, Status und Details effizient aktualisieren, auf vollständige Informationen zugreifen und eine zentralisierte Zusammenarbeit für optimierte Workflows fördern.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '248'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 96%
 
 ---
 
-# Aktualisieren einer Anfrage
+# Aktualisieren einer Anfrage in Workfront
 
 In diesem Video wird beschrieben, wie Sie in Adobe Workfront Anfragen finden und verwalten. Nach dem Senden einer Anfrage können Sie Informationen hinzufügen oder Fragen stellen, um sicherzustellen, dass die neuesten Details für die daran arbeitenden Personen verfügbar sind.
 

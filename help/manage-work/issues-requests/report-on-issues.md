@@ -1,5 +1,5 @@
 ---
-title: Problembericht
+title: Erstellen benutzerdefinierter Berichte für das Problem-Management
 description: Erfahren Sie, wie Sie benutzerdefinierte Berichte für das Problem- und Projekt-Management erstellen, einschließlich der Zentralisierung und Nachverfolgung offener Probleme, der Anpassung von Spalten und Filtern und der Optimierung des Projekt- und Problem-Managements.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '376'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '382'
+ht-degree: 96%
 
 ---
 
-# Problembericht
+# Erstellen benutzerdefinierter Berichte für das Problem-Management
 
 Das Video enthält eine Schritt-für-Schritt-Anleitung zum Erstellen von zwei Berichtstypen für das Verwalten und Nachverfolgen von Problemen und Projekten. 
 
