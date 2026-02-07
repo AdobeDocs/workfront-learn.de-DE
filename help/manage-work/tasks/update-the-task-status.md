@@ -20,7 +20,7 @@ ht-degree: 92%
 
 Das Video bietet eine Anleitung dazu, wie, warum und wie oft der Aufgabenstatus aktualisiert werden sollte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471176/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

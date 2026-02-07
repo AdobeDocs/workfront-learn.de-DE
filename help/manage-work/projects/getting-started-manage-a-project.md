@@ -24,7 +24,7 @@ ht-degree: 93%
 
 Das Video gibt einen Überblick über das Management für ein Projekt, nachdem sein Status in „Aktuell“ geändert wurde.
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445176/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

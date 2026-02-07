@@ -29,7 +29,7 @@ In diesem Video lernen Sie die Vorteile folgender Möglichkeiten kennen:
 * Erstellen benutzerdefinierter Berichte für „Gelernte Lektionen“
 * Erstellen eines Projekts „Gelernte Lektionen“
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441021/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

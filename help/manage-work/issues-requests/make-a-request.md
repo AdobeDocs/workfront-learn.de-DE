@@ -24,7 +24,7 @@ ht-degree: 95%
 
 Das Video enthält eine detaillierte Anleitung zum Erstellen und Verwalten von Anfragen in Workfront. Es beschreibt den Prozess der Anfrageerstellung. Dazu wird zunächst im Hauptmenü die Option „Anfragen“ ausgewählt und anschließend auf die Schaltfläche „Neue Anfrage“ geklickt. Benutzende können einen Anfragetyp aus benutzerdefinierten Warteschlangen auswählen, die auf die Workflows ihrer Organisation zugeschnitten sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470919/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 
