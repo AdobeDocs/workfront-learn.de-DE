@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Dashboards
+title: Erstellen von Dashboards in Workfront
 description: Organisieren Sie Projektdaten mit Workfront-Dashboards und zeigen Sie diese an. Diese Daten können für ein nahtloses Projekt-Management und eine gute Zusammenarbeit angepasst, aufgerufen, freigegeben und gedruckt werden.
 activity: use
 feature: Reports and Dashboards
@@ -12,19 +12,19 @@ jira: KT-8862
 last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 100%
+source-wordcount: '650'
+ht-degree: 98%
 
 ---
 
-# Erstellen von Dashboards
+# Erstellen von Dashboards in Workfront
 
 Das Video bietet eine umfassende Anleitung zum Verständnis und zur Verwendung von Dashboards in Workfront.
 Es wird erläutert, dass es sich bei einem Dashboard um eine Sammlung von Berichten handelt, mit denen Benutzende zusammengehörige Daten zentral organisieren und anzeigen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449131/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 

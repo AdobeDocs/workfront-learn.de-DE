@@ -12,10 +12,10 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '233'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 93%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 Im Video wird gezeigt, wie Sie ein Problem oder eine Anfrage in ein Projekt konvertieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446631/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

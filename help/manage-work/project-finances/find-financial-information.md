@@ -1,5 +1,5 @@
 ---
-title: Suchen von Finanzinformationen
+title: Zugreifen auf und Verwalten von Finanzinformationen für Projekte und Aufgaben
 description: Erfahren Sie, wie Sie effizient auf Finanzdaten für Projekte und Aufgaben zugreifen, diese analysieren und verwalten können. Dabei werden Budgets, Umsatz, Kosten und Leistungsmetriken sowohl auf Projekt- als auch auf Aufgabenebene abgedeckt.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '205'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '217'
+ht-degree: 91%
 
 ---
 
-# Suchen von Finanzinformationen
+# Zugreifen auf und Verwalten von Finanzinformationen für Projekte und Aufgaben
 
 In diesem Video wird erläutert, wie Sie auf Finanzinformationen für Projekte und Aufgaben zugreifen und diese verwalten können. Das Video bietet einen umfassenden Überblick über die Navigation und das Verständnis von Finanzdaten auf Projekt- und Aufgabenebene.
 

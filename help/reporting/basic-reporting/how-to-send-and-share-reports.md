@@ -1,5 +1,5 @@
 ---
-title: Senden und Freigeben von Berichten
+title: Effektives Senden und Freigeben von Berichten
 description: Erfahren Sie, wie Sie in Workfront Berichte an Benutzende, Teams oder beliebige E-Mail-Adressen senden und wie Sie Berichte für andere freigeben können.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8863
 last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '354'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '356'
+ht-degree: 97%
 
 ---
 
-# Senden und Freigeben von Berichten
+# Effektives Senden und Freigeben von Berichten
 
 In diesem Video lernen Sie Folgendes:
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie Berichte für andere freigegeben werden
 * Was die Empfängerinnen und Empfänger in einem Workfront-Bericht sehen und was sie damit tun können
 
->[!VIDEO](https://video.tv.adobe.com/v/3447821/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 

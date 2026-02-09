@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu Reporting-Komponenten
+title: Erkunden von Berichtskomponenten in Workfront
 description: Die Reporting-Komponenten von Workfront verfeinern die Datenvisualisierung mit objektbasierten Filtern, dynamischen Ansichten, strukturierten Gruppierungen und Platzhalterfunktionen für maßgeschneiderte Erkenntnisse.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '533'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '537'
+ht-degree: 98%
 
 ---
 
-# Grundlegendes zu Reporting-Komponenten
+# Erkunden von Berichtskomponenten in Workfront
 
 In diesem Video wird das Konzept der Reporting-Komponenten in Workfront beschrieben, die für die Erstellung von Filtern, Ansichten und Gruppierungen unverzichtbar sind. Zu den wichtigsten Komponenten zählen:
 
@@ -29,7 +29,7 @@ In diesem Video wird das Konzept der Reporting-Komponenten in Workfront beschrie
 * **Filterqualifizierer:** Definiert, welche Werte in einen Bericht ein- oder daraus ausgeschlossen werden sollen, z. B. das Anzeigen von Aufgaben mit der Priorität „Hoch“.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447030/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 

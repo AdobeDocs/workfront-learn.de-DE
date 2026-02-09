@@ -1,5 +1,5 @@
 ---
-title: Informationen zur [!UICONTROL Gantt]-Ansicht
+title: Erkunden der [!UICONTROL Gantt]-Ansicht für das Projekt-Management
 description: Maximieren Sie die Projekteffizienz mit Gantt-Diagrammen, die eine Gesamtübersicht, Tracking des Fortschritts, Meilenstein-Management, Erkenntnisse zu Vorgängern und anpassbare Optionen zur Optimierung des Aufgaben- und Ressourcen-Managements bieten.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '363'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '369'
+ht-degree: 96%
 
 ---
 
-# Grundlegendes zur [!UICONTROL Gantt]-Ansicht
+# Erkunden der [!UICONTROL Gantt]-Ansicht für das Projekt-Management
 
 In diesem Video wird beschrieben, wie Sie Projekte und Aufgaben mit den Gantt-Diagrammen „Projekt“ und „Aufgabe“ effektiv visualisieren und verwalten. Gantt-Diagramme liefern eine Gesamtübersicht über Aufgaben, Vorlagen und Projekte und werden häufig in Portfolios eingesetzt, um die Beziehungen zwischen Projekten nachzuvollziehen, insbesondere bei Projekten mit gemeinsamen Ressourcen. 
 
@@ -40,7 +40,7 @@ In diesem Video wird beschrieben, wie Sie Projekte und Aufgaben mit den Gantt-Di
 
 Im Video wird der Schwerpunkt auf die Flexibilität von Gantt-Diagrammen gelegt, durch die Benutzende Ansichten anpassen und mehrere Elemente gleichzeitig anzeigen können und so ein besseres Projekt-Management ermöglicht wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448015/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Weitere Informationen finden Sie online im Artikel [Erste Schritte mit dem Gantt-Diagramm](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=de).
 

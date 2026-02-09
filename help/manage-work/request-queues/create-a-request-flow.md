@@ -1,5 +1,5 @@
 ---
-title: Erstellen eines Anfrageflusses
+title: Erstellen eines Anfrageflusses in Workfront
 description: Optimieren Sie die Verwaltung von Anfragen, indem Sie Routing-Regeln für effiziente Arbeitsaufträge erstellen, Anfragen mit verschachtelten Themengruppen organisieren, Warteschlangenthemen mit Workflows verknüpfen, die Anfragefluss-Funktionalität testen und flexible Anpassungen durchführen, um Genauigkeit und Effizienz sicherzustellen.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '402'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '406'
+ht-degree: 97%
 
 ---
 
-# Erstellen eines Anfrageflusses
+# Erstellen eines Anfrageflusses in Workfront
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ Dieses Video enthält eine schrittweise Anleitung zum Erstellen eines Anfrageflu
 Das Video zeigt dann, wie Sie Warteschlangenthemen erstellen, die mit Routing-Regeln, Themengruppen, benutzerdefinierten Formularen, Genehmigungsprozessen und einer Standarddauer verknüpft sind.
 Schließlich wird im Video gezeigt, wie Sie das Setup testen, indem Sie eine Anfrage senden, um sicherzustellen, dass sie korrekt weitergeleitet wird.  Wenn Probleme auftreten, können Anpassungen an der Warteschlange vorgenommen werden. Im Video wird der Schwerpunkt auf die Bedeutung der Überprüfung der Struktur und Funktionalität des Anfrageflusses gelegt, um ein ordnungsgemäßes Routing und eine klare Organisation sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433831/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 

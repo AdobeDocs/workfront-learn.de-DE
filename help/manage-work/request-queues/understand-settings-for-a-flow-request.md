@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu den Einstellungen für einen Anfragefluss
+title: Konfigurieren der Einstellungen für den Anfragefluss
 description: Optimieren Sie die Verwaltung von Anfragen in Workfront durch die Definition von Warteschlangenthemen, die Verwendung von Themengruppen, das Festlegen von Routing-Regeln, die Vorausplanung und die Sicherstellung, dass Übermittlungen nicht übersehen werden, um die Effizienz zu verbessern.
 activity: delpoy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '287'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '285'
+ht-degree: 96%
 
 ---
 
-# Grundlegendes zu den Einstellungen für einen Anfragefluss
+# Konfigurieren der Einstellungen für den Anfragefluss
 
 In diesem Video wird der Anfragefluss in Workfront beschrieben. Der Schwerpunkt liegt dabei auf Warteschlangen-Management, Routing-Regeln, Themengruppen und Warteschlangenthemen. Es wird hervorgehoben, wie wichtig das Organisieren der Anfrage-Warteschlange ist. Hierzu müssen drei Schlüsselfragen beantwortet werden:
 
@@ -30,7 +30,7 @@ In diesem Video wird der Anfragefluss in Workfront beschrieben. Der Schwerpunkt 
 
 Indem sie sich um diese Fragen kümmern, können Benutzende ihre Anfrage-Warteschlange in Workfront effektiv planen und konfigurieren. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441914/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

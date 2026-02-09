@@ -1,5 +1,5 @@
 ---
-title: Aktualisieren der Finanzen
+title: Finanzen für Kundenprojekte aktualisieren
 description: Optimieren Sie die Kostennachverfolgung und Abrechnung, indem Sie Sätze definieren, Aufgaben Kostentypen und Umsatzarten zuweisen, Ausgaben verwalten und Abrechnungseinträge erstellen. Workfront übernimmt nicht die eigentliche Abrechnung.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '359'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '365'
+ht-degree: 97%
 
 ---
 
 
-# Aktualisieren der Finanzen
+# Finanzen für Kundenprojekte aktualisieren
 
 Dieses Video bietet eine detaillierte Anleitung zum Nachverfolgen von Zeit und Kosten sowie zum Erstellen von Abrechnungseinträgen für Kundenprojekte. Zu den wichtigsten Punkten zählen:
 

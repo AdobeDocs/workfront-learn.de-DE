@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Berichten mit Diagrammen
+title: Visualisieren von Daten mit Diagrammen in Berichten
 description: Diagramme optimieren die Datenvisualisierung, indem sie Datenerkenntnisse durch anpassbare Filter, Gruppierungen und gestapelte Säulenformate organisieren, was eine übersichtlichere und besser umsetzbare Analyse ermöglicht.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '595'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '599'
+ht-degree: 97%
 
 ---
 
-# Erstellen von Berichten mit Diagrammen
+# Visualisieren von Daten mit Diagrammen in Berichten
 
 In diesem Video wird erläutert, wie Sie mithilfe von Diagrammen Daten auf effektive Weise visualisieren können, insbesondere zum Tracking von Projektaufgaben. Es zeigt die Erstellung von zwei Berichtstypen in Workfront:
 
@@ -38,7 +38,7 @@ In diesem Video wird erläutert, wie Sie mithilfe von Diagrammen Daten auf effek
 
 In diesem Video wird gezeigt, wie Diagramme, z. B. Torten- und gestapelte Säulendiagramme, Erkenntnisse zur Aufgabenverteilung und Projektleistung liefern und so Benutzende Projekte vergleichen und den Aufgabenfortschritt visuell nachvollziehen können. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450023/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 

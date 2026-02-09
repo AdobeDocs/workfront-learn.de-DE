@@ -1,5 +1,5 @@
 ---
-title: Erstellen einer Anfrage-Warteschlange
+title: Erstellen einer Anfrage-Warteschlange in Workfront
 description: Erstellen Sie in Workfront effiziente Anfrage-Warteschlangen, indem Sie Zugriffsberechtigungen definieren, Anfragetypen und Felder anpassen, die Warteschlange aktivieren und ihre Funktionalität für ein nahtloses Management der Projektübermittlung testen.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '244'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '248'
+ht-degree: 95%
 
 ---
 
-# Erstellen einer Anfrage-Warteschlange
+# Erstellen einer Anfrage-Warteschlange in Workfront
 
 Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warteschlange in Workfront. Am Ende des Videos wird gezeigt, wie Sie eine Anfrage mithilfe der neu erstellten Warteschlange senden. Außerdem wird der Prozess der Eingabe von Details und der Verifizierung der Übermittlung auf der Registerkarte „Gesendete Anfragen“ gezeigt. 
 
@@ -30,7 +30,7 @@ Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warte
 
 * **Erstellen einer Anfrage-Warteschlange:** Beginnen Sie mit der Erstellung eines neuen Projekts und dessen Benennung. Dieses wird später als Anfrage-Warteschlange verwendet. Stellen Sie sicher, dass Sie das Kontrollkästchen „Als Hilfeanfrage-Warteschlange veröffentlichen“ aktivieren, um es offiziell als Warteschlange zu benennen. 
 * **Zugriffsberechtigungen:** Legen Sie fest, wer Anfragen an die Warteschlange senden kann, indem Sie aus vier Optionen auswählen: jede Person, Projektbetrachtende, Firmenmitarbeiter oder Gruppenmitglieder. 
-* **Anfragetypen:** Passen Sie die Warteschlange so an, dass bestimmte Anfragetypen wie Probleme, Fehlerberichte, Änderungsanforderungen oder allgemeine Anfragen einbezogen werden. Die Standardoption ist „Probleme“.
+* **Anfragetypen:** Passen Sie die Warteschlange so an, dass bestimmte Anfragetypen wie Probleme, Fehlerberichte, Änderungsaufträge oder allgemeine Anfragen einbezogen werden. Die Standardoption ist „Probleme“.
 * **Anpassbare Felder:** Legen Sie zusätzliche Details wie Standardreaktionszeit, Berechtigungen und andere Warteschlangenmerkmale fest, um die Funktionalität anzupassen. 
 * **Live-Schalten der Warteschlange** Speichern Sie die Einstellungen und legen Sie den Projektstatus auf „aktuell“ fest, um die Warteschlange zu aktivieren. Testen Sie die Funktionalität, indem Sie eine Anfrage senden und auf der Registerkarte „Gesendete Anfragen“ überprüfen.
 

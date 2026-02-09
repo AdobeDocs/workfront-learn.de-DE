@@ -1,5 +1,5 @@
 ---
-title: Verstehen von EXISTS-Filtern
+title: EXISTS-Filter für komplexes Reporting erstellen
 description: Erfahren Sie, was ein EXISTS-Filter ist, welche Möglichkeiten er Ihnen bietet und wie Sie einen Filter von Grund auf neu erstellen können. Außerdem erhalten Sie viele nützliche Beispiele für EXISTS-Filter.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '682'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '688'
+ht-degree: 98%
 
 ---
 
-# Verstehen von EXISTS-Filtern
+# EXISTS-Filter für komplexes Reporting erstellen
 
 EXISTS-Filter sind erweiterte Textmodusfilter, mit denen wir in einem standardmäßigen Report Builder die Sprungbegrenzung auf zwei Tabellen/Felder umgehen können. Sie können auch verwendet werden, um über NOTEXISTS Objekte im System zu identifizieren, denen eine bestimmte Beziehungsbedingung fehlt.
 
@@ -26,7 +26,7 @@ In diesem Video erfahren Sie, wie Sie einen EXISTS-Filter erstellen, um Korrektu
 
 Eine ausführlichere Anleitung zur Funktionsweise von EXISTS finden Sie in der Dokumentation [Erstellen komplexer Textmodusfilter mit EXISTS-Anweisungen](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471212/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## Beispiele für EXISTS-Filter
 

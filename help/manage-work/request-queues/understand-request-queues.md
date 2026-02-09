@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu Anfrage-Warteschlangen
+title: Anfrage-Warteschlangen in Workfront erkunden
 description: Optimieren Sie den Betrieb in Workfront mit zentralisierten Anfrage-Warteschlangen für Übermittlungen, effizientem Warteschlangen-Management und einfachem Zugriff auf gesendete Anfragen für verbesserte Projekt-Workflows.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '221'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '225'
+ht-degree: 95%
 
 ---
 
-# Grundlegendes zu Anfrage-Warteschlangen
+# Anfrage-Warteschlangen in Workfront erkunden
 
 In diesem Video werden das Konzept der Anfrage-Warteschlangen in Workfront, ihr Zweck und das Senden sowie Verwalten von Anfragen beschrieben. Anfrage-Warteschlangen dienen als zentraler Ort für die Übermittlung verschiedener Anfragetypen. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447019/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

@@ -1,6 +1,6 @@
 ---
-title: Verwenden eines OR-Filters in einem Canvas Dashboard-Bericht
-description: Erfahren Sie, wie Sie einen OR-Filter in einem Canvas-Dashboard-Bericht verwenden.
+title: Anwenden eines OR-Filters in einem Canvas-Dashboard-Bericht
+description: Erfahren Sie, wie Sie einen ODER-Filter in einem Arbeitsflächen-Dashboard-Bericht verwenden.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,14 +11,15 @@ jira: KT-18770
 last-substantial-update: 2025-09-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+exl-id: 5be25b98-892e-4027-99fc-d03e2d6cc9cf
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 9%
+ht-degree: 18%
 
 ---
 
-# Verwenden eines OR-Filters in einem Canvas Dashboard-Bericht
+# Anwenden eines OR-Filters in einem Canvas-Dashboard-Bericht
 
 >[!PREREQUISITES]
 >
@@ -31,11 +32,11 @@ Die ersten Dinge, die Sie tun müssen, bevor Sie ein Arbeitsflächen-Dashboard (
 
 [Einführung in Arbeitsflächen-Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) zeigt Ihnen Schritt für Schritt, wie Sie beide ausführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475390/?captions=ger&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
 
 **Weitere Informationen finden Sie in den folgenden Hilfeartikeln:**
-[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Bearbeiten von Berichtsfiltern in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[Arbeitsflächen-Dashboards - Übersicht](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Bearbeiten von Berichtsfiltern in einem Arbeitsflächen-Dashboard](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## Empfohlene Tutorials zu diesem Thema
 

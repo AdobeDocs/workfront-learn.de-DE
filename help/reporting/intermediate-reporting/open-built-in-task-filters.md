@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu integrierten Aufgabenfiltern
+title: Erkunden integrierter Aufgabenfilter
 description: Erfahren Sie, wie Sie integrierte Aufgabenfilter überprüfen können, um zu sehen, wie sie erstellt wurden, und wie Sie in Workfront einen eigenen Aufgabenfilter erstellen.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
-# Grundlegendes zu integrierten Aufgabenfiltern
+# Erkunden integrierter Aufgabenfilter
 
 In diesem Video werden Sie:
 
@@ -27,7 +27,7 @@ In diesem Video werden Sie:
 * Erfahren Sie mehr über einige nützliche Elemente zur Aufgabenberichterstellung
 * Erfahren Sie, wie Sie einen eigenen Aufgabenfilter erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/3418629/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
 
 ## Aktivitäten: Grundlegendes zu integrierten Aufgabenfiltern
 

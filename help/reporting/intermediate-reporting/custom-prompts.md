@@ -1,5 +1,5 @@
 ---
-title: Erstellen benutzerdefinierter Prompts
+title: Erstellen von benutzerdefinierten Eingabeaufforderungen im Textmodus
 description: Erfahren Sie, was ein benutzerdefinierter Prompt ist, wie Sie ihn im Textmodus erstellen, und einige Beispiele, die Sie im Berichtswesen in Workfront verwenden können.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '198'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '204'
+ht-degree: 94%
 
 ---
 
-# Erstellen benutzerdefinierter Prompts
+# Erstellen von benutzerdefinierten Eingabeaufforderungen im Textmodus
 
 In diesem Video lernen Sie Folgendes:
 
@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen eines benutzerdefinierten Prompts im Textmodus
 * Einige Beispiele, die Sie in Ihren Berichten verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3418631/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## Aktivitäten zum Erstellen benutzerdefinierter Prompts
 

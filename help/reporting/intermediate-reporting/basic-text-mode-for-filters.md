@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zum einfachen Textmodus für Filter
+title: Erkunden des einfachen Textmodus für Filter in Workfront
 description: Erfahren Sie mehr über den Textmodus, die Binnenmajuskel sowie über einen einfachen Textmodus, den Sie in Berichtsfiltern verwenden können.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '423'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '427'
+ht-degree: 96%
 
 ---
 
-# Grundlegendes zum einfachen Textmodus für Filter
+# Erkunden des einfachen Textmodus für Filter in Workfront
 
 >[!PREREQUISITES]
 >
@@ -41,7 +41,7 @@ In diesem Video lernen Sie Folgendes:
 * Binnenmajuskel
 * Einige _Code-Blöcke für den Textmodus_, die Sie in Berichtsfiltern verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/3418630/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## Aktivitäten: Grundlegendes zum einfachen Textmodus für Filter
 

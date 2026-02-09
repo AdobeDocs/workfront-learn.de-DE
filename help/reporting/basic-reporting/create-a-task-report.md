@@ -1,5 +1,5 @@
 ---
-title: Erstellen eines Aufgabenberichts
+title: Erstellen eines Aufgabenberichts für verspätete Zuweisungen
 description: Erfahren Sie, wie Sie einen Aufgabenbericht mit einem komplexen Filter erstellen und die von Ihnen erstellten Berichte in Workfront finden.
 activity: use
 feature: Reports and Dashboards
@@ -12,20 +12,20 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 100%
+source-wordcount: '1121'
+ht-degree: 98%
 
 ---
 
-# Erstellen eines Aufgabenberichts
+# Erstellen eines Aufgabenberichts für verspätete Zuweisungen
 
 Das Video enthält eine schrittweise Anleitung zum Erstellen eines benutzerdefinierten Berichts, um in Verzug geratene Aufgaben zu verfolgen, die der angemeldeten Person zugewiesen sind. Zunächst wird erklärt, dass benutzerdefinierte Berichte erforderlich sind, wenn vorhandene Filter, Ansichten oder integrierte Berichte bestimmte Anforderungen nicht erfüllen.  Der Bericht trägt den Namen „In Verzug geratene Aufgaben, die mir zugewiesen sind“ und umfasst aus Gründen der Klarheit eine Beschreibung. 
 
 Der daraus resultierende Bericht hilft Benutzenden, sich auf in Verzug geratene Aufgaben zu konzentrieren, bietet Informationen zu Abhängigkeiten und vereinfacht die Navigation zu den Host-Projekten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448351/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 
@@ -121,7 +121,7 @@ Schließen Sie Prompts zu Folgendem ein:
 
 Dieser Problembericht zeigt alle Probleme aus einer Feedback-Anfrage-Warteschlange an, die für System-Admins erstellt wurde. Wie man diese Anfrage-Warteschlange erstellt, können Sie in der Anleitung [Erstellen einer Feedback-Anfrage-Warteschlange für System-Admins](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=de) sehen.
 
-Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=de&land=de).
+Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?land=de).
 
 Dieses benutzerdefinierte Formular sollte die Objekttypen „Projekt“ und „Problem“ verwenden und folgendermaßen erstellt werden:
 

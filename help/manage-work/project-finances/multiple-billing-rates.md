@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu mehrfachen Abrechnungssätzen
+title: Anpassen der Abrechnungssätze für Aufgabengebiete
 description: Anpassen und Verwalten der Abrechnungssätze für Aufgabengebiete auf Projektebene.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '169'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 93%
 
 ---
 
 
-# Grundlegendes zu mehrfachen Abrechnungssätzen
+# Anpassen der Abrechnungssätze für Aufgabengebiete
 
 In diesem Video wird erläutert, wie Sie Abrechnungssätze für Aufgabengebiete innerhalb eines Projekts verwalten und anpassen.Das Video betont die Flexibilität bei der Festlegung mehrerer Abrechnungssätze für dasselbe Aufgabengebiet und bei der Sicherstellung präziser zeitbasierter Anpassungen.
 

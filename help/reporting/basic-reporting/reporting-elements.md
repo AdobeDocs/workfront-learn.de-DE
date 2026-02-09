@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu Reporting-Elementen
+title: Erkunden von Workfront-Reporting-Elementen
 description: Verbessern Sie das Projekt-Reporting mit anpassbaren Filtern, Ansichten und Gruppierungen, die Listenberichte verfeinern, Daten effizient organisieren und eine nahtlose Zusammenarbeit ermöglichen.
 activity: use
 feature: Reports and Dashboards
@@ -11,20 +11,20 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '241'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 96%
 
 ---
 
-# Grundlegendes zu Reporting-Elementen
+# Erkunden von Workfront-Reporting-Elementen
 
 In diesem Video wird erläutert, wie Sie mit den Reporting-Elementen von Workfront – Filtern, Ansichten und Gruppierungen – wertvolle Informationen in Listenberichten für Projekte, Aufgaben und andere Objekte aufrufen und verfeinern können. Mit Filtern können Sie Listen anhand bestimmter Kriterien eingrenzen, z. B., indem Sie nur aktive Projekte oder Aufgaben anzeigen, die Ihnen zugewiesen wurden. Ansichten bestimmen die in Spalten angezeigten Informationen und heben bestimmte Felder wie Umsatz oder Ausgaben hervor. Gruppierungen organisieren Listen anhand von Kriterien wie dem geplanten Abschlussdatum oder dem Fortschrittsstatus.
 
 Das Video zeigt auch, wie Reporting-Elemente angepasst und für andere freigegeben werden können. Diese Tools ermöglichen es Benutzenden, Listenberichte an ihre Bedürfnisse anzupassen, um bessere Sichtbarkeit und Verwaltung zu erreichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447797/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 
