@@ -27,7 +27,7 @@ In diesem Video lernen Sie Folgendes:
 * Überprüfen der für ein Projekt protokollierten Stunden
 * Genehmigen von Projektstunden, sofern erforderlich
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441078/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

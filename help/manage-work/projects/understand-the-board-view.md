@@ -23,7 +23,7 @@ ht-degree: 95%
 
 In diesem Video wird die Pinnwandansicht in Workfront beschrieben, die eine alternative Möglichkeit zur Ansicht und zum Management von Projektaufgaben bietet. In der Pinnwandansicht werden Aufgaben als Karten auf einer Kanban-ähnlichen Pinwnand angezeigt, sodass Benutzende Aufgaben innerhalb oder zwischen Spalten sortieren, gruppieren und verschieben können. Durch das Verschieben einer Aufgabe wird ihr Status automatisch aktualisiert, was sich in der Aufgabenlistenansicht widerspiegelt. Benutzende können neue Karten erstellen, die neue Aufgaben im Projekt erzeugen, und diese direkt in der Pinnwandansicht bearbeiten oder zuweisen. Spalten und Karten können konfiguriert werden, und Aufgaben können anhand von Vorgängern in der Aufgabenlistenansicht sequenziert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423278/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

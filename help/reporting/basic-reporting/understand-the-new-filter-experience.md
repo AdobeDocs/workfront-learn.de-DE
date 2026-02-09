@@ -26,4 +26,4 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen und Bearbeiten von Filtern
 * Filter stapeln
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422816/?captions=ger&quality=12&learn=on&enablevpops=1)

@@ -36,7 +36,7 @@ In diesem Video lernen Sie Folgendes:
 * Fehler in der Abhängigkeitsschleife
 * Abkürzungen und Best Practices
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454538/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 Weitere Informationen zur Verwendung von Vorgängern finden Sie unter [Verwenden von Aufgabenvorgängern](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=de).
 

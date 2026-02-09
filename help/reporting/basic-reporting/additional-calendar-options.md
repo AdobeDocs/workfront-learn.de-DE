@@ -35,4 +35,4 @@ In diesem Video lernen Sie Folgendes:
 * Kalender freigeben
 * Kalender löschen
 
->[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445065/?captions=ger&quality=12&learn=on&enablevpops=1)

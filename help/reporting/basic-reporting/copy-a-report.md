@@ -23,4 +23,4 @@ ht-degree: 75%
 
 Erfahren Sie, wie Sie durch Kopieren und Bearbeiten eines ähnlichen Berichts schnell einen neuen Bericht erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437054/?captions=ger&quality=12&learn=on&enablevpops=1)
