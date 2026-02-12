@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront-Tutorials
 user-guide-description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen, Workfront-Funktionen und -Einstellungen besser zu verstehen.
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
 workflow-type: tm+mt
-source-wordcount: '2483'
+source-wordcount: '2488'
 ht-degree: 76%
 
 ---
@@ -167,6 +167,7 @@ ht-degree: 76%
 
    + Erstellen und Verwalten von Projektvorlagen {#create-and-manage-project-templates}
       + [Erstellen einer Projektvorlage und Erkunden von Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Installieren und Verwenden von Blueprints](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
       + [Erstellen eines Projekts direkt aus einer Vorlage](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Effektives Freigeben von Projektvorlagen](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Effizientes Kopieren eines vorhandenen Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
