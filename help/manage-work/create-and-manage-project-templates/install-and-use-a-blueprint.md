@@ -23,7 +23,7 @@ ht-degree: 24%
 Erfahren Sie, wie ein Administrator eine Blueprint installiert und wie sie von einem Benutzer verwendet wird. In diesem Beispiel installieren wir den Blueprint &quot;Workfront-Schulung für neue Benutzende“ und verwenden die damit erstellten Vorlagen und Ansichten als Schulungs-Checkliste, um Benutzende in Workfront zu aktivieren.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479844/?captions=ger&quality=12&learn=on&enablevpops=0)
 
 ## Die wichtigsten Punkte
 
