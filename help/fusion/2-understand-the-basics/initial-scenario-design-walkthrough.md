@@ -34,7 +34,7 @@ In diesem Video lernen Sie Folgendes:
 * Verwenden des Szenario-Designers
 * Erstellen eines Basisszenarios
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3480095/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 **Hier finden Sie die URL, die Sie beim Erstellen einer OAuth-App-Integration in Ihrer Testlaufwerksinstanz in das Feld „Umleitungs-URLs“ einfügen müssen**
 
