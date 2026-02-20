@@ -9,13 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2025-06-02T00:00:00Z
+last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
-workflow-type: ht
-source-wordcount: '985'
-ht-degree: 100%
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
+workflow-type: tm+mt
+source-wordcount: '1181'
+ht-degree: 78%
 
 ---
 
@@ -48,19 +48,37 @@ Erstellen Sie für jede Zeile in der CSV-Datei der Projektliste ein neues Projek
 
    **Authentifizieren Sie die Verbindung des Moduls zu Ihrem Workfront-Konto.**
 
-1. Um zum ersten Mal eine Verbindung zu erstellen, klicken Sie auf die Schaltfläche „Hinzufügen“.
+1. Bevor Sie eine Verbindung zu einer Workfront-Instanz herstellen können, müssen Sie zunächst einen OAuth 2.0-Connector in dieser Workfront-Instanz erstellen. Melden Sie sich bei der Workfront-Instanz an, wechseln Sie zu **Setup > System > OAuth2-** und klicken Sie auf **App-Integration erstellen**.
 
-   ![Ursprüngliches Szenario-Design Bild 3](../12-exercises/assets/initial-scenario-design-3.png)
+Füllen Sie die erste Seite des Formulars wie unten gezeigt aus und klicken Sie auf **Erstellen**.
 
-1. Geben Sie der Verbindung einen Namen, z. B. „Mein Workfront 2020“.
+![Anfängliches Szenario - Design Bild 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-   ![Ursprüngliches Szenario-Design Bild 4](../12-exercises/assets/initial-scenario-design-4.png)
+Wenn der nächste Bildschirm angezeigt wird, füllen Sie das Feld **Umleitungs-URLs** mit der folgenden URL aus:
 
-1. Geben Sie die URL **Ihres Workfront-Testkontos** ein und klicken Sie auf „Weiter“.
+`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-   ![Ursprüngliches Szenario-Design Bild 5](../12-exercises/assets/initial-scenario-design-5.png)
+![Anfängliches Szenario - Design Bild 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-1. Geben Sie Ihr Kennwort ein und klicken Sie auf „Anmelden“.
+Klicken Sie dann auf die **Client-Geheimnis hinzufügen**. Das Client-Geheimnis wird angezeigt. Kopieren Sie es und speichern Sie es an einem Ort, an dem Sie es für einen zukünftigen Schritt abrufen können. Sie benötigen ihn in Ihrem Fusion-Szenario. Kopieren Sie außerdem die **Client-ID** und speichern Sie sie für einen zukünftigen Schritt. Wenn Sie diese kopiert haben, klicken **unten** der Anwendung auf „Speichern“.
+
+![Anfängliches Szenario - Design Bild 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+
+1. Zurück in Fusion klicken Sie auf die Schaltfläche **Hinzufügen**, um eine Verbindung mit Workfront herzustellen.
+
+   ![Anfängliches Szenario Design Image 3D](../12-exercises/assets/initial-scenario-design-3d.png)
+
+1. Wählen Sie **Adobe Workfront-** als Verbindungstyp aus und aktivieren Sie das Kontrollkästchen **Erweiterte Einstellungen anzeigen**. Klicken Sie dann auf **Weiter**.
+
+   ![Anfängliches Szenario - Design Bild 4a](../12-exercises/assets/initial-scenario-design-4a.png)
+
+1. Verwenden Sie die **Client-ID** und das **Client-Geheimnis** das Sie zuvor gespeichert haben, um hier auszufüllen. Für die **Authentifizierungs-URL** ist es am einfachsten, die standardmäßige Authentifizierungs-URL unter dem Feld zu kopieren, `oauth.my` durch `<domain name>.testdrive` zu ersetzen und dann auf **Weiter** zu klicken.
+
+   ![Anfängliches Szenario - Design-Bild 5a](../12-exercises/assets/initial-scenario-design-5a.png)
+
+1. Ihre Verbindung sollte sich authentifizieren. Möglicherweise müssen Sie sich bei Workfront anmelden. Klicken Sie auf **Zugriff zulassen**.
+
+   ![Anfängliches Szenario - Design-Bild 5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **Die Verbindung wird hergestellt. Geben Sie nun die ID des Dokuments ein, das Sie aus Workfront herunterladen möchten.**
 
@@ -104,7 +122,7 @@ Erstellen Sie für jede Zeile in der CSV-Datei der Projektliste ein neues Projek
    >Suchen Sie danach, indem Sie einige Buchstaben eingeben, z. B. *proj*, um direkt darauf zuzugreifen.
 
 1. Verwenden Sie dann Cmd/Strg+G, um nach dem Namen (Projektnamen) zu suchen. Markieren Sie das Kontrollkästchen neben „Name“. Das Feld erscheint jetzt darunter.
-1. Kreuzen Sie nun die Kontrollkästchen neben „Geplanter Starttermin“ und „Priorität“ an.
+1. Aktivieren Sie nun die Kontrollkästchen neben „Geplantes Startdatum“ und „Priorität“.
 1. Klicken Sie in das Feld „Name“, um das Zuordnungsfenster zu öffnen. Klicken Sie auf das Feld „Spalte 1“ im Modul „CSV-Analyse“, um es zum Feld „Name“ hinzuzufügen. Dies ist der Projektname aus der CSV-Datei.
 1. Klicken Sie unter „Geplantes Startdatum“ auf „Spalte 5“ im Modul „CSV-Analyse“.
 1. Wählen Sie unter „Priorität“ aus dem Dropdown-Menü „Normal“.

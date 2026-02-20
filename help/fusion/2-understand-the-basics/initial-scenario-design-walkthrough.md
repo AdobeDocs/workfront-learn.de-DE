@@ -8,14 +8,15 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
+last-substantial-update: 2026-02-19T00:00:00Z
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 83%
 
 ---
 
@@ -35,6 +36,11 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
+## Hier finden Sie die URL, die Sie beim Erstellen einer OAuth **App-Integration in Ihrer Testlaufwerksinstanz in das Feld** Umleitungs-URLs“ einfügen müssen
+
+```
+https://app.workfrontfusion.com/oauth/cb/workfront-workfront
+```
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
