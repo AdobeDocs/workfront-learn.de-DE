@@ -37,7 +37,7 @@ In einigen Tutorials erstellen Sie ein neues Szenario von Grund auf. In anderen 
 
 Um die Übungen in den Workfront Fusion-Schulungstutorials abzuschließen, benötigen Sie eine Workfront-Aktivierungsumgebung, die in dieser Schulung auch als &quot;**Workfront Test Drive**&quot; bezeichnet wird. Wenn Sie bereits einen Testlauf haben, empfehlen wir Ihnen einen neuen für diese Schulung.
 
-Fordern Sie einen Testlauf an, indem Sie [dieses Formular](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg) ausfüllen. Wenn Sie das Formular ausfüllen, werden Sie aufgefordert, Ihre E-Mail mit dem **Adobe-Zertifizierungsprofil anzugeben**. Wenn Sie noch nicht über eines verfügen, wechseln Sie zur [Adobe-Zertifizierungs-Site ](https://certification.adobe.com/#) erstellen Sie ein Benutzerprofil.
+Fordern Sie einen Testlauf an, indem Sie [dieses Formular](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg) ausfüllen. Wenn Sie das Formular ausfüllen, werden Sie aufgefordert, Ihre E-Mail mit dem **Adobe-Zertifizierungsprofil anzugeben**. Wenn Sie noch nicht über eines verfügen, wechseln Sie zur [Adobe-Zertifizierungs-Site &#x200B;](https://certification.adobe.com/#) erstellen Sie ein Benutzerprofil.
 
 ### Zugreifen auf Workfront Fusion zum Üben
 
