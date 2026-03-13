@@ -26,7 +26,7 @@ In diesem Video wird beschrieben, wie Sie Genehmigungsprozesse für Projekte, Au
 Im Video wird das Erstellen von Genehmigungsprozessen, das Festlegen der genehmigenden Personen, das Konfigurieren von Status und die Verwendung von Phasen für mehrstufige Genehmigungen gezeigt.
 Der Schwerpunkt liegt auf der Flexibilität sowohl von globalen als auch von einmaligen Prozessen für das effektive Management von Aufgabengenehmigungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434696/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 
