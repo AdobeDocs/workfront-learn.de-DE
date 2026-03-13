@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront-Tutorials
-user-guide-description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen, Workfront-Funktionen und -Einstellungen besser zu verstehen.
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+user-guide-description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen sollen, die Funktionen und Einstellungen von Workfront besser zu verstehen.
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '2488'
-ht-degree: 76%
+source-wordcount: '2485'
+ht-degree: 78%
 
 ---
 
@@ -22,10 +22,10 @@ ht-degree: 76%
       + [Erstellen und Verwalten von Aufgabengebieten](/help/administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Anmelden als eine andere Benutzerin bzw. ein anderer Benutzer](/help/administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
 
-   + Gelöschte Elemente verwalten {#manage-deleted-items}
+   + Verwalten von gelöschten Elementen {#manage-deleted-items}
       + [Wiederherstellen von Objekten aus dem Papierkorb](/help/administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
-   + Systemstandardeinstellungen konfigurieren {#configure-system-defaults}
+   + Konfigurieren von Systemstandards {#configure-system-defaults}
       + [Erstellen und Verwalten von Objektstatus](/help/administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Grundlegendes zu Standard-Problemtypen](/help/administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Erstellen eines Problemstatus](/help/administration-and-setup/configure-system-defaults/create-an-issue-status.md)
@@ -103,7 +103,7 @@ ht-degree: 76%
       + [Erstellen eines IF-Textausdrucks](/help/custom-data/calculated-expressions/create-an-if-text-expression.md)
       + [Informationen zu berechneten Feldausdrücken](/help/custom-data/calculated-expressions/things-to-know-about-expressions.md)
 
-+ Arbeit verwalten {#manage-work}
++ Verwalten von Arbeit {#manage-work}
    + Projekte {#projects}
       + [Erstellen und Verwalten eines neuen Projekts](/help/manage-work/projects/understand-basic-project-creation.md)
       + [Navigieren auf der Projektseite](/help/manage-work/projects/navigate-the-project-page.md)
@@ -158,7 +158,7 @@ ht-degree: 76%
       + [Optimieren von Projektprioritäten mit dem Portfolio-Optimierungs-Tool](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Genehmigungsprozesse und Meilensteinpfade {#approval-processes-and-milestone-paths}
-      + [Erstellen eines globalen und eines Genehmigungsprozesses für einmaligen Gebrauch](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Genehmigungsprozesse erstellen und verwalten](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Anwenden eines Problemgenehmigungsprozesses in einer Anfrage-Warteschlange](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Überprüfen und Genehmigen digitaler Arbeiten](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Aufgaben, Probleme und Genehmigungen effektiv delegieren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
@@ -327,7 +327,7 @@ ht-degree: 76%
    + [Datensatztyp erstellen und verwalten](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [Erstellen und Verwalten von Tabellenansichten](/help/workfront-planning/create-and-manage-table-views.md)
    + [Erstellen und Verwalten von Zeitleisten-Ansichten](/help/workfront-planning/create-and-manage-timeline-views.md)
-   + [Verbinden von Datensatztypen](/help/workfront-planning/connect-record-types.md)
+   + [Verbinden von Eintragstypen](/help/workfront-planning/connect-record-types.md)
    + [Erstellen eines Anfrageformulars für den Datensatztyp](/help/workfront-planning/create-a-record-type-request-form.md)
    + [Vorteile von Workfront Planning für UX Design-Teams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
@@ -474,7 +474,7 @@ ht-degree: 76%
    + [Der Unterschied zwischen einem Dokument und einem Korrekturabzug](/help/workfront-proof/document-vs-proof.md)
    + [Was sind Proofing-Viewer?](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
 
-   + Administration und Einrichtung {#administration-and-setup-for-proof}
+   + Administration und Setup {#administration-and-setup-for-proof}
       + [Was ist eine automatisierte Workflow-Vorlage?](/help/workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
       + [Anpassen von Korrekturabzugskommentaraktionen](/help/workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [Anpassen der Optionen der Korrekturabzugsentscheidungen](/help/workfront-proof/administration-and-setup/customize-proof-decision-options.md)
