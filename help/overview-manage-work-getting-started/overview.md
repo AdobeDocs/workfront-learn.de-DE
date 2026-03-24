@@ -1,6 +1,6 @@
 ---
 title: Arbeit verwalten - Erste Schritte
-description: Beginnen Sie Ihren Workfront-Journey, indem Sie lernen, Projekte zu erstellen und zu planen. Workfront empfiehlt, alles einfach zu halten.
+description: Beginnen Sie Ihre Tour durch Workfront, indem Sie lernen, Projekte zu erstellen und zu planen. Workfront empfiehlt, alles einfach zu halten.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,22 +11,22 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '943'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
 # Arbeit verwalten - Erste Schritte {#overview}
 
-Beginnen Sie Ihren Workfront-Journey, indem Sie lernen, Projekte zu erstellen und zu planen. Workfront empfiehlt, alles einfach zu halten.
+Beginnen Sie Ihre Tour durch Workfront, indem Sie lernen, Projekte zu erstellen und zu planen. Workfront empfiehlt, alles einfach zu halten.
 
 In diesem Tutorial erfahren Sie, wie Sie ein Projekt erstellen, ein Projekt planen, ein Projekt verwalten und ein Projekt schließen.
 
-Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=de)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
+Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
 
 >[!PREREQUISITES]
 >
@@ -37,7 +37,7 @@ Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - &#x200B;](http
 
 Erfahren Sie, was ein Projekt in Adobe Workfront ist, wie Sie es einrichten und ausführen und wie Sie ein Projekt am häufigsten erstellen.
 
-* [Grundlegendes zur einfachen &#x200B;](understand-basic-project-creation.md): Erfahren Sie mehr über die vier Schritte zum Einrichten und Ausführen eines Projekts, die Definition eines Projekts in Adobe Workfront und die häufigsten Methoden zum Erstellen eines Projekts.
+* [Grundlegendes zur einfachen ](understand-basic-project-creation.md): Erfahren Sie mehr über die vier Schritte zum Einrichten und Ausführen eines Projekts, die Definition eines Projekts in Adobe Workfront und die häufigsten Methoden zum Erstellen eines Projekts.
 * [Problem/Anfrage in ein Projekt konvertieren](create-a-project-from-a-request.md) - Erfahren Sie, wie Sie die Konvertierung von einer Anfrage in ein Projekt initiieren und die entsprechende Projektvorlage auswählen.
 * [Vier Möglichkeiten zum Erstellen eines Projekts](understand-other-ways-to-create-projects.md) - Erfahren Sie, wie Sie ein Projekt aus einer Vorlage erstellen, ein Projekt von Grund auf neu erstellen, ein vorhandenes Projekt kopieren oder eine [!DNL Microsoft Project]-Datei importieren.
 * [Ausfüllen der Projektdetails](fill-in-the-project-details.md) - Erfahren Sie mehr über die Projektdetailfelder, die Adobe Workfront Ihnen empfiehlt, beim Erstellen eines Projekts auszufüllen.
@@ -53,7 +53,7 @@ Erfahren Sie, wie Sie eine Projekt-Zeitleiste einrichten, die zu erledigende Arb
 * [Arbeiten mit Aufgaben](work-with-tasks.md) - Erfahren Sie, wie Sie vorhandene Aufgaben bearbeiten, Aufgaben hinzufügen und löschen und die Aufgabenreihenfolge in einem Projekt ändern.
 * [Aufgaben aus dem Projektplan zuweisen](assign-tasks-from-the-project-plan.md) - Erfahren Sie, wie Sie einer Aufgabe mithilfe von Inline-Bearbeitung in einem Projekt einen Benutzer zuweisen.
 * [Dauer von Aufgaben verstehen](understand-task-durations.md) - Erfahren Sie, wie sich die Dauer auf das Start- und Abschlussdatum von Aufgaben auswirkt, wie sich die Dauer auf die Projektzeitleisten auswirkt und welche Best Practices für die Verwendung der Aufgabendauer gelten.
-* [Aufgaben sequenzieren](learn-to-sequence-tasks.md) - Erfahren Sie, was Vorgänger sind und wie sie Aufgaben in einem Projekt sequenzieren. Lernen Sie, mithilfe von Zeiträumen und Vorgängern eine Zeitleiste zu erstellen.
+* [Aufgaben sequenzieren](learn-to-sequence-tasks.md) - Erfahren Sie, was Vorgänger sind und wie sie Aufgaben in einem Projekt sequenzieren. Lernen Sie, mithilfe von Zeiträumen und Vorgängern eine Timeline zu erstellen.
 * [Planstunden verstehen](understand-planned-hours.md) - Erfahren Sie, was in Adobe Workfront geplant ist, warum die geplanten Stunden für Ihr Projekt wichtig sind und wie Sie den Aufgaben die geplanten Stunden hinzufügen.
 * [Projektzeitleisten verstehen](understand-project-timelines.md) - Erfahren Sie, wie Sie Projekte ab einem Start- oder Abschlussdatum planen. Erfahren Sie anschließend, wie sich Dauer, Vorgänger und Aufgabenbeschränkungen auf den Projektplan auswirken.
 * [Datumstypen und Fortschrittsstatus verstehen](understand-task-dates-and-progress-status.md) - Erfahren Sie, wie Sie eine Ansicht auswählen, um die verschiedenen Datumstypen in Workfront zu vergleichen, und wie Sie das Feld „Fortschrittsstatus“ verwenden.

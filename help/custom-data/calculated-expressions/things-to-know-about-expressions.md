@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
-source-wordcount: '964'
-ht-degree: 100%
+source-wordcount: '959'
+ht-degree: 98%
 
 ---
 
@@ -38,13 +38,13 @@ Die Stunden in der Workfront-Datenbank werden in Minuten gespeichert. Wenn Sie s
 
 Es wird empfohlen, Ausdrücke mit nur wenigen oder ganz ohne Leerzeichen zwischen den einzelnen Ausdrücken zu schreiben.
 
-* IF(ISBLANK({description}),„Ohne Beschreibung“, „Mit Beschreibung“)
+* IF(ISBLANK({description}),„No description“,„Has description„)
 
 ![Ausdrücke ohne Leerzeichen zwischen Feldern](assets/T2K02.png)
 
 Wenn es jedoch hilft, den Sachverhalt besser zu verstehen, können die Ausdrücke um einige Leerzeichen ergänzt werden. Die zusätzlichen Leerzeichen sollten nicht dazu führen, dass der Ausdruck einen Wert in [!DNL Workfront] nicht erfassen oder berechnen kann.
 
-* IF (ISBLANK ({description}), „Ohne Beschreibung“ , „Mit Beschreibung“ )
+* IF (ISBLANK ({description}), „No description“ , „Has description“ )
 
 ![Ausdrücke mit Leerzeichen zwischen Feldern](assets/T2K03.png)
 
@@ -117,8 +117,10 @@ Dasselbe können Sie bei einer Iteration tun. Sie können denselben Ausdruck ver
 
 Je nach Bedarf können berechnete Felder in benutzerdefinierten Formularen recht einfach oder sehr komplex sein. In Ausdrücke können andere Ausdrücke und Werte eingebettet oder verschachtelt sein, um den Detailgrad zu erreichen, der erforderlich ist, um sich ein besseres Bild von der Arbeit in Ihrem Unternehmen zu machen.
 
-<!--Depending on the need, calculated fields in custom forms can be quite simple or very complex. Expressions can embed, or nest, other expressions and values to provide the level of detail needed to get a better picture of what is going on with the work being done at your organization. 
+<!--
+Depending on the need, calculated fields in custom forms can be quite simple or very complex. Expressions can embed, or nest, other expressions and values to provide the level of detail needed to get a better picture of what is going on with the work being done at your organization. 
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you're ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.
+-->

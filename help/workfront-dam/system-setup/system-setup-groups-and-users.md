@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 100%
 
@@ -62,4 +62,5 @@ Mit einer Lizenz für [!UICONTROL Workfront DAM] stehen drei Rollentypen zur Ver
 <!-- 
 Learn more graphic & documentation article link, below
 * Understanding the difference between Workfront licenses and Workfront DAM role types
-* -->
+* 
+-->
