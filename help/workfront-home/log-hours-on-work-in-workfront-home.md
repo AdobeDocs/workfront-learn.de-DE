@@ -1,6 +1,6 @@
 ---
 title: Anleitung zum Protokollieren von Arbeitsstunden auf der [!UICONTROL Startseite]
-description: Erfahren Sie, wie Sie die Zeit für Arbeitsaufträge in [!DNL  Workfront] protokollieren können. Erfahren Sie, warum für Ihre Organisation möglicherweise eine Protokollierungszeit erforderlich ist.
+description: Erfahren Sie, wie Sie die Zeit für Arbeitsaufträge in [!DNL &#x200B; Workfront] protokollieren können. Erfahren Sie, warum für Ihre Organisation möglicherweise eine Protokollierungszeit erforderlich ist.
 feature: Work Management
 type: Tutorial
 role: User
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 ---
 
-# Protokollieren von Arbeitsstunden auf der [!DNL Workfront][!UICONTROL Startseite]
+# Protokollieren von Arbeitsstunden auf der [!DNL Workfront]&#x200B;[!UICONTROL Startseite]
 
 In diesem Video lernen Sie Folgendes:
 

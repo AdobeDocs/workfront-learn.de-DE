@@ -11,9 +11,8 @@ thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 hide: true
-hidefromtoc: true
-source-git-commit: 76bccb731d1257fee3e3c0c20dde8efa2270a9c3
-workflow-type: ht
+source-git-commit: d35545dcc670baef47834464a0a7aae9e50daf18
+workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%
 
@@ -34,4 +33,4 @@ Auf der Seite [!DNL My Updates] werden alle Ihnen zugewiesenen Genehmigungsantr�
 
 ![Ein Bild der Seite [!DNL Home]](assets/home-overview.png)
 
-Welchen Abschnitt Sie für die Verwaltung Ihrer Genehmigungsanfragen verwenden, hängt von den Prozessen in Ihrem Unternehmen für die Überprüfung und Genehmigung von Arbeit ab. Wenden Sie sich an Ihre Manager oder Managerinnen, Systemadmins oder das interne Workfront-Team, um zu erfahren, welches System Sie verwenden sollten, um Ihren Arbeitsablauf optimal zu unterstützen.
+Welchen Abschnitt Sie für die Verwaltung Ihrer Genehmigungsanfragen verwenden, hängt von den Prozessen in Ihrem Unternehmen für die Überprüfung und Genehmigung von Arbeit ab. Wenden Sie sich an Ihre Manager oder Managerinnen, Systemadmins oder das interne Workfront-Team, um zu erfahren, welches System Sie verwenden sollten, um Ihren Workflow optimal zu unterstützen.
