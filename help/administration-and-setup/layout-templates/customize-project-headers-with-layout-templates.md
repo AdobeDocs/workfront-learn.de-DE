@@ -21,5 +21,5 @@ ht-degree: 7%
 
 Erfahren Sie, wie Sie Projekt-Kopfzeilen so anpassen, dass nur die relevantesten Informationen mithilfe von Layout-Vorlagen angezeigt werden. Erfahren Sie, wie Sie unnötige Felder entfernen, benutzerdefinierte Felder hinzufügen und effektiv organisieren können. Dadurch wird sichergestellt, dass Teams schnell auf wichtige Projektdetails zugreifen können, was die Klarheit und Effizienz verbessert. Sehen Sie sich das folgende Video an, um eine schrittweise Anleitung zur Optimierung von Projekt-Headern zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483472/?captions=ger&learn=on&enablevpops)
 

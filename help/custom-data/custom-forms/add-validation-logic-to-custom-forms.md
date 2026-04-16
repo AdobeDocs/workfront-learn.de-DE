@@ -20,5 +20,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie benutzerdefinierten Formularen eine Validierungslogik hinzufügen, um die Datengenauigkeit sicherzustellen und Benutzende beim korrekten Ausfüllen von Formularen zu unterstützen. Die Implementierung einer Validierungslogik hilft, Fehler zu vermeiden, Prozesse zu optimieren und die Effizienz Ihres Teams zu steigern. Erfahren Sie Schritt-für-Schritt-Anweisungen zum Erstellen von Bedingungen, Festlegen von Fehlermeldungen und effektiven Testen von Validierungen. Sehen Sie sich das folgende Video an, um diese wichtige Funktion zu meistern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483435/?captions=ger&learn=on&enablevpops)
 

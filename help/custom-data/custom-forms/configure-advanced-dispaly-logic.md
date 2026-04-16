@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit erweiterten Anzeigelogik-Ausdrücken die Sichtbarkeit von benutzerdefinierten Formularfeldern und -abschnitten steuern können. Mit dieser Funktion können Sie dynamischere und maßgeschneiderte Formulare erstellen, die an spezifischen Benutzeranforderungen ausgerichtet sind und die Workflow-Effizienz verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483460/?captions=ger&learn=on&enablevpops)
 
