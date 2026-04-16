@@ -9,17 +9,17 @@ doc-type: Feature Video
 duration: 240
 last-substantial-update: 2026-04-15T00:00:00Z
 jira: KT-20209
-source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
+source-git-commit: 748230401987ecf6e6bf2d0e0bf670f5f27e4456
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 7%
+source-wordcount: '70'
+ht-degree: 8%
 
 ---
 
 
 # Anpassen von Projektkopfzeilen mithilfe von Layout-Vorlagen
 
-Erfahren Sie, wie Sie Projekt-Kopfzeilen so anpassen, dass nur die relevantesten Informationen mithilfe von Layout-Vorlagen angezeigt werden. Erfahren Sie, wie Sie unnötige Felder entfernen, benutzerdefinierte Felder hinzufügen und effektiv organisieren können. Dadurch wird sichergestellt, dass Teams schnell auf wichtige Projektdetails zugreifen können, was die Klarheit und Effizienz verbessert. Sehen Sie sich das folgende Video an, um eine schrittweise Anleitung zur Optimierung von Projekt-Headern zu erhalten.
+Erfahren Sie, wie Sie Projekt-Kopfzeilen so anpassen, dass nur die relevantesten Informationen mithilfe von Layout-Vorlagen angezeigt werden. Lernen Sie, unnötige Felder zu entfernen, benutzerdefinierte Felder hinzuzufügen und sie effektiv zu organisieren, um sicherzustellen, dass Teams schnell auf wichtige Projektdetails zugreifen können, und verbessern Sie die Klarheit und Effizienz.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483472/?captions=ger&learn=on&enablevpops)
 
