@@ -1,25 +1,25 @@
 ---
-title: Anpassen von Projektkopfzeilen mithilfe von Layout-Vorlagen
-description: Erfahren Sie, wie Sie mithilfe von Layout-Vorlagen Felder zu Projektkopfzeilen hinzufügen und daraus entfernen können.
+title: Anpassen von Projekt-Headern mit Layout-Vorlagen
+description: Erfahren Sie, wie Sie Projekt-Kopfzeilen anpassen, wichtige Details aufzeigen und Workflows mit Layout-Vorlagen in der Adobe-Plattform optimieren können.
 feature: System Setup and Administration
-activity: deploy
-team: Technical Marketing
+topic: Personalization
 role: Admin
-level: Intermediate
-type: Tutorial
-thumbnail: null
-jira: KT-11108
-doc-type: video
-exl-id: e70029ce-e30e-42c2-aed0-849403dfb5e7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+level: Beginner
+doc-type: Feature Video
+duration: 240
+last-substantial-update: 2026-04-15T00:00:00Z
+jira: KT-20209
+source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 7%
 
 ---
 
+
 # Anpassen von Projektkopfzeilen mithilfe von Layout-Vorlagen
 
-Erfahren Sie, wie Sie mithilfe von Layout-Vorlagen Felder zu Projektkopfzeilen hinzufügen und daraus entfernen können.
+Erfahren Sie, wie Sie Projekt-Kopfzeilen so anpassen, dass nur die relevantesten Informationen mithilfe von Layout-Vorlagen angezeigt werden. Erfahren Sie, wie Sie unnötige Felder entfernen, benutzerdefinierte Felder hinzufügen und effektiv organisieren können. Dadurch wird sichergestellt, dass Teams schnell auf wichtige Projektdetails zugreifen können, was die Klarheit und Effizienz verbessert. Sehen Sie sich das folgende Video an, um eine schrittweise Anleitung zur Optimierung von Projekt-Headern zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422844?captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+
