@@ -9,9 +9,9 @@ duration: 189
 last-substantial-update: 2026-04-15T00:00:00Z
 jira: KT-20168
 thumbnail: KT-20168.jpeg
-source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
+source-git-commit: 39fde05ee231b996b4b97169addc5c493c26c308
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Konfigurieren der erweiterten Anzeigelogik
 
-Erfahren Sie, wie Sie mit erweiterten Anzeigelogik-Ausdrücken die Sichtbarkeit von benutzerdefinierten Formularfeldern und -abschnitten steuern können. Mit dieser Funktion können Sie dynamischere und maßgeschneiderte Formulare erstellen, die an spezifischen Benutzeranforderungen ausgerichtet sind und die Workflow-Effizienz verbessern.
+Erfahren Sie, wie Sie mit erweiterten Anzeigelogik-Ausdrücken die Sichtbarkeit von benutzerdefinierten Formularfeldern und -abschnitten steuern können, um dynamischere und maßgeschneiderte Formulare zu erstellen, die an spezifischen Benutzeranforderungen ausgerichtet sind und die Workflow-Effizienz verbessern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483460/?captions=ger&learn=on&enablevpops)
 
