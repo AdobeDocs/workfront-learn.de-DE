@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront-Tutorials
 user-guide-description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen sollen, die Funktionen und Einstellungen von Workfront besser zu verstehen.
-source-git-commit: bbf9d52b51168d846cc317a44b5eeaed432f8e5a
+source-git-commit: 7d929d47386ce95aa82689117dcb1e4d204130cc
 workflow-type: tm+mt
-source-wordcount: '2499'
+source-wordcount: '2485'
 ht-degree: 78%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 78%
       + [Anpassen von Problemtypen und Terminologie](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Konfigurieren der globalen standardmäßigen Problemvoreinstellungen](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [Geschäftsregeln erstellen und verwalten](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
-      + [Konfigurieren der benutzerdefinierten Lokalisierung](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + Layout-Vorlagen {#layout-templates}
       + [Was sind Layout-Vorlagen?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -89,8 +88,6 @@ ht-degree: 78%
       + [Anhängen eines benutzerdefinierten Formulars an ein Objekt](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Hinzufügen von Abschnittsumbrüchen und Logiken zu einem benutzerdefinierten Formular](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportieren eines benutzerdefinierten Formulars als PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
-      + [Hinzufügen von Validierungslogik zu benutzerdefinierten Formularen](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
-      + [Konfigurieren der erweiterten Anzeigelogik](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + Berechnete Ausdrücke {#calculated-expressions}
       + [Erste Schritte mit berechneten Feldern und Ausdrücken](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
