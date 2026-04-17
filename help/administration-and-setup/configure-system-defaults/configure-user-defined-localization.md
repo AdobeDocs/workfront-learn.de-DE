@@ -7,9 +7,9 @@ role: Admin
 level: Intermediate
 doc-type: Feature Video
 duration: 138
-last-substantial-update: 2026-04-15T00:00:00Z
+last-substantial-update: 2026-04-16T00:00:00Z
 jira: KT-20166
-source-git-commit: 39fde05ee231b996b4b97169addc5c493c26c308
+source-git-commit: 3b5a94cd50070e090fce922898a546118efbb76b
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die benutzerdefinierte Lokalisierung so konfigurieren, dass Inhalte basierend auf den Benutzereinstellungen in mehreren Sprachen angezeigt werden. Dies vereinfacht die überregionale Zusammenarbeit, da Teams so in ihrer Muttersprache arbeiten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483448/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
 
