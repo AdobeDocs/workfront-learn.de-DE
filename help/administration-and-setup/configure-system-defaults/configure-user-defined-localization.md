@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die benutzerdefinierte Lokalisierung so konfigurieren, dass Inhalte basierend auf den Benutzereinstellungen in mehreren Sprachen angezeigt werden. Dies vereinfacht die überregionale Zusammenarbeit, da Teams so in ihrer Muttersprache arbeiten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483448/?captions=ger&learn=on&enablevpops)
 
