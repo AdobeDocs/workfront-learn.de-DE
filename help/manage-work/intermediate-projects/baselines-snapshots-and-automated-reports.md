@@ -22,7 +22,7 @@ ht-degree: 0%
 In diesem Video wird gezeigt, wie wichtig die Verwendung von Grundlinien, Momentaufnahmen und gesendeten Berichten für eine effektive Projektverfolgung, historische Analysen und die Kommunikation mit Stakeholdern ist.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483626/?captions=ger&quality=12&learn=on&enablevpops)
 
 ## Die wichtigsten Punkte
 
