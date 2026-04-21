@@ -10,7 +10,7 @@ team: Technical Marketing
 last-substantial-update: 2026-04-20T00:00:00Z
 jira: KT-20256
 doc-type: video
-source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
+source-git-commit: e90a7ab4dcb8341ab1f942c50a018ad429550570
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -31,4 +31,3 @@ In diesem Video wird gezeigt, wie wichtig die Verwendung von Grundlinien, Moment
 * **Snapshots erfassen alle Projektdaten:** Im Gegensatz zu Baselines werden Snapshots manuell erstellt und erfassen alle Projekt-, Aufgaben-, Problem- und benutzerdefinierten Felder, was einen umfassenden Datensatz zu einem beliebigen Zeitpunkt bietet.
 * **Flexibler Vergleich und Reporting:** Benutzer können aktuelle Projektdaten mithilfe benutzerdefinierter Berichte und Ansichten mit Grundlinien oder Momentaufnahmen vergleichen und so eine detaillierte Analyse der Änderungen und des Fortschritts ermöglichen.
 * **Automatisiertes periodisches Reporting mit gesendeten Berichten:** Die Funktion „Bericht senden“ ermöglicht es Benutzenden, regelmäßige E-Mail-Berichte zu planen und zu empfangen, was eine automatisierte Möglichkeit bietet, Projektdaten im Laufe der Zeit zu verfolgen und zu archivieren.
-
