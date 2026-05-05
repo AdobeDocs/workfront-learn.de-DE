@@ -58,7 +58,7 @@ Mit einem Dashboard können Führungskräfte wichtige Projekte und offene Fragen
 
 Berichte in Workfront können dazu beitragen, die Verantwortlichkeit Ihrer Mitarbeitenden zu erhöhen. Der Schlüssel zur Nutzung von Berichten besteht darin, einen klaren Workflow für ihre Verwendung in Ihrem Unternehmen festzulegen. Stellen Sie sicher, dass jeder weiß, welche Berichte zur Erfolgsmessung verwendet werden.
 
-![Beispiel für Berichte in einem Dashboard in Workfront ](assets/workfront-4-executives-3.png)
+![Beispiel für Berichte in einem Dashboard in Workfront &#x200B;](assets/workfront-4-executives-3.png)
 
 Beispiel für Berichte in einem Dashboard in Workfront
 

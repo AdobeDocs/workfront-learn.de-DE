@@ -1,6 +1,6 @@
 ---
 title: Aktualisierung und Überprüfung der Finanzen
-description: Erfahren Sie, wie Sie die Finanzinformationen zu einem Projekt in [!DNL  Workfront]überprüfen können.
+description: Erfahren Sie, wie Sie die Finanzinformationen zu einem Projekt in [!DNL &#x200B; Workfront]überprüfen können.
 activity: use
 team: Technical Marketing
 feature: Work Management
