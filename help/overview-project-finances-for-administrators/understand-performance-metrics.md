@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10065
 hide: true
 exl-id: a7dbd937-0caa-4eb6-bb5d-bff6705e2972
-source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '445'
 ht-degree: 100%
 
 ---

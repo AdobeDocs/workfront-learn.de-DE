@@ -9,9 +9,9 @@ role: User
 level: Beginner
 jira: KT-10142
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '404'
 ht-degree: 100%
 
 ---
@@ -23,12 +23,12 @@ Die Projektseite ist mit vielen Funktionen ausgestattet, die Ihnen bei der Verwa
 ![Projektseite](assets/project-page-graphic-for-planner.png)
 
 1. **Breadcrumb-Pfad:** Navigieren Sie durch die Programm- und Portfoliohierarchie hinter dem Projekt.
-2. **Objekttyp:** Die Anzeige des Objekttyps auf der Anmeldeseite hilft Ihnen zu erkennen, was Sie in [!DNL Workfront] sehen. Der Begriff „Projekt“ kann von Ihren [!DNL Workfront] Systemadmins angepasst werden.
+2. **Objekttyp:** Die Anzeige des Objekttyps auf der Landingpage hilft Ihnen zu erkennen, was Sie in [!DNL Workfront] sehen. Der Begriff „Projekt“ kann von Ihren [!DNL Workfront] Systemadmins angepasst werden.
 3. **Projektname:** Der Name des Projekts, das Sie gerade sehen. Klicken Sie auf den Namen, um ihn zu bearbeiten.
 4. **Projektkopfzeile:** Standardinformationen, die auf allen Projektseiten verfügbar sind.
 5. **[!UICONTROL Prozent abgeschlossen]:** Diese Angabe wird automatisch auf Grundlage der im Projekt abgeschlossenen Aufgaben aktualisiert.
 6. **[!UICONTROL Projekteigentümer]:** In den meisten Unternehmen ist dies die Person, die das Projekt verwaltet. Dies ist die Person, die für die Verwaltung des Projekts in [!DNL Workfront] verantwortlich ist und sicherstellt, dass es abgeschlossen wird.
-7. **[!UICONTROL Geplanter Fertigstellungstermin]:** Der geplante Fertigstellungstermin des Projekts wird von dieser Person über die Projektzeitleiste festgelegt.
+7. **[!UICONTROL Geplanter Fertigstellungstermin]:** Der geplante Fertigstellungstermin des Projekts wird von dieser Person über die Projekt-Timeline festgelegt.
 8. **[!UICONTROL Zustand]:** Der [!UICONTROL Zustand] ist eine visuelle Darstellung des Projektfortschritts. [!DNL Workfront] kann den [!UICONTROL Zustand] automatisch auf Grundlage des Fortschrittsstatus der Aufgaben im Projekt konfigurieren. Der [!UICONTROL Zustand] kann auch manuell über die Projektdetails eingestellt werden.
 9. **[!UICONTROL Status]:** Der [!UICONTROL Status] zeigt an, wo sich das Projekt im Prozess befindet: Ist das Projekt noch in der Planung, wird es bearbeitet oder ist die gesamte Arbeit im Projekt abgeschlossen.
 10. **[!UICONTROL Neue Aufgabe]:** Klicken Sie auf diese Option, um eine neue Aufgabe im Projekt zu erstellen. Die Aufgabe wird am Ende der Liste generiert.

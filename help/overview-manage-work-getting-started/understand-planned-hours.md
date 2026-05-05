@@ -14,9 +14,9 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 56b8ea1a-d0cc-47ec-8d88-5f0ef204656f
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie Sie geplante Stunden schätzen
 * Wie Sie geplante Stunden zu Aufgaben hinzufügen
 
->[!VIDEO](https://video.tv.adobe.com/v/3445342/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
 
 
 ## Empfohlene Tutorials und Artikel zu diesem Thema
@@ -39,4 +39,4 @@ In diesem Video lernen Sie Folgendes:
 * [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)
 * [Überblick über Arbeitszeittabellen](https://experienceleague.adobe.com/de/docs/workfront/using/timesheets/details/timesheets-overview)
-* [Erfassen der Zeit](https://experienceleague.adobe.com/de/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [Erfassen von Zeit](https://experienceleague.adobe.com/de/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

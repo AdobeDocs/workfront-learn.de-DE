@@ -1,5 +1,5 @@
 ---
-title: Einrichten von Standardwerten für Einnahmen und Kosten von Aufgaben
+title: Einrichten von Standardwerten für Umsatz und Kosten von Aufgaben
 description: Erfahren Sie, wie die Umsatz- und Kostenarten verwendet werden, um die Plan- und Ist-Finanzinformationen für eine Aufgabe zu berechnen.
 activity: use
 team: Technical Marketing
@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10066
 hide: true
 exl-id: 4245eb13-0436-429b-a956-ff13c3c824c3
-source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 100%
 
 ---

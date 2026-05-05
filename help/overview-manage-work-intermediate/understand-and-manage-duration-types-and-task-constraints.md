@@ -13,9 +13,9 @@ jira: KT-13530
 doc-type: video
 hide: true
 exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ In diesem Video lernen Sie Folgendes über die Laufzeittypen und Aufgabenbeschr�
 * Best Practices für ihre Verwendung
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422825/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
 Informationen zum Erstellen einer Ansicht mit den Laufzeitentypen und Aufgabenbeschränkungen finden Sie in Aktivität „Laufzeittypen und Aufgabenbeschränkungen anzeigen“ unter [Grundansicht erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=de).

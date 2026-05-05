@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10064
 hide: true
 exl-id: 30f5bb50-5c53-4199-a558-fad07e71ef84
-source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '255'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ Bei Ausgaben in [!DNL Workfront] handelt es sich um sonstige Kosten im Zusammenh
 * Allgemein
 * Materialien
 * Drucken
-* Lieferung
+* Versand
 * Reise
 
 Systemadmins können die für ihr Unternehmen benötigten Ausgabentypen hinzufügen. Diese zusätzlichen Ausgabentypen können geändert, ausgeblendet oder gelöscht werden, um die in Ihrem Unternehmen benötigten Finanzberichte zu unterstützen.

@@ -12,9 +12,9 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '448'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ In beiden Instanzen wird die genehmigende Person, wenn sich der Objektstatus in 
 
 In diesem Video erfahren Sie, wie Sie einen globalen und einen einmaligen Genehmigungsprozess für ein Projekt, eine Aufgabe oder ein Problem erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434696/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
@@ -39,7 +39,7 @@ In diesem Video erfahren Sie, wie Sie einen globalen und einen einmaligen Genehm
 
 ## Anwenden automatischer Problemgenehmigungen in einer Anfrage-Warteschlange
 
-Wenn Sie automatische Problemgenehmigungen in einer Anfrage-Warteschlange einrichten möchten, kann dies nur mithilfe eines globalen Genehmigungsprozesses für Probleme durchgeführt und auf ein [!UICONTROL Warteschlangen-Thema] angewendet werden. 
+Wenn Sie automatische Problemgenehmigungen in einer Anfrage-Warteschlange einrichten möchten, kann dies nur mithilfe eines globalen Genehmigungsprozesses für Probleme durchgeführt und auf ein [!UICONTROL Warteschlangen-Thema] angewendet werden.
 
 Wählen Sie beim Erstellen oder Bearbeiten eines [!UICONTROL Warteschlangen-Themas] im Feld **[!UICONTROL Standardgenehmigung]** den globalen Genehmigungsprozess aus.
 

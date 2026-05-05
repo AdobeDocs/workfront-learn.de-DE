@@ -11,9 +11,9 @@ recommendations: noDisplay,catalog
 jira: KT-10151
 hide: true
 exl-id: 5d916193-b80a-41b0-83ad-9380848e5760
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '59'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ In diesem Video lernen Sie Folgendes:
 * Der lange Weg, um eine Aufgabe in einem Workfront-Projekt zu erstellen
 * Einige praktische Tastaturbefehle zum Erstellen von Aufgaben
 
->[!VIDEO](https://video.tv.adobe.com/v/3423157/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

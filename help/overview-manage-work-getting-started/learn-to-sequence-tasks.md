@@ -1,6 +1,6 @@
 ---
 title: Informationen zum Sequenzieren von Aufgaben
-description: Erfahren Sie, was ein Vorgänger ist und inwiefern er die Reihenfolge der Aufgaben in einem Projekt bestimmt. Lernen Sie, mithilfe von Zeiträumen und Vorgängern eine Zeitleiste zu erstellen.
+description: Erfahren Sie, was ein Vorgänger ist und inwiefern er die Reihenfolge der Aufgaben in einem Projekt bestimmt. Lernen Sie, mithilfe von Zeiträumen und Vorgängern eine Timeline zu erstellen.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: d9beede9-fe6d-4d2b-be1b-ee41d3130b43
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
@@ -26,12 +26,12 @@ ht-degree: 100%
 In diesem Video lernen Sie Folgendes:
 
 * Beschreibung von Vorgängern in Workfront
-* Erstellen einer Zeitleiste mithilfe von Zeiträumen und Vorgängern
+* Erstellen einer Timeline mithilfe von Zeiträumen und Vorgängern
 * So sequenzieren Vorgänger Aufgaben in einem Projekt
 * Auswirkungen der Einrichtung eines Startdatums für Aufgaben auf die Aufgabenbeschränkung
 * Eingeben von Vorgängern
 
->[!VIDEO](https://video.tv.adobe.com/v/3447329/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more urls

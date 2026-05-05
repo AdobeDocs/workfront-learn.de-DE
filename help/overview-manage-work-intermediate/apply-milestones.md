@@ -14,9 +14,9 @@ hide: true
 doc-type: video
 exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
 recommendations: noDisplay,catalog
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen eines Meilensteins zu einer Aufgabe
 * Best Practices für die Anwendung von Meilensteinen
 
->[!VIDEO](https://video.tv.adobe.com/v/3430284/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
