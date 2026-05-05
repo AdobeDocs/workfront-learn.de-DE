@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10148
 hide: true
 exl-id: ce6c65d1-d017-4b0e-b4b5-1a0fa40cfec5
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
@@ -31,7 +31,7 @@ In diesem Video lernen Sie Folgendes:
 * Freigeben eines Projekts durch Aufnahme in ein Portfolio
 * Best Practices für die Freigabe eines Projekts
 
->[!VIDEO](https://video.tv.adobe.com/v/3423148/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3423148/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

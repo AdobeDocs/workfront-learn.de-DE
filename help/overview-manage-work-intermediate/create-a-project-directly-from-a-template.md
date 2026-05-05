@@ -12,10 +12,10 @@ jira: KT-10156
 recommendations: noDisplay,catalog
 hide: true
 exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 93%
+source-wordcount: '198'
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Im Detailfenster können Sie die Einstellungen des neuen Projekts ändern.
 
 * [Erstellen einer Projektvorlage und Informationen über Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [Freigeben einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Ein bestehendes Projekt kopieren](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Kopieren eines bestehenden Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 

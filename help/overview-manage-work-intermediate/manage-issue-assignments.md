@@ -1,5 +1,5 @@
 ---
-title: Problemzuweisungen verwalten
+title: Verwalten von Problemzuweisungen
 description: Erfahren Sie, wie Sie ein Problem einer einzelnen Person, mehreren Personen oder einem Team zuweisen, damit das Problem gelöst wird.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-10071
 hide: true
 exl-id: b4999851-e066-4afb-92f4-0abd8a3b84e7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
 ---
 
-# Problemzuweisungen verwalten
+# Verwalten von Problemzuweisungen
 
 Die Verwaltung von Problemen ist eine wichtige Verantwortung der Projektverantwortlichen und derjenigen, die für die Bearbeitung der Probleme zugewiesen wurden.
 
@@ -31,7 +31,7 @@ In diesem Video lernen Sie Folgendes:
 * Den Fortschritt bei Problemen aktualisieren
 * Den Status des Problems aktualisieren
 
->[!VIDEO](https://video.tv.adobe.com/v/3446964/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3446964/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

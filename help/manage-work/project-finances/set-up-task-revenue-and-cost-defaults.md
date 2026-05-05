@@ -10,13 +10,13 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: 2026-04-28T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '204'
-ht-degree: 100%
+source-git-commit: 700e8f87df5fad577b81bc428c0d9acfa1c07798
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 38%
 
 ---
 
@@ -27,13 +27,12 @@ Erfahren Sie, wo die Umsatzart und die Kostentypen verwendet werden und wie Sie 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484189/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Kosten- und Umsatzdaten anzeigen:** Auf Kosten- und Umsatzdetails für Aufgaben kann durch Öffnen der Aufgabe, Auswählen von Aufgabendetails und Scrollen zum Abschnitt „Finanzen“ zugegriffen werden.
-* **Standardwerte für Aufgaben festlegen:** Systemadmins können Standardkosten und Umsatzarten für das Projekt-Management festlegen, indem sie zu „Setup“ > „Projektpräferenzen“ > „Aufgaben und Probleme“ navigieren.
-* **Standard für allgemeine Umsatzart:** „Stundensatz nach Funktion“ ist ein typischer Standard für den Umsatztyp, sodass protokollierte Zeit als potenziell fakturierbar erfasst werden kann, wenn die Benutzerin oder der Benutzer über ein Aufgabengebiet mit einer Umsatzrate verfügt.
-* **Auswirkungen der Einstellungen für den Umsatz:** Wenn die Umsatzart auf „Nicht fakturierbar“ eingestellt ist, wird für die Aufgabe kein Umsatz erfasst.
-* **Standardkostenart:** „Benutzer pro Stunde“ wird häufig als Standardkostenart verwendet, wobei zur effizienten Nachverfolgung Kostendaten direkt aus dem Benutzerprofil abgerufen werden.
+* **Anzeigen von Kosten- und Umsatzdaten:** Auf Kosten- und Umsatzdetails für Aufgaben kann durch Öffnen der Aufgabe, Auswählen von Aufgabendetails und Scrollen zum Abschnitt „Finanzen“ zugegriffen werden. &#x200B;
+* **Standardwerte für Aufgaben festlegen** Systemadministratoren können Standardkosten- und Umsatztypen für Projektmanager festlegen, indem sie zu „Setup > Projektvoreinstellungen > Aufgaben und Probleme“ navigieren. &#x200B;
+* **Standard für allgemeinen Umsatztyp:** „Funktion ‚Stündlich‘&quot; ist ein typischer Standard für den Umsatztyp, sodass protokollierte Zeit als potenziell fakturierbar erfasst werden kann, wenn der Benutzer ein Aufgabengebiet mit einer Umsatzrate hat. &#x200B;
+* **Standardkostenart:** wird häufig „Benutzer pro Stunde“ als Standardkostenart verwendet, wobei zur effizienten Nachverfolgung Kostendaten direkt aus dem Benutzerprofil abgerufen werden. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema

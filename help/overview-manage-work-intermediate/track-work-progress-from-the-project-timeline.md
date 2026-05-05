@@ -1,6 +1,6 @@
 ---
-title: Verfolgen des Fortschritts über die Projektzeitleiste
-description: Erfahren Sie, wie Sie den Arbeitsfortschritt auf der Projektzeitleiste in [!DNL  Workfront] anhand von prozentualer Abschlussrate, Status, Zuweisungen oder Einschränkungen verfolgen können.
+title: Verfolgen des Fortschritts über die Projekt-Timeline
+description: Erfahren Sie, wie Sie den Arbeitsfortschritt auf der Projekt-Timeline in [!DNL  Workfront] anhand von prozentualer Abschlussrate, Status, Zuweisungen oder Einschränkungen verfolgen können.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,16 +11,16 @@ last-substantial-update: 2023-08-16T00:00:00Z
 level: Beginner
 jira: KT-10150
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '430'
 ht-degree: 100%
 
 ---
 
-# Verfolgen des Fortschritts über die Projektzeitleiste
+# Verfolgen des Fortschritts über die Projekt-Timeline
 
-Vergewissern Sie sich, dass die Aufgaben so vorankommen, wie sie sollten, um die Projektfristen einzuhalten. Beim Durchsuchen der [!UICONTROL Aufgabenliste] gibt es in [!DNL  Workfront] mehrere Funktionen, die Ihnen helfen, den Fortschritt und den Status der Arbeit zu überwachen.
+Vergewissern Sie sich, dass Aufgaben wie beabsichtigt vorankommen, um Projektfristen einzuhalten. Beim Durchsuchen der [!UICONTROL Aufgabenliste] gibt es in [!DNL  Workfront] mehrere Funktionen, die Ihnen helfen, den Fortschritt und den Status der Arbeit zu überwachen.
 
 ## Prozent abgeschlossen
 
@@ -49,10 +49,10 @@ Fügen Sie die [!UICONTROL Statusspalte] in eine [!UICONTROL Ansicht] ein, um sc
 
 ## Aufgabenbeschränkung
 
-Manchmal werden Aufgabenbeschränkungen geändert, ohne dass Sie es merken. Einschränkungen können das Verhalten Ihrer Zeitleiste beeinflussen, daher sollten Sie sicherstellen, dass sie so eingestellt sind, wie Sie es wünschen.
+Manchmal werden Aufgabenbeschränkungen geändert, ohne dass Sie es merken. Einschränkungen können das Verhalten Ihrer Timeline beeinflussen, daher sollten Sie sicherstellen, dass sie so eingestellt sind, wie Sie es wünschen.
 
 ![Aufgabenliste des Projekts mit Spalte für Aufgabenbeschränkungen](assets/planner-fund-task-constraint.png)
 
-Erstellen Sie eine benutzerdefinierte Ansicht, die die Spalte [!UICONTROL Aufgabenbeschränkung] enthält, um diese Informationen in Ihrer Aufgabenliste anzuzeigen. Wenn Sie das Projekt von einem Starttermin aus geplant haben, sollten Ihre Aufgaben die Beschränkung [!UICONTROL So bald wie möglich] ([!UICONTROL ASAP]) haben.
+Erstellen Sie eine benutzerdefinierte Ansicht, die die Spalte [!UICONTROL Aufgabenbeschränkung] enthält, um diese Informationen in Ihrer Aufgabenliste anzuzeigen. Wenn Sie das Projekt von einem Startdatum aus geplant haben, sollten Ihre Aufgaben die Beschränkung [!UICONTROL So bald wie möglich] ([!UICONTROL ASAP]) haben.
 
 Weitere Details zu Aufgabenbeschränkungen finden Sie unter [Verstehen und Verwalten von Dauertypen und Aufgabenbeschränkungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=de).

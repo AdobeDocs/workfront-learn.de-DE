@@ -1,5 +1,5 @@
 ---
-title: Verstehen der Ansicht [!UICONTROL Pinnwand]
+title: Grundlegendes zur [!UICONTROL Pinnwandansicht]
 description: Erfahren Sie, wie Sie die Ansicht [!UICONTROL Pinnwand] auf der Landingpage des Projekts verwenden können.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-13743
 hide: true
 exl-id: 5e9d7008-63a7-48df-8eba-b18da763c63c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
@@ -25,10 +25,10 @@ ht-degree: 100%
 In diesem Video lernen Sie Folgendes:
 
 * Finden der Ansicht [!UICONTROL Pinnwand]
-* Verwenden der Ansicht [!UICONTROL Pinnwand] 
+* Verwenden der Ansicht [!UICONTROL Pinnwand]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423278/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3423278/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

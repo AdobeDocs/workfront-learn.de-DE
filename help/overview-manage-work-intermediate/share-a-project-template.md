@@ -13,7 +13,7 @@ hide: true
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -33,6 +33,6 @@ Sie werden Folgendes lernen:
 
 * [Erstellen einer Projektvorlage und Informationen über Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [Erstellen eines Projekts direkt aus einer Vorlage](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Ein bestehendes Projekt kopieren](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Kopieren eines bestehenden Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

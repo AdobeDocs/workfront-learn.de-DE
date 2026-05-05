@@ -1,5 +1,5 @@
 ---
-title: Informationen zum Finanzzugriff
+title: Grundlegendes zum Finanzzugriff
 description: Erfahren Sie, wie Admins mit Finanz-Zugriffsrechten steuern können, wer die in Workfront verfolgten Finanzinformationen anzeigen und bearbeiten kann.
 activity: use
 team: Technical Marketing
@@ -11,7 +11,7 @@ level: Intermediate
 jira: KT-10067
 hide: true
 exl-id: ded6b570-3e2a-4372-867d-a370de30dc31
-source-git-commit: fd3ce7acda35b02c4eaf12f4dddab448e47bc7ac
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 95%
@@ -37,7 +37,7 @@ Der allgemeine Zugang zu Finanzdaten wird zunächst durch den [!DNL Workfront]-L
 
 **[!UICONTROL Plan]-Lizenzen berechtigen zu Folgendem:**
 
-* Abrechnungsdatensätze verwalten
+* Abrechnungseinträge verwalten
 * Funktionsbezogene Fakturierung und Kostensätze verwalten und anzeigen
 * Benutzerfakturierung und Kostensätze verwalten und anzeigen
 * Ausgaben verwalten

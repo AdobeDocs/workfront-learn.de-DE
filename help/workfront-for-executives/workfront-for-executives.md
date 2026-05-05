@@ -12,10 +12,10 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '510'
-ht-degree: 100%
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+workflow-type: tm+mt
+source-wordcount: '513'
+ht-degree: 91%
 
 ---
 
@@ -40,7 +40,7 @@ Leitungs- und Führungskräfte können zum Berichtsbereich navigieren, um benutz
 
 ### Dashboards
 
-Ein Dashboard ist eine Sammlung von Berichten mit Informationen, die die Führungskräfte regelmäßig benötigen, um sich einen Überblick zu verschaffen. Das Dashboard ist einfach eine Sammlung von Berichten, die Informationen liefern, welche die Führungskräfte regelmäßig sehen sollten. Die Dashboards sind vollständig anpassbar, sodass alle Workfront-Benutzenden die für sie jeweils wichtigen Arbeiten sehen können.
+Mithilfe eines Dashboards können Führungskräfte jeden Teil der Arbeit, an der ihre Organisation derzeit arbeitet, anzeigen und schnell einsehen.Das Dashboard ist lediglich eine Sammlung von Berichten, die den Verantwortlichen Informationen bieten, die sie regelmäßig einsehen müssen. Die Dashboards sind vollständig anpassbar, sodass alle Workfront-Benutzenden die für sie jeweils wichtigen Arbeiten sehen können.
 
 Klicken Sie im Hauptmenü oben rechts auf „Dashboards“, um den Dashboard-Bereich zu öffnen.
 
@@ -58,7 +58,7 @@ Mit einem Dashboard können Führungskräfte wichtige Projekte und offene Fragen
 
 Berichte in Workfront können dazu beitragen, die Verantwortlichkeit Ihrer Mitarbeitenden zu erhöhen. Der Schlüssel zur Nutzung von Berichten besteht darin, einen klaren Workflow für ihre Verwendung in Ihrem Unternehmen festzulegen. Stellen Sie sicher, dass jeder weiß, welche Berichte zur Erfolgsmessung verwendet werden.
 
-![Beispiel für Berichte in einem Dashboard in Workfront ](assets/workfront-4-executives-3.png)
+![Beispiel für Berichte in einem Dashboard in Workfront &#x200B;](assets/workfront-4-executives-3.png)
 
 Beispiel für Berichte in einem Dashboard in Workfront
 
@@ -79,7 +79,7 @@ In diesem Video lernen Sie Folgendes:
 * Anfrage stellen
 * Ihre eingereichten Anfragen ansehen
 
->[!VIDEO](https://video.tv.adobe.com/v/3470919/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3470919/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Elemente, die auf Ihre Genehmigung warten
 

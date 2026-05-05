@@ -1,6 +1,6 @@
 ---
-title: Verfolgen des Fortschritts über die Projektzeitleiste
-description: Erfahren Sie, wie Sie den Arbeitsfortschritt auf der Projektzeitleiste in [!DNL  Workfront] anhand von prozentualer Abschlussrate, Status, Zuweisungen oder Einschränkungen verfolgen können.
+title: Verfolgen des Fortschritts über die Projekt-Timeline
+description: Erfahren Sie, wie Sie den Arbeitsfortschritt auf der Projekt-Timeline in [!DNL  Workfront] anhand von prozentualer Abschlussrate, Status, Zuweisungen oder Einschränkungen verfolgen können.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,14 +12,14 @@ level: Beginner
 jira: KT-10150
 hide: true
 exl-id: 3ac91981-ad48-4bb1-8817-1b9a91e476a4
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
-# Verfolgen des Fortschritts über die Projektzeitleiste
+# Verfolgen des Fortschritts über die Projekt-Timeline
 
 Vergewissern Sie sich, dass Aufgaben wie beabsichtigt vorankommen, um Projektfristen einzuhalten.
 
@@ -28,10 +28,10 @@ In diesem Video lernen Sie Folgendes:
 * Prozent abgeschlossen
 * Fortschrittsstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/3438217/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3438217/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Grundlegendes zu Projektzeitleisten](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Grundlegendes zu Projekt-Timelines](/help/manage-work/project-timelines/understand-project-timelines.md)
 * [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
