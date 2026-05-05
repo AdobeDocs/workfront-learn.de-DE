@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Hochladen eines Dokuments
 * Finden von Schulungen zum Hochladen von Korrekturabzügen
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440379/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

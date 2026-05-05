@@ -29,7 +29,7 @@ In diesem Video lernen Sie Folgendes:
 * Durchführen von Drilldowns zum Anzeigen von Aufgabendetails
 * Kommunizieren mit Stakeholdern
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445176/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

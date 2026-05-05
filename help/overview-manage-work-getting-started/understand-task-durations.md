@@ -30,7 +30,7 @@ In diesem Video lernen Sie Folgendes:
 * Einbindung von Dauern in Projekt-Timelines
 * Best Practice-Empfehlungen zur Verwendung der Aufgabendauer
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449352/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 
