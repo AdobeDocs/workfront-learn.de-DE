@@ -9,9 +9,22 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
-source-wordcount: '885'
+TQID: https://experienceleague.adobe.com/yTBd9pAA4m4fbXniB-givgEjA5Ble6N6Xv5c1JgM4bc
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 887
 ht-degree: 100%
 
 ---
@@ -33,8 +46,8 @@ Diese Einstellungen steuern, was mit einem Problem passiert, wenn es in [!DNL Wo
 Voreinstellungen-Fenster ![[!UICONTROL Aufgaben und Probleme] mit hervorgehobenem Abschnitt [!UICONTROL Probleme]](assets/admin-fund-issue-prefs-converting.png)
 
 1. Klicken Sie auf **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
-1. Wählen Sie **[!UICONTROL Aufgaben und Probleme]**.
+1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** im linken Menübereich.
+1. Wählen Sie **[!UICONTROL Aufgaben und Probleme]** aus.
 1. Scrollen Sie zum Abschnitt **[!UICONTROL Probleme]**.
 1. Wählen Sie die gewünschten Optionen.
 1. Speichern Sie Ihre Einstellungen, wenn Sie fertig sind.
@@ -85,7 +98,7 @@ Beachten Sie, dass diese Voreinstellung die Einstellungen der tatsächlichen Dat
 Das Fenster der Voreinstellungen für ![[!UICONTROL Aufgaben und Probleme], mit Hervorhebung des Abschnitts [!UICONTROL Tatsächliche Datumswerte]](assets/admin-fund-issue-prefs-actual-dates.png)
 
 1. Klicken Sie auf **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
+1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** im linken Menübereich.
 1. Wählen Sie **[!UICONTROL Aufgaben und Probleme]** aus.
 1. Scrollen Sie zum Abschnitt **[!UICONTROL Tatsächliche Datumswerte]**.
 1. Wählen Sie die gewünschte Option für das **[!UICONTROL tatsächliche Startdatum aus]** – [!UICONTROL Jetzt] (das aktuelle Datum und die aktuelle Uhrzeit) oder das [!UICONTROL geplante Startdatum] (das [!UICONTROL tatsächliche Startdatum] entspricht dem in den Problemdetails festgelegten Startdatum).
@@ -108,7 +121,7 @@ Bevor Sie diese Einstellungen ändern, besprechen Sie Anforderungen für Workflo
 Das Voreinstellungsfenster ![[!UICONTROL Aufgaben und Probleme], mit Hervorhebung des Abschnitts [!UICONTROL Wenn eine Person einem PROBLEM zugeteilt wird]](assets/admin-fund-issue-prefs-access-1.png)
 
 1. Klicken Sie auf **[!UICONTROL Setup]** im **[!UICONTROL Hauptmenü]**.
-1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
+1. Erweitern Sie den Abschnitt **[!UICONTROL Projektvoreinstellungen]** im linken Menübereich.
 1. Wählen Sie **[!UICONTROL Aufgaben und Probleme]** aus.
 1. Scrollen Sie zum Abschnitt **[!UICONTROL Zugriff]** und suchen Sie die Option „[!UICONTROL Wenn eine Person einem PROBLEM zugeteilt wird]“.
 1. Legen Sie den Freigabezugriff für das Problem selbst fest – [!UICONTROL Anzeigen], [!UICONTROL Mitwirken] oder [!UICONTROL Verwalten]. [!DNL Workfront] empfiehlt, die erweiterten Optionen unverändert zu lassen.

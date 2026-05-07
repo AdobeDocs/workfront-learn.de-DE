@@ -11,9 +11,22 @@ jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '155'
+TQID: https://experienceleague.adobe.com/1DMzbCuEH64V-v-9mwKs-SiV48Ho4mC-1Wu6itNXGHg
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 171
 ht-degree: 100%
 
 ---
@@ -35,4 +48,4 @@ In diesem Video lernen Sie Folgendes:
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
-[Dokumentation zu Workfront Fusion](https://experienceleague.adobe.com/de/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion-Dokumentation](https://experienceleague.adobe.com/de/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

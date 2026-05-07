@@ -7,16 +7,25 @@ level: Intermediate
 jira: KT-10891
 thumbnail: what-is-kanban.jpeg
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
-source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
+TQID: https://experienceleague.adobe.com/uNuK-aATW5hTa5P1f25IKIOOTwGbloUs1Ozm6teFSWM
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: 453
 ht-degree: 100%
 
 ---
 
 # Was ist die Kanban-Methode und wie funktioniert sie?
 
-Im Gegensatz zu anderen agilen Methoden, die sich auf einen zyklischen Prozess konzentrieren, ist die Kanban-Methode auf einen optimierten Arbeitsablauf ausgerichtet. Kanban zielt darauf ab, den Arbeitsfluss zu verbessern, indem die Arbeit mithilfe einer Kanban-Tafel visualisiert, ein Grenzwert für das durchführbare Arbeitsvolumen festgelegt und der Fluss analysiert wird, um kontinuierliche Verbesserungen vorzunehmen.
+Im Gegensatz zu anderen agilen Methoden, die sich auf einen zyklischen Prozess konzentrieren, ist die Kanban-Methode auf einen optimierten Workflow ausgerichtet. Kanban zielt darauf ab, den Arbeitsfluss zu verbessern, indem die Arbeit mithilfe einer Kanban-Tafel visualisiert, ein Grenzwert für das durchführbare Arbeitsvolumen festgelegt und der Fluss analysiert wird, um kontinuierliche Verbesserungen vorzunehmen.
 
 
 Sehen wir uns einige der Schlüsselelemente von Kanban an.
@@ -51,4 +60,4 @@ Ein einzigartiger Aspekt von Kanban ist, dass die Teams eine Kapazitätsgrenze f
 
 ## Kontinuierliche Verbesserung
 
-Kanban ermöglicht eine kontinuierliche Verbesserung, indem es den Teams ein System zur Messung ihrer Effektivität bietet. So können sie klar erkennen, wie ihre Arbeitsabläufe funktionieren, wie viel Zeit jeder Teil des Arbeitsablaufs in Anspruch nimmt und wie oft sie ihre Arbeitsergebnisse pünktlich fertigstellen können. Dies erleichtert das Experimentieren mit verschiedenen Methoden zur Ergebnisoptimierung.
+Kanban ermöglicht eine kontinuierliche Verbesserung, indem es den Teams ein System zur Messung ihrer Effektivität bietet. So können sie klar erkennen, wie ihre Workflows funktionieren, wie viel Zeit jeder Teil des Workflows in Anspruch nimmt und wie oft sie ihre Arbeitsergebnisse pünktlich fertigstellen können. Dies erleichtert das Experimentieren mit verschiedenen Methoden zur Ergebnisoptimierung.

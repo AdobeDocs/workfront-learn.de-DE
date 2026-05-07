@@ -1,6 +1,6 @@
 ---
-title: Auswirkungen von Ausfallzeiten auf Projektzeitleisten
-description: Sehen Sie sich an, was mit einer Projektzeitleiste passiert, wenn die Ausfallzeiteinstellung ein- bzw. ausgeschaltet ist.
+title: Auswirkungen von Ausfallzeiten auf Projekt-Timelines
+description: Sehen Sie sich an, was mit einer Projekt-Timeline passiert, wenn die Ausfallzeiteinstellung ein- bzw. ausgeschaltet ist.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -9,18 +9,28 @@ activity: use
 team: Technical Marketing
 jira: KT-10180
 exl-id: 0f79dd8d-b7ce-4ee9-b211-23c8ed5d497c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/sN6HqoLl6N-asOtCSlZyKP6W0FSpT0C-7egQTlgAdkY
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: 525
 ht-degree: 100%
 
 ---
 
-# Wie sich Ausfallzeiten auf Projektzeitleisten auswirken
+# Wie sich Ausfallzeiten auf Projekt-Timelines auswirken
 
-Ob die Freizeit zugewiesener Benutzender in die Projektzeitleisten einfließt, hängt von einer Projekteinstellung namens [!UICONTROL Benutzerausfallzeiten] ab. Diese Einstellung legt fest, ob durch die Ausfallzeiten der Hauptverantwortlichen für die Aufgabe die geplanten Termine für diese Aufgabe im Projekt angepasst werden sollen.
+Ob die Freizeit zugewiesener Benutzender in die Projekt-Timelines einfließt, hängt von einer Projekteinstellung namens [!UICONTROL Benutzerausfallzeiten] ab. Diese Einstellung legt fest, ob durch die Ausfallzeiten der Hauptverantwortlichen für die Aufgabe die geplanten Termine für diese Aufgabe im Projekt angepasst werden sollen.
 
-Schauen wir uns an, was mit einer Projektzeitleiste passiert, wenn jede der Einstellungen ausgewählt ist –[!UICONTROL Benutzer-Ausfallzeit in Aufgabenlaufzeiten berücksichtigen] oder [!UICONTROL Benutzer-Ausfallzeit in Aufgabenlaufzeiten ignorieren].
+Schauen wir uns an, was mit einer Projekt-Timeline passiert, wenn jede der Einstellungen ausgewählt ist –[!UICONTROL Benutzer-Ausfallzeit in Aufgabenlaufzeiten berücksichtigen] oder [!UICONTROL Benutzer-Ausfallzeit in Aufgabenlaufzeiten ignorieren].
 
 ![Einstellung der Benutzerausfallzeit](assets/toapt_01.png)
 

@@ -6,10 +6,25 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10926
 exl-id: c3a4fe42-339c-4063-ad67-045868bbc6b1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/Kn7jpCG-G7sEt6kKykK0MBlFTHkiXUqVC6mrodKm-rA
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 100%
+source-wordcount: 591
+ht-degree: 87%
 
 ---
 
@@ -25,7 +40,7 @@ Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Pr
 
 Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
+Der Bereich „Warum sind diese Best Practices?“, der nach der allgemeinen Liste zu finden ist, bietet detailliertere Informationen zu einigen der Best Practices und warum sie als Prozess, Tool usw. angesehen werden. Sie sollten die Implementierung mit Ihrer Workfront-Instanz in Betracht ziehen.
 
 </br>
 </br>
@@ -103,4 +118,4 @@ Verwenden Sie keine Projektstatus anstelle von Aufgaben, um den Fortschritt eine
 
 **Das sind die Gründe**
 
-Halten Sie die Projektstatus einfach und geben Sie die wichtigsten Phasen des Fortschritts an, z. B. „Planung“, „Aktuell“, „Abgeschlossen“ usw. Anhand der Aufgaben, der Aufgabenstatus und des Prozentsatzes der Aufgabenerledigung können Sie erkennen, wie die Arbeit an dem Projekt insgesamt voranschreitet. Diese Indikatoren auf Aufgabenebene münden in den prozentualen Fertigstellungsgrad, den Projektzustand und den Projektfortschrittsstatus, die alle bessere und genauere Indikatoren für den Projektfortschritt sind als der Projektstatus. Darüber hinaus bieten diese Informationen auf Aufgabenebene bessere Berichte zu Projekten.
+Halten Sie den Projektstatus einfach, um allgemeine Fortschrittsphasen wie Planung, Aktuell, Abgeschlossen usw. anzuzeigen. Anhand der Aufgaben, Aufgabenstatus und des Prozentsatzes der abgeschlossenen Aufgabe können Sie sehen, wie die Arbeit am Projekt insgesamt voranschreitet. Diese Indikatoren auf Aufgabenebene münden in den prozentualen Fertigstellungsgrad, den Projektzustand und den Projektfortschrittsstatus, die alle bessere und genauere Indikatoren für den Projektfortschritt sind als der Projektstatus. Darüber hinaus bieten diese Informationen auf Aufgabenebene bessere Berichte zu Projekten.

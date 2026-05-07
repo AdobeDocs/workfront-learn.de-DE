@@ -6,10 +6,29 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: d39151288d8b749940c5183063392ee471769445
+TQID: https://experienceleague.adobe.com/YgDpAAcQTEDQh-Q1iOV8lledME9-M3bfjV3A5Yu6A2s
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 100%
+source-wordcount: 1841
+ht-degree: 97%
 
 ---
 
@@ -69,7 +88,7 @@ Verwenden Sie Vorlagen beim Erstellen von Projekten.
 
 **Das sind die Gründe**
 
-Projektvorlagen nehmen Projekt-Managerinnen und -Managern (und anderen, die Projekte erstellen) das Rätselraten darüber ab, welche Aufgaben ein Projekt enthalten sollte, wie die Zeitleiste zu strukturieren ist usw. Vorlagen sind die effektivste Methode, um die Projekterstellung zu beschleunigen.
+Projektvorlagen nehmen Projektmanagern (und anderen, die Projekte erstellen) das Rätselraten ab, welche Aufgaben ein Projekt enthalten soll, wie die Zeitleiste strukturiert werden soll usw. Vorlagen sind die effektivste Methode, um die Projekterstellung zu beschleunigen.
 
 Das liegt vor allem daran, dass Vorlagen bei Projekten ähnlicher Art für Konsistenz sorgen, sodass Personen, Prozesse und Datenpunkte jedes Mal auf die gleiche Weise detailliert werden. Selbst Projekte mit kurzen Durchlaufzeiten (ein oder zwei Tage) und minimalen Aufgaben können von der Erstellung mit Projektvorlagen profitieren.
 
@@ -136,7 +155,7 @@ Vermeiden Sie es, bei der Erstellung von Aufgaben in einer Projektvorlage zu seh
 
 **Das sind die Gründe**
 
-Zu komplizierte Projektvorlagen führen zu einer schlechten Erfahrung für die Benutzenden – Beschäftigte in den Bereichen Projekt- und Ressourcen-Management, Team-Mitglieder und andere. Zu viele Aufgaben erschweren die Verwaltung der Projektzeitleiste mit überlappenden Aufgabenfristen und mehreren Aufgaben, die denselben Aufgabengebieten oder Einzelpersonen zugewiesen sind.
+Zu komplizierte Projektvorlagen führen zu einer schlechten Erfahrung für die Benutzenden – Beschäftigte in den Bereichen Projekt- und Ressourcen-Management, Team-Mitglieder und andere. Zu viele Aufgaben erschweren die Verwaltung der Projekt-Timeline mit überlappenden Aufgabenfristen und mehreren Aufgaben, die denselben Aufgabengebieten oder Einzelpersonen zugewiesen sind.
 
 
 </br>
@@ -159,7 +178,7 @@ Stellen Sie sicher, dass die Vorlagenaufgaben Aufgabendauer, geplante Stunden un
 
 **Das sind die Gründe**
 
-Diese drei Dinge – Dauer, geplante Stunden und Vorgänger – sind die Bausteine der Zeitleiste für das Projekt. Sie sind wichtig, um zu wissen, wie lange die Arbeit dauern wird und bis wann sie fertiggestellt werden muss. Die Ressourcenmanagement-Tools von Workfront verwenden Zeiträume und geplante Stunden sowie Aufgabengebietzuweisungen, um Ressourcenkapazität, Verfügbarkeit und mehr zu berechnen.
+Diese drei Dinge – Dauer, geplante Stunden und Vorgänger – sind die Bausteine der Timeline für das Projekt. Sie sind wichtig, um zu wissen, wie lange die Arbeit dauern wird und bis wann sie fertiggestellt werden muss. Die Ressourcenmanagement-Tools von Workfront verwenden Zeiträume und geplante Stunden sowie Aufgabengebietzuweisungen, um Ressourcenkapazität, Verfügbarkeit und mehr zu berechnen.
 
 Wenn Sie sich nicht sicher sind, wie Sie die Dauer oder die geplanten Stunden zum ersten Mal schätzen sollen, arbeiten Sie mit dem Projekt-Team zusammen, um einige erste Schätzungen festzulegen. Sobald Sie die Vorlage verwendet haben, treffen Sie sich erneut mit dem Projekt-Team, um zu bestimmen, wo Änderungen vorgenommen werden könnten, um die Vorlage genauer zu machen. Wenn Benutzende die Zeit in Workfront protokollieren, können Sie die geplanten Stunden eines Projekts mit den tatsächlichen Stunden vergleichen, um zu sehen, wo Anpassungen erforderlich sind.
 
@@ -230,7 +249,7 @@ Wenn Sie die Option „Zeitplanmodus“ für eine Vorlage anpassen, überprüfen
 
 **Das sind die Gründe**
 
-Die Vermischung verschiedener Aufgabenbeschränkungen in einem Projekt kann zu unerwarteten und verwirrenden Planterminberechnungen führen. Wenn z. B. „Startdatum“ für die Option „Zeitplanmodus“ ausgewählt ist, wird allen in diesem Projekt erstellten Aufgaben standardmäßig die Aufgabenbeschränkung „So bald wie möglich“ zugewiesen. Wenn Sie später die Option „Zeitplanmodus“ auf „Fertigstellungsdatum“ umstellen, werden alle erstellten Aufgaben standardmäßig mit der Aufgabenbeschränkung „So spät wie möglich“ versehen. Eine unbeabsichtigte Mischung von Aufgaben mit diesen Beschränkungen kann dazu führen, dass geplante Zeitpunkte in Ihrer Projektzeitleiste durcheinander geraten.
+Die Vermischung verschiedener Aufgabenbeschränkungen in einem Projekt kann zu unerwarteten und verwirrenden Planterminberechnungen führen. Wenn z. B. „Startdatum“ für die Option „Zeitplanmodus“ ausgewählt ist, wird allen in diesem Projekt erstellten Aufgaben standardmäßig die Aufgabenbeschränkung „So bald wie möglich“ zugewiesen. Wenn Sie später die Option „Zeitplanmodus“ auf „Fertigstellungsdatum“ umstellen, werden alle erstellten Aufgaben standardmäßig mit der Aufgabenbeschränkung „So spät wie möglich“ versehen. Eine unbeabsichtigte Mischung von Aufgaben mit diesen Beschränkungen kann dazu führen, dass geplante Zeitpunkte in Ihrer Projekt-Timeline durcheinander geraten.
 
 Weitere Informationen finden Sie unter [Verstehen und Verwalten von Dauertypen und Aufgabenbeschränkungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=de), um Aufgabenbeschränkungen besser zu verstehen und zu verwenden.
 

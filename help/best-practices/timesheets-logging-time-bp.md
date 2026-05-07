@@ -6,10 +6,22 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10930
 exl-id: 15457411-fd4a-4348-892a-2fb08a079a35
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/PDzABizeylFNiD58Y5z9upAqwCE5l7xgl0qNiblceas
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '684'
-ht-degree: 100%
+source-wordcount: 692
+ht-degree: 94%
 
 ---
 
@@ -25,7 +37,7 @@ Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Pr
 
 Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
+Der Bereich „Warum sind diese Best Practices?“, der nach der allgemeinen Liste zu finden ist, bietet detailliertere Informationen zu einigen der Best Practices und warum sie als Prozess, Tool usw. angesehen werden. Sie sollten die Implementierung mit Ihrer Workfront-Instanz in Betracht ziehen.
 
 </br>
 </br>
@@ -112,7 +124,7 @@ Erfassen Sie die Zeit täglich, um möglichst präzise Zeiteinträge zu erhalten
 
 **Das sind die Gründe**
 
-Man kann sich einfacher merken, woran man an einem einzigen Tag gearbeitet hat, als sich an mehrere Tage zu erinnern. Präzise Zeiteinträge tragen zu einer präziseren Planung der Projektzeitleiste bei, die dann Folgendes ermöglicht:
+Man kann sich einfacher merken, woran man an einem einzigen Tag gearbeitet hat, als sich an mehrere Tage zu erinnern. Präzise Zeiteinträge tragen zu einer präziseren Planung der Projekt-Timeline bei, die dann Folgendes ermöglicht:
 
 Burnout verhindern, indem sichergestelt wird, dass die Arbeitsanfragen der Ressourcenkapazität entsprechen.
 Arbeitsengpässe und Überlastungen verhindern, indem es den Benutzenden erleichtert wird, ihre wöchentliche Arbeit zu planen und zu priorisieren.
@@ -132,4 +144,4 @@ Deaktivieren Sie die Möglichkeit, die Zeit auf Projektebene zu erfassen.
 
 **Das sind die Gründe**
 
-Die auf Projektebene protokollierte Zeit zeigt nicht an, wie viel Zeit tatsächlich für die Arbeit aufgewendet wurde. Die Protokollierung der tatsächlich geleisteten Arbeitsstunden auf der Aufgaben- und Problemebene zeigt, wie lange es dauerte, bestimmte Arbeitselemente abzuschließen. Diese Informationen können bei der Anpassung von Projektvorlagen hilfreich sein, da Sie die Projektzeitleiste und die benötigten Personalressourcen genauer planen können. Das bedeutet auch, dass Berichte genauer sind und bessere Einblicke in die Arbeitszeitgestaltung bieten.
+Die auf Projektebene protokollierte Zeit zeigt nicht an, wie viel Zeit tatsächlich für die Arbeit aufgewendet wurde. Die Protokollierung der tatsächlich geleisteten Arbeitsstunden auf der Aufgaben- und Problemebene zeigt, wie lange es dauerte, bestimmte Arbeitselemente abzuschließen. Diese Informationen können bei der Anpassung von Projektvorlagen hilfreich sein, da Sie die Projekt-Timeline und die benötigten Personalressourcen genauer planen können. Das bedeutet auch, dass Berichte genauer sind und bessere Einblicke in die Arbeitszeitgestaltung bieten.

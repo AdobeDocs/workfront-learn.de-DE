@@ -9,10 +9,17 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+TQID: https://experienceleague.adobe.com/q25cuV-wKAkoEJTzDIho1Ab-XTexGhEZCHReoE0TFxg
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 100%
+source-wordcount: 400
+ht-degree: 97%
 
 ---
 
@@ -44,19 +51,19 @@ ISBLANK({description})
 
 Der Textausdruck CONTAINS enthält den Namen des Ausdrucks, das gesuchte Wort oder die gesuchte Wortgruppe und das Feld, in dem gesucht werden soll.
 
-**CONTAINS(&quot;Satz&quot;,{fields})**
+**CONTAINS(„Phrase“,{fields})**
 
 Stellen Sie sicher, dass Sie das gesuchte Wort oder die gesuchte Wortgruppe in Anführungszeichen setzen. Andernfalls ist der Ausdruck nicht gültig.
 
 Im obigen Beispiel (Suche nach „Wohltätigkeitsveranstaltung“ in der Projektbeschreibung) lautet der Ausdruck:
 
-**CONTAINS(&quot;Wohltätigkeitsveranstaltung&quot;,{description})**
+**CONTAINS(„Wohltätigkeitsveranstaltung“,{description})**
 
 ![Workload Balancer mit Nutzungsbericht](assets/isblank04.png)
 
 **Hinweis**: Beim CONTAINS-Ausdruck wird zwischen Groß- und Kleinschreibung unterschieden. Wenn beispielsweise „Wohltätigkeitsveranstaltung“ im Beschreibungsfeld großgeschrieben ist, schreiben Sie diesen Satz im Ausdruck groß.
 
-**CONTAINS(&quot;Wohltätigkeitsveranstaltung&quot;,{description})**
+**CONTAINS(„Wohltätigkeitsveranstaltung“,{description})**
 
 Die Ausdrücke ISBLANK und CONTAINS eignen sich gut, wenn Sie sehen möchten, ob ein Wert überhaupt vorhanden ist. Es kann jedoch nützlicher sein zu wissen, was der Wert ist, ihn tatsächlich zu sehen oder eine Art Deskriptor zu haben, um bessere Einblicke zu erhalten.
 
