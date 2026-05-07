@@ -7,10 +7,14 @@ level: Intermediate
 jira: KT-10881
 thumbnail: create-kanban-team.png
 exl-id: 01573905-514d-4df6-b2b6-1c92585e56fc
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/x-DvyAjjY5OoH2GXXMP2GwbUEdOslwrTCNz-bzJ8DmY
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 100%
+source-wordcount: 406
+ht-degree: 92%
 
 ---
 
@@ -24,7 +28,7 @@ Kanban eignet sich für Teams, die nicht definieren möchten, woran sie innerhal
 
 Machen wir das Creative Marketing-Team von einem Scrum-Team zu einem Kanban-Team[1]. Nehmen Sie diese Änderung im Abschnitt „Agil“ der Team-Einstellungen vor.
 
-Nachdem Sie die Methodik geändert haben, müssen Sie festlegen, wie viele Storys ein Kanban-Team in jeder Spalte gleichzeitig haben kann, indem Sie das „WIP-Limit“ anpassen. [2]. WIP steht für „Work in Progress“. Die Zahl, die Sie hier eingeben, hängt davon ab, wie viele aktive Elemente das Team handhaben kann. Sie wird auf dem Storyboard des Teams angezeigt, um einfacher daran zu erinnern, ob das Team überlastet ist oder nicht. Sie (und jedes Mitglied des Teams mit Bearbeitungsrechten) können das WIP-Limit auch direkt im Storyboard ändern.
+Nachdem Sie die Methodik geändert haben, müssen Sie angeben, wie viele Storys ein Kanban-Team gleichzeitig in jeder Spalte haben kann, indem Sie das „WIP-Limit“ [2] anpassen. WIP steht für „Work in Progress“. Die Zahl, die Sie hier eingeben, hängt davon ab, wie viele aktive Elemente das Team handhaben kann. Sie wird auf dem Storyboard des Teams angezeigt, um einfacher daran zu erinnern, ob das Team überlastet ist oder nicht. Sie (und jedes Mitglied des Teams mit Bearbeitungsrechten) können das WIP-Limit auch direkt im Storyboard ändern.
 
 ![Die Seite „Team-Einstellungen“](assets/teamspage-01.png)
 

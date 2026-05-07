@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10902
 exl-id: 0f3fc5ba-d01a-4337-829f-def0830ddf81
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/RUQeNzEb0eg9DKSKepugb0HD4O2ODql-0mWBn-ptgxk
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: b58ad82f-df6b-4b01-81a3-3a02ab9567a0id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+subfeature_v2: id: bb1dd007-4a34-496d-9d3b-2278fdaadac1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 93%
+source-wordcount: 410
+ht-degree: 75%
 
 ---
 
@@ -25,7 +31,7 @@ Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Pr
 
 Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
+Der Bereich „Warum sind diese Best Practices?“, der nach der allgemeinen Liste zu finden ist, bietet detailliertere Informationen zu einigen der Best Practices und warum sie als Prozess, Tool usw. angesehen werden. Sie sollten die Implementierung mit Ihrer Workfront-Instanz in Betracht ziehen.
 
 </br>
 </br>
@@ -61,7 +67,7 @@ Verfolgen Sie alle benutzerdefinierten Felder, die in Integrationen mithilfe ein
 
 **Das sind die Gründe**
 
-Ein Projekt ist der perfekte Ort, um die Namen von benutzerdefinierten Feldern, ihre Verwendung in der Integration usw. zu protokollieren. Auf diese Weise vermeiden Sie die Erstellung redundanter benutzerdefinierter Felder oder die Verwendung desselben benutzerdefinierten Felds mit mehreren Integrationen.
+Ein Projekt ist der perfekte Ort, um benutzerdefinierte Feldnamen, deren Integration usw. zu protokollieren. Auf diese Weise vermeiden Sie das Erstellen redundanter benutzerdefinierter Felder oder die Verwendung desselben benutzerdefinierten Felds mit mehreren Integrationen.
 
 </br>
 </br>
@@ -73,4 +79,4 @@ Fügen Sie das Feld „Objekt-ID“ zu Berichten hinzu, die von Systemadmins ver
 
 **Das sind die Gründe**
 
-Systemadmins müssen sich bei der Verwendung von APIs oder anderen Integrationen häufig durch ihre ID-Nummern auf Objekte in Workfront beziehen. Nehmen Sie das Feld ID in die Ansichten der Objekte auf, an denen Sie arbeiten (Projekte, Aufgaben, Probleme, Vorlagen, benutzerdefinierte Formulare usw.), damit Sie leicht darauf zugreifen und sie kopieren können.
+Systemadmins müssen sich bei der Verwendung von APIs oder anderen Integrationen häufig durch ihre ID-Nummern auf Objekte in Workfront beziehen. Schließen Sie das Feld ID in die Ansichten der Objekte ein, an denen Sie arbeiten (Projekte, Aufgaben, Probleme, Vorlagen, benutzerdefinierte Formulare usw.) um den Zugriff und das Kopieren zu vereinfachen.

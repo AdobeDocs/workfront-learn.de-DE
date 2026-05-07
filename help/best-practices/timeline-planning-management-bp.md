@@ -1,15 +1,21 @@
 ---
 title: Best Practice – Planung und Verwaltung von Timelines
-description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Projektzeitleisten in Workfront empfehlen.
+description: Erfahren Sie, was Adobe Workfront-Fachleute als Best Practices für das Einrichten, Verwalten und Verwenden von Projekt-Timelines in Workfront empfehlen.
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10929
 exl-id: 8c18746d-e23a-44d0-b1e3-ebf5ba8d022f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/dHR6MHjya-MlhyDeL6MJvMPzaIkPpp91zfYe6ebcbL0
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1110'
-ht-degree: 100%
+source-wordcount: 1117
+ht-degree: 96%
 
 ---
 
@@ -25,12 +31,12 @@ Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Pr
 
 Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
+Der Bereich „Warum sind diese Best Practices?“, der nach der allgemeinen Liste zu finden ist, bietet detailliertere Informationen zu einigen der Best Practices und warum sie als Prozess, Tool usw. angesehen werden. Sie sollten die Implementierung mit Ihrer Workfront-Instanz in Betracht ziehen.
 
 </br>
 </br>
 
-## Best Practices für die Planung und Verwaltung von Zeitleisten
+## Best Practices für die Planung und Verwaltung von Timelines
 
 * Alle abgeschlossenen Projekte sollten einen Status aufweisen, der angibt, dass sie abgeschlossen sind.
 
@@ -38,7 +44,7 @@ Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden
 
 * Lassen Sie die Benutzenden die tatsächliche Zeit erfassen, die sie für Aufgaben aufgewendet haben, damit Sie die tatsächlichen Stunden mit den geplanten Stunden vergleichen können.
 
-* Verwenden Sie nach Möglichkeit Aufgabendauern und -vorgänger, um eine Projektzeitleiste zu erstellen und zu aktualisieren, anstatt spezifische Start- und Abschlussdaten auszuwählen.
+* Verwenden Sie nach Möglichkeit Aufgabendauern und -vorgänger, um eine Projekt-Timeline zu erstellen und zu aktualisieren, anstatt spezifische Start- und Abschlussdaten auszuwählen.
 
 * Bitten Sie die Benutzenden, ihren Aufgabenstatus, den abgeschlossenen Prozentsatz und die tatsächlichen Stunden jeden Tag (oder wöchentlich nach einem festgelegten Zeitplan) zu aktualisieren.
 
@@ -74,7 +80,7 @@ Legen Sie beim Kopieren eines Projekts den Status des neuen Projekts auf „In P
 
 **Das sind die Gründe**
 
-Der Status „In Planung“ (oder eine entsprechende Statusoption) verhindert, dass Workfront-Benachrichtigungen zu Zuweisungen, Zeitleisten-Änderungen usw. gesendet werden, bevor das Projekt bereit ist. Beim Kopieren eines Projekts wird ein Dialogfeld mit Projektoptionen angezeigt. Ändern Sie hier den Status und passen Sie andere Optionen an, damit Daten nicht aus dem Originalprojekt in die kopierte Version kopiert werden.
+Der Status „In Planung“ (oder eine entsprechende Statusoption) verhindert, dass Workfront-Benachrichtigungen zu Zuweisungen, Timeline-Änderungen usw. gesendet werden, bevor das Projekt bereit ist. Beim Kopieren eines Projekts wird ein Dialogfeld mit Projektoptionen angezeigt. Ändern Sie hier den Status und passen Sie andere Optionen an, damit Daten nicht aus dem Originalprojekt in die kopierte Version kopiert werden.
 
 </br>
 </br>
@@ -93,13 +99,13 @@ Wenn Sie wissen, wie lange die Arbeit an Aufgaben dauert, können Sie Projektvor
 
 **Best Practice**
 
-Verwenden Sie nach Möglichkeit Aufgabendauern und -vorgänger, um eine Projektzeitleiste zu erstellen und zu aktualisieren, anstatt spezifische Start- und Abschlussdaten auszuwählen.
+Verwenden Sie nach Möglichkeit Aufgabendauern und -vorgänger, um eine Projekt-Timeline zu erstellen und zu aktualisieren, anstatt spezifische Start- und Abschlussdaten auszuwählen.
 
 **Das sind die Gründe**
 
-Die Verwendung von Aufgabendauer und Vorgängern in Verbindung mit flexiblen Aufgabenbeschränkungen („so bald wie möglich“ und „so spät wie möglich“) ermöglicht automatische Datumsänderungen in der Zeitleiste, die sich durch den Projektplan „fortpflanzen“. Wenn sich beispielsweise die Dauer einer Aufgabe um einen Tag erhöht, ändert dies das geplante Abschlussdatum der Aufgabe, was wiederum die Abschlussdaten der folgenden Aufgaben ändert.
+Die Verwendung von Aufgabendauer und Vorgängern in Verbindung mit flexiblen Aufgabenbeschränkungen („so bald wie möglich“ und „so spät wie möglich“) ermöglicht automatische Datumsänderungen in der Timeline, die sich durch den Projektplan „fortpflanzen“. Wenn sich beispielsweise die Dauer einer Aufgabe um einen Tag erhöht, ändert dies das geplante Abschlussdatum der Aufgabe, was wiederum die Abschlussdaten der folgenden Aufgaben ändert.
 
-Wenn Sie bestimmte Start- und Abschlussdaten für Aufgaben auswählen, wird die Aufgabenbeschränkung zu einem Datum geändert, das „gesperrt“ wird („Muss beginnen am“, „Muss enden am“, „Feste Daten“), was bedeutet, dass Sie einige Aktualisierungen von Zeitleistendaten manuell vornehmen müssen.
+Wenn Sie bestimmte Start- und Abschlussdaten für Aufgaben auswählen, wird die Aufgabenbeschränkung zu einem Datum geändert, das „gesperrt“ wird („Muss beginnen am“, „Muss enden am“, „Feste Daten“), was bedeutet, dass Sie einige Aktualisierungen von Timeline-Daten manuell vornehmen müssen.
 
 </br>
 </br>

@@ -6,10 +6,17 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/r-JHnUp9uBXJskFfm-bTt-2DnaKRoA-6vpiAOEFSBjw
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40cid: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1434'
-ht-degree: 100%
+source-wordcount: 1446
+ht-degree: 94%
 
 ---
 
@@ -25,7 +32,7 @@ Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Pr
 
 Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
+Der Bereich „Warum sind diese Best Practices?“, der nach der allgemeinen Liste zu finden ist, bietet detailliertere Informationen zu einigen der Best Practices und warum sie als Prozess, Tool usw. angesehen werden. Sie sollten die Implementierung mit Ihrer Workfront-Instanz in Betracht ziehen.
 
 </br>
 </br>
@@ -246,7 +253,7 @@ Verwenden Sie größere Organisationseinheiten, um Elemente für mehrere Persone
 
 **Das sind die Gründe**
 
-Verwendung einer größeren Organisationseinheit wie Gruppen und Teams bei der Freigabe von Elementen in Workfront-Projekten, Berichten usw.– bedeutet, dass Sie das Objekt schnell und einfach für eine ausgewählte Gruppe von Personen gleichzeitig freigeben können. Das Hinzufügen einzelner Benutzernamen zum Freigabefenster kann umständlich und zeitaufwendig sein.
+Durch die Verwendung einer größeren Organisationseinheit wie Gruppen und Teams bei der Freigabe von Elementen in Workfront - Projekten, Berichten usw. - können Sie das Objekt schnell und einfach für mehrere Personen gleichzeitig freigeben. Das Hinzufügen einzelner Benutzernamen zum Freigabefenster kann umständlich und zeitaufwendig sein.
 
 
 

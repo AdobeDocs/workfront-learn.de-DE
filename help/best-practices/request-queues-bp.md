@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10921
 exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/qp6rMfRSCtQfsrU-1zzHWYWrvMnFJAJBYoqXKGP3GeQ
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 100%
+source-wordcount: 1492
+ht-degree: 91%
 
 ---
 
@@ -25,7 +31,7 @@ Bei der Durchsicht dieser Empfehlungen sollten Sie bedenken, dass einige Best Pr
 
 Wenn Sie durch diese Seite scrollen, finden Sie zunächst eine allgemeine Liste aller Best Practices zu dem Thema. So können Sie die Empfehlungen durchgehen, ohne in die Details des „Warum“ einzutauchen.
 
-Im Bereich „Warum sind das Best Practices?“ nach der Übersichtsliste finden Sie weitere Details zu einigen der Best Practices und dazu, warum Prozesse, Werkzeuge usw. als solche angesehen werden und Sie sie in Ihrer Workfront-Instanz implementieren sollten.
+Der Bereich „Warum sind diese Best Practices?“, der nach der allgemeinen Liste zu finden ist, bietet detailliertere Informationen zu einigen der Best Practices und warum sie als Prozess, Tool usw. angesehen werden. Sie sollten die Implementierung mit Ihrer Workfront-Instanz in Betracht ziehen.
 
 </br>
 </br>
@@ -91,7 +97,7 @@ Erstellen Sie einen Projektstatus mit dem Namen „Anfrage-Warteschlange“ oder
 
 Eine Anfrage-Warteschlange „lebt“ in einem Projekt und muss sich in einem Status befinden, der „aktuell“ entspricht, damit die Warteschlange aktiv ist.
 
-Um eine Anfrage von tatsächlichen Arbeitsprojekten mit dem Status „Aktuell“ zu unterscheiden, erstellen Sie einen Status, der nur für Anfragewarteschlangen verwendet wird und etwa „Anfragewarteschlange“ oder „Operativ“ heißt. Anschließend können Sie diesen Status verwenden, um beim Schreiben von Berichten Anfrage-Warteschlangenprojekte aus- oder einzuschließen.
+Um eine Anfrage von tatsächlichen Arbeitsprojekten mit dem Status „Aktuell“ zu unterscheiden, erstellen Sie einen Status, der nur in Anforderungswarteschlangen verwendet werden kann, die als „Anforderungswarteschlange“ oder „Operativ“ bezeichnet werden. Sie können diesen Status dann verwenden, um beim Erstellen von Berichten Anforderungswarteschlangenprojekte auszuschließen oder einzubeziehen.
 
 </br>
 </br>
@@ -126,7 +132,7 @@ Vermeiden Sie die Freigabe von Anfrage-Warteschlangen für „alle“.  Richten 
 
 **Das sind die Gründe**
 
-In den meisten Fällen muss eine Anfrage-Warteschlange nur für eine bestimmte Gruppe von Personen wie ein Team, einen Lieferanten, Kundinnen und Kunden usw. freigegeben werden. Wenn Menschen, die eine Anfrage starten wollen, in der Liste der Anfrage-Warteschlangen nur das sehen, was sie benötigen, ist es einfach, Dinge zu finden und zu navigieren.
+In den meisten Fällen muss eine Anfrage-Warteschlange nur für bestimmte Personen freigegeben werden, z. B. für ein Team, einen Anbieter, Kunden usw. Wenn Anfragende in der Liste der Anforderungswarteschlangen nur das sehen, was sie benötigen, können sie die Dinge einfach finden und darin navigieren.
 
 </br>
 </br>

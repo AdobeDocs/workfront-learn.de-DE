@@ -6,9 +6,15 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
+TQID: https://experienceleague.adobe.com/hTZWn-fzcprOD-b7CU9k6JWfUh0VBCok2g8tG1c6fYE
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: 846
 ht-degree: 100%
 
 ---
@@ -53,9 +59,9 @@ Reduzieren Sie durch die Nutzung von Filtern, Ansichten und Gruppierungen die An
 
 Die Erstellung von einmaligen Nutzungsberichten für jedes Datensegment, das Sie sehen möchten, ist zeitaufwendig und füllt das Workfront-System unnötig.
 
-Weitere Informationen zum Erstellen von Berichten mit Eingabeaufforderungen finden Sie im Kapitel „Einrichtung und Verwendung von Berichtsaufforderungen“ im Video [Grundlegendes zu Berichtseinstellungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=de).
+Weitere Informationen zum Erstellen von Berichten mit Prompts finden Sie im Kapitel „Einrichtung und Verwendung von Berichts-Prompts“ im Video [Grundlegendes zu Berichtseinstellungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=de).
 
-Weitere Informationen zum Erstellen von Berichten mit benutzerdefinierten Eingabeaufforderungen finden Sie unter [Erstellen von benutzerdefinierten Eingabeaufforderungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=de).
+Weitere Informationen zum Erstellen von Berichten mit benutzerdefinierten Prompts finden Sie unter [Erstellen von benutzerdefinierten Prompts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=de).
 
 </br>
 </br>
