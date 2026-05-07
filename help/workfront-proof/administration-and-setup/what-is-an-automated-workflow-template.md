@@ -38,7 +38,7 @@ In diesem Video lernen Sie Folgendes:
 * Vorteile von Workflow-Vorlagen für Benutzende von Korrekturabzügen
 * Wie Sie die zu erstellenden Vorlagen planen
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441306/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn More Icon

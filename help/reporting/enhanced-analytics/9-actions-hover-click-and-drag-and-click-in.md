@@ -38,7 +38,7 @@ In diesem Video lernen Sie Folgendes:
 * Erstellen eines Zeitrahmens in einem Diagramm
 * Anzeigen zusätzlicher Diagramme
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438574/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Klicken Sie auf ein Diagramm, um weitere Informationen anzuzeigen
 

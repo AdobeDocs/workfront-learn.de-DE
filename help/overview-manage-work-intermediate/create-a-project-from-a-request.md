@@ -40,7 +40,7 @@ In diesem Video lernen Sie Folgendes:
 * Auswählen der entsprechenden Projektvorlage
 * Abschließen der Konvertierung von Anfrage zu Projekt
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446631/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 
 ## Empfohlene Tutorials zu diesem Thema

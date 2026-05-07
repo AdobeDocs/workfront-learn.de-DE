@@ -42,7 +42,7 @@ In diesem Video lernen Sie Folgendes:
 * Wie Sie geplante Stunden schätzen
 * Wie Sie geplante Stunden zu Aufgaben hinzufügen
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445342/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 
 ## Empfohlene Tutorials und Artikel zu diesem Thema

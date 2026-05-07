@@ -33,7 +33,7 @@ ht-degree: 75%
 Das Video enthält eine Anleitung zum Erstellen von Aufgaben in einem Workfront-Projekt, in der sowohl die lange Methode als auch praktische Abkürzungen behandelt werden. Der Schwerpunkt liegt auf der Flexibilität bei der Aufgabenerstellung, und es gibt Tipps für ein effizientes Aufgaben-Management.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423157/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

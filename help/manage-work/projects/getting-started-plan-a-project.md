@@ -36,7 +36,7 @@ Das Video bietet Anleitungen zum effektiven Planen eines Projekts in Workfront. 
 
 Das Video hebt die Bedeutung realistischer Zeitpläne, der Verfügbarkeit von Teams und einer präzisen Planung hervor, um eine solide Grundlage für den Projekterfolg zu schaffen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448576/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

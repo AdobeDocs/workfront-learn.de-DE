@@ -39,4 +39,4 @@ In diesem Video lernen Sie Folgendes:
 * Ausführen eines Berichts mit den Zugriffsrechten einer bestimmten Benutzerin bzw. eines bestimmten Benutzers
 * Einrichten und Verwenden von Berichts-Prompts
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445872/?captions=ger&quality=12&learn=on&enablevpops=1)

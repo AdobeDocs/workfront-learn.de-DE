@@ -49,7 +49,7 @@ In diesem Video wird erläutert, wie Diagramme zur effektiven Visualisierung von
 
 In diesem Video wird gezeigt, wie Diagramme wie Torten- und gestapelte Säulendiagramme Einblicke in die Aufgabenverteilung und Projektleistung bieten können, sodass Benutzende Projekte vergleichen und den Aufgabenfortschritt visuell verstehen können. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450023/?captions=ger&quality=12&learn=on&enablevpops=0)
 
 ## Wichtige Schlussfolgerungen
 

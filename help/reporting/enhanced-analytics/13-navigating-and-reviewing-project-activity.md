@@ -36,7 +36,7 @@ In diesem Video lernen Sie Folgendes:
 
 * Vergleichen von Projekten anhand von angemeldeten Benutzenden, Änderungen des Aufgabenstatus und abgeschlossenen Aufgaben
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437445/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Vergleichen von Projektarbeit
 

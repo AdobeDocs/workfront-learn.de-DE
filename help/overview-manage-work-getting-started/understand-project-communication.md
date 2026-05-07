@@ -41,7 +41,7 @@ In diesem Video erfahren Sie, wie Sie mit allen Projektbeteiligten kommunizieren
 * Probleme
 * Berichte
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436153/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

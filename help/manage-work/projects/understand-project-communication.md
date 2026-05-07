@@ -44,7 +44,7 @@ Das Video betont die Bedeutung einer effektiven Kommunikation für den Projekter
 
 In diesem Video wird gezeigt, wie Workfront die Kommunikation, Aufgabenverwaltung und Berichterstellung vereinfacht und sicherstellt, dass alle projektbezogenen Informationen verfügbar und organisiert sind. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436153/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

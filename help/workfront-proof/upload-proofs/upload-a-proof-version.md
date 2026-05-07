@@ -36,7 +36,7 @@ In diesem Video lernen Sie Folgendes:
 * Hochladen einer neuen Version eines Korrekturabzugs
 * Anwenden eines Proofing-Workflows auf die Version
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441861/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Hochladen einer Version aus dem Proofing-Viewer
 

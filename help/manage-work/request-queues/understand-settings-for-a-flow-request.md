@@ -42,7 +42,7 @@ In diesem Video wird der Anfragefluss in Workfront erläutert, wobei der Schwerp
 
 Durch die Beantwortung dieser Fragen können Anwender ihre Anfrage-Warteschlange in Workfront effektiv planen und konfigurieren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441914/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

@@ -37,7 +37,7 @@ In diesem Video lernen Sie Folgendes:
 * Auswählen einer Ansicht zum Vergleichen verschiedener Datumstypen von [!DNL Workfront's]
 * Verwenden des Fortschrittsstatus zum Verfolgen des Arbeitsfortschritts
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436616/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

@@ -35,7 +35,7 @@ ht-degree: 28%
 In diesem Video wird das Portfoliomanagement erläutert und insbesondere erklärt, wie Manager die Projektauswahl entsprechend den Unternehmenszielen optimieren können. &#x200B; wird das Konzept der Portfolios als eine Sammlung von Projekten eingeführt, die um gemeinsam genutzte Ressourcen, Budgets und Zeitpläne konkurrieren. &#x200B;-Manager können Tools wie den Portfolio Optimizer verwenden, um Projekte anhand von Kriterien wie Arbeitsaufwand, Ausgaben, Risiko, ROI und Abstimmung mit Portfoliozielen zu vergleichen. &#x200B; die Vorbereitung von Projekten auf den Vergleich umfasst die Erstellung eines Business Case für jedes Projekt. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442837/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

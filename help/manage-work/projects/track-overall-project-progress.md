@@ -36,7 +36,7 @@ In diesem Video wird beschrieben, wie Sie den allgemeinen Projektfortschritt mit
 
 Das Video betont die Bedeutung regelmäßiger Updates durch die Team-Mitglieder und eines proaktiven Problemmanagements, um eine genaue Nachverfolgung und den zeitnahen Abschluss von Projekten sicherzustellen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447419/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

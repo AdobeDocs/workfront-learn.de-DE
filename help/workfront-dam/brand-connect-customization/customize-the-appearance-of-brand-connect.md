@@ -35,7 +35,7 @@ In diesem Video lernen Sie Folgendes:
 * Anpassen der Navigationsleiste und der Fußzeile
 * Anpassen der Startseite und der Anmeldeseite
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418775/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Zusätzliche Einstellung für das [!UICONTROL Erscheinungsbild]
 

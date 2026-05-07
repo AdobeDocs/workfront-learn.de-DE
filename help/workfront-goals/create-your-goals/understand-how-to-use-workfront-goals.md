@@ -35,4 +35,4 @@ In diesem Video lernen Sie Folgendes:
 * Navigieren in Diagrammen
 * Navigieren zur Zielausrichtung
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431645/?captions=ger&quality=12&learn=on&enablevpops=1)

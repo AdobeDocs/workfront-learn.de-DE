@@ -37,4 +37,4 @@ In diesem Video lernen Sie Folgendes:
 * So schlüsseln Sie ein Projekt im Flugplan-Diagramm auf, um den Burndown-Chart und die Aufgaben im Flugdiagramm anzuzeigen
 * So erstellen Sie einen Zeitrahmen-Filter zum Vergrößern eines Datumsbereichs
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437276/?captions=ger&quality=12&learn=on&enablevpops=1)

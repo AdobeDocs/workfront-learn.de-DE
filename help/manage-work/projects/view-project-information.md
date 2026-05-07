@@ -44,7 +44,7 @@ In diesem Video erhalten Sie einen Überblick über Filter, Ansichten und Gruppi
 
 Das Video betont die Anpassung und enthält Links zu Tutorials für weitere Lerninhalte. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453075/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

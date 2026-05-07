@@ -41,7 +41,7 @@ In diesem Video erfahren Sie, wie Sie mit folgenden Möglichkeiten den Projektfo
 * Offene Probleme
 * Spalte „Bedingungs-Aktualisierung“
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447419/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

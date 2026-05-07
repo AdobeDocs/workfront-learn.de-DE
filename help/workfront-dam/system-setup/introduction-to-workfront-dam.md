@@ -47,4 +47,4 @@ In diesem Video werden Sie:
 * Assets suchen und anzeigen
 * Erfahren, wie sich die Ordnerstruktur auf die Organisation von und den Zugriff auf Assets auswirkt
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432537/?captions=ger&quality=12&learn=on&enablevpops=1)

@@ -36,7 +36,7 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen von Kommentaren mit Zeitstempel zu einem Video
 * Anpassen der Betrachtereinstellungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444231/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

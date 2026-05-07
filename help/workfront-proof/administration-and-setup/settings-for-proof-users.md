@@ -41,7 +41,7 @@ In diesem Video lernen Sie Folgendes:
 * Anpassen der Korrekturabzugs-Benutzereinstellungen in [!DNL  Workfront]
 * Anpassen der Korrekturabzugs-Benutzereinstellungen in der Backend-Einrichtung für das Proofing
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432921/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 <!--
 Lean More URLs

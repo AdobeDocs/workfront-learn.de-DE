@@ -35,7 +35,7 @@ ht-degree: 73%
 Das Video bietet eine umfassende Anleitung zum Verständnis und zur Verwendung von Dashboards in Workfront.
 &#x200B;Es wird erläutert, dass ein Dashboard eine Sammlung von Berichten ist, mit denen Benutzende verknüpfte Daten an einem Ort organisieren und anzeigen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449131/?captions=ger&quality=12&learn=on&enablevpops=0)
 
 ## Wichtige Schlussfolgerungen
 

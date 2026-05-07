@@ -38,7 +38,7 @@ In diesem Video wird beschrieben, wie Sie Genehmigungsprozesse für Projekte, Au
 Das Video zeigt das Erstellen von Genehmigungsprozessen, das Festlegen von Genehmigern, das Konfigurieren von Status und die Verwendung von Phasen für Genehmigungen mit mehreren Ebenen.
 &#x200B;Es unterstreicht die Flexibilität globaler und einmaliger Prozesse für die effektive Verwaltung von Aufgabengenehmigungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434696/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

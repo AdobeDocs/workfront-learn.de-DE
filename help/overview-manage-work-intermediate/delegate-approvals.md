@@ -42,7 +42,7 @@ In diesem Video lernen Sie Folgendes:
 * Delegieren von Genehmigungen für Projekte, Aufgaben und Probleme
 * Ermitteln von delegierten Genehmigungen
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446385/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 

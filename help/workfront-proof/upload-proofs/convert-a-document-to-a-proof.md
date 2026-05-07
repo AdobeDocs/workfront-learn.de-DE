@@ -37,7 +37,7 @@ In diesem Video lernen Sie Folgendes:
 * Hinzufügen eines Workflows beim Generieren des Korrekturabzugs
 * Hinzufügen oder Bearbeiten eines Workflows nach der Erstellung des Korrekturabzugs
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443478/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 
 ## Wer kann Dokumente hochladen?

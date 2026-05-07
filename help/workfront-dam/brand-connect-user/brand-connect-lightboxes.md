@@ -38,7 +38,7 @@ In diesem Video lernen Sie Folgendes:
 * Lightboxes überwachen und verwalten
 * Zusammenarbeiten an einer Lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454359/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Lightboxes vs. Ordner
 

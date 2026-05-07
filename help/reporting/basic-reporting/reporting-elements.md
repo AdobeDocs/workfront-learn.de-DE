@@ -35,7 +35,7 @@ In diesem Video wird erläutert, wie Sie mit den Berichterstellungselementen von
 
 Das Video zeigt auch, wie Berichtselemente angepasst und für andere freigegeben werden können. &#x200B; Diese Tools ermöglichen es Benutzenden, Listenberichte an ihre Bedürfnisse anzupassen, um eine bessere Sichtbarkeit und Verwaltung zu erreichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447797/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

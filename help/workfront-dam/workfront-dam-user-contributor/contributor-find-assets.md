@@ -39,7 +39,7 @@ In diesem Video lernen Sie Folgendes:
 * Anzeigen von Ordnerdetails
 * Anzeigen und Aktualisieren von Asset-Metadaten und Schlüsselwörtern
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453932/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Grundlegende Suchkriterien
 

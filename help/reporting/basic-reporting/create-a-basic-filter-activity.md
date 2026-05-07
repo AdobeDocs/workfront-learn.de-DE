@@ -60,7 +60,7 @@ In diesem Video erstellen Sie einen Projektfilter mit dem Namen „Projekte, fü
 
 Eine schrittweise Anleitung finden Sie weiter unten.
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443388/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Antwort auf Aktivität 2
 

@@ -36,7 +36,7 @@ In diesem Video wird erläutert, wie Sie mit dem Portfolio-Optimierungs-Tool in 
 
 Das Video betont die Bedeutung von Business Cases für genaue Vergleiche und bietet Schritt-für-Schritt-Anweisungen zur effektiven Optimierung und Verwaltung von Projektprioritäten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446284/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

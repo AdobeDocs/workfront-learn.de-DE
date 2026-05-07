@@ -40,4 +40,4 @@ In diesem Video sehen Sie Folgendes:
 * Ein Überblick über die Arbeitstabellen
 * Ein Überblick über die Personendiagramme
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436399/?captions=ger&quality=12&learn=on&enablevpops=1)

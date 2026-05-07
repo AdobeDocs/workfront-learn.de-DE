@@ -40,7 +40,7 @@ In diesem Video wird das Konzept der Reporting-Komponenten in Workfront beschrie
 * **Filterkennzeichner:**, welche Werte in einen Bericht ein- oder ausgeschlossen werden sollen, z. B. das Anzeigen von Aufgaben mit der Priorität „Hoch“. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447030/?captions=ger&quality=12&learn=on&enablevpops=0)
 
 ## Wichtige Schlussfolgerungen
 
