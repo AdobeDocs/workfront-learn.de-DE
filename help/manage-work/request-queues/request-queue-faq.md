@@ -5,13 +5,19 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner
-last-substantial-update: 2024-09-16T00:00:00Z
+last-substantial-update: '2024-09-16T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '709'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:40:23.244Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 709
 ht-degree: 100%
 
 ---
@@ -24,7 +30,7 @@ Stellen Sie sicher, dass die Person auf der Registerkarte [!UICONTROL Warteschla
 
 Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434165/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
 
 **Ich habe Benutzenden Zugriff auf die Warteschlange gewährt, aber jetzt können sie auch das Projekt für die Anfrage-Warteschlange sehen. Warum?**
 
@@ -62,7 +68,7 @@ Sie können auf Felder in den Feldquellen **[!UICONTROL Konvertiertes Problem]**
 
 Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434185/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
 
 
 **Wie lässt es sich am besten nach Anfrage-Warteschlangen in einem Bericht filtern?**
@@ -73,7 +79,7 @@ Wenn Ihr Projektfilter **Warteschlange >>Ist öffentlich>>Nicht gleich>>Keine** 
 
 Sehen Sie sich dieses Video an, um weitere Informationen zu erhalten:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434339/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
 
 **Ist es empfehlenswert, einen benutzerdefinierten Status der Anfrage-Warteschlange zu erstellen?**
 

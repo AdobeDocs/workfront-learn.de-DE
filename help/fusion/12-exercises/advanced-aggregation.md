@@ -1,6 +1,6 @@
 ---
 title: Übung zur erweiterten Aggregation
-description: Rufen Sie einen Web-Dienst zur Rückgabe von Details über mehrere Länder und zur Identifizierung der Bevölkerung, gruppiert nach Unterregionen, auf.
+description: Rufen Sie einen Web-Dienst zur Rückgabe von Details über mehrere Länder und zur Identifizierung der Population, gruppiert nach Unterregionen, auf.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +11,16 @@ jira: KT-11048
 thumbnail: KT11048.png
 recommendations: noDisplay,catalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:45:52.312Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 100%
+source-wordcount: 493
+ht-degree: 94%
 
 ---
 
@@ -24,7 +30,7 @@ Erfahren Sie, wie Sie beim Aggregieren Gruppierungen verwenden.
 
 ## Übungsübersicht
 
-Rufen Sie einen Web-Dienst zur Rückgabe von Details über mehrere Länder und zur Ermittlung der Gesamtbevölkerung aller Länder, gruppiert nach Unterregionen, auf.
+Rufen Sie einen Web-Dienst zur Rückgabe von Details über mehrere Länder und zur Ermittlung der Gesamtpopulation aller Länder, gruppiert nach Unterregionen, auf.
 
 ![Erweiterte Aggregation Bild 1](../12-exercises/assets/advanced-aggregation-walkthrough-1.png)
 
@@ -77,8 +83,8 @@ Rufen Sie einen Web-Dienst zur Rückgabe von Details über mehrere Länder und z
 1. Fügen Sie nun nach „Länderdetails abrufen“ einen numerischen Aggregator hinzu, um die Populationen zu gruppieren und zu summieren.
 1. Das Quellmodul ist das Iteratormodul.
 1. Die Aggregatfunktion ist SUM.
-1. Der Wert ist [data:population] aus dem Modul „Länderdetails abrufen“.
-1. Klicken Sie unten auf die Option „Erweiterte Einstellungen anzeigen“ und gruppieren Sie nach [data:subregion] aus dem Modul „Länderdetails abrufen“.
+1. Der Wert ist [data:population] aus dem Modul „Get Country Details“.
+1. Klicken Sie unten auf die Option Erweiterte Einstellungen anzeigen und gruppieren Sie [data:subregion] im Modul Länderdetails abrufen .
 
    ![Erweiterte Aggregation Bild 7](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
 
@@ -86,7 +92,7 @@ Rufen Sie einen Web-Dienst zur Rückgabe von Details über mehrere Länder und z
 
 1. Fügen Sie am Ende einen Text-Aggregator hinzu.
 1. Das Quellmodul ist der numerische Aggregator.
-1. Fügen Sie im Textbereich ein: „Die Gesamtbevölkerung von [KEY] ist [result].“
+1. Fügen Sie im Textbereich ein: „Die Gesamtpopulation von [KEY] ist [result].“
 
    ![Erweiterte Aggregation Bild 8](../12-exercises/assets/advanced-aggregation-walkthrough-8.png)
 

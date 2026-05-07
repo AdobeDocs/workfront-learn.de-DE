@@ -7,14 +7,20 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: 2024-02-28T00:00:00Z
+last-substantial-update: '2024-02-28T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:55:57.327Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 93%
+source-wordcount: 240
+ht-degree: 36%
 
 ---
 
@@ -22,18 +28,18 @@ ht-degree: 93%
 
 Im Video wird gezeigt, wie Sie ein Problem oder eine Anfrage in eine Aufgabe konvertieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445439/?captions=ger&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Einfacher Konvertierungsprozess:** Um ein Problem oder eine Anfrage in eine Aufgabe zu konvertieren, öffnen Sie das Problem, klicken Sie auf das Drei-Punkte-Menü und wählen Sie „In Aufgabe umwandeln“ aus. Der Aufgabenname und die Beschreibung werden standardmäßig kopiert, können aber bearbeitet werden. 
-* **Auswahl des Zielprojekts:** Sie können das Zielprojekt für die Aufgabe auswählen – entweder das Standardprojekt, in dem sich das Problem befindet, oder ein anderes Projekt, auf das Sie Zugriff haben. 
-* **Automatisches Anhängen von Formularen:** Benutzerdefinierte Formulare, die mit dem Problem verknüpft sind, werden automatisch zur Aufgabe hinzugefügt, sodass alle Feldwerte nahtlos übernommen werden. 
+* **Einfacher Konvertierungsprozess:** Um ein Problem/eine Anfrage in eine Aufgabe zu konvertieren, öffnen Sie das Problem, klicken Sie auf das Dreipunkt-Menü und wählen Sie „In Aufgabe konvertieren“ aus. &#x200B; Der Aufgabenname und die Beschreibung werden standardmäßig kopiert, können jedoch bearbeitet werden. &#x200B;
+* **Auswahl des Zielprojekts** Sie können das Zielprojekt für die Aufgabe auswählen, entweder das Standardprojekt, in dem sich das Problem befindet, oder ein anderes Projekt, auf das Sie Zugriff haben. &#x200B;
+* **Automatische Formularanhänge:** Benutzerdefinierte Formulare, die mit dem Problem verknüpft sind, werden automatisch zur Aufgabe hinzugefügt, um sicherzustellen, dass alle Feldwerte nahtlos übernommen werden. &#x200B;
 * **Konvertierungsoptionen:** Zu den wichtigsten Optionen gehören:
-   * Aktivhaltung des ursprünglichen Problems neben der Aufgabe. 
-   * Ermöglichung des Zugriffs der anfragenden Person auf die Aufgabe. 
-   * Beibehaltung des geplanten Fertigstellungsdatums des Problems für die Aufgabe. 
-* **Verknüpfte Statusaktualisierungen:** Wenn das ursprüngliche Problem beibehalten wird, wird sein Status automatisch anhand des Fortschritts der Aufgabe aktualisiert, was eine Synchronisierung zwischen Problem und Aufgabe sicherstellt. 
+   * Ursprüngliches Problem neben der Aufgabe aktiv halten. &#x200B;
+   * Dem Anforderer Zugriff auf die Aufgabe gewähren. &#x200B;
+   * Das geplante Abschlussdatum der Anfrage für die Aufgabe wird beibehalten. &#x200B;
+* **Verknüpfte Statusaktualisierungen:** Wenn das ursprüngliche Problem beibehalten wird, wird sein Status automatisch auf der Grundlage des Aufgabenfortschritts aktualisiert, wodurch eine Synchronisierung zwischen dem Problem und der Aufgabe sichergestellt wird. &#x200B;
 
 
 >[!NOTE]

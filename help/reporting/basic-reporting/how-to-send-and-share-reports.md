@@ -9,13 +9,19 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-last-substantial-update: 2025-05-29T00:00:00Z
+last-substantial-update: '2025-05-29T00:00:00.000Z'
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:18:44.706Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 97%
+source-wordcount: 354
+ht-degree: 67%
 
 ---
 
@@ -27,14 +33,14 @@ In diesem Video lernen Sie Folgendes:
 * Wie Berichte für andere freigegeben werden
 * Was die Empfängerinnen und Empfänger in einem Workfront-Bericht sehen und was sie damit tun können
 
->[!VIDEO](https://video.tv.adobe.com/v/3447821/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Senden von Berichten an externe Benutzende:** Sie können Berichte an Nicht-Workfront-Benutzende senden, indem Sie deren E-Mail-Adressen eingeben, um die Freigabe von Daten außerhalb Ihres Unternehmens zu erleichtern.
-* **Sichtbarkeit der Zugriffsberechtigungssteuerungen:** Die Ansicht des Berichts durch die Empfängerin bzw. den Empfänger hängt von den von Ihnen festgelegten Zugriffsrechten ab. Dies gewährleistet Datensicherheit und angemessene Sichtbarkeit.
-* **Sich wiederholende Lieferung für Snapshots:** Geplante Lieferungen bieten eingefrorene Snapshots der Daten zu bestimmten Zeiten, was für die Verfolgung von Trends und die Verwaltung des Verlaufs der Projektdaten nützlich ist.
-* **Freigabe von Berichten für Teams:** Berichte können für Einzelpersonen, Teams oder Aufgabengebiete freigegeben werden, wobei Berechtigungen zum Anzeigen oder Verwalten gewährt werden können. Freigegebene Berichte werden im Abschnitt „Für mich freigegeben“ des Benutzenden angezeigt.
+* **Berichte an externe Benutzer senden:** Sie können Berichte an Nicht-Workfront-Benutzer senden, indem Sie deren E-Mail-Adressen eingeben, um die Freigabe von Daten außerhalb Ihres Unternehmens zu erleichtern. &#x200B;
+* **Sichtbarkeit der Zugriffsberechtigungen:** Ansicht des Berichts durch den Empfänger hängt von den von Ihnen festgelegten Zugriffsrechten ab. Dies gewährleistet Datensicherheit und angemessene Sichtbarkeit. &#x200B;
+* **Sich wiederholende Sendungen für Momentaufnahmen:** Terminierte Sendungen liefern eingefrorene Momentaufnahmen der Daten zu bestimmten Zeiten, was für die Verfolgung von Trends und die Pflege eines Verlaufs der Projektdaten nützlich ist. &#x200B;
+* **Berichte für Teams freigeben:** Berichte können für Einzelpersonen, Teams oder Aufgabengebiete freigegeben werden, wobei Berechtigungen zum Anzeigen oder Verwalten gewährt werden können. &#x200B; freigegebenen Berichte werden im Abschnitt „Für mich freigegeben“ für Benutzende angezeigt. &#x200B;
 * **Öffentliche und systemweite Freigabe:** Berichte können über öffentliche Links für externe Benutzende freigegeben oder systemweit für alle Workfront-Benutzenden sichtbar gemacht werden, was eine flexible Datenfreigabe ermöglicht.
 
 

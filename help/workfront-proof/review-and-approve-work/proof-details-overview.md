@@ -10,10 +10,16 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: cb72c429f0ef4cd9945282876aa49189dab1bd96
-workflow-type: ht
-source-wordcount: '1038'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:56:45.995Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 1038
+ht-degree: 97%
 
 ---
 
@@ -68,7 +74,7 @@ Mithilfe dieser Einstellungen können Sie den Zugriff auf den Korrekturabzug sel
 ![Ein Bild der [!UICONTROL Proofing-Viewer-Einstellungen] auf der Seite des Korrekturabzugs, mit Hervorhebung der Option [!UICONTROL Proofing-Viewer-Einstellungen] im Menü des linken Bedienfelds.](assets/proofing-settings-on-details-page.png)
 
 * **[!UICONTROL Anmeldung erforderlich. Dieser Korrekturabzug kann nicht für Gastbenutzerinnen und Gastbenutzer freigegeben werden]** – Der Korrekturabzug kann nur für Personen freigegeben werden, die über eine [!DNL Workfront]-Proofing-Lizenz verfügen.
-* **[!UICONTROL Entscheidungen müssen elektronisch signiert werden] –** Für die Freigabe eines Korrekturabzugs muss die Empfängerin bzw. der Empfänger über Proofing-Berechtigungen in [!DNL Workfront] verfügen und muss den Korrekturabzug „elektronisch signieren“, indem sie bzw. er bei einer Korrekturabzugs-Entscheidung das Proofing-Passwort eingibt. (Hinweis: Das Proofing-Passwort ist ein anderes als Ihr [!DNL Workfront]-Passwort. Das Proofing-Passwort ist nicht einfach zugänglich, daher kennen die meisten Empfängerinnen und Empfänger ihr Passwort nicht.) Adobe empfiehlt, mit Ihrer [!DNL Workfront]-Beraterin bzw. Ihrem -Berater zu sprechen, bevor Sie diese Funktion verwenden.
+* **[!UICONTROL Entscheidungen müssen elektronisch signiert werden] –** Für die Freigabe eines Korrekturabzugs muss die Empfängerin bzw. der Empfänger über Proofing-Berechtigungen in [!DNL Workfront] verfügen und muss den Korrekturabzug „elektronisch signieren“, indem sie bzw. er bei einer Korrekturabzugs-Entscheidung das Proofing-Passwort eingibt. (Hinweis: Das Proofing-Passwort ist ein anderes als Ihr [!DNL Workfront]-Passwort. Das Proofing-Kennwort ist nicht leicht zugänglich, sodass die meisten Empfänger dieses Kennwort nicht kennen.) Adobe empfiehlt, vor der Verwendung dieser Funktion mit Ihrem [!DNL Workfront] zu sprechen.
 * **[!UICONTROL Korrekturabzug sperren, wenn alle erforderlichen Entscheidungen getroffen sind ]** – Auf diese Weise wird der Korrekturabzug für alle weiteren Kommentare, Antworten, Entscheidungen usw. gesperrt, sobald alle Entscheidungen zu dem Korrekturabzug getroffen sind. Dadurch wird die gesamte Korrekturabzugsversion gesperrt, nicht nur ein bestimmter Schritt des Proofing-Workflows.
 * **[!UICONTROL Herunterladen der Originaldatei zulassen] –** Empfängerinnen und Empfänger des Korrekturabzugs können die ursprüngliche Quelldatei des Korrekturabzugs vom Proofing-Viewer herunterladen.
 * **[!UICONTROL Freigabe des Korrekturabzugs über öffentliche URL oder Einbettungs-Code zulassen]** – Empfängerinnen und Empfänger eines Korrekturabzugs können für alle einen öffentlich zugänglichen Korrekturabzug-Link freigeben.

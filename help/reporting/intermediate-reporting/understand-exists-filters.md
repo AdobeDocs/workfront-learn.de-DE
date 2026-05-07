@@ -8,13 +8,19 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-1880
-last-substantial-update: 2025-08-25T00:00:00Z
+last-substantial-update: '2025-08-25T00:00:00.000Z'
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T02:08:32.688Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '688'
-ht-degree: 98%
+source-wordcount: 706
+ht-degree: 89%
 
 ---
 
@@ -26,14 +32,14 @@ In diesem Video erfahren Sie, wie Sie einen EXISTS-Filter erstellen, um Korrektu
 
 Eine ausführlichere Anleitung zur Funktionsweise von EXISTS finden Sie in der Dokumentation [Erstellen komplexer Textmodusfilter mit EXISTS-Anweisungen](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471212/?captions=ger&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## Beispiele für EXISTS-Filter
 
 ### Project Report EXISTS (Projektbericht VORHANDEN)
 
-Hierbei dient die Aufgabe als Verknüpfungsobjekt, indem die auf der Aufgabenebene gefundene Projekt-ID verglichen und mit dem ID-Feld auf der Projektebene abgeglichen wird. Auf diese Weise können wir dann die Zuweisung von Benutzenden zur Aufgabe mit einem $$USER.ID-Platzhalter vergleichen. Dies führt dazu, dass nur Projekte zurückgegeben werden, bei denen die bzw. der anzeigende Benutzende einer
-Aufgabe zugewiesen ist, unabhängig davon, ob sie bzw. er die primäre zugewiesene Person ist oder nicht.
+Hierbei dient die Aufgabe als Verknüpfungsobjekt, indem die auf der Aufgabenebene gefundene Projekt-ID verglichen und mit dem ID-Feld auf der Projektebene abgeglichen wird. Auf diese Weise können wir dann die Zuweisung von Benutzenden zur Aufgabe mit einem $$USER.ID-Platzhalter vergleichen. Dies führt dazu, dass nur Projekte zurückgegeben werden, bei denen der anzeigende Benutzer einem
+Aufgabe, unabhängig davon, ob sie der primäre Zugewiesene ist oder nicht.
 
 ```
 EXISTS:A:$$OBJCODE=TASK
@@ -43,8 +49,8 @@ EXISTS:A:projectID=FIELD:ID
 ```
 
 
-Hierbei wird das Problem (optask) als Verknüpfungsobjekt verwendet, indem auch die auf der Problemebene (optask) gefundene Projekt-ID verglichen und mit jener im ID-Feld auf Projektebene abgeglichen wird. So wird geprüft, ob bei einem dieser Probleme (optasks) ein Eingabedatum innerhalb des angegebenen Zeitraums vorhanden ist. In dem Fall würden alle Projekte zurückgegeben, bei denen
-in den letzten 30 Tagen (rollierend) aufgrund des NOTEXISTS kein Problem (optask) protokolliert wurde.
+Hierbei wird das Problem (optask) als Verknüpfungsobjekt verwendet, indem auch die auf der Problemebene (optask) gefundene Projekt-ID verglichen und mit jener im ID-Feld auf Projektebene abgeglichen wird. So wird geprüft, ob bei einem dieser Probleme (optasks) ein Eingabedatum innerhalb des angegebenen Zeitraums vorhanden ist. In diesem Fall würde es jedes Projekt zurückgeben, das
+In den letzten 30 Tagen wurde aufgrund des NOTEXISTS kein Problem (Optask) rollierend protokolliert.
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS
@@ -114,8 +120,8 @@ EXISTS:1:userID=FIELD:ID
 
 ### Category (Custom Form) Report EXISTS (Kategorienbericht (benutzerdefiniertes Formular) VORHANDEN)
 
-Dieser Text enthält eine Liste aller Projektformulare, die noch nie in einem Projekt verwendet wurden. Dies sollte zusammen mit der Angabe des Objekttyps des Formulars verwendet werden, auf das wir uns konzentrieren. In diesem Fall ist der Fokus also PROJ, sodass wir die Hinweise in die objTypes-Zeilen einbeziehen sollten. Dies könnte für andere
-Objekttypen verwendet werden, indem die Teile, die sich auf den Objekt-Code beziehen, verändert werden. Dadurch wird die Sammlung der mit Projekten verbundenen Formulare mit den aufgelisteten Formularen abgeglichen und ausgegeben, wenn keine Übereinstimmung vorliegt.
+Dieser Text enthält eine Liste aller Projektformulare, die noch nie in einem Projekt verwendet wurden. Dies sollte zusammen mit der Angabe des Objekttyps des Formulars verwendet werden, auf das wir uns konzentrieren. In diesem Fall ist der Fokus also PROJ, sodass wir die Hinweise in die objTypes-Zeilen einbeziehen sollten. Dies könnte verwendet werden
+für andere Objekttypen durch Ändern der Teile, die sich auf den Objektcode beziehen. Dadurch wird die Sammlung der mit Projekten verbundenen Formulare mit den aufgelisteten Formularen abgeglichen und ausgegeben, wenn keine Übereinstimmung vorliegt.
 
 ```
 EXISTS:A:$$OBJCODE=PROJ

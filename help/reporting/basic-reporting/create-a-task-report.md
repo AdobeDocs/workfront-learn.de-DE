@@ -8,31 +8,37 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
-last-substantial-update: 2025-06-11T00:00:00Z
+last-substantial-update: '2025-06-11T00:00:00.000Z'
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:19.850Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '1121'
-ht-degree: 98%
+source-wordcount: 1158
+ht-degree: 84%
 
 ---
 
 # Erstellen eines Aufgabenberichts für verspätete Zuweisungen
 
-Das Video enthält eine schrittweise Anleitung zum Erstellen eines benutzerdefinierten Berichts, um in Verzug geratene Aufgaben zu verfolgen, die der angemeldeten Person zugewiesen sind. Zunächst wird erklärt, dass benutzerdefinierte Berichte erforderlich sind, wenn vorhandene Filter, Ansichten oder integrierte Berichte bestimmte Anforderungen nicht erfüllen.  Der Bericht trägt den Namen „In Verzug geratene Aufgaben, die mir zugewiesen sind“ und umfasst aus Gründen der Klarheit eine Beschreibung. 
+Das Video enthält eine schrittweise Anleitung zum Erstellen eines benutzerdefinierten Berichts, um in Verzug geratene Aufgaben zu verfolgen, die der angemeldeten Person zugewiesen sind. Zunächst wird erklärt, dass benutzerdefinierte Berichte erforderlich sind, wenn vorhandene Filter, Ansichten oder integrierte Berichte bestimmte Anforderungen nicht erfüllen. &#x200B; Der Bericht trägt den Namen „Verspätete Aufgaben, die mir zugewiesen wurden“ und wurde aus Gründen der Klarheit mit einer Beschreibung hinzugefügt. &#x200B;
 
-Der daraus resultierende Bericht hilft Benutzenden, sich auf in Verzug geratene Aufgaben zu konzentrieren, bietet Informationen zu Abhängigkeiten und vereinfacht die Navigation zu den Host-Projekten. 
+Der resultierende Bericht hilft Benutzern, sich auf verspätete Aufgaben zu konzentrieren, bietet Einblicke in Abhängigkeiten und vereinfacht die Navigation zu den Host-Projekten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448351/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Erstellung benutzerdefinierter Berichte:** Wenn vorhandene Filter und integrierte Berichte Ihre Anforderungen nicht erfüllen, können Sie einen benutzerdefinierten Bericht ganz neu erstellen, um sich auf bestimmte Daten zu konzentrieren, z. B. in Verzug geratene Aufgaben, die Ihnen zugewiesen sind. 
-* **Filtereinrichtung:** Verwenden Sie Filter, um Berichtskriterien zu definieren, einschließlich in Verzug geratener Aufgaben, unvollständiger Aufgaben, aktueller Projekte und Aufgaben, die der angemeldeten Person zugewiesen sind. 
-* **Spalten für Kontext:** Fügen Sie Spalten wie „Kann beginnen“ hinzu, um Abhängigkeitsprobleme zu identifizieren, und „Projektname“ mit Hyperlinks, um die Navigation zu zugehörigen Projekten zu erleichtern. 
-* **Sortierung nach Priorität:** Sortieren Sie Aufgaben nach der Spalte „Fällig am“ in aufsteigender Reihenfolge, um die am längsten überfälligen Aufgaben oben im Bericht zu priorisieren. 
+* **Erstellung benutzerdefinierter Berichte:** Wenn vorhandene Filter und integrierte Berichte Ihre Anforderungen nicht erfüllen, können Sie einen benutzerdefinierten Bericht von Grund auf neu erstellen, um sich auf bestimmte Daten zu konzentrieren, z. B. zugewiesene verspätete Aufgaben. &#x200B;
+* **Filtereinrichtung:** Verwenden Sie Filter, um Berichtskriterien zu definieren, einschließlich verspäteter Aufgaben, unvollständiger Aufgaben, aktueller Projekte und Aufgaben, die dem angemeldeten Benutzer zugewiesen wurden. &#x200B;
+* **Spalten für Kontext:** Fügen Sie Spalten wie „Kann beginnen“ hinzu, um Abhängigkeitsprobleme zu identifizieren, und „Projektname“ mit Hyperlinks, um die Navigation zu verwandten Projekten zu erleichtern. &#x200B;
+* **Nach Priorität sortieren** Sortieren Sie Aufgaben nach der Spalte „Fällig am“ in aufsteigender Reihenfolge, um die am häufigsten überfälligen Aufgaben oben im Bericht zu priorisieren. &#x200B;
 * **Barrierefreiheit:** Speichern Sie den Bericht, heften Sie ihn an oder markieren Sie ihn als Favoriten für den Schnellzugriff, um eine effiziente Nachverfolgung und Verwaltung von in Verzug geratenen Aufgaben sicherzustellen.
 
 
@@ -121,7 +127,7 @@ Schließen Sie Prompts zu Folgendem ein:
 
 Dieser Problembericht zeigt alle Probleme aus einer Feedback-Anfrage-Warteschlange an, die für System-Admins erstellt wurde. Wie man diese Anfrage-Warteschlange erstellt, können Sie in der Anleitung [Erstellen einer Feedback-Anfrage-Warteschlange für System-Admins](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=de) sehen.
 
-Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=de&land=de).
+Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?land=de).
 
 Dieses benutzerdefinierte Formular sollte die Objekttypen „Projekt“ und „Problem“ verwenden und folgendermaßen erstellt werden:
 

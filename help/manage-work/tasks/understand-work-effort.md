@@ -9,13 +9,19 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
-last-substantial-update: 2024-05-29T00:00:00Z
+last-substantial-update: '2024-05-29T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:37:25.499Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 95%
+source-wordcount: 295
+ht-degree: 40%
 
 ---
 
@@ -24,15 +30,15 @@ ht-degree: 95%
 In diesem Video wird beschrieben, wie Sie mithilfe der Funktion „Arbeitsaufwand“ in Workfront die geplanten Stunden für Aufgaben abschätzen können, wenn eine genaue Schätzung schwierig ist.
 Es zeigt, wie Sie eine benutzerdefinierte Ansicht des Arbeitsaufwands erstellen, um das Aufgaben-Management zu optimieren, indem relevante Spalten wie „Arbeitsaufwand“, „Geplante Stunden“ und „Dauer – Typ“ hinzugefügt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447408/?captions=ger&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Funktion „Arbeitsaufwand“ zur Schätzung geplanter Stunden:** Die Funktion „Arbeitsaufwand“ in Workfront hilft bei der Schätzung der geplanten Stunden für Aufgaben auf Grundlage ihrer Laufzeiten und erleichtert so die Erstellung von Projektplänen, wenn die geplanten Stunden schwer abzuschätzen sind. 
-* **Anpassbare Prozentsätze des Arbeitsaufwands:** Workfront berechnet die geplanten Stunden anhand von Prozentsätzen der Aufgabenlaufzeiten (z. B. mittlerer Arbeitsaufwand = 50 %, großer Arbeitsaufwand = 75 %). Diese Prozentsätze können nach Bedarf angepasst werden. 
-* **Einfacher Dauertyp als Voraussetzung:** Der Arbeitsaufwand ist nur für Aufgaben verfügbar, die unter „Dauer –Typ“ als „Einfach“ definiert sind. Für Aufgaben mit anderen Dauertypen muss die entsprechende Einstellung vor der Verwendung der Funktion „Arbeitsaufwand“ in „Einfach“ geändert werden. 
-* **Optionen zur Inline- und Massenbearbeitung:** Die Funktion „Arbeitsaufwand“ kann für einzelne Aufgaben mit der Option „Inline-Bearbeitung“ bzw. für mehrere Aufgaben gleichzeitig mit der Option „Massenbearbeitung“ angepasst werden. 
-* **Erstellen einer benutzerdefinierten Ansicht des Arbeitsaufwands:** Benutzende können eine benutzerdefinierte Ansicht des Arbeitsaufwands erstellen, um die Einstellungen für die Funktion „Arbeitsaufwand“ einfach zu verwalten und zu bearbeiten. Dabei werden Spalten für den Arbeitsaufwand und andere relevante Felder, z. B. „Geplante Stunden“ oder „Dauer – Typ“, hinzugefügt. 
+* **Work Effort-Funktion für die Schätzung der geplanten Stunden:** Die Work Effort-Funktion in Workfront hilft bei der Schätzung der geplanten Stunden für Aufgaben basierend auf ihrer Dauer, wodurch die Erstellung von Projektplänen erleichtert wird, wenn die geplanten Stunden schwer zu schätzen sind. &#x200B;
+* **Anpassbare Work Effort-Prozentsätze:** Workfront berechnet die geplanten Stunden anhand der prozentualen Aufgabendauer (z. B. Medium Work Effort = 50 %, Large Work Effort = 75 %). Diese Prozentsätze können bei Bedarf angepasst werden. &#x200B;
+* **Anforderung für einfachen Dauertyp:** Work Effort steht nur für Aufgaben mit einem einfachen Dauertyp zur Verfügung. &#x200B; Aufgaben mit anderen Dauertypen müssen auf „Einfach“ geändert werden, bevor Work Effort verwendet werden kann. &#x200B;
+* **Inline- und Massenbearbeitungsoptionen:** Work Effort kann mithilfe der Inline-Bearbeitung für einzelne Aufgaben oder für mehrere Aufgaben gleichzeitig mithilfe der Massenbearbeitungsfunktion angepasst werden. &#x200B;
+* **Erstellen einer benutzerdefinierten Work Effort-Ansicht:** Benutzer können eine benutzerdefinierte Work Effort-Ansicht erstellen, um Work Effort-Einstellungen einfach verwalten und bearbeiten zu können. &#x200B; Dazu müssen Spalten für den Arbeitsaufwand und andere relevante Felder wie „Geplante Stunden“ oder „Dauertyp“ hinzugefügt werden. &#x200B;
 
 
 Weitere Informationen zum [!UICONTROL Arbeitsaufwand] finden Sie im Artikel [Übersicht zum Arbeitsaufwand](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=de).

@@ -8,15 +8,21 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-05-23T00:00:00Z
+last-substantial-update: '2024-05-23T00:00:00.000Z'
 jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '226'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:38:57.192Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 221
+ht-degree: 40%
 
 ---
 
@@ -27,13 +33,13 @@ In diesem Video werden verschiedene Methoden zum Zuweisen von Aufgaben in einem 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Schnellzuweisungen durch Inline-Bearbeitung:** Weisen Sie Aufgaben durch Eingabe eines Namens und Auswahl aus einer Liste zu. Nutzen Sie dabei die Funktion zur automatischen Textvervollständigung, um eine schnellere Auswahl treffen zu können. 
-* **Effizienz durch Massenbearbeitung:** Weisen Sie derselben Person mehrere Aufgaben zu, indem Sie Aufgaben auswählen, die Funktion „Massenbearbeitung“ verwenden und den Namen aus der Liste auswählen. 
-* **Optimierte Aufgabenzuweisungen durch Aufgabengebiete:** Verwenden Sie Aufgabengebiete, um Aufgabenzuweisungen zu erleichtern, insbesondere mit Projektvorlagen. Aufgabengebiete werden für das Ressourcen-Management und die Kapazitätsplanung separat erfasst. 
-* **Zusammenarbeit durch Team-Zuweisungen:** Weisen Sie Teams Aufgaben zu, indem Sie den Team-Namen auswählen, der mit einem Team-Symbol angezeigt wird. Team-Mitglieder können Aufgaben sich selbst zuweisen oder Team-Leiter können sie neu zuweisen und dabei den Team-Namen für Berichte beibehalten. 
-* **Integration von Ressourcen-Management:** Aufgabengebiete und Team-Zuweisungen unterstützen Ressourcenkapazitäts- und Verfügbarkeitsberechnungen, was die Projektplanung und -ausführung verbessert. 
+* **Inline-Bearbeitung für Schnellzuweisungen** Einfaches Zuweisen von Aufgaben durch Eingabe eines Namens und Auswahl aus einer Liste, mit Funktion für automatische Textvervollständigung für eine schnellere Auswahl. &#x200B;
+* **Massenbearbeitung für Effizienz:** Weisen Sie derselben Person mehrere Aufgaben zu, indem Sie Aufgaben auswählen, die Massenbearbeitung verwenden und den Namen aus der Liste auswählen. &#x200B;
+* **Aufgabengebiete für optimierte Zuweisungen:** Sie Aufgabengebiete, um Aufgabenzuweisungen zu erleichtern, insbesondere mit Projektvorlagen. &#x200B; Aufgabengebiete werden für das Ressourcen-Management und die Kapazitätsplanung separat erfasst. &#x200B;
+* **Team-Arbeitsaufträge für Collaboration:** Weisen Sie Teams Aufgaben zu, indem Sie den Team-Namen auswählen, der mit einem Team-Symbol angezeigt wird. &#x200B; Teammitglieder können Aufgaben selbst zuweisen oder Teamleiter können sie neu zuweisen und dabei den Team-Namen für die Berichterstellung beibehalten. &#x200B;
+* **Ressourcenmanagement-Integration:** Aufgabengebiete und Team-Arbeitsaufträge unterstützen Ressourcenkapazitäts- und Verfügbarkeitsberechnungen und verbessern so die Projektplanung und -ausführung. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema

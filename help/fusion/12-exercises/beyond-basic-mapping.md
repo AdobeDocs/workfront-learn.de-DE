@@ -11,9 +11,15 @@ jira: KT-11039
 thumbnail: KT11039.png
 recommendations: noDisplay,catalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:44:57.573Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: 314
 ht-degree: 100%
 
 ---
@@ -42,7 +48,7 @@ Erfahren Sie, wie Sie Felder, die an ein Modul gesendet werden, mit den Formeln 
 
    + Die [Mein Projektname] ist Spalte 1 des Moduls „CSV-Analyse“ und [Sponsor] ist Spalte 6. Das Wort „nach“ wird einfach zwischen die beiden geschrieben.
 
-1. Gehen Sie dann zu „Geplanter Starttermin“ und verwenden Sie die Formel „addDays“, um zum Feld 15 Tage hinzuzufügen, wie in dem Video „Weiterführende Zuordnung“ beschrieben.
+1. Gehen Sie dann zu „Geplantes Startdatum“ und verwenden Sie die Formel „addDays“, um zum Feld 15 Tage hinzuzufügen, wie in dem Video „Weiterführende Zuordnung“ beschrieben.
 1. Suchen Sie das Feld „Priorität“ und aktivieren Sie die Schaltfläche „Zuordnen“ oben rechts im Feld. Das Auswahllisten-Menü ändert sich in eine Zahl. Erstellen Sie eine if-Anweisung, um ein Projekt als hohe Priorität (4) zu kennzeichnen, wenn die Vertrauenseinstufung in der CSV-Datei weniger als 100 beträgt, andernfalls kann es als normal (2) eingestuft werden.
 
    + Die Vertrauensbewertung ist in Spalte 4 enthalten.

@@ -10,10 +10,16 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '494'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T02:00:53.580Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 494
+ht-degree: 91%
 
 ---
 
@@ -25,7 +31,7 @@ In diesem Video lernen Sie Folgendes:
 * Navigation durch Brand Connect
 * Suchen nach Assets
 
->[!VIDEO](https://video.tv.adobe.com/v/3418746/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops=1)
 
 ## Grundlegende Suchkriterien
 
@@ -59,7 +65,7 @@ Wenn Sie ein Wort aus den Suchergebnissen ausschließen möchten, setzen Sie ein
 
 ### Operator für leere Felder
 
-Um nach Assets zu suchen, die in einem bestimmten Metadatenfeld keine Informationen enthalten, geben Sie das Feld, das Sie suchen möchten, in diesem Format ein: ?[xxxxx]. Wenn Sie beispielsweise nach Assets suchen möchten, denen keine Schlüsselwörter zugewiesen sind, geben Sie „?“ ein[Schlüsselwort]“ im Suchfeld ein.
+Um Assets zu finden, die in einem bestimmten Metadatenfeld keine Informationen enthalten, geben Sie das Feld ein, das Sie in diesem Format suchen möchten: ?[xxxxx]. Wenn Sie beispielsweise nach Assets suchen möchten, denen keine Keywords zugewiesen sind, geben Sie im Suchfeld [Keyword] ein.
 
 ## Markenrichtlinien
 

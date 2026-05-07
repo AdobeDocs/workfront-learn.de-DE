@@ -1,5 +1,5 @@
 ---
-title: Grundlegendes zu Aufgabenlaufzeiten
+title: Grundlegendes zu Aufgabendauern
 description: Stellen Sie eine präzise Projektplanung in Workfront sicher, bei der die Aufgabenlaufzeiten die Timelines beeinflussen, wodurch für Flexibilität Vorgänger genutzt, manuelle Beschränkungen vermieden und das Ressourcen-Management sowie die Planung optimiert werden.
 activity: use
 feature: Work Management
@@ -9,32 +9,39 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8776
-last-substantial-update: 2024-06-03T00:00:00Z
+last-substantial-update: '2024-06-03T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '222'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:37:12.123Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 216
+ht-degree: 32%
 
 ---
 
 # Grundlegendes zu Aufgabenlaufzeiten
 
 In diesem Video werden Aufgabenlaufzeiten in Workfront, ihre Auswirkungen auf die Start- und Fertigstellungsdaten von Aufgaben, die Projekt-Timelines und Best Practices für die effektive Verwendung von Laufzeiten beschrieben.
-Workfront empfiehlt die Verwendung von Laufzeiten und Vorgängern zum Erstellen von Timelines für Aufgaben statt dem manuellen Festlegen von Beschränkungen, da Einschränkungen automatische Anpassungen verhindern können.Präzise Laufzeiten sind entscheidend für eine effektive Projektplanung und ein effektives Ressourcen-Management.
+Workfront empfiehlt die Verwendung von Dauer und Vorgängern zum Erstellen von Aufgabenzeitleisten, anstatt Einschränkungen manuell festzulegen, da Einschränkungen automatische Anpassungen verhindern können.
+&#x200B;Präzise Laufzeiten sind entscheidend für eine effektive Projektplanung und Ressourcenmanagement.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449352/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Definition der Aufgabenlaufzeit:** Die Laufzeit einer Aufgabe ist die Differenz zwischen dem geplanten Startdatum und dem geplanten Fertigstellungsdatum einer Aufgabe und stellt das Zeitfenster für die Fertigstellung der Arbeit dar.
-* **Auswirkungen auf die Projekt-Timeline:** Aufgabenlaufzeiten wirken sich direkt auf die Gesamtdauer eines Projekts und das geplante Fertigstellungsdatum aus. Damit sind sie von entscheidender Bedeutung für die genaue Projektplanung.
-* **Verwendung von Vorgängern:** Geplante Start- und Fertigstellungsdaten werden anhand von Aufgabenlaufzeiten und Vorgängern berechnet, um eine dynamische und flexible Timeline zu gewährleisten.
-* **Vermeidung manueller Beschränkungen:** Durch das manuelle Festlegen des Start- oder Fertigstellungsdatums werden Aufgabenbeschränkungen erstellt, die automatische Anpassungen verhindern können, wenn sich Laufzeiten oder Vorgänger ändern.
-* **Ressourcen-Management:** Laufzeiten sind von entscheidender Bedeutung für die Ressourcen-Management- und Planungs-Tools von Workfront und ermöglichen präzise Ressourcenkalkulationen sowie die Verfügbarkeitsplanung für Teams.
+* **Definition der Aufgabendauer:** Aufgabendauer ist die Differenz zwischen dem geplanten Startdatum einer Aufgabe und dem geplanten Abschlussdatum und stellt das Zeitfenster für die Fertigstellung der Arbeit dar. &#x200B;
+* **Auswirkungen auf den Projektzeitplan:** Aufgabenlaufzeiten wirken sich direkt auf die Gesamtprojektdauer und das geplante Abschlussdatum aus, sodass sie für die genaue Projektplanung von entscheidender Bedeutung sind. &#x200B;
+* **Verwendung von Vorgängern:** geplanten Start- und Abschlussdaten werden anhand von Aufgabendauer und Vorgängern berechnet, um einen dynamischen und flexiblen Zeitplan zu gewährleisten. &#x200B;
+* **Vermeiden Sie manuelle Einschränkungen** Durch das manuelle Festlegen des Start- oder Abschlussdatums werden Aufgabenbeschränkungen erstellt, die automatische Anpassungen verhindern können, wenn sich die Dauer oder Vorgänger ändern. &#x200B;
+* **Ressourcenverwaltung:** sind für die Ressourcenverwaltungs- und Zeitplanungstools von Workfront von entscheidender Bedeutung und ermöglichen präzise Ressourcenkalkulationen und die Verfügbarkeitsplanung für Teams. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema

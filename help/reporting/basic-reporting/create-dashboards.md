@@ -9,30 +9,36 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-last-substantial-update: 2025-05-28T00:00:00Z
+last-substantial-update: '2025-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:51.376Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 98%
+source-wordcount: 689
+ht-degree: 73%
 
 ---
 
 # Erstellen von Dashboards in Workfront
 
 Das Video bietet eine umfassende Anleitung zum Verständnis und zur Verwendung von Dashboards in Workfront.
-Es wird erläutert, dass es sich bei einem Dashboard um eine Sammlung von Berichten handelt, mit denen Benutzende zusammengehörige Daten zentral organisieren und anzeigen können.
+&#x200B;Es wird erläutert, dass ein Dashboard eine Sammlung von Berichten ist, mit denen Benutzende verknüpfte Daten an einem Ort organisieren und anzeigen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449131/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Dashboards in Workfront:** Ein Dashboard ist eine Berichtssammlung, mit der Benutzende zusammengehörige Daten wie Projekte, Aufgaben und Probleme in einer zentralen Ansicht organisieren und anzeigen können. 
-* **Erstellen von Dashboards:** Dashboards können angepasst werden, indem ein Layout ausgewählt und Berichte, benutzerdefinierte Kalender oder externe Seiten hinzugefügt und für eine optimale Anzeige angeordnet werden. Benutzende können zudem anpassen, welche Spalten in nebeneinander angezeigten Berichten im Dashboard dargestellt werden. 
-* **Zugreifen auf Dashboards:** Dashboards sind im Bereich „Dashboards“ unter „Meine Dashboards“, „Freigegebene Dashboards“ oder „Alle Dashboards“ verfügbar. Häufig verwendete Dashboards können angeheftet oder als Favoriten hinzugefügt werden, um einen schnellen Zugriff zu ermöglichen. 
-* **Freigeben von Dashboards:** Dashboards können über das Menü „Dashboard-Aktionen“ für andere Workfront-Benutzende freigegeben werden. Dazu gehören auch alle Berichte innerhalb des Dashboards. 
-* **Drucken von Dashboards:** Dashboards können direkt über das Menü „Dashboard-Aktionen“ gedruckt werden. Physische Kopien der Daten können so einfacher verteilt werden. 
+* **Dashboards in Workfront:** Ein Dashboard ist eine Berichtssammlung, mit der Benutzende verwandte Daten wie Projekte, Aufgaben und Probleme in einer zentralen Ansicht organisieren und anzeigen können. &#x200B;
+* **Erstellen von Dashboards:** Dashboards können angepasst werden, indem ein Layout ausgewählt, Berichte, benutzerdefinierte Kalender oder externe Seiten hinzugefügt und für eine optimale Anzeige angeordnet werden. &#x200B; Benutzer können auch anpassen, welche Spalten in nebeneinander angezeigten Berichten im Dashboard angezeigt werden. &#x200B;
+* **Zugriff auf Dashboards:** Dashboards finden Sie unter „Meine Dashboards“, „Freigegebene Dashboards“ oder „Alle Dashboards“ im Bereich Dashboards. &#x200B; häufig verwendeten Dashboards können angeheftet oder zu den Favoriten hinzugefügt werden, um einen schnellen Zugriff zu ermöglichen. &#x200B;
+* **Freigabe von Dashboards:** Dashboards können über das Menü „Dashboard-Aktionen“ für andere Workfront-Benutzende freigegeben werden, einschließlich aller Berichte innerhalb des Dashboards. &#x200B;
+* **Druck-Dashboards:**-Dashboards können direkt über das Menü „Dashboard-Aktionen“ gedruckt werden, wodurch die Freigabe physischer Kopien der Daten erleichtert wird. &#x200B;
 
 
 ## Aktivitäten zum Erstellen eines Dashboards

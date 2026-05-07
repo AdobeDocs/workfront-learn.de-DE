@@ -10,29 +10,35 @@ team: Technical Marketing
 thumbnail: 335221.jpeg
 recommendations: noDisplay,catalog
 jira: KT-8958
-last-substantial-update: 2024-08-05T00:00:00Z
+last-substantial-update: '2024-08-05T00:00:00.000Z'
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:41:42.290Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 95%
+source-wordcount: 241
+ht-degree: 19%
 
 ---
 
 # Erstellen einer Anfrage-Warteschlange in Workfront
 
-Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warteschlange in Workfront. Am Ende des Videos wird gezeigt, wie Sie eine Anfrage mithilfe der neu erstellten Warteschlange senden. Außerdem wird der Prozess der Eingabe von Details und der Verifizierung der Übermittlung auf der Registerkarte „Gesendete Anfragen“ gezeigt. 
+Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warteschlange in Workfront. &#x200B; Das Video schließt mit der Demonstration, wie eine Anfrage mithilfe der neu erstellten Warteschlange gesendet wird, und zeigt den Prozess der Eingabe von Details und der Überprüfung der Übermittlung auf der Registerkarte „Anfragen gesendet“. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Erstellen einer Anfrage-Warteschlange:** Beginnen Sie mit der Erstellung eines neuen Projekts und dessen Benennung. Dieses wird später als Anfrage-Warteschlange verwendet. Stellen Sie sicher, dass Sie das Kontrollkästchen „Als Hilfeanfrage-Warteschlange veröffentlichen“ aktivieren, um es offiziell als Warteschlange zu benennen. 
-* **Zugriffsberechtigungen:** Legen Sie fest, wer Anfragen an die Warteschlange senden kann, indem Sie aus vier Optionen auswählen: jede Person, Projektbetrachtende, Firmenmitarbeiter oder Gruppenmitglieder. 
-* **Anfragetypen:** Passen Sie die Warteschlange so an, dass bestimmte Anfragetypen wie Probleme, Fehlerberichte, Änderungsaufträge oder allgemeine Anfragen einbezogen werden. Die Standardoption ist „Probleme“.
-* **Anpassbare Felder:** Legen Sie zusätzliche Details wie Standardreaktionszeit, Berechtigungen und andere Warteschlangenmerkmale fest, um die Funktionalität anzupassen. 
-* **Live-Schalten der Warteschlange** Speichern Sie die Einstellungen und legen Sie den Projektstatus auf „aktuell“ fest, um die Warteschlange zu aktivieren. Testen Sie die Funktionalität, indem Sie eine Anfrage senden und auf der Registerkarte „Gesendete Anfragen“ überprüfen.
+* **Anforderungswarteschlange erstellen** Beginnen Sie mit der Erstellung eines neuen Projekts und dessen Benennung, die später als Anforderungswarteschlange verwendet wird. &#x200B; sicherstellen, dass Sie das Kontrollkästchen „Als Warteschlange für Hilfeanfragen veröffentlichen“ aktivieren, um sie offiziell als Warteschlange festzulegen. &#x200B;
+* **Zugriffsberechtigungen:** Sie, wer Anfragen an die Warteschlange senden kann, indem Sie aus vier Optionen auswählen: Beliebige Personen, Projektbetrachter, Firmenmitglieder oder Gruppenmitglieder. &#x200B;
+* **Anfragetypen:** Sie die Warteschlange so an, dass bestimmte Anfragetypen wie Probleme, Fehlerberichte, Änderungsanforderungen oder allgemeine Anfragen einbezogen werden. &#x200B; Die Standardoption ist „issues“. &#x200B;
+* **Anpassbare Felder** Legen Sie zusätzliche Details wie Standardreaktionszeit, Berechtigungen und andere Warteschlangenmerkmale fest, um die Funktionalität anzupassen. &#x200B;
+* **Aktivieren der Warteschlange:** Sie die Einstellungen und legen Sie den Projektstatus auf „aktuell“ fest, um die Warteschlange zu aktivieren. &#x200B; Testen Sie die Funktionalität, indem Sie eine Anfrage senden und auf der Registerkarte „Anforderungen gesendet“ überprüfen.
 
 ## Empfohlene Tutorials zu diesem Thema
 

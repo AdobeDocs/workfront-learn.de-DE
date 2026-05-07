@@ -8,20 +8,26 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-07-21T00:00:00Z
+last-substantial-update: '2023-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:45:21.983Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 97%
+source-wordcount: 357
+ht-degree: 49%
 
 ---
 
 # Effektive Projektfreigabe in Workfront
 
-In diesem Video wird beschrieben, wie Sie Projekte in Workfront effektiv freigeben können, um sicherzustellen, dass Stakeholder und Mitwirkende über die erforderliche Sichtbarkeit und den nötigen Zugriff verfügen. Workfront vereinfacht die Freigabe durch die automatische Zuweisung der entsprechenden Zugriffsrechte auf der Grundlage von Rollen:
+In diesem Video wird erläutert, wie Sie Projekte in Workfront effektiv freigeben können, um sicherzustellen, dass Stakeholder und Mitarbeiter über die erforderliche Sichtbarkeit und den erforderlichen Zugriff verfügen. &#x200B; Workfront vereinfacht die Freigabe durch die automatische Zuweisung geeigneter Zugriffsrechte auf der Grundlage von Rollen:
 
 **Automatische Freigabe:**
 
@@ -36,8 +42,8 @@ In diesem Video wird beschrieben, wie Sie Projekte in Workfront effektiv freigeb
 
 **Massenfreigabe und Vorlagenfreigabe:**
 
-* Die Massenbearbeitung ermöglicht die Freigabe von Anpassungen für mehrere Projekte. 
-* Freigabeeinstellungen können in Projektvorlagen vorkonfiguriert werden, um Zeit zu sparen. 
+* Die Massenbearbeitung ermöglicht die Freigabe von Anpassungen für mehrere Projekte. &#x200B;
+* Freigabeeinstellungen können in Projektvorlagen vorkonfiguriert werden, um Zeit zu sparen. &#x200B;
 
 **Standardeinstellungen für das System:**
 
@@ -45,15 +51,15 @@ In diesem Video wird beschrieben, wie Sie Projekte in Workfront effektiv freigeb
 
 Im Video wird der Schwerpunkt auf die Verwendung von Teams und Vorlagen für ein effizientes Freigabe-Management gelegt und die Rolle von Admins beim Anpassen der Freigabeeinstellungen hervorgehoben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423148/?captions=ger&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Automatische Zugriffsrechte:** Workfront weist automatisch die richtigen Zugriffsrechte basierend auf Rollen zu (z. B. Projektersteller, Arbeitskräfte, Sponsoren und Ressourcen-Manager), um die Freigabe zu vereinfachen. 
-* **Flexible Freigabeoptionen:** Projekte können für Einzelpersonen, Teams, Aufgabengebiete, Gruppen oder Unternehmen freigegeben werden, und Berechtigungen können über Portfolios oder Programme geerbt werden.
-* **Effizientes Team-Management:** Durch das Hinzufügen oder Entfernen von Mitgliedern aus Teams werden ihre Zugriffsrechte automatisch für alle freigegebenen Objekte aktualisiert, wodurch die Team-basierte Freigabe zur einfachsten Methode wird. 
-* **Vorlagenfreigabe:** Durch die Vorkonfiguration von Freigabeeinstellungen in Projektvorlagen werden konsistente Zugriffsrechte für alle mit der Vorlage erstellten Projekte sichergestellt, was Zeit spart. 
-* **Anpassbare Standardeinstellungen für das System:** Systemadmins können Standardeinstellungen für die Freigabe ändern, z. B. das Gewähren von Mitwirkungsrechten an Team-Mitglieder, die Aufgaben zugewiesen sind, um sie an die organisatorischen Einstellungen anzupassen. 
+* **Automatische Zugriffsrechte:** Workfront weist automatisch geeignete Zugriffsrechte basierend auf Rollen zu (z. B. Projektersteller, Mitarbeiter, Sponsoren und Ressourcenmanager), um die Freigabe zu vereinfachen. &#x200B;
+* **Flexible Freigabeoptionen** Projekte können für Einzelpersonen, Teams, Aufgabengebiete, Gruppen oder Unternehmen freigegeben werden und Berechtigungen können über Portfolios oder Programme übernommen werden. &#x200B;
+* **Effiziente Team-Verwaltung:** Durch das Hinzufügen oder Entfernen von Mitgliedern aus Teams werden ihre Zugriffsrechte automatisch für alle freigegebenen Objekte aktualisiert, wodurch die teambasierte Freigabe zur einfachsten Methode wird. &#x200B;
+* **Vorlagenfreigabe** Durch die Vorkonfiguration von Freigabeeinstellungen in Projektvorlagen werden konsistente Zugriffsrechte für alle mit der Vorlage erstellten Projekte sichergestellt, was Zeit spart. &#x200B;
+* **Anpassbare Systemstandardwerte:** Systemadministratoren können Standardeinstellungen für die Freigabe ändern, z. B. die Gewährung von Mitwirkendenrechten an Team-Mitglieder, die Aufgaben zugewiesen sind, um sie an die organisatorischen Einstellungen anzupassen. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema

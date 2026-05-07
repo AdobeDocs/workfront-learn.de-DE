@@ -9,30 +9,36 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-last-substantial-update: 2025-05-08T00:00:00Z
+last-substantial-update: '2025-05-08T00:00:00.000Z'
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '419'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:37.684Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 409
+ht-degree: 56%
 
 ---
 
 # Erstellen einer einfachen Gruppierung
 
-In diesem Video wird erläutert, wie Sie in Workfront Gruppierungen erstellen und verwalten können, um Projektlisten effektiv zu organisieren. Gruppierungen sind neben Filtern und Ansichten eines der drei Hauptberichtselemente und helfen, Ergebnisse auf der Grundlage von freigegebenen Informationen zu organisieren. 
-In diesem Tutorial werden praktische Schritte zum Organisieren von Projektlisten beschrieben, die die tägliche Arbeit und Zusammenarbeit optimieren. 
+In diesem Video wird erläutert, wie Sie in Workfront Gruppierungen erstellen und verwalten können, um Projektlisten effektiv zu organisieren. &#x200B; Gruppierungen sind neben Filtern und Ansichten eines der drei Hauptberichtselemente und helfen, Ergebnisse auf der Grundlage von gemeinsamen Informationen zu organisieren. &#x200B;
+In diesem Tutorial werden praktische Schritte zum Organisieren von Projektlisten beschrieben, um die tägliche Arbeit und Zusammenarbeit zu optimieren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3449824/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Zweck von Gruppierungen:** Gruppierungen sind ein wichtiges Berichtselement in Workfront, mit dem Projektlisten auf der Grundlage freigegebener Informationen wie Abschlussdaten, Portfolios oder Programmen organisiert werden. 
-* **Erstellen von Gruppierungen:** Sie können benutzerdefinierte Gruppierungen mit bis zu drei Kriterienebenen erstellen. Beispielsweise können Projekte zur besseren Organisation zunächst nach Portfolio und dann nach Programm gruppiert werden. 
-* **Bearbeiten und Speichern von Gruppierungen:** Integrierte Gruppierungen können nicht überschrieben werden, Sie können Änderungen jedoch als neue Gruppierung speichern. Benutzerdefinierte Gruppierungen sollten klare, beschreibende Namen haben, damit sie leicht identifiziert werden können. 
-* **Freigeben von Gruppierungen:** Gruppierungen können für andere Benutzende freigegeben werden, wobei diese durch die standardmäßigen Anzeigeberechtigungen die Gruppierung verwenden und freigeben, aber nicht bearbeiten dürfen. Berechtigungen vom Typ „Verwalten“ ermöglichen Bearbeitungs- und Löschvorgänge. 
-* **Entfernen von Gruppierungen:** Wenn Sie eine von Ihnen erstellte Gruppierung löschen, wird sie auch aus den Listen der Benutzenden entfernt, für die Sie die Gruppierung freigegeben haben. Freigegebene Gruppierungen werden für andere Benutzende im Abschnitt „Für mich freigegeben“ angezeigt. 
+* **Zweck der Gruppierungen:** Gruppierungen sind ein wichtiges Berichterstellungselement in Workfront, mit dem Projektlisten auf der Grundlage gemeinsam genutzter Informationen wie Abschlussdaten, Portfolios oder Programmen organisiert werden. &#x200B;
+* **Gruppierungen erstellen** Sie können benutzerdefinierte Gruppierungen mit bis zu drei Kriterienebenen erstellen. &#x200B; können Projekte zur besseren Organisation zunächst nach Portfolio und dann nach Programm gruppiert werden. &#x200B;
+* **Bearbeiten und Speichern von Gruppierungen** Integrierte Gruppierungen können nicht überschrieben werden, Sie können Änderungen jedoch als neue Gruppierung speichern. &#x200B; benutzerdefinierte Gruppierungen sollten klare, beschreibende Namen haben, damit sie leicht identifiziert werden können. &#x200B;
+* **Freigeben von Gruppierungen:** Gruppierungen können für andere Benutzende freigegeben werden, wobei diese durch die standardmäßigen Anzeigeberechtigungen die Gruppierung verwenden und freigeben, aber nicht bearbeiten dürfen. &quot;&#x200B;Verwalten“-Berechtigungen ermöglichen das Bearbeiten und Löschen. &#x200B;
+* **Gruppierungen entfernen:** Sie eine von Ihnen erstellte Gruppierung löschen, wird sie auch aus den Listen der Benutzer entfernt, für die Sie sie freigegeben haben. &#x200B; freigegebene Gruppierungen werden für andere Benutzer unter dem Abschnitt „Für mich freigegeben“ angezeigt. &#x200B;
 
 ## Aktivitäten zum Erstellen einer einfachen Gruppierung
 

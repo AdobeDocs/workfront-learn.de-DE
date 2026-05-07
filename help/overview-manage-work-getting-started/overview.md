@@ -7,15 +7,21 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: '2024-08-23T00:00:00.000Z'
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:34:02.499Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: 954
 ht-degree: 6%
 
 ---
@@ -26,7 +32,7 @@ Beginnen Sie Ihre Tour durch Workfront, indem Sie lernen, Projekte zu erstellen 
 
 In diesem Tutorial erfahren Sie, wie Sie ein Projekt erstellen, ein Projekt planen, ein Projekt verwalten und ein Projekt schließen.
 
-Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=de)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
+Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
 
 >[!PREREQUISITES]
 >
@@ -37,7 +43,7 @@ Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - &#x200B;](http
 
 Erfahren Sie, was ein Projekt in Adobe Workfront ist, wie Sie es einrichten und ausführen und wie Sie ein Projekt am häufigsten erstellen.
 
-* [Grundlegendes zur einfachen &#x200B;](understand-basic-project-creation.md): Erfahren Sie mehr über die vier Schritte zum Einrichten und Ausführen eines Projekts, die Definition eines Projekts in Adobe Workfront und die häufigsten Methoden zum Erstellen eines Projekts.
+* [Grundlegendes zur einfachen ](understand-basic-project-creation.md): Erfahren Sie mehr über die vier Schritte zum Einrichten und Ausführen eines Projekts, die Definition eines Projekts in Adobe Workfront und die häufigsten Methoden zum Erstellen eines Projekts.
 * [Problem/Anfrage in ein Projekt konvertieren](create-a-project-from-a-request.md) - Erfahren Sie, wie Sie die Konvertierung von einer Anfrage in ein Projekt initiieren und die entsprechende Projektvorlage auswählen.
 * [Vier Möglichkeiten zum Erstellen eines Projekts](understand-other-ways-to-create-projects.md) - Erfahren Sie, wie Sie ein Projekt aus einer Vorlage erstellen, ein Projekt von Grund auf neu erstellen, ein vorhandenes Projekt kopieren oder eine [!DNL Microsoft Project]-Datei importieren.
 * [Ausfüllen der Projektdetails](fill-in-the-project-details.md) - Erfahren Sie mehr über die Projektdetailfelder, die Adobe Workfront Ihnen empfiehlt, beim Erstellen eines Projekts auszufüllen.

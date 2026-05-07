@@ -10,22 +10,27 @@ role: User
 level: Intermediate
 jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-last-substantial-update: 2025-08-11T00:00:00Z
+last-substantial-update: '2025-08-11T00:00:00.000Z'
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '320'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T02:11:54.379Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 318
+ht-degree: 65%
 
 ---
 
 # Erstellen von OR-Anweisungen in Filtern
 
-In diesem Video wird erläutert, wie sich in Workfront Filter mit verschiedenen Regeln erstellen und verwenden lassen. Standardmäßig nutzt Workfront zwischen Filterregeln „UND“, was bedeutet, dass alle Bedingungen erfüllt sein müssen, damit ein Element in der Liste angezeigt wird.
+In diesem Video wird erläutert, wie Filter mit mehreren Regeln in Workfront erstellt und verwendet werden. &#x200B; Workfront verwendet standardmäßig „AND“ zwischen Filterregeln, was bedeutet, dass alle Bedingungen erfüllt sein müssen, damit ein Element in der Liste angezeigt wird.
 Alternativ können Sie die Filterlogik in „ODER“ ändern, sodass Elemente angezeigt werden, die mindestens eine der Bedingungen erfüllen.
-Im Video wird auch das Erstellen von Filtern für Aufgaben mithilfe von Filtergruppen vorgestellt. Sie können beispielsweise zwei Gruppen erstellen: eine für unvollständige Aufgaben, die dem Kreativ-Team zugewiesen und verspätet sind, und eine weitere für unvollständige Aufgaben, die dem Kreativ-Team zugewiesen sind, aber noch nicht zugeordnet wurden. Innerhalb jeder Gruppe gilt die Logik „UND“, d. h., alle Bedingungen in der Gruppe müssen erfüllt sein. Die „ODER“-Logik zwischen Gruppen stellt sicher, dass Aufgaben, die die Bedingungen mindestens einer der beiden Gruppen erfüllen, angezeigt werden.
+Das Video zeigt auch das Erstellen von Filtern für Aufgaben mithilfe von Filtergruppen. &#x200B; können Sie beispielsweise zwei Gruppen erstellen: eine für nicht abgeschlossene Aufgaben, die dem Kreativ-Team zugewiesen wurden und zu spät kommen, und eine weitere für nicht abgeschlossene Aufgaben, die dem Kreativ-Team zugewiesen wurden und nicht zugewiesen wurden. &#x200B; Innerhalb jeder Gruppe gilt die Logik „AND“, d. h., alle Bedingungen in der Gruppe müssen erfüllt sein. &#x200B; Die „OR“-Logik zwischen Gruppen stellt sicher, dass Aufgaben, die die Bedingungen einer der Gruppen erfüllen, angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470702/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## ODER-Filteraktivität
 

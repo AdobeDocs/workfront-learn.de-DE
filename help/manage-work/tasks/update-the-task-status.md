@@ -5,14 +5,20 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2025-08-26T00:00:00Z
+last-substantial-update: '2025-08-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-18799
 exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:34:43.851Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 92%
+source-wordcount: 159
+ht-degree: 66%
 
 ---
 
@@ -20,12 +26,12 @@ ht-degree: 92%
 
 Das Video bietet eine Anleitung dazu, wie, warum und wie oft der Aufgabenstatus aktualisiert werden sollte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471176/?captions=ger&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Wie solltesn Sie den Aufgabenstatus aktualisieren?** Es gibt verschiedene Stellen, an denen Sie den Aufgabenstatus aktualisieren können. Die am häufigsten genutzte ist in der Aufgabenliste auf der Projektseite.
-* **Warum sollten Sie den Aufgabenstatus aktualisieren?** Pünktliche und akkurate Projekt- und Aufgabenberichte hängen vollständig von den Statusaktualisierungen der einzelnen Mitwirkenden ab. Ohne konsistente Aktualisierungen leidet die Sichtbarkeit, bleiben Entscheidungen hängen und besteht die Gefahr, dass es keinen Fortschritt mehr gibt.
+* **Wie sollte der Aufgabenstatus aktualisiert werden?** Es gibt mehrere Stellen, an denen Sie den Aufgabenstatus aktualisieren können. Die am häufigsten genutzte ist in der Aufgabenliste auf der Projektseite.
+* **Warum ist es wichtig, den Aufgabenstatus zu aktualisieren?** Die rechtzeitige und genaue Berichterstellung über Projekte und Aufgaben hängt vollständig von den Statusaktualisierungen der einzelnen Mitwirkenden ab. Ohne konsistente Aktualisierungen leidet die Sichtbarkeit, bleiben Entscheidungen hängen und besteht die Gefahr, dass es keinen Fortschritt mehr gibt.
 * **Wie oft sollten Sie den Aufgabenstatus aktualisieren?:** Aktualisieren Sie am Ende eines jeden Arbeitstags den Status aller Aufgaben, an denen Sie gerade arbeiten. Dadurch bleiben Projekt- und Aufgabenberichte bis auf einen Tag auf dem aktuellen Stand.
 
 

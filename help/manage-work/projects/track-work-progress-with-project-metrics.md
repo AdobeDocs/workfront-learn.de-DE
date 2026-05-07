@@ -1,5 +1,5 @@
 ---
-title: Tracking des Arbeitsfortschritts mit Projektmetriken
+title: Verfolgen des Arbeitsfortschritts mit Projektmetriken
 description: Verfolgen Sie die Projektleistung in Workfront nach, indem Sie für eine effiziente Fortschrittsüberwachung auf der Registerkarte „Metriken“ auf KPIs, Aufgaben- und Problemdiagramme, Metriken nach zugewiesener Person und Exportoptionen zugreifen.
 activity: use
 feature: Work Management
@@ -9,31 +9,37 @@ role: User
 level: Beginner
 team: Technical Marketing
 recommendations: noDisplay,catalog
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: '2024-05-03T00:00:00.000Z'
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '338'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:44:54.048Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 323
+ht-degree: 21%
 
 ---
 
 # Tracking des Arbeitsfortschritts mit Projektmetriken
 
-In diesem Video wird beschrieben, wie Sie den Projektfortschritt mithilfe von Projektmetriken nachverfolgen. Es zeigt den Zugriff auf die Registerkarte „Metriken“ im linken Panel eines Projekts. Hierzu ist möglicherweise ein Scrollen und das Klicken auf „Mehr anzeigen“ erforderlich. Oben im KPI-Bereich werden wichtige Key Performance Indicators wie abgeschlossene, unvollständige und überfällige Aufgaben angezeigt. Benutzende können auf Indikatoren klicken, um bestimmte Aufgaben anzuzeigen, und Diagramme verwenden, um Aufgaben oder Probleme nach Status oder Priorität zu gruppieren. Wenn sie den Mauszeiger über die Spalten bewegen, werden Mengen angezeigt, und das Diagramm zeigt das Verhältnis von abgeschlossenen zu unvollständigen Aufgaben oder Problemen. Metriken können außerdem Aufgaben nach zugewiesener Person basierend auf ihrem Status (abgeschlossen, unvollständig, bevorstehend oder überfällig) anzeigen. Die Einstellungen zum Anzeigen von Metriken werden für zukünftige Besuche gespeichert. Abschließend wird im Video gezeigt, wie die Seite „Metriken“ mithilfe der Schaltfläche „Exportieren“ als PNG-Datei exportiert wird. 
+In diesem Video wird erläutert, wie Sie den Projektfortschritt mithilfe von Projektmetriken verfolgen. &#x200B; wird der Zugriff auf die Registerkarte „Metriken“ im linken Bereich eines Projekts veranschaulicht, wofür möglicherweise ein Bildlauf erforderlich ist und auf „Weitere anzeigen“ geklickt werden muss. Im KPI-Bereich oben werden wichtige Leistungsindikatoren wie abgeschlossene, unvollständige und überfällige Aufgaben angezeigt. &#x200B; Benutzer können auf Indikatoren klicken, um bestimmte Aufgaben anzuzeigen und Diagramme zu verwenden, um Aufgaben oder Probleme nach Status oder Priorität zu gruppieren. &#x200B; Sie den Mauszeiger über die Spalten bewegen, werden Mengen angezeigt, und das Diagramm zeigt das Verhältnis von abgeschlossenen zu unvollständigen Aufgaben oder Problemen. &#x200B; Metriken können auch Aufgaben nach Verantwortlichem basierend auf ihrem Status (abgeschlossen, unvollständig, bevorsteht oder überfällig) anzeigen. &#x200B; Einstellungen zum Anzeigen von Metriken werden für zukünftige Besuche gespeichert. &#x200B; zeigt das Video schließlich, wie Sie die Seite mit den Metriken mithilfe der Schaltfläche Exportieren als PNG-Datei exportieren. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439179/?quality=12&learn=on&enablevpops=1&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Zugreifen auf Projektmetriken:** Navigieren Sie im linken Panel Ihres Projekts zur Registerkarte „Metriken“, um den Fortschritt nachzuverfolgen. Möglicherweise müssen Sie nach unten scrollen und auf „Mehr anzeigen“ klicken, um sie zu finden. 
-* **Key Performance Indicators (KPIs):** Im KPI-Bereich werden abgeschlossene, unvollständige und überfällige Aufgaben angezeigt. Durch Klicken auf die Indikatoren können Sie bestimmte Aufgaben anzeigen. 
-* **Aufgaben- und Problemdiagramme:** Die Diagramme gruppieren Aufgaben oder Probleme nach Status oder Priorität und zeigen das Verhältnis von abgeschlossen zu unvollständig an. Wenn Sie den Mauszeiger über Spalten bewegen, werden die entsprechenden Mengen angezeigt. 
-* **Metriken nach zugewiesener Person:** Sie können Aufgaben nach zugewiesener Person auf der Grundlage ihres Status (abgeschlossen, unvollständig, bevorstehend oder überfällig) anzeigen. Die Einstellungen werden für zukünftige Besuche gespeichert. 
-* **Exportieren von Metriken:** Sie können die Seite „Metriken“ als PNG-Datei exportieren, indem Sie in der rechten oberen Ecke des Bildschirms auf die Schaltfläche „Exportieren“ klicken. 
+* **Zugriff auf Projektmetriken:** Navigieren Sie im linken Bereich Ihres Projekts zur Registerkarte „Metriken“, um den Fortschritt zu verfolgen. &#x200B; Sie müssen möglicherweise nach unten scrollen und auf „Weitere anzeigen“ klicken, um sie zu finden. &#x200B;
+* **Key Performance Indicators (KPIs):** KPI-Bereich zeigt abgeschlossene, unvollständige und überfällige Aufgaben an. &#x200B; Klicken auf die Indikatoren können Sie bestimmte Aufgaben anzeigen. &#x200B;
+* **Aufgaben- und Problemdiagramme:** Diagramme gruppieren Aufgaben oder Probleme nach Status oder Priorität und zeigen das Verhältnis von abgeschlossen zu unvollständig an. &#x200B; Sie den Mauszeiger über Spalten bewegen, werden Mengen angezeigt. &#x200B;
+* **Metriken nach Verantwortlichem:** Aufgaben nach Verantwortlichem auf der Grundlage ihres Status (abgeschlossen, unvollständig, bevorsteht oder überfällig). &#x200B; Einstellungen werden für zukünftige Besuche gespeichert. &#x200B;
+* **Metriken exportieren:** Exportieren Sie die Seite mit den Metriken als PNG-Datei, indem Sie auf die Schaltfläche Exportieren in der rechten oberen Ecke des Bildschirms klicken. &#x200B;
 
 
 
