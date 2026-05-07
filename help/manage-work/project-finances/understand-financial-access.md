@@ -39,7 +39,7 @@ ht-degree: 78%
 In diesem Video wird die Rolle eines Systemadministrators bei der Verwaltung des Zugriffs auf Finanzinformationen in Workfront erläutert. &#x200B; Der Administrator steuert den Zugriff über Zugriffsebenen..&#x200B;
 Das Video betont, dass Benutzende ihren Finanzzugriff nur für Projekte verwenden können, die sie selbst erstellt haben, oder die für sie von einer Person mit Finanzzugriff freigegeben wurden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484937/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
