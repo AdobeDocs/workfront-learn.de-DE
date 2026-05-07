@@ -40,4 +40,4 @@ In diesem Video-Tutorial erfahren Sie mehr über Einstellungen für:
 * persönliche Ausfallzeit
 * Aufgabengebiete
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432158/?captions=ger&quality=12&learn=on&enablevpops=1)

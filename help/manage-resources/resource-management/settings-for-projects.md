@@ -34,4 +34,4 @@ In diesem Video-Tutorial lernen Sie Folgendes:
 
 * Optimierung der Ressourcen-Management-Tools – Dauer und geplante Daten, geplante Stunden und Zuweisungen für Aufgabengebiete
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431654/?captions=ger&quality=12&learn=on&enablevpops=1)

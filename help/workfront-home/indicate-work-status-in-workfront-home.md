@@ -34,7 +34,7 @@ In diesem Video lernen Sie Folgendes:
 * Der Zweck des Status in [!DNL  Workfront]
 * Ändern des Status von Arbeitszuweisungen
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443439/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Starten vs. Daran arbeiten
 

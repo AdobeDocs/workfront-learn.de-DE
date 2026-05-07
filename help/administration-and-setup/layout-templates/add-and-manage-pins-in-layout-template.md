@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Erfahren Sie, was ein Pin ist und wie Sie mithilfe von Layout-Vorlagen wichtige oder relevante Seiten für eine Gruppe von Benutzenden anheften können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422807/?captions=ger&quality=12&learn=on&enablevpops=1)

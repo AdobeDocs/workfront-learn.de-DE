@@ -33,4 +33,4 @@ ht-degree: 80%
 
 Erfahren Sie, welche Anforderungen erfüllt sein müssen, um das Workfront-Planungs-Tool hinzuzufügen und es für Benutzende in Ihrer Instanz sichtbar zu machen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447975/?captions=ger&learn=on&enablevpops=1)

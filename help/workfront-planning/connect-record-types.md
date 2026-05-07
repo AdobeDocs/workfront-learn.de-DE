@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Eintragstypen in Workfront Planning verbinden, um Workflows zu optimieren, die Klarheit zu erhöhen und die Verantwortlichkeit und Effizienz des Teams zu verbessern. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3463807/?captions=ger&learn=on&enablevpops=1)

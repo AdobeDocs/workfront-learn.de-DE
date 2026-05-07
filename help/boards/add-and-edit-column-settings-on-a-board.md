@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie für eine Pinnwand Spalteneinstellungen hinzufügen und bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422930/?captions=ger&quality=12&learn=on&enablevpops=1)

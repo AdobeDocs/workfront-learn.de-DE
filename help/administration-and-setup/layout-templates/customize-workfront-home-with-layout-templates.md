@@ -33,7 +33,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie den Bereich der [!UICONTROL Startseite] der Benutzenden anpassen, damit sie schnell und einfach auf Arbeit zugreifen und sie verfolgen, genehmigen und aktualisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432788/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 <br>
 </br>
@@ -48,4 +48,4 @@ In diesem Video lernen Sie Folgendes:
 * Entfernen von Elementen aus der [!UICONTROL Startseite]
 * Hinzufügen von Elementen zur [!UICONTROL Startseite]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432315/?captions=ger&quality=12&learn=on&enablevpops=1)

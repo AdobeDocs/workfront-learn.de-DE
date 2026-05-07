@@ -34,7 +34,7 @@ In diesem Video lernen Sie Folgendes:
 * Den Wert der Protokollierungszeit
 * Protokollieren der Arbeitszeit bei Arbeitsaufträgen
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438607/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Tipps für die Protokollierung der Arbeitszeiten in [!DNL Home]
 

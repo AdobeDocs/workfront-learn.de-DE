@@ -40,4 +40,4 @@ In diesem Video lernen Sie Folgendes:
 * Suchen von eingehenden und bestehenden Arbeitsaufträgen
 * Überprüfen von Zuweisungsinformationen
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432290/?captions=ger&quality=12&learn=on&enablevpops=1)

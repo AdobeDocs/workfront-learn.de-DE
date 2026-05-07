@@ -33,4 +33,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie ein benutzerdefiniertes Formular an Objekte in Workfront anhängen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431634/?captions=ger&quality=12&learn=on&enablevpops=1)

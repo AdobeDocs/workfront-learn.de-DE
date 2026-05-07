@@ -38,4 +38,4 @@ In diesem Video lernen Sie Folgendes:
 * Wie Sie Aufgabengebiete erstellen.
 * Wie Sie Aufgabengebiete auf Benutzende anwenden, damit sie der richtigen Arbeit zugewiesen werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452435/?captions=ger&quality=12&learn=on&enablevpops=1)

@@ -34,4 +34,4 @@ ht-degree: 77%
 
 Erfahren Sie, wie Sie in der Adobe Workfront-Planung benutzerdefinierte Eintragstypen erstellen, importieren und verwalten, um arbeitsbezogene Elemente effizient zu organisieren und zu verfolgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448093/?captions=ger&learn=on&enablevpops=1)

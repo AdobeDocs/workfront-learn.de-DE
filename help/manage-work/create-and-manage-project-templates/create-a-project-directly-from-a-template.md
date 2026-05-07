@@ -35,7 +35,7 @@ ht-degree: 36%
 
 In diesem Video wird erläutert, wie Sie ein Projekt aus einer Vorlage erstellen. &#x200B; Wenn Sie berechtigt sind, eine Vorlage zu öffnen, können Sie sie als Verknüpfung zum Erstellen eines Projekts verwenden. &#x200B; öffnen Sie dazu die Vorlage, rufen Sie das Dreipunkt-Menü auf und wählen Sie „Projekt erstellen“. &#x200B; Dadurch gelangen Sie zu einem Bildschirm, auf dem Sie die Projektdetails bearbeiten können. &#x200B; Sie fertig sind, klicken Sie auf „Projekt erstellen“. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456022/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

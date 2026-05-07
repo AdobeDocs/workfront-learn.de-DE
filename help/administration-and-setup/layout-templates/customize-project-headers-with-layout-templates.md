@@ -32,5 +32,5 @@ ht-degree: 8%
 
 Erfahren Sie, wie Sie Projekt-Kopfzeilen so anpassen, dass nur die relevantesten Informationen mithilfe von Layout-Vorlagen angezeigt werden. Lernen Sie, unnötige Felder zu entfernen, benutzerdefinierte Felder hinzuzufügen und sie effektiv zu organisieren, um sicherzustellen, dass Teams schnell auf wichtige Projektdetails zugreifen können, und verbessern Sie die Klarheit und Effizienz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483472/?captions=ger&learn=on&enablevpops)
 
