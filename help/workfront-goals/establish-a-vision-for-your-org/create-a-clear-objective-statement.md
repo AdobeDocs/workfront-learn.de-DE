@@ -10,10 +10,21 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '396'
-ht-degree: 100%
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:16:56.152Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 399
+ht-degree: 75%
 
 ---
 
@@ -38,14 +49,14 @@ Diese Erklärung ist eine nicht-technische Leistung, d. h. sie wird als Best Pr
 
 Diese Aussage besteht aus vier Teilen. Wenn Sie jeden Teil unabhängig voneinander ansprechen, wird die Absicht der Führungskraft klar und direkt.
 
-**Teil 1: Ein klares Ergebnis zur Erreichung unseres Ziels sieht so aus: …**
-Die Vervollständigung dieses Satzes bietet Ihren Mitarbeitern und Teams ein Höchstmaß an Orientierung. Diese Erklärung wird stärker fokussiert sein als Ihre Missions- und Visionserklärungen, hat aber wahrscheinlich einige gemeinsame Ansätze. Beschreiben Sie, wie Erfolg für Ihr Team aussieht.
+**Teil 1: Ein klares Ergebnis der Erreichung unseres Ziels sieht so aus…**
+Durch das Ausfüllen dieser Phrase erhalten Ihre Mitarbeiter und Teams die bestmögliche Anleitung. Diese Erklärung wird stärker fokussiert sein als Ihre Missions- und Visionserklärungen, hat aber wahrscheinlich einige gemeinsame Ansätze. Beschreiben Sie, wie Erfolg für Ihr Team aussieht.
 
-**Teil 2: Das Wichtigste, was dieses Team tun kann, ist: …**
-Die Vervollständigung dieses Satzes ist die Grundlage der Prioritätenfestlegung. Er legt die klare Erwartung fest, dass es am Ende nur einen einzigen wirklich wichtigen Aspekt gibt. Diese Leistung ist höchstwahrscheinlich der Höhepunkt bei der Umsetzung vieler Ziele (z. B. Einführung eines neuen Produkts, Rebranding Ihres Unternehmens, Eintritt in einen neuen Markt usw.).
+**Teil 2: Das Wichtigste, was dieses Team tun kann, ist…**
+Die Vervollständigung dieser Formulierung ist die Grundlage für die Priorisierung. Er legt die klare Erwartung fest, dass es am Ende nur einen einzigen wirklich wichtigen Aspekt gibt. Diese Leistung ist höchstwahrscheinlich der Höhepunkt bei der Umsetzung vieler Ziele (z. B. Einführung eines neuen Produkts, Rebranding Ihres Unternehmens, Eintritt in einen neuen Markt usw.).
 
-**Teil 3: Das Team wird sein Ziel erreichen, indem es …**
-Indem Sie diesen Satz vervollständigen, legen Sie Ihre strategischen Säulen definitiv fest. Dies sind wahrscheinlich die wichtigsten Ziele auf höchster Ebene, die erreicht werden müssen, um das Endergebnis zu fördern.
+**Teil 3: Das Team wird sein Ziel erreichen durch…**
+Wenn Sie diesen Satz abschließen, beginnen Sie wirklich, Ihre strategischen Säulen zu setzen. Dies sind wahrscheinlich die wichtigsten Ziele auf höchster Ebene, die erreicht werden müssen, um das Endergebnis zu fördern.
 
-**Teil 4: Unsere betrieblichen Beschränkungen umfassen …**
-Mit dieser Erklärung zeigen Sie die Schlüsselindikatoren für den Erfolg auf, wie Sie Ihren Fortschritt messen werden und welche Ergebnisse erreicht werden müssen, um als erfolgreich zu gelten. Definieren Sie, welche Herausforderungen und Risiken Ihr Team berücksichtigen sollte. Die Identifizierung dieser Einschränkungen hilft Ihnen bei der Entscheidung, ob das Ziel erreichbar oder nicht erreichbar ist.
+**Teil 4: Unsere operativen Einschränkungen umfassen…**
+Das Ausfüllen dieser Erklärung zeigt die Schlüsselindikatoren für Erfolg, wie Sie Ihren Fortschritt messen und welche Ergebnisse erzielt werden müssen, um eine erfolgreiche Leistung zu erzielen. Definieren Sie, welche Herausforderungen und Risiken Ihr Team berücksichtigen sollte. Die Identifizierung dieser Einschränkungen hilft Ihnen bei der Entscheidung, ob das Ziel erreichbar oder nicht erreichbar ist.

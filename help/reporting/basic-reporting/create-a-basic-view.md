@@ -8,30 +8,41 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2025-06-06T00:00:00Z
+last-substantial-update: '2025-06-06T00:00:00.000Z'
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '976'
-ht-degree: 100%
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:21.695Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 984
+ht-degree: 86%
 
 ---
 
 # Erstellen einer einfachen Ansicht
 
-In diesem Video wird erläutert, wie Sie in Workfront Ansichten erstellen und anpassen können, um bestimmte Informationen zu Elementen in einer Liste anzuzeigen, z. B. zu Projekten, Aufgaben, Problemen und Dokumenten. Ansichten ermöglichen es Benutzenden, Details wie Namen, Beschreibung, Status und andere Felder anzuzeigen, die für die Elemente relevant sind.
+In diesem Video wird erläutert, wie Sie in Workfront Ansichten erstellen und anpassen können, um bestimmte Informationen zu Elementen in einer Liste anzuzeigen, z. B. Projekte, Aufgaben, Probleme und Dokumente. &#x200B; können Benutzer Details wie Namen, Beschreibung, Status und andere Felder sehen, die für die Elemente relevant sind. &#x200B;
 
 Das Video hebt die Flexibilität der Ansichten in Workfront hervor und enthält schrittweise Anweisungen zum Erstellen, Anpassen und Verwalten dieser Ansichten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450247/?captions=ger&quality=12&learn=on&enablevpops=0)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
 * **Anpassen von Ansichten**: Benutzende können vorhandene Ansichten bearbeiten oder neue erstellen, indem sie Spalten hinzufügen, entfernen oder neu anordnen, um bestimmte Informationen wie Projektstatus oder Budget anzuzeigen.
-* **Inline-Bearbeitung**: Einige Felder in einer Listenansicht können direkt aktualisiert werden, ohne einzelne Elemente zu öffnen, wodurch Änderungen schneller vorgenommen werden können.
-* **Neuerstellen von Ansichten**: Benutzende können Ansichten für bestimmte Anforderungen entwerfen, z. B. zum Nachverfolgen des Projektzustands, indem sie relevante Spalten wie Budget, tatsächliche Kosten und Fortschrittsstatus hinzufügen.
+* **Inline-Bearbeitung**: Einige Felder in einer Listenansicht können direkt aktualisiert werden, ohne einzelne Elemente zu öffnen, wodurch Änderungen schneller vorgenommen werden können. &#x200B;
+* **Ansichten von Grund auf neu erstellen**: Benutzer können Ansichten für bestimmte Anforderungen entwerfen, z. B. zum Nachverfolgen des Projektzustands, indem sie relevante Spalten wie Budget, Istkosten und Fortschrittsstatus hinzufügen. &#x200B;
 * **Freigeben und Verwalten von Ansichten**: Benutzerdefinierte Ansichten können für Team-Mitglieder zur Zusammenarbeit freigegeben oder entfernt werden, wenn sie nicht mehr benötigt werden.
 
 ## Aktivitäten zum Erstellen einer einfachen Ansicht
@@ -66,7 +77,7 @@ Erstellen Sie eine Aufgabenansicht mit dem Namen „Aufgabenstatusansicht“ mit
 1. Geben Sie im Feld [!UICONTROL In dieser Spalte anzeigen] „Status“ ein und wählen Sie dann „Statusbildsymbole“ unter der Feldquelle „Aufgaben“ aus.
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-Bewegen Sie den Mauszeiger über die einzelnen Symbole in der Spalte [!UICONTROL Statusbildsymbole], um zu sehen, was sie bedeuten. Wenn sie ausgegraut sind, bedeutet dies, dass die Aufgabe keine Notizen, Dokumente, Genehmigungsprozesse usw. hat. Wenn ein Symbol farbig angezeigt wird, ist mindestens ein Element mit der Aufgabe verknüpft. Sie können auf die Notiz- oder Dokumentsymbole klicken, um zu diesem Element zu wechseln.
+Bewegen Sie den Mauszeiger über die einzelnen Symbole in der Spalte [!UICONTROL Statusbildsymbole], um zu sehen, was sie bedeuten. Wenn sie ausgegraut sind, bedeutet dies, dass die Aufgabe keine Notizen, Dokumente, Genehmigungsprozesse usw. hat. Wenn ein Symbol farbig angezeigt wird, ist mindestens eines der Elemente mit der Aufgabe verknüpft. Sie können auf die Notiz- oder Dokumentsymbole klicken, um zu diesem Element zu wechseln.
 
 ### Aktivität 2: Erstellen einer Meilensteinansicht
 

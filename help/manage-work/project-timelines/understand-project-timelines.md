@@ -8,15 +8,26 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-11-01T00:00:00Z
+last-substantial-update: '2024-11-01T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:48:54.364Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '705'
-ht-degree: 98%
+source-wordcount: 700
+ht-degree: 76%
 
 ---
 
@@ -36,11 +47,11 @@ Was Sie lernen werden:
 
 ## Die wichtigsten Punkte
 
-* **Aufgaben-Management und Aufgabenzuweisung:** Übergeordnete Aufgaben gruppieren mehrere Unteraufgaben zusammen, die Aufgabengebieten und später Benutzenden mit den erforderlichen Kenntnissen zugewiesen werden. Vorgänger geben sequenzielle Beziehungen an, während Aufgaben ohne Vorgänger parallel ausgeführt werden können. 
-* **Gantt-Diagramm und Funktion „Kritischer Pfad“:** Das Gantt-Diagramm bietet eine visuelle Timeline des Projekts und die Funktion „Kritischer Pfad“ hebt Aufgaben hervor, die das Projekt bei Nichterfüllung verzögern könnten. 
-* **Ansichten und Überwachung:** Verschiedene Ansichten in Workfront, z. B. die Standardansicht für die Planung und die Statusansicht für die Überwachung, enthalten Flags für Fortschritt, Kommentare, Dokumente, Probleme, Genehmigungen, kritische Pfade und Meilensteine. Auch die kürzlich durchgeführten Aktivitäten können nachverfolgt werden. 
-* **Planungsoptionen:** Projekte können ab einem Start- oder Fertigstellungsdatum geplant werden. Workfront berechnet dabei die entsprechenden Daten anhand der Aufgabenlaufzeiten und Vorgänger. Bei kritischen Fertigstellungsdaten wird empfohlen, ausgehend von einem Startdatum zu planen, um einen gewissen Spielraum zu ermöglichen. 
-* **Aufgabenbeschränkungen:** Aufgabenbeschränkungen wie „So bald wie möglich“ und „So spät wie möglich“ wirken sich auf die Aufgabenplanung aus. Eine Änderung des Zeitplanmodus nach der Projekterstellung kann sich auf Aufgabenbeschränkungen und geplante Daten auswirken. Es können benutzerdefinierte Ansichten erstellt werden, um Aufgabenbeschränkungen anzuzeigen. 
+* **Aufgabenverwaltung und -zuweisung** Übergeordnete Aufgaben gruppieren mehrere Unteraufgaben, die Aufgabengebieten und später Benutzern mit den erforderlichen Kenntnissen zugewiesen werden. &#x200B; Vorgänger geben sequenzielle Beziehungen an, während Aufgaben ohne Vorgänger parallel ausgeführt werden können. &#x200B;
+* **Gantt-Diagramm und Kritischer Pfad:** Das Gantt-Diagramm zeigt eine visuelle Zeitleiste des Projekts an, und die Funktion Kritischer Pfad zeigt Aufgaben auf, die das Projekt verzögern könnten, wenn sie verrutschen. &#x200B;
+* **Ansichten und Überwachung:** Verschiedene Ansichten in Workfront, z. B. die Standardansicht für die Planung und die Statusansicht für die Überwachung, enthalten Flags für Fortschritt, Kommentare, Dokumente, Probleme, Genehmigungen, kritische Pfade und Meilensteine. Auch kürzlich durchgeführte Aktivitäten können verfolgt werden. &#x200B;
+* **Planungsoptionen:** Projekte können ab einem Start- oder Abschlussdatum geplant werden. Workfront berechnet die entsprechenden Termine anhand der Aufgabendauer und der Vorgänger. &#x200B; Planung ab einem Startdatum wird für kritische Abschlussdaten empfohlen, um gewisse Lücken zu schließen. &#x200B;
+* **Aufgabenbeschränkungen:** Aufgabenbeschränkungen wie „so bald wie möglich“ und „so spät wie möglich“ wirken sich auf die Aufgabenplanung aus. &#x200B; Das Ändern des Zeitplanmodus nach der Projekterstellung kann sich auf Aufgabenbeschränkungen und geplante Termine auswirken. &#x200B; können benutzerdefinierte Ansichten erstellt werden, um Aufgabenbeschränkungen anzuzeigen. &#x200B;
 
 
 ## Was für und was gegen eine Änderung der Datumsangaben in Projektzeit-Timelines spricht

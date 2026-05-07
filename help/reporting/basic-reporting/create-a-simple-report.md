@@ -8,33 +8,44 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8858
-last-substantial-update: 2025-05-09T00:00:00Z
+last-substantial-update: '2025-05-09T00:00:00.000Z'
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '467'
-ht-degree: 100%
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:04.500Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 458
+ht-degree: 51%
 
 ---
 
 # Erstellen eines einfachen Berichts
 
-In diesem Video wird erläutert, wie Sie Projektberichte erstellen und anpassen, um Daten effektiv zu analysieren. Zunächst wird die Bedeutung von Berichten bei der Verfolgung des Projektfortschritts, des Aufgabenabschlusses, der Budgeteinhaltung und der Identifizierung von Problemen hervorgehoben. Das Video zeigt, wie Sie mit einem Projektlistenbericht beginnen, Filter, Ansichten und Gruppierungen anpassen und aus praktischen Gründen einen benutzerdefinierten Bericht erstellen. 
+In diesem Video wird erläutert, wie Sie Projektberichte erstellen und anpassen können, um Daten effektiv zu analysieren. &#x200B; wird zunächst die Bedeutung von Berichten bei der Verfolgung von Projektfortschritt, Aufgabenabschluss, Budgeteinhaltung und der Identifizierung von Problemen hervorgehoben. Das Video zeigt, wie Sie mit einem Projektlistenbericht beginnen, Filter, Ansichten und Gruppierungen anpassen und aus praktischen Gründen einen benutzerdefinierten Bericht erstellen. &#x200B; &#x200B;
 
-Im Video wird hervorgehoben, dass benutzerdefinierte Berichte zwar ihre Standardeinstellungen beibehalten, bei der Anzeige jedoch temporäre Änderungen vorgenommen werden können. Berichte werden im Abschnitt „Meine Berichte“ gespeichert, während freigegebene Berichte in „Für mich freigegeben“ angezeigt werden. Häufig verwendete Berichte können angeheftet oder als Favoriten markiert werden, um einen schnellen Zugriff zu ermöglichen. 
+Im Video wird hervorgehoben, dass benutzerdefinierte Berichte ihre Standardeinstellungen beibehalten, aber bei der Anzeige temporäre Änderungen vorgenommen werden können. &#x200B; Berichte werden im Abschnitt „Meine Berichte“ gespeichert, während freigegebene Berichte in „Für mich freigegeben“ angezeigt werden. &#x200B; häufig verwendeten Berichte können angeheftet oder als Favoriten markiert werden, um einen einfachen Zugriff zu ermöglichen. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
 
 * **Zweck von Berichten:** Berichte helfen dabei, den Projektfortschritt, den Aufgabenabschluss und die Budgeteinhaltung zu verfolgen und Probleme zu identifizieren, wodurch sie für ein effektives Projekt-Management unerlässlich sind.
-* **Erstellung benutzerdefinierter Berichte:** Benutzerdefinierte Berichte ermöglichen es Ihnen, bestimmte Filter, Ansichten und Gruppierungen zu speichern, um einen einfachen Zugriff zu ermöglichen, sodass Sie die Einstellungen nicht wiederholt anpassen müssen. 
-* **Schritte zum Erstellen eines Berichts:** Wählen Sie den entsprechenden Objekttyp aus, benennen Sie den Bericht, wenden Sie Filter, Ansichten und Gruppierungen an, passen Sie Spalten an und speichern Sie den Bericht. 
-* **Temporäre vs. Standardeinstellungen:** Während Betrachtende vorübergehend Filter, Ansichten und Gruppierungen ändern können, wird der Bericht beim erneuten Öffnen immer auf die Standardeinstellungen zurückgesetzt. 
-* **Organisieren von Berichten:** Benutzerdefinierte Berichte werden in „Meine Berichte“ gespeichert, freigegebene Berichte in „Für mich freigegeben“ und häufig verwendete Berichte können für den Schnellzugriff angeheftet oder als Favoriten markiert werden. 
+* **Erstellung benutzerdefinierter Berichte:** Benutzerdefinierte Berichte ermöglichen es Ihnen, bestimmte Filter, Ansichten und Gruppierungen zu speichern, um einen einfachen Zugriff zu ermöglichen, sodass Sie die Einstellungen nicht wiederholt anpassen müssen. &#x200B;
+* **Schritte zum Erstellen eines Berichts** Wählen Sie den entsprechenden Objekttyp aus, benennen Sie den Bericht, wenden Sie Filter, Ansichten und Gruppierungen an, passen Sie Spalten an und speichern Sie den Bericht. &#x200B;
+* **Temporäre vs. &#x200B; Standardeinstellungen:** Während Viewer vorübergehend Filter, Ansichten und Gruppierungen ändern können, wird der Bericht beim erneuten Öffnen immer auf die Standardeinstellungen zurückgesetzt. &#x200B;
+* **Organisieren von Berichten:** Benutzerdefinierte Berichte werden in „Meine Berichte“ gespeichert, freigegebene Berichte in „Für mich freigegeben“ und häufig verwendete Berichte können angeheftet oder als Favoriten für den Schnellzugriff markiert werden. &#x200B;
 
 
 
@@ -66,9 +77,9 @@ Sie möchten alle Ihre aktiven Aufgaben in einem einzigen Bericht verfolgen. Ers
    ![Ein Screenshot des Bildschirms zum Erstellen von Filtern in einem Aufgabenbericht](assets/simple-task-report-filters.png)
 
 1. Öffnen Sie **[!UICONTROL Berichteinstellungen]** und nennen Sie den Bericht „Meine aktuellen Aufgaben“.
-1. Geben Sie in das Feld „Beschreibung“ Folgendes ein: „Unerledigte
-Aufgaben in aktuellen Projekte, bei denen ich für die 
-Aufgaben verantwortlich bin, gruppiert nach Projekt“.
+1. Geben Sie im Feld Beschreibung „Unvollständig“ ein
+Aufgaben in aktuellen Projekten, in denen ich die Aufgabe bin
+Besitzer, gruppiert nach Projekt.“
 
    ![Ein Screenshot des Bildschirms mit den Berichtseinstellungen in einem Aufgabenbericht](assets/simple-task-report-report-settings.png)
 

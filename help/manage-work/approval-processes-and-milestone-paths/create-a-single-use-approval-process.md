@@ -9,30 +9,42 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-last-substantial-update: 2025-03-26T00:00:00Z
+last-substantial-update: '2025-03-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T15:05:30.420Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 96%
+source-wordcount: 297
+ht-degree: 67%
 
 ---
 
 # Genehmigungsprozesse erstellen und verwalten
 
 In diesem Video wird beschrieben, wie Sie Genehmigungsprozesse für Projekte, Aufgaben oder Probleme erstellen und verwalten und dabei zwischen globalen Genehmigungsprozessen und Genehmigungsprozessen für einmaligen Gebrauch unterscheiden können.
-Im Video wird das Erstellen von Genehmigungsprozessen, das Festlegen der genehmigenden Personen, das Konfigurieren von Status und die Verwendung von Phasen für mehrstufige Genehmigungen gezeigt.
-Der Schwerpunkt liegt auf der Flexibilität sowohl von globalen als auch von einmaligen Prozessen für das effektive Management von Aufgabengenehmigungen.
+Das Video zeigt das Erstellen von Genehmigungsprozessen, das Festlegen von Genehmigern, das Konfigurieren von Status und die Verwendung von Phasen für Genehmigungen mit mehreren Ebenen.
+&#x200B;Es unterstreicht die Flexibilität globaler und einmaliger Prozesse für die effektive Verwaltung von Aufgabengenehmigungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434696/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
 * **Arten von Genehmigungsprozessen:** Es gibt zwei Arten: globale Genehmigungsprozesse (freigegeben für Aufgaben, Projekte oder Probleme) und Genehmigungsprozesse für einmaligen Gebrauch (spezifisch für eine einzelne Aufgabe, ein einzelnes Projekt oder ein einzelnes Problem).
-* **Globale Genehmigungsprozesse:** Diese werden im Abschnitt „Setup“ > „Prozesse“ > „Genehmigungen“ erstellt und können durch bestimmte Status ausgelöst werden. Sie können mehrere genehmigende Personen oder gestaffelte Genehmigungen enthalten.
-* **Genehmigungsprozess für einmaligen Gebrauch:** Diese sind objektspezifisch und können nicht freigegeben werden. Sie können von Grund auf neu oder durch Bearbeiten und Konvertieren eines globalen Genehmigungsprozesses erstellt werden.
+* **Globale Genehmigungsprozesse:** Diese werden im Abschnitt Einrichtung > Prozesse > Genehmigungen erstellt und können durch bestimmte Status ausgelöst werden. &#x200B; Sie können mehrere genehmigende Personen oder gestaffelte Genehmigungen enthalten.
+* **Genehmigungsprozess für den einmaligen Gebrauch:** Diese sind objektspezifisch und können nicht freigegeben werden. &#x200B; Sie können sie von Grund auf neu erstellen oder indem Sie einen globalen Genehmigungsprozess bearbeiten und konvertieren.
 * **Mehrstufige Genehmigungen:** Genehmigungsprozesse können mehrere genehmigende Personen gleichzeitig oder in Phasen enthalten. Auf diese Weise werden sequenzielle Genehmigungen sichergestellt, bevor die nächste genehmigende Person benachrichtigt wird.
 * **Wiederverwendbarkeit:** Einmalige Genehmigungsprozesse können mit Aufgaben, Projekten oder Problemen kopiert oder in Projektvorlagen eingefügt werden, was eine einfache projektübergreifende Replikation ermöglicht.
 
