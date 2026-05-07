@@ -27,7 +27,7 @@ ht-degree: 100%
 
 ---
 
-# Protokollieren von Arbeitsstunden auf der [!DNL Workfront][!UICONTROL Startseite]
+# Protokollieren von Arbeitsstunden auf der [!DNL Workfront] [!UICONTROL Startseite]
 
 In diesem Video lernen Sie Folgendes:
 
