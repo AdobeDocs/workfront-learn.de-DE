@@ -38,7 +38,7 @@ ht-degree: 37%
 
 Erfahren Sie, wo die Umsatzart und die Kostentypen verwendet werden und wie Sie die Systemstandardwerte einrichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484189/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
