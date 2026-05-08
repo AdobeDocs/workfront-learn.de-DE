@@ -27,10 +27,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:38:05.522Z'
-source-git-commit: bcf74708778567c20ea0c74e2b9173d7fe83dbcd
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 178
-ht-degree: 38%
+source-wordcount: 184
+ht-degree: 37%
 
 ---
 
@@ -54,3 +54,4 @@ Erfahren Sie, wo die Umsatzart und die Kostentypen verwendet werden und wie Sie 
 * [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)
 * [Grundlegendes zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)
+* [Erstellen von Aufgabengebieten und Tarifkarten](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)

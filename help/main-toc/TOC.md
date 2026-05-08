@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront-Tutorials
 user-guide-description: Eine Bibliothek mit Schulungsvideos und Artikeln, die Ihnen helfen sollen, die Funktionen und Einstellungen von Workfront besser zu verstehen.
-source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: '2508'
-ht-degree: 77%
+source-wordcount: '2680'
+ht-degree: 78%
 
 ---
 
@@ -78,6 +78,7 @@ ht-degree: 77%
       + [Einrichten von Standardwerten für Umsatz und Kosten von Aufgaben](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
       + [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)
+      + [Erstellen von Aufgabengebieten und Tarifkarten](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
       + [Grundlegendes zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)
 
 
@@ -340,7 +341,7 @@ ht-degree: 77%
       + [Verwenden von Adobe Workfront-Plug-ins zur Integration mit Creative Cloud](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Konfigurieren der Integration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=de)
+      + [Integration konfigurieren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=de)
       + [Zuordnen von Metadaten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=de)
       + [Senden von Dokumenten und Verknüpfen von Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=de)
       + [Verwalten des Versionsverlaufs](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=de)
@@ -355,12 +356,12 @@ ht-degree: 77%
       + [Installieren des Microsoft Outlook-Add-ins](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront für Microsoft Teams – Übersicht](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=de)
+      + [Übersicht über Adobe Workfront für Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=de)
       + [Installieren von Adobe Workfront für Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=de)
       + [Zugreifen auf Adobe Workfront über Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=de)
       + [Suchen und Freigeben von Adobe Workfront-Elementen in Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=de)
-      + [Erstellen von Adobe Workfront-Aufgaben aus Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=de)
-      + [Senden von Adobe Workfront-Anfragen aus Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=de)
+      + [Erstellen von Adobe Workfront-Aufgaben über Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=de)
+      + [Senden von Adobe Workfront-Anfragen über Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=de)
       + [Verwalten von Adobe Workfront-Benachrichtigungen in Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=de)
 
    + Slack {#slack}

@@ -27,10 +27,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:53:47.381Z'
-source-git-commit: bcf74708778567c20ea0c74e2b9173d7fe83dbcd
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 234
-ht-degree: 78%
+source-wordcount: 240
+ht-degree: 76%
 
 ---
 
@@ -56,3 +56,4 @@ Das Video betont, dass Benutzende ihren Finanzzugriff nur für Projekte verwende
 * [Einrichten von Standardwerten für Umsatz und Kosten von Aufgaben](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Erstellen von Aufgabengebieten und Tarifkarten](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
