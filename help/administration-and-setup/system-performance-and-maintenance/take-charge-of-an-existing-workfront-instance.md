@@ -113,7 +113,7 @@ Indem Sie jede Phase mithilfe der Checkliste für geerbte Instanzen durchlaufen,
 </br>
 
 Weitere Informationen finden Sie unten:
-* [Webinar: Tipps zur Übernahme einer geerbten Instanz](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
+* [Webinar: Tipps zur Übernahme einer geerbten Instanz](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=de)
 * [Definieren von Zielen für Ihre Workfront-Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=de)
-* [Blogpost: Executive Sponsoring und Wert für Führung](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [Blogpost: Einführung in die KPIs von Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [Blogpost: Executive Sponsoring und Wert für Führung](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=de)
+* [Blogpost: Einführung in die KPIs von Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=de)
