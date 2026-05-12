@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-last-substantial-update: '2025-04-16T00:00:00.000Z'
+last-substantial-update: '2026-05-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 product_v2:
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:58.756Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 36eba67de4075935d1162cab84d8dc4c984eba48
 workflow-type: tm+mt
-source-wordcount: 170
-ht-degree: 12%
+source-wordcount: 217
+ht-degree: 10%
 
 ---
 
@@ -44,7 +44,8 @@ In diesem Video wird erläutert, wie Sie Abrechnungssätze für Aufgabengebiete 
 * **Standard-Abrechnungssatz:** Der Systemadministrator legt für jedes Aufgabengebiet einen Standard-Abrechnungssatz fest, der jedoch für einzelne Projekte angepasst werden kann. &#x200B;
 * **Flexibilität bei Abrechnungssätzen:** Sie können mehrere Abrechnungssätze für dieselbe Funktion innerhalb eines Projekts erstellen, um maßgeschneiderte Anpassungen zu ermöglichen. &#x200B;
 * **Zeitspezifische Sätze:** Abrechnungssätze können für bestimmte Zeiträume festgelegt werden, indem Start- und Enddaten hinzugefügt werden, um eine genaue Anwendung der Sätze in verschiedenen Phasen des Projekts sicherzustellen. &#x200B;
-* **Einfache Anpassung:** Änderungen an Abrechnungssätzen sind unkompliziert - wählen Sie das Aufgabengebiet aus, geben Sie den neuen Satz ein und speichern Sie die Aktualisierungen direkt auf der Registerkarte „Abrechnungssätze“. &#x200B;
+* **Einfache Anpassung:** Änderungen an Abrechnungssätzen sind unkompliziert - wählen Sie das Aufgabengebiet aus, geben Sie den neuen Satz ein und speichern Sie die Aktualisierungen direkt auf der Registerkarte „Sätze“. &#x200B;
+* **Tarifkarte anhängen:** Es ist einfach, eine Tarifkarte anzuhängen, wenn jemand eine für die Gruppe und das Unternehmen vorbereitet hat, in dem sich Ihr Projekt befindet. Nach dem Anhängen können Sie keinen der Abrechnungssätze auf der Tarifkarte ändern, sie können jedoch in Ihrem Projekt überschrieben werden.
 
 ## Empfohlene Tutorials zu diesem Thema
 
