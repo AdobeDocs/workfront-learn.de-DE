@@ -36,7 +36,7 @@ ht-degree: 10%
 In diesem Video wird erläutert, wie Sie Abrechnungssätze für Aufgabengebiete innerhalb eines Projekts verwalten und anpassen. &#x200B;Es betont die Flexibilität bei der Festlegung mehrerer Abrechnungssätze für dasselbe Aufgabengebiet und stellt genaue zeitbasierte Anpassungen sicher. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3489644/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
