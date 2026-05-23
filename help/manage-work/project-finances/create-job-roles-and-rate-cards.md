@@ -35,7 +35,7 @@ ht-degree: 13%
 In diesem Video wird beschrieben, wie Sie ein Aufgabengebiet und eine Tarifkarte erstellen und wie Sie eine Tarifkarte einem Projekt anhängen und daraus entfernen können.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3486517/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486527/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
