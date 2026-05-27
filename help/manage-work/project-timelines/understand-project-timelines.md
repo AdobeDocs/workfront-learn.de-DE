@@ -13,16 +13,11 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:54.364Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -39,7 +34,7 @@ Was Sie lernen werden:
 * Es stehen verschiedene Ansichten in Workfront zur Verfügung, z. B. die Standardansicht für die Planung und die Statusansicht für die Überwachung. Diese enthalten Flags für Fortschritt, Kommentare, Dokumente, Probleme, Genehmigungen, kritische Pfade und Meilensteine. Die letzten Aktivitäten können nachverfolgt werden, um Aktualisierungen und Notizen anzuzeigen.
 * Die Planung kann ab einem Start- oder Fertigstellungsdatum erfolgen. Workfront berechnet dabei die entsprechenden Daten anhand der Aufgabenlaufzeiten und Vorgänger. Im Video wird empfohlen, bei kritischen Fertigstellungsdaten ausgehend von einem Startdatum zu planen, um einen gewissen Spielraum zu ermöglichen. Aufgabenbeschränkungen wie „So bald wie möglich“ und „So spät wie möglich“ werden ebenfalls behandelt, einschließlich einer Beschreibung, wie sich diese auf die Aufgabenplanung auswirken. Es können benutzerdefinierte Ansichten erstellt werden, um Aufgabenbeschränkungen anzuzeigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435844/?captions=ger&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
