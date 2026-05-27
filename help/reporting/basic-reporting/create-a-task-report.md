@@ -12,16 +12,11 @@ last-substantial-update: '2025-06-11T00:00:00.000Z'
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2:
-  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:20:19.850Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -36,7 +31,7 @@ Das Video enthält eine schrittweise Anleitung zum Erstellen eines benutzerdefin
 
 Der resultierende Bericht hilft Benutzern, sich auf verspätete Aufgaben zu konzentrieren, bietet Einblicke in Abhängigkeiten und vereinfacht die Navigation zu den Host-Projekten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448351/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## Wichtige Schlussfolgerungen
 
@@ -132,7 +127,7 @@ Schließen Sie Prompts zu Folgendem ein:
 
 Dieser Problembericht zeigt alle Probleme aus einer Feedback-Anfrage-Warteschlange an, die für System-Admins erstellt wurde. Wie man diese Anfrage-Warteschlange erstellt, können Sie in der Anleitung [Erstellen einer Feedback-Anfrage-Warteschlange für System-Admins](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=de) sehen.
 
-Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=de&land=de).
+Dieser Bericht verwendet auch ein benutzerdefiniertes Formular. Informationen zum Erstellen eines benutzerdefinierten Formulars finden Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?land=de).
 
 Dieses benutzerdefinierte Formular sollte die Objekttypen „Projekt“ und „Problem“ verwenden und folgendermaßen erstellt werden:
 
