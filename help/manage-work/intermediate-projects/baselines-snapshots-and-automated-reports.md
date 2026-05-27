@@ -12,7 +12,7 @@ jira: KT-20256
 doc-type: video
 source-git-commit: e90a7ab4dcb8341ab1f942c50a018ad429550570
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ In diesem Video wird gezeigt, wie wichtig die Verwendung von Grundlinien, Moment
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483626/?captions=ger&quality=12&learn=on&enablevpops)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
 * **Baselines bieten historische Referenzpunkte:** Baselines erfassen den Projektstatus bei wichtigen Milestones (z. B. Start, umfangreiche Neuplanung) und werden verwendet, um den Fortschritt gegenüber dem ursprünglichen Plan zu messen.
 * **Automatische und manuelle Baseline-Erstellung:** Baselines werden automatisch erstellt, wenn sich der Projektstatus in „Aktuell“ ändert, und können auch manuell erstellt werden. Nicht alle Projektfelder werden in Baselines erfasst.
