@@ -12,16 +12,11 @@ jira: KT-11035
 last-substantial-update: '2026-03-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:48:52.918Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -48,7 +43,7 @@ In einigen Tutorials erstellen Sie ein neues Szenario von Grund auf. In anderen 
 
 Um die Übungen in den Workfront Fusion-Schulungstutorials abzuschließen, benötigen Sie eine Workfront-Aktivierungsumgebung, die in dieser Schulung auch als &quot;**Workfront Test Drive**&quot; bezeichnet wird. Wenn Sie bereits einen Testlauf haben, empfehlen wir Ihnen einen neuen für diese Schulung.
 
-Fordern Sie einen Testlauf an, indem Sie [dieses Formular](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg) ausfüllen. Wenn Sie das Formular ausfüllen, werden Sie aufgefordert, Ihre E-Mail mit dem **Adobe-Zertifizierungsprofil anzugeben**. Wenn Sie noch nicht über eines verfügen, wechseln Sie zur [Adobe-Zertifizierungs-Site &#x200B;](https://certification.adobe.com/#) erstellen Sie ein Benutzerprofil.
+Fordern Sie einen Testlauf an, indem Sie [dieses Formular](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg) ausfüllen. Wenn Sie das Formular ausfüllen, werden Sie aufgefordert, Ihre E-Mail mit dem **Adobe-Zertifizierungsprofil anzugeben**. Wenn Sie noch nicht über eines verfügen, wechseln Sie zur [Adobe-Zertifizierungs-Site ](https://certification.adobe.com/#) erstellen Sie ein Benutzerprofil.
 
 ### Zugreifen auf Workfront Fusion zum Üben
 
@@ -74,4 +69,4 @@ Die Schritt-für-Schritt-Anleitungen helfen Ihnen, die Übungen mit exemplarisch
 
 [Workfront Fusion-Dokumentation](https://experienceleague.adobe.com/de/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Es gibt auch eine [Workfront Fusion 2.0-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=de), wo Sie Fragen stellen können.
+Es gibt auch eine [Workfront Fusion 2.0-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2), wo Sie Fragen stellen können.
