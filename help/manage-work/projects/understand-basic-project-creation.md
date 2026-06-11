@@ -36,7 +36,7 @@ ht-degree: 74%
 In diesem Video wird erläutert, wie Sie ein Projekt von Grund auf neu erstellen und verwalten. &#x200B; Sie beginnt mit der Erstellung eines neuen Projekts, dem Umbenennen des Ziels und der Festlegung eines Ziels mit einer Beschreibung, einem Startdatum und einem Zielabschluss. Projekte können in Aufgaben unterteilt werden, bei denen es sich um geplante Arbeiten mit geschätzten Laufzeiten und Zuweisungen handelt. &#x200B; Aufgaben können mithilfe von Vorgängern sequenziert werden und der Projektstatus kann auf „Aktuell“ festgelegt werden, um das Team zu benachrichtigen und es in Berichte aufzunehmen. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435903/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
