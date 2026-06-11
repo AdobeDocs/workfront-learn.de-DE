@@ -1,6 +1,6 @@
 ---
 title: Erstellen und Verwalten eines neuen Projekts
-description: Erfahren Sie, wie Sie Projekte effizient erstellen, verwalten und abschließen, mit unerwarteten Problemen umgehen und wertvolle anfängliche Tipps zum Umgang mit wichtigen Projekt-Management-Funktionen finden. ​
+description: Erfahren Sie, wie Sie Projekte effizient erstellen, verwalten und abschließen, mit unerwarteten Problemen umgehen und wertvolle anfängliche Tipps zum Umgang mit wichtigen Projekt-Management-Funktionen finden.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-11-04T00:00:00.000Z'
+last-substantial-update: '2026-06-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 46fe121a9e8bc6855146ed88db8de6ff6cc37940
 workflow-type: tm+mt
-source-wordcount: 241
-ht-degree: 28%
+source-wordcount: 169
+ht-degree: 74%
 
 ---
 
@@ -41,9 +41,9 @@ In diesem Video wird erläutert, wie Sie ein Projekt von Grund auf neu erstellen
 ## Wichtige Schlussfolgerungen
 
 * **Erstellen eines Projekts:** Erstellen Sie zunächst ein neues Projekt, benennen Sie es um und legen Sie ein Ziel mit einer Beschreibung, einem Startdatum und einem vorgesehenen Fertigstellungsdatum fest.
-* **Aufschlüsselung der Arbeit** Aufteilen des Projekts in einzelne Aufgaben, Schätzen der Dauer, Zuweisen von Zuständigkeiten und Sequenzieren von Aufgaben mithilfe von Vorgängern. &#x200B;
-* **Umgang mit Problemen:** Verwalten Sie unerwartete Probleme, indem Sie sie in Aufgaben konvertieren, in ein anderes Projekt verschieben oder als „Wird nicht behoben“ markieren. &#x200B;
-* **Anpassen von Zeitplänen:** Das Hinzufügen von Aufgaben kann sich auf die Zeitleiste des Projekts auswirken, aber das Überschneiden von Aufgaben kann dazu beitragen, das ursprüngliche Abschlussdatum beizubehalten. &#x200B;
+* **Aufschlüsseln der Arbeit** Teilen Sie das Projekt in einzelne Aufgaben auf, schätzen Sie die Laufzeiten, weisen Sie Verantwortlichkeiten zu und sequenzieren Sie Aufgaben mithilfe von Vorgängern.
+* **Umgang mit Problemen:** Verwalten Sie unerwartete Probleme, indem Sie sie in Aufgaben konvertieren, in ein anderes Projekt verschieben oder mit „Lässt sich nicht lösen“ markieren.
+* **Anpassen von Timelines:** Das Hinzufügen von Aufgaben kann sich auf die Projekt-Timeline auswirken, aber das Überschneiden von Aufgaben kann dazu beitragen, das ursprüngliche Fertigstellungsdatum trotzdem beizubehalten.
 * **Abschlusskriterien:** Ein Projekt wird als abgeschlossen betrachtet, wenn alle Aufgaben abgeschlossen und alle Probleme behoben sind. &#x200B; Anfänger sollten mit einfachen Projekten beginnen und schrittweise erweiterte Funktionen erkunden. &#x200B;
 
 
