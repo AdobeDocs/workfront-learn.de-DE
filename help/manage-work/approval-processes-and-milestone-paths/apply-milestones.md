@@ -49,4 +49,4 @@ In diesem Video lernen Sie Folgendes:
 
 * [Meilensteine in Ihren Projekten anzeigen](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [Anwenden von Meilensteinpfaden auf Projekte und Aufgaben](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Aktivität „Meilensteinansicht“ unter „Erstellen einer Basisansicht“](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
+* [Aktivität „Meilensteinansicht“ unter „Erstellen einer Basisansicht“](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
