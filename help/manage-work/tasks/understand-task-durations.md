@@ -24,34 +24,34 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:12.123Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 216
-ht-degree: 32%
+source-wordcount: 188
+ht-degree: 81%
 
 ---
 
 # Grundlegendes zu Aufgabenlaufzeiten
 
-In diesem Video werden Aufgabenlaufzeiten in Workfront, ihre Auswirkungen auf die Start- und Fertigstellungsdaten von Aufgaben, die Projekt-Timelines und Best Practices für die effektive Verwendung von Laufzeiten beschrieben.
+In diesem Video wird die Aufgabendauer in Workfront, ihre Auswirkungen auf die Start- und Abschlussdaten von Aufgaben, die Projektzeitpläne und Best Practices für die effektive Verwendung von Aufgabendauer erläutert.
 Workfront empfiehlt die Verwendung von Dauer und Vorgängern zum Erstellen von Aufgabenzeitleisten, anstatt Einschränkungen manuell festzulegen, da Einschränkungen automatische Anpassungen verhindern können.
 &#x200B;Präzise Laufzeiten sind entscheidend für eine effektive Projektplanung und Ressourcenmanagement.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449352/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
-* **Definition der Aufgabendauer:** Aufgabendauer ist die Differenz zwischen dem geplanten Startdatum einer Aufgabe und dem geplanten Abschlussdatum und stellt das Zeitfenster für die Fertigstellung der Arbeit dar. &#x200B;
-* **Auswirkungen auf den Projektzeitplan:** Aufgabenlaufzeiten wirken sich direkt auf die Gesamtprojektdauer und das geplante Abschlussdatum aus, sodass sie für die genaue Projektplanung von entscheidender Bedeutung sind. &#x200B;
-* **Verwendung von Vorgängern:** geplanten Start- und Abschlussdaten werden anhand von Aufgabendauer und Vorgängern berechnet, um einen dynamischen und flexiblen Zeitplan zu gewährleisten. &#x200B;
-* **Vermeiden Sie manuelle Einschränkungen** Durch das manuelle Festlegen des Start- oder Abschlussdatums werden Aufgabenbeschränkungen erstellt, die automatische Anpassungen verhindern können, wenn sich die Dauer oder Vorgänger ändern. &#x200B;
-* **Ressourcenverwaltung:** sind für die Ressourcenverwaltungs- und Zeitplanungstools von Workfront von entscheidender Bedeutung und ermöglichen präzise Ressourcenkalkulationen und die Verfügbarkeitsplanung für Teams. &#x200B;
+* **Definition der Aufgabenlaufzeit:** Die Laufzeit einer Aufgabe ist die Differenz zwischen dem geplanten Startdatum und dem geplanten Fertigstellungsdatum einer Aufgabe und stellt das Zeitfenster für die Fertigstellung der Arbeit dar.
+* **Auswirkungen auf die Projekt-Timeline:** Aufgabenlaufzeiten wirken sich direkt auf die Gesamtdauer eines Projekts und das geplante Fertigstellungsdatum aus. Damit sind sie von entscheidender Bedeutung für die genaue Projektplanung.
+* **Verwendung von Vorgängern:** Geplante Start- und Fertigstellungsdaten werden anhand von Aufgabenlaufzeiten und Vorgängern berechnet, um eine dynamische und flexible Timeline zu gewährleisten.
+* **Vermeidung manueller Beschränkungen:** Durch das manuelle Festlegen des Start- oder Fertigstellungsdatums werden Aufgabenbeschränkungen erstellt, die automatische Anpassungen verhindern können, wenn sich Laufzeiten oder Vorgänger ändern.
+* **Ressourcen-Management:** Laufzeiten sind von entscheidender Bedeutung für die Ressourcen-Management- und Planungs-Tools von Workfront und ermöglichen präzise Ressourcenkalkulationen sowie die Verfügbarkeitsplanung für Teams.
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Effektives Sequenzieren von Aufgaben in Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
-* [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)
+* [Geschätzte Aufgabenstunden mit Work Effort](/help/manage-work/tasks/understand-work-effort.md)
 

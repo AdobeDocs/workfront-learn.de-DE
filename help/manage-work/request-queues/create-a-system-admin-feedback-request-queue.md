@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 76%
+source-wordcount: 373
+ht-degree: 84%
 
 ---
 
@@ -35,8 +35,8 @@ ht-degree: 76%
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer Anfrage-Warteschlange](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=de)
->* [Erstellen eines Anfrageflusses](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=de)
+>* [Erstellen einer Anfrage-Warteschlange in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=de)
+>* [Erstellen eines Anfrageflusses in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=de)
 >* Oder Sie können bereits eine Anfrage-Warteschlange erstellen, die eine Routing-Regel und ein benutzerdefiniertes Formular verwendet.
 
 Das Video enthält eine schrittweise Anleitung zum Erstellen einer Feedback-Anfragewarteschlange für Systemadministratoren.

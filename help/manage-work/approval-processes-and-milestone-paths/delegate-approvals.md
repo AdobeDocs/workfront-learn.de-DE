@@ -24,16 +24,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:04:22.081Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 422
-ht-degree: 25%
+source-wordcount: 245
+ht-degree: 40%
 
 ---
 
 # Aufgaben, Probleme und Genehmigungen effektiv delegieren
 
-In diesem Video wird erläutert, wie Aufgaben, Probleme und Genehmigungen delegiert werden. &#x200B; Um die Delegierung zu aktivieren, muss der System- oder Gruppenadministrator die Funktion in „Setup“ unter „Projektvoreinstellungen“ aktivieren. &#x200B; der Aktivierung können Benutzer über die Schaltfläche „Delegieren“ im Widget „Meine Aufgaben“ alle Aufgaben und Probleme für einen bestimmten Zeitraum an eine andere Person delegieren. &#x200B; Delegierung gilt sowohl für Aufgaben als auch für Probleme gemeinsam und muss derselben Person zugewiesen werden. &#x200B; Delegierungen können mit oder ohne Enddatum festgelegt werden und Benutzerinnen und Benutzer können die Delegierungen jederzeit manuell stoppen. &#x200B;
+In diesem Video wird erläutert, wie Aufgaben, Probleme und Genehmigungen delegiert werden. &#x200B; Um die Delegierung zu aktivieren, muss der System- oder Gruppenadministrator die Funktion in „Setup“ unter „Projektvoreinstellungen“ aktivieren. &#x200B; der Aktivierung können Benutzer über die Schaltfläche „Delegieren“ im Widget „Meine Aufgaben“ alle Aufgaben und Probleme für einen bestimmten Zeitraum an eine andere Person delegieren. &#x200B; Delegierung gilt sowohl für Aufgaben als auch für Probleme gemeinsam und muss derselben Person zugewiesen werden. &#x200B; Delegierungen können mit oder ohne Enddatum festgelegt werden und Benutzerinnen und Benutzer können die Delegierungen jederzeit manuell stoppen &#x200B;
 Für Genehmigungen können Benutzer sie über das Widget „Warten auf meine Genehmigung“ delegieren. &#x200B; Delegierung gilt für bestehende und neue Genehmigungen innerhalb des angegebenen Zeitraums, aber nur für Projekte, Aufgaben und Probleme, nicht für Dokumente, Korrekturabzüge oder Arbeitszeittabellen. &#x200B; Benachrichtigungen für delegierte Aufgaben, Probleme und Genehmigungen können vom Administrator aktiviert werden, um sowohl den Delegierenden als auch den Delegierten zu informieren. &#x200B;
 Delegierte Genehmigungen werden im System gekennzeichnet und geben an, wer sie an wen delegiert hat. &#x200B; Aktualisierungen im Zusammenhang mit Genehmigungen werden auf der Registerkarte Aktualisieren angezeigt, und die Systemaktivität kann auf der Registerkarte Systemaktivität eingesehen werden. &#x200B;
 
@@ -52,6 +52,6 @@ Delegierte Genehmigungen werden im System gekennzeichnet und geben an, wer sie a
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Einrichten von Ereignisbenachrichtigungen](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [Erstellen eines globalen und eines Genehmigungsprozesses für einmaligen Gebrauch](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Genehmigungsprozesse erstellen und verwalten](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
 * [Informationen zu gruppenspezifischen Genehmigungsprozessen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 

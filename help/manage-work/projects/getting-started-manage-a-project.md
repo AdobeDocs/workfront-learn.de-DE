@@ -24,32 +24,32 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:01.284Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 177
-ht-degree: 75%
+source-wordcount: 183
+ht-degree: 85%
 
 ---
 
 # Projekt mit aktuellem Status verwalten
 
-Das Video bietet einen Überblick über die Verwaltung eines Projekts, nachdem sein Status in „Aktuell“ geändert wurde. &#x200B;
+Das Video gibt einen Überblick über das Management für ein Projekt, nachdem sein Status in „Aktuell“ geändert wurde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445176/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
 * **Fortschrittsüberwachung:** Projekte mit dem Status „Aktuell“ werden in Berichten angezeigt, sodass Führungskräfte den Fortschritt („Im Zeitplan“, „In Verzug“ oder „Überfällig“) nachverfolgen können.
 * **Projektübergreifende Abhängigkeiten:** Abhängigkeiten können in der Gantt-Ansicht „Projekt“ verwaltet und angezeigt werden. Dabei stehen Drilldown-Optionen zur Verfügung, um ausführliche Erkenntnisse zu erhalten.
 * **Aufgaben- und Genehmigungs-Management:** Verwenden Sie die Registerkarten „Status“ und „Genehmigungen“, um den Abschluss von Aufgaben sowie ausstehende Genehmigungen nachzuverfolgen und über Kommentare zu kommunizieren.
 * **Team-Kommunikation:** Senden Sie mit der Funktion „Alle aktualisieren“ problemlos Aktualisierungen an alle Team-Mitglieder und führen Sie ein Protokoll der Diskussionen im Projekt.
-* **Häufige Updates:** Mitarbeiter sollten den Aufgabenstatus täglich aktualisieren, um ein reibungsloses Projektmanagement und eine genaue Nachverfolgung zu gewährleisten. &#x200B;
+* **Regelmäßige Aktualisierungen:** Mitarbeitende sollten den Aufgabenstatus täglich aktualisieren, um ein reibungsloses Projekt-Management und ein genaues Tracking sicherzustellen.
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Live-Schalten eines Projekts](/help/manage-work/projects/take-a-project-live.md)
-* [Suchen von Projekten](/help/manage-work/projects/find-projects.md)
-* [Freigeben eines Projekts](/help/manage-work/projects/share-a-project.md)
+* [Projekte effizient finden](/help/manage-work/projects/find-projects.md)
+* [Effektive Projektfreigabe in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Grundlegendes zum Projekt-Team](/help/manage-work/projects/understand-the-project-team.md)
-* [Grundlegendes zur Projektkommunikation](/help/manage-work/projects/understand-project-communication.md)
+* [Steigerung des Projekterfolgs durch effektive Kommunikation](/help/manage-work/projects/understand-project-communication.md)

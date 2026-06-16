@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:29.285Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 84%
+source-wordcount: 82
+ht-degree: 67%
 
 ---
 
@@ -45,6 +45,6 @@ In diesem Video lernen Sie die Vorteile folgender Möglichkeiten kennen:
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Ändern des Projektstatus in „abgeschlossen“](/help/manage-work/projects/change-the-project-status.md)
-* [Abschließen von Genehmigungen](/help/manage-work/close-a-project/complete-approvals.md)
-* [Hochladen von Assets](/help/manage-work/close-a-project/upload-assets.md)
-* [Aufzeichnen und Überprüfen der Stunden](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [Genehmigungen für Aufgaben und Probleme lösen](/help/manage-work/close-a-project/complete-approvals.md)
+* [Hochladen und Verwalten von Projekt-Assets](/help/manage-work/close-a-project/upload-assets.md)
+* [Projektstunden protokollieren und überprüfen](/help/manage-work/close-a-project/log-and-review-hours.md)

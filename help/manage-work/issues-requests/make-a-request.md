@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 257
-ht-degree: 45%
+source-wordcount: 253
+ht-degree: 58%
 
 ---
 
@@ -37,18 +37,18 @@ Das Video enthält eine detaillierte Anleitung zum Erstellen und Verwalten von A
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470919/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
-* **Optimierte Anfrageerstellung:** Benutzer können Anfragen einfach erstellen, indem sie im Hauptmenü „Anfragen“ auswählen, einen Anfragetyp auswählen, erforderliche Felder ausfüllen und relevante Dokumente anhängen. &#x200B;
+* **Optimierte Anfrageerstellung:** Benutzende können Anfragen einfach erstellen, indem sie im Hauptmenü die Option „Anfragen“ und anschließend einen Anfragetyp auswählen, die erforderlichen Felder ausfüllen und relevante Dokumente anhängen.
 * **Anpassbare Workflows:** Anfragewarteschlangen und Formulare sind auf organisatorische Workflows zugeschnitten, sodass Benutzende Details (z. B. In-Store, Outdoor, Social Media) und Priorität angeben können.
 * **Funktion zum automatischen Speichern von Entwürfen:** Entwürfe werden automatisch gespeichert, wenn Benutzer das Betrefffeld ausfüllen. So wird sichergestellt, dass keine Daten verloren gehen, wenn sie anhalten oder wegnavigieren. &#x200B; Entwürfe können zu einem späteren Zeitpunkt zum Abschluss aufgerufen oder verworfen werden, falls dies nicht erforderlich ist. &#x200B;
-* **Tracking und Filterung der Anfragen:** Gesendete Anfragen können auf der Seite „Gesendet“ verfolgt werden, wobei Filter verfügbar sind, um offene, nicht aufgelöste oder alle Anfragen basierend auf Benutzerberechtigungen anzuzeigen. &#x200B;
+* **Tracking und Filterung der Anfragen:** Gesendete Anfragen können auf der Seite „Gesendet“ verfolgt werden, auf der Filter verfügbar sind, um basierend auf den Benutzerberechtigungen die offenen, die nicht gelösten oder alle Anfragen anzuzeigen.
 * **Kopieren und Wiederverwenden von Anfragen:** Benutzende können bestehende Anfragen kopieren, um neue Anfragen zu erstellen. Dies erleichtert das Einreichen ähnlicher Anfragen, da sie nicht von Grund auf neu erstellt werden müssen.
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Grundlegendes zu Anfrage-Warteschlangen](/help/manage-work/request-queues/understand-request-queues.md)
-* [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
-* [Aktualisieren einer Anfrage](/help/manage-work/issues-requests/update-a-request.md)
+* [Anfrage-Warteschlangen in Workfront erkunden](/help/manage-work/request-queues/understand-request-queues.md)
+* [Effizientes Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
+* [Aktualisieren einer Anfrage in Workfront](/help/manage-work/issues-requests/update-a-request.md)
 * [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Konvertieren eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Anfrage oder Anfrage in eine Aufgabe konvertieren](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

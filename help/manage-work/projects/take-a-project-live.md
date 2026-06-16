@@ -23,31 +23,31 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:46.743Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 231
-ht-degree: 21%
+source-wordcount: 168
+ht-degree: 81%
 
 ---
 
 # Live-Schalten eines Projekts
 
-In diesem Video werden die letzten Schritte zur Live-Schaltung eines Projekts durch Änderung seines Status in „aktuell“ erläutert. &#x200B; Zuvor wird die Überprüfung wichtiger Projektelemente hervorgehoben, einschließlich Aufgabennamen, Dauer, geplante Stunden, Vorgänger, Start- und Abschlussdaten sowie Zuweisungen, um sicherzustellen, dass alles korrekt und ordnungsgemäß festgelegt ist. &#x200B; das Projekt live ist, erhält der Projekt-Manager Benachrichtigungen, die auf globalen und persönlichen Einstellungen basieren, und das Projekt wird in Berichten und Filtern für aktive Projekte angezeigt. &#x200B; Dies markiert den offiziellen Beginn der Arbeit. &#x200B;
+In diesem Video werden die letzten Schritte erläutert, mit denen ein Projekt live geschaltet werden kann, indem der Status in „aktuell“ geändert wird. &#x200B; Vor diesem Schritt wird die Überprüfung wichtiger Projektelemente hervorgehoben, einschließlich Aufgabennamen, Dauer, geplante Stunden, Vorgänger, Start- und Abschlussdaten sowie Zuweisungen, um sicherzustellen, dass alles korrekt und ordnungsgemäß festgelegt ist. &#x200B; das Projekt live ist, erhält der Projekt-Manager Benachrichtigungen, die auf globalen und persönlichen Einstellungen basieren, und das Projekt wird in Berichten und Filtern für aktive Projekte angezeigt. &#x200B; Dies markiert den offiziellen Beginn der Arbeit. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438999/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
-* **Projektdetails überprüfen** Stellen Sie sicher, dass Aufgabennamen, Dauer, geplante Stunden, Vorgänger, Start- und Abschlussdaten sowie Zuweisungen korrekt sind und ordnungsgemäß festgelegt wurden. &#x200B;
-* **Projektstatus ändern:** Sie den Projektstatus in der Projekt-Kopfzeile auf „aktuell“ oder in den Details, um ihn live zu schalten. &#x200B;
-* **Benachrichtigungen empfangen:** Als Projekt-Manager erhalten Sie Benachrichtigungen basierend auf globalen und persönlichen Einstellungen, sobald das Projekt live ist. &#x200B;
-* **Aktive Projekte verfolgen** Das Projekt wird in Berichten und Filtern für Live-, aktuelle oder laufende Projekte angezeigt, wodurch die Überwachung vereinfacht wird. &#x200B;
-* **Arbeit beginnen** Wenn Sie das Projekt live schalten, beginnt die Arbeits- und Ausführungsphase offiziell. &#x200B;
+* **Überprüfen der Projektdetails:** Vergewissern Sie sich, dass Aufgabennamen, Laufzeiten, geplante Stunden, Vorgänger, Start- und Fertigstellungsdaten und Arbeitsaufträge korrekt und richtig festgelegt sind.
+* **Ändern des Projektstatus:** Aktualisieren Sie den Projektstatus in der Projektkopfzeile oder in den Details auf „Aktuell“, um es live zu schalten.
+* **Empfangen von Benachrichtigungen:** Als Projektleiterin bzw. Projektleiter erhalten Sie Benachrichtigungen auf der Grundlage globaler und persönlicher Einstellungen, sobald das Projekt live ist.
+* **Tracking aktiver Projekte:** Das Projekt wird in Berichten und Filtern für aktive, aktuelle oder in Arbeit befindliche Projekte angezeigt und ist so leichter zu überwachen.
+* **Beginnen der Arbeit:** Mit der offiziellen Live-Schaltung des Projekts beginnt die Arbeits- und Ausführungsphase.
 
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erste Schritte beim Projekt-Management](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Suchen von Projekten](/help/manage-work/projects/find-projects.md)
-* [Freigeben eines Projekts](/help/manage-work/projects/share-a-project.md)
+* [Projekt mit aktuellem Status verwalten](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Projekte effizient finden](/help/manage-work/projects/find-projects.md)
+* [Effektive Projektfreigabe in Workfront](/help/manage-work/projects/share-a-project.md)

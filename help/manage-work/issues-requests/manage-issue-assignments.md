@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:55:37.524Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 283
-ht-degree: 35%
+source-wordcount: 201
+ht-degree: 47%
 
 ---
 
@@ -43,18 +43,18 @@ In diesem Video lernen Sie Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446964/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
 * **Probleme zuweisen:** Verwenden Sie die Inline-Bearbeitung im Feld „Arbeitsaufträge“, um Probleme Benutzern oder Teams zuzuweisen, und stellen Sie sicher, dass Sie auf „Speichern“ klicken, nachdem Sie Arbeitsaufträge erteilt haben. &#x200B; Teamleiter können mit dem Workload Balancer Aufgaben zuweisen, indem sie sie per Drag-and-Drop in den Kalender der Teammitglieder ziehen. &#x200B;
 * **Zugewiesene Probleme suchen:** Ihnen zugewiesenen Probleme werden auf der Startseite in der Arbeitsliste angezeigt, die gefiltert werden kann. &#x200B; vom Team zugewiesenen Probleme werden im Abschnitt „Teamanfrage“ angezeigt, wo die Team-Mitglieder Aufgaben annehmen oder neu zuweisen können. &#x200B; Diese Probleme werden auch im Workload Balancer angezeigt, um die Anzeige zu verbessern. &#x200B;
 * **Aktualisieren des Fortschritts:** Stellen Sie Aktualisierungen bereit und protokollieren Sie Stunden zu Problemen, um einen Überblick über den Arbeitsfortschritt zu erhalten. &#x200B; Verwenden Sie die Funktion „Name“, um Kommentare an bestimmte Benutzer oder Teams weiterzuleiten. &#x200B; Benachrichtigungen werden für Kommentare gesendet, aber nicht für protokollierte Stunden oder Statusänderungen. &#x200B;
-* **Anfragestatus ändern:** Aktualisieren Sie den Anfragestatus, um den Fortschritt anzuzeigen, z. B. „Wird bearbeitet“ oder „Abgeschlossen“. &#x200B; ungelöste Probleme verhindern, dass zugehörige Aufgaben und Projekte als abgeschlossen markiert werden. &#x200B;
-* **Team-spezifische Workflows:** Befolgen Sie die spezifischen Workflows und Systemkonfigurationen Ihres Unternehmens, um Probleme effektiv zu verwalten. &#x200B;
+* **Anfragestatus ändern:** Aktualisieren Sie den Anfragestatus, um den Fortschritt widerzuspiegeln, z. B. „Wird daran gearbeitet“ oder „abgeschlossen“. &#x200B; ungelösten Probleme verhindern, dass zugehörige Aufgaben und Projekte als abgeschlossen markiert werden. &#x200B;
+* **Team-spezifische Workflows:** Befolgen Sie die spezifischen Workflows und Systemkonfigurationen Ihrer Organisation, um Probleme effektiv zu verwalten.
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Umgang mit ungeplanten Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
+* [Effektives Management ungeplanter Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Effizientes Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
 * [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Konvertieren eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Anfrage oder Anfrage in eine Aufgabe konvertieren](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

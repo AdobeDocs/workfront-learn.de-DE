@@ -24,32 +24,32 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 222
-ht-degree: 36%
+source-wordcount: 167
+ht-degree: 79%
 
 ---
 
 # Erstellen eines Projekts direkt aus einer Vorlage
 
-In diesem Video wird erläutert, wie Sie ein Projekt aus einer Vorlage erstellen. &#x200B; Wenn Sie berechtigt sind, eine Vorlage zu öffnen, können Sie sie als Verknüpfung zum Erstellen eines Projekts verwenden. &#x200B; öffnen Sie dazu die Vorlage, rufen Sie das Dreipunkt-Menü auf und wählen Sie „Projekt erstellen“. &#x200B; Dadurch gelangen Sie zu einem Bildschirm, auf dem Sie die Projektdetails bearbeiten können. &#x200B; Sie fertig sind, klicken Sie auf „Projekt erstellen“. &#x200B;
+In diesem Video wird erläutert, wie Sie ein Projekt aus einer Vorlage erstellen. &#x200B; Wenn Sie berechtigt sind, eine Vorlage zu öffnen, können Sie sie als Verknüpfung zum Erstellen eines Projekts verwenden. &#x200B; öffnen Sie dazu die Vorlage, greifen Sie auf das Dreipunkt-Menü zu und wählen Sie „Projekt erstellen“. &#x200B; Sie gelangen zu einem Bildschirm, in dem Sie die Projektdetails bearbeiten können. &#x200B; Sie fertig sind, klicken Sie auf „Projekt erstellen“. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456022/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
-* **Vorlagenzugriff** Sie benötigen Berechtigungen zum Öffnen einer Vorlage, um daraus ein Projekt zu erstellen. &#x200B;
-* **Option für den Tastaturbefehl** Die Verwendung einer Vorlage kann eine praktische Verknüpfung sein, anstatt ein Projekt von Grund auf neu zu starten. &#x200B;
-* **Dreipunkt-Menü:** Öffnen Sie die Vorlage und wählen Sie „Projekt erstellen“ aus dem Dreipunkt-Menü. &#x200B;
-* **Projektdetails bearbeiten** Nach Auswahl von „Projekt erstellen“ können Sie die Projektdetails bearbeiten, bevor Sie den Vorgang abschließen. &#x200B;
-* **Erstellung abschließen:** Klicken Sie auf „Projekt erstellen“, wenn Sie bereit sind, den Prozess abzuschließen. &#x200B;
+* **Vorlagenzugriff:** Sie benötigen die Berechtigung zum Öffnen einer Vorlage, um daraus ein Projekt zu erstellen.
+* **Abkürzungsoption:** Das Verwenden einer Vorlage kann eine praktische Abkürzung im Vergleich zum Erstellen eines Projektes von Grund auf sein.
+* **Drei-Punkte-Menü:** Öffnen Sie die Vorlage und wählen Sie „Projekt erstellen“ aus dem Drei-Punkte-Menü aus.
+* **Bearbeiten der Projektdetails:** Nach der Auswahl von „Projekt erstellen“ können Sie die Projektdetails bearbeiten, bevor Sie den Vorgang abschließen.
+* **Abschließen der Erstellung:** Klicken Sie auf „Projekt erstellen“, wenn Sie bereit sind, den Prozess abzuschließen.
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erstellen einer Projektvorlage und Informationen über Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Freigeben einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Kopieren eines bestehenden Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Erstellen einer Projektvorlage und Erkunden von Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Effektives Freigeben von Projektvorlagen](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Effizientes Kopieren eines vorhandenen Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Bearbeiten des Projekt-Teams in einer Vorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

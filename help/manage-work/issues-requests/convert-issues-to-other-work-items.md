@@ -22,10 +22,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 240
-ht-degree: 36%
+source-wordcount: 230
+ht-degree: 75%
 
 ---
 
@@ -35,16 +35,16 @@ Im Video wird gezeigt, wie Sie ein Problem oder eine Anfrage in eine Aufgabe kon
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445439/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
 * **Einfacher Konvertierungsprozess:** Um ein Problem/eine Anfrage in eine Aufgabe zu konvertieren, öffnen Sie das Problem, klicken Sie auf das Dreipunkt-Menü und wählen Sie „In Aufgabe konvertieren“ aus. &#x200B; Der Aufgabenname und die Beschreibung werden standardmäßig kopiert, können jedoch bearbeitet werden. &#x200B;
-* **Auswahl des Zielprojekts** Sie können das Zielprojekt für die Aufgabe auswählen, entweder das Standardprojekt, in dem sich das Problem befindet, oder ein anderes Projekt, auf das Sie Zugriff haben. &#x200B;
-* **Automatische Formularanhänge:** Benutzerdefinierte Formulare, die mit dem Problem verknüpft sind, werden automatisch zur Aufgabe hinzugefügt, um sicherzustellen, dass alle Feldwerte nahtlos übernommen werden. &#x200B;
+* **Auswahl des Zielprojekts:** Sie können das Zielprojekt für die Aufgabe auswählen – entweder das Standardprojekt, in dem sich das Problem befindet, oder ein anderes Projekt, auf das Sie Zugriff haben.
+* **Automatisches Anhängen von Formularen:** Benutzerdefinierte Formulare, die mit dem Problem verknüpft sind, werden automatisch zur Aufgabe hinzugefügt, sodass alle Feldwerte nahtlos übernommen werden.
 * **Konvertierungsoptionen:** Zu den wichtigsten Optionen gehören:
-   * Ursprüngliches Problem neben der Aufgabe aktiv halten. &#x200B;
-   * Dem Anforderer Zugriff auf die Aufgabe gewähren. &#x200B;
-   * Das geplante Abschlussdatum der Anfrage für die Aufgabe wird beibehalten. &#x200B;
-* **Verknüpfte Statusaktualisierungen:** Wenn das ursprüngliche Problem beibehalten wird, wird sein Status automatisch auf der Grundlage des Aufgabenfortschritts aktualisiert, wodurch eine Synchronisierung zwischen dem Problem und der Aufgabe sichergestellt wird. &#x200B;
+   * Aktivhaltung des ursprünglichen Problems neben der Aufgabe.
+   * Ermöglichung des Zugriffs der anfragenden Person auf die Aufgabe.
+   * Beibehaltung des geplanten Fertigstellungsdatums des Problems für die Aufgabe.
+* **Verknüpfte Statusaktualisierungen:** Wenn das ursprüngliche Problem beibehalten wird, wird sein Status automatisch anhand des Fortschritts der Aufgabe aktualisiert, was eine Synchronisierung zwischen Problem und Aufgabe sicherstellt.
 
 
 >[!NOTE]
@@ -53,7 +53,7 @@ Im Video wird gezeigt, wie Sie ein Problem oder eine Anfrage in eine Aufgabe kon
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
+* [Effizientes Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
 * [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Umgang mit ungeplanten Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Effektives Management ungeplanter Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

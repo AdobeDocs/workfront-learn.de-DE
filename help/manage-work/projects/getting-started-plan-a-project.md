@@ -23,37 +23,37 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:32.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 265
-ht-degree: 21%
+source-wordcount: 230
+ht-degree: 80%
 
 ---
 
 # Effektives Planen eines Projekts in Workfront
 
-Das Video bietet Anleitungen zum effektiven Planen eines Projekts in Workfront. &#x200B; Es wird betont, wie wichtig es ist, eine solide Grundlage zu schaffen, um sicherzustellen, dass das Projekt pünktlich abgeschlossen wird und erfolgreich ist. &#x200B; wichtigsten Schritte sind das Verständnis von fünf kritischen Feldern: Aufgaben, Zuweisungen, Dauer, geplante Stunden und Vorgänger. &#x200B; Diese Felder ermöglichen eine schnelle und präzise Anpassung des Projektplans. &#x200B;
+Das Video bietet Anleitungen zum effektiven Planen eines Projekts in Workfront. &#x200B; Es wird betont, wie wichtig es ist, eine solide Grundlage zu schaffen, um sicherzustellen, dass das Projekt pünktlich abgeschlossen wird und erfolgreich ist. &#x200B; wichtigsten Schritte sind das Verständnis von fünf kritischen Feldern: Aufgaben, Zuweisungen, Dauer, geplante Stunden und Vorgänger. &#x200B; Diese Felder ermöglichen schnelle und präzise Anpassungen am Projektplan. &#x200B;
 
-Das Video hebt die Bedeutung realistischer Zeitpläne, der Verfügbarkeit von Teams und einer präzisen Planung hervor, um eine solide Grundlage für den Projekterfolg zu schaffen. &#x200B;
+In diesem Video liegt der Schwerpunkt auf der Bedeutung realistischer Timelines, der Verfügbarkeit von Teams und einer präzisen Planung, um eine solide Grundlage für den Projekterfolg zu schaffen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448576/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
-* **Konzentrieren Sie sich auf fünf Schlüsselfelder:** Verstehen Sie Aufgaben, Zuweisungen, Dauer, geplante Stunden und Vorgänger, um effiziente und genaue Änderungen an Ihrem Projektplan vorzunehmen. &#x200B;
-* **Projektstatus auf „Planung“ festlegen** Stellen Sie sicher, dass der Projektstatus auf „Planung“ festgelegt ist, um unnötige Benachrichtigungen bei der Anpassung des Plans zu vermeiden. &#x200B;
-* **Verwenden geeigneter Ansichten:** Verwenden Sie die Standardansicht oder die benutzerdefinierten Ansichten, um sich auf wesentliche Projektdetails wie Aufgaben, Dauer und Zuweisungen zu konzentrieren. &#x200B;
-* **Realistisches Startdatum auswählen:** Legen Sie ein praktisches Startdatum fest, das der Teamverfügbarkeit entspricht und unrealistische Szenarien wie Feiertage oder Wochenenden vermeidet. &#x200B;
-* **Nutzen von Planungsmodi:** Verwenden Sie den Modus „Startdatum“, um das Abschlussdatum zu berechnen, oder den Modus „Abschlussdatum“, um das Startdatum zu berechnen und sicherzustellen, dass die Timeline den Projektanforderungen entspricht. &#x200B;
+* **Schwerpunktlegung auf fünf Schlüsselfelder:** Informieren Sie sich über Aufgaben, Arbeitsaufträge, Laufzeiten, geplante Stunden und Vorgänger, um effiziente und genaue Änderungen an Ihrem Projektplan vorzunehmen.
+* **Festlegen des Projektstatus auf „Planung“:** Stellen Sie sicher, dass der Projektstatus auf „Planung“ festgelegt ist, um unnötige Benachrichtigungen bei jedem Anpassen des Plans zu vermeiden.
+* **Verwenden geeigneter Ansichten:** Verwenden Sie die Standardansicht oder benutzerdefinierte Ansichten, um sich auf wesentliche Projektdetails wie Aufgaben, Laufzeiten und Arbeitsaufträge zu konzentrieren.
+* **Auswählen eines realistischen Startdatums:** Legen Sie ein umsetzbares Startdatum fest, das auf die Verfügbarkeit des Teams ausgerichtet ist und bei dem unrealistische Szenarien wie Feiertage oder Wochenenden vermieden werden.
+* **Verwenden von Planungsmodi:** Verwenden Sie den Modus „Startdatum“, um das Fertigstellungsdatum zu berechnen, oder den Modus „Fertigstellungsdatum“, um das Startdatum zu berechnen und sicherzustellen, dass die Timeline auf die Projektanforderungen ausgerichtet ist.
 
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erstellen von Aufgaben](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Arbeiten mit Aufgaben](/help/manage-work/tasks/work-with-tasks.md)
+* [Effizientes Erstellen von Aufgaben in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Effizientes Aufgabenmanagement in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Grundlegendes zu Aufgabenlaufzeiten](/help/manage-work/tasks/understand-task-durations.md)
-* [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Effektives Sequenzieren von Aufgaben in Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
-* [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)
+* [Geschätzte Aufgabenstunden mit Work Effort](/help/manage-work/tasks/understand-work-effort.md)

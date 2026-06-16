@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:39:31.882Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 272
-ht-degree: 17%
+source-wordcount: 227
+ht-degree: 67%
 
 ---
 
@@ -36,24 +36,24 @@ ht-degree: 17%
 
 In diesem Video wird der Anfragefluss in Workfront erläutert, wobei der Schwerpunkt auf Warteschlangenverwaltung, Routing-Regeln, Themengruppen und Warteschlangenthemen liegt. &#x200B; Er betont, wie wichtig es ist, die Anfrage-Warteschlange zu organisieren, indem drei Schlüsselfragen beantwortet werden:
 
-1. **Welche Themen benötige ich?** &#x200B; : Hierbei handelt es sich um Warteschlangenthemen, die gesendete Anfragen kategorisieren, sodass sie einfacher verwaltet und angepasst werden können. &#x200B;
-1. **Kann ich meine Themen weiter organisieren?** &#x200B; - Themengruppen helfen, verwandte Warteschlangenthemen zu gruppieren, um die Organisation zu verbessern (z. B. Broschüren, Visitenkarten und Reklametafeln unter „Drucken„). &#x200B;
-1. **Wem soll die Anfrage zugewiesen werden?** &#x200B; - Routing-Regeln leiten automatisch Übermittlungen an bestimmte Teams, Rollen oder Benutzer weiter, sodass Anfragen nicht unbemerkt bleiben. &#x200B;
+1. **Welche Themen benötige ich?** &#x200B; - Hierbei handelt es sich um Warteschlangenthemen, die gesendete Anfragen kategorisieren, wodurch ihre Verwaltung und Anpassung vereinfacht wird. &#x200B;
+1. **Kann ich meine Themen weiter organisieren?** &#x200B; - Themengruppen helfen, verwandte Warteschlangenthemen für eine bessere Organisation zu gruppieren (z.B. Broschüren, Visitenkarten und Plakatwände unter „Drucken„). &#x200B;
+1. **Wem soll die Anfrage zugewiesen werden?** &#x200B; - Routing-Regeln leiten automatisch Übermittlungen an bestimmte Teams, Rollen oder Benutzer weiter, um sicherzustellen, dass Anfragen nicht unbemerkt bleiben. &#x200B;
 
-Durch die Beantwortung dieser Fragen können Anwender ihre Anfrage-Warteschlange in Workfront effektiv planen und konfigurieren. &#x200B;
+Indem sie sich um diese Fragen kümmern, können Benutzende ihre Anfrage-Warteschlange in Workfront effektiv planen und konfigurieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441914/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
-* **Warteschlangenthemen** Definieren und organisieren Sie verschiedene Anforderungstypen in Warteschlangenthemen, um die Kategorisierung und Anpassung zu optimieren. &#x200B;
-* **Themengruppen:** Verwenden Sie Themengruppen, um Warteschlangenthemen weiter zu organisieren, sodass zugehörige Anfragen leichter gefunden werden können (z. B. Gruppierung der Kategorien „Drucken“ und „Digitales„). &#x200B;
-* **Routing-Regeln:** Richten Sie Routing-Regeln ein, um Anfragen automatisch bestimmten Teams, Rollen oder Benutzern zuzuweisen, sodass Übermittlungen nicht übersehen werden. &#x200B;
-* **Planung ist unverzichtbar:** Sie die Anforderungen Ihrer Anfrage-Warteschlange vor dem Aufbau, um eine effiziente Verwaltung zu gewährleisten. &#x200B;
-* **Vermeiden Sie unbemerkte Anfragen** Ohne Routing-Regeln können Übermittlungen auf der Registerkarte „Probleme“ verbleiben und unbemerkt bleiben, es sei denn, sie werden regelmäßig manuell überprüft. &#x200B;
+* **Warteschlangenthemen:** Definieren und organisieren Sie verschiedene Anfragetypen in Warteschlangenthemen, um die Kategorisierung und Anpassung zu optimieren.
+* **Themengruppen:** Verwenden Sie Themengruppen, um Warteschlangenthemen weiter zu organisieren, sodass zugehörige Anfragen leichter gefunden werden können (z. B. Gruppierung der Kategorien „Drucken“ und „Digital“).
+* **Routing-Regeln:** Richten Sie Routing-Regeln ein, um Anfragen automatisch bestimmten Teams, Rollen oder Benutzenden zuzuweisen, sodass Übermittlungen nicht übersehen werden.
+* **Planung ist unverzichtbar:** Organisieren Sie die Anforderungen Ihrer Anfrage-Warteschlange, bevor Sie sie erstellen, um ein effizientes Management zu gewährleisten.
+* **Vermeiden Sie unbemerkte Anfragen:** Ohne Routing-Regeln können Übermittlungen auf der Registerkarte „Probleme“ verbleiben und unbemerkt bleiben, sofern diese nicht regelmäßig manuell überprüft wird.
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erstellen einer Anfrage-Warteschlange](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Erstellen eines Anfrageflusses](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Erstellen einer Anfrage-Warteschlange in Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+* [Erstellen eines Anfrageflusses in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Erstellen einer Feedback-Anfrage-Warteschlange für Systemadmins](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)

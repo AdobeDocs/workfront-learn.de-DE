@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 75%
+source-wordcount: 204
+ht-degree: 90%
 
 ---
 
@@ -35,17 +35,17 @@ Das Video enthält eine Anleitung zum Erstellen von Aufgaben in einem Workfront-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423157/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
 * **Methoden zur Aufgabenerstellung:** Verwenden Sie die Schaltfläche „Neue Aufgabe“ für eine detaillierte Aufgabenerstellung oder die Schaltfläche „Weitere Aufgaben hinzufügen“ für eine schnelle Inline-Bearbeitung.
-* **Erforderliche Felder:** &#x200B;Nur der Aufgabenname ist obligatorisch. Andere Felder wie Beschreibung, Dauer und Zuweisungen sind optional und können später hinzugefügt werden. &#x200B;
+* **Erforderliche Felder:** Nur der Aufgabenname ist obligatorisch. Andere Felder wie „Beschreibung“, „Dauer“ und „Arbeitsaufträge“ sind optional und können später hinzugefügt werden.
 * **Neupositionieren von Aufgaben** Aufgaben werden am Ende der Liste hinzugefügt, können jedoch durch Ziehen oder Verwenden der Option „Ausrücken“ neu positioniert werden, um die Hierarchie anzupassen.
-* **Benutzerdefinierte Ansichten:** Sie können verschiedene Ansichten auswählen, um beim Hinzufügen von Aufgaben zusätzliche Felder wie Beschreibungen einzuschließen. &#x200B;
+* **Benutzerdefinierte Ansichten:** Sie können verschiedene Ansichten auswählen, um beim Hinzufügen von Aufgaben zusätzliche Felder wie Beschreibungen einzuschließen.
 * **Einfügen von Aufgaben an bestimmten Positionen:** Wenn Sie mit der rechten Maustaste zwischen vorhandene Aufgaben klicken, haben Sie die Option „Aufgabe unten einfügen“, um eine neue Aufgabe an einer bestimmten Position zu platzieren.
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Grundlegendes zu über- und untergeordneten Aufgaben](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Arbeiten mit Aufgaben](/help/manage-work/tasks/work-with-tasks.md)
+* [Beziehungen zwischen übergeordneten und untergeordneten Aufgaben verstehen](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Effizientes Aufgabenmanagement in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

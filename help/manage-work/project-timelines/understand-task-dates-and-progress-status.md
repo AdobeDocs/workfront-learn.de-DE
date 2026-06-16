@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:49:07.603Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 121
-ht-degree: 100%
+source-wordcount: 123
+ht-degree: 84%
 
 ---
 
@@ -47,7 +47,7 @@ In diesem Video lernen Sie Folgendes:
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Grundlegendes zu Projekt-Timelines](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Verfolgen des Fortschritts über die Projekt-Timeline](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
-* [Verstehen und Verwalten von Dauerarten und Aufgabenbeschränkungen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [Erkunden von Projektzeitleisten in Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Verfolgen Sie den Fortschritt mit den Statuswerten „Prozent abgeschlossen“ und „Fortschritt“](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Master-Dauertypen und Aufgabenbeschränkungen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 

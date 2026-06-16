@@ -11,10 +11,11 @@ last-substantial-update: 2026-2-12
 recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+exl-id: 5f1620a2-a8a1-4f62-8038-86f4f6fc05d6
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 24%
+ht-degree: 45%
 
 ---
 
@@ -25,7 +26,7 @@ Erfahren Sie, wie ein Administrator eine Blueprint installiert und wie sie von e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479844/?captions=ger&quality=12&learn=on&enablevpops=0)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
 * Auswählen eines Blueprints und Bestimmen, ob er bereits installiert wurde. Dies kann von den meisten Benutzern mit einer Standardlizenz durchgeführt werden.
 * Installieren eines Blueprints und Freigeben der von ihm erstellten Objekte. Dies erfordert die Dienste eines Systemadministrators.
@@ -34,9 +35,9 @@ Erfahren Sie, wie ein Administrator eine Blueprint installiert und wie sie von e
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erstellen einer Projektvorlage und Informationen über Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Erstellen einer Projektvorlage und Erkunden von Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [Erstellen eines Projekts direkt aus einer Vorlage](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Freigeben einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Kopieren eines bestehenden Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Effektives Freigeben von Projektvorlagen](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Effizientes Kopieren eines vorhandenen Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Bearbeiten des Projekt-Teams in einer Vorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
