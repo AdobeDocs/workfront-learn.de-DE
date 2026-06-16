@@ -36,7 +36,7 @@ ht-degree: 69%
 
 In diesem Video werden das Konzept der Anfrage-Warteschlangen in Workfront, ihr Zweck und die Art und Weise, wie Anfragen gesendet und verwaltet werden, erläutert. &#x200B; Anfrage-Warteschlangen dienen als zentraler Ort für die Übermittlung verschiedener Arten von Anfragen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447019/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

@@ -38,7 +38,7 @@ Das Video zeigt, wie Vorgänger für neue Aufgaben festgelegt werden, um eine se
 &#x200B;Er betont, wie wichtig es ist, mit den Vorgängern zu üben, um deren Auswirkungen auf die Projektzeitpläne zu verstehen, und empfiehlt die Verwendung von Laufzeiten und Vorgängern für eine effiziente Projektplanung.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447329/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

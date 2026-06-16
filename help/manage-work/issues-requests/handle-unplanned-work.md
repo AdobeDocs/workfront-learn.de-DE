@@ -35,7 +35,7 @@ ht-degree: 60%
 In dem Video wird die Bedeutung der Kommunikation im Projektmanagement hervorgehoben und die Rolle von Themen als Schlüsselinstrument zur Erleichterung der Kommunikation hervorgehoben. &#x200B; wird der Unterschied zwischen Aktualisierungen und Problemen erläutert und darauf hingewiesen, dass Probleme besser für Aufgaben geeignet sind, die zugewiesen, verfolgt und gelöst werden müssen, bevor ein Projekt abgeschlossen werden kann. &#x200B; Das Video enthält eine schrittweise Anleitung zum Protokollieren von Problemen. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446575/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

@@ -38,7 +38,7 @@ Workfront empfiehlt die Verwendung von Dauer und Vorgängern zum Erstellen von A
 &#x200B;Präzise Laufzeiten sind entscheidend für eine effektive Projektplanung und Ressourcenmanagement.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449352/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

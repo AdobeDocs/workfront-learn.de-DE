@@ -34,7 +34,7 @@ ht-degree: 49%
 
 In diesem Video wird die Funktion „Board View“ in Workfront erläutert, die eine alternative Möglichkeit zum Anzeigen und Verwalten von Projektaufgaben bietet. &#x200B; In der Pinnwand-Ansicht werden Aufgaben als Karten auf einer Pinnwand im Kanban-Stil angezeigt, sodass Benutzende Aufgaben innerhalb oder zwischen Spalten sortieren, gruppieren und verschieben können. &#x200B; Verschieben einer Aufgabe aktualisiert ihren Status automatisch, was in der Aufgabenlistenansicht angezeigt wird. &#x200B; Benutzer können neue Karten erstellen, die neue Aufgaben im Projekt generieren, und sie direkt in der Pinnwand-Ansicht bearbeiten oder zuweisen. &#x200B; können Spalten und Karten konfiguriert und Aufgaben können mithilfe von Vorgängern in der Aufgabenlistenansicht sequenziert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423278/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

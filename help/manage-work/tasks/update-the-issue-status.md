@@ -31,7 +31,7 @@ ht-degree: 50%
 
 In diesem Video erfahren Sie mehr über Problemstatus und Best Practices für deren Verwendung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3472974/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

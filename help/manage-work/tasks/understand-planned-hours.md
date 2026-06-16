@@ -38,7 +38,7 @@ Geplante Stunden sind für das Ressourcenmanagement in Workfront von entscheiden
 Sie helfen auch dabei, die für Aufgaben aufgewendete Zeit zu verfolgen, zukünftige Schätzungen zu verbessern und die Erwartungen mit den Mitarbeitern zu klären.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445342/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 
 ## Die wichtigsten Punkte

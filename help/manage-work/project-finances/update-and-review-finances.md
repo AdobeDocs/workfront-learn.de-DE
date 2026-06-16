@@ -58,7 +58,7 @@ Workfront verfolgt fakturierbare Elemente, führt jedoch nicht die tatsächliche
 
 In diesem Video wird die Bedeutung einer ordnungsgemäßen Einrichtung und Verfolgung hervorgehoben, um die Abrechnungsprozesse für Kundinnen und Kunden zu optimieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486197/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 

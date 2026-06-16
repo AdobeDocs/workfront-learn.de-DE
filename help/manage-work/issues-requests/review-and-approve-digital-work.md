@@ -42,7 +42,7 @@ In diesem Video wird erläutert, wie Sie digitale Arbeiten mit dem Widget „War
 
 Im Video wird der Schwerpunkt auf die Flexibilität bei der Überprüfung und Genehmigung von Arbeiten gelegt und hervorgehoben, dass Optionen zum Hinzufügen von Kommentaren und ggf. zum Festlegen von Änderungen verfügbar sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444955/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 
