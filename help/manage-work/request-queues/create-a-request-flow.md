@@ -13,22 +13,16 @@ last-substantial-update: '2024-09-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:59.860Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 400
-ht-degree: 29%
+source-wordcount: 273
+ht-degree: 31%
 
 ---
 
@@ -36,14 +30,14 @@ ht-degree: 29%
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer Anfrage-Warteschlange](/help/manage-work/request-queues/create-a-request-queue.md)
->* [Grundlegendes zu den Einstellungen für einen Anfragefluss](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [Erstellen einer Anfrage-Warteschlange in Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+>* [Einstellungen für Anforderungsflüsse organisieren](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 Dieses Video enthält eine schrittweise Anleitung zum Erstellen eines Anfrageflusses durch Konfigurieren von Warteschlangenthemen, Themengruppen und Routing-Regeln. &#x200B; Der Prozess beginnt mit der Erstellung von Routing-Regeln, die definieren, wie Anfragen zugewiesen werden. &#x200B; werden Themengruppen erstellt, um Anfragen zu organisieren. &#x200B; Diese Gruppen können zu Warteschlangen hinzugefügt werden, und die Anzahl der Themengruppen, die erstellt werden können, ist unbegrenzt.
-Das Video zeigt dann, wie Sie Warteschlangenthemen erstellen, die mit Routing-Regeln, Themengruppen, benutzerdefinierten Formularen, Genehmigungsprozessen und einer Standarddauer verknüpft sind.
+Das Video zeigt dann, wie Sie Warteschlangenthemen erstellen, die mit Routingregeln, Themengruppen, benutzerdefinierten Formularen, Genehmigungsprozessen und Standarddauern verknüpft sind.
 Schließlich wird im Video gezeigt, wie Sie das Setup testen, indem Sie eine Anfrage senden, um sicherzustellen, dass es korrekt weitergeleitet wird. &#x200B; Probleme auftreten, können Anpassungen an der Warteschlange vorgenommen werden. &#x200B; Im Video wird hervorgehoben, wie wichtig es ist, die Struktur und Funktionalität des Anfrageflusses zu überprüfen, um ein ordnungsgemäßes Routing und eine ordnungsgemäße Organisation sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433831/?captions=ger&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Wichtige Schlussfolgerungen
 

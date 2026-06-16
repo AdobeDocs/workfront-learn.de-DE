@@ -12,21 +12,16 @@ last-substantial-update: '2024-02-13T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:17.788Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 295
-ht-degree: 17%
+source-wordcount: 291
+ht-degree: 49%
 
 ---
 
@@ -34,20 +29,20 @@ ht-degree: 17%
 
 In diesem Video wird die Funktion „Board View“ in Workfront erläutert, die eine alternative Möglichkeit zum Anzeigen und Verwalten von Projektaufgaben bietet. &#x200B; In der Pinnwand-Ansicht werden Aufgaben als Karten auf einer Pinnwand im Kanban-Stil angezeigt, sodass Benutzende Aufgaben innerhalb oder zwischen Spalten sortieren, gruppieren und verschieben können. &#x200B; Verschieben einer Aufgabe aktualisiert ihren Status automatisch, was in der Aufgabenlistenansicht angezeigt wird. &#x200B; Benutzer können neue Karten erstellen, die neue Aufgaben im Projekt generieren, und sie direkt in der Pinnwand-Ansicht bearbeiten oder zuweisen. &#x200B; können Spalten und Karten konfiguriert und Aufgaben können mithilfe von Vorgängern in der Aufgabenlistenansicht sequenziert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423278/?captions=ger&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
-* **Board-Ansicht - Übersicht:** Die Board-Ansicht in Workfront bietet eine Kanban-ähnliche Oberfläche zum Anzeigen und Verwalten von Projektaufgaben, die eine Alternative zur herkömmlichen Task-Listenansicht bietet. &#x200B;
-* **Aufgabenverwaltung:** Aufgaben können innerhalb von Spalten oder zwischen Spalten sortiert, gruppiert und verschoben werden, wobei Statusaktualisierungen beim Verschieben von Aufgaben automatisch angewendet werden. &#x200B;
+* **Überblick über die Pinnwandansicht:** Die Pinnwandansicht in Workfront bietet eine Kanban-ähnliche Benutzeroberfläche zum Anzeigen und Verwalten von Projektaufgaben, die eine Alternative zur herkömmlichen Aufgabenlistenansicht darstellt.
+* **Aufgaben-Management:** Aufgaben können sortiert, gruppiert und innerhalb oder zwischen Spalten verschoben werden. Statusaktualisierungen werden dabei beim Verschieben von Aufgaben automatisch angewendet.
 * **Aufgabenerstellung:** neue Karten können direkt in der Pinnwand-Ansicht erstellt werden, wodurch neue Aufgaben im Projekt erstellt werden. &#x200B; Diese Aufgaben können sofort bearbeitet und zugewiesen werden. &#x200B;
-* **Anpassung:** Spalten und Karten in der Pinnwand-Ansicht können entsprechend den Projektanforderungen konfiguriert werden, was die Flexibilität bei der Aufgabenorganisation erhöht. &#x200B;
-* **Integration mit Aufgabenliste:** Änderungen, die in der Pinnwand-Ansicht vorgenommen wurden, wie z. B. Aufgabenstatusaktualisierungen oder die Erstellung neuer Aufgaben, werden in der Aufgabenlistenansicht angezeigt, um eine nahtlose Integration zwischen Ansichten sicherzustellen. &#x200B;
+* **Anpassungen:** Die Spalten und Karten in der Pinnwandansicht können entsprechend den Projektanforderungen konfiguriert werden, was die Flexibilität bei der Aufgabenorganisation erhöht.
+* **Integration mit der Aufgabenliste:** In der Pinnwandansicht vorgenommene Änderungen, wie z. B. Aktualisierungen des Aufgabenstatus oder die Erstellung neuer Aufgaben, werden in der Aufgabenlistenansicht angezeigt, wodurch eine nahtlose Integration zwischen den Ansichten gewährleistet wird.
 
 
 ## Empfohlene Tutorials zu diesem Thema
 
-* [Erste Schritte beim Projekt-Management](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Nachverfolgen des allgemeinen Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
+* [Projekt mit aktuellem Status verwalten](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Nachverfolgen des gesamten Projektfortschritts](/help/manage-work/projects/track-overall-project-progress.md)
 * [Tracking des Arbeitsfortschritts mit Projektmetriken](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Grundlegendes zur [!UICONTROL Gantt]-Ansicht](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Gantt-Ansicht für das Projekt-Management](/help/manage-work/projects/understand-the-gantt-view.md)

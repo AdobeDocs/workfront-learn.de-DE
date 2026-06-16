@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 76%
+source-wordcount: 373
+ht-degree: 84%
 
 ---
 
@@ -35,8 +30,8 @@ ht-degree: 76%
 
 >[!PREREQUISITES]
 >
->* [Erstellen einer Anfrage-Warteschlange](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=de)
->* [Erstellen eines Anfrageflusses](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=de)
+>* [Erstellen einer Anfrage-Warteschlange in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=de)
+>* [Erstellen eines Anfrageflusses in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=de)
 >* Oder Sie können bereits eine Anfrage-Warteschlange erstellen, die eine Routing-Regel und ein benutzerdefiniertes Formular verwendet.
 
 Das Video enthält eine schrittweise Anleitung zum Erstellen einer Feedback-Anfragewarteschlange für Systemadministratoren.
@@ -58,7 +53,7 @@ Das Video betont die Wichtigkeit der Benutzerbeteiligung und Transparenz bei der
 
 Informationen zum Erstellen des **Feedback-Berichts für das Admin-Team**, der im Video verwendet wird, finden Sie in der Aktivität **Erstellen eines Feedback-Berichts für das Admin-Team** im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
-Wie Sie ein benutzerdefiniertes Formular erstellen, erfahren Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=de&land=de).
+Wie Sie ein benutzerdefiniertes Formular erstellen, erfahren Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?land=de).
 
 ## Empfohlene Tutorials zu diesem Thema
 
