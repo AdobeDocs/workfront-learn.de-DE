@@ -38,7 +38,7 @@ Für Genehmigungen können Benutzer sie über das Widget „Warten auf meine Gen
 Delegierte Genehmigungen werden im System gekennzeichnet und geben an, wer sie an wen delegiert hat. &#x200B; Aktualisierungen im Zusammenhang mit Genehmigungen werden auf der Registerkarte Aktualisieren angezeigt, und die Systemaktivität kann auf der Registerkarte Systemaktivität eingesehen werden. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446385/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
