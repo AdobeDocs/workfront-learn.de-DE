@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 251
 ht-degree: 98%
@@ -50,3 +50,4 @@ In diesem Video lernen Sie Folgendes:
 >[!VIDEO](https://video.tv.adobe.com/v/3422835/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 Erfahren Sie, wie Sie **projektübergreifende Vorgänger und Nachfolger** erstellen und den Bericht **Projektübergreifende Vorgänger und Nachfolger** anzeigen, der im Video verwendet wird. Sehen Sie sich gegebenenfalls das Tutorial [Grundlegendes zum einfachen Textmodus für Ansichten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=de) an und stellen Sie sicher, dass Sie die vorausgesetzten Tutorials absolviert haben, die dort aufgeführt sind.
+

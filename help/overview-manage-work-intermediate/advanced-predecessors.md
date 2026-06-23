@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 159
 ht-degree: 96%
@@ -55,3 +55,4 @@ Weitere Informationen zur Verwendung von Vorgängern finden Sie unter [Verwenden
 Weitere Informationen über Aufgabenbeschränkungen finden Sie unter [Verstehen und Verwalten von Dauertypen und Aufgabenbegrenzungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=de).
 
 Weitere Informationen zu projektübergreifenden Vorgängern finden Sie unter [Verstehen projektübergreifender Vorgänger](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=de).
+

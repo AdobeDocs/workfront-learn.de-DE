@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:14:15.199Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 163
 ht-degree: 12%
@@ -56,3 +56,4 @@ Die ersten Dinge, die Sie tun müssen, bevor Sie ein Arbeitsflächen-Dashboard (
 * [Erstellen eines Diagrammberichts auf einem Arbeitsflächen-Dashboard](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [Hinzufügen bedingter Formatierung zu einem Canvas-Dashboard-Bericht](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 * [Anwenden eines OR-Filters in einem Canvas-Dashboard-Bericht](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+
