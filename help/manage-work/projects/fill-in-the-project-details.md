@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:36.241Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 36%
+source-wordcount: 221
+ht-degree: 33%
 
 ---
 
@@ -37,10 +37,10 @@ In diesem Video erfahren Sie mehr über die gängigsten Projekteinstellungen, di
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Beschreibende Projektnamen verwenden** Vermeiden Sie Verwirrung, indem Sie Projekte anstelle von generischen Titeln beschreibend benennen. &#x200B; die Organisation von Projekten in Portfolios und Programmen verbessert die Berichterstellung und Konsistenz. &#x200B;
-* **Projektstatus festlegen:** beim Erstellen eines Projekts mit dem Status „Planung“ beginnen und bei der Live-Schaltung des Projekts auf „Aktuell“ wechseln. &#x200B; Nicht „aktuelle“ Status pausieren Benachrichtigungen, sodass eine Neuplanung ohne Unterbrechungen möglich ist. &#x200B;
+* **Beschreibende Projektnamen verwenden** Vermeiden Sie Verwirrung, indem Sie Projekte anstelle von generischen Titeln beschreibend benennen. &#x200B; die Organisation von Projekten in Portfolios und Programmen verbessert die Berichterstellung und Konsistenz. 
+* **Projektstatus festlegen:** beim Erstellen eines Projekts mit dem Status „Planung“ beginnen und bei der Live-Schaltung des Projekts auf „Aktuell“ wechseln. &#x200B; nicht „aktuelle“ Status pausieren Benachrichtigungen, sodass eine Neuplanung ohne Unterbrechungen möglich ist. 
 * **Nutzen von Vorlagen und benutzerdefinierter Forms:** Verwenden Sie Projektvorlagen für Konsistenz und benutzerdefinierte Formulare, um eindeutige Projektdaten zu speichern. &#x200B; Diese Tools vereinfachen die Einrichtung und stellen sicher, dass wichtige Informationen erfasst werden.
 * **Ressourcenpools und Zeitpläne verwenden:** Ressourcenpools Projekten für ein effektives Ressourcenmanagement zuweisen und den richtigen Zeitplan anwenden, um Arbeitstage, Stunden und Feiertage widerzuspiegeln. &#x200B; Dies gewährleistet eine reibungslose Projektausführung und Ressourcenzuweisung.
 
@@ -53,3 +53,4 @@ In diesem Video erfahren Sie mehr über die gängigsten Projekteinstellungen, di
 * [Vier Methoden zum Erstellen eines Projekts](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Effektives Planen eines Projekts in Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [Bearbeiten von Projekten](https://experienceleague.adobe.com/de/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+

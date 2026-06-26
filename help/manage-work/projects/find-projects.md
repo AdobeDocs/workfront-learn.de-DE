@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:13.116Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 162
-ht-degree: 69%
+source-wordcount: 175
+ht-degree: 28%
 
 ---
 
@@ -37,13 +37,13 @@ In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte suchen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439557/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Filter und Suchoptionen:** Verwenden Sie Filter und Such-Tools, einschließlich der erweiterten Suche, um bestimmte Projekte schnell anhand von Namen, Beschreibungen oder benutzerdefinierten Datenfeldern zu finden.
-* **Liste „Letzte“:** Zuletzt angezeigte Projekte werden automatisch in der Liste „Letzte“ angezeigt. Dort können bis zu 20 Projekte für den Schnellzugriff angezeigt werden.
-* **Favoriten** Markieren Sie Projekte als Favoriten, indem Sie auf das Sternsymbol klicken. &#x200B; Favoriten bleiben bis zum manuellen Entfernen verfügbar und eignen sich daher ideal für häufig aufgerufene Projekte. &#x200B;
+* **Filter und Suchoptionen:** Verwenden Sie Filter und Suchwerkzeuge, einschließlich der erweiterten Suche, um bestimmte Projekte schnell anhand von Namen, Beschreibungen oder benutzerdefinierten Datenfeldern zu finden. &#x200B;
+* **Liste Zuletzt angezeigt** Zuletzt angezeigte Projekte werden automatisch in der Liste Zuletzt angezeigt. Dort können bis zu 20 Projekte für den Schnellzugriff angezeigt werden. &#x200B;
+* **Favoriten** Markieren Sie Projekte als Favoriten, indem Sie auf das Sternsymbol klicken. &#x200B; Favoriten bleiben verfügbar, bis sie manuell entfernt werden, was sie ideal für häufig aufgerufene Projekte macht. 
 * **Projekte anheften** Projekte anheften, um sie leicht zugänglich zu machen. &#x200B; angehefteten Projekte bleiben sichtbar, bis Sie sie entfernen.
-* **Benutzerdefinierte Berichte und Dashboards:** Erstellen Sie benutzerdefinierte Berichte und Dashboards, um alle relevanten Projekte effizient zu organisieren und darauf zuzugreifen.
+* **Benutzerdefinierte Berichte und Dashboards:** Erstellen Sie benutzerdefinierte Berichte und Dashboards, um alle relevanten Projekte effizient zu organisieren und darauf zuzugreifen. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema
@@ -52,3 +52,4 @@ In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte suchen.
 * [Effektive Projektfreigabe in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Grundlegendes zum Projekt-Team](/help/manage-work/projects/understand-the-project-team.md)
 * [Steigerung des Projekterfolgs durch effektive Kommunikation](/help/manage-work/projects/understand-project-communication.md)
+

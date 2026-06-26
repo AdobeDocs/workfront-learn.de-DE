@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:40.935Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 355
-ht-degree: 60%
+source-wordcount: 372
+ht-degree: 28%
 
 ---
 
@@ -40,17 +40,17 @@ In diesem Video wird erläutert, wie Sie digitale Arbeiten mit dem Widget „War
 * **Korrekturabzug-Genehmigung:** Navigieren Sie zum Korrekturabzug, um ihn zu überprüfen und spezifische Kommentare hinzuzufügen. &#x200B; Genehmigungsoptionen umfassen „Genehmigen“, „Mit Änderungen genehmigt“, „Änderungen erforderlich“ oder „Nicht relevant“.
 * **Dokumentgenehmigung:** Dokumente ohne Korrekturabzüge können weiterhin genehmigt oder abgelehnt werden. &#x200B; Wenn Änderungen erforderlich sind, beschreiben Sie diese in einem Kommentar, ähnlich wie „Mit Änderungen genehmigt“ in der Korrekturabzugsgenehmigung.
 
-Im Video wird der Schwerpunkt auf die Flexibilität bei der Überprüfung und Genehmigung von Arbeiten gelegt und hervorgehoben, dass Optionen zum Hinzufügen von Kommentaren und ggf. zum Festlegen von Änderungen verfügbar sind.
+Das Video betont die Flexibilität bei der Überprüfung und Genehmigung von Arbeiten mit Optionen zum Hinzufügen von Kommentaren und zum Angeben von Änderungen nach Bedarf. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444955/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Zentrales Genehmigungs-Management:** Über das Widget „Warten auf Genehmigung“ im Bereich „Startseite“ können Sie auf alle Elemente zugreifen, die noch genehmigt werden müssen.
-* **Flexible Überprüfungsoptionen:** Sie können Aufgaben im Bereich „Startseite“ direkt genehmigen oder ablehnen oder auf den Elementnamen klicken, um die zugehörigen Details zu überprüfen, bevor Sie eine Entscheidung treffen.
-* **Kommentaroptionen:** Hinzufügen von Kommentaren ist optional, wird aber aus Gründen der Klarheit empfohlen. &#x200B; Genehmigungen, die im Bereich Startseite erteilt wurden, werden zur Eingabe von Kommentaren aufgefordert, während Genehmigungen, die im Bereich Startseite erteilt wurden, nicht &#x200B;.
-* **Details zu Korrekturabzugs-Genehmigungen:** Genehmigungen von Korrekturabzügen bieten mehrere Optionen, darunter „Mit Änderungen genehmigt“, „Erforderliche Änderungen“ und „Nicht relevant“. Dies ermöglicht detailliertes Feedback.
-* **Umgang mit Änderungen:** Bei Dokumenten oder Korrekturabzügen, für die Änderungen erforderlich sind, können Sie die Änderungen in Kommentaren angeben und so eine klare Kommunikation bei erneuten Übermittlungen oder Aktualisierungen sicherstellen.
+* **Zentrale Validierungsverwaltung:** Über das Widget „Warten auf meine Genehmigung“ im Bereich Startseite können Sie auf alle Elemente zugreifen, die auf Genehmigung warten. &#x200B;
+* **Flexible Überprüfungsoptionen** Sie können direkt im Bereich Startseite genehmigen oder ablehnen oder auf den Elementnamen klicken, um die Details zu überprüfen, bevor Sie eine Entscheidung treffen. &#x200B;
+* **Kommentaroptionen:** Hinzufügen von Kommentaren ist optional, wird aber aus Gründen der Klarheit empfohlen. &#x200B; Genehmigungen, die im Bereich Startseite erteilt wurden, werden zur Eingabe von Kommentaren aufgefordert, während dies bei Genehmigungen, die im Bereich Startseite erteilt wurden, nicht der Fall ist. 
+* **Besonderheiten der Korrekturabzugs-Genehmigung:** Genehmigungen von Korrekturabzügen bieten mehrere Optionen, einschließlich „Mit Änderungen genehmigt“, „Änderungen erforderlich“ und „Nicht relevant“, was ein detailliertes Feedback ermöglicht. &#x200B;
+* **Umgang mit Änderungen:** Bei Dokumenten oder Korrekturabzügen, die Änderungen erfordern, können Sie die Änderungen in Kommentaren angeben und so eine klare Kommunikation für die erneute Übermittlung oder Aktualisierung sicherstellen. &#x200B;
 
 
 >[!NOTE]
@@ -71,3 +71,4 @@ Guides
 Home overview for Reviewers
 Issue page overview
 -->
+

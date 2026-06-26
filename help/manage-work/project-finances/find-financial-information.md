@@ -24,16 +24,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 203
-ht-degree: 62%
+source-wordcount: 220
+ht-degree: 57%
 
 ---
 
 # Zugreifen auf und Verwalten von Finanzinformationen für Projekte und Aufgaben
 
-In diesem Video wird erläutert, wie Sie auf Finanzinformationen für Projekte und Aufgaben zugreifen und diese verwalten können. &#x200B;Es bietet einen umfassenden Überblick über die Navigation und das Verständnis von Finanzdaten sowohl auf Projekt- als auch auf Aufgabenebene. &#x200B;
+In diesem Video wird erläutert, wie Sie auf Finanzinformationen für Projekte und Aufgaben zugreifen und diese verwalten können. &#x200B;Es bietet einen umfassenden Überblick über die Navigation und das Verständnis von Finanzdaten sowohl auf Projekt- als auch auf Aufgabenebene. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
@@ -51,4 +51,5 @@ In diesem Video wird erläutert, wie Sie auf Finanzinformationen für Projekte u
 <!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
 * [Finanzen für Kundenprojekte aktualisieren](/help/manage-work/project-finances/update-and-review-finances.md)
 * [Anpassen der Abrechnungssätze für Aufgabengebiete](/help/manage-work/project-finances/multiple-billing-rates.md)
+
 

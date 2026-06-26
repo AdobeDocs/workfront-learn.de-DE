@@ -23,27 +23,27 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 223
-ht-degree: 60%
+source-wordcount: 266
+ht-degree: 13%
 
 ---
 
 # Effektives Management ungeplanter Arbeiten
 
-In dem Video wird die Bedeutung der Kommunikation im Projektmanagement hervorgehoben und die Rolle von Themen als Schlüsselinstrument zur Erleichterung der Kommunikation hervorgehoben. &#x200B; wird der Unterschied zwischen Aktualisierungen und Problemen erläutert und darauf hingewiesen, dass Probleme besser für Aufgaben geeignet sind, die zugewiesen, verfolgt und gelöst werden müssen, bevor ein Projekt abgeschlossen werden kann. &#x200B; Das Video enthält eine schrittweise Anleitung zum Protokollieren von Problemen. &#x200B;
+In dem Video wird die Bedeutung der Kommunikation im Projektmanagement hervorgehoben und die Rolle von Themen als Schlüsselinstrument zur Erleichterung der Kommunikation hervorgehoben. &#x200B; wird der Unterschied zwischen Aktualisierungen und Problemen erläutert und darauf hingewiesen, dass Probleme besser für Aufgaben geeignet sind, die zugewiesen, verfolgt und gelöst werden müssen, bevor ein Projekt abgeschlossen werden kann. &#x200B; Das Video enthält eine schrittweise Anleitung zum Protokollieren von Problemen. 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446575/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Probleme und Aktualisierungen:** Verwenden Sie Probleme bei Aufgaben, die vor Projektabschluss zugewiesen, nachverfolgt und gelöst werden müssen, da sie im Vergleich zu Aktualisierungen einfacher zu überwachen und zu organisieren sind.
+* **Probleme vs. Aktualisierungen:** Verwenden Sie Probleme für Aufgaben, die vor dem Abschluss des Projekts zugewiesen, verfolgt und gelöst werden müssen, da sie im Vergleich zu Aktualisierungen einfacher zu überwachen und zu organisieren sind. &#x200B;
 * **Probleme protokollieren:** Probleme können auf Aufgaben- oder Projektebene über die Registerkarte „PROBLEME“ protokolliert werden. &#x200B; können Prioritäten festgelegt und E-Mail-Benachrichtigungen für Zuweisungen und Aktualisierungen konfiguriert werden.
-* **Best Practices für das Problem-Management:** Überwachen Sie Probleme regelmäßig, erstellen Sie benutzerdefinierte Berichte, um die Effizienz zu steigern, und geben Sie klare Erklärungen für ungelöste Probleme, um wiederholte Fragen zu vermeiden und eine Historie zu erstellen.
-* **Fördern der Kommunikation:** Zeigen Sie in Ihren Antworten Dankbarkeit, um die Team-Mitglieder zu ermutigen, Probleme zu protokollieren und effektiv zu kommunizieren und so ein reibungsloseres Projekt-Management sicherzustellen.
-* **Konvertieren von Problemen in Aufgaben:** Probleme können in Aufgaben konvertiert und zur besseren Planung und Ausführung in die Projekt-Timeline integriert werden.
+* **Best Practices für das Problem-Management:** Probleme häufig überwachen, benutzerdefinierte Berichte zur Steigerung der Effizienz erstellen und klare Erklärungen für ungelöste Probleme liefern, um wiederholte Fragen zu vermeiden und einen historischen Datensatz zu erstellen. &#x200B;
+* **Kommunikation fördern:** Dankbarkeit bei den Antworten zeigen, um Teammitglieder zu ermutigen, Probleme zu protokollieren und effektiv zu kommunizieren, und so ein reibungsloseres Projektmanagement sicherzustellen. &#x200B;
+* **Probleme in Aufgaben konvertieren:** Probleme können in Aufgaben konvertiert und in die Projektzeitleiste integriert werden, um eine bessere Planung und Ausführung zu ermöglichen. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema
@@ -52,3 +52,4 @@ In dem Video wird die Bedeutung der Kommunikation im Projektmanagement hervorgeh
 * [Steigerung des Projekterfolgs durch effektive Kommunikation](/help/manage-work/projects/understand-project-communication.md)
 * [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Anfrage oder Anfrage in eine Aufgabe konvertieren](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+

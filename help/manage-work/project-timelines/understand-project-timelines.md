@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:54.364Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 643
-ht-degree: 80%
+source-wordcount: 700
+ht-degree: 74%
 
 ---
 
@@ -47,11 +47,11 @@ Was Sie lernen werden:
 
 ## Die wichtigsten Punkte
 
-* **Aufgabenverwaltung und -zuweisung** Übergeordnete Aufgaben gruppieren mehrere Unteraufgaben, die Aufgabengebieten und später Benutzern mit den erforderlichen Kenntnissen zugewiesen werden. &#x200B; Vorgänger geben sequenzielle Beziehungen an, während Aufgaben ohne Vorgänger parallel ausgeführt werden können. &#x200B;
-* **Gantt-Diagramm und Funktion „Kritischer Pfad“:** Das Gantt-Diagramm bietet eine visuelle Timeline des Projekts und die Funktion „Kritischer Pfad“ hebt Aufgaben hervor, die das Projekt bei Nichterfüllung verzögern könnten.
-* **Ansichten und Überwachung:** Verschiedene Ansichten in Workfront, z. B. die Standardansicht für „Planung“ und die Statusansicht für „Überwachung“, enthalten Flags für Fortschritt, Kommentare, Dokumente, Probleme, Genehmigungen, kritischen Pfad und Meilensteine. Auch kürzlich durchgeführte Aktivitäten können verfolgt werden. &#x200B;
-* **Planungsoptionen:** Projekte können ab einem Start- oder Abschlussdatum geplant werden. Workfront berechnet die entsprechenden Termine anhand der Aufgabendauer und der Vorgänger. &#x200B; Planung ab einem Startdatum wird für kritische Abschlussdaten empfohlen, um gewisse Zeit zu sparen. &#x200B;
-* **Aufgabenbeschränkungen:** Aufgabenbeschränkungen wie „so bald wie möglich“ und „so spät wie möglich“ wirken sich auf die Aufgabenplanung aus. &#x200B; Das Ändern des Zeitplanmodus nach der Projekterstellung kann sich auf Aufgabenbeschränkungen und geplante Termine auswirken. &#x200B; können benutzerdefinierte Ansichten erstellt werden, um Aufgabenbeschränkungen anzuzeigen. &#x200B;
+* **Aufgabenverwaltung und -zuweisung** Übergeordnete Aufgaben gruppieren mehrere Unteraufgaben, die Aufgabengebieten und später Benutzern mit den erforderlichen Kenntnissen zugewiesen werden. &#x200B; Vorgänger geben sequenzielle Beziehungen an, während Aufgaben ohne Vorgänger parallel ausgeführt werden können. 
+* **Gantt-Diagramm und Kritischer Pfad:** Das Gantt-Diagramm zeigt eine visuelle Zeitleiste des Projekts an, und die Funktion Kritischer Pfad zeigt Aufgaben auf, die das Projekt verzögern könnten, wenn sie verrutschen. &#x200B;
+* **Ansichten und Überwachung:** Verschiedene Ansichten in Workfront, z. B. die Standardansicht für die Planung und die Statusansicht für die Überwachung, enthalten Flags für Fortschritt, Kommentare, Dokumente, Probleme, Genehmigungen, kritische Pfade und Meilensteine. Auch kürzlich durchgeführte Aktivitäten können verfolgt werden. 
+* **Planungsoptionen:** Projekte können ab einem Start- oder Abschlussdatum geplant werden. Workfront berechnet die entsprechenden Termine anhand der Aufgabendauer und der Vorgänger. &#x200B; Planung ab einem Startdatum wird für kritische Abschlussdaten empfohlen, um gewisse Lücken zu schließen. 
+* **Aufgabenbeschränkungen:** Aufgabenbeschränkungen wie „so bald wie möglich“ und „so spät wie möglich“ wirken sich auf die Aufgabenplanung aus. &#x200B; Das Ändern des Zeitplanmodus nach der Projekterstellung kann sich auf Aufgabenbeschränkungen und geplante Termine auswirken. &#x200B; können benutzerdefinierte Ansichten erstellt werden, um Aufgabenbeschränkungen anzuzeigen. 
 
 
 ## Was für und was gegen eine Änderung der Datumsangaben in Projektzeit-Timelines spricht
@@ -66,4 +66,5 @@ Was Sie lernen werden:
 * [Verfolgen Sie den Fortschritt mit den Statuswerten „Prozent abgeschlossen“ und „Fortschritt“](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
 * [Master-Dauertypen und Aufgabenbeschränkungen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
 
