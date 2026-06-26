@@ -25,26 +25,26 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:40:08.316Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 198
-ht-degree: 69%
+source-wordcount: 220
+ht-degree: 28%
 
 ---
 
 # Anfrage-Warteschlangen in Workfront erkunden
 
-In diesem Video werden das Konzept der Anfrage-Warteschlangen in Workfront, ihr Zweck und die Art und Weise, wie Anfragen gesendet und verwaltet werden, erläutert. &#x200B; Anfrage-Warteschlangen dienen als zentraler Ort für die Übermittlung verschiedener Arten von Anfragen. &#x200B;
+In diesem Video werden das Konzept der Anfrage-Warteschlangen in Workfront, ihr Zweck und die Art und Weise, wie Anfragen gesendet und verwaltet werden, erläutert. &#x200B; Anfrage-Warteschlangen dienen als zentraler Ort für die Übermittlung verschiedener Arten von Anfragen. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447019/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
 * **Zweck von Anfrage-Warteschlangen:** Anfrage-Warteschlangen in Workfront bieten einen zentralen Ort für die Übermittlung verschiedener Anfragetypen wie PTO, Software-Upgrades, Kundenvorschläge und Schulungsanforderungen.
-* **Senden einer Anfrage:** Benutzende können Anfragen einreichen, indem sie zum Bereich „Anfrage“ navigieren, den Anfragetyp auswählen, Felder wie „Betreff“ und „Beschreibung“ sowie optionale Felder (z. B. Dokument) und ein benutzerdefiniertes Formular ausfüllen.
-* **Anfragen als Probleme:** In Workfront wird jede Anfrage als Problem behandelt und muss mit einem Projekt verknüpft sein. &#x200B; Projekte, die ausschließlich Anfragen gewidmet sind, werden als Anfrage-Warteschlangen bezeichnet. &#x200B;
-* **Warteschlangen-Management:** Ein effektives Warteschlangen-Management umfasst die Organisation von Anfragen nach Typ, wodurch die erforderlichen Informationen und Arbeitsaufträge angepasst werden, was die Effizienz verbessert.
-* **Finden gesendeter Anfragen:** Die gesendeten Anfragen finden Sie auf der Registerkarte „Problem“ der zugehörigen Anfrage-Warteschlange. Navigieren Sie hierzu zum Bereich „Projekte“ und wählen Sie das entsprechende Projekt aus.
+* **Senden einer Anfrage:** Benutzer können Anfragen senden, indem sie zum Bereich „Anfrage“ navigieren, den Anfragetyp auswählen, Felder wie Betreff, Beschreibung, optionale Felder (z. B. Dokument) ausfüllen und ein benutzerdefiniertes Formular ausfüllen. &#x200B;
+* **Anfragen als Probleme:** In Workfront wird jede Anfrage als Problem behandelt und muss mit einem Projekt verknüpft sein. &#x200B; Projekte, die ausschließlich Anfragen gewidmet sind, werden als Anfrage-Warteschlangen bezeichnet. 
+* **Warteschlangenverwaltung:** effektive Warteschlangenverwaltung umfasst die Organisation von Anforderungen nach Typ, wodurch die erforderlichen Informationen und Zuweisungen angepasst werden, was die Effizienz verbessert. &#x200B;
+* **Auffinden gesendeter Anfragen** Gesendete Anfragen finden Sie in der Registerkarte „Problem“ der zugehörigen Anfrage-Warteschlange, indem Sie zum Bereich „Projekte“ navigieren und das entsprechende Projekt auswählen. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema
@@ -52,4 +52,5 @@ In diesem Video werden das Konzept der Anfrage-Warteschlangen in Workfront, ihr 
 * [Erstellen einer Anfrage-Warteschlange](/help/manage-work/request-queues/create-a-request-queue.md)
 * [Erstellen einer Anfrage-Warteschlange in Workfront](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Erstellen eines Anfrageflusses in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
+
 

@@ -25,25 +25,25 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:42.290Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 192
-ht-degree: 38%
+source-wordcount: 244
+ht-degree: 13%
 
 ---
 
 # Erstellen einer Anfrage-Warteschlange in Workfront
 
-Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warteschlange in Workfront. &#x200B; Das Video schließt mit der Demonstration, wie eine Anfrage mithilfe der neu erstellten Warteschlange gesendet wird, und zeigt den Prozess der Eingabe von Details und der Überprüfung der Übermittlung auf der Registerkarte „Anfragen gesendet“. &#x200B;
+Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warteschlange in Workfront. &#x200B; Das Video schließt mit der Demonstration, wie eine Anfrage mithilfe der neu erstellten Warteschlange gesendet wird, und zeigt den Prozess der Eingabe von Details und der Überprüfung der Übermittlung auf der Registerkarte „Anfragen gesendet“. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
-* **Anforderungswarteschlange erstellen** Beginnen Sie mit der Erstellung eines neuen Projekts und dessen Benennung, die später als Anforderungswarteschlange verwendet wird. &#x200B; stellen Sie sicher, dass Sie das Kontrollkästchen „Als Warteschlange für Hilfeanfragen veröffentlichen“ aktivieren, um sie offiziell als Warteschlange festzulegen. &#x200B;
-* **Zugriffsberechtigungen:** Legen Sie fest, wer Anfragen an die Warteschlange senden kann, indem Sie aus vier Optionen auswählen: jede Person, Projektbetrachtende, Firmenmitarbeiter oder Gruppenmitglieder.
-* **Anfragetypen:** Sie die Warteschlange so an, dass bestimmte Anfragetypen wie Probleme, Fehlerberichte, Änderungsanforderungen oder allgemeine Anfragen einbezogen werden. &#x200B; Die Standardoption ist „issues“ &#x200B;
-* **Anpassbare Felder:** Legen Sie zusätzliche Details wie Standardreaktionszeit, Berechtigungen und andere Warteschlangenmerkmale fest, um die Funktionalität anzupassen.
+* **Anforderungswarteschlange erstellen** Beginnen Sie mit der Erstellung eines neuen Projekts und dessen Benennung, die später als Anforderungswarteschlange verwendet wird. &#x200B; sicherstellen, dass Sie das Kontrollkästchen „Als Warteschlange für Hilfeanfragen veröffentlichen“ aktivieren, um sie offiziell als Warteschlange festzulegen. 
+* **Zugriffsberechtigungen:** Sie, wer Anfragen an die Warteschlange senden kann, indem Sie aus vier Optionen auswählen: Beliebige Personen, Projektbetrachter, Firmenmitglieder oder Gruppenmitglieder. &#x200B;
+* **Anfragetypen:** Sie die Warteschlange so an, dass bestimmte Anfragetypen wie Probleme, Fehlerberichte, Änderungsanforderungen oder allgemeine Anfragen einbezogen werden. &#x200B; Die Standardoption ist „issues“. 
+* **Anpassbare Felder** Legen Sie zusätzliche Details wie Standardreaktionszeit, Berechtigungen und andere Warteschlangenmerkmale fest, um die Funktionalität anzupassen. &#x200B;
 * **Aktivieren der Warteschlange:** Sie die Einstellungen und legen Sie den Projektstatus auf „aktuell“ fest, um die Warteschlange zu aktivieren. &#x200B; Testen Sie die Funktionalität, indem Sie eine Anfrage senden und auf der Registerkarte „Anforderungen gesendet“ überprüfen.
 
 ## Empfohlene Tutorials zu diesem Thema
@@ -51,4 +51,5 @@ Das Video enthält eine schrittweise Anleitung zum Erstellen einer Anfrage-Warte
 * [Anfrage-Warteschlangen in Workfront erkunden](/help/manage-work/request-queues/understand-request-queues.md)
 * [Konfigurieren der Einstellungen für den Anfragefluss](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Erstellen eines Anfrageflusses in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
+
 

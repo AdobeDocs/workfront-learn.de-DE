@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
 source-wordcount: 204
-ht-degree: 90%
+ht-degree: 71%
 
 ---
 
@@ -38,9 +38,9 @@ Das Video enthält eine Anleitung zum Erstellen von Aufgaben in einem Workfront-
 ## Die wichtigsten Punkte
 
 * **Methoden zur Aufgabenerstellung:** Verwenden Sie die Schaltfläche „Neue Aufgabe“ für eine detaillierte Aufgabenerstellung oder die Schaltfläche „Weitere Aufgaben hinzufügen“ für eine schnelle Inline-Bearbeitung.
-* **Erforderliche Felder:** Nur der Aufgabenname ist obligatorisch. Andere Felder wie „Beschreibung“, „Dauer“ und „Arbeitsaufträge“ sind optional und können später hinzugefügt werden.
+* **Erforderliche Felder:** &#x200B;Nur der Aufgabenname ist obligatorisch. Andere Felder wie Beschreibung, Dauer und Zuweisungen sind optional und können später hinzugefügt werden. &#x200B;
 * **Neupositionieren von Aufgaben** Aufgaben werden am Ende der Liste hinzugefügt, können jedoch durch Ziehen oder Verwenden der Option „Ausrücken“ neu positioniert werden, um die Hierarchie anzupassen.
-* **Benutzerdefinierte Ansichten:** Sie können verschiedene Ansichten auswählen, um beim Hinzufügen von Aufgaben zusätzliche Felder wie Beschreibungen einzuschließen.
+* **Benutzerdefinierte Ansichten:** Sie können verschiedene Ansichten auswählen, um beim Hinzufügen von Aufgaben zusätzliche Felder wie Beschreibungen einzuschließen. &#x200B;
 * **Einfügen von Aufgaben an bestimmten Positionen:** Wenn Sie mit der rechten Maustaste zwischen vorhandene Aufgaben klicken, haben Sie die Option „Aufgabe unten einfügen“, um eine neue Aufgabe an einer bestimmten Position zu platzieren.
 
 
@@ -49,3 +49,4 @@ Das Video enthält eine Anleitung zum Erstellen von Aufgaben in einem Workfront-
 * [Beziehungen zwischen übergeordneten und untergeordneten Aufgaben verstehen](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [Effizientes Aufgabenmanagement in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+

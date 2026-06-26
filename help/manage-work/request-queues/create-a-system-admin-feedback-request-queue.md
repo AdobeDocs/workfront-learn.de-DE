@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 84%
+source-wordcount: 431
+ht-degree: 73%
 
 ---
 
@@ -39,10 +39,7 @@ ht-degree: 84%
 >* [Erstellen eines Anfrageflusses in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=de)
 >* Oder Sie können bereits eine Anfrage-Warteschlange erstellen, die eine Routing-Regel und ein benutzerdefiniertes Formular verwendet.
 
-Das Video enthält eine schrittweise Anleitung zum Erstellen einer Feedback-Anfragewarteschlange für Systemadministratoren.
-&#x200B;Der Zweck der Warteschlange besteht darin, Benutzerfeedback zu von Systemadministratoren erstellten Prozessen und Workflows zu sammeln, um Verbesserungen und Optimierung zu ermöglichen.
-Das Video betont die Wichtigkeit der Benutzerbeteiligung und Transparenz bei der Prozessverbesserung und ermutigt Admins, Feedback-Berichte mit Benutzenden zu teilen.
-&#x200B;Links zu Tutorials zum Erstellen von Berichten und benutzerdefinierten Formularen werden als weitere Anleitungen bereitgestellt.
+Das Video enthält eine schrittweise Anleitung zum Erstellen einer Feedback-Anfragewarteschlange für Systemadministratoren.&#x200B;Der Zweck der Warteschlange besteht darin, Benutzerfeedback zu von Systemadministratoren erstellten Prozessen und Workflows zu sammeln, um Verbesserungen und Optimierung zu ermöglichen.Das Video betont die Wichtigkeit der Benutzerbeteiligung und Transparenz bei der Prozessverbesserung und ermutigt Admins, Feedback-Berichte mit Benutzenden zu teilen.&#x200B;Links zu Tutorials zum Erstellen von Berichten und benutzerdefinierten Formularen werden als weitere Anleitungen bereitgestellt.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
@@ -63,3 +60,4 @@ Wie Sie ein benutzerdefiniertes Formular erstellen, erfahren Sie in der Anleitun
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Antworten auf häufig gestellte Fragen zu Anfrage-Warteschlangen](/help/manage-work/request-queues/request-queue-faq.md)
+

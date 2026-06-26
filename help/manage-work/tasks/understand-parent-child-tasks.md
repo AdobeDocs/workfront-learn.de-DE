@@ -23,27 +23,26 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 185
-ht-degree: 84%
+source-wordcount: 270
+ht-degree: 34%
 
 ---
 
 # Beziehungen zwischen übergeordneten und untergeordneten Aufgaben verstehen
 
-In diesem Video wird die Aufgabenstruktur in Workfront erläutert. Aufgaben sind wesentliche Komponenten eines Projekts, in denen die für die Fertigstellung erforderlichen Arbeitselemente dargestellt werden. &#x200B; Video betont, wie wichtig die korrekte Organisation von Aufgaben als ein wichtiger Schritt in der Projektplanung und -verwaltung ist. Es zeigt, wie Sie mit Aufgaben arbeiten können, und erläutert die Beziehungen zwischen übergeordneten und untergeordneten Aufgaben.
-&#x200B;Übergeordnete Aufgaben fungieren als Organisatoren, die das Projekt in Phasen, Phasen oder Meilensteine gruppieren, und werden nicht einzelnen Personen zugewiesen. Untergeordnete Aufgaben oder Teilaufgaben stellen verwertbare Arbeit dar, die Team-Mitgliedern zugewiesen wird.
+In diesem Video wird die Aufgabenstruktur in Workfront beschrieben. Aufgaben sind wesentliche Komponenten eines Projekts, in denen die für die Fertigstellung erforderlichen Arbeitselemente dargestellt werden. &#x200B; Video betont, wie wichtig die korrekte Organisation von Aufgaben als ein wichtiger Schritt in der Projektplanung und -verwaltung ist. Es zeigt, wie Sie mit Aufgaben arbeiten können, und erläutert die Beziehungen zwischen übergeordneten und untergeordneten Aufgaben.&#x200B;Übergeordnete Aufgaben fungieren als Organisatoren, die das Projekt in Phasen, Phasen oder Meilensteine gruppieren, und werden nicht einzelnen Personen zugewiesen. Untergeordnete Aufgaben oder Unteraufgaben stellen umsetzbare Arbeit dar, die an Team-Mitglieder zugewiesen wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445605/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Aufgaben als Rückgrat des Projekts:** Aufgaben stellen die Arbeitselemente dar, die zum Abschließen eines Projekts erforderlich und für eine effektive Projektplanung und ein effektives Projekt-Management von entscheidender Bedeutung sind.
-* **Struktur mit über- und untergeordneten Aufgaben:** Übergeordnete Aufgaben gruppieren das Projekt in Phasen oder Meilensteine, während untergeordnete Aufgaben (Unteraufgaben) umsetzbare Arbeit darstellen, die den Team-Mitgliedern zugewiesen wird.
-* **Automatischer Abschluss übergeordneter Aufgaben:** Übergeordnete Aufgaben werden automatisch als „abgeschlossen“ markiert, wenn alle zugehörigen untergeordneten Aufgaben abgeschlossen sind.
+* **Aufgaben als Projekt-Backbone:** Aufgaben stellen die Arbeitselemente dar, die zum Abschließen eines Projekts erforderlich sind und sind für eine effektive Projektplanung und -verwaltung von entscheidender Bedeutung. &#x200B;
+* **hierarchische Aufgabenstruktur:** übergeordneten Aufgaben gruppieren das Projekt in Phasen, Phasen oder Meilensteinen, während untergeordnete Aufgaben (Unteraufgaben) verwertbare Arbeit darstellen, die den Team-Mitgliedern zugewiesen wird. &#x200B;
+* **Automatischer Abschluss übergeordneter Aufgaben:** Übergeordnete Aufgaben werden automatisch als „abgeschlossen“ markiert, wenn alle zugehörigen untergeordneten Aufgaben abgeschlossen sind. &#x200B;
 * **Tools für die Aufgabenorganisation:** Aufgaben können mithilfe der Schaltflächen „Einrücken“ und „Ausrücken“ organisiert werden, um hierarchische Strukturen zu erstellen. Dabei werden bis zu sieben Ebenen von Beziehungen zwischen übergeordneten und untergeordneten Elementen unterstützt.
-* **Flexible Aufgabenstruktur:** Projekte können abhängig von den spezifischen Anforderungen des Projekts eine Struktur mit über- und untergeordneten Elementen verwenden oder alle Aufgaben auf derselben Ebene belassen.
+* **Flexible Aufgabenstruktur:** Projekte können eine über-/untergeordnete Struktur verwenden oder alle Aufgaben auf derselben Ebene belassen, je nach den spezifischen Anforderungen des Projekts. &#x200B;
 
 
 ## Empfohlene Tutorials zu diesem Thema
@@ -51,4 +50,5 @@ In diesem Video wird die Aufgabenstruktur in Workfront erläutert. Aufgaben sind
 * [Effizientes Erstellen von Aufgaben in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
 * [Effizientes Aufgabenmanagement in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+
 

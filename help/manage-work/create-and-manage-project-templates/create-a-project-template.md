@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 519
-ht-degree: 84%
+source-wordcount: 630
+ht-degree: 57%
 
 ---
 
@@ -38,19 +38,19 @@ Lernen Sie, wie Sie eine Projektvorlage von Grund auf oder auf der Grundlage ein
 
 ## Erstellen einer Projektvorlage
 
-* Das Video enthält eine schrittweise Anleitung zum Erstellen und Verwenden von Vorlagen für die Marketing-Videoproduktion. Zunächst wird erklärt, wie Sie eine neue Vorlage von Grund auf neu erstellen, benennen und speichern. &#x200B; Der Prozess umfasst drei Hauptschritte: Erstellen von Aufgaben, Einrichten der Zeitleiste mit Dauer und Vorgängern und Zuweisen zu Aufgabengebieten anstelle von einzelnen Benutzern. &#x200B; Das Video hebt das Organisieren von Aufgaben mithilfe von Eltern-Kind-Beziehungen hervor, um eine bessere Zusammenfassung und Effizienz zu erzielen. &#x200B;
-* Nachdem die Vorlage erstellt wurde, kann sie zur Erstellung neuer Projekte verwendet werden. Das Video zeigt, wie Sie ein neues Projekt aus der Vorlage erstellen, notwendige Anpassungen vornehmen und Aufgaben hinzufügen oder die Dauer nach Bedarf ändern können. &#x200B; wird auch gezeigt, wie Aufgabengebiete mithilfe der Funktionen für Ressourcenplanung und Planung Aufgaben zugewiesen werden können. &#x200B;
-* In diesem Video wird erläutert, wie Sie ein vorhandenes Projekt als neue Vorlage speichern, um Aktualisierungen und Verbesserungen im Workflow zu ermöglichen. &#x200B; wird hervorgehoben, wie wichtig die Verwaltung von Vorlagen ist, um Verwirrung zu vermeiden und eine optimierte Projektausführung sicherzustellen. &#x200B;
+* Das Video enthält eine schrittweise Anleitung zum Erstellen und Verwenden von Vorlagen für die Produktion von Marketing-Videos. Zunächst wird erklärt, wie Sie eine neue Vorlage von Grund auf neu erstellen, benennen und speichern. &#x200B; Der Prozess umfasst drei Hauptschritte: Erstellen von Aufgaben, Einrichten der Zeitleiste mit Dauer und Vorgängern und Zuweisen zu Aufgabengebieten anstelle von einzelnen Benutzern. &#x200B; Das Video hebt das Organisieren von Aufgaben mithilfe von Eltern-Kind-Beziehungen hervor, um eine bessere Zusammenfassung und Effizienz zu erzielen. 
+* Nachdem die Vorlage erstellt wurde, kann sie zur Erstellung neuer Projekte verwendet werden. Das Video zeigt, wie Sie ein neues Projekt aus der Vorlage erstellen, notwendige Anpassungen vornehmen und Aufgaben hinzufügen oder die Dauer nach Bedarf ändern können. &#x200B; wird auch gezeigt, wie Aufgaben mithilfe von Funktionen für Ressourcenplanung und Planung Aufgabengebiete zugewiesen werden können. 
+* In diesem Video wird erläutert, wie Sie ein vorhandenes Projekt als neue Vorlage speichern, um Aktualisierungen und Verbesserungen im Workflow zu ermöglichen. &#x200B; wird hervorgehoben, wie wichtig die Verwaltung von Vorlagen ist, um Verwirrung zu vermeiden und eine optimierte Projektausführung sicherzustellen. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
-## Die wichtigsten Punkte
+## Wichtige Schlussfolgerungen
 
-* **Erstellen einer Vorlage:** Erfahren Sie, wie Sie eine neue Vorlage von Grund auf neu erstellen, indem Sie sie benennen, Aufgaben einrichten, Timelines erstellen und Arbeitsaufträge für Aufgabengebiete zuweisen.
-* **Aufgabenorganisation:** Verwenden Sie Beziehungen zwischen übergeordneten und untergeordneten Aufgaben, um Aufgaben effizient zu organisieren und eine klare Zusammenfassung und Struktur für das Projekt bereitzustellen.
-* **Timeline-Setup** Richten Sie Aufgaben-Timelines mithilfe von Laufzeiten und Vorgängern ein, um den Zeitrahmen und die Reihenfolge der Aufgaben genau zu schätzen.
-* **Rollenbasierte Arbeitsaufträge:** Weisen Sie Aufgaben zu Aufgabengebieten anstelle von einzelnen Benutzenden zu, um die Funktionen „Ressourcenplanung“ und „Planung“ effektiv zu nutzen.
-* **Vorlagen-Management:** Speichern Sie bestehende Projekte als neue Vorlagen, um Verbesserungen einzubinden und Vorlagen zu verwalten. So vermeiden Sie Verwirrung und stellen eine effiziente Projektausführung sicher.
+* **Erstellen einer Vorlage:** Erfahren Sie, wie Sie eine neue Vorlage von Grund auf neu erstellen, indem Sie sie benennen, Aufgaben einrichten, Zeitpläne erstellen und Aufgabengebiete zuweisen. &#x200B;
+* **Aufgabenorganisation:** Verwenden Sie Beziehungen zwischen übergeordneten und untergeordneten Aufgaben, um Aufgaben effizient zu organisieren und eine klare Zusammenfassung und Struktur für das Projekt bereitzustellen. &#x200B;
+* **Zeitleisten-Setup** Richten Sie Aufgabenzeitleisten mithilfe von Dauer und Vorgängern ein, um den Zeitrahmen und die Reihenfolge der Aufgaben genau zu schätzen. &#x200B;
+* **Rollenbasierte Zuweisungen:** Weisen Sie Aufgabengebiete Aufgabengebieten anstelle einzelnen Benutzern zu, um die Funktionen für die Ressourcenplanung und -planung effektiv zu nutzen. &#x200B;
+* **Vorlagenverwaltung:** Speichern Sie bestehende Projekte als neue Vorlagen, um Verbesserungen einzubinden und Vorlagen zu verwalten, um Verwirrung zu vermeiden und eine effiziente Projektausführung sicherzustellen. &#x200B;
 
 
 ## Mit [!UICONTROL Blueprints] erstellte Vorlagen
@@ -82,3 +82,4 @@ Wenn der Blueprint noch nicht installiert ist, können Sie dies bei Ihren System
 * [Effizientes Kopieren eines vorhandenen Projekts](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [Bearbeiten des Projekt-Teams in einer Vorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+
