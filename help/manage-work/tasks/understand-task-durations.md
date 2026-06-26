@@ -36,7 +36,7 @@ ht-degree: 27%
 In diesem Video werden Aufgabenlaufzeiten in Workfront, ihre Auswirkungen auf die Start- und Fertigstellungsdaten von Aufgaben, die Projekt-Timelines und Best Practices für die effektive Verwendung von Laufzeiten beschrieben.Workfront empfiehlt die Verwendung von Dauer und Vorgängern zum Erstellen von Aufgabenzeitleisten, anstatt Einschränkungen manuell festzulegen, da Einschränkungen automatische Anpassungen verhindern können.&#x200B;Präzise Laufzeiten sind entscheidend für eine effektive Projektplanung und Ressourcenmanagement.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449352/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 

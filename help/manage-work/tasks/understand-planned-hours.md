@@ -36,7 +36,7 @@ ht-degree: 50%
 In diesem Video wird das Konzept der geplanten Stunden beschrieben. Dabei handelt es sich um Schätzungen der für die Durchführung von Aufgaben erforderlichen Zeit.Geplante Stunden sind für das Ressourcen-Management in Workfront von entscheidender Bedeutung, da sie dabei helfen, eine zu hohe oder zu niedrige Ressourcenzuweisung zu identifizieren.Sie helfen auch dabei, die für Aufgaben aufgewendete Zeit zu nachzuverfolgen, wodurch zukünftige Schätzungen verbessert und die Erwartungen an Mitarbeitende klarer werden.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445342/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 
 ## Wichtige Schlussfolgerungen

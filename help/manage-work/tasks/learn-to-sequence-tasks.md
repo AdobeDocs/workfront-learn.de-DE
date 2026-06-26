@@ -36,7 +36,7 @@ ht-degree: 35%
 In diesem Video wird beschrieben, wie Aufgaben in Workfront mithilfe von Vorgängern und Laufzeiten sequenziert werden können, um Projekt-Timelines effektiv zu verwalten.Das Video zeigt, wie Vorgänger für neue Aufgaben festgelegt werden, um eine sequenzielle Reihenfolge und genaue Startdaten sicherzustellen.&#x200B;Er betont, wie wichtig es ist, mit den Vorgängern zu üben, um deren Auswirkungen auf die Projektzeitpläne zu verstehen, und empfiehlt die Verwendung von Laufzeiten und Vorgängern für eine effiziente Projektplanung.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447329/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
