@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 84%
+source-wordcount: 431
+ht-degree: 73%
 
 ---
 
@@ -39,10 +34,7 @@ ht-degree: 84%
 >* [Erstellen eines Anfrageflusses in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=de)
 >* Oder Sie können bereits eine Anfrage-Warteschlange erstellen, die eine Routing-Regel und ein benutzerdefiniertes Formular verwendet.
 
-Das Video enthält eine schrittweise Anleitung zum Erstellen einer Feedback-Anfragewarteschlange für Systemadministratoren.
-&#x200B;Der Zweck der Warteschlange besteht darin, Benutzerfeedback zu von Systemadministratoren erstellten Prozessen und Workflows zu sammeln, um Verbesserungen und Optimierung zu ermöglichen.
-Das Video betont die Wichtigkeit der Benutzerbeteiligung und Transparenz bei der Prozessverbesserung und ermutigt Admins, Feedback-Berichte mit Benutzenden zu teilen.
-&#x200B;Links zu Tutorials zum Erstellen von Berichten und benutzerdefinierten Formularen werden als weitere Anleitungen bereitgestellt.
+Das Video enthält eine schrittweise Anleitung zum Erstellen einer Feedback-Anfragewarteschlange für Systemadministratoren.&#x200B;Der Zweck der Warteschlange besteht darin, Benutzerfeedback zu von Systemadministratoren erstellten Prozessen und Workflows zu sammeln, um Verbesserungen und Optimierung zu ermöglichen.Das Video betont die Wichtigkeit der Benutzerbeteiligung und Transparenz bei der Prozessverbesserung und ermutigt Admins, Feedback-Berichte mit Benutzenden zu teilen.&#x200B;Links zu Tutorials zum Erstellen von Berichten und benutzerdefinierten Formularen werden als weitere Anleitungen bereitgestellt.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
@@ -58,8 +50,9 @@ Das Video betont die Wichtigkeit der Benutzerbeteiligung und Transparenz bei der
 
 Informationen zum Erstellen des **Feedback-Berichts für das Admin-Team**, der im Video verwendet wird, finden Sie in der Aktivität **Erstellen eines Feedback-Berichts für das Admin-Team** im Tutorial [Erstellen eines Aufgabenberichts](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
-Wie Sie ein benutzerdefiniertes Formular erstellen, erfahren Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=de&land=de).
+Wie Sie ein benutzerdefiniertes Formular erstellen, erfahren Sie in der Anleitung [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?land=de).
 
 ## Empfohlene Tutorials zu diesem Thema
 
 * [Antworten auf häufig gestellte Fragen zu Anfrage-Warteschlangen](/help/manage-work/request-queues/request-queue-faq.md)
+
