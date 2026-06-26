@@ -44,7 +44,7 @@ Dieses Video bietet einen Überblick über das Navigieren und Verwalten der Proj
 * **Abschnitt Dokumente** Ermöglicht das Hochladen und Verwalten von projektbezogenen Dateien und Testsendungen. &#x200B; an Aufgaben angehängte Dokumente werden bis auf Projektebene aggregiert, um den Zugriff zu erleichtern. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449735/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
