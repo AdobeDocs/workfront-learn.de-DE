@@ -56,7 +56,7 @@ In diesem Video wird erläutert, wie Sie Projekte in Workfront effektiv freigebe
 
 Im Video wird der Schwerpunkt auf die Verwendung von Teams und Vorlagen für ein effizientes Freigabe-Management gelegt und die Rolle von Admins beim Anpassen der Freigabeeinstellungen hervorgehoben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3493201/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
