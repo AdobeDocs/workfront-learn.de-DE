@@ -6,7 +6,7 @@ thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-15T00:00:00.000Z'
+last-substantial-update: '2026-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 8c436898c1fe507bafb41dfefba4727cf52e9f1a
 workflow-type: tm+mt
 source-wordcount: 204
-ht-degree: 71%
+ht-degree: 90%
 
 ---
 
@@ -38,9 +38,9 @@ Das Video enthält eine Anleitung zum Erstellen von Aufgaben in einem Workfront-
 ## Die wichtigsten Punkte
 
 * **Methoden zur Aufgabenerstellung:** Verwenden Sie die Schaltfläche „Neue Aufgabe“ für eine detaillierte Aufgabenerstellung oder die Schaltfläche „Weitere Aufgaben hinzufügen“ für eine schnelle Inline-Bearbeitung.
-* **Erforderliche Felder:** &#x200B;Nur der Aufgabenname ist obligatorisch. Andere Felder wie Beschreibung, Dauer und Zuweisungen sind optional und können später hinzugefügt werden. &#x200B;
+* **Erforderliche Felder:** Nur der Aufgabenname ist obligatorisch. Andere Felder wie „Beschreibung“, „Dauer“ und „Arbeitsaufträge“ sind optional und können später hinzugefügt werden.
 * **Neupositionieren von Aufgaben** Aufgaben werden am Ende der Liste hinzugefügt, können jedoch durch Ziehen oder Verwenden der Option „Ausrücken“ neu positioniert werden, um die Hierarchie anzupassen.
-* **Benutzerdefinierte Ansichten:** Sie können verschiedene Ansichten auswählen, um beim Hinzufügen von Aufgaben zusätzliche Felder wie Beschreibungen einzuschließen. &#x200B;
+* **Benutzerdefinierte Ansichten:** Sie können verschiedene Ansichten auswählen, um beim Hinzufügen von Aufgaben zusätzliche Felder wie Beschreibungen einzuschließen.
 * **Einfügen von Aufgaben an bestimmten Positionen:** Wenn Sie mit der rechten Maustaste zwischen vorhandene Aufgaben klicken, haben Sie die Option „Aufgabe unten einfügen“, um eine neue Aufgabe an einer bestimmten Position zu platzieren.
 
 
