@@ -36,7 +36,7 @@ ht-degree: 82%
 In diesem Video werden verschiedene Methoden zum Zuweisen von Aufgaben in einem Projektplan beschrieben. Der Schwerpunkt liegt auf der Verwendung von Tools wie Filtern, Vorlagen und Ressourcen-Management-Funktionen zur Optimierung von Aufgabenzuweisungen und Projekt-Workflows.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445753/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Die wichtigsten Punkte
 
