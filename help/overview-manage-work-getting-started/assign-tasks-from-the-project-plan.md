@@ -43,7 +43,7 @@ In diesem Video werden Sie:
 * verstehen, wie wichtig Projektvorlagen beim Zuweisen von Aufgaben sind
 * verstehen, wie wichtig das Zuweisen von Aufgaben zu Teams ist
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445753/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more urls:
