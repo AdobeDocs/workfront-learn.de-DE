@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-05-23T00:00:00.000Z'
+last-substantial-update: '2026-07-29T00:00:00.000Z'
 jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:57.192Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
 workflow-type: tm+mt
-source-wordcount: 221
-ht-degree: 40%
+source-wordcount: 191
+ht-degree: 82%
 
 ---
 
@@ -36,15 +36,15 @@ ht-degree: 40%
 In diesem Video werden verschiedene Methoden zum Zuweisen von Aufgaben in einem Projektplan beschrieben. Der Schwerpunkt liegt auf der Verwendung von Tools wie Filtern, Vorlagen und Ressourcen-Management-Funktionen zur Optimierung von Aufgabenzuweisungen und Projekt-Workflows.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445753/?captions=ger&quality=12&learn=on&enablevpops=1)
 
-## Wichtige Schlussfolgerungen
+## Die wichtigsten Punkte
 
-* **Inline-Bearbeitung für Schnellzuweisungen** Einfaches Zuweisen von Aufgaben durch Eingabe eines Namens und Auswahl aus einer Liste, mit Funktion für automatische Textvervollständigung für eine schnellere Auswahl. &#x200B;
-* **Massenbearbeitung für Effizienz:** Weisen Sie derselben Person mehrere Aufgaben zu, indem Sie Aufgaben auswählen, die Massenbearbeitung verwenden und den Namen aus der Liste auswählen. &#x200B;
+* **Schnellzuweisungen durch Inline-Bearbeitung:** Weisen Sie Aufgaben durch Eingabe eines Namens und Auswahl aus einer Liste zu. Nutzen Sie dabei die Funktion zur automatischen Textvervollständigung, um eine schnellere Auswahl treffen zu können.
+* **Effizienz durch Massenbearbeitung:** Weisen Sie derselben Person mehrere Aufgaben zu, indem Sie Aufgaben auswählen, die Funktion „Massenbearbeitung“ verwenden und den Namen aus der Liste auswählen.
 * **Aufgabengebiete für optimierte Zuweisungen:** Sie Aufgabengebiete, um Aufgabenzuweisungen zu erleichtern, insbesondere mit Projektvorlagen. &#x200B; Aufgabengebiete werden für das Ressourcen-Management und die Kapazitätsplanung separat erfasst. &#x200B;
 * **Team-Arbeitsaufträge für Collaboration:** Weisen Sie Teams Aufgaben zu, indem Sie den Team-Namen auswählen, der mit einem Team-Symbol angezeigt wird. &#x200B; Teammitglieder können Aufgaben selbst zuweisen oder Teamleiter können sie neu zuweisen und dabei den Team-Namen für die Berichterstellung beibehalten. &#x200B;
-* **Ressourcenmanagement-Integration:** Aufgabengebiete und Team-Arbeitsaufträge unterstützen Ressourcenkapazitäts- und Verfügbarkeitsberechnungen und verbessern so die Projektplanung und -ausführung. &#x200B;
+* **Integration von Ressourcen-Management:** Aufgabengebiete und Team-Zuweisungen unterstützen Ressourcenkapazitäts- und Verfügbarkeitsberechnungen, was die Projektplanung und -ausführung verbessert.
 
 
 ## Empfohlene Tutorials zu diesem Thema
