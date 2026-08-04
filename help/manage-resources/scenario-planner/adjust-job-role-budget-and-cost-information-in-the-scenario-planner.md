@@ -36,4 +36,4 @@ In diesem Video lernen Sie Folgendes:
 * Budgetinformationen anpassen
 * Kosteninformationen anpassen
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418624/?captions=ger&quality=12&learn=on&enablevpops=1)

@@ -35,7 +35,7 @@ ht-degree: 15%
 In diesem Video wird erläutert, wie Sie in Workfront Filter erstellen und verwenden, um Listenberichte anhand bestimmter Kriterien anzupassen. &#x200B; Filter ermöglichen es Benutzenden, Listen wie Aufgaben, Projekte oder Dokumente durch Definieren von Bedingungen einzugrenzen. &#x200B; In der Liste werden nur Elemente angezeigt, die den Filterbedingungen entsprechen und für den angemeldeten Benutzer zugänglich sind. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431673/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
