@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-06-15T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 213
 ht-degree: 35%
@@ -33,7 +33,9 @@ ht-degree: 35%
 
 # Effektives Sequenzieren von Aufgaben in Workfront
 
-In diesem Video wird beschrieben, wie Aufgaben in Workfront mithilfe von Vorgängern und Laufzeiten sequenziert werden können, um Projekt-Timelines effektiv zu verwalten.Das Video zeigt, wie Vorgänger für neue Aufgaben festgelegt werden, um eine sequenzielle Reihenfolge und genaue Startdaten sicherzustellen.&#x200B;Er betont, wie wichtig es ist, mit den Vorgängern zu üben, um deren Auswirkungen auf die Projektzeitpläne zu verstehen, und empfiehlt die Verwendung von Laufzeiten und Vorgängern für eine effiziente Projektplanung.
+In diesem Video wird beschrieben, wie Aufgaben in Workfront mithilfe von Vorgängern und Laufzeiten sequenziert werden können, um Projekt-Timelines effektiv zu verwalten.
+Das Video zeigt, wie Vorgänger für neue Aufgaben festgelegt werden, um eine sequenzielle Reihenfolge und genaue Startdaten sicherzustellen.
+&#x200B;Er betont, wie wichtig es ist, mit den Vorgängern zu üben, um deren Auswirkungen auf die Projektzeitpläne zu verstehen, und empfiehlt die Verwendung von Laufzeiten und Vorgängern für eine effiziente Projektplanung.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447329/?captions=ger&quality=12&learn=on&enablevpops=1)

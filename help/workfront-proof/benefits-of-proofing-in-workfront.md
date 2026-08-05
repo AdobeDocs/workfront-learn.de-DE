@@ -36,7 +36,7 @@ In diesem Video lernen Sie Folgendes:
 * Was ist Proofing?
 * Vorteile der Verwendung von digitalem Proofing in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439124/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Proofing-Terminologie
 
