@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes der Metadaten
-description: 'Erfahren Sie, was im Kurs [!UICONTROL Workfront DAM] für Administrierende, Teil 2: Metadaten und Schlüsselwörter behandelt wird.'
+title: Einführung in Metadaten und Schlüsselwörter
+description: Metadaten sind alle Daten, die zur Beschreibung eines Assets verwendet werden. Keywords sind eine Teilmenge von Metadaten und enthalten beschreibende Begriffe zum Inhalt des Assets.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -21,14 +21,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T01:57:17.963Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: 125
-ht-degree: 100%
+source-wordcount: 139
+ht-degree: 82%
 
 ---
 
-# Grundlegendes der Metadaten
+# Einführung in Metadaten und Schlüsselwörter
 
 Metadaten sind alle Daten, die zur Beschreibung eines Assets verwendet werden. Metadatenfelder haben einen Namen, und Benutzende können die Informationen in vielen dieser Felder bearbeiten oder ändern. Einige Metadatenfelder werden von der Anwendung oder dem Gerät, von dem das Asset stammt, ausgefüllt und können nicht bearbeitet werden.
 
