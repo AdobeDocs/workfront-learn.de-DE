@@ -22,7 +22,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:33:27.197Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
 workflow-type: tm+mt
 source-wordcount: 258
 ht-degree: 100%
@@ -43,16 +43,16 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 ## Übungs-URLs
 
-* `https://restcountries.com/v2/lang/es`
-* `https://restcountries.com/v2/name/{country name}`
+* `https://countries.dev/lang/es`
+* `https://countries.dev/name/{country name}`
 
 
 
 ## Stärkung des Aggregationsprinzips
 
-Immer wenn ein Modul mehrere Bündel ausgibt, wird jedes nachfolgende Modul jedes Bündel ausführen.
+Immer wenn ein Modul mehrere Pakete ausgibt, wird jedes nachfolgende Modul jedes Paket ausführen.
 
-Um dies zu verhindern, fügen Sie hinter einem Modul, das möglicherweise mehrere Bündel erzeugt, einen Aggregator ein.
+Um dies zu verhindern, fügen Sie hinter einem Modul, das möglicherweise mehrere Pakete erzeugt, einen Aggregator ein.
 
 Sie werden einen Schatten sehen, der jedes Segment in Ihrem Szenario von einem **Anfangsiterator** bis zum **Endaggregator** umgibt. So lassen sich diese Segmente in Ihrem Workfront Fusion-Szenario leicht erkennen.
 
