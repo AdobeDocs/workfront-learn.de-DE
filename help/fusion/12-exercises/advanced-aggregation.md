@@ -11,18 +11,13 @@ jira: KT-11048
 thumbnail: KT11048.png
 recommendations: noDisplay,catalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:45:52.312Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
 workflow-type: tm+mt
 source-wordcount: 493
 ht-degree: 94%
@@ -47,7 +42,7 @@ Rufen Sie einen Web-Dienst zur Rückgabe von Details über mehrere Länder und z
 
 1. Erstellen Sie ein neues Szenario und nennen Sie es „Erweiterte Aggregation“.
 1. Setzen Sie das Trigger-Modul auf ein „Anfrage stellen“-HTTP-Modul.
-1. Unter dieser URL, `https://restcountries.com/v2/lang/es`, finden Sie eine Liste aller Länder, in denen Spanisch gesprochen wird.
+1. Unter dieser URL, `https://countries.dev/lang/es`, finden Sie eine Liste aller Länder, in denen Spanisch gesprochen wird.
 1. Belassen Sie die Methode auf Get.
 1. Klicken Sie auf das Kontrollkästchen „Antwort auswerten“.
 1. Benennen Sie dieses Modul in „Länder abrufen“ um.
@@ -59,7 +54,7 @@ Rufen Sie einen Web-Dienst zur Rückgabe von Details über mehrere Länder und z
 
    **Sie müssen für jedes Land Informationen über die Unterregionen sammeln, also müssen Sie eine zusätzliche HTTP-Anfrage stellen.**
 
-1. Fügen Sie eine weitere Anfrage hinzu, um Informationen über Teilregionen zu erhalten. Es wird nur das erste Land zurückgegeben, aber das ist vorerst in Ordnung. Fügen Sie ein weiteres „Anfrage stellen“-HTTP-Modul hinzu und verwenden Sie die URL `https://restcountries.com/v2/name/{country name}`.
+1. Fügen Sie eine weitere Anfrage hinzu, um Informationen über Teilregionen zu erhalten. Es wird nur das erste Land zurückgegeben, aber das ist vorerst in Ordnung. Fügen Sie ein weiteres „Anfrage stellen“-HTTP-Modul hinzu und verwenden Sie die URL `https://countries.dev/name/{country name}`.
 1. Um den Namen des ersten Landes abzurufen, klicken Sie im Zuordnungsbedienfeld auf „Daten“ und dann im Array auf „Name“. Die [1] im Datenfeld bedeutet, dass das erste Element im Array zurückgegeben wird.
 
    + Klicken Sie auf die Nummer und ändern Sie bei Bedarf den Index, aber in diesem Fall wollen Sie nur das erste Element.
@@ -72,7 +67,7 @@ Rufen Sie einen Web-Dienst zur Rückgabe von Details über mehrere Länder und z
 
    + Die Ausgabe besteht aus Informationen für ein einzelnes Land.
 
-1. Um die anderen Länder zu erhalten, müssen Sie durch das Array iterieren. Fügen Sie einen Iterator hinzu, der eine Liste von Dingen nimmt und für jedes Element auf der Liste ein Bündel ausgibt.
+1. Um die anderen Länder zu erhalten, müssen Sie durch das Array iterieren. Fügen Sie einen Iterator hinzu, der eine Liste von Dingen nimmt und für jedes Element auf der Liste ein Paket ausgibt.
 
    **Fügen Sie den Iterator und den Aggregator hinzu.**
 
