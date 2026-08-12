@@ -9,23 +9,19 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:39:17.503Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 4b419797e3014599bffd64f576d8eeb196c8c153
 workflow-type: tm+mt
 source-wordcount: 280
-ht-degree: 100%
+ht-degree: 78%
 
 ---
 
@@ -43,7 +39,8 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 >[!NOTE]
 >
->Nach dem Speichern des Szenarios ist eine neue Version unter dem Menü mit drei Punkten verfügbar, falls Sie in Zukunft darauf zugreifen müssen. Zuvor gespeicherte Szenario-Versionen sind nur für 60 Tage verfügbar. Wenn Sie zu Prüfzwecken über die 60 Tage hinaus auf frühere Versionen zugreifen müssen, empfiehlt Workfront, einen Entwurf Ihres Szenarios zu speichern und an einem vereinbarten Speicherort zu archivieren.
+>Nach dem Speichern Ihres Szenarios behält Workfront Fusion die vorherige Szenarioversion 60 Tage lang bei. Die Aufbewahrungsfrist für eine Version beginnt, wenn diese Version durch eine neuere Version ersetzt wird, und nicht, wenn die Version ursprünglich erstellt wurde.
+>Um den Szenario-Versionsverlauf für Audit-Zwecke über 60 Tage hinaus aufzubewahren, speichern und archivieren Sie eine Blueprint des Szenarios an einem vereinbarten Speicherort.
 
 
 ## Zu Ihrer Terminologie hinzufügen
@@ -52,7 +49,7 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 ### Trigger-Module
 
-Trigger-Module können nur als erstes Modul verwendet werden und können null, eins oder mehrere Bündel zurückgeben. Diese werden einzeln in nachfolgenden Modulen verarbeitet, sofern sie nicht aggregiert werden.
+Trigger-Module können nur als erstes Modul verwendet werden und können null, eins oder mehrere Pakete zurückgeben. Diese werden einzeln in nachfolgenden Modulen verarbeitet, sofern sie nicht aggregiert werden.
 
 **Abruf-Trigger (mit Uhrensymbol)** – Spezielle Funktionen, um den zuletzt verarbeiteten Eintrag zu verfolgen.
 
@@ -64,7 +61,7 @@ Trigger-Module können nur als erstes Modul verwendet werden und können null, e
 
 **Aktion** – Wird verwendet, um CRUD-Vorgänge (Erstellen, Lesen, Aktualisieren und Löschen) durchzuführen
 
-**Suchvorgänge** – Wird verwendet, um nach null, einem oder mehreren Einträgen zu suchen, und gibt diese als Bündel zurück, die einzeln in nachfolgenden Modulen verarbeitet werden, sofern sie nicht aggregiert werden.
+**Suchvorgänge** – Wird verwendet, um nach null, einem oder mehreren Einträgen zu suchen, und gibt diese als Paket zurück, die einzeln in nachfolgenden Modulen verarbeitet werden, sofern sie nicht aggregiert werden.
 
 ## Möchten Sie mehr erfahren? Wir empfehlen Folgendes:
 
