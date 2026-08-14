@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 74efef740074d25e892061995fd2e9b19a3afae1
 workflow-type: tm+mt
 source-wordcount: 264
 ht-degree: 35%
@@ -41,7 +41,7 @@ Das Video enthält eine detaillierte Anleitung zum Erstellen und Verwalten von A
 
 * **Optimierte Anfrageerstellung:** Benutzer können Anfragen einfach erstellen, indem sie im Hauptmenü „Anfragen“ auswählen, einen Anfragetyp auswählen, erforderliche Felder ausfüllen und relevante Dokumente anhängen. &#x200B;
 * **Anpassbare Workflows:** Anfragewarteschlangen und Formulare sind auf organisatorische Workflows zugeschnitten, sodass Benutzende Details (z. B. In-Store, Outdoor, Social Media) und Priorität angeben können.
-* **Funktion zum automatischen Speichern von Entwürfen:** Entwürfe werden automatisch gespeichert, wenn Benutzer das Betrefffeld ausfüllen. So wird sichergestellt, dass keine Daten verloren gehen, wenn sie anhalten oder wegnavigieren. &#x200B; Entwürfe können zu einem späteren Zeitpunkt zum Abschluss aufgerufen oder verworfen werden, falls dies nicht erforderlich ist. 
+* **Funktion zum automatischen Speichern von Entwürfen:** Entwürfe werden automatisch gespeichert, wenn Benutzer das Betrefffeld ausfüllen. So wird sichergestellt, dass keine Daten verloren gehen, wenn sie anhalten oder wegnavigieren. &#x200B; Entwürfe können zu einem späteren Zeitpunkt zum Abschluss aufgerufen oder verworfen werden, falls dies nicht erforderlich ist. &#x200B;
 * **Tracking und Filterung der Anfragen:** Gesendete Anfragen können auf der Seite „Gesendet“ verfolgt werden, wobei Filter verfügbar sind, um offene, nicht aufgelöste oder alle Anfragen basierend auf Benutzerberechtigungen anzuzeigen. &#x200B;
 * **Kopieren und Wiederverwenden von Anfragen:** Benutzende können bestehende Anfragen kopieren, um neue Anfragen zu erstellen. Dies erleichtert das Einreichen ähnlicher Anfragen, da sie nicht von Grund auf neu erstellt werden müssen.
 
