@@ -39,7 +39,7 @@ Aufruf eines Web-Dienstes zur Abfrage von Details zu mehreren Ländern und zur E
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497036/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Übungs-URLs
 
