@@ -1,6 +1,6 @@
 ---
-title: Korrekturabzug-Workflows als Teil von Projektzeitleisten
-description: Empfehlungen zum Mischen eines Prüfungs- und Genehmigungsprozesses mit einer Projektzeitleisten finden Sie in [!DNL  Workfront].
+title: Korrekturabzug-Workflows als Teil von Projekt-Timelines
+description: Empfehlungen zum Mischen eines Prüfungs- und Genehmigungsprozesses mit einer Projekt-Timelines finden Sie in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8825
 exl-id: 51cc65eb-2ac8-4de5-88d1-67c1556432ba
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 100%
 
 ---
 
-# Korrekturabzug-Workflows als Teil von Projektzeitleisten
+# Korrekturabzug-Workflows als Teil von Projekt-Timelines
 
 In diesem Video lernen Sie Folgendes:
 
-* Empfehlungen zum Mischen eines Prüfungs- und Genehmigungsprozesses mit einer Projektzeitleiste
+* Empfehlungen zum Mischen eines Prüfungs- und Genehmigungsprozesses mit einer Projekt-Timeline
 
 >[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on&enablevpops=1)
 
