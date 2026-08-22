@@ -20,7 +20,7 @@ In diesem Video lernen Sie Folgendes:
 * Finden von selbst eingereichten Anfragen
 * Aktualisieren einer Anfrage
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497599/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 <!--
 Guide
