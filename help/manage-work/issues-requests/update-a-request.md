@@ -35,7 +35,7 @@ ht-degree: 13%
 
 In diesem Video wird erläutert, wie Anfragen in Adobe Workfront gesucht und aktualisiert werden. &#x200B; Nachdem Sie eine Anfrage gesendet haben, können Sie Informationen hinzufügen oder Fragen stellen, um sicherzustellen, dass die neuesten Details für die daran arbeitenden Personen verfügbar sind. &#x200B;  &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497599/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
