@@ -7,7 +7,7 @@ ht-degree: 94%
 ---
 # Projekt planen - Überprüfen - FREIGEGEBEN
 
-Richten Sie Ihre [!DNL  Workfront]-Projekte mithilfe einer Projektvorlage schnell ein und führen Sie sie aus. Dann planen Sie Ihr Projekt, indem Sie sich zunächst auf diese fünf Felder konzentrieren:
+Richten Sie Ihre [!DNL &#x200B; Workfront]-Projekte mithilfe einer Projektvorlage schnell ein und führen Sie sie aus. Dann planen Sie Ihr Projekt, indem Sie sich zunächst auf diese fünf Felder konzentrieren:
 
 1. Aufgaben
 1. Dauer
