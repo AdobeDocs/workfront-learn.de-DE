@@ -9,7 +9,7 @@ ht-degree: 65%
 
 Das Video bietet einen Überblick über die Verwaltung eines Projekts, nachdem sein Status in „Aktuell“ geändert wurde. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445176/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Wichtige Schlussfolgerungen
 
