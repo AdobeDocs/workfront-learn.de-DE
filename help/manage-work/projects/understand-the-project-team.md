@@ -13,42 +13,19 @@ recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:42:45.518Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 224
-ht-degree: 25%
+source-wordcount: 31
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zum Projekt-Team
 
-In diesem Video erfahren Sie, wofür das Projekt-Team verwendet werden kann und wie es verwaltet wird.
-
->[!VIDEO](https://video.tv.adobe.com/v/3444598/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Wichtige Schlussfolgerungen
-
-* **Automatische Team-Population:** Das Projekt-Team wird automatisch ausgefüllt, wenn Benutzenden Aufgaben zugewiesen oder als Projektbesitzer benannt werden. &#x200B; werden Benutzer jedoch nicht automatisch entfernt, wenn ihre Zuweisungen entfernt werden. Dies muss manuell geschehen. 
-* **Manuelle Aktualisierungen:** Sie können Personen manuell zum Projekt-Team hinzufügen oder daraus entfernen, auch wenn sie keine Zuweisungen haben, um sicherzustellen, dass die Team-Liste korrekt und auf dem neuesten Stand bleibt. &#x200B;
-* **Zentralisierte Kommunikation** Die Registerkarte Personen ermöglicht es Ihnen, Aktualisierungen an alle Team-Mitglieder auf Projektebene zu senden, wodurch sie zu einem praktischen Tool für die teamweite Kommunikation wird. &#x200B;
-* **E-Mail-Benachrichtigungen:** Systemadministratoren können E-Mail-Benachrichtigungen für das Projekt-Team aktivieren, z. B. Warnungen für hinzugefügte Dokumente, abgeschlossene Meilensteinaufgaben oder Probleme, um sicherzustellen, dass die Team-Mitglieder informiert bleiben. &#x200B;
-* **Nachverfolgung der Projektbeteiligung:** Workfront verwendet das Projektteam, um die Projekte zu ermitteln, an denen ein Benutzer beteiligt ist, und ermöglicht Funktionen wie das Filtern von Projekten nach Benutzerbeteiligung, um die Navigation zu erleichtern. &#x200B;
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Projekt mit aktuellem Status verwalten](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Projekte effizient finden](/help/manage-work/projects/find-projects.md)
-* [Effektive Projektfreigabe in Workfront](/help/manage-work/projects/share-a-project.md)
-* [Steigerung des Projekterfolgs durch effektive Kommunikation](/help/manage-work/projects/understand-project-communication.md)
-
+{{$include /help/_includes/understand-the-project-team.md}}

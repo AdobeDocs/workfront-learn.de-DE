@@ -11,23 +11,13 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '29'
 ht-degree: 100%
 
 ---
 
 # Grundlegendes zu Projekt-Timelines
 
-In diesem Video lernen Sie Folgendes:
-
-* Grundlegende Verwaltung der Projekt-Timelines
-* Planen von Projekten anhand des Start- oder Fertigstellungsdatums
-* Aufgabenbeschränkungen
-
->[!VIDEO](https://video.tv.adobe.com/v/3435844/?captions=ger&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->Eine ausführlichere Erläuterung zu Dauertypen und Aufgabenbeschränkungen finden Sie unter [Verstehen und Verwalten von Dauertypen und Aufgabenbeschränkungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=de).
+{{$include /help/_includes/understand-project-timelines.md}}
