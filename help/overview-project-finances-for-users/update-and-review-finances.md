@@ -1,6 +1,6 @@
 ---
 title: Aktualisierung und Überprüfung der Finanzen
-description: Erfahren Sie, wie Sie die Finanzinformationen zu einem Projekt in [!DNL &#x200B; Workfront]überprüfen können.
+description: Erfahren Sie, wie Sie die Finanzinformationen zu einem Projekt in [!DNL  Workfront]überprüfen können.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -22,45 +22,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:57:32.878Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 258
-ht-degree: 92%
+source-wordcount: 20
+ht-degree: 100%
 
 ---
 
 # Aktualisierung und Überprüfung der Finanzen
 
-Wenn Ihre Organisation [!DNL Workfront] verwendet, um Finanzinformationen zu einem Projekt zu erfassen, kann die Überprüfung von Ausgaben und die Erstellung von Abrechnungseinträgen Teil des Prozesses zum Abschluss eines Projekts sein.
-
->[!NOTE]
->
->Viele [!DNL Workfront]-Kundinnen und -Kunden wickeln ihre Ausgaben und Projektfinanzen in einem Drittsystem anstelle von [!DNL Workfront] ab. Sie haben also möglicherweise unterschiedliche Verfahren oder Richtlinien für die Aktualisierung und Überprüfung von Finanzinformationen vor Abschluss eines Projekts.
-
-
-## Ausgaben
-
-Ausgaben können für einzelne Aufgaben oder das gesamte Projekt erfasst werden. Unabhängig davon, zu welchem Posten die Ausgabe protokolliert wird, können Sie alle Ausgaben im Abschnitt [!UICONTROL Ausgaben] des Projekts anzeigen.
-
-Abschnitt ![[!UICONTROL Ausgaben] eines Projekts](assets/expense-section.png)
-
-## Abrechnungseinträge
-
-Abrechnungseinträge werden in [!DNL Workfront] verwendet, um abrechenbare Stunden, abrechenbare Ausgaben, abrechenbare Einnahmen und zusätzliche abrechenbare Beträge in einem einzigen Eintrag und Betrag zusammenzufassen. Oftmals werden diese von [!DNL Workfront] in ein Rechnungs- oder Buchhaltungssystem eines Drittanbieters exportiert.
-
-Sie müssen Zugriff auf die Finanzdaten in [!DNL Workfront] haben, um Abrechnungseinträge erstellen und anzeigen zu können.
-
-## Finanzdetails
-
-Ein Blick auf die [!UICONTROL Finanzinformationen] in den [!UICONTROL Projektdetails] zeigt Ihnen die tatsächlichen Zahlen für Nutzen, Einnahmen und Kosten.
-
-![Abschnitt „Finanzen“ des Fensters [!UICONTROL Projektdetails] für ein Projekt](assets/finance-section-project-details.png)
-
-Die meisten Finanzinformationen in den [!UICONTROL Projektdetails] werden bei der Erstellung des Projekts festgelegt. Die Zahlen, die Sie hier sehen, basieren auf diesen Informationen. Wenn Sie also ein Projekt schließen, müssen Sie wirklich nichts aktualisieren oder in die finanziellen Details einfügen.
-
-<!--
-learn more urls
-Create billing records
-Manage project expenses
-Project finances
--->
+{{$include /help/_includes/update-and-review-finances.md}}

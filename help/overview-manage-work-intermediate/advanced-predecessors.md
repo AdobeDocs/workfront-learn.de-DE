@@ -24,35 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 159
-ht-degree: 96%
+source-wordcount: 23
+ht-degree: 100%
 
 ---
 
 # Erweiterte Vorgänger
 
-
->[!PREREQUISITES]
->
->* [Aufgaben in Workfront effektiv sequenzieren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=de)
->* Oder Sie sind bereits mit der Verwendung von Vorgängern in Ihren Projekten vertraut
-
-
-In diesem Video lernen Sie Folgendes:
-
-* Aufgabenabhängigkeiten
-* Zeitabstandstyp
-* Erzwungene Vorgänger
-* Fehler in der Abhängigkeitsschleife
-* Abkürzungen und Best Practices
-
->[!VIDEO](https://video.tv.adobe.com/v/3454538/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-Weitere Informationen zur Verwendung von Vorgängern finden Sie unter [Verwenden von Aufgabenvorgängern](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=de).
-
-Weitere Informationen über Aufgabenbeschränkungen finden Sie unter [Verstehen und Verwalten von Dauertypen und Aufgabenbegrenzungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=de).
-
-Weitere Informationen zu projektübergreifenden Vorgängern finden Sie unter [Verstehen projektübergreifender Vorgänger](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=de).
-
+{{$include /help/_includes/advanced-predecessors.md}}

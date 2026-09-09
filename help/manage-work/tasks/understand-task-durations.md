@@ -24,35 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:12.123Z'
-source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 188
-ht-degree: 81%
+source-wordcount: 30
+ht-degree: 100%
 
 ---
 
 # Grundlegendes zu Aufgabenlaufzeiten
 
-In diesem Video wird die Aufgabendauer in Workfront, ihre Auswirkungen auf die Start- und Abschlussdaten von Aufgaben, die Projektzeitpläne und Best Practices für die effektive Verwendung von Aufgabendauer erläutert.
-Workfront empfiehlt die Verwendung von Dauer und Vorgängern zum Erstellen von Aufgabenzeitleisten, anstatt Einschränkungen manuell festzulegen, da Einschränkungen automatische Anpassungen verhindern können.
-&#x200B;Präzise Laufzeiten sind entscheidend für eine effektive Projektplanung und Ressourcenmanagement.
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3449352/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Die wichtigsten Punkte
-
-* **Definition der Aufgabenlaufzeit:** Die Laufzeit einer Aufgabe ist die Differenz zwischen dem geplanten Startdatum und dem geplanten Fertigstellungsdatum einer Aufgabe und stellt das Zeitfenster für die Fertigstellung der Arbeit dar.
-* **Auswirkungen auf die Projekt-Timeline:** Aufgabenlaufzeiten wirken sich direkt auf die Gesamtdauer eines Projekts und das geplante Fertigstellungsdatum aus. Damit sind sie von entscheidender Bedeutung für die genaue Projektplanung.
-* **Verwendung von Vorgängern:** Geplante Start- und Fertigstellungsdaten werden anhand von Aufgabenlaufzeiten und Vorgängern berechnet, um eine dynamische und flexible Timeline zu gewährleisten.
-* **Vermeidung manueller Beschränkungen:** Durch das manuelle Festlegen des Start- oder Fertigstellungsdatums werden Aufgabenbeschränkungen erstellt, die automatische Anpassungen verhindern können, wenn sich Laufzeiten oder Vorgänger ändern.
-* **Ressourcen-Management:** Laufzeiten sind von entscheidender Bedeutung für die Ressourcen-Management- und Planungs-Tools von Workfront und ermöglichen präzise Ressourcenkalkulationen sowie die Verfügbarkeitsplanung für Teams.
-
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Effektives Sequenzieren von Aufgaben in Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
-* [Geschätzte Aufgabenstunden mit Work Effort](/help/manage-work/tasks/understand-work-effort.md)
-
-
+{{$include /help/_includes/understand-task-durations.md}}

@@ -24,33 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:57.192Z'
-source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 191
-ht-degree: 82%
+source-wordcount: 39
+ht-degree: 100%
 
 ---
 
 # Zuweisen von Aufgaben aus dem Projektplan
 
-In diesem Video werden verschiedene Methoden zum Zuweisen von Aufgaben in einem Projektplan beschrieben. Der Schwerpunkt liegt auf der Verwendung von Tools wie Filtern, Vorlagen und Ressourcen-Management-Funktionen zur Optimierung von Aufgabenzuweisungen und Projekt-Workflows.
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3445753/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Die wichtigsten Punkte
-
-* **Schnellzuweisungen durch Inline-Bearbeitung:** Weisen Sie Aufgaben durch Eingabe eines Namens und Auswahl aus einer Liste zu. Nutzen Sie dabei die Funktion zur automatischen Textvervollständigung, um eine schnellere Auswahl treffen zu können.
-* **Effizienz durch Massenbearbeitung:** Weisen Sie derselben Person mehrere Aufgaben zu, indem Sie Aufgaben auswählen, die Funktion „Massenbearbeitung“ verwenden und den Namen aus der Liste auswählen.
-* **Aufgabengebiete für optimierte Zuweisungen:** Sie Aufgabengebiete, um Aufgabenzuweisungen zu erleichtern, insbesondere mit Projektvorlagen. &#x200B; Aufgabengebiete werden für das Ressourcen-Management und die Kapazitätsplanung separat erfasst. &#x200B;
-* **Team-Arbeitsaufträge für Collaboration:** Weisen Sie Teams Aufgaben zu, indem Sie den Team-Namen auswählen, der mit einem Team-Symbol angezeigt wird. &#x200B; Teammitglieder können Aufgaben selbst zuweisen oder Teamleiter können sie neu zuweisen und dabei den Team-Namen für die Berichterstellung beibehalten. &#x200B;
-* **Integration von Ressourcen-Management:** Aufgabengebiete und Team-Zuweisungen unterstützen Ressourcenkapazitäts- und Verfügbarkeitsberechnungen, was die Projektplanung und -ausführung verbessert.
-
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Grundlegendes zu Aufgabenlaufzeiten](/help/manage-work/tasks/understand-task-durations.md)
-* [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
-* [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)
-
+{{$include /help/_includes/assign-tasks-from-the-project-plan.md}}

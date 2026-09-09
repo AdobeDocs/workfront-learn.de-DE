@@ -25,28 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:18:38.976Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 140
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # Deaktivieren einer Projektvorlage
 
-In diesem Video lernen Sie Folgendes:
-
-* Wie Sie eine Projektvorlage freigeben und Rechte zur Aktivierung und Deaktivierung gewähren.
-* Wie Sie eine Projektvorlage aktivieren und deaktivieren.
-
->[!VIDEO](https://video.tv.adobe.com/v/3444999/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Erfahren Sie, wie Sie eine benutzerdefinierte Ansicht erstellen, um den aktiven Status von Projektvorlagen anzuzeigen und zu bearbeiten
-
-Um eine Projektvorlagenansicht mit einer aktiven Statusspalte zu erstellen, sehen Sie sich die Aktivität **Aktive Statusansicht der Projektvorlage** unter [Erstellen einer Basisansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=de) an.
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Erstellen einer Projektvorlage und Informationen über Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Freigeben einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Bearbeiten des Projekt-Teams in einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+{{$include /help/_includes/deactivate-a-project-template.md}}

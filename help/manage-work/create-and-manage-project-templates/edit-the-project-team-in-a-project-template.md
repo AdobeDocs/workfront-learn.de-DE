@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:59:23.948Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
-ht-degree: 68%
+source-wordcount: 34
+ht-degree: 58%
 
 ---
 
 # Bearbeiten des Projekt-Teams in einer Vorlage
 
-In diesem Video lernen Sie Folgendes:
-
-* Wie Sie vermeiden können, dass ungewollt **Nicht-Mitglieder** eines Projekt-Teams in ein Vorlagenprojekt-Team aufgenommen werden.
-* Bearbeiten des Vorlagenprojekt-Teams.
-
->[!VIDEO](https://video.tv.adobe.com/v/3441559/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Erstellen einer Projektvorlage und Erkunden von Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Effektives Freigeben von Projektvorlagen](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Deaktivieren einer Projektvorlage](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-
+{{$include /help/_includes/edit-the-project-team-in-a-project-template.md}}

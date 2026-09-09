@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:52.285Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 87
-ht-degree: 75%
+source-wordcount: 27
+ht-degree: 100%
 
 ---
 
 # Ändern des Projektstatus in „abgeschlossen“
 
-In diesem Video lernen Sie Folgendes:
-
-* Ändern des Projektstatus in [!UICONTROL Abgeschlossen]
-* Warum der Projektstatus in [!UICONTROL Abgeschlossen] geändert werden muss
-* Was Sie tun können, wenn es nicht möglich ist, den Projektstatus in [!UICONTROL Abgeschlossen] zu ändern
-
->[!VIDEO](https://video.tv.adobe.com/v/3439367/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Genehmigungen für Aufgaben und Probleme lösen](/help/manage-work/close-a-project/complete-approvals.md)
-* [Hochladen und Verwalten von Projekt-Assets](/help/manage-work/close-a-project/upload-assets.md)
-* [Erfahrungen für zukünftige Projekte aufzeichnen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Projektstunden protokollieren und überprüfen](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/change-the-project-status.md}}

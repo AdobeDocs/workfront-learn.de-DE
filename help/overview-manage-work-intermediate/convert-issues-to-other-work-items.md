@@ -23,25 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:18.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
-# Umwandeln eines Problems oder einer Anfrage in eine Aufgabe
+# Konvertieren eines Problems oder einer Anfrage in eine Aufgabe
 
-In diesem Video erfahren Sie, wie Sie ein Problem oder eine Anfrage in eine Aufgabe umwandeln.
-
->[!VIDEO](https://video.tv.adobe.com/v/3445439/?captions=ger&quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->Sie können der Projekt-Timeline keine Probleme hinzufügen, da diese „ungeplante Arbeit“ darstellen. Die Projekt-Timeline bezieht sich auf „geplante Arbeit“, d. h. Aufgaben.
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Suchen und Verwalten von Anfragen](/help/manage-work/issues-requests/find-requests.md)
-* [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Umgang mit ungeplanten Arbeiten](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/convert-issues-to-other-work-items.md}}

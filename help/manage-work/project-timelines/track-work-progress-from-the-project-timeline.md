@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:39.713Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 72%
+source-wordcount: 35
+ht-degree: 54%
 
 ---
 
 # Verfolgen Sie den Fortschritt mit den Statuswerten „Prozent abgeschlossen“ und „Fortschritt“
 
-Vergewissern Sie sich, dass Aufgaben wie beabsichtigt vorankommen, um Projektfristen einzuhalten.
-
-In diesem Video lernen Sie Folgendes:
-
-* Prozent abgeschlossen
-* Fortschrittsstatus
-
->[!VIDEO](https://video.tv.adobe.com/v/3438217/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Erkunden von Projektzeitleisten in Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-
-
+{{$include /help/_includes/track-work-progress-from-the-project-timeline.md}}

@@ -25,22 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:35:00.636Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 47
+source-wordcount: 13
 ht-degree: 100%
 
 ---
 
 # Suchen von Projekten
 
-In diesem Video erfahren Sie, wie Sie schnell und einfach Projekte suchen.
-
->[!VIDEO](https://video.tv.adobe.com/v/3439557/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Erste Schritte beim Projekt-Management](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Freigeben eines Projekts](/help/manage-work/projects/share-a-project.md)
-* [Grundlegendes zum Projekt-Team](/help/manage-work/projects/understand-the-project-team.md)
-* [Grundlegendes zur Projektkommunikation](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/find-projects.md}}

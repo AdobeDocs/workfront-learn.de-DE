@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:31:33.943Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 93
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # Freigeben eines Projekts
 
-In diesem Video lernen Sie Folgendes:
-
-* Funktionsweise der automatischen Freigabe in Workfront
-* Freigeben eines Projekts für eine Person
-* Freigeben eines Projekts für ein Team
-* Freigeben eines Projekts durch Aufnahme in ein Portfolio
-* Best Practices für die Freigabe eines Projekts
-
->[!VIDEO](https://video.tv.adobe.com/v/3423148/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Erste Schritte beim Projekt-Management](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Suchen von Projekten](/help/manage-work/projects/find-projects.md)
-* [Grundlegendes zum Projekt-Team](/help/manage-work/projects/understand-the-project-team.md)
-* [Grundlegendes zur Projektkommunikation](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/share-a-project.md}}

@@ -24,30 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:34:31.389Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 40
 ht-degree: 100%
 
 ---
 
 # Erste Schritte bei der Projektplanung
 
-In diesem Video lernen Sie Folgendes:
-
-* Die fünf Hauptkomponenten eines Projekts
-* Was der Planungsstatus aussagt
-* Wie Sie mithilfe einer [!UICONTROL Ansicht] die benötigten Informationen anzeigen können
-* Festlegen des Start- oder Enddatums
-
->[!VIDEO](https://video.tv.adobe.com/v/3448576/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Erstellen von Aufgaben](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Arbeiten mit Aufgaben](/help/manage-work/tasks/work-with-tasks.md)
-* [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Grundlegendes zu Aufgabenlaufzeiten](/help/manage-work/tasks/understand-task-durations.md)
-* [Informationen zum Sequenzieren von Aufgaben](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Grundlegendes zu geplanten Stunden](/help/manage-work/tasks/understand-planned-hours.md)
-* [Grundlegendes zum [!UICONTROL Arbeitsaufwand]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/getting-started-plan-a-project.md}}

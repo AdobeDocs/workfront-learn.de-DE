@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:29.285Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
-ht-degree: 67%
+source-wordcount: 23
+ht-degree: 47%
 
 ---
 
 # Erfahrungen für zukünftige Projekte aufzeichnen
 
-In diesem Video lernen Sie die Vorteile folgender Möglichkeiten kennen:
-
-* Erstellen einer Aufgabe „Gelernte Lektionen“
-* Anhängen eines benutzerdefinierten Formulars „Gelernte Lektionen“ an Ihr Projekt
-* Erstellen benutzerdefinierter Berichte für „Gelernte Lektionen“
-* Erstellen eines Projekts „Gelernte Lektionen“
-
->[!VIDEO](https://video.tv.adobe.com/v/3441021/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Ändern des Projektstatus in „abgeschlossen“](/help/manage-work/projects/change-the-project-status.md)
-* [Genehmigungen für Aufgaben und Probleme lösen](/help/manage-work/close-a-project/complete-approvals.md)
-* [Hochladen und Verwalten von Projekt-Assets](/help/manage-work/close-a-project/upload-assets.md)
-* [Projektstunden protokollieren und überprüfen](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/lessons-learned-from-closing-a-project.md}}

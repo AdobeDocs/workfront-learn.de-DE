@@ -23,26 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:29:57.735Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 69
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # Verfolgen des Fortschritts über die Projekt-Timeline
 
-Vergewissern Sie sich, dass Aufgaben wie beabsichtigt vorankommen, um Projektfristen einzuhalten.
-
-In diesem Video lernen Sie Folgendes:
-
-* Prozent abgeschlossen
-* Fortschrittsstatus
-
->[!VIDEO](https://video.tv.adobe.com/v/3438217/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Grundlegendes zu Projekt-Timelines](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Grundlegendes zu Datumstypen und zum Fortschrittsstatus](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+{{$include /help/_includes/track-work-progress-from-the-project-timeline.md}}

@@ -23,37 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:05:15.685Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # Einrichten von Wechselkursen
 
-[!DNL Workfront] unterstützt verschiedene Währungen für Kundenorganisationen, die multinationale Unternehmen sind. Wechselkurse können in Projekten und Berichten verwendet werden, um Finanzinformationen in verschiedenen Währungen aus aller Welt darzustellen.
-
-Die Wechselkurse werden von den Systemadmins verwaltet. Weitere Währungen können nach Bedarf für Ihr Unternehmen eingerichtet werden.
-
-Die Standardwährung von Workfront ist der amerikanische Dollar. Dies ist die Währung, in der Finanzinformationen standardmäßig berechnet werden. Dieser Standard kann global sowie für einzelne Projekte geändert werden.
-
-## Einrichten von Währungen und Wechselkursen
-
-![Ein Bild zur Auswahl von Wechselkursen](assets/setting-up-finances-4.png)
-
-**Wählen Sie [!UICONTROL Setup] im Hauptmenü.**
-
-1. Erweitern Sie die **[!UICONTROL Projektvoreinstellungen]** in der linken Menüleiste.
-1. Klicken Sie auf **[!UICONTROL Wechselkurse]**.
-1. Klicken Sie dann auf die Schaltfläche **[!UICONTROL Währung hinzufügen]**.
-1. Wählen Sie die Landeswährung aus der Dropdown-Liste aus.
-1. Geben Sie den gewünschten Wechselkurs für die Währung ein.
-1. Wenn eine andere Währung als der US-Dollar die Basiswährung (Standardwährung) des [!DNL Workfront]-Systems sein soll, klicken Sie auf die Schaltfläche neben dem Währungsnamen.
-1. Klicken Sie auf **[!UICONTROL Speichern]**, nachdem Sie alle Währungen hinzugefügt haben.
-
-![Ein Bild vom Hinzufügen einer Währung zur Liste der Wechselkurse](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront aktualisiert oder verfolgt die aktuellen Marktwerte für Wechselkurse nicht. Aktualisierungen müssen, falls nötig, manuell vorgenommen werden.
+{{$include /help/_includes/set-up-exchange-rates.md}}

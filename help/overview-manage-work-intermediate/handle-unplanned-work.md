@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:15:26.822Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 63
+source-wordcount: 15
 ht-degree: 100%
 
 ---
 
 # Umgang mit ungeplanten Arbeiten
 
-In diesem Video lernen Sie Folgendes:
-
-* Wann ein Problem zu protokollieren ist
-* Wie ein Problem zu protokollieren ist
-* Best Practices für das Problem-Management
-
->[!VIDEO](https://video.tv.adobe.com/v/3446575/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Erste Schritte beim Projekt-Management](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Grundlegendes zur Projektkommunikation](/help/manage-work/projects/understand-project-communication.md)
-* [Konvertieren eines Problems oder einer Anfrage in ein Projekt](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Konvertieren eines Problems oder einer Anfrage in eine Aufgabe](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/handle-unplanned-work.md}}

@@ -27,31 +27,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:38:05.522Z'
-source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 184
-ht-degree: 37%
+source-wordcount: 30
+ht-degree: 100%
 
 ---
 
 # Einrichten von Standardwerten für Umsatz und Kosten von Aufgaben
 
-Erfahren Sie, wo die Umsatzart und die Kostentypen verwendet werden und wie Sie die Systemstandardwerte einrichten.
-
->[!VIDEO](https://video.tv.adobe.com/v/3484189/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Wichtige Schlussfolgerungen
-
-* **Anzeigen von Kosten- und Umsatzdaten:** Auf Kosten- und Umsatzdetails für Aufgaben kann durch Öffnen der Aufgabe, Auswählen von Aufgabendetails und Scrollen zum Abschnitt „Finanzen“ zugegriffen werden. &#x200B;
-* **Standardwerte für Aufgaben festlegen** Systemadministratoren können Standardkosten- und Umsatztypen für Projektmanager festlegen, indem sie zu „Setup > Projektvoreinstellungen > Aufgaben und Probleme“ navigieren. &#x200B;
-* **Standard für allgemeinen Umsatztyp:** „Funktion ‚Stündlich‘&quot; ist ein typischer Standard für den Umsatztyp, sodass protokollierte Zeit als potenziell fakturierbar erfasst werden kann, wenn der Benutzer ein Aufgabengebiet mit einer Umsatzrate hat. &#x200B;
-* **Standardkostenart:** wird häufig „Benutzer pro Stunde“ als Standardkostenart verwendet, wobei zur effizienten Nachverfolgung Kostendaten direkt aus dem Benutzerprofil abgerufen werden. &#x200B;
-
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Grundlegendes zu Leistungsmetriken](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [Einrichten von Wechselkursen](/help/manage-work/project-finances/set-up-exchange-rates.md)
-* [Einrichten von Ausgabentypen](/help/manage-work/project-finances/set-up-expense-types.md)
-* [Grundlegendes zum Finanzzugriff](/help/manage-work/project-finances/understand-financial-access.md)
-* [Erstellen von Aufgabengebieten und Tarifkarten](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
+{{$include /help/_includes/set-up-task-revenue-and-cost-defaults.md}}

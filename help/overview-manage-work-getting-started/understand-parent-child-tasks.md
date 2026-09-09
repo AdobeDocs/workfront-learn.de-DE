@@ -25,23 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:28:55.482Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 51
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # Grundlegendes zu über- und untergeordneten Aufgaben
 
-In diesem Video lernen Sie Folgendes:
-
-* Strukturieren von Aufgaben in einem [!DNL Workfront]-Projekt
-
->[!VIDEO](https://video.tv.adobe.com/v/3445605/?captions=ger&quality=12&learn=on&enablevpops=1)
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Erstellen von Aufgaben](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Arbeiten mit Aufgaben](/help/manage-work/tasks/work-with-tasks.md)
-* [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+{{$include /help/_includes/understand-parent-child-tasks.md}}

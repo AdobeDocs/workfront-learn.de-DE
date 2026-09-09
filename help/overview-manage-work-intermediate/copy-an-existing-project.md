@@ -23,29 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:21:23.208Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 158
+source-wordcount: 18
 ht-degree: 100%
 
 ---
 
 # Ein bestehendes Projekt kopieren
 
-Manchmal brauchen Sie keine Vorlage, um ein Projekt zu erstellen, sondern müssen nur ein Projekt zur einmaligen Verwendung kopieren. Dazu benötigen Sie eine Standardlizenz mit Zugriffsrechten zum Bearbeiten und Erstellen von Projekten.
-
-Navigieren Sie zu dem Projekt, das Sie kopieren möchten, und klicken Sie auf die drei Punkte neben dem Projektnamen. Wählen Sie dann „Kopieren“.
-
-![Menüoption „Projekt kopieren“](assets/copy-existing-01.png)
-
-Im Fenster „Projekt kopieren“ können Sie den Titel und den Status ändern sowie eine Reihe von Daten löschen, die mit dem Projekt verbunden sind, z. B. Zuordnungen, Dokumente und benutzerdefinierte Daten.
-
-![Optionen von „Projekt kopieren“](assets/copy-existing-02.png)
-
-Wenn Sie Zuordnungen löschen oder den Status auf „Planung“ setzen, wird verhindert, dass das kopierte Projekt direkt nach dem Kopieren Benachrichtigungen über Aufgabenzuordnungen versendet.
-
-## Empfohlene Tutorials zu diesem Thema
-
-* [Erstellen eines Projekts direkt aus einer Vorlage](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Arbeiten mit Aufgaben](/help/manage-work/tasks/work-with-tasks.md)
-* [Zuweisen von Aufgaben aus dem Projektplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+{{$include /help/_includes/copy-an-existing-project.md}}
