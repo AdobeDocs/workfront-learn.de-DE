@@ -7,7 +7,7 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: '2024-08-23T00:00:00.000Z'
+last-substantial-update: '2026-09-09T00:00:00.000Z'
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:34:02.499Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 954
+source-wordcount: 1033
 ht-degree: 6%
 
 ---
@@ -48,52 +48,54 @@ Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - &#x200B;](http
 
 Erfahren Sie, was ein Projekt in Adobe Workfront ist, wie Sie es einrichten und ausführen und wie Sie ein Projekt am häufigsten erstellen.
 
-* [Grundlegendes zur einfachen &#x200B;](understand-basic-project-creation.md): Erfahren Sie mehr über die vier Schritte zum Einrichten und Ausführen eines Projekts, die Definition eines Projekts in Adobe Workfront und die häufigsten Methoden zum Erstellen eines Projekts.
-* [Problem/Anfrage in ein Projekt konvertieren](create-a-project-from-a-request.md) - Erfahren Sie, wie Sie die Konvertierung von einer Anfrage in ein Projekt initiieren und die entsprechende Projektvorlage auswählen.
-* [Vier Möglichkeiten zum Erstellen eines Projekts](understand-other-ways-to-create-projects.md) - Erfahren Sie, wie Sie ein Projekt aus einer Vorlage erstellen, ein Projekt von Grund auf neu erstellen, ein vorhandenes Projekt kopieren oder eine [!DNL Microsoft Project]-Datei importieren.
-* [Ausfüllen der Projektdetails](fill-in-the-project-details.md) - Erfahren Sie mehr über die Projektdetailfelder, die Adobe Workfront Ihnen empfiehlt, beim Erstellen eines Projekts auszufüllen.
+* [Erstellen und Verwalten eines Projekts von Grund auf](understand-basic-project-creation.md) - Erfahren Sie mehr über die vier Schritte zum Einrichten und Ausführen eines Projekts, die Definition eines Projekts in Adobe Workfront und die häufigsten Methoden zum Erstellen eines Projekts.
+* [Problem oder Anfrage in ein Projekt konvertieren](create-a-project-from-a-request.md) - Erfahren Sie, wie Sie die Konvertierung von einer Anfrage in ein Projekt initiieren und die entsprechende Projektvorlage auswählen.
+* [Vier Methoden zum Erstellen eines Projekts](understand-other-ways-to-create-projects.md) - Erfahren Sie, wie Sie ein Projekt aus einer Vorlage erstellen, ein Projekt von Grund auf neu erstellen, ein vorhandenes Projekt kopieren oder eine [!DNL Microsoft Project]-Datei importieren.
+* [Wesentliche Projektdetails ausfüllen](fill-in-the-project-details.md) - Erfahren Sie mehr über die Projektdetailfelder, die Adobe Workfront Ihnen empfiehlt, beim Erstellen eines Projekts auszufüllen.
 * [Navigieren auf der Projektseite](navigate-the-project-page.md) - Erfahren Sie, wie Sie die Details eines Projekts anzeigen, welche Informationen in der Aufgabenliste angezeigt werden, wo Dokumente hochgeladen werden und wie Sie den Aktualisierungsverlauf anzeigen.
 
 ## Planen eines Projekts
 
 Erfahren Sie, wie Sie eine Projekt-Zeitleiste einrichten, die zu erledigende Arbeit identifizieren, Zuweisungen vornehmen und Ihr Projekt starten.
 
-* [Erste Schritte mit der Planung eines Projekts](getting-started-plan-a-project.md) - Erfahren Sie mehr über die fünf Hauptkomponenten eines Projekts, was der Status bedeutet, wie eine [!UICONTROL Ansicht] Ihnen helfen kann, relevante Informationen anzuzeigen, und wie Sie das Start- oder Fälligkeitsdatum festlegen.
-* [Aufgaben erstellen](how-to-create-tasks.md) - Lernen Sie mehrere Methoden zum Erstellen von Aufgaben in einem Projekt kennen.
-* [Untergeordnete Aufgaben verstehen](understand-parent-child-tasks.md) - Erfahren Sie, wie Aufgaben mithilfe einer hierarchischen Beziehung in einem Projekt strukturiert sind.
-* [Arbeiten mit Aufgaben](work-with-tasks.md) - Erfahren Sie, wie Sie vorhandene Aufgaben bearbeiten, Aufgaben hinzufügen und löschen und die Aufgabenreihenfolge in einem Projekt ändern.
+* [Projekt mit aktuellem Status verwalten](getting-started-plan-a-project.md) - Erfahren Sie mehr über die fünf Hauptkomponenten eines Projekts, was der Status bedeutet, wie eine [!UICONTROL Ansicht] Ihnen helfen kann, relevante Informationen anzuzeigen, und wie Sie das Start- oder Fälligkeitsdatum festlegen.
+* [Aufgaben effizient in Workfront erstellen](how-to-create-tasks.md) - Lernen Sie mehrere Methoden kennen, um Aufgaben in einem Projekt zu erstellen.
+* [Verstehen von Beziehungen zwischen übergeordneten und untergeordneten Aufgaben](understand-parent-child-tasks.md) - Erfahren Sie, wie Aufgaben mithilfe einer hierarchischen Beziehung in einem Projekt strukturiert sind.
+* [Aufgaben effizient in Workfront verwalten](work-with-tasks.md) - Erfahren Sie, wie Sie bestehende Aufgaben bearbeiten, Aufgaben hinzufügen und löschen und die Aufgabenreihenfolge in einem Projekt ändern können.
 * [Aufgaben aus dem Projektplan zuweisen](assign-tasks-from-the-project-plan.md) - Erfahren Sie, wie Sie einer Aufgabe mithilfe von Inline-Bearbeitung in einem Projekt einen Benutzer zuweisen.
 * [Dauer von Aufgaben verstehen](understand-task-durations.md) - Erfahren Sie, wie sich die Dauer auf das Start- und Abschlussdatum von Aufgaben auswirkt, wie sich die Dauer auf die Projektzeitleisten auswirkt und welche Best Practices für die Verwendung der Aufgabendauer gelten.
-* [Aufgaben sequenzieren](learn-to-sequence-tasks.md) - Erfahren Sie, was Vorgänger sind und wie sie Aufgaben in einem Projekt sequenzieren. Lernen Sie, mithilfe von Zeiträumen und Vorgängern eine Timeline zu erstellen.
+* [Aufgaben in Workfront effektiv sequenzieren](learn-to-sequence-tasks.md) - Erfahren Sie, was Vorgänger sind und wie sie Aufgaben in einem Projekt sequenzieren. Lernen Sie, mithilfe von Zeiträumen und Vorgängern eine Timeline zu erstellen.
 * [Planstunden verstehen](understand-planned-hours.md) - Erfahren Sie, was in Adobe Workfront geplant ist, warum die geplanten Stunden für Ihr Projekt wichtig sind und wie Sie den Aufgaben die geplanten Stunden hinzufügen.
-* [Projektzeitleisten verstehen](understand-project-timelines.md) - Erfahren Sie, wie Sie Projekte ab einem Start- oder Abschlussdatum planen. Erfahren Sie anschließend, wie sich Dauer, Vorgänger und Aufgabenbeschränkungen auf den Projektplan auswirken.
+* [Erkunden von Projektzeitleisten in Workfront](understand-project-timelines.md) - Erfahren Sie, wie Sie Projekte ab einem Start- oder Abschlussdatum planen. Erfahren Sie anschließend, wie sich Dauer, Vorgänger und Aufgabenbeschränkungen auf den Projektplan auswirken.
 * [Datumstypen und Fortschrittsstatus verstehen](understand-task-dates-and-progress-status.md) - Erfahren Sie, wie Sie eine Ansicht auswählen, um die verschiedenen Datumstypen in Workfront zu vergleichen, und wie Sie das Feld „Fortschrittsstatus“ verwenden.
-* [Grundlegendes [!UICONTROL Work Effort]](understand-work-effort.md) - Erfahren Sie, wie Sie in Ihrer Projektzeitleiste [!UICONTROL Work Effort] anstelle der geplanten Stunden verwenden können.
+* [Kalkulation der Aufgabenstunden mit Work Effort](understand-work-effort.md) - Erfahren Sie, wie Sie [!UICONTROL Work Effort] anstelle der geplanten Stunden in Ihrer Projektzeitleiste verwenden können.
 * [Projekt live schalten](take-a-project-live.md) - Erfahren Sie, wie Sie Ihr Projekt mithilfe des Projektstatus live schalten können.
 
 ## Verwalten eines Projekts
 
 Erfahren Sie, wie Sie die Projektarbeit verfolgen und mit Stakeholdern kommunizieren können.
 
-* [Erste Schritte beim Verwalten eines Projekts](getting-started-manage-a-project.md) Erfahren Sie, welche Rolle Sie als Projekt-Manager haben und was Sie bei der Überwachung der Projektarbeit beachten müssen.
-* [Projekte suchen](find-projects.md) - Erfahren Sie, wie Sie Ihre Projekte mithilfe von Anheftungen, Favoriten, Dashboards und der Seite [!UICONTROL Projekte] finden.
-* [Projekt freigeben](share-a-project.md) - Erfahren Sie, wie Sie ein Projekt freigeben können, damit Stakeholder und andere, die am Projekt interessiert sind, Einblick in die durchgeführten Arbeiten erhalten.
+* [Verwalten eines Projekts mit aktuellem Status](getting-started-manage-a-project.md) - Erfahren Sie, welche Rolle Sie als Projekt-Manager haben und was Sie bei der Überwachung der Projektarbeit beachten müssen.
+* [Projekte effizient finden](find-projects.md) - Erfahren Sie, wie Sie Ihre Projekte mithilfe von Anheftungen, Favoriten, Dashboards und der Seite [!UICONTROL Projekte] finden.
+* [Freigeben von Projekten in Workfront](share-a-project.md) - Erfahren Sie, wie Sie ein Projekt freigeben können, damit Stakeholder und andere am Projekt interessierte Personen Einblick in die durchgeführten Arbeiten erhalten.
 * [Grundlegendes zum Projektteam](understand-the-project-team.md) - Erfahren Sie, wofür das Projektteam verwendet werden kann und wie es gepflegt wird.
-* [Projektkommunikation verstehen](understand-project-communication.md) - Erfahren Sie, wie Sie mithilfe von Aktualisierungen bei Projekten, Aufgaben, Problemen und Dokumenten über die Projektarbeit kommunizieren können.
-* [Projektinformationen anzeigen](view-project-information.md) - Erfahren Sie, wie [!UICONTROL Filter], [!UICONTROL Ansichten] und [!UICONTROL Gruppierungen] Projektinformationen leicht sichtbar machen können, um Sie bei der Projektverwaltung zu unterstützen.
+* [Projekterfolg durch effektive Kommunikation steigern](understand-project-communication.md) - Erfahren Sie, wie Sie mithilfe von Aktualisierungen zu Projekten, Aufgaben, Problemen und Dokumenten über die Projektarbeit kommunizieren können.
+* [Filter, Ansichten und Gruppierungen für das Projekt-Management erkunden](view-project-information.md) - Erfahren Sie, wie [!UICONTROL Filter], [!UICONTROL Ansichten] und [!UICONTROL Gruppierungen] Projektinformationen einfach sichtbar machen können, um Sie bei der Verwaltung von Projekten zu unterstützen.
 * [Gesamtprojektfortschritt verfolgen](track-overall-project-progress.md) - Erfahren Sie, wie Sie mithilfe der im Projekt-Header angezeigten Informationen den Gesamtprojektfortschritt und den Gesamtzustand verfolgen können.
 * [Arbeitsfortschritt mit Projektmetriken verfolgen](track-work-progress-with-project-metrics.md) - Erfahren Sie, wie Sie mithilfe von Diagrammen mit Projektmetriken den Fortschritt bei der Projektarbeit verfolgen können.
-* [Verfolgen des Fortschritts aus der Projektzeitleiste](track-work-progress-from-the-project-timeline.md) - Erfahren Sie, wie Sie den Fortschritt der Arbeit aus der Projektzeitleiste mithilfe von „Prozent abgeschlossen“, Status, Zuweisungen und Aufgabenbeschränkungen verfolgen.
-* [Grundlegendes zur [!UICONTROL Gantt]Ansicht](understand-the-gantt-view.md) - Erfahren Sie, wie Sie das Projekt-[!UICONTROL Gantt]-Diagramm und das Aufgaben-[!UICONTROL Gantt] verwenden.
-* [Grundlegendes zur [!UICONTROL Board]Ansicht](understand-the-board-view.md) - Erfahren Sie, wo Sie die Board-Ansicht finden und wie Sie sie verwenden.
+* [Verfolgen des Fortschritts mit dem Status „Prozent abgeschlossen“ und „Fortschritt](track-work-progress-from-the-project-timeline.md) - Erfahren Sie, wie Sie den Fortschritt der Arbeit aus der Projekt-Zeitleiste mithilfe des Schritts „Prozent abgeschlossen“, des Status, der Zuweisungen und der Aufgabenbeschränkungen verfolgen können.
+* [Problemstatus effektiv aktualisieren](update-the-issue-status.md) - Erfahren Sie mehr über Problemstatus und Best Practices zu ihrer Verwendung.
+* [Aufgabenstatus für präzise Berichte aktualisieren](update-the-task-status.md) - Erfahren Sie, wie, warum und wie oft der Aufgabenstatus aktualisiert werden soll.
+* [Gantt-Ansicht für das Projekt-Management erkunden](understand-the-gantt-view.md) - Erfahren Sie, wie Sie das Projekt-[!UICONTROL Gantt-Diagramm] und das Aufgaben-[!UICONTROL Gantt-] verwenden.
+* [Erkunden der Board-Ansicht für die Aufgabenverwaltung](understand-the-board-view.md) - Erfahren Sie, wo Sie die Board-Ansicht finden und wie Sie sie verwenden.
 
 ## Schließen eines Projekts
 
 Erfahren Sie, wie Sie Aufgaben und Probleme schließen, Genehmigungen abschließen, gewonnene Erkenntnisse aufzeichnen und das Projekt schließen.
 
 * [Ändern des Projektstatus in „abgeschlossen](change-the-project-status.md) - Erfahren Sie, wie Sie den Projektstatus in „abgeschlossen“ ändern, warum Sie ihn ändern sollten und was zu tun ist, wenn Sie ihn nicht in „abgeschlossen“ ändern können.
-* [Vollständige Genehmigungen](complete-approvals.md) - Erfahren Sie, wie Sie unvollständige Genehmigungen identifizieren und auflösen können, damit Sie Ihr Projekt schließen können.
-* [Assets hochladen](upload-assets.md) - Laden Sie Dokumente, Korrekturabzüge und andere Assets in das Projekt hoch, bevor Sie es schließen, um sicherzustellen, dass alle relevanten Daten mit dem Projekt verknüpft sind.
-* [Erlernte Lektionen aufzeichnen](lessons-learned-from-closing-a-project.md) - Erfahren Sie, wie Sie eine Aufgabe „Gelernte Lektionen“ einbeziehen können, um zu ermitteln, was gut gelaufen ist und was beim nächsten Mal verbessert werden kann.
-* [Stunden protokollieren und überprüfen](log-and-review-hours.md) - Vor dem Schließen eines Projekts sind die noch offenen Stunden aufzuzeichnen und die protokollierten Stunden zu überprüfen.
-* [Finanzen aktualisieren und überprüfen](update-and-review-finances.md) - Wenn Ihr Unternehmen Workfront verwendet, um projektbezogene Finanzinformationen zu verfolgen, kann die Überprüfung von Ausgaben und das Erstellen von Rechnungsnachweisen Teil Ihres Prozesses zum Schließen eines Projekts sein.
+* [Aufgaben- und Problemgenehmigungen lösen](complete-approvals.md) Erfahren Sie, wie Sie unvollständige Genehmigungen identifizieren und auflösen können, damit Sie Ihr Projekt schließen können.
+* [Projekt-Assets hochladen und verwalten](upload-assets.md) - Laden Sie Dokumente, Korrekturabzüge und andere Assets in das Projekt hoch, bevor Sie es schließen, um sicherzustellen, dass alle relevanten Daten mit dem Projekt verknüpft sind.
+* [Erfahrungen für zukünftige Projekte aufzeichnen](lessons-learned-from-closing-a-project.md) - Erfahren Sie, wie Sie eine Aufgabe „Erfahrungsauswertung“ einbeziehen können, um zu ermitteln, was gut gelaufen ist und was beim nächsten Mal verbessert werden kann.
+* [Projektstunden protokollieren und überprüfen](log-and-review-hours.md) - Vor dem Schließen eines Projekts überarbeitete Stunden aufzeichnen und protokollierte Stunden überprüfen.
+* [Finanzen für Kundenprojekte aktualisieren](update-and-review-finances.md) - Wenn Ihr Unternehmen Workfront verwendet, um projektbezogene Finanzinformationen zu verfolgen, können die Überprüfung von Ausgaben und das Erstellen von Rechnungsnachweisen Teil Ihres Prozesses zum Schließen eines Projekts sein.

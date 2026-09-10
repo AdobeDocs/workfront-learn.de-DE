@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 146
-ht-degree: 26%
+source-wordcount: 154
+ht-degree: 24%
 
 ---
 
@@ -43,6 +43,6 @@ Adobe Workfront soll keine Finanz-Tracking- oder Abrechnungssoftware ersetzen, d
 >* Standardlizenztyp mit Berechtigungen zum Bearbeiten von Finanzdaten
 
 
-* [Finanzen aktualisieren und überprüfen](update-and-review-finances.md) - Erfahren Sie, wie Sie die mit einem Projekt verknüpften Finanzinformationen überprüfen.
-* [Finanz-Informationen suchen](find-financial-information.md) - Erfahren Sie, wie Sie Finanz-Informationen zu einem Projekt finden und verstehen, woher es stammt.
-* [Mehrere Abrechnungssätze verstehen](multiple-billing-rates.md) - Erfahren Sie, wie Sie Systemabrechnungssätze innerhalb eines bestimmten Projekts überschreiben.
+* [Zugriff auf und Verwaltung von Finanzinformationen für &#x200B;](find-financial-information.md) - Erfahren Sie, wie Sie Finanzinformationen zu einem Projekt finden und verstehen können, woher es stammt.
+* [Finanzen für Kundenprojekte aktualisieren](update-and-review-finances.md) - Erfahren Sie, wie Sie die mit einem Projekt verknüpften Finanzinformationen überprüfen.
+* [Anpassen der Abrechnungssätze für Aufgabengebiete](multiple-billing-rates.md) - Erfahren Sie, wie Sie die Systemabrechnungssätze innerhalb eines bestimmten Projekts überschreiben.

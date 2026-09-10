@@ -21,23 +21,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 65
-ht-degree: 84%
+source-wordcount: 26
+ht-degree: 61%
 
 ---
 
 # Erstellen von Meilensteinpfaden und -schritten
 
-In diesem Video lernen Sie Folgendes:
-
-* Was Meilensteinpfade sind
-* Erstellen von Meilensteinpfaden
-* Hinzufügen von Meilensteinschritten zu einem Meilensteinpfad
-
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->Systemadmins können Benutzenden mit Planlizenzen Zugriff darauf geben, ihre eigenen Meilensteinpfade zu erstellen.
+{{$include /help/_includes/creating-milestones.md}}
