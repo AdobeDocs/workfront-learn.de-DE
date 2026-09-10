@@ -13,11 +13,16 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:34:02.499Z'
 source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
@@ -32,7 +37,7 @@ Beginnen Sie Ihre Tour durch Workfront, indem Sie lernen, Projekte zu erstellen 
 
 In diesem Tutorial erfahren Sie, wie Sie ein Projekt erstellen, ein Projekt planen, ein Projekt verwalten und ein Projekt schließen.
 
-Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
+Nach Abschluss dieses Tutorials empfehlen wir [Arbeit verwalten - &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)), um Ihre Projektmanagement-Fähigkeiten weiter zu verbessern.
 
 >[!PREREQUISITES]
 >
