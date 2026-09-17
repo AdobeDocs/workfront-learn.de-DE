@@ -1,6 +1,6 @@
 ---
 title: Router – Anleitung
-description: Erfahren Sie, wie Sie einen Router verwenden, um Pokemon vs. Superhelden-Bündel über den richtigen Pfad in [!DNL Adobe Workfront Fusion]zu leiten.
+description: Erfahren Sie, wie Sie mit einem Router Pokemon vs. Superhelden-Bundles auf dem richtigen Pfad in [!DNL Adobe Workfront Fusion] weiterleiten können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,28 +10,32 @@ level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 doc-type: video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:35:48.709Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 873
-ht-degree: 100%
-
+source-wordcount: '873'
+ht-degree: 98%
 ---
-
 # Router – Anleitung
 
-Verwenden Sie einen Router, um die Bündel „Pokemon vs. Superhelden“ auf den richtigen Weg zu bringen, und erstellen Sie dann eine Aufgabe für jede Figur.
+Verwenden Sie einen Router, um die Pakete „Pokemon vs. Superhelden“ auf den richtigen Weg zu bringen, und erstellen Sie dann eine Aufgabe für jede Figur.
 
 ![Ein Bild des Fusion-Szenarios](assets/universal-connectors-and-routing-2.png)
 
@@ -43,9 +47,9 @@ Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, di
 
 ## Übungs-URLs
 
-* Website der Superhero-API: `https://www.superheroapi.com/`
-* Erste URL für die Übung: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* Zweite URL für die Übung: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* Website der Superhero-API: `https://superheroapi.com/`
+* Erste URL für die Übung: `https://superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Zweite URL für die Übung: `https://superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Wenn Sie Probleme haben, auf Ihr eigenes Superhelden-Token zuzugreifen, können Sie dieses gemeinsame Token verwenden: 10110256647253588. Bitte achten Sie darauf, wie oft Sie die Superhelden-API aufrufen, damit dieses gemeinsame Token weiterhin für alle funktioniert.
 
