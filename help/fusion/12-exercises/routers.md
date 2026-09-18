@@ -10,32 +10,36 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 760
-ht-degree: 100%
-
+source-wordcount: '762'
+ht-degree: 96%
 ---
-
 # Übung zu Routern
 
 Machen Sie sich mit der Wichtigkeit von Routern vertraut und erfahren Sie, wie sie zur bedingten Verarbeitung verschiedener Module verwendet werden können.
 
 ## Übungsübersicht
 
-Verwenden Sie einen Router, um die Bündel „Pokemon vs. Superhelden“ auf den richtigen Weg zu bringen, und erstellen Sie dann eine Aufgabe für jede Figur.
+Verwenden Sie einen Router, um die Pakete „Pokemon vs. Superhelden“ auf den richtigen Weg zu bringen, und erstellen Sie dann eine Aufgabe für jede Figur.
 
 ![Router Bild 1](../12-exercises/assets/routers-walkthrough-1.png)
 
@@ -64,14 +68,14 @@ Verwenden Sie einen Router, um die Bündel „Pokemon vs. Superhelden“ auf den
 
    **Als Nächstes ändern Sie die zugeordneten Werte in den neuen geklonten Modulen.**
 
-1. Navigieren Sie zu <https://www.superheroapi.com/> und verwenden Sie Ihr Facebook-Konto, um ein Zugriffs-Token zu erhalten.
+1. Gehen Sie zu <https://superheroapi.com/> und klicken Sie auf **Mit GitHub anmelden** um ein Zugriffs-Token zu erhalten.
 
    >[!NOTE]
    >
    >Wenn Sie Probleme haben, auf Ihr eigenes Superhelden-Token zuzugreifen, können Sie dieses gemeinsame Token verwenden: 10110256647253588. Bitte achten Sie darauf, wie oft Sie die Superhelden-API aufrufen, damit dieses gemeinsame Token weiterhin für alle funktioniert.
 
-1. Öffnen Sie die Einstellungen für „Superhelden-Aussehen abrufen“ und ändern Sie die URL zu `https://www.superheroapi.com/api/[access- token]/332/appearance`. Vergewissern Sie sich, dass Ihr Zugriffs-Token in der URL enthalten ist. Klicken Sie auf „OK“.
-1. Öffnen Sie die Einstellungen für „Superhelden-Fähigkeiten abrufen“ und ändern Sie die URL zu `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Vergewissern Sie sich, dass Ihr Zugriffs-Token in der URL enthalten ist. Klicken Sie auf „OK“.
+1. Öffnen Sie die Einstellungen für „Superhelden-Aussehen abrufen“ und ändern Sie die URL zu `https://superheroapi.com/api/[access- token]/332/appearance`. Vergewissern Sie sich, dass Ihr Zugriffs-Token in der URL enthalten ist. Klicken Sie auf „OK“.
+1. Öffnen Sie die Einstellungen für „Superhelden-Fähigkeiten abrufen“ und ändern Sie die URL zu `https://superheroapi.com/api/[access- token]/332/powerstats`. Vergewissern Sie sich, dass Ihr Zugriffs-Token in der URL enthalten ist. Klicken Sie auf „OK“.
 1. Klicken Sie mit der rechten Maustaste auf jedes Superhelden-Modul und wählen Sie „Nur dieses Modul ausführen“. Dadurch wird die Datenstruktur generiert, die Sie für die Zuordnung sehen müssen.
 1. Nachdem Sie beides ausgeführt haben, ändern Sie die Zahl „332“ in jedem URL-Feld in Spalte 4, die vom Modul „CSV-Analyse“ zugeordnet wird.
 
@@ -79,7 +83,7 @@ Verwenden Sie einen Router, um die Bündel „Pokemon vs. Superhelden“ auf den
 
    **Jetzt können Sie in das Modul „Mehrere Variablen festlegen“ im Superhelden-Pfad klicken und den Namen, die Größe, das Gewicht und die Fähigkeiten aktualisieren.**
 
-1. Aktualisieren Sie die Felder „Name“ und „Fähigkeiten“ im Modul „Superhelden-Fähigkeiten abrufen“ – Modul 8.
+1. Aktualisieren Sie die Felder Name und Fähigkeiten aus dem Modul Superhelden-Fähigkeiten abrufen - Modul 8.
 
    ![Router Bild 5](../12-exercises/assets/routers-walkthrough-5.png)
 
