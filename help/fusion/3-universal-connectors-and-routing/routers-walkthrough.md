@@ -43,7 +43,7 @@ Verwenden Sie einen Router, um die Pakete „Pokemon vs. Superhelden“ auf den 
 
 Workfront empfiehlt, sich das Anleitungsvideo anzusehen, bevor Sie versuchen, die Übung in Ihrer eigenen Umgebung neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3503590/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Übungs-URLs
 
