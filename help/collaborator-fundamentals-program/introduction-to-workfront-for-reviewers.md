@@ -24,4 +24,4 @@ ht-degree: 70%
 
 In diesem Video erfahren Sie, wie Sie [!DNL &#x200B; Workfront] mit einer Prüfer-Lizenz verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438695/?captions=ger&quality=12&learn=on&enablevpops=1)

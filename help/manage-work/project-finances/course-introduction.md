@@ -34,4 +34,4 @@ In diesem Video lernen Sie Folgendes:
 * Verfolgen der Kosten und Einnahmen
 * Umgang mit Ausgaben
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436436/?captions=ger&quality=12&learn=on&enablevpops=1)

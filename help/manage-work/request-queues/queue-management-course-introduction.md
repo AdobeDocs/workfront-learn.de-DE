@@ -32,4 +32,4 @@ ht-degree: 70%
 
 In diesem Video erfahren Sie, wie Anfrage-Warteschlangen in [!DNL &#x200B; Workfront] das Bedarfs-Management zentralisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437599/?captions=ger&quality=12&learn=on&enablevpops=1)

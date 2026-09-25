@@ -30,4 +30,4 @@ ht-degree: 62%
 
 In diesem Video erfahren Sie, welche Elemente – z. B. Datumstypen und Aufgabenbegrenzungen – beim Erstellen und Verwalten von Projekt-Timelines in [!DNL &#x200B; Workfront] verwendet werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436749/?captions=ger&quality=12&learn=on&enablevpops=1)

@@ -36,7 +36,7 @@ In diesem Video lernen Sie Folgendes:
 * Gruppen
 * Teams
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444283/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 Bevor Sie mit der Benutzerorganisation in [!DNL Workfront] beginnen, sollten Sie sich mit einigen Schlüsselbegriffen vertraut machen.
 
