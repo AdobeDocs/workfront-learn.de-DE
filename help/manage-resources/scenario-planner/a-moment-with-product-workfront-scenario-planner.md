@@ -1,6 +1,6 @@
 ---
-title: Einführung in  [!DNL Scenario Planner]
-description: Erfahren Sie, wie der [!DNL Scenario Planner] Sie dabei unterstützen kann, Entscheidungen an das gewünschte Ergebnis für Ihr Unternehmen anzupassen. Erfahren Sie, wie Sie durch den [!DNL Scenario Planner]navigieren.
+title: Einführung in [!DNL Scenario Planner]
+description: Erfahren Sie, wie die [!DNL Scenario Planner] bei der Abstimmung von Entscheidungen auf die Ergebnisse für Ihr Unternehmen helfen kann. Erfahren Sie, wie Sie [!DNL Scenario Planner] navigieren.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -14,22 +14,30 @@ autotag-review: '2026-05-19T19:49:17.262Z'
 TQID: 'https://experienceleague.adobe.com/oNmJkTA3xUOKfsQKMg26Fet4z9P4g0iQCU0sa8oBlgo'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: d3382524-5489-431b-bde9-271ab257bc37
+    internal-label: Workfront Scenario Planner
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: ba41ec5720eab1d33d720637133a01dcc88c1b27
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 47
-ht-degree: 100%
-
+source-wordcount: '48'
+ht-degree: 60%
 ---
-
 # Ein Moment mit dem Produkt: Einführung in den [!DNL Scenario Planner]
 
 In diesem Video werden Sie:

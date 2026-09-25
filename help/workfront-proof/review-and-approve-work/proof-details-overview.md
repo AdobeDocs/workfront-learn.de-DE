@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Korrekturabzugsdetails
-description: Dringen Sie tiefer in die Details eines Korrekturabzugs in [!DNL &#x200B; Workfront] über das Bedienfeld „Zusammenfassung“ und die Seite [!UICONTROL Dokumentdetails] ein.
+description: Vertiefen Sie sich in der [!DNL  Workfront] durch das Bedienfeld „Zusammenfassung“ und die Seite "[!UICONTROL " ] Details zu einem Korrekturabzug.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,29 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
+autotag-review: '2026-05-05T19:56:45.995Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:56:45.995Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1038
-ht-degree: 97%
-
+source-wordcount: '1039'
+ht-degree: 95%
 ---
-
 # Grundlegendes zu Korrekturabzugsdetails
 
 ## Anzeigen von Korrekturabzugsdetails
@@ -58,7 +63,7 @@ Klicken Sie auf [!UICONTROL Dokumentdetails], um weitere Informationen über den
 
 Dadurch gelangen Sie zur Seite [!UICONTROL Dokumentdetails] und zu einer Vielzahl zusätzlicher Optionen im linken Panel.
 
-![Ein Bild der Seite des Korrekturabzugs in [!DNL &#x200B; Workfront].](assets/document-details.png)
+![Ein Bild der Seite des Korrekturabzugs in [!DNL  Workfront].](assets/document-details.png)
 
 Beachten Sie, dass die Möglichkeit, Informationen zum Proofing-Prozess zu sehen, von Ihren Proofing-Berechtigungen in [!DNL Workfront] abhängt.
 
@@ -80,7 +85,7 @@ Mithilfe dieser Einstellungen können Sie den Zugriff auf den Korrekturabzug sel
 
 * **[!UICONTROL Anmeldung erforderlich. Dieser Korrekturabzug kann nicht für Gastbenutzerinnen und Gastbenutzer freigegeben werden]** – Der Korrekturabzug kann nur für Personen freigegeben werden, die über eine [!DNL Workfront]-Proofing-Lizenz verfügen.
 * **[!UICONTROL Entscheidungen müssen elektronisch signiert werden] –** Für die Freigabe eines Korrekturabzugs muss die Empfängerin bzw. der Empfänger über Proofing-Berechtigungen in [!DNL Workfront] verfügen und muss den Korrekturabzug „elektronisch signieren“, indem sie bzw. er bei einer Korrekturabzugs-Entscheidung das Proofing-Passwort eingibt. (Hinweis: Das Proofing-Passwort ist ein anderes als Ihr [!DNL Workfront]-Passwort. Das Proofing-Kennwort ist nicht leicht zugänglich, sodass die meisten Empfänger dieses Kennwort nicht kennen.) Adobe empfiehlt, vor der Verwendung dieser Funktion mit Ihrem [!DNL Workfront] zu sprechen.
-* **[!UICONTROL Korrekturabzug sperren, wenn alle erforderlichen Entscheidungen getroffen sind &#x200B;]** – Auf diese Weise wird der Korrekturabzug für alle weiteren Kommentare, Antworten, Entscheidungen usw. gesperrt, sobald alle Entscheidungen zu dem Korrekturabzug getroffen sind. Dadurch wird die gesamte Korrekturabzugsversion gesperrt, nicht nur ein bestimmter Schritt des Proofing-Workflows.
+* **[!UICONTROL Korrekturabzug sperren, wenn alle erforderlichen Entscheidungen getroffen sind ]** – Auf diese Weise wird der Korrekturabzug für alle weiteren Kommentare, Antworten, Entscheidungen usw. gesperrt, sobald alle Entscheidungen zu dem Korrekturabzug getroffen sind. Dadurch wird die gesamte Korrekturabzugsversion gesperrt, nicht nur ein bestimmter Schritt des Proofing-Workflows.
 * **[!UICONTROL Herunterladen der Originaldatei zulassen] –** Empfängerinnen und Empfänger des Korrekturabzugs können die ursprüngliche Quelldatei des Korrekturabzugs vom Proofing-Viewer herunterladen.
 * **[!UICONTROL Freigabe des Korrekturabzugs über öffentliche URL oder Einbettungs-Code zulassen]** – Empfängerinnen und Empfänger eines Korrekturabzugs können für alle einen öffentlich zugänglichen Korrekturabzug-Link freigeben.
 * **[!UICONTROL Abonnieren des Korrekturabzugs über öffentliche URL oder Einbettungs-Code zulassen] –** Alle, die die öffentliche URL erhalten, können sich mit E-Mail-Adresse und Name (falls es sich nicht um Benutzende des Korrekturabzugs handelt) bzw. mit E-Mail-Adresse und Proofing-Passwort (falls es sich um eine Benutzerin bzw. einen Benutzer des Proofing handelt) zum Korrekturabzug hinzufügen. (Hinweis: Das Proofing-Passwort ist ein anderes als das [!DNL Workfront]-Passwort.)

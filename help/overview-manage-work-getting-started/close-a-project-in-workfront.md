@@ -1,6 +1,6 @@
 ---
 title: Schließen eines Projekts
-description: Erfahren Sie, welche Informationen in [!DNL  Workfront]überprüft werden müssen und warum es wichtig ist, Daten in einem Projekt zu aktualisieren, bevor Sie es schließen.
+description: Erfahren Sie, welche Informationen zu überprüfen sind und warum es wichtig ist, aktualisierte Daten in einem Projekt zu haben, bevor Sie es in [!DNL  Workfront] schließen.
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -11,13 +11,23 @@ team: Technical Marketing
 jira: KT-8783
 hide: true
 doc-type: video
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 100%
-
+ht-degree: 23%
 ---
-
 # Schließen eines Projekts
 
 {{$include /help/_includes/close-a-project-in-workfront.md}}

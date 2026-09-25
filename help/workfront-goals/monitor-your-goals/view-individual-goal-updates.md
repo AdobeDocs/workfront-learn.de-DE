@@ -1,6 +1,6 @@
 ---
-title: Anzeigen einzelner Zielaktualisierungen in  [!DNL Workfront Goals]
-description: Erfahren Sie, wie Sie Ihre persönlichen Ziele im Aktualisierungsverlauf von [!UICONTROL Pulse] in [!DNL   Goals] anzeigen können.
+title: Anzeigen individueller Zielaktualisierungen in [!DNL Workfront Goals]
+description: Erfahren Sie, wie Sie Ihre individuellen Ziele im [!UICONTROL Pulse]-Aktualisierungsstream in [!DNL   Goals] anzeigen.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,21 +10,26 @@ team: Technical Marketing
 jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
 subfeature_v2:
   - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1f0dff02462d4c11075064f6ad7e2adb8b97c40b
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 300
-ht-degree: 100%
-
+source-wordcount: '298'
+ht-degree: 93%
 ---
-
 # Anzeigen einzelner Zielaktualisierungen
 
 In diesem Video lernen Sie Folgendes:

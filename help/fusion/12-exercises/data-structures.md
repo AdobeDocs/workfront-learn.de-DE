@@ -11,24 +11,26 @@ jira: KT-11054
 thumbnail: KT11054.png
 recommendations: noDisplay,catalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
+autotag-review: '2026-05-06T16:44:39.897Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:44:39.897Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1080
+source-wordcount: '1080'
 ht-degree: 99%
-
 ---
-
 # Übung zu Datenstrukturen
 
 Wandeln Sie Daten aus einer Quelldatei in eine Zieldatei um.
@@ -47,7 +49,7 @@ In diesem Szenario öffnen Sie eine Datei mit einer Liste der Zeiteinträge für
 Gehen Sie wie folgt vor, um eine Datei zu erstellen, die die Gesamtarbeitszeit (in Stunden) anzeigt, die jeden Tag für jede Person erfasst wird.
 
 1. Rufen Sie im Trigger-Modul eine Datei aus dem Workfront-Ordner ab. Laden Sie die Datei herunter.
-1. Analysieren Sie im ersten CSV-Modul die Zeiteingabedaten, um für jeden Zeiteintrag ein Bündel auszugeben. Dies ist ein Iterator.
+1. Analysieren Sie im ersten CSV-Modul die Zeiteingabedaten, um für jeden Zeiteintrag ein Paket auszugeben. Dies ist ein Iterator.
 1. Das erste Tools-Modul ist ein numerischer Aggregator. Dadurch werden alle Minuten SUMMIERT und die Zeilen nach E-Mail-Adresse und dann nach Datum gruppiert. Das Ergebnis ist die Gesamtzahl der täglich gerarbeiteten Minuten nach E-Mail-Adresse.
 1. Das zweite Tools-Modul ist das Modul „Variable festlegen“. Auf diese Weise können Sie die Minuten so formatieren, dass sie durch 60 teilbar sind, und auf 2 Dezimalstellen runden.
 1. Richten Sie im zweiten CSV-Modul die Ausgabedatei ein.
@@ -73,7 +75,7 @@ Gehen Sie wie folgt vor, um eine Datei zu erstellen, die die Gesamtarbeitszeit (
    ![Datenstrukturen – Bild 4](../12-exercises/assets/data-structures-walkthrough-4.png)
 
 1. Klicken Sie auf „Einmal ausführen“, um die Ausgabe anzuzeigen.
-1. Öffnen Sie den Ausführungsinspektor, um die Eingaben und Ausgaben des Moduls „CSV-Analyse“ anzuzeigen. Es gibt ein Bündel (eine CSV-Datei) als Eingabe und mehrere Bündel als Ausgabe (ein Bündel für jede Zeile in der CSV-Datei). Sie sollte in etwa so aussehen:
+1. Öffnen Sie den Ausführungsinspektor, um die Eingaben und Ausgaben des Moduls „CSV-Analyse“ anzuzeigen. Es gibt ein Paket (eine CSV-Datei) als Eingabe und mehrere Pakete als Ausgabe (ein Paket für jede Zeile in der CSV-Datei). Sie sollte in etwa so aussehen:
 
    ![Datenstrukturen – Bild 5](../12-exercises/assets/data-structures-walkthrough-5.png)
 
@@ -93,7 +95,7 @@ Gehen Sie wie folgt vor, um eine Datei zu erstellen, die die Gesamtarbeitszeit (
 
 1. Klicken Sie auf „Einmal ausführen“, um die Aggregationsausgabe zu überprüfen.
 
-   **Die Ausgabe-Bundles sollten wie folgt aussehen:**
+   **Die Ausgabepakete sollten wie folgt aussehen:**
 
    ![Datenstrukturen – Bild 7](../12-exercises/assets/data-structures-walkthrough-7.png)
 

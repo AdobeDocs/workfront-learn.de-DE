@@ -1,6 +1,6 @@
 ---
 title: Verfolgen und Aktualisieren von Zielen mithilfe von Check-ins
-description: Erfahren Sie, wie Sie in [!DNL Workfront Goals]den Fortschritt Ihrer Ziele verfolgen, aktualisieren und berechnen können.
+description: Erfahren Sie, wie Sie den Fortschritt bei Zielen in [!DNL Workfront Goals] verfolgen, aktualisieren und berechnen können.
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -9,13 +9,26 @@ role: User
 level: Beginner
 jira: KT-10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '756'
-ht-degree: 100%
-
+ht-degree: 98%
 ---
-
 # Verfolgen und Aktualisieren von Zielen mithilfe von [!UICONTROL Check-ins]
 
 Sobald Sie Ihre Ziele aktiviert haben, können Sie sich an die Arbeit machen, um sie erreichen. Aber wie verfolgen, aktualisieren und berechnen Sie den Fortschritt bei der Zielerreichung? Woher wissen Sie, wo Sie gerade stehen und wie Ihre Arbeit zur Zielerreichung beiträgt? Beginnen wir mit [!UICONTROL Check-ins], um den Zielfortschritt zu aktualisieren, und sehen wir uns dann an, wie Sie den Status Ihrer Ziele anzeigen und verstehen können.
@@ -39,9 +52,9 @@ Wenn Sie einen [!UICONTROL Check-in] auf Zielebene durchführen, können Sie den
 * Klicken Sie auf das Symbol [!UICONTROL **Hauptmenü**] in [!DNL Workfront] und dann auf [!UICONTROL **Ziele**]. Es öffnet sich der Bereich [!DNL Workfront Goals]. Der Abschnitt [!UICONTROL Zielliste] wird standardmäßig angezeigt und zeigt alle Ziele an, die Ihnen, Ihren Teams, Gruppen oder Ihrem Unternehmen gehören.
 * Klicken Sie auf einen der folgenden Abschnitte im linken Bereich, um auf eine Liste mit Zielen zuzugreifen:
 
-   * [!UICONTROL Ziel-Ausrichtung]
-   * [!UICONTROL Impuls]
-   * [!UICONTROL Einchecken]
+  * [!UICONTROL Ziel-Ausrichtung]
+  * [!UICONTROL Impuls]
+  * [!UICONTROL Einchecken]
 
 Navigieren zu einem Abschnitt mit Ihrer Zielliste und klicken Sie auf den Namen eines Ziels, um das Bedienfeld [!UICONTROL Zieldetails] zu öffnen. Aktualisieren Sie Ihr Ziel:
 
