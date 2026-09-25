@@ -10,16 +10,14 @@ team: Technical Marketing
 jira: KT-10058
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 100%
-
+source-wordcount: '326'
+ht-degree: 88%
 ---
-
 # Häufig gestellte Fragen zu benutzerdefinierten Formularen
 
 **Kann ich den Anzeigetyp eines Feldes ändern, nachdem ich es erstellt habe? Kann ich beispielsweise von einem Dropdown-Menü zu Kontrollkästchen wechseln?**
 
-Ja. Die Darstellungsart kann auf eine andere, ähnliche Darstellungsart umgestellt werden – von Text auf Absatz, von Dropdown auf Kontrollkästchen oder Optionsfelder usw. Weitere Informationen zum Ändern des Anzeigetyps finden Sie im Artikel „Erstellen eines benutzerdefinierten Formulars“.
+Ja. Der Anzeigetyp kann in einen anderen, ähnlichen Anzeigetyp geändert werden, z. B. Text in Absatz, Dropdown zu Kontrollkästchen oder Optionsfeldern usw. Weitere Informationen zum Ändern des Anzeigetyps finden Sie im Artikel Erstellen eines benutzerdefinierten Formulars .
 
 
 **Kann ich das gleiche benutzerdefinierte Formular für mehrere Objekte verwenden? Zum Beispiel ein Formular, das ich für eine Projektaufgabe erstellt habe?**
