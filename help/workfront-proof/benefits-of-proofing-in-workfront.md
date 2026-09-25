@@ -1,6 +1,6 @@
 ---
 title: Erfahren Sie mehr über die Vorteile von Proofing
-description: Erfahren Sie, was Proofing ist und welche Vorteile die Verwendung von digitalem Proofing in [!DNL  Workfront] hat.
+description: Erfahren Sie, was Proofing ist und welche Vorteile die Verwendung von digitalem Proofing in [!DNL &#x200B; Workfront] hat.
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -45,7 +45,7 @@ In diesem Video lernen Sie Folgendes:
 
 ## Proofing-Terminologie
 
-Bevor Sie in die Proofing-Einstellungen in [!DNL  Workfront] eintauchen, machen Sie sich mit der für das Proofing verwendeten Terminologie vertraut. Diese Begriffe werden in diesem Tutorial häufig verwendet.
+Bevor Sie in die Proofing-Einstellungen in [!DNL &#x200B; Workfront] eintauchen, machen Sie sich mit der für das Proofing verwendeten Terminologie vertraut. Diese Begriffe werden in diesem Tutorial häufig verwendet.
 
 * **Korrekturabzug:** Digitale Version einer Datei, die im [!DNL Workfront's] Korrekturabzug-Viewer überprüft, markiert und genehmigt werden kann.
 * **Korrekturabzug-Workflow:** Das Erstellen, Weiterleiten und Verwalten eines Korrekturabzugs innerhalb von [!DNL Workfront]. Die Schritte, die zur Durchführung dieser Aktionen erforderlich sind.

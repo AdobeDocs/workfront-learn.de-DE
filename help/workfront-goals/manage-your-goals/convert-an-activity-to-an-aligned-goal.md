@@ -1,6 +1,6 @@
 ---
 title: Konvertieren einer Aktivität in ein abgestimmtes Ziel
-description: Erfahren Sie, wie Sie in [!DNL   Goals] eine Aktivität oder ein Ergebnis in ein abgestimmtes Ziel konvertieren können.
+description: Erfahren Sie, wie Sie in [!DNL &#x200B;  Goals] eine Aktivität oder ein Ergebnis in ein abgestimmtes Ziel konvertieren können.
 activity: use
 feature: Workfront Goals
 type: Tutorial

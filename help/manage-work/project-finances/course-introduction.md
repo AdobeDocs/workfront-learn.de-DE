@@ -1,6 +1,6 @@
 ---
 title: Kurseinführung
-description: Erfahren Sie, wie Sie das Budget eines Projekts verwenden, Kosten und Einnahmen verfolgen und Ausgaben in [!DNL  Workfront] verwalten.
+description: Erfahren Sie, wie Sie das Budget eines Projekts verwenden, Kosten und Einnahmen verfolgen und Ausgaben in [!DNL &#x200B; Workfront] verwalten.
 activity: use
 feature: Work Management
 type: Tutorial

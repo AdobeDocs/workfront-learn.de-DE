@@ -1,6 +1,6 @@
 ---
 title: Navigieren im Korrekturabzugs-Viewer
-description: Erfahren Sie, wie Sie einen Korrekturabzug verschieben, den Inhalt vergrößern/verkleinern, die Spalte „Miniaturansicht“ verwenden, Kommentare zu Korrekturabzügen filtern und vieles mehr in der [!DNL  Workfront] Proofing Viewer.
+description: Erfahren Sie, wie Sie einen Korrekturabzug verschieben, den Inhalt vergrößern/verkleinern, die Spalte „Miniaturansicht“ verwenden, Kommentare zu Korrekturabzügen filtern und vieles mehr in der [!DNL &#x200B; Workfront] Proofing Viewer.
 activity: use
 feature: Workfront Proof
 type: Tutorial

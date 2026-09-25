@@ -1,6 +1,6 @@
 ---
 title: Verwalten von Korrekturabzugskommentaren
-description: Erfahren Sie, wie Sie Korrekturabzugskommentare in [!DNL  Workfront] verwalten, indem Sie Kommentaraktionen anwenden, Kommentare auflösen und die Kommentarspalte filtern.
+description: Erfahren Sie, wie Sie Korrekturabzugskommentare in [!DNL &#x200B; Workfront] verwalten, indem Sie Kommentaraktionen anwenden, Kommentare auflösen und die Kommentarspalte filtern.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

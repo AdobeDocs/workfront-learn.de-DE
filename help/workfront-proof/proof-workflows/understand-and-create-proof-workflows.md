@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Korrekturabzug-Workflows als Teil von Projekt-Timelines
-description: Erfahren Sie, welche Informationen gesammelt werden müssen, um einen Korrekturabzugs-Workflow zu erstellen, und lernen Sie den Unterschied zwischen einfachen und erweiterten Korrekturabzugs-Workflows in [!DNL  Workfront] kennen.
+description: Erfahren Sie, welche Informationen gesammelt werden müssen, um einen Korrekturabzugs-Workflow zu erstellen, und lernen Sie den Unterschied zwischen einfachen und erweiterten Korrekturabzugs-Workflows in [!DNL &#x200B; Workfront] kennen.
 activity: use
 feature: Workfront Proof
 type: Tutorial

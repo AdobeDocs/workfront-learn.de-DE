@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Korrekturabzugsdetails
-description: Vertiefen Sie sich in der [!DNL  Workfront] durch das Bedienfeld „Zusammenfassung“ und die Seite "[!UICONTROL " ] Details zu einem Korrekturabzug.
+description: Vertiefen Sie sich in der [!DNL &#x200B; Workfront] durch das Bedienfeld „Zusammenfassung“ und die Seite "[!UICONTROL " &#x200B;] Details zu einem Korrekturabzug.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -63,7 +63,7 @@ Klicken Sie auf [!UICONTROL Dokumentdetails], um weitere Informationen über den
 
 Dadurch gelangen Sie zur Seite [!UICONTROL Dokumentdetails] und zu einer Vielzahl zusätzlicher Optionen im linken Panel.
 
-![Ein Bild der Seite des Korrekturabzugs in [!DNL  Workfront].](assets/document-details.png)
+![Ein Bild der Seite des Korrekturabzugs in [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 Beachten Sie, dass die Möglichkeit, Informationen zum Proofing-Prozess zu sehen, von Ihren Proofing-Berechtigungen in [!DNL Workfront] abhängt.
 
@@ -85,7 +85,7 @@ Mithilfe dieser Einstellungen können Sie den Zugriff auf den Korrekturabzug sel
 
 * **[!UICONTROL Anmeldung erforderlich. Dieser Korrekturabzug kann nicht für Gastbenutzerinnen und Gastbenutzer freigegeben werden]** – Der Korrekturabzug kann nur für Personen freigegeben werden, die über eine [!DNL Workfront]-Proofing-Lizenz verfügen.
 * **[!UICONTROL Entscheidungen müssen elektronisch signiert werden] –** Für die Freigabe eines Korrekturabzugs muss die Empfängerin bzw. der Empfänger über Proofing-Berechtigungen in [!DNL Workfront] verfügen und muss den Korrekturabzug „elektronisch signieren“, indem sie bzw. er bei einer Korrekturabzugs-Entscheidung das Proofing-Passwort eingibt. (Hinweis: Das Proofing-Passwort ist ein anderes als Ihr [!DNL Workfront]-Passwort. Das Proofing-Kennwort ist nicht leicht zugänglich, sodass die meisten Empfänger dieses Kennwort nicht kennen.) Adobe empfiehlt, vor der Verwendung dieser Funktion mit Ihrem [!DNL Workfront] zu sprechen.
-* **[!UICONTROL Korrekturabzug sperren, wenn alle erforderlichen Entscheidungen getroffen sind ]** – Auf diese Weise wird der Korrekturabzug für alle weiteren Kommentare, Antworten, Entscheidungen usw. gesperrt, sobald alle Entscheidungen zu dem Korrekturabzug getroffen sind. Dadurch wird die gesamte Korrekturabzugsversion gesperrt, nicht nur ein bestimmter Schritt des Proofing-Workflows.
+* **[!UICONTROL Korrekturabzug sperren, wenn alle erforderlichen Entscheidungen getroffen sind &#x200B;]** – Auf diese Weise wird der Korrekturabzug für alle weiteren Kommentare, Antworten, Entscheidungen usw. gesperrt, sobald alle Entscheidungen zu dem Korrekturabzug getroffen sind. Dadurch wird die gesamte Korrekturabzugsversion gesperrt, nicht nur ein bestimmter Schritt des Proofing-Workflows.
 * **[!UICONTROL Herunterladen der Originaldatei zulassen] –** Empfängerinnen und Empfänger des Korrekturabzugs können die ursprüngliche Quelldatei des Korrekturabzugs vom Proofing-Viewer herunterladen.
 * **[!UICONTROL Freigabe des Korrekturabzugs über öffentliche URL oder Einbettungs-Code zulassen]** – Empfängerinnen und Empfänger eines Korrekturabzugs können für alle einen öffentlich zugänglichen Korrekturabzug-Link freigeben.
 * **[!UICONTROL Abonnieren des Korrekturabzugs über öffentliche URL oder Einbettungs-Code zulassen] –** Alle, die die öffentliche URL erhalten, können sich mit E-Mail-Adresse und Name (falls es sich nicht um Benutzende des Korrekturabzugs handelt) bzw. mit E-Mail-Adresse und Proofing-Passwort (falls es sich um eine Benutzerin bzw. einen Benutzer des Proofing handelt) zum Korrekturabzug hinzufügen. (Hinweis: Das Proofing-Passwort ist ein anderes als das [!DNL Workfront]-Passwort.)

@@ -1,6 +1,6 @@
 ---
 title: Überprüfen und Beantworten von Korrekturabzugskommentaren
-description: Erfahren Sie, wie Sie Kommentare zu Korrekturabzügen in der Korrekturabzugsansicht und im Abschnitt [!UICONTROL Aktualisierungen] von [!DNL  Workfront] anzeigen und darauf reagieren können.
+description: Erfahren Sie, wie Sie Kommentare zu Korrekturabzügen in der Korrekturabzugsansicht und im Abschnitt [!UICONTROL Aktualisierungen] von [!DNL &#x200B; Workfront] anzeigen und darauf reagieren können.
 activity: use
 feature: Workfront Proof
 type: Tutorial

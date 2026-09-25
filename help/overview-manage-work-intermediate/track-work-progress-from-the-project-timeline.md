@@ -1,6 +1,6 @@
 ---
 title: Verfolgen des Fortschritts über die Projekt-Timeline
-description: Erfahren Sie, wie Sie den Fortschritt der Arbeit über die Projekt-Zeitleiste in [!DNL  Workfront] verfolgen können, indem Sie „Prozent abgeschlossen“, „Status“, „Zuweisungen“ oder „Einschränkungen“ verwenden.
+description: Erfahren Sie, wie Sie den Fortschritt der Arbeit über die Projekt-Zeitleiste in [!DNL &#x200B; Workfront] verfolgen können, indem Sie „Prozent abgeschlossen“, „Status“, „Zuweisungen“ oder „Einschränkungen“ verwenden.
 activity: use
 team: Technical Marketing
 feature: Work Management

@@ -1,6 +1,6 @@
 ---
 title: Anzeigen individueller Zielaktualisierungen in [!DNL Workfront Goals]
-description: Erfahren Sie, wie Sie Ihre individuellen Ziele im [!UICONTROL Pulse]-Aktualisierungsstream in [!DNL   Goals] anzeigen.
+description: Erfahren Sie, wie Sie Ihre individuellen Ziele im [!UICONTROL Pulse]-Aktualisierungsstream in [!DNL &#x200B;  Goals] anzeigen.
 activity: use
 feature: Workfront Goals
 type: Tutorial

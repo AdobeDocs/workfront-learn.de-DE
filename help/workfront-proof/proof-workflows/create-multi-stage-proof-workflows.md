@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit automatisierten Workflows
-description: Erfahren Sie, was ein automatisierter Korrekturabzugs-Workflow [!DNL  Workfront] ist und wie er sich von einem einfachen Workflow unterscheidet.
+description: Erfahren Sie, was ein automatisierter Korrekturabzugs-Workflow [!DNL &#x200B; Workfront] ist und wie er sich von einem einfachen Workflow unterscheidet.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

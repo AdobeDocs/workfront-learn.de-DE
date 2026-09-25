@@ -1,6 +1,6 @@
 ---
 title: Überprüfen eines Videos mit einem Korrekturabzug
-description: Erfahren Sie, wie Sie Viewer-Einstellungen anpassen und einem Video mithilfe von Proofing in [!DNL  Workfront] Kommentare mit Zeitstempel hinzufügen.
+description: Erfahren Sie, wie Sie Viewer-Einstellungen anpassen und einem Video mithilfe von Proofing in [!DNL &#x200B; Workfront] Kommentare mit Zeitstempel hinzufügen.
 activity: use
 feature: Workfront Proof
 type: Tutorial

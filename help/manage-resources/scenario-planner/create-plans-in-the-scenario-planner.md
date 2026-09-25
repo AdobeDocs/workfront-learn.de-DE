@@ -43,7 +43,7 @@ In diesem Video erfahren Sie, wie Sie mit dem [!DNL Scenario Planner] einen Plan
 
 Bei der Erstellung eines Plans können Sie festlegen, ob der Aufwand für das Aufgabengebiet in Vollzeitäquivalenten (FTE) oder in Stunden geschätzt werden soll. Die Standardeinstellung des Systems ist FTE, kann jedoch bei der Erstellung eines Plans umgeschaltet werden.
 
-![Wählen Sie [!UICONTROL FTE] oder [!UICONTROL Stunden] im Fenster [!UICONTROL Neuer Plan] ](assets/scenario-planner-1.png)
+![Wählen Sie [!UICONTROL FTE] oder [!UICONTROL Stunden] im Fenster [!UICONTROL Neuer Plan] &#x200B;](assets/scenario-planner-1.png)
 
 Nach der Erstellung des Plans werden alle für die Aufgabengebiete im Plan hinzugefügten Werte, die Szenarien des Plans und alle Initiativen eingegeben und im ausgewählten Format angezeigt. Dieses Format wird oben in den Spalten angezeigt, in die Informationen zum Aufgabengebiet eingegeben werden müssen.
 

@@ -1,6 +1,6 @@
 ---
 title: Qualitative Aktualisierung in [!DNL Workfront Goals]
-description: Erfahren Sie, wie Sie in [!DNL   Goals] eine qualitative oder schriftliche Aktualisierung vornehmen.
+description: Erfahren Sie, wie Sie in [!DNL &#x200B;  Goals] eine qualitative oder schriftliche Aktualisierung vornehmen.
 activity: use
 feature: Workfront Goals
 type: Tutorial

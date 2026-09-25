@@ -1,6 +1,6 @@
 ---
 title: Einführung in [!DNL Workfront] für Prüferinnen und Prüfer
-description: Erfahren Sie, wie Benutzende mit einer Review-Lizenz [!DNL  Workfront] verwenden können.
+description: Erfahren Sie, wie Benutzende mit einer Review-Lizenz [!DNL &#x200B; Workfront] verwenden können.
 activity: use
 type: Tutorial
 team: Technical Marketing
@@ -22,6 +22,6 @@ ht-degree: 70%
 ---
 # Einführung in [!DNL Workfront] für Prüferinnen und Prüfer
 
-In diesem Video erfahren Sie, wie Sie [!DNL  Workfront] mit einer Prüfer-Lizenz verwenden können.
+In diesem Video erfahren Sie, wie Sie [!DNL &#x200B; Workfront] mit einer Prüfer-Lizenz verwenden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)

@@ -1,6 +1,6 @@
 ---
 title: Anpassen von Objektbereichen mit einer Layout-Vorlage
-description: Erfahren Sie, wie Sie mit einer Layout-Vorlage Elemente im Menü des linken Bedienfelds in [!DNL  Workfront] hinzufügen, entfernen und neu anordnen können.
+description: Erfahren Sie, wie Sie mit einer Layout-Vorlage Elemente im Menü des linken Bedienfelds in [!DNL &#x200B; Workfront] hinzufügen, entfernen und neu anordnen können.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

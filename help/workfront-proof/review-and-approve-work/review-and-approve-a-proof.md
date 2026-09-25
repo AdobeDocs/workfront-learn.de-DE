@@ -50,7 +50,7 @@ Sobald Sie wissen, was von Ihnen erwartet wird, können Sie mit der Überprüfun
 
 Wenn ein Asset zur Überprüfung und Genehmigung bereit ist, erhalten Sie eine E-Mail-Benachrichtigung.
 
-![Ein Bild einer neuen Korrektur-E-Mail, in der um die Überprüfung und Genehmigung von zwei Korrekturabzügen in [!DNL  Workfront] gebeten wird.](assets/new-proof-emails.png)
+![Ein Bild einer neuen Korrektur-E-Mail, in der um die Überprüfung und Genehmigung von zwei Korrekturabzügen in [!DNL &#x200B; Workfront] gebeten wird.](assets/new-proof-emails.png)
 
 Es ist wichtig zu beachten, dass dieser Link zum Korrekturabzug nur für Sie gilt. Wenn Sie den Link mit jemand anders teilen, werden alle Kommentare und Markierungen, die diese Person vornimmt, mit Ihrem Namen versehen.
 
@@ -81,7 +81,7 @@ Möglicherweise finden Sie die zu prüfenden Korrekturabzüge auch in einem [!DN
 
 Wenn Sie normalerweise mit Projekten, Vorgängen oder Problemen in [!DNL Workfront] arbeiten, ziehen Sie es vielleicht vor, den Korrekturabzug direkt über den Abschnitt [!DNL Documents] dieses Elements zu öffnen.
 
-![Ein Bild des Abschnitts [!UICONTROL Dokumente] in einer [!DNL  Workfront]-Aufgabe mit dem hervorgehobenen Link [!UICONTROL Korrekturvorlage öffnen].](assets/open-proof-from-documents.png)
+![Ein Bild des Abschnitts [!UICONTROL Dokumente] in einer [!DNL &#x200B; Workfront]-Aufgabe mit dem hervorgehobenen Link [!UICONTROL Korrekturvorlage öffnen].](assets/open-proof-from-documents.png)
 
 1. Klicken Sie auf den Namen des Projekts, der Aufgabe oder des Problems.
 2. Klicken Sie auf [!UICONTROL Dokumente] im Menü des linken Bedienfelds auf der Seite des Elements.

@@ -1,6 +1,6 @@
 ---
 title: Zugriff auf einen Plan im [!UICONTROL Szenarienplaner]
-description: Erfahren Sie, welche [!DNL  Workfront] Berechtigungen Benutzende benötigen, um im [!UICONTROL Szenario-Planer“ auf Pläne ] können.
+description: Erfahren Sie, welche [!DNL &#x200B; Workfront] Berechtigungen Benutzende benötigen, um im [!UICONTROL Szenario-Planer“ auf Pläne &#x200B;] können.
 feature: Resource Management
 type: Tutorial
 role: Leader, User

@@ -1,6 +1,6 @@
 ---
 title: Informationen zur Projektseite
-description: Erfahren Sie mehr über die wichtigsten Funktionen auf der Projektseite in [!DNL  Workfront], die Sie bei der Planung und Verwaltung Ihrer Projekte unterstützen.
+description: Erfahren Sie mehr über die wichtigsten Funktionen auf der Projektseite in [!DNL &#x200B; Workfront], die Sie bei der Planung und Verwaltung Ihrer Projekte unterstützen.
 activity: use
 team: Technical Marketing
 feature: Work Management

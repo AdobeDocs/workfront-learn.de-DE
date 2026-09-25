@@ -1,6 +1,6 @@
 ---
 title: Korrekturabzug-Workflows als Teil von Projekt-Timelines
-description: Erfahren Sie mehr über Empfehlungen für die Kombination eines Überprüfungs- und Genehmigungsprozesses mit einer Projekt-Zeitleiste in [!DNL  Workfront].
+description: Erfahren Sie mehr über Empfehlungen für die Kombination eines Überprüfungs- und Genehmigungsprozesses mit einer Projekt-Zeitleiste in [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

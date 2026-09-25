@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Datumstypen und zum Fortschrittsstatus
-description: Erfahren Sie, wie Sie die verschiedenen Datentypen in [!DNL  Workfront] anzeigen und den Fortschrittsstatus verwenden können, um den Arbeitsfortschritt zu verfolgen.
+description: Erfahren Sie, wie Sie die verschiedenen Datentypen in [!DNL &#x200B; Workfront] anzeigen und den Fortschrittsstatus verwenden können, um den Arbeitsfortschritt zu verfolgen.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

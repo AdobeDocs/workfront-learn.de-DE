@@ -1,6 +1,6 @@
 ---
 title: Einführung in Projekt-Timelines
-description: Erfahren Sie, welche Elemente - wie Datentypen und Aufgabenbeschränkungen - beim Erstellen und Verwalten von Projektzeitleisten in [!DNL  Workfront] verwendet werden.
+description: Erfahren Sie, welche Elemente - wie Datentypen und Aufgabenbeschränkungen - beim Erstellen und Verwalten von Projektzeitleisten in [!DNL &#x200B; Workfront] verwendet werden.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -28,6 +28,6 @@ ht-degree: 62%
 ---
 # Projekt-Timelines: Kurseinführung
 
-In diesem Video erfahren Sie, welche Elemente – z. B. Datumstypen und Aufgabenbegrenzungen – beim Erstellen und Verwalten von Projekt-Timelines in [!DNL  Workfront] verwendet werden.
+In diesem Video erfahren Sie, welche Elemente – z. B. Datumstypen und Aufgabenbegrenzungen – beim Erstellen und Verwalten von Projekt-Timelines in [!DNL &#x200B; Workfront] verwendet werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)

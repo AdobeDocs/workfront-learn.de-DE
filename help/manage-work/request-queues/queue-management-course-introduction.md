@@ -1,6 +1,6 @@
 ---
 title: Einführung in den Kurs „Warteschlangen-Management“
-description: Erfahren Sie, wie [!DNL  Workfront] Anforderungswarteschlangen die Nachfrageverwaltung zentralisieren können.
+description: Erfahren Sie, wie [!DNL &#x200B; Workfront] Anforderungswarteschlangen die Nachfrageverwaltung zentralisieren können.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 70%
 ---
 # Einführung in den Kurs „Warteschlangen-Management“
 
-In diesem Video erfahren Sie, wie Anfrage-Warteschlangen in [!DNL  Workfront] das Bedarfs-Management zentralisieren können.
+In diesem Video erfahren Sie, wie Anfrage-Warteschlangen in [!DNL &#x200B; Workfront] das Bedarfs-Management zentralisieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)

@@ -1,6 +1,6 @@
 ---
 title: Überprüfen einer Website mit einem Korrekturabzug
-description: Erfahren Sie, wie Sie einen statischen oder interaktiven Website-Korrekturabzug in [!DNL  Workfront] öffnen und Kommentare abgeben.
+description: Erfahren Sie, wie Sie einen statischen oder interaktiven Website-Korrekturabzug in [!DNL &#x200B; Workfront] öffnen und Kommentare abgeben.
 activity: use
 feature: Workfront Proof
 type: Tutorial

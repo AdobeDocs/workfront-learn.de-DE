@@ -1,6 +1,6 @@
 ---
 title: Anhängen und Bearbeiten vorhandener Genehmigungsprozesse
-description: Erfahren Sie, wie Sie vorhandene Genehmigungsprozesse für Projekte, Aufgaben oder Probleme in [!DNL  Workfront] verwenden und bearbeiten.
+description: Erfahren Sie, wie Sie vorhandene Genehmigungsprozesse für Projekte, Aufgaben oder Probleme in [!DNL &#x200B; Workfront] verwenden und bearbeiten.
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg
