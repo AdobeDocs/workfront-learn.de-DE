@@ -10,24 +10,26 @@ level: Beginner
 jira: KT-11037
 recommendations: noDisplay,catalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
+autotag-review: '2026-05-06T16:47:51.925Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:47:51.925Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 718
+source-wordcount: '718'
 ht-degree: 100%
-
 ---
-
 # Zugänglichkeit und Klarheit
 
 Am Anfang der Workfront Fusion-Schulung haben Sie einige grundlegende Best Practices kennengelernt, um Szenarien einfach zu lesen, zu teilen und zu verstehen. Diese Vorgehensweisen erleichtern zukünftigen Benutzenden von Workfront Fusion oder anderen Benutzenden die Fehlerbehebung oder Unterstützung Ihrer Workfront Fusion-Instanz. Befolgen Sie bei der Erstellung von Szenarien die unten stehenden Richtlinien.
@@ -38,13 +40,13 @@ In der Regel besteht ein Hauptziel in Workfront Fusion immer darin, einfache Sze
 
 * Stellen Sie sicher, dass Sie alle Module benennen. Klicken Sie mit der rechten Maustaste auf ein Modul und wählen Sie „Umbenennen“ aus. Modulbeschriftungen sollten kurz, aber verständlich ausdrücken, was das Modul leistet. Beispiel: „Erstellt MKTG-Proj mit CSH-Vorlage.“
   ![Ein Bild eines Szenarios mit Fehlerbehandlung](assets/design-optimization-and-testing-1.png)
-* Beschriften Sie auch Routing-Pfade. Selbst wenn ein Pfad keinen Filter direkt nach einem Router verwendet, können Sie eine Bezeichnung anwenden, ohne die Filterlogik auszufüllen. Auf diese Weise können andere verstehen, welche Bündel welche Pfade warum durchlaufen. Um eine Bezeichnung für einen Routerpfad ohne Filter zu erstellen, klicken Sie mit der rechten Maustaste auf den Pfad, fügen Sie eine Bezeichnung hinzu und speichern Sie sie.
+* Beschriften Sie auch Routing-Pfade. Selbst wenn ein Pfad keinen Filter direkt nach einem Router verwendet, können Sie eine Bezeichnung anwenden, ohne die Filterlogik auszufüllen. Auf diese Weise können andere verstehen, welche Pakete welche Pfade warum durchlaufen. Um eine Bezeichnung für einen Routerpfad ohne Filter zu erstellen, klicken Sie mit der rechten Maustaste auf den Pfad, fügen Sie eine Bezeichnung hinzu und speichern Sie sie.
   ![Ein Bild eines Szenarios mit Fehlerbehandlung](assets/design-optimization-and-testing-2.png)
 * Fügen Sie gegebenenfalls Notizen in einem Szenario hinzu, wenn die Beschriftung eines Moduls oder Routing-Pfads zu kurz wäre, um zu verdeutlichen, was tatsächlich passiert. Sie können während des Entwurfs- und Iterationsvorgangs jederzeit Notizen hinzufügen.
 
 Es kann jedoch am einfachsten sein, Notizen am Ende des Szenario-Entwurfs hinzuzufügen, wenn Sie bereit zum Starten sind. Arbeiten Sie vom Ende Ihres Szenario-Entwurfs (ganz unten rechts) rückwärts. Auf diese Weise befinden sich die Notizen, die für den Anfang Ihres Szenarios gelten, oben in der Liste, wenn Sie das Notizenbedienfeld öffnen.
 
-Nachdem Sie das Notizenbedienfeld gespeichert oder geschlossen haben, werden die Notizen so sortiert, dass die zuletzt erstellten ganz oben stehen. In der Abbildung unten wird die als erstes erstellte Notiz unten in der Liste angezeigt. Notizen wurden absichtlich von unten rechts bis zum obigen Pfad und schließlich bis zum Trigger erstellt, also im Wesentlichen in der umgekehrten Reihenfolge, in der ein Datenbündel das Szenario durchlaufen würde. Dadurch werden die Hinweise in der Reihenfolge angezeigt, in der das Szenario tatsächlich für das Datenbündel ausgeführt wird.
+Nachdem Sie das Notizenbedienfeld gespeichert oder geschlossen haben, werden die Notizen so sortiert, dass die zuletzt erstellten ganz oben stehen. In der Abbildung unten wird die als erstes erstellte Notiz unten in der Liste angezeigt. Notizen wurden absichtlich von unten rechts bis zum obigen Pfad und schließlich bis zum Trigger erstellt, also im Wesentlichen in der umgekehrten Reihenfolge, in der ein Datenpaket das Szenario durchlaufen würde. Dadurch werden die Hinweise in der Reihenfolge angezeigt, in der das Szenario tatsächlich für das Datenpaket ausgeführt wird.
 
 ![Ein Bild eines Szenarios mit Fehlerbehandlung](assets/design-optimization-and-testing-3.png)
 

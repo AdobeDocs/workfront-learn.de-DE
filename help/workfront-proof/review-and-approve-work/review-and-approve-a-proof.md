@@ -1,6 +1,6 @@
 ---
 title: Überprüfen und Genehmigen eines Korrekturabzugs
-description: Erfahren Sie, wie Sie in [!DNL Workfront]auf einen Korrekturabzug zugreifen und ihn kommentieren können, wie Sie Markierungen verwenden, um notwendige Änderungen anzuzeigen, wie Sie auf Korrekturabzugskommentare antworten und wie Sie eine Entscheidung über einen Korrekturabzug treffen.
+description: Erfahren Sie, wie Sie auf einen Korrekturabzug zugreifen und ihn zu kommentieren, mithilfe von Markup die erforderlichen Änderungen anzugeben, auf Kommentare zu Korrekturabzügen zu antworten und in [!DNL Workfront] eine Entscheidung zu einem Korrekturabzug zu treffen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,24 +11,31 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
+autotag-review: '2026-05-05T19:55:03.417Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:55:03.417Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 727
-ht-degree: 100%
-
+source-wordcount: '727'
+ht-degree: 96%
 ---
-
 # Überprüfen und Genehmigen eines Korrekturabzugs
 
 Bevor Sie mit der Prüfung eines Korrekturabzugs beginnen, sollten Sie wissen, was von Ihnen erwartet wird. Welche Rolle spielen Sie im Proofing-Workflow? Überprüfen Sie den Korrekturabzug, genehmigen Sie ihn oder beides?
@@ -43,7 +50,7 @@ Sobald Sie wissen, was von Ihnen erwartet wird, können Sie mit der Überprüfun
 
 Wenn ein Asset zur Überprüfung und Genehmigung bereit ist, erhalten Sie eine E-Mail-Benachrichtigung.
 
-![Ein Bild einer neuen Korrektur-E-Mail, in der um die Überprüfung und Genehmigung von zwei Korrekturabzügen in [!DNL  Workfront] gebeten wird.](assets/new-proof-emails.png)
+![Ein Bild einer neuen Korrektur-E-Mail, in der um die Überprüfung und Genehmigung von zwei Korrekturabzügen in [!DNL &#x200B; Workfront] gebeten wird.](assets/new-proof-emails.png)
 
 Es ist wichtig zu beachten, dass dieser Link zum Korrekturabzug nur für Sie gilt. Wenn Sie den Link mit jemand anders teilen, werden alle Kommentare und Markierungen, die diese Person vornimmt, mit Ihrem Namen versehen.
 
@@ -74,7 +81,7 @@ Möglicherweise finden Sie die zu prüfenden Korrekturabzüge auch in einem [!DN
 
 Wenn Sie normalerweise mit Projekten, Vorgängen oder Problemen in [!DNL Workfront] arbeiten, ziehen Sie es vielleicht vor, den Korrekturabzug direkt über den Abschnitt [!DNL Documents] dieses Elements zu öffnen.
 
-![Ein Bild des Abschnitts [!UICONTROL Dokumente] in einer [!DNL  Workfront]-Aufgabe mit dem hervorgehobenen Link [!UICONTROL Korrekturvorlage öffnen].](assets/open-proof-from-documents.png)
+![Ein Bild des Abschnitts [!UICONTROL Dokumente] in einer [!DNL &#x200B; Workfront]-Aufgabe mit dem hervorgehobenen Link [!UICONTROL Korrekturvorlage öffnen].](assets/open-proof-from-documents.png)
 
 1. Klicken Sie auf den Namen des Projekts, der Aufgabe oder des Problems.
 2. Klicken Sie auf [!UICONTROL Dokumente] im Menü des linken Bedienfelds auf der Seite des Elements.

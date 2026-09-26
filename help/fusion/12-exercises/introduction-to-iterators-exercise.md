@@ -1,6 +1,6 @@
 ---
 title: Einführung in die Iteratoren-Übung
-description: Erfahren Sie, wie Sie Iterations-Apps verwenden und Aktionen für jedes Informationsbündel durchführen können.
+description: Erfahren Sie, wie Sie Iterations-Apps verwenden und Aktionen für jedes Informationspaket durchführen können.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,31 +11,33 @@ jira: KT-11046
 thumbnail: KT11046.png
 recommendations: noDisplay,catalog
 exl-id: 8d751885-372a-4716-9542-079cc3d36caf
+autotag-review: '2026-05-06T16:42:51.955Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:42:51.955Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 390
+source-wordcount: '390'
 ht-degree: 100%
-
 ---
-
 # Einführung in die Iteratoren-Übung
 
-Erfahren Sie, wie Sie Iterations-Apps verwenden und Aktionen für jedes Informationsbündel durchführen können.
+Erfahren Sie, wie Sie Iterations-Apps verwenden und Aktionen für jedes Informationspaket durchführen können.
 
 ## Übungsübersicht
 
-Sehen Sie sich ein bestimmtes Projekt in Workfront an und dann alle Aufgaben innerhalb dieses Projekts. Mit dem Inkrement-Tool-Modul zählen Sie die Anzahl der Aufgaben im Projekt. Schließlich verwenden Sie das Modul „Variable festlegen“, um die Anzahl der untergeordneten Elemente von der Anzahl der offenen Probleme zu subtrahieren und für jedes der Aufgabenbündel einen numerischen Wert zu generieren.
+Sehen Sie sich ein bestimmtes Projekt in Workfront an und dann alle Aufgaben innerhalb dieses Projekts. Mit dem Inkrement-Tool-Modul zählen Sie die Anzahl der Aufgaben im Projekt. Schließlich verwenden Sie das Modul „Variable festlegen“, um die Anzahl der untergeordneten Elemente von der Anzahl der offenen Probleme zu subtrahieren und für jedes der Aufgabenpakete einen numerischen Wert zu generieren.
 
 ![Einführung in Iteratoren Bild 1](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
 
@@ -57,9 +59,9 @@ Sehen Sie sich ein bestimmtes Projekt in Workfront an und dann alle Aufgaben inn
 1. Benennen Sie dieses Modul in „Projektaufgaben lesen“ um.
 1. Speichern Sie das Szenario und klicken Sie dann auf „Einmal ausführen“, um die Ausgaben anzuzeigen.
 
-   + Wenn Sie auf den Ausführungsinspektor klicken, sehen Sie ein Bündel als Eingabe (das Projekt) und 28 Bündel als Ausgabe (die Aufgaben).
+   + Wenn Sie auf den Ausführungsinspektor klicken, sehen Sie ein Paket als Eingabe (das Projekt) und 28 Bündel als Ausgabe (die Aufgaben).
 
-   **Iterierte Bündel zählen und verarbeiten.**
+   **Iterierte Pakete zählen und verarbeiten.**
 
 1. Fügen Sie nach „Zugehörige Einträge lesen“ ein weiteres Modul hinzu. Wählen Sie ein Inkrementierungsfunktions-Tool-Modul aus.
 
@@ -76,4 +78,4 @@ Sehen Sie sich ein bestimmtes Projekt in Workfront an und dann alle Aufgaben inn
 1. Benennen Sie dieses Modul in „Zufallsmathematik“ um.
 1. Speichern Sie das Szenario und klicken Sie auf „Einmal ausführen“.
 
-Für jede der vom Iterator-Modul „Zugehörige Einträge lesen“ erzeugten Aufgaben führte Workfront Fusion 28 Ausführungen durch. Diese 28 Bündel werden während des gesamten Szenarios weiterhin verarbeitet, es sei denn, es wird ein Aggregator hinzugefügt, der den Kreislauf schließt.
+Für jede der vom Iterator-Modul „Zugehörige Einträge lesen“ erzeugten Aufgaben führte Workfront Fusion 28 Ausführungen durch. Diese 28 Pakete werden während des gesamten Szenarios weiterhin verarbeitet, es sei denn, es wird ein Aggregator hinzugefügt, der den Kreislauf schließt.

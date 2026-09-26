@@ -12,24 +12,26 @@ thumbnail: KT11038.png
 last-substantial-update: '2026-02-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
+autotag-review: '2026-05-06T16:42:35.324Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:42:35.324Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1207
+source-wordcount: '1207'
 ht-degree: 79%
-
 ---
-
 # Übung zu ursprünglichem Szenario-Design
 
 Hier erhalten Sie einige grundlegende Navigationstipps für die erste Anmeldung bei Workfront Fusion sowie die Erstellung Ihres ersten Szenarios.
@@ -119,7 +121,7 @@ Erstellen Sie für jede Zeile in der CSV-Datei der Projektliste ein neues Projek
 
    ![Ursprüngliches Szenario-Design Bild 10](../12-exercises/assets/initial-scenario-design-10.png)
 
-1. Öffnen Sie den Ausführungsinspektor des Moduls „CSV-Analyse“, um die Ein- und Ausgaben des Moduls anzuzeigen. Es gibt ein Bündel (eine CSV-Datei) als Eingabe und mehrere Bündel als Ausgabe (ein Bündel für jede Zeile in der CSV-Datei). Sie sollte in etwa so aussehen:
+1. Öffnen Sie den Ausführungsinspektor des Moduls „CSV-Analyse“, um die Ein- und Ausgaben des Moduls anzuzeigen. Es gibt ein Paket (eine CSV-Datei) als Eingabe und mehrere Pakete als Ausgabe (ein Paket für jede Zeile in der CSV-Datei). Sie sollte in etwa so aussehen:
 
    ![Ursprüngliches Szenario-Design Bild 11](../12-exercises/assets/initial-scenario-design-11.png)
 
@@ -152,7 +154,7 @@ Erstellen Sie für jede Zeile in der CSV-Datei der Projektliste ein neues Projek
 1. Speichern Sie Ihr Szenario und klicken Sie auf die Schaltfläche „Einmal ausführen“.
 1. Klicken Sie auf den Ausführungsinspektor oben rechts im letzten Modul.
 
-   + Sie werden sehen, dass 20 Vorgänge ausgeführt wurden. Für jeden Vorgang wurde ein Bündel, d. h. eine Zeile, aus der CSV-Datei als Eingabe benutzt und ein Bündel aus Ausgabe, d. h. ein in Workfront erstelltes Projekt. Die Projekt-ID des erstellten Projekts wird mit dem Ausgabe-Bündel angezeigt.
+   + Sie werden sehen, dass 20 Vorgänge ausgeführt wurden. Für jeden Vorgang wurde ein Paket, d. h. eine Zeile, aus der CSV-Datei als Eingabe benutzt und ein Paket aus Ausgabe, d. h. ein in Workfront erstelltes Projekt. Die Projekt-ID des erstellten Projekts wird mit dem Ausgabepaket angezeigt.
 
    ![Ursprüngliches Szenario-Design Bild 13](../12-exercises/assets/initial-scenario-design-13.png)
 

@@ -11,24 +11,26 @@ jira: KT-11044
 thumbnail: KT11044.png
 recommendations: noDisplay,catalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
+autotag-review: '2026-05-06T16:42:16.496Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:42:16.496Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 361
+source-wordcount: '361'
 ht-degree: 100%
-
 ---
-
 # Übung zu Routing-Mustern
 
 Verbessern Sie Ihr Konzept des Routing und der Fallback-Routen, ohne dass Sie wirklich mit anderen APIs zu tun haben.
@@ -56,14 +58,14 @@ Verwenden Sie das Modul „Variable festlegen“, um eine Zahl über mehrere Pfa
 
    ![Routing-Muster Bild 4](../12-exercises/assets/routing-patterns-walkthrough-4.png)
 
-1. Klicken Sie einmal auf Ausführen und beobachten Sie, wie das Bündel den Pfad „Weniger als 100“ durchläuft.
+1. Klicken Sie einmal auf Ausführen und beobachten Sie, wie das Paket den Pfad „Weniger als 100“ durchläuft.
 1. Ändern Sie dann das Feld des Moduls „Variable einrichten“ auf 950 und führen Sie es noch einmal aus. Sehen Sie sich an, wie es den zweiten Pfad herunterfährt.
 1. Klicken Sie auf den Router und fügen Sie einen weiteren Pfad hinzu. Fügen Sie das Werkzeugmodul für die Funktion „Inkrementieren“ hinzu. Klicken Sie für den Filter auf das Kontrollkästchen „Die Fallback-Route“. Beachten Sie, wie sich der Pfeil, der auf diesen Pfad zeigt, zu einem Caret ändert, was angibt, dass es sich um die Fallback-Route handelt.
 
    ![Routing-Muster Bild 5](../12-exercises/assets/routing-patterns-walkthrough-5.png)
 
-1. Ändern Sie die Nummer „Variable einrichten“ auf 9500 und führen Sie einmal aus. Da die Zahl weder weniger als 100 noch weniger als 1000 beträgt, durchläuft das Bündel die Fallback-Route.
+1. Ändern Sie die Nummer „Variable einrichten“ auf 9500 und führen Sie einmal aus. Da die Zahl weder weniger als 100 noch weniger als 1000 beträgt, durchläuft das Paket die Fallback-Route.
 
-Wenn Sie einen weiteren Pfad mit einem Werkzeugmodul der Funktion „Inkrementieren“ hinzufügen, aber keinen Filter setzen, was passiert dann, wenn Sie erneut auf „Ausführen“ klicken? Wird ein Bündel jemals die Fallback-Route entlang gehen, wobei die vierte Route hinzugefügt wird?
+Wenn Sie einen weiteren Pfad mit einem Werkzeugmodul der Funktion „Inkrementieren“ hinzufügen, aber keinen Filter setzen, was passiert dann, wenn Sie erneut auf „Ausführen“ klicken? Wird ein Paket jemals die Fallback-Route entlang gehen, wobei die vierte Route hinzugefügt wird?
 
-+ Nein, da ohne Filtersatz jedes Bündel immer diesen Pfad anstelle der Fallback-Route durchläuft.
++ Nein, da ohne Filtersatz jedes Paket immer diesen Pfad anstelle der Fallback-Route durchläuft.
