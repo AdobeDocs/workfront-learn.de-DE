@@ -1,6 +1,6 @@
 ---
 title: Umwandeln eines Dokuments in einen Korrekturabzug
-description: Erfahren Sie, wie Sie einen Korrekturabzug für ein Dokument erstellen, das bereits in [!DNL  Workfront] vorhanden ist, einen Workflow zu einem Korrekturabzug hinzufügen und einen Workflow hinzufügen oder bearbeiten, nachdem ein Korrekturabzug erstellt wurde.
+description: Erfahren Sie, wie Sie einen Korrekturabzug für ein Dokument erstellen, das bereits in [!DNL &#x200B; Workfront] vorhanden ist, einen Workflow zu einem Korrekturabzug hinzufügen und einen Workflow hinzufügen oder bearbeiten, nachdem ein Korrekturabzug erstellt wurde.
 activity: use
 feature: Workfront Proof
 type: Tutorial

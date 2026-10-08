@@ -1,6 +1,6 @@
 ---
 title: Anzeigen und Vergleichen von Korrekturabzugsversionen
-description: Erfahren Sie, wie Sie Korrekturabzugsversionen in [!DNL  Workfront] öffnen, identifizieren, markieren, kommentieren und vergleichen.
+description: Erfahren Sie, wie Sie Korrekturabzugsversionen in [!DNL &#x200B; Workfront] öffnen, identifizieren, markieren, kommentieren und vergleichen.
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Hochladen eines Korrekturabzugs eines Videos
-description: Erfahren Sie, wie Sie in [!DNL  Workfront] ein Video für das Proofing hochladen.
+description: Erfahren Sie, wie Sie in [!DNL &#x200B; Workfront] ein Video für das Proofing hochladen.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu E-Mail-Warnhinweisen und Benachrichtigungen zu Korrekturabzügen
-description: Machen Sie sich mit dem Unterschied zwischen E-Mail-Warnungen und Korrekturabzugs-Benachrichtigungen in [!DNL  Workfront] vertraut.
+description: Machen Sie sich mit dem Unterschied zwischen E-Mail-Warnungen und Korrekturabzugs-Benachrichtigungen in [!DNL &#x200B; Workfront] vertraut.
 feature: Workfront Proof
 type: Tutorial
 role: User

@@ -1,6 +1,6 @@
 ---
 title: Wer lädt die Korrekturabzugsversionen hoch?
-description: Die Person, die für das Hochladen der Korrekturabzugsversionen in [!DNL  Workfront] verantwortlich ist, kann variieren. Lernen Sie von gängigen Anwendungsfällen, wie das ideale Setup für Ihr Unternehmen ermittelt werden kann.
+description: Die Person, die für das Hochladen der Korrekturabzugsversionen in [!DNL &#x200B; Workfront] verantwortlich ist, kann variieren. Lernen Sie von gängigen Anwendungsfällen, wie das ideale Setup für Ihr Unternehmen ermittelt werden kann.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

@@ -1,6 +1,6 @@
 ---
 title: Einstellungen für Korrekturabzugsbenutzende
-description: Erfahren Sie, wie Sie bestimmen, welche [!DNL  Workfront] Benutzer eine Proofing-Lizenz erhalten, und dann die Benutzereinstellungen sowohl in den [!DNL Workfront]- als auch in den Backend-Einstellungen anpassen.
+description: Erfahren Sie, wie Sie bestimmen, welche [!DNL &#x200B; Workfront] Benutzer eine Proofing-Lizenz erhalten, und dann die Benutzereinstellungen sowohl in den [!DNL Workfront]- als auch in den Backend-Einstellungen anpassen.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -36,13 +36,13 @@ ht-degree: 81%
 ---
 # Einstellungen für Korrekturabzugsbenutzende
 
-Bevor Sie mit der Erstellung von Benutzerinnen und Benutzern in [!DNL  Workfront] beginnen, sollten Sie Ihre globalen Einstellungen für [!DNL Workfront] und das Korrekturabzugssystem abgeschlossen haben. Einige dieser Einstellungen gelten für die Benutzerprofile, sobald sie erstellt werden. Wenn Sie diese Einstellungen jedoch nicht vor der Erstellung eines Benutzers bzw. einer Benutzerin festgelegt haben, können Sie sie in jedem Benutzerprofil bearbeiten.
+Bevor Sie mit der Erstellung von Benutzerinnen und Benutzern in [!DNL &#x200B; Workfront] beginnen, sollten Sie Ihre globalen Einstellungen für [!DNL Workfront] und das Korrekturabzugssystem abgeschlossen haben. Einige dieser Einstellungen gelten für die Benutzerprofile, sobald sie erstellt werden. Wenn Sie diese Einstellungen jedoch nicht vor der Erstellung eines Benutzers bzw. einer Benutzerin festgelegt haben, können Sie sie in jedem Benutzerprofil bearbeiten.
 
 
 In diesem Video lernen Sie Folgendes:
 
 * Bestimmen, welche Benutzenden eine Korrekturabzugs-Lizenz erhalten
-* Anpassen der Korrekturabzugs-Benutzereinstellungen in [!DNL  Workfront]
+* Anpassen der Korrekturabzugs-Benutzereinstellungen in [!DNL &#x200B; Workfront]
 * Anpassen der Korrekturabzugs-Benutzereinstellungen in der Backend-Einrichtung für das Proofing
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)

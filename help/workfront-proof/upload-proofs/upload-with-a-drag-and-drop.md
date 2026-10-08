@@ -1,6 +1,6 @@
 ---
 title: Hochladen per Drag-and-Drop
-description: Erfahren Sie mehr über die Vorteile und Einschränkungen beim Hochladen von Dateien in [!DNL  Workfront] per Drag-and-Drop.
+description: Erfahren Sie mehr über die Vorteile und Einschränkungen beim Hochladen von Dateien in [!DNL &#x200B; Workfront] per Drag-and-Drop.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -35,10 +35,10 @@ ht-degree: 92%
 
 Sie können eine Datei in [!DNL Workfront] hochladen, indem Sie sie per Drag-and-Drop direkt in den Abschnitt [!UICONTROL Dokumente] ziehen. Dies ist eine schnelle Möglichkeit, einen Nachweis hochzuladen. Sie können jedoch nicht gleichzeitig einen Korrekturabzug-Workflow zuweisen.
 
-![Ein Bild des Bereichs [!UICONTROL Dokumente] in einem [!DNL  Workfront]-Projekt mit dem Cursor über der Dokumentenliste und der angezeigten Meldung [!UICONTROL Dokumente hierher ziehen und ablegen].](assets/drag-and-drop-1.png)
+![Ein Bild des Bereichs [!UICONTROL Dokumente] in einem [!DNL &#x200B; Workfront]-Projekt mit dem Cursor über der Dokumentenliste und der angezeigten Meldung [!UICONTROL Dokumente hierher ziehen und ablegen].](assets/drag-and-drop-1.png)
 
 Für einige Kundinnen und Kunden von [!DNL Workfront] ist dies der normale Korrekturabzug-Workflow. Kreative Designerinnen und Designer oder Team-Mitglieder laden die Datei hoch, aber es liegt an Korrekturabzugs- oder Projekt-Verantwortlichen, den Korrekturabzug-Workflow zuzuweisen, damit die richtigen Empfängerinnen und Empfänger die Arbeit überprüfen können.
 
 Je nach den Einstellungen Ihres [!DNL Workfront]-Systems kann es vorkommen, dass beim Hochladen mit Drag-and-Drop kein Nachweis erstellt wird. Wenn dies der Fall ist, müssen Sie den Korrekturabzug generieren und einen Workflow zuweisen, indem Sie die Option [!UICONTROL Korrekturabzug generieren] und dann [!UICONTROL Erweitert] auswählen. Dort können Sie Ihren Korrekturabzug-Workflow einrichten.
 
-![Ein Bild des Bereichs [!UICONTROL Dokumente] in einem [!DNL  Workfront]-Projekt mit hervorgehobener Option [!UICONTROL Korrekturabzug generieren].](assets/drag-and-drop-2.png)
+![Ein Bild des Bereichs [!UICONTROL Dokumente] in einem [!DNL &#x200B; Workfront]-Projekt mit hervorgehobener Option [!UICONTROL Korrekturabzug generieren].](assets/drag-and-drop-2.png)

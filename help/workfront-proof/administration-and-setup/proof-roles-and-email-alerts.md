@@ -1,6 +1,6 @@
 ---
 title: Korrekturabzugsrollen und E-Mail-Warnhinweise
-description: Erfahren Sie, wie Sie geeignete Korrekturabzug-Rollen und E-Mail-Warnungen aktivieren, damit die Empfänger von Korrekturabzügen Zugriff auf Korrekturabzüge und Einblicke in die in [!DNL  Workfront] durchgeführten Arbeiten haben.
+description: Erfahren Sie, wie Sie geeignete Korrekturabzug-Rollen und E-Mail-Warnungen aktivieren, damit die Empfänger von Korrekturabzügen Zugriff auf Korrekturabzüge und Einblicke in die in [!DNL &#x200B; Workfront] durchgeführten Arbeiten haben.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

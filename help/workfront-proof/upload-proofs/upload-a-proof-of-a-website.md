@@ -1,6 +1,6 @@
 ---
 title: Hochladen eines Korrekturabzugs einer Website
-description: Erfahren Sie, wie Sie in [!DNL  Workfront] eine Website als statischen und interaktiven Korrekturabzug hochladen.
+description: Erfahren Sie, wie Sie in [!DNL &#x200B; Workfront] eine Website als statischen und interaktiven Korrekturabzug hochladen.
 activity: use
 feature: Workfront Proof
 type: Tutorial

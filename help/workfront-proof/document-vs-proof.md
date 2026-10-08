@@ -1,6 +1,6 @@
 ---
 title: Der Unterschied zwischen einem Dokument und einem Korrekturabzug
-description: Lernen Sie in [!DNL  Workfront] den Unterschied zwischen einem Dokument und einem Korrekturabzug kennen.
+description: Lernen Sie in [!DNL &#x200B; Workfront] den Unterschied zwischen einem Dokument und einem Korrekturabzug kennen.
 activity: use
 feature: Workfront Proof
 type: Tutorial

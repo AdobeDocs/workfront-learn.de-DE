@@ -1,6 +1,6 @@
 ---
 title: Bearbeiten einer automatisierten Workflow-Vorlage
-description: Erfahren Sie, wie Sie in [!DNL  Workfront] Änderungen an einer vorhandenen Vorlage für einen automatisierten Proofing-Workflow vornehmen können.
+description: Erfahren Sie, wie Sie in [!DNL &#x200B; Workfront] Änderungen an einer vorhandenen Vorlage für einen automatisierten Proofing-Workflow vornehmen können.
 activity: use
 feature: Workfront Proof
 type: Tutorial

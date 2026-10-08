@@ -1,6 +1,6 @@
 ---
 title: Hochladen einer Korrekturabzugsversion
-description: Erfahren Sie, wie Sie eine neue Version eines Korrekturabzugs hochladen und einen Proofing-Workflow auf die Version in [!DNL  Workfront] anwenden.
+description: Erfahren Sie, wie Sie eine neue Version eines Korrekturabzugs hochladen und einen Proofing-Workflow auf die Version in [!DNL &#x200B; Workfront] anwenden.
 activity: use
 feature: Workfront Proof
 type: Tutorial

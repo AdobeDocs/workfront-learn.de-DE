@@ -1,6 +1,6 @@
 ---
 title: Bearbeiten eines Korrekturabzug-Workflows
-description: Erfahren Sie, wie Sie in [!DNL  Workfront] eine Korrekturabzugsfrist aktualisieren, Benutzer zu einem vorhandenen Workflow hinzufügen und einen vorhandenen Workflow zu einem automatisierten Workflow wechseln.
+description: Erfahren Sie, wie Sie in [!DNL &#x200B; Workfront] eine Korrekturabzugsfrist aktualisieren, Benutzer zu einem vorhandenen Workflow hinzufügen und einen vorhandenen Workflow zu einem automatisierten Workflow wechseln.
 activity: use
 feature: Workfront Proof
 type: Tutorial

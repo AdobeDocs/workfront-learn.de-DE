@@ -1,6 +1,6 @@
 ---
 title: Kombinieren mehrerer Dateien zu einem einzigen Korrekturabzug
-description: Erfahren Sie, wie Sie den Proofing-Prozess optimieren können, indem Sie in [!DNL  Workfront] mehrere Dateien zu einem einzigen Korrekturabzug kombinieren.
+description: Erfahren Sie, wie Sie den Proofing-Prozess optimieren können, indem Sie in [!DNL &#x200B; Workfront] mehrere Dateien zu einem einzigen Korrekturabzug kombinieren.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

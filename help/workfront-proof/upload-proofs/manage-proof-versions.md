@@ -1,6 +1,6 @@
 ---
 title: Verwalten von Korrekturabzugsversionen
-description: Erfahren Sie, wie Sie Details zum Zeitpunkt des Hochladens eines Korrekturabzugs finden, alle Versionen eines Korrekturabzugs herunterladen und eine Korrekturabzugsversion in [!DNL  Workfront] löschen können.
+description: Erfahren Sie, wie Sie Details zum Zeitpunkt des Hochladens eines Korrekturabzugs finden, alle Versionen eines Korrekturabzugs herunterladen und eine Korrekturabzugsversion in [!DNL &#x200B; Workfront] löschen können.
 activity: use
 feature: Workfront Proof
 type: Tutorial

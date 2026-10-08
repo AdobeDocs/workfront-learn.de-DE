@@ -39,7 +39,7 @@ ht-degree: 91%
 
 In diesem Video lernen Sie Folgendes:
 
-* Erstellen einer automatischen Workflow-Vorlage für das Proofing in [!DNL  Workfront]
+* Erstellen einer automatischen Workflow-Vorlage für das Proofing in [!DNL &#x200B; Workfront]
 * Zuweisen von Empfängerinnen und Empfängern für Korrekturabzüge
 * Festlegen einer Frist für den Prüf- und Genehmigungsvorgang
 * Freigeben der automatisierten Workflow-Vorlage für andere
