@@ -1,6 +1,6 @@
 ---
 title: Wer lädt die Korrekturabzugsversionen hoch?
-description: Die Person, die für das Hochladen von Korrekturabzugsversionen in  [!DNL  Workfront]  zuständig ist, kann unterschiedlich sein. Lernen Sie von gängigen Anwendungsfällen, wie das ideale Setup für Ihr Unternehmen ermittelt werden kann.
+description: Die Person, die für das Hochladen der Korrekturabzugsversionen in [!DNL  Workfront] verantwortlich ist, kann variieren. Lernen Sie von gängigen Anwendungsfällen, wie das ideale Setup für Ihr Unternehmen ermittelt werden kann.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -13,21 +13,24 @@ exl-id: e49ce586-ff9e-459c-967f-f974791612cb
 autotag-review: '2026-05-05T19:44:32.928Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 189
-ht-degree: 100%
-
+source-wordcount: '190'
+ht-degree: 94%
 ---
-
 # Wer lädt die Korrekturabzugsversionen hoch?
 
 Die Person, die für das Hochladen von Versionen eines Korrekturabzugs verantwortlich ist, kann von Abteilung zu Abteilung oder von Team zu Team unterschiedlich sein. Es kann sogar vom Typ des Korrekturabzugs selbst abhängen.
