@@ -1,6 +1,6 @@
 ---
 title: Bearbeiten einer automatisierten Workflow-Vorlage
-description: Erfahren Sie, wie Sie in [!DNL  Workfront]Änderungen an einer bestehenden Vorlage für einen automatisierten Proofing-Workflow vornehmen können.
+description: Erfahren Sie, wie Sie in [!DNL &#x200B; Workfront] Änderungen an einer vorhandenen Vorlage für einen automatisierten Proofing-Workflow vornehmen können.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,25 +12,29 @@ last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
+autotag-review: '2026-05-05T20:06:38.512Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:06:38.512Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 578
-ht-degree: 100%
-
+source-wordcount: '578'
+ht-degree: 97%
 ---
-
 # Bearbeiten einer automatisierten Workflow-Vorlage
 
 Wenn Prüf- und Genehmigungsprozesse für Korrekturabzüge präzisiert oder organisatorische Änderungen vorgenommen werden, sollten die automatisierten Workflow-Vorlagen aktualisiert werden, um die aktuellen Abläufe in Ihren Teams widerzuspiegeln, die Workfront verwenden.
@@ -65,8 +69,8 @@ Im Folgenden finden Sie eine Übersicht über die Änderungen, die Sie an der Ko
 * Klicken Sie in der Empfängerliste in die Felder [!UICONTROL Rolle] oder [!UICONTROL E-Mail-Warnmeldungen], um eine andere Option auszuwählen.
 * Gehen Sie auf das Drei-Punkte-Menü ganz rechts neben dem Namen einer Empfängerin bzw. eines Empfängers, um sie bzw. ihn aus der Liste zu löschen, zur Hauptentscheidungsperson für diese Workflow-Phase zu machen oder die Informationen für Korrekturabzug-Rolle und E-Mail-Warnmeldungen zu bearbeiten.
 * Sie haben zwei Möglichkeiten, Empfängerinnen und Empfänger in die Liste aufzunehmen.
-   1. Gehen Sie in der oberen rechten Ecke im Abschnitt der jeweiligen Phase zum Menü [!UICONTROL Mehr] und wählen Sie [!UICONTROL Personen zur Phase hinzufügen] aus. Sobald Sie das Fenster [!UICONTROL Personen zur Phase hinzufügen] geöffnet haben, klicken Sie auf die Phase, zu der Sie eine Person hinzufügen möchten. Geben Sie dann den Namen oder die E-Mail-Adresse der Person in die Empfängerliste ein und weisen Sie ihr eine Korrekturabzug-Rolle und eine E-Mail-Warnmeldung zu. Klicken Sie auf die Schaltfläche [!UICONTROL Personen hinzufügen], wenn Sie fertig sind.
-   1. Wählen Sie oben im Bereich [!UICONTROL Workflow] die Option [!UICONTROL Personen zum Schritt hinzufügen] aus.
+  1. Gehen Sie in der oberen rechten Ecke im Abschnitt der jeweiligen Phase zum Menü [!UICONTROL Mehr] und wählen Sie [!UICONTROL Personen zur Phase hinzufügen] aus. Sobald Sie das Fenster [!UICONTROL Personen zur Phase hinzufügen] geöffnet haben, klicken Sie auf die Phase, zu der Sie eine Person hinzufügen möchten. Geben Sie dann den Namen oder die E-Mail-Adresse der Person in die Empfängerliste ein und weisen Sie ihr eine Korrekturabzug-Rolle und eine E-Mail-Warnmeldung zu. Klicken Sie auf die Schaltfläche [!UICONTROL Personen hinzufügen], wenn Sie fertig sind.
+  1. Wählen Sie oben im Bereich [!UICONTROL Workflow] die Option [!UICONTROL Personen zum Schritt hinzufügen] aus.
 
 ## Freigeben von Vorlagen
 

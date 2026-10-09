@@ -9,24 +9,27 @@ role: Admin
 level: Intermediate
 jira: KT-10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
+autotag-review: '2026-05-05T20:32:27.177Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:32:27.177Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 411
+source-wordcount: '411'
 ht-degree: 100%
-
 ---
-
 # Analysieren und Planen einer [!UICONTROL Workfront DAM]-Strategie
 
 Bevor Sie mit der Einrichtung von [!UICONTROL Workfront DAM] für Ihr Unternehmen beginnen, ist es wichtig, dass Sie eine Unternehmensstrategie und eine Metadaten-/Schlüsselwortstrategie festlegen.
@@ -41,13 +44,13 @@ Analysieren Sie Ihre Workflow-Prozesse sorgfältig, damit Sie Ihre [!UICONTROL D
 * **Schlüsselwort-Taxonomie** – Schlüsselwörter sind beschreibende Wörter zu einem Asset. Eine Taxonomie ist eine vordefinierte Liste von Begriffen, aus der die Benutzenden auswählen können, um Schlüsselwörter zu Assets hinzuzufügen. Eine Taxonomie ist der Schlüssel zur Kontrolle und Konsistenz Ihrer Bemühungen im Bereich der Schlüsselwörter.
 * **Workflow-Prozesse** – Ein weiterer wichtiger Schritt für den erfolgreichen Einsatz von [!UICONTROL Workfront DAM] ist die Einrichtung von Workflow-Prozessen in Ihrem Unternehmen. Dabei geht es nicht nur darum, wer Assets hochlädt. Zu berücksichtigende Punkte (diese Liste ist nicht inklusiv):
 
-   * In welche Ordner sollen Assets hochgeladen werden?
-   * Welche Metadatenfelder sind für jedes Asset erforderlich?
-   * Werden Metadaten vor oder nach dem Hochladen hinzugefügt?
-   * Wer kann Assets hochladen?
-   * Wer kann Metadaten hinzufügen?
-   * Ist die Verwendung einer Schlüsselwort-Taxonomie erforderlich? Oder können die Benutzenden zusätzliche Schlüsselwörter hinzufügen?
-   * Was sind die Best Practices zum Hinzufügen von Metadaten? Wie wird das Datum formatiert? Geben Sie den Firmennamen oder den Kundennamen ein?
-   * Wie erhalten neue Benutzende ein [!UICONTROL Workfront DAM]-Login?
+  * In welche Ordner sollen Assets hochgeladen werden?
+  * Welche Metadatenfelder sind für jedes Asset erforderlich?
+  * Werden Metadaten vor oder nach dem Hochladen hinzugefügt?
+  * Wer kann Assets hochladen?
+  * Wer kann Metadaten hinzufügen?
+  * Ist die Verwendung einer Schlüsselwort-Taxonomie erforderlich? Oder können die Benutzenden zusätzliche Schlüsselwörter hinzufügen?
+  * Was sind die Best Practices zum Hinzufügen von Metadaten? Wie wird das Datum formatiert? Geben Sie den Firmennamen oder den Kundennamen ein?
+  * Wie erhalten neue Benutzende ein [!UICONTROL Workfront DAM]-Login?
 
 Für den langfristigen Erfolg ist die Planung entscheidend. Planen Sie die Systemstruktur vor der Einrichtung, planen Sie das Metadatenschema, planen Sie die Schulung der Endbenutzenden und planen Sie die kontinuierliche Pflege.

@@ -1,6 +1,6 @@
 ---
 title: Verfolgen des Korrekturabzugfortschritts
-description: Erfahren Sie, wie Sie [!UICONTROL SOCD]-Indikatoren, den Korrekturabzugsfortschritt und Berichte verwenden können, um den Fortschritt eines Korrekturabzugs in [!DNL  Workfront]zu verfolgen.
+description: Erfahren Sie, wie Sie [!UICONTROL SOCD]-Indikatoren, den Korrekturabzugsfortschritt und Berichte verwenden können, um den Fortschritt eines Korrekturabzugs in [!DNL &#x200B; Workfront] zu verfolgen.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,27 @@ level: Beginner
 thumbnail: track-proof-progress.png
 jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
+autotag-review: '2026-05-05T19:53:35.724Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:53:35.724Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 770
-ht-degree: 100%
-
+source-wordcount: '770'
+ht-degree: 97%
 ---
-
 # Verfolgen des Korrekturabzugfortschritts
 
 Als Projekt-Managerin bzw. -Manager, Korrekturabzugs-Managerin bzw. -Manager oder sonstige verantwortliche Person im Überprüfungs- und Genehmigungsprozess sollten Sie den Fortschritt Ihrer Korrekturabzüge verfolgen. Sie können dies mit [!DNL Workfront's]integrierten **Korrekturabzugs-Fortschrittsindikatoren** auf der Seite [!UICONTROL Dokumente] oder durch das Schreiben benutzerdefinierter Berichte vornehmen.
@@ -38,7 +41,7 @@ Um den Korrekturabzugsfortschritt in [!DNL Workfront] anzuzeigen, müssen Sie ü
 
 Über die [!UICONTROL SOCD]-Symbole in der Liste [!UICONTROL Dokumente] erhalten Sie einen Überblick über den Fortschritt des Überprüfung- und Genehmigungsprozesses des Korrekturabzugs. Diese Symbole kennzeichnen bestimmte Aktionen, die mit dem Korrekturabzug durchgeführt werden.
 
-![Ein Bild der Liste [!UICONTROL Dokumente] in einem [!DNL  Workfront]-Projekt, wo die [!UICONTROL SOCD]-Symbolen hervorgehoben sind.](assets/manage-proofs-socd.png)
+![Ein Bild der Liste [!UICONTROL Dokumente] in einem [!DNL &#x200B; Workfront]-Projekt, wo die [!UICONTROL SOCD]-Symbolen hervorgehoben sind.](assets/manage-proofs-socd.png)
 
 Die Symbole zeigen die Arbeit an einem Korrekturabzug von dem Zeitpunkt an, an dem Sie den Korrekturabzug an die Empfänger bzw. Empfängerinnen senden, bis zu dem Zeitpunkt, an dem diese eine Entscheidung über den Korrekturabzug treffen.
 
@@ -70,7 +73,7 @@ Wenn Sie wissen möchten, wie weit die einzelnen Empfängerinnen bzw. Empfänger
 
 Der Status des Korrekturabzugs basiert auf dem Status der Korrekturabzugs-Empfangenden des Schritts. Der gesamte Korrekturabzugs-Status ist auf der Seite [!UICONTROL Dokumente] rechts neben den [!UICONTROL SOCD]-Indikatoren ersichtlich, sodass Sie leicht erkennen können, ob Sie eine Entscheidung über den Korrekturabzug getroffen haben.
 
-![Ein Bild der Liste [!UICONTROL Dokumente] in einem [!DNL  Workfront]-Projekt, in dem der gesamte Korrekturabzugs-Status hervorgehoben ist.](assets/manage-proofs-overall-status.png)
+![Ein Bild der Liste [!UICONTROL Dokumente] in einem [!DNL &#x200B; Workfront]-Projekt, in dem der gesamte Korrekturabzugs-Status hervorgehoben ist.](assets/manage-proofs-overall-status.png)
 
 Dieser Korrekturabzugs-Status zeigt den Gesamtstatus des Korrekturabzugs an. Wenn zum Beispiel zwei Empfänger und/oder Empfängerinnen den Korrekturabzug genehmigt haben, werden ihre individuellen Status als [!UICONTROL Genehmigt] angezeigt. Die dritte Person hat jedoch noch keine Entscheidung getroffen, sodass deren Status [!UICONTROL Ausstehend] lautet. Daher wird der Gesamtstatus als [!UICONTROL Ausstehend] angezeigt.
 
@@ -90,11 +93,11 @@ Sie können die Berichterstellungsfunktionen von [!DNL Workfront's] auch nutzen,
 
 Ein Bericht über die Genehmigung von Korrekturabzügen hilft Ihnen, ausstehende Genehmigungen nachzuverfolgen, um sicherzustellen, dass die Fristen eingehalten werden.
 
-![Ein Bild eines Korrekturabzugs-Genehmigungsberichts in [!DNL  Workfront].](assets/proof-approval-report.png)
+![Ein Bild eines Korrekturabzugs-Genehmigungsberichts in [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Mit einem Bericht über die Dokumentversion können Sie Korrekturabzugsversionen verwalten und verfolgen.
 
-![Ein Bild eines Dokumentversionsberichts in [!DNL  Workfront].](assets/document-version-report.png)
+![Ein Bild eines Dokumentversionsberichts in [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 Wir empfehlen, mit Ihrer [!DNL Workfront]-Beraterin bzw. Ihrem -Berater zusammenzuarbeiten, um Berichte zu erstellen, die den Anforderungen Ihres Unternehmens entsprechen. Für einige der Berichte müssen Sie mit der Berichterstellung im [!DNL Workfront's]-Textmodus vertraut sein.
 
