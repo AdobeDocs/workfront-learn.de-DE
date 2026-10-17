@@ -12,7 +12,7 @@ Sie werden Folgendes lernen:
 * Freigeben einer Vorlage für andere Benutzende
 * Freigeben von Projekten, die mit einer Vorlage erstellt wurden
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3504449/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 ## Empfohlene Tutorials zu diesem Thema
 
