@@ -1,6 +1,6 @@
 ---
-title: Informationen zur [!UICONTROL Gantt]-Ansicht
-description: Lernen Sie, wie Sie mithilfe des Gantt-Diagramms Ihre Aufgaben und Projekte auf einer hohen Ebene mit einer überraschenden Menge an Details anzeigen können.
+title: Erkunden der [!UICONTROL Gantt]-Ansicht für das Projekt-Management
+description: Maximieren Sie die Projekteffizienz mit Gantt-Diagrammen, die eine Gesamtübersicht, Tracking des Fortschritts, Meilenstein-Management, Erkenntnisse zu Vorgängern und anpassbare Optionen zur Optimierung des Aufgaben- und Ressourcen-Managements bieten.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:26:09.573Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 32
-ht-degree: 100%
-
+source-wordcount: '39'
+ht-degree: 64%
 ---
-
-# Grundlegendes zur [!UICONTROL Gantt]-Ansicht
+# Erkunden der [!UICONTROL Gantt]-Ansicht für das Projekt-Management
 
 {{$include /help/_includes/understand-the-gantt-view.md}}
