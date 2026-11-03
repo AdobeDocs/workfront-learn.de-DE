@@ -1,6 +1,6 @@
 ---
-title: Suchen und Verwalten von Anfragen
-description: Erfahren Sie, wie Sie mithilfe von Dashboards, der [!UICONTROL Startseite], dem Bereich [!UICONTROL Anforderungen] und der Seite [!UICONTROL Teams] nach eingehenden Anfragen suchen können, die über eine Anfrage-Warteschlange gestellt wurden.
+title: Effizientes Suchen und Verwalten von Anfragen
+description: Erfahren Sie, wie Sie zur effektiven Verwaltung von Anfragen Filter verwenden, Team-Zuweisungen verwalten und benutzerdefinierte Berichte sowie Dashboards erstellen und was „Meine“ in verschiedenen Kontexten bedeutet.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-08-10T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 72%
 ---
-# Suchen und Verwalten von Anfragen
+# Effizientes Suchen und Verwalten von Anfragen
 
 {{$include /help/_includes/find-requests.md}}
