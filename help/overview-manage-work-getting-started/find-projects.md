@@ -1,6 +1,6 @@
 ---
-title: Suchen von Projekten
-description: Erfahren Sie, wie Sie schnell und einfach Projekte suchen.
+title: Projekte effizient finden
+description: Vereinfachen Sie das Projekt-Management mit Filtern, Such-Tools, der Liste „Letzte“, Favoriten, angehefteten Projekten und benutzerdefinierten Berichten oder Dashboards für einen schnellen und klar organisierten Zugriff auf Projekte.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
@@ -32,11 +32,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '13'
-ht-degree: 100%
+source-wordcount: '30'
+ht-degree: 80%
 ---
-# Suchen von Projekten
+# Projekte effizient finden
 
 {{$include /help/_includes/find-projects.md}}
+
