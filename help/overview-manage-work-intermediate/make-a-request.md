@@ -1,6 +1,6 @@
 ---
-title: Anfrage stellen
-description: Erfahren Sie, wie Sie den Bereich [!UICONTROL Anfragen] finden und eine Anfrage stellen können. Dann erfahren Sie, wie Sie eingereichte Anfragen und Entwurfsanfragen einsehen können.
+title: Erstellen und Verwalten von Anfragen in Workfront
+description: Verbessern Sie die Effizienz in Workfront durch optimierte Anfrageerstellung, anpassbare Workflows, automatisches Speichern von Entwürfen, Tools für Tracking und Filterung sowie die Möglichkeit, Anfragen zu kopieren und wiederzuverwenden.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 hide: true
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 66%
 ---
-# Anfrage stellen
+# Erstellen und Verwalten von Anfragen in Workfront
 
 {{$include /help/_includes/make-a-request.md}}

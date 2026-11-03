@@ -1,6 +1,6 @@
 ---
-title: Konvertieren eines Problems/einer Anfrage in ein Projekt
-description: Erfahren Sie, wie Sie die Konvertierung von einer Anfrage in ein Projekt initiieren, die entsprechende Projektvorlage auswählen und die Konvertierung abschließen.
+title: Konvertieren eines Problems oder einer Anfrage in ein Projekt
+description: Optimieren Sie das Projekt-Management in Workfront, indem Sie Probleme mit Vorlagen in Projekte konvertieren, Projektdetails anpassen, Optionen zur Problemlösung verwalten und Sichtbarkeit sowie Zugriff für nahtlose Workflows sicherstellen.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+last-substantial-update: '2026-08-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 hide: true
 doc-type: video
@@ -31,13 +32,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:20:37.203Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 33
-ht-degree: 100%
-
+source-wordcount: '43'
+ht-degree: 62%
 ---
-
-# Konvertieren eines Problems/einer Anfrage in ein Projekt
+# Konvertieren eines Problems oder einer Anfrage in ein Projekt
 
 {{$include /help/_includes/create-a-project-from-a-request.md}}
