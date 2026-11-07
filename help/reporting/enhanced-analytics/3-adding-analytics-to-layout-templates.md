@@ -50,6 +50,6 @@ Falls die Option dort nicht angezeigt wird, muss sie von System- oder Gruppenadm
 In diesem Video erfahren Sie, wie System- und Gruppenadmins Zugriff auf [!UICONTROL Analytics] in Workfront gewähren können.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3507905/?captions=ger&quality=12&learn=on&enablevpops=1)
 
 Jede Person mit einer Workfront-Lizenz (in [!UICONTROL Workfront Business]-Abos oder höher) kann auf [!UICONTROL Analytics] zugreifen, sobald es der ihr zugewiesenen Layout-Vorlage hinzugefügt wurde. Sie können die Projekte und Benutzerinformationen jedoch nur sehen, wenn Ihre Workfront-Zugriffsebene und die Freigabeberechtigungen in Bezug auf bestimmte Projekte und Benutzende dies zulassen.

@@ -56,4 +56,4 @@ ht-degree: 71%
 
 Erfahren Sie, wie Sie Timeline-Ansichten in der Workfront-Planung verwalten und anpassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3506106/?captions=ger&learn=on&enablevpops=1)
