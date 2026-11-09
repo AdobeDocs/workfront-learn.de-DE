@@ -32,4 +32,4 @@ Dieser Kurs richtet sich an Projekt-Managerinnen und -Manager, Planende sowie an
 
 In diesem Video erfahren Sie, wie Sie [!DNL &#x200B; Workfront]-Projekte mithilfe von Meilensteinen vorantreiben können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508022/?captions=ger&quality=12&learn=on&enablevpops=1)
