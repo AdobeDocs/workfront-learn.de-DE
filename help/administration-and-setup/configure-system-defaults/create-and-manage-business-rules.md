@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Geschäftsregeln erstellen und verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508031/?captions=ger&quality=12&learn=on&enablevpops=1)
